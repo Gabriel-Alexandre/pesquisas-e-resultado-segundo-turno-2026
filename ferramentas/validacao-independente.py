@@ -116,6 +116,25 @@ def main() -> None:
     a6 = v[(v.ano == 2006) & ~v.uf.isin(["ZZ", "VT"])]
     alck = a6[a6.partido == 45].groupby("turno").votos.sum()
     checks.append(("Alckmin teve menos votos no 2º turno de 2006 que no 1º", f"{int(alck[1])} e {int(alck[2])}", "precedente de troca direta", bool(alck[2] < alck[1])))
+    # rodada 5: a parte dos votos livres que o PT levou em 2022, pelo total nacional dos dois turnos (sem o painel de municípios)
+    a22 = v[(v.ano == 2022) & ~v.uf.isin(["ZZ", "VT"])].groupby(["turno", "partido"]).votos.sum()
+    g_pt, g_ad = a22[2][13] - a22[1][13], a22[2][22] - a22[1][22]
+    camp = {c["ano"]: c for c in R["normalidade"]["campo"]}
+    conf("parte do PT nos votos livres, 2022 (pontos)", 100 * g_pt / (g_pt + g_ad), camp[2022]["parte_do_pt_nos_livres_pct"], 0.5)
+    # rodada 5: a variação do comparecimento em 2026, pela soma dos municípios
+    m26 = pd.read_csv(RAIZ / "dados" / "derivados" / "presidente_municipio.csv")
+    m26 = m26[m26.uf != "zz"]
+    comp = {c["ano"]: c for c in R["normalidade"]["comparecimento"]}
+    conf("comparecimento subiu do 1º para o 2º turno, 2026 (pontos)",
+         100 * (m26.abstencao_1t.sum() / m26.eleitores_1t.sum() - m26.abstencao_2t.sum() / m26.eleitores_2t.sum()),
+         comp[2026]["comparecimento_variou_pontos"], 0.01)
+    # rodada 5: as viradas entre os 2º turnos com o líder perto de 50% (frente até 4 pontos e líder com 45% ou mais)
+    vc = pd.read_csv(RAIZ / "resultados" / "viradas_casos.csv").dropna(subset=["frente_1t", "virada"])
+    perto = vc[(vc.frente_1t <= 4) & (vc.lider_1t_pct >= 45)]
+    ch = R["normalidade"]["chance"]["historico"]
+    checks.append(("viradas com o líder perto de 50%", f"{int(perto.virada.sum())} de {len(perto)}",
+                   f"{ch['perto_de_50_viradas']} de {ch['perto_de_50_casos']}",
+                   int(perto.virada.sum()) == ch["perto_de_50_viradas"] and len(perto) == ch["perto_de_50_casos"]))
     out = RAIZ / "resultados" / "validacao_independente.csv"
     with open(out, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)

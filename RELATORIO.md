@@ -4,7 +4,75 @@ Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`
 
 ## A resposta curta
 
-**Antes da votação, a chance de o Lula vencer era de cerca de 39% (1 em 2,5).** Era a menos provável das duas, mas longe de impossível: um resultado desse tamanho acontece em quase 2 de cada 5 disputas parecidas. A chance de ele vencer **pela diferença que venceu** (3,57 pontos ou mais) era menor: perto de 20% pelas pesquisas, e nenhum dos 6 padrões do passado chega a ela.
+**Antes da votação, a chance de o Lula vencer era de cerca de 27% (1 em 3,7), refeita na rodada 5** (a rodada 2 dava 39%; as três correções estão abaixo). A ponta de baixo, tratando os três pilares como indícios independentes, dá 8% (1 em 12,0), e o mercado dava 24% na véspera. Vencer **pela diferença que venceu** (3,57 pontos ou mais) tinha perto de 13% (1 em 7,6).
+
+**Duas coisas de 2026 saem do padrão das eleições de 2002 a 2022, e uma não sai.** Saem: o candidato do PT levar 74% dos votos livres quando quem saiu era de direita ou de centro e apoiou o adversário, e o comparecimento subir 1,85 ponto do 1º para o 2º turno. Não sai: a virada se espalhar por quase todos os municípios, que é o que acontece sempre que a diferença anda muito no país.
+
+## Rodada 5: isso é normal?
+
+Pedido do autor: *"é normal, tendo em vista que os candidatos eram de direita, que a maior parte dos votos vá para o Lula? Nas outras eleições, isso aconteceu de verdade?"*, se é normal o comparecimento subir e a virada se espalhar, e se a chance de 39% considerou as pesquisas, o 1º turno e o crescimento *"com peso de forma correta"*. Cada resposta abaixo põe 2026 ao lado das 6 eleições anteriores, com a mesma conta.
+
+### 1. O eleitor de quem saiu ir para o PT quando quem saiu apoiou o adversário
+
+| Eleição | Quem saiu (os 3 maiores) e o que fez no 2º turno | Votos de quem saiu com apoio ao PT | Com apoio ao adversário | PT nos votos livres (saldo, conta exata) | Eleitores de quem saiu: PT e adversário (modelo nacional) | Para o PT (modelo regional) |
+|---|---|---|---|---|---|---|
+| 2002 | Anthony Garotinho (apoiou o PT); Ciro Gomes (apoiou o PT); Zé Maria (neutro ou nulo) | 98% | 0% | **49%** | 58% e 30% | 59% |
+| 2006 | Heloísa Helena (neutro ou nulo); Cristovam Buarque (neutro ou nulo) | 0% | 0% | **126%** | 48% e 23% | 77% |
+| 2010 | Marina Silva (neutro ou nulo); Plínio de Arruda Sampaio (neutro ou nulo) | 0% | 0% | **43%** | 37% e 42% | 49% |
+| 2014 | Marina Silva (apoiou o adversário); Luciana Genro (neutro ou nulo); Pastor Everaldo (apoiou o adversário) | 0% | 93% | **41%** | 34% e 56% | 44% |
+| 2018 | Ciro Gomes (neutro ou nulo); Geraldo Alckmin (neutro ou nulo); João Amoêdo (neutro ou nulo) | 6% | 0% | **65%** | 58% e 28% | 67% |
+| 2022 | Simone Tebet (apoiou o PT); Ciro Gomes (apoiou o PT); Soraya Thronicke (neutro ou nulo) | 86% | 0% | **30%** | 37% e 41% | 37% |
+| 2026 | Augusto Cury (apoiou o adversário); Renan Santos (neutro ou nulo); Ronaldo Caiado (apoiou o adversário) | 0% | 68% | **74%** | 47% e 40% | 71% |
+
+A posição de cada candidato, com o link da fonte, está em `dados/agentes/apoios_segundo_turno.csv` (27 de 28 com fonte; Zé Maria, 2002, sem fonte). A coluna do saldo é conta exata; as duas últimas são estimativas, porque o voto é secreto, e os dois modelos do projeto discordam entre si.
+
+**O que a tabela mostra:**
+- **Em 2026, 68% dos votos de quem saiu eram de candidatos que declararam apoio ao Flávio, nenhum declarou apoio ao Lula, e o Lula levou 74% de tudo o que estava livre.** Nas 6 eleições anteriores, o PT só passou de 60% dos votos livres em 2006 e 2018, quando os maiores eliminados eram da esquerda ou ficaram neutros.
+- **Nos anos em que quem saiu era de centro ou de direita (2010, 2014, 2022), o PT ficou com 30% a 43% dos votos livres.** Pelos dois modelos, o eleitor dos eliminados foi mais para o PT em 2026 do que em qualquer um desses anos: 47% contra 34% a 37% no modelo nacional, e 71% contra 37% a 49% no regional.
+- **O espelho é 2022.** 86% dos votos de quem saiu eram de Tebet e Ciro, que apoiaram o Lula, e o Bolsonaro levou 70% dos votos livres. O apoio declarado já não decidia para onde ia o eleitor livre em 2022; em 2026 ele também não decidiu, no sentido contrário.
+- **O que as pesquisas diziam desse eleitor:** entre Lula e Flávio, o de Cury dava 53% ao Lula, o de Renan 40% e o de Caiado 38% (média de 5 institutos cada). Se eles tivessem votado assim e quem voltou a votar tivesse se dividido como no próprio ano, o Flávio teria vencido por 2,66 milhões. O Lula venceu por 4,43 milhões: uma distância de 7,09 milhões, do mesmo tamanho do erro das pesquisas na diferença (5,2 pontos dos válidos, cerca de 6,43 milhões). **É o mesmo erro, visto de outro lugar: as pesquisas erraram justamente no eleitor que estava livre.**
+- 🔧 **Correção do que foi dito na rodada 3:** o "cerca de 6 milhões vieram dos eleitores dos outros candidatos" é o modelo regional. O modelo nacional, usado desde a rodada 1, dá 4,40 milhões. A parte que vem de quem saiu e a que vem de quem voltou a votar mudam conforme o modelo: **de 4,40 milhões a 6,56 milhões vieram dos eleitores dos outros candidatos**, e o resto, de quem voltou a votar ou tinha votado branco ou nulo. O total é exato; a divisão, não.
+
+**Veredito: não é normal.** É o resultado mais fora do padrão da série nesse quesito, junto com 2022 no sentido contrário. Pela lente do resultado legítimo, o espelho de 2022 mostra que o apoio declarado do candidato derrotado não leva o eleitor junto, e o erro das pesquisas do mesmo tamanho já aconteceu em segundos turnos de outros países (15 de 41 erraram a diferença por mais de 5,2 pontos). Pela lente da fraude, é exatamente nesse eleitor livre que um voto acrescentado apareceria. O que pesa contra ela, no dado por município: na regressão de cada ano, quem voltou a votar se dividiu quase igual entre os dois (51% e 45%, como em 2022), e o ganho do Lula aparece no país inteiro, sem bolsões. Seção a seção, é o projeto do vídeo 16.
+
+### 2. O comparecimento subir e a virada se espalhar
+
+| Eleição | Comparecimento do 1º para o 2º turno (pontos) | Municípios em que subiu | Diferença andou no país (pontos, a favor do PT) | Municípios que andaram no mesmo sentido | Desvio da virada entre municípios |
+|---|---|---|---|---|---|
+| 2002 | -2,72 | 282 (5%) | -0,7 | 69% | 13,37 |
+| 2006 | -2,24 | 112 (2%) | +14,7 | 100% | 5,26 |
+| 2010 | -3,38 | 131 (2%) | -2,2 | 72% | 5,61 |
+| 2014 | -1,71 | 415 (7%) | -4,7 | 75% | 7,00 |
+| 2018 | -0,97 | 748 (13%) | +6,5 | 69% | 8,09 |
+| 2022 | +0,36 | 3.604 (65%) | -3,4 | 83% | 2,16 |
+| 2026 | +1,85 | 4.440 (80%) | +5,4 | 97% | 1,87 |
+
+- **O comparecimento:** de 2002 a 2018 ele sempre caiu do 1º para o 2º turno (-1,0 a -3,4 ponto), e subiu em no máximo 13% dos municípios. Em 2022 subiu pela primeira vez (+0,36, em 65% dos municípios). Em 2026 subiu +1,85, em 80% dos municípios: **o maior da série, 5 vezes o de 2022.** Em 2026, o transporte de graça no dia da votação era regra no país inteiro (Resolução TSE nº 23.751/2026, em `dados/agentes/fatos_entre_os_turnos.md`).
+- **Onde ele subiu:** mais nas cidades de renda maior (a abstenção caiu 2,5 ponto nos 20% de municípios mais ricos e ficou parada nos 20% mais pobres) e não onde o PT era mais forte (a correlação entre a força do PT no 1º turno e a queda da abstenção foi -0,06 em 2026, contra -0,33 a 0,28 nas outras).
+- **A virada espalhada:** em 2026 a diferença andou para o Lula em 97% dos municípios. Em 2006, o outro ano em que ela andou muito a favor do PT, foram 100%. Quando a diferença anda muito no país, ela anda em quase todo lugar. O desvio entre municípios (1,87 ponto) é o menor da série, perto do de 2022 (2,16): nos dois anos, poucos votos estavam livres (os eliminados somaram 7,8% dos válidos em 2026), e movimento pequeno sai mais igual.
+
+**Veredito:** o comparecimento **não é normal** pela série de 2002 a 2018 e é a continuação, em tamanho maior, do que começou em 2022; ele subiu mais onde a renda é maior e não onde o PT era mais forte. A virada espalhada **é normal** para o tamanho do movimento.
+
+### 3. A chance, refeita com as nuances que faltavam
+
+A conta da rodada 2 tinha três defeitos. Dois puxavam a chance para cima, e um escondia o quanto ela podia cair.
+
+1. **O histórico não olhava o quanto o líder estava perto de 50%.** A rodada 2 contou as viradas entre segundos turnos com frente parecida (23 em 49), misturando líderes com 20% e com 50%. Um líder com 47% precisa de bem menos votos novos. Com as duas coisas na conta (241 segundos turnos, regressão), a chance de virada cai de 47% para **38%**. Os 13 casos com o líder entre 45% e 50% e frente de até 4 pontos tiveram 6 viradas: Brasil SE 1994 (líder com 47,6%, 0,22 de frente, **virou**); Colômbia 1994 (líder com 45,3%, 0,32 de frente); Brasil PB 2010 (líder com 49,7%, 0,44 de frente); Chile 1999 (líder com 48,0%, 0,45 de frente); Brasil RR 2002 (líder com 49,2%, 0,60 de frente, **virou**); Montenegro 1997 (líder com 48,2%, 0,74 de frente, **virou**); Brasil PB 2006 (líder com 49,7%, 0,93 de frente); Brasil RN 2006 (líder com 49,6%, 0,97 de frente); Brasil PA 2014 (líder com 49,0%, 1,38 de frente, **virou**); Brasil PB 2014 (líder com 47,4%, 1,40 de frente, **virou**); Brasil CE 2014 (líder com 47,8%, 1,40 de frente); Brasil RR 2010 (líder com 47,6%, 2,58 de frente, **virou**); Brasil PB 1994 (líder com 46,6%, 3,22 de frente). Para presidente no Brasil, o líder do 1º turno venceu as 7 vezes, mas a menor frente foi de 5,2 pontos, então essa regra não fala de uma frente de 1,87.
+2. **O crescimento usava os 6 padrões de transferência sem olhar quem tinha saído.** Em 2026 quem saiu era de centro ou de direita. Só com os anos parecidos (2010, 2014, 2022), o Lula venceria em 0 de 3 (ficaria com 48,8%, 48,7%, 47,6%). Pela regra de Laplace, **20%**, contra 33% antes.
+3. **A média com pesos é o jeito errado de juntar indícios que apontam para o mesmo lado.** Ela trata os pilares como opiniões que se substituem. Quando cada um é um indício diferente, a conta é por chances (Bayes): o histórico dá o ponto de partida e as pesquisas atualizam. Como as pesquisas já carregam boa parte do que o crescimento mede (o eleitor dos eliminados é entrevistado nelas), o central usa os dois primeiros; contar os três como independentes é a ponta de baixo.
+
+**O que não cai:** o pilar das pesquisas. Só com 2º turnos de presidente com 4 ou mais institutos (24 casos), a chance sobe para 42%; e no Brasil a média das pesquisas superestimou o líder nos 6 segundos turnos de 2002 a 2022, o que também puxaria para o Lula.
+
+| Jeito de calcular | Chance do Lula | Em outras palavras |
+|---|---|---|
+| rodada 2 (média com pesos, sem as correções) | 39% | 1 em 2,5 |
+| média com pesos, com as correções 1 e 2 | 35% | 1 em 2,9 |
+| Bayes: o histórico como ponto de partida e as pesquisas como indício (central) | 27% | 1 em 3,7 |
+| Bayes com as pesquisas só de presidente com 4 ou mais institutos | 30% | 1 em 3,3 |
+| os três pilares como indícios independentes (ponta de baixo) | 8% | 1 em 12,0 |
+| mercado (Polymarket, véspera) | 24% | 1 em 4,3 |
+
+**Veredito:** a chance era **menor do que a rodada 2 disse: cerca de 27%, perto de 1 em 4**, com ponta de baixo de 8% e o mercado em 24%. Abaixo de 1 em 12,0 ela não vai por nenhum dos caminhos calculados aqui: com a frente de 1,6 ponto nas pesquisas, basta um erro de 2º turno do tamanho que já aconteceu muitas vezes. Ganhar por 3,6 pontos ou mais era mais raro: 13% (1 em 7,6).
 
 ## De onde vieram os 10,38 milhões de votos a mais do Lula
 
@@ -34,7 +102,7 @@ Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`
 | PE | +0,56 milhões | 5% | +0,09 milhões | 0,31 milhões | 0,22 milhões |
 | RS | +0,53 milhões | 5% | +0,30 milhões | 0,55 milhões | 0,19 milhões |
 
-**Isso já aconteceu?** O candidato do PT ficar com a maior parte dos votos livres, sim:
+**Isso já aconteceu?** O candidato do PT ficar com a maior parte dos votos livres, sim, mas só quando quem saiu era da esquerda ou ficou neutro; com quem saiu apoiando o adversário, nunca (seção "Rodada 5" acima):
 
 | Eleição | Votos livres no saldo | Parte que o PT levou | Eleitores do adversário que mudaram para o PT (estimativa) |
 |---|---|---|---|
@@ -322,4 +390,4 @@ O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/al
 
 ## 10. Validação
 
-18 de 18 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.
+22 de 22 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.

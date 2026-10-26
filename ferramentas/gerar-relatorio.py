@@ -166,6 +166,30 @@ tab_renda = "\n".join(f"| {x.grupo} | R$ {n(x.renda_media)} | {br(x.lula_1t_pct,
 tab_dir = "\n".join(f"| {x.grupo} | {br(x.forca_media)}% | {br(x.lula_levou_dos_livres_pct, 0)}% | {br(x.flavio_levou_dos_livres_pct, 0)}% |" for x in dr.itertuples())
 tab_reg4 = "\n".join(f"| {x['regiao']} | {br(x['parte_da_virada_pct'], 1)}% | {br(x['parte_do_eleitorado_pct'], 1)}% |" for x in ond4["por_regiao"])
 tab_tend = "\n".join(f"| {int(x.ano)} | {'+' if x.inclinacao_por_semana > 0 else ''}{br(x.inclinacao_por_semana)} | {br(x.media_ultima_semana)}% | {br(x.reta_no_dia)}% | {br(x.urna if pd.notna(x.urna) else t2['lula_pct'])}% |" for x in tn.itertuples())
+# ------------------------------------------------------------------ isso é normal? (rodada 5)
+NM = R["normalidade"]
+cp5 = pd.DataFrame(NM["campo"])
+cm5 = pd.DataFrame(NM["comparecimento"])
+CH = NM["chance"]
+SE = NM["como_seria_pelas_pesquisas"]
+k26, c22c = cp5[cp5.ano == 2026].iloc[0], cp5[cp5.ano == 2022].iloc[0]
+cen = cp5[cp5.ano.isin(CH["crescimento"]["anos_parecidos"])]
+m26c, m22c = cm5[cm5.ano == 2026].iloc[0], cm5[cm5.ano == 2022].iloc[0]
+ate18 = cm5[cm5.ano <= 2018]
+erro_votos = erro_2026 / 100 * t2["validos"]
+tab_campo = "\n".join(
+    f"| {int(x.ano)} | {x.principais} | {br(x.apoiou_pt_pct, 0)}% | {br(x.apoiou_adversario_pct, 0)}% | **{br(x.parte_do_pt_nos_livres_pct, 0)}%** | {br(x.eliminados_para_pt_modelo_nacional_pct, 0)}% e {br(x.eliminados_para_adversario_modelo_nacional_pct, 0)}% | {br(x.eliminados_para_pt_modelo_regional_pct, 0)}% |"
+    for x in cp5.itertuples())
+tab_comp = "\n".join(
+    f"| {int(x.ano)} | {sinal(x.comparecimento_variou_pontos, 2)} | {n(x.municipios_comparecimento_subiu)} ({br(x.municipios_comparecimento_subiu_pct, 0)}%) | {sinal(x.diferenca_andou_no_pais_pontos)} | {br(x.municipios_mesmo_lado_do_pais_pct, 0)}% | {br(x.desvio_da_virada_entre_municipios, 2)} |"
+    for x in cm5.itertuples())
+tab_ch = "\n".join(f"| {k} | {pct(x)} | {um_em(x)} |" for k, x in CH["variantes"].items())
+perto5 = "; ".join(f"{pais(str(c.get('pais')))}{' ' + str(c['uf']) if isinstance(c.get('uf'), str) and c.get('uf') not in ('BR',) else ''} {int(c['ano'])} (líder com {br(c['lider_1t_pct'], 1)}%, {br(c['frente_1t'], 2)} de frente{', **virou**' if c['virada'] else ''})" for c in CH["historico"]["perto_de_50_lista"])
+eleit_pt = (min(DO["ajustes_2026"]["por região"]["dos_outros"], k26.eliminados_para_pt_modelo_nacional_pct / 100 * OL),
+            max(DO["ajustes_2026"]["por região"]["dos_outros"], k26.eliminados_para_pt_modelo_nacional_pct / 100 * OL))
+brp = casos[casos.grupo == 'Brasil presidente']
+lid_faixa = [c['lider_1t_pct'] for c in HS['faixa_lista']]
+mais_que_5 = int((em.superestimou_lider.abs() > erro_2026).sum()) if len(em) else 0
 # ------------------------------------------------------------------ RELATÓRIO
 relatorio = f"""# Relatório: as pesquisas, o histórico e a chance do que aconteceu no 2º turno de 2026
 
@@ -173,7 +197,58 @@ Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`
 
 ## A resposta curta
 
-**Antes da votação, a chance de o Lula vencer era de cerca de {pct(p2['combinada'])} ({um_em(p2['combinada'])}).** Era a menos provável das duas, mas longe de impossível: um resultado desse tamanho acontece em quase 2 de cada 5 disputas parecidas. A chance de ele vencer **pela diferença que venceu** ({br(v['frente_2t_pontos'], 2)} pontos ou mais) era menor: perto de {pct(PQ['contagem_resultado_igual_ou_maior'])} pelas pesquisas, e nenhum dos 6 padrões do passado chega a ela.
+**Antes da votação, a chance de o Lula vencer era de cerca de {pct(CH['bayes'])} ({um_em(CH['bayes'])}), refeita na rodada 5** (a rodada 2 dava {pct(p2['combinada'])}; as três correções estão abaixo). A ponta de baixo, tratando os três pilares como indícios independentes, dá {pct(CH['independente'])} ({um_em(CH['independente'])}), e o mercado dava {pct(CH['mercado'])} na véspera. Vencer **pela diferença que venceu** ({br(v['frente_2t_pontos'], 2)} pontos ou mais) tinha perto de {pct(CH['bayes_resultado_igual_ou_maior'])} ({um_em(CH['bayes_resultado_igual_ou_maior'])}).
+
+**Duas coisas de 2026 saem do padrão das eleições de 2002 a 2022, e uma não sai.** Saem: o candidato do PT levar {br(k26.parte_do_pt_nos_livres_pct, 0)}% dos votos livres quando quem saiu era de direita ou de centro e apoiou o adversário, e o comparecimento subir {br(m26c.comparecimento_variou_pontos, 2)} ponto do 1º para o 2º turno. Não sai: a virada se espalhar por quase todos os municípios, que é o que acontece sempre que a diferença anda muito no país.
+
+## Rodada 5: isso é normal?
+
+Pedido do autor: *"é normal, tendo em vista que os candidatos eram de direita, que a maior parte dos votos vá para o Lula? Nas outras eleições, isso aconteceu de verdade?"*, se é normal o comparecimento subir e a virada se espalhar, e se a chance de 39% considerou as pesquisas, o 1º turno e o crescimento *"com peso de forma correta"*. Cada resposta abaixo põe 2026 ao lado das 6 eleições anteriores, com a mesma conta.
+
+### 1. O eleitor de quem saiu ir para o PT quando quem saiu apoiou o adversário
+
+| Eleição | Quem saiu (os 3 maiores) e o que fez no 2º turno | Votos de quem saiu com apoio ao PT | Com apoio ao adversário | PT nos votos livres (saldo, conta exata) | Eleitores de quem saiu: PT e adversário (modelo nacional) | Para o PT (modelo regional) |
+|---|---|---|---|---|---|---|
+{tab_campo}
+
+A posição de cada candidato, com o link da fonte, está em `dados/agentes/apoios_segundo_turno.csv` (27 de 28 com fonte; Zé Maria, 2002, sem fonte). A coluna do saldo é conta exata; as duas últimas são estimativas, porque o voto é secreto, e os dois modelos do projeto discordam entre si.
+
+**O que a tabela mostra:**
+- **Em 2026, {br(k26.apoiou_adversario_pct, 0)}% dos votos de quem saiu eram de candidatos que declararam apoio ao Flávio, nenhum declarou apoio ao Lula, e o Lula levou {br(k26.parte_do_pt_nos_livres_pct, 0)}% de tudo o que estava livre.** Nas 6 eleições anteriores, o PT só passou de 60% dos votos livres em 2006 e 2018, quando os maiores eliminados eram da esquerda ou ficaram neutros.
+- **Nos anos em que quem saiu era de centro ou de direita ({', '.join(str(a) for a in cen.ano)}), o PT ficou com {br(cen.parte_do_pt_nos_livres_pct.min(), 0)}% a {br(cen.parte_do_pt_nos_livres_pct.max(), 0)}% dos votos livres.** Pelos dois modelos, o eleitor dos eliminados foi mais para o PT em 2026 do que em qualquer um desses anos: {br(k26.eliminados_para_pt_modelo_nacional_pct, 0)}% contra {br(cen.eliminados_para_pt_modelo_nacional_pct.min(), 0)}% a {br(cen.eliminados_para_pt_modelo_nacional_pct.max(), 0)}% no modelo nacional, e {br(k26.eliminados_para_pt_modelo_regional_pct, 0)}% contra {br(cen.eliminados_para_pt_modelo_regional_pct.min(), 0)}% a {br(cen.eliminados_para_pt_modelo_regional_pct.max(), 0)}% no regional.
+- **O espelho é 2022.** {br(c22c.apoiou_pt_pct, 0)}% dos votos de quem saiu eram de Tebet e Ciro, que apoiaram o Lula, e o Bolsonaro levou {br(100 - c22c.parte_do_pt_nos_livres_pct, 0)}% dos votos livres. O apoio declarado já não decidia para onde ia o eleitor livre em 2022; em 2026 ele também não decidiu, no sentido contrário.
+- **O que as pesquisas diziam desse eleitor:** entre Lula e Flávio, o de Cury dava {br(tp['por_grupo']['cury']['lula_entre_os_dois'], 0)}% ao Lula, o de Renan {br(tp['por_grupo']['renan']['lula_entre_os_dois'], 0)}% e o de Caiado {br(tp['por_grupo']['caiado']['lula_entre_os_dois'], 0)}% (média de 5 institutos cada). Se eles tivessem votado assim e quem voltou a votar tivesse se dividido como no próprio ano, o Flávio teria vencido por {mi(-SE['margem_lula'])}. O Lula venceu por {mi(frente)}: uma distância de {mi(frente - SE['margem_lula'])}, do mesmo tamanho do erro das pesquisas na diferença ({br(erro_2026, 1)} pontos dos válidos, cerca de {mi(erro_votos)}). **É o mesmo erro, visto de outro lugar: as pesquisas erraram justamente no eleitor que estava livre.**
+- 🔧 **Correção do que foi dito na rodada 3:** o "cerca de 6 milhões vieram dos eleitores dos outros candidatos" é o modelo regional. O modelo nacional, usado desde a rodada 1, dá {mi(k26.eliminados_para_pt_modelo_nacional_pct / 100 * OL)}. A parte que vem de quem saiu e a que vem de quem voltou a votar mudam conforme o modelo: **de {mi(eleit_pt[0])} a {mi(eleit_pt[1])} vieram dos eleitores dos outros candidatos**, e o resto, de quem voltou a votar ou tinha votado branco ou nulo. O total é exato; a divisão, não.
+
+**Veredito: não é normal.** É o resultado mais fora do padrão da série nesse quesito, junto com 2022 no sentido contrário. Pela lente do resultado legítimo, o espelho de 2022 mostra que o apoio declarado do candidato derrotado não leva o eleitor junto, e o erro das pesquisas do mesmo tamanho já aconteceu em segundos turnos de outros países ({mais_que_5} de {len(em)} erraram a diferença por mais de {br(erro_2026, 1)} pontos). Pela lente da fraude, é exatamente nesse eleitor livre que um voto acrescentado apareceria. O que pesa contra ela, no dado por município: na regressão de cada ano, quem voltou a votar se dividiu quase igual entre os dois ({pct(novos[novos.ano == 2026].novo_eleitor_para_pt.iloc[0])} e {pct(novos[novos.ano == 2026].novo_eleitor_para_adversario.iloc[0])}, como em 2022), e o ganho do Lula aparece no país inteiro, sem bolsões. Seção a seção, é o projeto do vídeo 16.
+
+### 2. O comparecimento subir e a virada se espalhar
+
+| Eleição | Comparecimento do 1º para o 2º turno (pontos) | Municípios em que subiu | Diferença andou no país (pontos, a favor do PT) | Municípios que andaram no mesmo sentido | Desvio da virada entre municípios |
+|---|---|---|---|---|---|
+{tab_comp}
+
+- **O comparecimento:** de 2002 a 2018 ele sempre caiu do 1º para o 2º turno ({sinal(ate18.comparecimento_variou_pontos.max(), 1)} a {sinal(ate18.comparecimento_variou_pontos.min(), 1)} ponto), e subiu em no máximo {br(ate18.municipios_comparecimento_subiu_pct.max(), 0)}% dos municípios. Em 2022 subiu pela primeira vez ({sinal(m22c.comparecimento_variou_pontos, 2)}, em {br(m22c.municipios_comparecimento_subiu_pct, 0)}% dos municípios). Em 2026 subiu {sinal(m26c.comparecimento_variou_pontos, 2)}, em {br(m26c.municipios_comparecimento_subiu_pct, 0)}% dos municípios: **o maior da série, {br(m26c.comparecimento_variou_pontos / m22c.comparecimento_variou_pontos, 0)} vezes o de 2022.** Em 2026, o transporte de graça no dia da votação era regra no país inteiro (Resolução TSE nº 23.751/2026, em `dados/agentes/fatos_entre_os_turnos.md`).
+- **Onde ele subiu:** mais nas cidades de renda maior (a abstenção caiu {br(gr.iloc[-1].abstencao_caiu_pontos)} ponto nos 20% de municípios mais ricos e ficou parada nos 20% mais pobres) e não onde o PT era mais forte (a correlação entre a força do PT no 1º turno e a queda da abstenção foi {br(h26.corr_forca_pt_1t_e_queda_abstencao, 2)} em 2026, contra {br(hist[hist.ano < 2026].corr_forca_pt_1t_e_queda_abstencao.min(), 2)} a {br(hist[hist.ano < 2026].corr_forca_pt_1t_e_queda_abstencao.max(), 2)} nas outras).
+- **A virada espalhada:** em 2026 a diferença andou para o Lula em {br(m26c.municipios_mesmo_lado_do_pais_pct, 0)}% dos municípios. Em 2006, o outro ano em que ela andou muito a favor do PT, foram {br(cm5[cm5.ano == 2006].municipios_mesmo_lado_do_pais_pct.iloc[0], 0)}%. Quando a diferença anda muito no país, ela anda em quase todo lugar. O desvio entre municípios ({br(m26c.desvio_da_virada_entre_municipios, 2)} ponto) é o menor da série, perto do de 2022 ({br(m22c.desvio_da_virada_entre_municipios, 2)}): nos dois anos, poucos votos estavam livres (os eliminados somaram {br(100 * OL / t1['validos'], 1)}% dos válidos em 2026), e movimento pequeno sai mais igual.
+
+**Veredito:** o comparecimento **não é normal** pela série de 2002 a 2018 e é a continuação, em tamanho maior, do que começou em 2022; ele subiu mais onde a renda é maior e não onde o PT era mais forte. A virada espalhada **é normal** para o tamanho do movimento.
+
+### 3. A chance, refeita com as nuances que faltavam
+
+A conta da rodada 2 tinha três defeitos. Dois puxavam a chance para cima, e um escondia o quanto ela podia cair.
+
+1. **O histórico não olhava o quanto o líder estava perto de 50%.** A rodada 2 contou as viradas entre segundos turnos com frente parecida ({HS['faixa_viradas']} em {HS['faixa_casos']}), misturando líderes com {br(min(lid_faixa), 0)}% e com {br(max(lid_faixa), 0)}%. Um líder com 47% precisa de bem menos votos novos. Com as duas coisas na conta ({CH['historico']['casos']} segundos turnos, regressão), a chance de virada cai de {pct(CH['historico']['rodada_2'])} para **{pct(CH['historico']['chance'])}**. Os {CH['historico']['perto_de_50_casos']} casos com o líder entre 45% e 50% e frente de até 4 pontos tiveram {CH['historico']['perto_de_50_viradas']} viradas: {perto5}. Para presidente no Brasil, o líder do 1º turno venceu as {len(brp)} vezes, mas a menor frente foi de {br(brp.frente_1t.min(), 1)} pontos, então essa regra não fala de uma frente de {br(p2['frente_flavio_1t'], 2)}.
+2. **O crescimento usava os 6 padrões de transferência sem olhar quem tinha saído.** Em 2026 quem saiu era de centro ou de direita. Só com os anos parecidos ({', '.join(str(a) for a in CH['crescimento']['anos_parecidos'])}), o Lula venceria em {CH['crescimento']['lula_venceria_em']} de {CH['crescimento']['padroes']} (ficaria com {', '.join(br(x['lula_pct'], 1) + '%' for x in CH['crescimento']['lula_pct_por_padrao'])}). Pela regra de Laplace, **{pct(CH['crescimento']['laplace'])}**, contra {pct(CH['crescimento']['rodada_2'])} antes.
+3. **A média com pesos é o jeito errado de juntar indícios que apontam para o mesmo lado.** Ela trata os pilares como opiniões que se substituem. Quando cada um é um indício diferente, a conta é por chances (Bayes): o histórico dá o ponto de partida e as pesquisas atualizam. Como as pesquisas já carregam boa parte do que o crescimento mede (o eleitor dos eliminados é entrevistado nelas), o central usa os dois primeiros; contar os três como independentes é a ponta de baixo.
+
+**O que não cai:** o pilar das pesquisas. Só com 2º turnos de presidente com 4 ou mais institutos ({CH['pesquisas']['casos_4_institutos']} casos), a chance sobe para {pct(CH['pesquisas']['so_presidente_4_institutos'])}; e no Brasil a média das pesquisas superestimou o líder nos 6 segundos turnos de 2002 a 2022, o que também puxaria para o Lula.
+
+| Jeito de calcular | Chance do Lula | Em outras palavras |
+|---|---|---|
+{tab_ch}
+
+**Veredito:** a chance era **menor do que a rodada 2 disse: cerca de {pct(CH['bayes'])}, perto de 1 em 4**, com ponta de baixo de {pct(CH['independente'])} e o mercado em {pct(CH['mercado'])}. Abaixo de {um_em(CH['independente'])} ela não vai por nenhum dos caminhos calculados aqui: com a frente de {br(p2['frente_flavio_pesquisas'], 1)} ponto nas pesquisas, basta um erro de 2º turno do tamanho que já aconteceu muitas vezes. Ganhar por {br(v['frente_2t_pontos'], 1)} pontos ou mais era mais raro: {pct(CH['bayes_resultado_igual_ou_maior'])} ({um_em(CH['bayes_resultado_igual_ou_maior'])}).
 
 ## De onde vieram os 10,38 milhões de votos a mais do Lula
 
@@ -196,7 +271,7 @@ Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`
 |---|---|---|---|---|---|
 {tab_uf}
 
-**Isso já aconteceu?** O candidato do PT ficar com a maior parte dos votos livres, sim:
+**Isso já aconteceu?** O candidato do PT ficar com a maior parte dos votos livres, sim, mas só quando quem saiu era da esquerda ou ficou neutro; com quem saiu apoiando o adversário, nunca (seção "Rodada 5" acima):
 
 | Eleição | Votos livres no saldo | Parte que o PT levou | Eleitores do adversário que mudaram para o PT (estimativa) |
 |---|---|---|---|
@@ -421,21 +496,33 @@ O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/al
 """
 (RAIZ / "RELATORIO.md").write_text(relatorio, encoding="utf-8")
 
-simples = f"""# Resumo simples (rodada 2)
+simples = f"""# Resumo simples (rodada 5)
 
 ## De onde vieram os 10,38 milhões de votos a mais do Lula
 
 | Origem | Votos para o Lula | De quantos estavam livres |
 |---|---|---|
-| Eleitores dos outros candidatos (Cury, Renan, Caiado, Zema e outros) | cerca de 6 milhões | de {mi(OL)}: 2 em cada 3 votaram no Lula |
-| Quem não tinha votado em ninguém no 1º turno (faltou, branco ou nulo) | cerca de 3,6 milhões | de {mi(NL)}: 3 em cada 4 votaram no Lula |
+| Eleitores dos outros candidatos (Cury, Renan, Caiado, Zema e outros) | de {mi(eleit_pt[0])} a {mi(eleit_pt[1])}, conforme o modelo | de {mi(OL)} |
+| Quem não tinha votado em ninguém no 1º turno (faltou, branco ou nulo) | o resto, de {mi(GL - eleit_pt[1])} a {mi(GL - eleit_pt[0])} | de {mi(NL)} |
 | Eleitores do Flávio que mudaram | menos de 0,6 milhão | quase nada |
 
-A conta fecha: estavam livres {mi(v['ganho_dos_dois'])}, o Lula levou {mi(v['lula'])} e o Flávio {mi(v['flavio'])}. SP, MG, RJ e BA somam metade do ganho do Lula. Levar 74% dos votos livres já aconteceu: em 2006, o PT levou mais do que tudo o que estava livre.
+A conta fecha: estavam livres {mi(v['ganho_dos_dois'])}, o Lula levou {mi(v['lula'])} e o Flávio {mi(v['flavio'])}. SP, MG, RJ e BA somam metade do ganho do Lula.
+
+## Isso é normal? (rodada 5)
+
+| Pergunta | Resposta | O número |
+|---|---|---|
+| O eleitor de quem saiu ir para o Lula, se quem saiu era de direita ou de centro? | **Não é normal.** Nos anos parecidos ({', '.join(str(a) for a in cen.ano)}) o PT levou de {br(cen.parte_do_pt_nos_livres_pct.min(), 0)}% a {br(cen.parte_do_pt_nos_livres_pct.max(), 0)}% dos votos livres | 2026: {br(k26.parte_do_pt_nos_livres_pct, 0)}%, com {br(k26.apoiou_adversario_pct, 0)}% dos votos de quem saiu vindo de quem apoiou o Flávio |
+| Já aconteceu o apoio declarado não valer? | **Sim, em 2022, no sentido contrário** | Tebet e Ciro ({br(c22c.apoiou_pt_pct, 0)}% dos votos de quem saiu) apoiaram o Lula, e o Bolsonaro levou {br(100 - c22c.parte_do_pt_nos_livres_pct, 0)}% dos livres |
+| As pesquisas viram isso? | **Não.** Pelo que diziam do eleitor de Cury, Renan e Caiado, o Flávio venceria por {mi(-SE['margem_lula'])} | a distância até o resultado ({mi(frente - SE['margem_lula'])}) tem o tamanho do erro das pesquisas ({mi(erro_votos)}) |
+| O comparecimento subir no 2º turno? | **Não é normal até 2018** (sempre caiu); subiu pela 1ª vez em 2022 ({sinal(m22c.comparecimento_variou_pontos, 2)}) e em 2026 subiu {sinal(m26c.comparecimento_variou_pontos, 2)} | subiu mais nas cidades de renda maior, não onde o PT era mais forte |
+| A virada em quase todos os municípios? | **É normal** para o tamanho do movimento | 2026: {br(m26c.municipios_mesmo_lado_do_pais_pct, 0)}% dos municípios; 2006: {br(cm5[cm5.ano == 2006].municipios_mesmo_lado_do_pais_pct.iloc[0], 0)}% |
 
 ## A pergunta: qual era a chance do que aconteceu?
 
-**Cerca de {pct(p2['combinada'])}, ou {um_em(p2['combinada'])}, de o Lula vencer**, com o que se sabia no sábado. Era a menos provável das duas, mas longe de impossível.
+**Cerca de {pct(CH['bayes'])}, ou {um_em(CH['bayes'])}, de o Lula vencer**, com o que se sabia no sábado (refeita na rodada 5; a rodada 2 dava {pct(p2['combinada'])}). Ponta de baixo: {pct(CH['independente'])}. Mercado: {pct(CH['mercado'])}.
+
+**O que mudou na rodada 5:** o histórico passou a olhar o quanto o Flávio estava perto de 50% ({pct(CH['historico']['rodada_2'])} → {pct(CH['historico']['chance'])}); o crescimento passou a usar só os anos em que quem saiu era de centro ou de direita ({pct(CH['crescimento']['rodada_2'])} → {pct(CH['crescimento']['laplace'])}); e os pilares passaram a ser somados como indícios (o histórico como ponto de partida, as pesquisas atualizando), no lugar da média com pesos. A tabela abaixo é a da rodada 2, mantida para comparação.
 
 | Pilar | Peso (o do vídeo 14) | Chance do Lula | De onde vem |
 |---|---|---|---|
@@ -446,14 +533,14 @@ A conta fecha: estavam livres {mi(v['ganho_dos_dois'])}, o Lula levou {mi(v['lul
 
 - **Por que não é "1 em 1.000":** multiplicar "as pesquisas erraram × o líder perdeu × Minas quebrou × o mercado errou" trata como quatro sorteios o que é um só fato: o Lula vencer uma disputa apertada. Dado que ele venceu, as quatro coisas acontecem juntas.
 - **As pesquisas já erraram tanto?** No Brasil, uma vez: em 2002, do mesmo tamanho, mas com 28 pontos de frente. No mundo, o líder das pesquisas perdeu {len(perdeu)} de {len(em)} segundos turnos. O que 2026 teve de diferente foi um erro grande numa disputa apertada.
-- **"Nunca houve virada"?** Para presidente, nunca, mas nenhum dos 7 casos tinha frente pequena. Com frente parecida, virada é quase cara ou coroa.
-- **A lente da fraude:** a surpresa é real e o erro das pesquisas também. Mas os testes que dá para fazer com o resultado por município (votos sem origem, eleitor novo, comparecimento, subida fora do padrão, curva da apuração, prorrogação, exterior) ficam todos dentro do que aconteceu em 2002 a 2022. O seção a seção é o projeto do vídeo 16.
+- **"Nunca houve virada"?** Para presidente, nunca, mas nenhum dos 7 casos tinha frente pequena. Com frente parecida e o líder perto de 50%, o líder perdeu perto de 4 em cada 10 vezes ({pct(CH['historico']['chance'])}, rodada 5).
+- **A lente da fraude:** a surpresa é real, o erro das pesquisas também, e dois sinais saem do padrão de 2002 a 2022 (o eleitor livre indo para o Lula com quem saiu apoiando o Flávio, e o comparecimento subindo). Os testes de fraude que dá para fazer com o resultado por município (votos sem origem, eleitor novo indo todo para um lado, subida fora do padrão, curva da apuração, prorrogação, exterior) ficam dentro do que aconteceu em 2002 a 2022. O seção a seção é o projeto do vídeo 16.
 
 Relatório completo: [`RELATORIO.md`](RELATORIO.md). Leitura das duas lentes: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md).
 """
 (RAIZ / "RESUMO_SIMPLES.md").write_text(simples, encoding="utf-8")
 
-leitura = f"""# Leitura da IA: as duas lentes (rodada 2)
+leitura = f"""# Leitura da IA: as duas lentes (rodada 5)
 
 Esta leitura é do Claude, a partir dos números do [`RELATORIO.md`](../RELATORIO.md). "Fraude" aqui é o nome de uma hipótese, testada com o mesmo rigor que a outra.
 
@@ -461,7 +548,7 @@ Esta leitura é do Claude, a partir dos números do [`RELATORIO.md`](../RELATORI
 
 **A versão mais forte:** o líder do 1º turno, à frente em {U['deram_flavio']} de {U['n']} institutos e com {pct(1 - p2['mercado'])} no mercado, perdeu por {br(v['frente_2t_pontos'], 2)} pontos; nenhuma das {P['todas']['n']} pesquisas chegou no número; a abstenção caiu como nunca entre os turnos; as pesquisas diziam que os eleitores de Renan e Caiado iam para o Flávio; e a votação foi prorrogada por decisão de um ministro a pedido de uma das campanhas.
 
-**O que fica de pé:** a surpresa (chance de cerca de {pct(p2['combinada'])}), o erro de todas as pesquisas para o mesmo lado (o 2º maior do Brasil), a queda inédita da abstenção, e a distância entre o que as pesquisas diziam dos eleitores eliminados e o que o resultado exige.
+**O que fica de pé:** a surpresa (chance de cerca de {pct(CH['bayes'])}, refeita na rodada 5), o eleitor de candidatos que apoiaram o Flávio indo mais para o Lula do que em qualquer eleição parecida desde 2002 ({br(k26.parte_do_pt_nos_livres_pct, 0)}% dos votos livres), o comparecimento subindo como nunca, o erro de todas as pesquisas para o mesmo lado (o 2º maior do Brasil), a queda inédita da abstenção, e a distância entre o que as pesquisas diziam dos eleitores eliminados e o que o resultado exige.
 
 **O que não se sustenta no dado deste projeto:** a ideia de que o resultado era improvável a ponto de 1 em 1.000 (é a conta que multiplica o mesmo fato quatro vezes); voto novo indo todo para um lado (ele se dividiu); votos sem origem em escala que importe ({br(h26.pt_sem_origem_pct_da_margem, 2)}% da frente, contra {br(hist[hist.ano == 2006].pt_sem_origem_pct_da_margem.iloc[0], 1)}% em 2006); prorrogação ou exterior mudando o resultado (os tetos de pior caso ficam muito abaixo da frente); uma curva de apuração diferente da de 2022.
 
@@ -473,7 +560,7 @@ Esta leitura é do Claude, a partir dos números do [`RELATORIO.md`](../RELATORI
 
 **O que fica de pé:** a chance real antes da votação, o erro já visto em tamanho, a conta que fecha, a subida uniforme, o eleitor novo dividido, a apuração com a forma de sempre.
 
-**O que não explica bem:** por que nenhuma pesquisa chegou no número e por que a abstenção caiu tanto. A explicação do filtro de eleitor provável combina com o dado, mas não está provada.
+**O que não explica bem:** por que nenhuma pesquisa chegou no número, por que a abstenção caiu tanto e por que o eleitor de quem apoiou o Flávio foi tanto para o Lula. O espelho é 2022, quando o eleitor de Tebet e Ciro, que apoiaram o Lula, foi mais para o Bolsonaro: o apoio declarado não decidiu nas duas eleições. A explicação do filtro de eleitor provável combina com o dado, mas não está provada.
 
 ## Conclusão
 

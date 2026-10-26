@@ -564,6 +564,79 @@ def g22_tendencia_das_pesquisas(R):
     salvar(fig, "g22_tendencia_das_pesquisas.png")
 
 
+def g23_votos_livres_e_quem_saiu(R):
+    c = pd.DataFrame(R["normalidade"]["campo"])
+    fig = figura("Para quem foram os votos livres, conforme quem saiu",
+                 "Parte dos votos livres que o PT levou no 2º turno, e o que os candidatos eliminados fizeram")
+    ax = fig.add_axes([0.08, 0.34, 0.86, 0.46])
+    x = np.arange(len(c))
+    ax.bar(x, c.parte_do_pt_nos_livres_pct.clip(upper=100), color=[COR["lula"] if a == 2026 else COR["base"] for a in c.ano], width=0.6)
+    for i, r in c.iterrows():
+        v = r.parte_do_pt_nos_livres_pct
+        ax.text(i, min(v, 100) + 3, f"{br(v, 0)}%" + (" *" if v > 100 else ""), ha="center", fontsize=26, weight="bold", color=TINTA)
+        ax.text(i, -6, f"apoio ao PT: {br(r.apoiou_pt_pct, 0)}%\napoio ao rival: {br(r.apoiou_adversario_pct, 0)}%",
+                ha="center", va="top", fontsize=16, color=TINTA2)
+    ax.axhline(50, color=TINTA2, lw=1.2, ls=(0, (4, 4)))
+    ax.set_xticks(x, [str(a) for a in c.ano], fontsize=26)
+    ax.tick_params(axis="x", pad=80)
+    ax.set_ylim(0, 112)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    fig.text(0.08, 0.115, "Embaixo: dos votos dos candidatos que saíram, a parte cujo candidato declarou apoio a cada lado no 2º turno", fontsize=16, color=TINTA2)
+    fig.text(0.08, 0.81, "* 2006: o PT levou mais do que estava livre, porque o Alckmin perdeu votos do 1º para o 2º turno", fontsize=16, color=TINTA2)
+    rodape(fig, "TSE, resultado por município, 2002 a 2026; posição de cada candidato no 2º turno com link em dados/agentes/apoios_segundo_turno.csv")
+    salvar(fig, "g23_votos_livres_e_quem_saiu.png")
+
+
+def g24_comparecimento_por_ano(R):
+    c = pd.DataFrame(R["normalidade"]["comparecimento"])
+    fig = figura("O comparecimento do 1º para o 2º turno",
+                 "Quanto o comparecimento mudou no país, em pontos, e em quantos municípios ele subiu")
+    ax = fig.add_axes([0.08, 0.30, 0.86, 0.50])
+    x = np.arange(len(c))
+    ax.bar(x, c.comparecimento_variou_pontos, color=[COR["lula"] if a == 2026 else COR["base"] for a in c.ano], width=0.6)
+    for i, r in c.iterrows():
+        v = r.comparecimento_variou_pontos
+        ax.text(i, v + (0.12 if v >= 0 else -0.12), ("+" if v > 0 else "") + br(v), ha="center", va="bottom" if v >= 0 else "top",
+                fontsize=26, weight="bold", color=TINTA)
+        ax.text(i, -4.3, f"subiu em\n{br(r.municipios_comparecimento_subiu_pct, 0)}% dos\nmunicípios", ha="center", va="top", fontsize=16, color=TINTA2)
+    ax.axhline(0, color=TINTA2, lw=1.2)
+    ax.set_xticks(x, [str(a) for a in c.ano], fontsize=26)
+    ax.tick_params(axis="x", pad=100)
+    ax.set_ylim(-4.2, 2.8)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    rodape(fig, "TSE, comparecimento por município nos dois turnos, 2002 a 2026")
+    salvar(fig, "g24_comparecimento_por_ano.png")
+
+
+def g25_a_chance_refeita(R):
+    ch = R["normalidade"]["chance"]
+    v = ch["variantes"]
+    nomes = {"rodada 2 (média com pesos, sem as correções)": "a conta anterior",
+             "média com pesos, com as correções 1 e 2": "a mesma média, corrigida",
+             "Bayes: o histórico como ponto de partida e as pesquisas como indício (central)": "histórico + pesquisas (central)",
+             "os três pilares como indícios independentes (ponta de baixo)": "os 3 independentes (ponta de baixo)",
+             "mercado (Polymarket, véspera)": "o mercado na véspera"}
+    itens = [(nomes[k], v[k]) for k in nomes]
+    fig = figura("A chance do Lula antes da votação, refeita",
+                 "Chance de o Lula vencer, calculada como se fosse a véspera, por cada jeito de juntar o que se sabia")
+    ax = fig.add_axes([0.36, 0.14, 0.58, 0.66])
+    y = np.arange(len(itens))[::-1]
+    cores = [COR["base"], COR["base"], COR["lula"], COR["base"], OUTROS]
+    for yi, (nome, p), c in zip(y, itens, cores):
+        ax.barh(yi, 100 * p, color=c, height=0.6)
+        ax.text(100 * p + 1, yi, f"{br(100 * p, 0)}%  (1 em {br(1 / p, 0 if 1 / p >= 10 else 1)})", va="center", fontsize=24, weight="bold", color=TINTA)
+    ax.set_yticks(y, [i[0] for i in itens], fontsize=22)
+    ax.set_xlim(0, 60)
+    ax.set_xticks([])
+    ax.spines["bottom"].set_visible(False)
+    ax.axvline(50, color=TINTA2, lw=1.2, ls=(0, (4, 4)))
+    ax.text(50, len(itens) - 0.35, "50%", ha="center", fontsize=18, color=TINTA2)
+    rodape(fig, "pesquisas registradas no TSE; 2º turnos no Brasil e em outros países; Polymarket (série do projeto do vídeo 16)")
+    salvar(fig, "g25_a_chance_refeita.png")
+
+
 def n0(x: float) -> str:
     return br(x, 0)
 
@@ -578,7 +651,8 @@ def main() -> None:
         f(R)
 
 
-EXTRAS: list = [g16_erro_pesquisas_historico, g17_soma_ingenua, g18_de_onde_vieram_os_10_milhoes, g19_parte_dos_livres_por_ano, g20_por_renda, g21_eleitor_da_direita, g22_tendencia_das_pesquisas]
+EXTRAS: list = [g16_erro_pesquisas_historico, g17_soma_ingenua, g18_de_onde_vieram_os_10_milhoes, g19_parte_dos_livres_por_ano, g20_por_renda, g21_eleitor_da_direita, g22_tendencia_das_pesquisas,
+                g23_votos_livres_e_quem_saiu, g24_comparecimento_por_ano, g25_a_chance_refeita]
 
 
 if __name__ == "__main__":

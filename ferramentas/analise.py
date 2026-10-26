@@ -13,6 +13,7 @@ import pandas as pd  # noqa: E402
 from analise import alegacoes as A  # noqa: E402
 from analise import historia as HI  # noqa: E402
 from analise import modelo as M  # noqa: E402
+from analise import normalidade as NO  # noqa: E402
 from analise import porque as QQ  # noqa: E402
 from analise import probabilidade as PB  # noqa: E402
 from analise.comum import COPIAS, DERIV  # noqa: E402
@@ -161,6 +162,19 @@ def main() -> None:
     if cz.exists():
         t1 = r["t1"]
         resumo["transferencia_pesquisas"] = A.transferencia_pelas_pesquisas(pd.read_csv(cz), {"cury": t1["cury"], "renan": t1["renan"], "caiado": t1["caiado"]})
+    # rodada 5: isso é normal? (o campo dos eliminados, o comparecimento e o espalhamento, a chance refeita)
+    campo = NO.campo_dos_eliminados(dov, trano, r["t1"])
+    comp = NO.comparecimento_e_espalhamento(painel)
+    campo.to_csv(RES / "campo_dos_eliminados_por_ano.csv", index=False)
+    comp.to_csv(RES / "comparecimento_e_espalhamento_por_ano.csv", index=False)
+    n26 = novos[novos.ano == 2026].iloc[0]
+    tp = resumo.get("transferencia_pesquisas")
+    seria = NO.ganho_dos_dois_como_seria(r["t1"], tp, float(d26.novos_livres), float(n26.novo_eleitor_para_pt),
+                                         float(n26.novo_eleitor_para_adversario)) if tp else None
+    ch = NO.chance_refeita(casos, erros, pd.read_csv(RES / "erro_media_pesquisas_runoffs.csv"), cres, campo, frente_pesq, v1,
+                           r["t1"]["flavio_pct"], extra, pr["polymarket_lula_vespera"], resumo["probabilidade_v2"])
+    resumo["normalidade"] = {"campo": campo.to_dict("records"), "comparecimento": comp.to_dict("records"),
+                             "como_seria_pelas_pesquisas": seria, "chance": ch}
     salvar_json(resumo, RES / "RESUMO.json")
     print("ok: resultados/RESUMO.json")
 

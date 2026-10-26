@@ -1,4 +1,4 @@
-# Leitura da IA: as duas lentes (rodada 2)
+# Leitura da IA: as duas lentes (rodada 5)
 
 Esta leitura é do Claude, a partir dos números do [`RELATORIO.md`](../RELATORIO.md). "Fraude" aqui é o nome de uma hipótese, testada com o mesmo rigor que a outra.
 
@@ -6,7 +6,7 @@ Esta leitura é do Claude, a partir dos números do [`RELATORIO.md`](../RELATORI
 
 **A versão mais forte:** o líder do 1º turno, à frente em 17 de 19 institutos e com 76% no mercado, perdeu por 3,57 pontos; nenhuma das 53 pesquisas chegou no número; a abstenção caiu como nunca entre os turnos; as pesquisas diziam que os eleitores de Renan e Caiado iam para o Flávio; e a votação foi prorrogada por decisão de um ministro a pedido de uma das campanhas.
 
-**O que fica de pé:** a surpresa (chance de cerca de 39%), o erro de todas as pesquisas para o mesmo lado (o 2º maior do Brasil), a queda inédita da abstenção, e a distância entre o que as pesquisas diziam dos eleitores eliminados e o que o resultado exige.
+**O que fica de pé:** a surpresa (chance de cerca de 27%, refeita na rodada 5), o eleitor de candidatos que apoiaram o Flávio indo mais para o Lula do que em qualquer eleição parecida desde 2002 (74% dos votos livres), o comparecimento subindo como nunca, o erro de todas as pesquisas para o mesmo lado (o 2º maior do Brasil), a queda inédita da abstenção, e a distância entre o que as pesquisas diziam dos eleitores eliminados e o que o resultado exige.
 
 **O que não se sustenta no dado deste projeto:** a ideia de que o resultado era improvável a ponto de 1 em 1.000 (é a conta que multiplica o mesmo fato quatro vezes); voto novo indo todo para um lado (ele se dividiu); votos sem origem em escala que importe (0,36% da frente, contra 4,8% em 2006); prorrogação ou exterior mudando o resultado (os tetos de pior caso ficam muito abaixo da frente); uma curva de apuração diferente da de 2022.
 
@@ -18,7 +18,7 @@ Esta leitura é do Claude, a partir dos números do [`RELATORIO.md`](../RELATORI
 
 **O que fica de pé:** a chance real antes da votação, o erro já visto em tamanho, a conta que fecha, a subida uniforme, o eleitor novo dividido, a apuração com a forma de sempre.
 
-**O que não explica bem:** por que nenhuma pesquisa chegou no número e por que a abstenção caiu tanto. A explicação do filtro de eleitor provável combina com o dado, mas não está provada.
+**O que não explica bem:** por que nenhuma pesquisa chegou no número, por que a abstenção caiu tanto e por que o eleitor de quem apoiou o Flávio foi tanto para o Lula. O espelho é 2022, quando o eleitor de Tebet e Ciro, que apoiaram o Lula, foi mais para o Bolsonaro: o apoio declarado não decidiu nas duas eleições. A explicação do filtro de eleitor provável combina com o dado, mas não está provada.
 
 ## Conclusão
 
