@@ -59,7 +59,7 @@ def g01_de_onde_vieram(R):
     v, t1 = R["resultado"]["variacao"], R["resultado"]["t1"]
     fig = figura("De onde vieram os votos do 2º turno, no saldo",
                  "O que os dois ganharam juntos é exatamente o que saiu dos outros, da abstenção e do branco e nulo")
-    ax = fig.add_axes([0.08, 0.14, 0.86, 0.66])
+    ax = fig.add_axes([0.08, 0.19, 0.86, 0.61])
     itens = [("Votos dos outros\ncandidatos", -v["outros_candidatos"], OUTROS), ("Voltaram a votar\n(abstenção caiu)", -v["abstencao"], "#8A8A8A"),
              ("Deixaram de votar\nbranco ou nulo", -v["branco_nulo"], "#B0B0B0"), ("Lula ganhou", v["lula"], COR["lula"]), ("Flávio ganhou", v["flavio"], COR["flavio"])]
     x = [0, 1, 2, 3.6, 4.6]
