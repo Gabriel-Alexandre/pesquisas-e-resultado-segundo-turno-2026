@@ -52,6 +52,75 @@ Em 2006 o PT levou **mais do que tudo o que estava livre** (126%), porque, além
 
 **O que o dado não separa:** quanto dos 6 milhões veio de cada candidato. Os eleitores de Cury, Renan e Caiado estão misturados nos mesmos municípios, e o ajuste candidato por candidato fica instável (`resultados/de_onde_vieram_por_candidato_2026.csv`). O total dos três juntos é estável.
 
+## O que justifica a virada (rodada 4)
+
+**Escopo deste projeto:** pesquisas, histórico e resultado por país, estado e município. O que é seção por seção (logs das urnas, boletins, horário de cada voto) é do projeto do vídeo 16 (`investigacao-segundo-turno-2026`); daqui só se cita o número que ele publicou dos votos depois das 17h: **34.810 votos no país**, que seriam 0,79% da diferença mesmo se fossem todos do Lula.
+
+**Os fatos de que se parte** (levantados com link em `dados/agentes/fatos_entre_os_turnos.md`):
+- **Os apoios:** Zema declarou voto no Flávio em 05/10, Caiado em 06/10 e Cury em 08/10 (com um termo de compromisso); Renan Santos ficou neutro e criticou o Flávio.
+- **As medidas do governo:** o Bolsa Família subiu 15,04% (decreto de 17/09, piso de R$ 600 para R$ 691) e a parcela de outubro foi paga em 19, 20 e 21/10, antes do 2º turno; o Prospera MEI (perdão de dívidas de MEIs a partir de 2027) foi anunciado em 13/10 e sancionado em 21/10; os impostos federais da gasolina foram zerados por 30 dias em 09/10.
+- **O transporte:** ônibus de graça no dia da votação era obrigatório no país; São Paulo rodou com frota maior no 2º turno.
+
+### 1. O eleitor de direita foi mais para o Flávio, mas não em bloco
+
+Renan, Caiado e Zema tinham **5,61 milhões** de votos no 1º turno. O Flávio inteiro ganhou **3,72 milhões** no 2º. Mesmo que todo o ganho do Flávio tivesse vindo desses três, faltariam 1,89 milhões: o apoio declarado não levou os eleitores junto.
+
+| Municípios pela força de Renan, Caiado e Zema | Os três no 1º turno | Lula levou dos votos livres | Flávio levou |
+|---|---|---|---|
+| 1 (mais fraco) | 1,7% | 99% | 1% |
+| 2 | 2,4% | 90% | 10% |
+| 3 | 3,1% | 81% | 19% |
+| 4 | 4,1% | 76% | 24% |
+| 5 (mais forte) | 7,4% | 67% | 33% |
+
+Onde os três eram mais fortes, o Flávio levou mais, como se esperaria; mesmo assim o Lula levou a maior parte. Em Goiás, a base do Caiado (12,3% no 1º turno), o Lula levou 57% dos votos livres.
+
+### 2. As medidas para os mais pobres não explicam a virada
+
+Se o reajuste e a antecipação do Bolsa Família tivessem virado votos, o Lula teria crescido mais nos municípios mais pobres, onde estão os beneficiários. Municípios em 5 grupos pela renda per capita do Censo 2022:
+
+| Grupo | Renda (mediana) | Lula no 1º turno | Lula ganhou a cada 100 eleitores | Flávio ganhou | Abstenção caiu (pontos) | Parte da virada da diferença | Parte do eleitorado |
+|---|---|---|---|---|---|---|---|
+| 1 (mais pobres) | R$ 659 | 72% | 4,6 | -0,1 | -0,1 | 11% | 10% |
+| 2 | R$ 824 | 65% | 6,1 | 0,7 | 1,4 | 16% | 12% |
+| 3 | R$ 1.183 | 49% | 6,6 | 1,8 | 1,6 | 18% | 16% |
+| 4 | R$ 1.452 | 41% | 6,5 | 2,6 | 1,8 | 14% | 15% |
+| 5 (mais ricos) | R$ 1.842 | 42% | 7,1 | 3,4 | 2,5 | 42% | 47% |
+
+- O Lula **ganhou menos votos por eleitor nos municípios mais pobres** (4,6 a cada 100) **do que nos mais ricos** (7,1), e foi nos mais ricos que a abstenção mais caiu.
+- Como o Flávio também ganhou mais nos mais ricos, **a virada da diferença foi parecida em todas as faixas de renda**: cada grupo deu à virada uma parte próxima do seu peso no eleitorado (um pouco acima nos três grupos mais pobres, um pouco abaixo nos dois mais ricos). Não há a concentração nos mais pobres que o Bolsa Família produziria.
+- As medidas voltadas à classe média urbana (MEI, gasolina) combinam com o lugar onde o Lula mais ganhou votos, mas **não foram testadas** aqui.
+
+### 3. Onde a virada aconteceu
+
+A diferença entre os dois andou de Flávio 2,24 milhões à frente para Lula 4,40 milhões à frente: uma virada de 6,64 milhões. Ela andou para o Lula em **5.228 municípios** e para o Flávio em 339. Os 211 municípios que trocaram de vencedor deram só 8% da virada; o resto veio de lugares que já eram de um lado e ficaram mais Lula.
+
+| Região | Parte da virada | Parte do eleitorado |
+|---|---|---|
+| Centro-Oeste | 4,5% | 7,6% |
+| Nordeste | 38,5% | 27,6% |
+| Norte | 6,9% | 8,3% |
+| Sudeste | 43,0% | 42,0% |
+| Sul | 7,0% | 14,5% |
+
+O Nordeste deu mais do que o seu peso; o Sul e o Centro-Oeste, menos. A maior contribuição de uma cidade sozinha foi a de São Paulo (0,47 milhões).
+
+### 4. O que apontava para o Lula antes da votação
+
+| 2º turno | Inclinação das pesquisas (pontos por semana para o PT) | Média da última semana | Reta das pesquisas no dia da eleição | Urna |
+|---|---|---|---|---|
+| 2014 | +2,4 | 51,1% | 49,4% | 51,6% |
+| 2018 | +2,9 | 42,1% | 45,7% | 44,9% |
+| 2022 | +0,8 | 52,0% | 50,6% | 50,9% |
+| 2026 | +0,6 | 49,1% | 49,5% | 51,8% |
+
+Em 2026 as pesquisas andavam para o Lula, mas devagar: a reta chegava a 49,5% no dia da eleição, ainda abaixo de 50%. Em 2014 e 2018 o PT subia de 2 a 3 pontos por semana na reta final. Os outros sinais a favor eram poucos: duas pesquisas (Vox Brasil e Colectta) e o eleitor de baixa propensão a votar, que no Datafolha da véspera dava Lula 52 a 48.
+
+### O que fica de pé, em uma frase por lado
+
+- **A favor do resultado:** a virada se espalhou por quase todos os municípios, veio de eleitores dos candidatos derrotados que não seguiram o apoio declarado (cerca de 6 milhões) e de gente que voltou a votar (cerca de 3,6 milhões), com mais força nas cidades maiores, e os votos depois das 17h não mudam nada.
+- **O que segue sem explicação completa:** por que tanta gente dos candidatos de direita não foi para o Flávio, e por que as pesquisas não captaram quem voltou a votar. O dado por município mostra onde e quanto; o motivo de cada eleitor, ele não mostra.
+
 ## 1. Como a chance foi calculada
 
 Três pilares, cada um medindo a chance de um jeito diferente, com **os pesos que o autor escolheu para a projeção do vídeo longo 14** (pesquisas pesam mais porque são a medida mais direta e mais recente; o histórico pesa menos porque tem poucos casos de presidente; o crescimento pesa menos ainda porque depende de um modelo de transferência de votos, que é a parte mais frágil):
@@ -253,4 +322,4 @@ O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/al
 
 ## 10. Validação
 
-17 de 17 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.
+18 de 18 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.

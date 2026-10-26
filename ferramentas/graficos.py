@@ -498,6 +498,72 @@ def g19_parte_dos_livres_por_ano(R):
     salvar(fig, "g19_parte_do_pt_nos_votos_livres.png")
 
 
+def g20_por_renda(R):
+    g = pd.DataFrame(R["porque"]["renda"]["grupos"])
+    fig = figura("Onde cada um ganhou votos, pela renda do município",
+                 "Votos ganhos do 1º para o 2º turno, a cada 100 eleitores (municípios em 5 grupos de mesmo número)")
+    ax = fig.add_axes([0.08, 0.34, 0.86, 0.46])
+    x = np.arange(len(g))
+    ax.bar(x - 0.2, g.lula_ganhou_por_100, width=0.38, color=COR["lula"])
+    ax.bar(x + 0.2, g.flavio_ganhou_por_100, width=0.38, color=COR["flavio"])
+    for i, r in g.iterrows():
+        ax.text(i - 0.2, r.lula_ganhou_por_100 + 0.15, br(r.lula_ganhou_por_100), ha="center", fontsize=20, weight="bold", color=TINTA)
+        ax.text(i + 0.2, max(r.flavio_ganhou_por_100, 0) + 0.15, br(r.flavio_ganhou_por_100), ha="center", fontsize=20, weight="bold", color=TINTA)
+        ax.text(i, -1.0, f"abstenção {('caiu ' + br(r.abstencao_caiu_pontos) + ' pt') if r.abstencao_caiu_pontos > 0.05 else 'parada'}\nvirada: {br(r.parte_da_virada_pct, 0)}% (eleitorado {br(r.parte_do_eleitorado_pct, 0)}%)",
+                ha="center", va="top", fontsize=14, color=TINTA2)
+    ax.axhline(0, color=TINTA2, lw=1.2)
+    ax.set_xticks(x, [f"{r.grupo}\nrenda de R$ {br(r.renda_media, 0)}" for r in g.itertuples()], fontsize=16)
+    ax.tick_params(axis="x", pad=70)
+    ax.set_ylim(-0.5, 8.5)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    ax.text(-0.4, 8.0, "■ Lula", color=COR["lula"], fontsize=22, weight="bold")
+    ax.text(0.4, 8.0, "■ Flávio", color=COR["flavio"], fontsize=22, weight="bold")
+    rodape(fig, "TSE, resultado por município nos dois turnos; IBGE, Censo 2022, rendimento domiciliar per capita (tabela 10295)")
+    salvar(fig, "g20_ganho_por_renda_do_municipio.png")
+
+
+def g21_eleitor_da_direita(R):
+    d = pd.DataFrame(R["porque"]["direita"]["direita (Renan, Caiado e Zema)"])
+    fig = figura("Onde a direita era mais forte, o Flávio levou mais",
+                 "Parte dos votos livres que cada um levou, pela força de Renan, Caiado e Zema no 1º turno")
+    ax = fig.add_axes([0.08, 0.16, 0.86, 0.62])
+    x = np.arange(len(d))
+    ax.bar(x, d.lula_levou_dos_livres_pct, color=COR["lula"], width=0.6)
+    ax.bar(x, d.flavio_levou_dos_livres_pct, bottom=d.lula_levou_dos_livres_pct, color=COR["flavio"], width=0.6)
+    for i, r in d.iterrows():
+        ax.text(i, r.lula_levou_dos_livres_pct / 2, f"{br(r.lula_levou_dos_livres_pct, 0)}%", ha="center", va="center", fontsize=22, color="white", weight="bold")
+        if r.flavio_levou_dos_livres_pct > 5:
+            ax.text(i, r.lula_levou_dos_livres_pct + r.flavio_levou_dos_livres_pct / 2, f"{br(r.flavio_levou_dos_livres_pct, 0)}%", ha="center", va="center", fontsize=22, color="white", weight="bold")
+    ax.set_xticks(x, [f"{r.grupo}\n(os três: {br(r.forca_media)}%)" for r in d.itertuples()], fontsize=17)
+    ax.set_ylim(0, 108)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    rodape(fig, "TSE, resultado por município nos dois turnos (municípios em 5 grupos pela soma de Renan, Caiado e Zema nos válidos do 1º turno)")
+    salvar(fig, "g21_eleitor_da_direita.png")
+
+
+def g22_tendencia_das_pesquisas(R):
+    t = pd.DataFrame(R["porque"]["tendencia"])
+    urna26 = R["resultado"]["t2"]["lula_pct"]
+    fig = figura("As pesquisas andavam para o PT, devagar em 2026",
+                 "Inclinação das pesquisas do 2º turno ao longo das últimas 3 semanas, em pontos por semana para o PT")
+    ax = fig.add_axes([0.08, 0.30, 0.86, 0.50])
+    x = np.arange(len(t))
+    ax.bar(x, t.inclinacao_por_semana, color=[COR["lula"] if a == 2026 else COR["base"] for a in t.ano], width=0.6)
+    for i, r in t.iterrows():
+        urna = r.urna if pd.notna(r.urna) else urna26
+        ax.text(i, r.inclinacao_por_semana + 0.08, f"+{br(r.inclinacao_por_semana)}", ha="center", fontsize=26, weight="bold", color=TINTA)
+        ax.text(i, -0.15, f"a reta dava {br(r.reta_no_dia)}%\na urna deu {br(urna)}%", ha="center", va="top", fontsize=17, color=TINTA2)
+    ax.set_xticks(x, [str(a) for a in t.ano], fontsize=26)
+    ax.tick_params(axis="x", pad=60)
+    ax.set_ylim(0, 3.5)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    rodape(fig, "pesquisas registradas no TSE (Pindograma, 2014 a 2022; este projeto, 2026), com o efeito de cada instituto descontado")
+    salvar(fig, "g22_tendencia_das_pesquisas.png")
+
+
 def n0(x: float) -> str:
     return br(x, 0)
 
@@ -512,7 +578,7 @@ def main() -> None:
         f(R)
 
 
-EXTRAS: list = [g16_erro_pesquisas_historico, g17_soma_ingenua, g18_de_onde_vieram_os_10_milhoes, g19_parte_dos_livres_por_ano]
+EXTRAS: list = [g16_erro_pesquisas_historico, g17_soma_ingenua, g18_de_onde_vieram_os_10_milhoes, g19_parte_dos_livres_por_ano, g20_por_renda, g21_eleitor_da_direita, g22_tendencia_das_pesquisas]
 
 
 if __name__ == "__main__":

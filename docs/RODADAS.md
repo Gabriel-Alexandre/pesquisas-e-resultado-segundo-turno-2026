@@ -21,6 +21,12 @@ O texto abaixo foi o registro da interrupção pelo limite de uso, mantido como 
 
 Pedido dele: *"de onde veio os 10 milhões de votos que o Lula teve a mais [...] Você tá ficando muito em cima do muro"*. Entrou no topo do relatório a conta das três origens (eleitores dos outros candidatos, quem não tinha votado em ninguém, eleitores do Flávio que mudaram), por três ajustes que concordam, com o teste do método em 2006 (quando a troca de voto existiu e ele a encontra), a parte dos votos livres que o PT levou em cada eleição e onde o ganho aconteceu.
 
+## Rodada 4 · 26/10/2026 (o que justifica a virada)
+
+Pedido dele: o que justifica a virada (as medidas do governo, o eleitor de direita dos candidatos derrotados, onde ela aconteceu, os votos depois das 17h), e se o resultado é suspeito demais. Com a ressalva dele: *"o vídeo [...] tem um escopo mais reduzido se comparado ao vídeo 16"*, e o pedido de fazer pelo caminho mais simples (*"poderia ser bem mais simples e mais rápido"*): no lugar das bases de Bolsa Família e MEI por município, a renda per capita do Censo 2022.
+
+Entrou no relatório a seção "O que justifica a virada": os fatos com link (apoios, medidas, transporte), o eleitor de direita em 5 grupos de município, a virada por renda, por região e por município, a tendência das pesquisas de 2014 a 2026, e o número dos votos depois das 17h publicado pelo vídeo 16 (34.810).
+
 ### Registro da interrupção
 
 Pedido dele: a rodada 1 ficou superficial; faltou contexto histórico (as pesquisas já erraram tanto?), a probabilidade explicada com pesos e o porquê, e mais suposições testadas na lente da fraude.

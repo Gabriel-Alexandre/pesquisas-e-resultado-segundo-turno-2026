@@ -4,7 +4,7 @@
 
 ## Em uma frase
 
-Rodada 2 publicada: a chance do que aconteceu em três pilares com os pesos do vídeo 14, o erro das pesquisas contra 2002 a 2022 e 35 segundos turnos de outros países, os testes da lente da fraude com 2002 a 2022 de régua, e as alegações na versão mais forte. Base de viradas com 142 segundos turnos presidenciais de outros países (conferidos na Wikipédia) incorporada ao pilar do histórico.
+Rodada 4 publicada: o relatório abre com de onde vieram os 10,38 milhões do Lula e o que justifica a virada (o eleitor de direita, a renda do município, onde ela aconteceu, a tendência das pesquisas), seguido da chance em três pilares e das duas lentes. Escopo menor que o do vídeo 16, por decisão do autor.
 
 ## O que está pronto
 
@@ -13,9 +13,9 @@ Rodada 2 publicada: a chance do que aconteceu em três pilares com os pesos do v
 | Resultado oficial dos dois turnos (país, UFs, 5.571 municípios), governador | `dados/derivados/` (brutos fora do git, hash no manifesto) |
 | 54 pesquisas de 2º turno, 53 conferidas no registro do TSE e numa segunda fonte | `dados/derivados/pesquisas_2t_conferidas.csv` |
 | Contas | `resultados/RESUMO.json` e as tabelas em `resultados/` |
-| Validação independente | 18 de 18 (`resultados/validacao_independente.csv`) |
+| Validação independente | 19 de 19 (`resultados/validacao_independente.csv`) |
 | Relatório, resumo, leitura das duas lentes | `RELATORIO.md`, `RESUMO_SIMPLES.md`, `docs/LEITURA_DA_IA.md` |
-| 19 gráficos 1920x1080 | `resultados/figuras/` |
+| 22 gráficos 1920x1080 | `resultados/figuras/` |
 | Pesquisas de apoio (alegações, erro das pesquisas no mundo, cruzamento do voto do 1º turno) | `dados/agentes/`, conferidas em `dados/derivados/*_conferido*.csv` por `ferramentas/conferir-agentes.py` |
 
 ## Próxima rodada

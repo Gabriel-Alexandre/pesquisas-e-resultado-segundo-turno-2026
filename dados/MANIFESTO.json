@@ -2359,6 +2359,13 @@
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election (2º turno, outubro, revid 1382072287)",
    "sha256": "9d438de3559ed5978a3fe01a0373eeabcaa34b5a1f47c3f94460e094f2b787c0"
   },
+  "dados/brutos/externos/ibge/renda_pc_censo2022_t10295.json": {
+   "bytes": 3480186,
+   "hora": "2026-10-26T17:48:51+00:00",
+   "nota": "IBGE, Censo 2022, tabela 10295, rendimento nominal médio mensal domiciliar per capita (variável 13431)",
+   "origem": "https://apisidra.ibge.gov.br/values/t/10295/n6/all/v/13431/p/2022/c2/6794/c86/95251/c58/95253",
+   "sha256": "dbb81eeba52dc129eda92feaa7fb709f80cd73a9c6c8b5a0ef2a0b7a47f5e31e"
+  },
   "dados/brutos/pesquisa_eleitoral_2026.zip": {
    "bytes": 6214296,
    "hora": "2026-10-26T13:22:28+00:00",
@@ -83817,6 +83824,13 @@
    "nota": "derivado dos arquivos do TSE em dados/brutos/tse (hash no manifesto)",
    "origem": "ferramentas/derivar.py",
    "sha256": "3cd41623ffa021867cfe60e240e14cfd3489a1bc5b8ba92a954df364f9bb8116"
+  },
+  "dados/derivados/renda_municipio_censo2022.csv": {
+   "bytes": 192838,
+   "hora": "2026-10-26T17:48:51+00:00",
+   "nota": "derivado do arquivo do IBGE acima",
+   "origem": "ferramentas/renda-censo.py",
+   "sha256": "54f4733a2ab72228cff42a84fc77fec8040ec2ca61d8d6d3e9daf6bf95e7fe9d"
   },
   "dados/derivados/runoffs_conferidos.csv": {
    "bytes": 24614,

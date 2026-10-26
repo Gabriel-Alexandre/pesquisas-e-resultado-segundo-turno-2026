@@ -20,4 +20,7 @@
 
 ## O que fica fora (e onde mora)
 
+🔴 **Escopo, decisão do autor (26/10):** este vídeo tem escopo menor que o do vídeo 16. Aqui ficam as pesquisas, o histórico e o resultado por país, estado e município. Seção por seção, logs, boletins e horário de cada voto são do vídeo 16; deles, este projeto só cita números já publicados lá, em uma linha.
+
+
 A apuração seção a seção, a hora de chegada dos boletins, a pausa da votação e os registros das urnas são o projeto do vídeo longo 16, [`investigacao-segundo-turno-2026`](https://github.com/Gabriel-Alexandre/investigacao-segundo-turno-2026).

@@ -104,7 +104,14 @@ def main() -> None:
     mus = list(csv.DictReader(open(RAIZ / "dados" / "derivados" / "presidente_municipio.csv", encoding="utf-8")))
     d_aptos = sum(float(m["eleitores_2t"]) - float(m["eleitores_1t"]) for m in mus if m["uf"] != "zz")
     conf("ganho dos dois = votos livres + variação do eleitorado (municípios)", d26["ganho_pt"] + d26["ganho_adversario"], d26["livres_no_saldo"] + d_aptos, 1)
+    # rodada 4: o ganho do Lula a cada 100 eleitores nos 20% de municípios mais pobres, refeito sem o código da análise
     import pandas as pd
+    rr = pd.read_csv(RAIZ / "dados" / "derivados" / "renda_municipio_censo2022.csv", dtype={"cd_ibge": str})
+    mm = pd.read_csv(RAIZ / "dados" / "derivados" / "presidente_municipio.csv", dtype={"cd_ibge": str})
+    mm = mm[mm.uf != "zz"].merge(rr, on="cd_ibge")
+    pobres = mm[mm.renda_pc <= mm.renda_pc.quantile(0.2)]
+    conf("Lula ganhou a cada 100 eleitores, 20% mais pobres", 100 * (pobres.lula_2t.sum() - pobres.lula_1t.sum()) / pobres.eleitores_1t.sum(),
+         R["porque"]["renda"]["grupos"][0]["lula_ganhou_por_100"], 0.01)
     v = pd.read_parquet(RAIZ / "dados" / "copias" / "previsao-segundo-turno-2026" / "mun_votos.parquet")
     a6 = v[(v.ano == 2006) & ~v.uf.isin(["ZZ", "VT"])]
     alck = a6[a6.partido == 45].groupby("turno").votos.sum()

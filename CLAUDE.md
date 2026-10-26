@@ -7,5 +7,6 @@ Projeto de dados do vídeo longo 19 (pesquisas, regras e resultado do 2º turno 
 - Antes de publicar: `validacao-independente.py` 100%, `conferir-linguagem.py` ok, `pytest` passando, gráficos abertos e olhados.
 - Os dois lados sempre: toda leitura passa pela lente L (legítimo) e pela lente F (fraude), com espelho para os dois candidatos. "Fraude" só como nome de hipótese.
 - ⛔ recomendação de voto, julgamento de intenção, "mentiu". Texto público sem travessão.
+- 🔴 **Escopo menor que o do vídeo 16** (decisão do autor, 26/10): pesquisas, histórico e resultado por país, estado e município. Seção por seção, logs e boletins são do vídeo 16; aqui só se citam números já publicados lá. Preferir o caminho mais simples que responde a pergunta.
 - Não escrever em repositório de outro projeto: ler com cópia e hash (`ferramentas/copiar-referencias.py`).
 - Commit e push: o autor autorizou para esta execução; nos próximos pedidos, seguir o que ele disser.

@@ -155,6 +155,17 @@ parte4 = 100 * top.lula_ganhou.sum() / GL
 tab_livres = "\n".join(f"| {int(x.ano)} | {mi(x.livres_no_saldo)} | {br(x.parte_do_pt_nos_livres_pct, 0)}% | {mi(x.pt_da_troca)} |" for x in dov.itertuples())
 d06 = dov[dov.ano == 2006].iloc[0]
 d22 = dov[dov.ano == 2022].iloc[0]
+# ------------------------------------------------------------------ o porquê (rodada 4)
+PQ4 = R["porque"]
+ond4, dir4, ren4 = PQ4["onde"], PQ4["direita"], PQ4["renda"]
+gr = pd.DataFrame(ren4["grupos"])
+dr = pd.DataFrame(dir4["direita (Renan, Caiado e Zema)"])
+tn = pd.DataFrame(PQ4["tendencia"])
+direita_1t = t1["renan"] + t1["caiado"] + t1["zema"]
+tab_renda = "\n".join(f"| {x.grupo} | R$ {n(x.renda_media)} | {br(x.lula_1t_pct, 0)}% | {br(x.lula_ganhou_por_100)} | {br(x.flavio_ganhou_por_100)} | {br(x.abstencao_caiu_pontos)} | {br(x.parte_da_virada_pct, 0)}% | {br(x.parte_do_eleitorado_pct, 0)}% |" for x in gr.itertuples())
+tab_dir = "\n".join(f"| {x.grupo} | {br(x.forca_media)}% | {br(x.lula_levou_dos_livres_pct, 0)}% | {br(x.flavio_levou_dos_livres_pct, 0)}% |" for x in dr.itertuples())
+tab_reg4 = "\n".join(f"| {x['regiao']} | {br(x['parte_da_virada_pct'], 1)}% | {br(x['parte_do_eleitorado_pct'], 1)}% |" for x in ond4["por_regiao"])
+tab_tend = "\n".join(f"| {int(x.ano)} | {'+' if x.inclinacao_por_semana > 0 else ''}{br(x.inclinacao_por_semana)} | {br(x.media_ultima_semana)}% | {br(x.reta_no_dia)}% | {br(x.urna if pd.notna(x.urna) else t2['lula_pct'])}% |" for x in tn.itertuples())
 # ------------------------------------------------------------------ RELATÓRIO
 relatorio = f"""# Relatório: as pesquisas, o histórico e a chance do que aconteceu no 2º turno de 2026
 
@@ -196,6 +207,60 @@ Em 2006 o PT levou **mais do que tudo o que estava livre** ({br(d06.parte_do_pt_
 **Por que isso surpreendeu:** as pesquisas diziam que os eleitores de Renan e de Caiado iam mais para o Flávio, e somando os três maiores o Flávio levaria uns {mi(tp['flavio_receberia'] - tp['lula_receberia']) if tp else ''} a mais. O resultado mostra o contrário: 2 em cada 3 votaram no Lula. Esses cruzamentos das pesquisas usam grupos de 40 a 100 entrevistados, com margem de erro de 10 pontos ou mais, e em 2022 também não acertaram: davam de 42% a 60% do eleitor de Ciro e de Tebet para o Lula, e o Bolsonaro levou {br(100 - d22.parte_do_pt_nos_livres_pct, 0)}% dos votos livres. E o filtro de eleitor provável trabalha contra quem tende a faltar: na Nexus da véspera, tirar os 21% menos propensos a votar baixava o Lula de 49,5% para 47,6%, e foi justamente esse eleitor que voltou a votar.
 
 **O que o dado não separa:** quanto dos 6 milhões veio de cada candidato. Os eleitores de Cury, Renan e Caiado estão misturados nos mesmos municípios, e o ajuste candidato por candidato fica instável (`resultados/de_onde_vieram_por_candidato_2026.csv`). O total dos três juntos é estável.
+
+## O que justifica a virada (rodada 4)
+
+**Escopo deste projeto:** pesquisas, histórico e resultado por país, estado e município. O que é seção por seção (logs das urnas, boletins, horário de cada voto) é do projeto do vídeo 16 (`investigacao-segundo-turno-2026`); daqui só se cita o número que ele publicou dos votos depois das 17h: **34.810 votos no país**, que seriam 0,79% da diferença mesmo se fossem todos do Lula.
+
+**Os fatos de que se parte** (levantados com link em `dados/agentes/fatos_entre_os_turnos.md`):
+- **Os apoios:** Zema declarou voto no Flávio em 05/10, Caiado em 06/10 e Cury em 08/10 (com um termo de compromisso); Renan Santos ficou neutro e criticou o Flávio.
+- **As medidas do governo:** o Bolsa Família subiu 15,04% (decreto de 17/09, piso de R$ 600 para R$ 691) e a parcela de outubro foi paga em 19, 20 e 21/10, antes do 2º turno; o Prospera MEI (perdão de dívidas de MEIs a partir de 2027) foi anunciado em 13/10 e sancionado em 21/10; os impostos federais da gasolina foram zerados por 30 dias em 09/10.
+- **O transporte:** ônibus de graça no dia da votação era obrigatório no país; São Paulo rodou com frota maior no 2º turno.
+
+### 1. O eleitor de direita foi mais para o Flávio, mas não em bloco
+
+Renan, Caiado e Zema tinham **{mi(direita_1t)}** de votos no 1º turno. O Flávio inteiro ganhou **{mi(v['flavio'])}** no 2º. Mesmo que todo o ganho do Flávio tivesse vindo desses três, faltariam {mi(direita_1t - v['flavio'])}: o apoio declarado não levou os eleitores junto.
+
+| Municípios pela força de Renan, Caiado e Zema | Os três no 1º turno | Lula levou dos votos livres | Flávio levou |
+|---|---|---|---|
+{tab_dir}
+
+Onde os três eram mais fortes, o Flávio levou mais, como se esperaria; mesmo assim o Lula levou a maior parte. Em Goiás, a base do Caiado ({br(dir4['goias']['caiado_1t_pct'], 1)}% no 1º turno), o Lula levou {br(dir4['goias']['lula_levou_pct'], 0)}% dos votos livres.
+
+### 2. As medidas para os mais pobres não explicam a virada
+
+Se o reajuste e a antecipação do Bolsa Família tivessem virado votos, o Lula teria crescido mais nos municípios mais pobres, onde estão os beneficiários. Municípios em 5 grupos pela renda per capita do Censo 2022:
+
+| Grupo | Renda (mediana) | Lula no 1º turno | Lula ganhou a cada 100 eleitores | Flávio ganhou | Abstenção caiu (pontos) | Parte da virada da diferença | Parte do eleitorado |
+|---|---|---|---|---|---|---|---|
+{tab_renda}
+
+- O Lula **ganhou menos votos por eleitor nos municípios mais pobres** ({br(gr.iloc[0].lula_ganhou_por_100)} a cada 100) **do que nos mais ricos** ({br(gr.iloc[-1].lula_ganhou_por_100)}), e foi nos mais ricos que a abstenção mais caiu.
+- Como o Flávio também ganhou mais nos mais ricos, **a virada da diferença foi parecida em todas as faixas de renda**: cada grupo deu à virada uma parte próxima do seu peso no eleitorado (um pouco acima nos três grupos mais pobres, um pouco abaixo nos dois mais ricos). Não há a concentração nos mais pobres que o Bolsa Família produziria.
+- As medidas voltadas à classe média urbana (MEI, gasolina) combinam com o lugar onde o Lula mais ganhou votos, mas **não foram testadas** aqui.
+
+### 3. Onde a virada aconteceu
+
+A diferença entre os dois andou de Flávio {mi(-ond4['margem_1t'])} à frente para Lula {mi(ond4['margem_2t'])} à frente: uma virada de {mi(ond4['virada_total'])}. Ela andou para o Lula em **{n(ond4['municipios_em_que_a_margem_andou_para_o_lula'])} municípios** e para o Flávio em {n(ond4['municipios_em_que_andou_para_o_flavio'])}. Os {ond4['municipios_que_viraram']['quantos']} municípios que trocaram de vencedor deram só {br(ond4['municipios_que_viraram']['parte_pct'], 0)}% da virada; o resto veio de lugares que já eram de um lado e ficaram mais Lula.
+
+| Região | Parte da virada | Parte do eleitorado |
+|---|---|---|
+{tab_reg4}
+
+O Nordeste deu mais do que o seu peso; o Sul e o Centro-Oeste, menos. A maior contribuição de uma cidade sozinha foi a de São Paulo ({mi(ond4['maiores_contribuicoes'][0]['virada_margem'])}).
+
+### 4. O que apontava para o Lula antes da votação
+
+| 2º turno | Inclinação das pesquisas (pontos por semana para o PT) | Média da última semana | Reta das pesquisas no dia da eleição | Urna |
+|---|---|---|---|---|
+{tab_tend}
+
+Em 2026 as pesquisas andavam para o Lula, mas devagar: a reta chegava a {br(tn[tn.ano == 2026].reta_no_dia.iloc[0])}% no dia da eleição, ainda abaixo de 50%. Em 2014 e 2018 o PT subia de 2 a 3 pontos por semana na reta final. Os outros sinais a favor eram poucos: duas pesquisas (Vox Brasil e Colectta) e o eleitor de baixa propensão a votar, que no Datafolha da véspera dava Lula 52 a 48.
+
+### O que fica de pé, em uma frase por lado
+
+- **A favor do resultado:** a virada se espalhou por quase todos os municípios, veio de eleitores dos candidatos derrotados que não seguiram o apoio declarado (cerca de 6 milhões) e de gente que voltou a votar (cerca de 3,6 milhões), com mais força nas cidades maiores, e os votos depois das 17h não mudam nada.
+- **O que segue sem explicação completa:** por que tanta gente dos candidatos de direita não foi para o Flávio, e por que as pesquisas não captaram quem voltou a votar. O dado por município mostra onde e quanto; o motivo de cada eleitor, ele não mostra.
 
 ## 1. Como a chance foi calculada
 

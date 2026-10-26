@@ -13,6 +13,7 @@ import pandas as pd  # noqa: E402
 from analise import alegacoes as A  # noqa: E402
 from analise import historia as HI  # noqa: E402
 from analise import modelo as M  # noqa: E402
+from analise import porque as QQ  # noqa: E402
 from analise import probabilidade as PB  # noqa: E402
 from analise.comum import COPIAS, DERIV  # noqa: E402
 from analise.comum import RES, salvar_json  # noqa: E402
@@ -151,6 +152,11 @@ def main() -> None:
                          "ajustes_2026": {k: {"dos_outros": float(a_), "dos_novos": float(b_), "da_troca": float(c_)} for k, (a_, b_, c_) in ajustes.items()},
                          "outros_livres": float(d26.outros_livres), "novos_livres": float(d26.novos_livres),
                          "ganho_lula_municipios": float(d26.ganho_pt), "ganho_flavio_municipios": float(d26.ganho_adversario)}
+    # rodada 4: o porquê (onde a virada aconteceu, o eleitor de direita, a renda, a tendência das pesquisas)
+    tend = QQ.tendencia_pesquisas(p)
+    tend.to_csv(RES / "tendencia_das_pesquisas.csv", index=False)
+    resumo["porque"] = {"onde": QQ.onde_a_virada(), "direita": QQ.eleitor_da_direita(), "renda": QQ.por_renda(),
+                        "tendencia": tend.to_dict("records")}
     cz = DERIV / "cruzamento_voto_1t_conferido.csv"
     if cz.exists():
         t1 = r["t1"]
