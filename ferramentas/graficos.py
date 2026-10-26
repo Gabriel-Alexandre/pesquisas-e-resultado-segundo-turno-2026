@@ -637,6 +637,29 @@ def g25_a_chance_refeita(R):
     salvar(fig, "g25_a_chance_refeita.png")
 
 
+def g26_quem_voltou_a_votar(R):
+    f = pd.DataFrame(R["videos"]["faixas"])
+    f = f[f.ano == 2026].reset_index(drop=True)
+    fig = figura("Onde mais gente voltou a votar, o Lula não levou mais",
+                 "Municípios em 5 grupos pela mudança do comparecimento; parte do Lula no que os dois ganharam, 2026")
+    ax = fig.add_axes([0.08, 0.30, 0.86, 0.50])
+    x = np.arange(len(f))
+    ax.bar(x, f.parte_do_pt_no_ganho_pct.clip(upper=100), color=COR["lula"], width=0.6)
+    for i, r in f.iterrows():
+        v = r.parte_do_pt_no_ganho_pct
+        ax.text(i, min(v, 100) + 2, f"{br(v, 0)}%" + (" *" if v > 100 else ""), ha="center", fontsize=26, weight="bold", color=TINTA)
+        ax.text(i, -6, f"comparecimento {'+' if r.comparecimento_variou_pontos > 0 else ''}{br(r.comparecimento_variou_pontos)} pt", ha="center", va="top", fontsize=18, color=TINTA2)
+    ax.axhline(50, color=TINTA2, lw=1.2, ls=(0, (4, 4)))
+    ax.set_xticks(x, list(f.grupo), fontsize=22)
+    ax.tick_params(axis="x", pad=50)
+    ax.set_ylim(0, 112)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    fig.text(0.08, 0.81, "* onde o comparecimento caiu, o Flávio perdeu votos e o Lula ganhou mesmo sem ninguém novo votando", fontsize=16, color=TINTA2)
+    rodape(fig, "TSE, resultado e comparecimento por município nos dois turnos de 2026 (resultados/votos_novos_por_faixa.csv)")
+    salvar(fig, "g26_quem_voltou_a_votar.png")
+
+
 def n0(x: float) -> str:
     return br(x, 0)
 
@@ -652,7 +675,7 @@ def main() -> None:
 
 
 EXTRAS: list = [g16_erro_pesquisas_historico, g17_soma_ingenua, g18_de_onde_vieram_os_10_milhoes, g19_parte_dos_livres_por_ano, g20_por_renda, g21_eleitor_da_direita, g22_tendencia_das_pesquisas,
-                g23_votos_livres_e_quem_saiu, g24_comparecimento_por_ano, g25_a_chance_refeita]
+                g23_votos_livres_e_quem_saiu, g24_comparecimento_por_ano, g25_a_chance_refeita, g26_quem_voltou_a_votar]
 
 
 if __name__ == "__main__":

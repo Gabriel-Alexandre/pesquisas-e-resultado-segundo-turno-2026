@@ -175,6 +175,15 @@ def main() -> None:
                            r["t1"]["flavio_pct"], extra, pr["polymarket_lula_vespera"], resumo["probabilidade_v2"])
     resumo["normalidade"] = {"campo": campo.to_dict("records"), "comparecimento": comp.to_dict("records"),
                              "como_seria_pelas_pesquisas": seria, "chance": ch}
+    # rodada 6: as contas dos vídeos que circularam depois do resultado
+    faixas = NO.votos_novos_por_faixa(painel)
+    divisao = NO.divisao_simples_por_ano(painel)
+    sem_novos = NO.onde_ninguem_novo_votou(painel)
+    for df, nome in ((faixas, "votos_novos_por_faixa"), (divisao, "divisao_simples_por_ano"), (sem_novos, "onde_ninguem_novo_votou")):
+        df.to_csv(RES / f"{nome}.csv", index=False)
+    resumo["videos"] = {"conta_dos_60": NO.conta_dos_60_por_cento(r["variacao"]), "faixas": faixas.to_dict("records"),
+                        "divisao": divisao.to_dict("records"), "sem_novos": sem_novos.to_dict("records"),
+                        "simulacao_por_ano": [NO.simulacao_com_as_taxas_de_um_ano(painel, a) for a in (2002, 2006, 2010, 2014, 2018, 2022)]}
     salvar_json(resumo, RES / "RESUMO.json")
     print("ok: resultados/RESUMO.json")
 

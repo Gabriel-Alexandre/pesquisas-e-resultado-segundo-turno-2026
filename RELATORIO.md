@@ -74,6 +74,17 @@ A conta da rodada 2 tinha três defeitos. Dois puxavam a chance para cima, e um 
 
 **Veredito:** a chance era **menor do que a rodada 2 disse: cerca de 27%, perto de 1 em 4**, com ponta de baixo de 8% e o mercado em 24%. Abaixo de 1 em 12,0 ela não vai por nenhum dos caminhos calculados aqui: com a frente de 1,6 ponto nas pesquisas, basta um erro de 2º turno do tamanho que já aconteceu muitas vezes. Ganhar por 3,6 pontos ou mais era mais raro: 13% (1 em 7,6).
 
+## Rodada 6: os vídeos que circularam depois do resultado
+
+O autor mandou 6 vídeos que circularam nas redes (Tarcísio de Freitas, Nikolas Ferreira e 4 criadores no TikTok) e pediu para ver se eles batem com este projeto ou trazem um ponto que faltava. A análise afirmação por afirmação está em [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md). O principal:
+
+- **A conta dos 98% (@carlosphyll).** Com 60% dos votos dos outros candidatos para o Lula, faltariam 4,79 milhões, 100,1% dos votos novos (4,78 milhões). A aritmética confere (e os 40% restantes dão ao Flávio 3,73 milhões, o que ele ganhou). A conclusão, de que quase todo eleitor novo escolheu o Lula, não segue: os 60% são uma escolha. Nos 1.133 municípios em que o comparecimento caiu, onde no saldo ninguém novo votou, o Flávio perdeu 39 mil votos e o Lula ganhou 710 mil, 83% dos votos dos outros candidatos ali (nos mesmos municípios, de 2002 a 2022 sem 2006: de 14% a 57%). E onde o comparecimento subiu, a parte do Lula no que os dois ganharam ficou entre 69% e 76%, sem subir junto com o comparecimento (`g26`). **A estranheza está no eleitor livre inteiro, não em quem voltou a votar.**
+- **O mesmo 73,6% (@pietragrisotto)** e o Lula subindo quase 8 pontos no Sudeste e 7,5 no Centro-Oeste: os números conferem; é a estranheza da rodada 5.
+- **As "primeiras vezes" (Nikolas Ferreira):** a virada, a regra do 1º turno e a de Minas no 1º turno são verdade e são o mesmo fato; a prorrogação nacional é um fato separado e também é verdade (a 1ª da história), com efeito em voto medido pelo projeto do vídeo 16.
+- **O mercado no dia seguinte (@igor.bevilaqua):** o circuit breaker de 26/10 confere; o resto é do projeto do vídeo 18.
+- **A simulação do Tarcísio de Freitas (antes do resultado):** a taxa de conversão de 2022 por UF aplicada a 2026, com fator aleatório, dá o Flávio com 52,6%, o número dele. O fator só varia em volta de 2022; com cada outro ano-base o mesmo método dá: 2002: Lula 48,8%; 2006: Lula 55,6%; 2010: Lula 48,4%; 2014: Lula 48,2%; 2018: Lula 50,0%; 2022: Lula 47,4%. A faixa de 90% dele (51,8% a 53,6% para o Flávio) não cobria a chance de 2026 não se comportar como 2022, que foi o que aconteceu.
+- ⚠️ **Duas contas simples deste projeto discordam** sobre como quem voltou a votar se dividiu (51% e 45% controlando o 1º turno; 80% e 20% sem controle). As duas são estimativas; a leitura sem modelo é a dos grupos de municípios acima.
+
 ## De onde vieram os 10,38 milhões de votos a mais do Lula
 
 **A conta fecha, voto por voto.** Entre o 1º e o 2º turno ficaram livres 14,10 milhões de votos: os 9,32 milhões dos candidatos que saíram, 2,96 milhões de pessoas que não tinham votado e votaram, e 1,82 milhões que tinham votado branco ou nulo e escolheram alguém. O Lula ficou com 10,38 milhões e o Flávio com 3,72 milhões. Soma: 14,10 milhões, exatamente o que estava livre. **O Lula levou 3 de cada 4 votos que estavam em jogo.**
@@ -390,4 +401,4 @@ O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/al
 
 ## 10. Validação
 
-22 de 22 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.
+24 de 24 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.

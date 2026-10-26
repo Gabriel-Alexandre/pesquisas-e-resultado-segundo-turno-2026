@@ -178,3 +178,86 @@ def chance_refeita(casos: pd.DataFrame, erros: pd.DataFrame, erros_runoffs: pd.D
                             "lula_pct_por_padrao": cp[["padrao_de", "lula_pct"]].round(2).to_dict("records")},
             "pilares": pil, "linear": linear, "bayes": bayes, "independente": independente,
             "bayes_resultado_igual_ou_maior": bayes_mag, "mercado": mercado, "variantes": variantes}
+
+
+# ------------------------------------------------------------------ 4. rodada 6: as contas dos vídeos que circularam
+def conta_dos_60_por_cento(variacao: dict, parte_dos_outros: float = 0.60) -> dict:
+    """A conta de um vídeo que circulou: se os eleitores de Lula e Flávio repetiram o voto e 60% dos votos dos outros
+    candidatos foram para o Lula, quanto dos votos novos (abstenção e branco e nulo que caíram) o Lula precisou levar."""
+    outros = -variacao["outros_candidatos"]
+    novos = -variacao["abstencao"] - variacao["branco_nulo"]
+    falta = variacao["lula"] - parte_dos_outros * outros
+    return {"outros": outros, "novos": novos, "lula_dos_outros": parte_dos_outros * outros, "falta": falta,
+            "parte_dos_novos_pct": 100 * falta / novos,
+            "flavio_dos_outros_se_40": (1 - parte_dos_outros) * outros, "flavio_ganhou": variacao["flavio"]}
+
+
+def votos_novos_por_faixa(p: pd.DataFrame, anos=(2022, 2026)) -> pd.DataFrame:
+    """Municípios em 5 grupos do mesmo tamanho pela mudança do comparecimento. Se quem voltou a votar tivesse ido quase
+    todo para um lado, a parte desse lado no que os dois ganharam subiria de um grupo para o outro."""
+    out = []
+    for ano in anos:
+        v = p[p.ano == ano].copy()
+        v["dc"] = 100 * (v.abs1 - v.abs2) / v.aptos1
+        v["grupo"] = pd.qcut(v.dc.rank(method="first"), 5, labels=["1 (caiu mais)", "2", "3", "4", "5 (subiu mais)"])
+        for g, x in v.groupby("grupo", observed=True):
+            gl, gf, e = (x.pt2 - x.pt1).sum(), (x.anti2 - x.anti1).sum(), x.aptos1.sum()
+            out.append({"ano": int(ano), "grupo": str(g), "municipios": int(len(x)),
+                        "comparecimento_variou_pontos": float(np.average(x.dc, weights=x.aptos1)),
+                        "votos_novos_por_100": float(100 * ((x.abs1 - x.abs2) + (x.bn1 - x.bn2)).sum() / e),
+                        "pt_ganhou_por_100": float(100 * gl / e), "adversario_ganhou_por_100": float(100 * gf / e),
+                        "parte_do_pt_no_ganho_pct": float(100 * gl / (gl + gf))})
+    return pd.DataFrame(out)
+
+
+def divisao_simples_por_ano(p: pd.DataFrame) -> pd.DataFrame:
+    """A conta mais simples que separa as duas origens: em cada município, o ganho de cada lado como uma parte dos votos
+    dos outros candidatos mais uma parte dos votos novos (sem constante, ponderado pelo eleitorado)."""
+    out = []
+    for ano, v in p.groupby("ano"):
+        e = v.aptos1.to_numpy(float)
+        X = np.column_stack([v.out1 / e, ((v.abs1 - v.abs2) + (v.bn1 - v.bn2)) / e])
+        lin = {}
+        for lado, col in (("pt", "pt"), ("adversario", "anti")):
+            y = ((v[f"{col}2"] - v[f"{col}1"]) / e).to_numpy(float)
+            b, *_ = np.linalg.lstsq(X * np.sqrt(e)[:, None], y * np.sqrt(e), rcond=None)
+            lin[lado] = b
+        out.append({"ano": int(ano), "outros_para_pt": float(lin["pt"][0]), "outros_para_adversario": float(lin["adversario"][0]),
+                    "novos_para_pt": float(lin["pt"][1]), "novos_para_adversario": float(lin["adversario"][1])})
+    return pd.DataFrame(out)
+
+
+def onde_ninguem_novo_votou(p: pd.DataFrame) -> pd.DataFrame:
+    """Municípios em que o comparecimento caiu do 1º para o 2º turno (não houve voto novo no saldo): quanto cada lado
+    ganhou ali, em cada eleição."""
+    out = []
+    for ano, v in p.groupby("ano"):
+        x = v[v.abs2 >= v.abs1]
+        gl, gf = (x.pt2 - x.pt1).sum(), (x.anti2 - x.anti1).sum()
+        out.append({"ano": int(ano), "municipios": int(len(x)), "eleitores": float(x.aptos1.sum()), "pt_ganhou": float(gl),
+                    "adversario_ganhou": float(gf), "votos_dos_outros": float(x.out1.sum()),
+                    "pt_ganhou_sobre_os_outros_pct": float(100 * gl / x.out1.sum())})
+    return pd.DataFrame(out)
+
+
+def simulacao_com_as_taxas_de_um_ano(p: pd.DataFrame, ano_base: int, desvio: float = 0.2, n: int = 10_000,
+                                     semente: int = 2026) -> dict:
+    """A simulação mostrada num dos vídeos (Tarcísio de Freitas): em cada UF, a taxa de conversão dos votos dos outros
+    candidatos do ano-base ((votos 2º turno − votos 1º turno) ÷ votos dos outros no 1º turno, para cada lado), aplicada
+    ao 1º turno de 2026, com um fator aleatório normal em volta de 1, n vezes. Feita para cada ano-base, para mostrar
+    que a resposta depende do ano escolhido."""
+    u = p.groupby(["ano", "uf"])[["pt1", "anti1", "out1", "pt2", "anti2"]].sum()
+    base, alvo = u.loc[ano_base], u.loc[2026]
+    tl = (base.pt2 - base.pt1) / base.out1
+    tf = (base.anti2 - base.anti1) / base.out1
+    x = alvo.join(pd.DataFrame({"tl": tl, "tf": tf}), how="inner")
+    lula = (x.pt1 + x.out1 * x.tl).sum()
+    flavio = (x.anti1 + x.out1 * x.tf).sum()
+    rng = np.random.default_rng(semente)
+    ganha = 0
+    for _ in range(n):
+        ls = (x.pt1 + x.out1 * x.tl * rng.normal(1, desvio, len(x))).sum()
+        fs = (x.anti1 + x.out1 * x.tf * rng.normal(1, desvio, len(x))).sum()
+        ganha += ls > fs
+    return {"ano_base": int(ano_base), "lula_pct": float(100 * lula / (lula + flavio)), "lula_venceu_em": int(ganha),
+            "simulacoes": int(n), "desvio_do_fator": desvio}

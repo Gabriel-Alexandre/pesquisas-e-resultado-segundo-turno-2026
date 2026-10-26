@@ -135,6 +135,14 @@ def main() -> None:
     checks.append(("viradas com o líder perto de 50%", f"{int(perto.virada.sum())} de {len(perto)}",
                    f"{ch['perto_de_50_viradas']} de {ch['perto_de_50_casos']}",
                    int(perto.virada.sum()) == ch["perto_de_50_viradas"] and len(perto) == ch["perto_de_50_casos"]))
+    # rodada 6: a conta dos 60% refeita pelo total nacional, e os municípios em que o comparecimento caiu, pelo CSV
+    V = R["resultado"]["variacao"]
+    falta = V["lula"] + 0.6 * V["outros_candidatos"]
+    conf("conta dos 60%: parte dos votos novos (%)", 100 * falta / -(V["abstencao"] + V["branco_nulo"]),
+         R["videos"]["conta_dos_60"]["parte_dos_novos_pct"], 0.01)
+    cai = m26[m26.abstencao_2t >= m26.abstencao_1t]
+    sn26 = [x for x in R["videos"]["sem_novos"] if x["ano"] == 2026][0]
+    conf("onde o comparecimento caiu: o Lula ganhou (votos)", float((cai.lula_2t - cai.lula_1t).sum()), sn26["pt_ganhou"], 1)
     out = RAIZ / "resultados" / "validacao_independente.csv"
     with open(out, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)

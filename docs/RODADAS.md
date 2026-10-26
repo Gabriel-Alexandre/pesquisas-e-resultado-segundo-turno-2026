@@ -38,6 +38,12 @@ O que entrou (`analise/normalidade.py`, seção "Rodada 5" do relatório, gráfi
 - 🔧 **Correção da rodada 3:** os "cerca de 6 milhões" vindos dos eleitores dos outros candidatos são de um dos dois modelos do projeto; o outro dá 4,4 milhões. A divisão entre quem saiu e quem voltou a votar fica como faixa (4,4 a 6,6 milhões); o total é exato.
 - Validação: mais 3 contas refeitas por outro caminho (22 de 22).
 
+## Rodada 6 · 26/10/2026 (os vídeos que circularam)
+
+Pedido dele: *"transcrever cada um e avaliar se eles fazem sentido dado tudo que nós fizemos, se são congruentes ou se são algum outro ponto de vista que faltou a gente analisar"*, sobre 6 vídeos (Tarcísio de Freitas, Nikolas Ferreira e 4 criadores no TikTok).
+
+O que entrou: a análise afirmação por afirmação em `docs/VIDEOS_QUE_CIRCULARAM.md`; a conta dos 60% refeita; os municípios em que o comparecimento caiu (onde ninguém novo votou, no saldo) de 2002 a 2026; os municípios em 5 grupos pela mudança do comparecimento (gráfico g26); a divisão simples entre os votos dos outros e os novos em todos os anos; e o aviso de que duas contas simples do projeto discordam sobre quem voltou a votar. Validação: mais 2 contas refeitas (24 de 24).
+
 ### Registro da interrupção
 
 Pedido dele: a rodada 1 ficou superficial; faltou contexto histórico (as pesquisas já erraram tanto?), a probabilidade explicada com pesos e o porquê, e mais suposições testadas na lente da fraude.

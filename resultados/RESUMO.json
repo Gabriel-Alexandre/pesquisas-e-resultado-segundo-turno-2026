@@ -4483,5 +4483,278 @@
     "mercado (Polymarket, véspera)": 0.235
    }
   }
+ },
+ "videos": {
+  "conta_dos_60": {
+   "outros": 9316747.0,
+   "novos": 4781485.0,
+   "lula_dos_outros": 5590048.2,
+   "falta": 4786645.8,
+   "parte_dos_novos_pct": 100.10793299571158,
+   "flavio_dos_outros_se_40": 3726698.8000000003,
+   "flavio_ganhou": 3721538.0
+  },
+  "faixas": [
+   {
+    "ano": 2022,
+    "grupo": "1 (caiu mais)",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": -2.693654147278192,
+    "votos_novos_por_100": -2.7679289184995057,
+    "pt_ganhou_por_100": -0.04297911607953364,
+    "adversario_ganhou_por_100": 2.0605882882284154,
+    "parte_do_pt_no_ganho_pct": -2.130200272323215
+   },
+   {
+    "ano": 2022,
+    "grupo": "2",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": -0.2602953947273726,
+    "votos_novos_por_100": -0.48021961453906054,
+    "pt_ganhou_por_100": 1.5103479168735445,
+    "adversario_ganhou_por_100": 3.93082284501816,
+    "parte_do_pt_no_ganho_pct": 27.75777462180675
+   },
+   {
+    "ano": 2022,
+    "grupo": "3",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 0.4649479109697639,
+    "votos_novos_por_100": 0.12598922637827217,
+    "pt_ganhou_por_100": 2.626397652524829,
+    "adversario_ganhou_por_100": 5.10688668240439,
+    "parte_do_pt_no_ganho_pct": 33.96225379509297
+   },
+   {
+    "ano": 2022,
+    "grupo": "4",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 1.0089574590147752,
+    "votos_novos_por_100": 0.942658100221451,
+    "pt_ganhou_por_100": 2.186978046523746,
+    "adversario_ganhou_por_100": 5.015961898083354,
+    "parte_do_pt_no_ganho_pct": 30.36229738609933
+   },
+   {
+    "ano": 2022,
+    "grupo": "5 (subiu mais)",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 1.8413209140864677,
+    "votos_novos_por_100": 1.9061593010372873,
+    "pt_ganhou_por_100": 2.1938096232752304,
+    "adversario_ganhou_por_100": 5.131777150779139,
+    "parte_do_pt_no_ganho_pct": 29.947220488128345
+   },
+   {
+    "ano": 2026,
+    "grupo": "1 (caiu mais)",
+    "municipios": 1115,
+    "comparecimento_variou_pontos": -2.0173081652828024,
+    "votos_novos_por_100": -1.0150127657474968,
+    "pt_ganhou_por_100": 3.730090702680206,
+    "adversario_ganhou_por_100": -0.215684829638864,
+    "parte_do_pt_no_ganho_pct": 106.13716336218765
+   },
+   {
+    "ano": 2026,
+    "grupo": "2",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 0.9281409500539896,
+    "votos_novos_por_100": 2.0696291037551053,
+    "pt_ganhou_por_100": 5.82164566331151,
+    "adversario_ganhou_por_100": 1.7906689601987595,
+    "parte_do_pt_no_ganho_pct": 76.47668220821609
+   },
+   {
+    "ano": 2026,
+    "grupo": "3",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 1.8639118281735938,
+    "votos_novos_por_100": 2.8982054220591165,
+    "pt_ganhou_por_100": 6.464097576815009,
+    "adversario_ganhou_por_100": 2.75732982162806,
+    "parte_do_pt_no_ganho_pct": 70.09866583026394
+   },
+   {
+    "ano": 2026,
+    "grupo": "4",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 2.515459721633112,
+    "votos_novos_por_100": 3.610555688524342,
+    "pt_ganhou_por_100": 6.892834608229914,
+    "adversario_ganhou_por_100": 3.027207959431809,
+    "parte_do_pt_no_ganho_pct": 69.48392167892321
+   },
+   {
+    "ano": 2026,
+    "grupo": "5 (subiu mais)",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 3.429366749853501,
+    "votos_novos_por_100": 4.805145816193232,
+    "pt_ganhou_por_100": 7.9299479554657655,
+    "adversario_ganhou_por_100": 2.7946506725996545,
+    "parte_do_pt_no_ganho_pct": 73.94167586574031
+   }
+  ],
+  "divisao": [
+   {
+    "ano": 2002,
+    "outros_para_pt": 0.5404424467021901,
+    "outros_para_adversario": 0.45963511402424106,
+    "novos_para_pt": 0.07838328573266838,
+    "novos_para_adversario": 0.9219368229740214
+   },
+   {
+    "ano": 2006,
+    "outros_para_pt": 1.0871389469040076,
+    "outros_para_adversario": -0.08714120835954178,
+    "novos_para_pt": 0.8607948457288787,
+    "novos_para_adversario": 0.13929045847802787
+   },
+   {
+    "ano": 2010,
+    "outros_para_pt": 0.4852449458540808,
+    "outros_para_adversario": 0.5149595466897318,
+    "novos_para_pt": 0.7235095813163741,
+    "novos_para_adversario": 0.27693253199140516
+   },
+   {
+    "ano": 2014,
+    "outros_para_pt": 0.42484264884625184,
+    "outros_para_adversario": 0.575132111875766,
+    "novos_para_pt": 0.4568829635280511,
+    "novos_para_adversario": 0.5430573124566984
+   },
+   {
+    "ano": 2018,
+    "outros_para_pt": 0.6911343656038877,
+    "outros_para_adversario": 0.30893623437650686,
+    "novos_para_pt": 1.0525229957651068,
+    "novos_para_adversario": -0.051970513198212956
+   },
+   {
+    "ano": 2022,
+    "outros_para_pt": 0.3120371183393051,
+    "outros_para_adversario": 0.6877986070083976,
+    "novos_para_pt": 0.4251062461607879,
+    "novos_para_adversario": 0.5762784588526406
+   },
+   {
+    "ano": 2026,
+    "outros_para_pt": 0.6669003904543854,
+    "outros_para_adversario": 0.3329219420137927,
+    "novos_para_pt": 0.8009194938613159,
+    "novos_para_adversario": 0.19929527097263483
+   }
+  ],
+  "sem_novos": [
+   {
+    "ano": 2002,
+    "municipios": 5283,
+    "eleitores": 106126322.0,
+    "pt_ganhou": 12439131.0,
+    "adversario_ganhou": 12383376.0,
+    "votos_dos_outros": 23928625.0,
+    "pt_ganhou_sobre_os_outros_pct": 51.98431167691415
+   },
+   {
+    "ano": 2006,
+    "municipios": 5453,
+    "eleitores": 125255322.0,
+    "pt_ganhou": 11583123.0,
+    "adversario_ganhou": -2418192.0,
+    "votos_dos_outros": 9338554.0,
+    "pt_ganhou_sobre_os_outros_pct": 124.03550913771018
+   },
+   {
+    "ano": 2010,
+    "municipios": 5437,
+    "eleitores": 134533286.0,
+    "pt_ganhou": 8046577.0,
+    "adversario_ganhou": 10506857.0,
+    "votos_dos_outros": 20709955.0,
+    "pt_ganhou_sobre_os_outros_pct": 38.85366723394619
+   },
+   {
+    "ano": 2014,
+    "municipios": 5158,
+    "eleitores": 135000606.0,
+    "pt_ganhou": 10535325.0,
+    "adversario_ganhou": 15291402.0,
+    "votos_dos_outros": 24603464.0,
+    "pt_ganhou_sobre_os_outros_pct": 42.82049470757451
+   },
+   {
+    "ano": 2018,
+    "municipios": 4828,
+    "eleitores": 123646213.0,
+    "pt_ganhou": 12646775.0,
+    "adversario_ganhou": 7189918.0,
+    "votos_dos_outros": 22270770.0,
+    "pt_ganhou_sobre_os_outros_pct": 56.78642902782436
+   },
+   {
+    "ano": 2022,
+    "municipios": 1970,
+    "eleitores": 36479769.0,
+    "pt_ganhou": 282192.0,
+    "adversario_ganhou": 1109573.0,
+    "votos_dos_outros": 1959366.0,
+    "pt_ganhou_sobre_os_outros_pct": 14.402209694360318
+   },
+   {
+    "ano": 2026,
+    "municipios": 1133,
+    "eleitores": 18973477.0,
+    "pt_ganhou": 709883.0,
+    "adversario_ganhou": -39052.0,
+    "votos_dos_outros": 859667.0,
+    "pt_ganhou_sobre_os_outros_pct": 82.57650927626628
+   }
+  ],
+  "simulacao_por_ano": [
+   {
+    "ano_base": 2002,
+    "lula_pct": 48.75516501203544,
+    "lula_venceu_em": 0,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2006,
+    "lula_pct": 55.61302906921374,
+    "lula_venceu_em": 10000,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2010,
+    "lula_pct": 48.4308476611741,
+    "lula_venceu_em": 0,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2014,
+    "lula_pct": 48.215099008817724,
+    "lula_venceu_em": 0,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2018,
+    "lula_pct": 49.99299175661812,
+    "lula_venceu_em": 4859,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2022,
+    "lula_pct": 47.39543477439295,
+    "lula_venceu_em": 0,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   }
+  ]
  }
 }

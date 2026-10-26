@@ -20,6 +20,19 @@ A conta fecha: estavam livres 14,10 milhões, o Lula levou 10,38 milhões e o Fl
 | O comparecimento subir no 2º turno? | **Não é normal até 2018** (sempre caiu); subiu pela 1ª vez em 2022 (+0,36) e em 2026 subiu +1,85 | subiu mais nas cidades de renda maior, não onde o PT era mais forte |
 | A virada em quase todos os municípios? | **É normal** para o tamanho do movimento | 2026: 97% dos municípios; 2006: 100% |
 
+## Os vídeos que circularam (rodada 6)
+
+| Vídeo | O que diz | O dado |
+|---|---|---|
+| @carlosphyll | com 60% dos outros para o Lula, 98% de quem voltou a votar teria escolhido o Lula | a aritmética confere (100%); os 60% são uma escolha. Onde ninguém novo votou, o Lula ganhou 83% dos votos dos outros e o Flávio perdeu votos; onde mais gente voltou, a parte do Lula não subiu |
+| @ale_paschalis | o eleitor do Cury jamais votaria no Lula, então a conta não fecha | nas pesquisas, o eleitor do Cury dava 53% ao Lula entre os dois |
+| @pietragrisotto | 73,6% dos votos adicionais para o Lula | confere; é a estranheza da rodada 5 |
+| Nikolas Ferreira | muitas "primeiras vezes" | 3 delas são o mesmo fato; a prorrogação nacional é a única separada, e é verdade |
+| @igor.bevilaqua | circuit breaker no dia seguinte | confere; o mercado é do vídeo 18 |
+| Tarcísio de Freitas (antes do resultado) | com as taxas de 2022 por UF e Monte Carlo, Flávio com 52,6% | reproduzido: 52,6%; com outro ano-base, outra eleição (2006: Lula 55,6%; 2018: 50,0%) |
+
+Detalhe: [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md).
+
 ## A pergunta: qual era a chance do que aconteceu?
 
 **Cerca de 27%, ou 1 em 3,7, de o Lula vencer**, com o que se sabia no sábado (refeita na rodada 5; a rodada 2 dava 39%). Ponta de baixo: 8%. Mercado: 24%.

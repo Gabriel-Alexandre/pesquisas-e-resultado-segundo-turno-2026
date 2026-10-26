@@ -190,6 +190,19 @@ eleit_pt = (min(DO["ajustes_2026"]["por região"]["dos_outros"], k26.eliminados_
 brp = casos[casos.grupo == 'Brasil presidente']
 lid_faixa = [c['lider_1t_pct'] for c in HS['faixa_lista']]
 mais_que_5 = int((em.superestimou_lider.abs() > erro_2026).sum()) if len(em) else 0
+# ------------------------------------------------------------------ os vídeos que circularam (rodada 6)
+VD = R["videos"]
+c60 = VD["conta_dos_60"]
+fx = pd.DataFrame(VD["faixas"])
+fx26 = fx[fx.ano == 2026]
+subiu = fx26[fx26.comparecimento_variou_pontos > 0]
+sn = pd.DataFrame(VD["sem_novos"])
+sn26 = sn[sn.ano == 2026].iloc[0]
+sn_hist = sn[(sn.ano < 2026) & (sn.ano != 2006)]
+dv = pd.DataFrame(VD["divisao"])
+dv26 = dv[dv.ano == 2026].iloc[0]
+sims = {x['ano_base']: x for x in VD['simulacao_por_ano']}
+sim22, sim06, sim18 = sims[2022], sims[2006], sims[2018]
 # ------------------------------------------------------------------ RELATÓRIO
 relatorio = f"""# Relatório: as pesquisas, o histórico e a chance do que aconteceu no 2º turno de 2026
 
@@ -249,6 +262,17 @@ A conta da rodada 2 tinha três defeitos. Dois puxavam a chance para cima, e um 
 {tab_ch}
 
 **Veredito:** a chance era **menor do que a rodada 2 disse: cerca de {pct(CH['bayes'])}, perto de 1 em 4**, com ponta de baixo de {pct(CH['independente'])} e o mercado em {pct(CH['mercado'])}. Abaixo de {um_em(CH['independente'])} ela não vai por nenhum dos caminhos calculados aqui: com a frente de {br(p2['frente_flavio_pesquisas'], 1)} ponto nas pesquisas, basta um erro de 2º turno do tamanho que já aconteceu muitas vezes. Ganhar por {br(v['frente_2t_pontos'], 1)} pontos ou mais era mais raro: {pct(CH['bayes_resultado_igual_ou_maior'])} ({um_em(CH['bayes_resultado_igual_ou_maior'])}).
+
+## Rodada 6: os vídeos que circularam depois do resultado
+
+O autor mandou 6 vídeos que circularam nas redes (Tarcísio de Freitas, Nikolas Ferreira e 4 criadores no TikTok) e pediu para ver se eles batem com este projeto ou trazem um ponto que faltava. A análise afirmação por afirmação está em [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md). O principal:
+
+- **A conta dos 98% (@carlosphyll).** Com 60% dos votos dos outros candidatos para o Lula, faltariam {mi(c60['falta'])}, {br(c60['parte_dos_novos_pct'], 1)}% dos votos novos ({mi(c60['novos'])}). A aritmética confere (e os 40% restantes dão ao Flávio {mi(c60['flavio_dos_outros_se_40'])}, o que ele ganhou). A conclusão, de que quase todo eleitor novo escolheu o Lula, não segue: os 60% são uma escolha. Nos {n(sn26.municipios)} municípios em que o comparecimento caiu, onde no saldo ninguém novo votou, o Flávio {'perdeu' if sn26.adversario_ganhou < 0 else 'ganhou'} {n(abs(sn26.adversario_ganhou) / 1e3)} mil votos e o Lula ganhou {n(sn26.pt_ganhou / 1e3)} mil, {br(sn26.pt_ganhou_sobre_os_outros_pct, 0)}% dos votos dos outros candidatos ali (nos mesmos municípios, de 2002 a 2022 sem 2006: de {br(sn_hist.pt_ganhou_sobre_os_outros_pct.min(), 0)}% a {br(sn_hist.pt_ganhou_sobre_os_outros_pct.max(), 0)}%). E onde o comparecimento subiu, a parte do Lula no que os dois ganharam ficou entre {br(subiu.parte_do_pt_no_ganho_pct.min(), 0)}% e {br(subiu.parte_do_pt_no_ganho_pct.max(), 0)}%, sem subir junto com o comparecimento (`g26`). **A estranheza está no eleitor livre inteiro, não em quem voltou a votar.**
+- **O mesmo 73,6% (@pietragrisotto)** e o Lula subindo quase 8 pontos no Sudeste e 7,5 no Centro-Oeste: os números conferem; é a estranheza da rodada 5.
+- **As "primeiras vezes" (Nikolas Ferreira):** a virada, a regra do 1º turno e a de Minas no 1º turno são verdade e são o mesmo fato; a prorrogação nacional é um fato separado e também é verdade (a 1ª da história), com efeito em voto medido pelo projeto do vídeo 16.
+- **O mercado no dia seguinte (@igor.bevilaqua):** o circuit breaker de 26/10 confere; o resto é do projeto do vídeo 18.
+- **A simulação do Tarcísio de Freitas (antes do resultado):** a taxa de conversão de 2022 por UF aplicada a 2026, com fator aleatório, dá o Flávio com {br(100 - sim22['lula_pct'], 1)}%, o número dele. O fator só varia em volta de 2022; com cada outro ano-base o mesmo método dá: {'; '.join(f"{a}: Lula {br(x['lula_pct'], 1)}%" for a, x in sims.items())}. A faixa de 90% dele (51,8% a 53,6% para o Flávio) não cobria a chance de 2026 não se comportar como 2022, que foi o que aconteceu.
+- ⚠️ **Duas contas simples deste projeto discordam** sobre como quem voltou a votar se dividiu ({pct(novos[novos.ano == 2026].novo_eleitor_para_pt.iloc[0])} e {pct(novos[novos.ano == 2026].novo_eleitor_para_adversario.iloc[0])} controlando o 1º turno; {pct(dv26.novos_para_pt)} e {pct(dv26.novos_para_adversario)} sem controle). As duas são estimativas; a leitura sem modelo é a dos grupos de municípios acima.
 
 ## De onde vieram os 10,38 milhões de votos a mais do Lula
 
@@ -517,6 +541,19 @@ A conta fecha: estavam livres {mi(v['ganho_dos_dois'])}, o Lula levou {mi(v['lul
 | As pesquisas viram isso? | **Não.** Pelo que diziam do eleitor de Cury, Renan e Caiado, o Flávio venceria por {mi(-SE['margem_lula'])} | a distância até o resultado ({mi(frente - SE['margem_lula'])}) tem o tamanho do erro das pesquisas ({mi(erro_votos)}) |
 | O comparecimento subir no 2º turno? | **Não é normal até 2018** (sempre caiu); subiu pela 1ª vez em 2022 ({sinal(m22c.comparecimento_variou_pontos, 2)}) e em 2026 subiu {sinal(m26c.comparecimento_variou_pontos, 2)} | subiu mais nas cidades de renda maior, não onde o PT era mais forte |
 | A virada em quase todos os municípios? | **É normal** para o tamanho do movimento | 2026: {br(m26c.municipios_mesmo_lado_do_pais_pct, 0)}% dos municípios; 2006: {br(cm5[cm5.ano == 2006].municipios_mesmo_lado_do_pais_pct.iloc[0], 0)}% |
+
+## Os vídeos que circularam (rodada 6)
+
+| Vídeo | O que diz | O dado |
+|---|---|---|
+| @carlosphyll | com 60% dos outros para o Lula, 98% de quem voltou a votar teria escolhido o Lula | a aritmética confere ({br(c60['parte_dos_novos_pct'], 0)}%); os 60% são uma escolha. Onde ninguém novo votou, o Lula ganhou {br(sn26.pt_ganhou_sobre_os_outros_pct, 0)}% dos votos dos outros e o Flávio perdeu votos; onde mais gente voltou, a parte do Lula não subiu |
+| @ale_paschalis | o eleitor do Cury jamais votaria no Lula, então a conta não fecha | nas pesquisas, o eleitor do Cury dava 53% ao Lula entre os dois |
+| @pietragrisotto | 73,6% dos votos adicionais para o Lula | confere; é a estranheza da rodada 5 |
+| Nikolas Ferreira | muitas "primeiras vezes" | 3 delas são o mesmo fato; a prorrogação nacional é a única separada, e é verdade |
+| @igor.bevilaqua | circuit breaker no dia seguinte | confere; o mercado é do vídeo 18 |
+| Tarcísio de Freitas (antes do resultado) | com as taxas de 2022 por UF e Monte Carlo, Flávio com 52,6% | reproduzido: {br(100 - sim22['lula_pct'], 1)}%; com outro ano-base, outra eleição (2006: Lula {br(sim06['lula_pct'], 1)}%; 2018: {br(sim18['lula_pct'], 1)}%) |
+
+Detalhe: [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md).
 
 ## A pergunta: qual era a chance do que aconteceu?
 
