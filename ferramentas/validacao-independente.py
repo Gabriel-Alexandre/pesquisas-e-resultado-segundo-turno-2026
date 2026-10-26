@@ -100,7 +100,10 @@ def main() -> None:
     faixa = [c for c in casos if abs(float(c["frente_1t"]) - f1) <= 1.5 and float(c["frente_1t"]) >= 0]
     conf("viradas com frente parecida (faixa de 1,5 ponto)", sum(int(float(c["virada"])) for c in faixa), R["probabilidade_v2"]["historico"]["faixa_viradas"], 0)
     d26 = [x for x in R["de_onde"]["por_ano"] if x["ano"] == 2026][0]
-    conf("votos livres no saldo, municípios (outros + abstenção + branco e nulo)", d26["ganho_pt"] + d26["ganho_adversario"], d26["livres_no_saldo"], 1)
+    # o eleitorado de cada município muda um pouco entre os turnos (voto em trânsito); a conta fecha somando essa diferença
+    mus = list(csv.DictReader(open(RAIZ / "dados" / "derivados" / "presidente_municipio.csv", encoding="utf-8")))
+    d_aptos = sum(float(m["eleitores_2t"]) - float(m["eleitores_1t"]) for m in mus if m["uf"] != "zz")
+    conf("ganho dos dois = votos livres + variação do eleitorado (municípios)", d26["ganho_pt"] + d26["ganho_adversario"], d26["livres_no_saldo"] + d_aptos, 1)
     import pandas as pd
     v = pd.read_parquet(RAIZ / "dados" / "copias" / "previsao-segundo-turno-2026" / "mun_votos.parquet")
     a6 = v[(v.ano == 2006) & ~v.uf.isin(["ZZ", "VT"])]
