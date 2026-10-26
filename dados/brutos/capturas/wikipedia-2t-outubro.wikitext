@@ -1,0 +1,599 @@
+==== October (after 1st round) ====
+{| class="wikitable sortable sticky-header-multi" style="text-align:center; font-size:90%;"
+|- style="vertical-align:bottom"
+! rowspan="3" class="unsortable" |Pollster
+! rowspan="3" class="unsortable" |Polling<br />period
+! [[File:Foto_oficial_de_Luiz_Inácio_Lula_da_Silva_(3x4_cropped).jpg|70x70px]]
+! [[File:Foto oficial do senador Flávio Bolsonaro (v. AgSen) (3x4).jpg|66x66px]]
+! rowspan="3" class="unsortable" |Blank<br />Null Undec.
+! rowspan="3" class="unsortable" |Margin of<br />error
+! rowspan="3" class="unsortable" |Sample<br />size
+! rowspan="3" class="unsortable" |Lead
+! rowspan="3" class="unsortable" |Link
+|-
+! [[Luiz Inácio Lula da Silva|Lula]]<br />{{small|[[Workers' Party (Brazil)|PT]]}}
+! [[Flávio Bolsonaro|F. Bolsonaro]]<br />{{small|[[Liberal Party (Brazil, 2006)|PL]]}}
+|-
+! style="background-color:{{Party color|Workers' Party (Brazil)}}; height:6px;" |
+! style="background-color:{{Party color|Liberal Party (Brazil, 2006)}}; height:6px;" |
+|-style="background:#EFEFEF"
+| rowspan="2" |''Results''
+| rowspan="2" |''25 Oct''
+| style="background:#ffb7b7;font-weight:bold" | 51.79
+| 48.21
+|{{NA}}
+|{{NA}}
+|''Valid votes''
+| style="background:#ffb7b7;font-weight:bold;" | 3.6
+| rowspan="2" |<ref name="Website-1" />
+|-style="background:#EFEFEF"
+| style="background:#ffb7b7;font-weight:bold" | 50.11
+| 46.65
+| 3.24
+|{{NA}}
+|''Total votes''
+| style="background:#ffb7b7;font-weight:bold;" | 3.4
+|-
+|''Futura''
+|''23–24 Oct''
+|47.9
+| style="font-weight:bold; background-color:#b2d1ea;" |48.2
+|3.9
+|±2.2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |0.3
+|<ref>{{Cite web |title=Pesquisa Futura para presidente: Flávio Bolsonaro tem 50,1% e Lula, 49,9%, no 2º turno |url=https://exame.com/brasil/pesquisa-futura-flavio-bolsonaro-tem-501-e-lula-499-no-2o-turno/ |access-date=2026-10-24 |website=Exame |language=pt-br}}</ref>
+|-
+|''Quaest''
+|''23–24 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |46
+|9
+|±2 pp
+|3,702
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |date=2026-10-24 |title=Veja última pesquisa Quaest do 2º turno entre Lula e Flávio Bolsonaro |url=https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/quaest-2o-turno-votos-validos.ghtml |access-date=2026-10-24 |website=G1 |language=pt-BR}}</ref>
+|-
+|''Datafolha''
+|''23–24 Oct''
+|47
+| style="font-weight:bold; background-color:#b2d1ea;" |48
+|5
+|±2 pp
+|4,050
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |date=2026-10-24 |title=Datafolha: Flávio Bolsonaro tem 51% dos votos válidos e Lula, 49%, em empate técnico |url=https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml |access-date=2026-10-24 |website=Folha de S.Paulo |language=pt-BR}}</ref>
+|-
+|''Nexus''
+|''23–24 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |47
+|7
+|±2.2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |title=A nova pesquisa BTG/Nexus sobre a disputa Flávio x Lula, a última antes do segundo turno |url=https://veja.abril.com.br/politica/a-nova-pesquisa-btg-nexus-sobre-a-disputa-flavio-x-lula-a-ultima-antes-do-segundo-turno/ |access-date=2026-10-24 |website=VEJA |language=pt-BR}}</ref>
+|-
+|''PoderData''
+|''23–24 Oct''
+|48
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|4
+|±1.6 pp
+|4,000
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |last=Karter |first=Bianca Penteado, Jonathan |date=2026-10-25 |title=Flávio tem 51% e Lula tem 49% dos votos válidos, diz PoderData/Aya |url=https://www.poder360.com.br/poderdata/flavio-tem-51-e-lula-tem-49-dos-votos-validos-diz-poderdata-aya-2/ |access-date=2026-10-25 |website=Poder360 |language=pt-br}}</ref>
+|-
+|''Palver''
+|''22–24 Oct''
+|49
+| style="font-weight:bold; background-color:#b2d1ea;" |50
+|1
+|±2.2 pp
+|5,000
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |title=Pesquisa para presidente Palver: Flávio Bolsonaro tem 50% e Lula, 49%, no 2º turno |url=https://exame.com/brasil/pesquisa-para-presidente-palver-flavio-bolsonaro-tem-50-e-lula-49-no-2o-turno/ |access-date=2026-10-24 |website=Exame |language=pt-br}}</ref>
+|-
+|''Gerp''
+|''22–24 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|4
+|±2 pp
+|2,400
+| style="font-weight:bold; background-color:#b2d1ea;" |3
+|<ref>{{Cite web |date=2026-10-24 |title=Gerp: Flávio tem 52% dos votos válidos no 2º turno; Lula, 48% |url=https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-52-dos-votos-validos-no-2o-turno-lula-48-2/ |access-date=2026-10-24 |website=CNN Brasil |language=pt-BR}}</ref>
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden;" |''23 Oct''
+| colspan="7" |[[2026 Brazilian general election#Presidential debates|Second presidential debate of the second round]].
+|-
+|''Colectta''
+|''23 Oct''
+| style="background:#ffb7b7;font-weight:bold;" |46.5
+|46
+|7.5
+|±2 pp
+|3,000
+| style="background:#ffb7b7;font-weight:bold;" |0.5
+|<ref>{{Cite web |date=2026-10-24 |title=Lula tem 50,3% dos votos válidos e Flávio, 49,7%, aponta BRAZIL ECONOMY{{!}}Colectta {{!}} Brazil Economy |url=https://brazileconomy.com.br/eleicoes-2026/2026/10/lula-tem-503-dos-votos-validos-e-flavio-497-aponta-pesquisa-brazil-economycolectta/ |access-date=2026-10-24 |language=pt-BR}}</ref>
+|-
+|''MDA''
+|''21–23 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |46.3
+|8.7
+|±2.2 pp
+|2,032
+| style="font-weight:bold; background-color:#b2d1ea;" |1.3
+|<ref>{{Cite web |date=2026-10-23 |title=Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows
+ |url=https://www.reuters.com/world/americas/flavio-bolsonaro-lula-about-even-ahead-brazil-election-runoff-cntmda-poll-shows-2026-10-24/ |access-date=2026-10-24 |website=Reuters |language=El}}</ref>
+|-
+|''Instituto França''
+|''21–23 Oct''
+|43.1
+| style="font-weight:bold; background-color:#b2d1ea;" |45.1
+|11.3
+|±2.5 pp
+|1,537
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{Cite web |date=2026-10-23 |title=Flávio tem 51,4% contra 48,6% de Lula em votos válidos, diz pesquisa |url=https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-514-contra-486-de-lula-em-votos-validos-diz-pesquisa/?utm_source=chatgpt.com |access-date=2026-10-24 |website=Poder 360 |language=pt-BR}}</ref>
+|-
+|''Verita''
+|''19–23 Oct''
+|47.8
+| style="font-weight:bold; background-color:#b2d1ea;" |49.8
+|2.4
+|±1 pp
+|15,554
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{Cite web |date=2026-10-24 |title=Instituto Veritá: Flávio abre três pontos sobre Lula. 51,6% X 48,4%
+ |url=https://ricardoantunes.net/instituto-verita-flavio-abre-mais-de-3-pontos-sobre-lula-51-6-x-484/?utm_source=chatgpt.com |access-date=2026-10-24 |website=Ricardo Antunes |language=pt-BR}}</ref>
+|-
+|''AtlasIntel''
+|''18–23 Oct''
+|48.4
+| style="font-weight:bold; background-color:#b2d1ea;" |49.9
+|1.7
+|±1 pp
+|4,990
+| style="font-weight:bold; background-color:#b2d1ea;" |1.5
+|<ref>{{Cite web |title=Brazil: National - Pesquisa Atlas/Bloomberg {{!}} AtlasIntel |url=https://atlasintel.org/poll/brazil-national-pesquisa-atlasbloomberg-2026-10-24 |access-date=2026-10-24 |website=atlasintel.org |language=en}}</ref>
+|-
+|''Ipespe''
+|''20–22 Oct''
+|47
+| style="font-weight:bold; background-color:#b2d1ea;" |48
+|5
+|±2.6 pp
+|1,500
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |date=2026-10-23 |title=Ipespe/Abrapel: Flávio tem 50,5% dos votos válidos; Lula, 49,5% |url=https://www.cnnbrasil.com.br/eleicoes/ipespe-abrapel-flavio-tem-505-dos-votos-validos-lula-495/ |access-date=2026-10-23 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''Vox Brasil''
+|''20–22 Oct''
+| style="background:#ffb7b7;font-weight:bold;" |45.4
+|44.3
+|10.3
+|±2.15 pp
+|2,100
+| style="background:#ffb7b7;font-weight:bold;" |1.1
+|<ref>{{Cite web |date=2026-10-23 |title=Vox: Lula tem 50,6% dos votos válidos no 2º turno; Flávio, 49,4% |url=https://www.cnnbrasil.com.br/eleicoes/vox-lula-tem-506-dos-votos-validos-no-2o-turno-flavio-494/ |access-date=2026-10-23 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''Datafolha''
+|''20–22 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |47
+|7
+|±2 pp
+|2,520
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |date=2026-10-22 |title=Datafolha: Flávio Bolsonaro e Lula empatam com 50% dos votos válidos cada um |url=https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-lula-empatam-com-50-dos-votos-validos-cada.shtml |access-date=2026-10-22 |website=Folha de S.Paulo |language=pt-BR}}</ref>
+|-
+|''Alfa''
+|''19–22 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |49.9
+|4.1
+|±1.9 pp
+|2,700
+| style="font-weight:bold; background-color:#b2d1ea;" |3.9
+|<ref>{{Cite web |date=2026-10-23 |title=Alfa: Flávio tem 52% dos votos válidos no 2º turno; Lula, 48% |url=https://www.cnnbrasil.com.br/eleicoes/alfa-flavio-tem-52-dos-votos-validos-no-2o-turno-lula-48/?utm_source=social&utm_medium=twitter-feed&utm_campaign=politica-cnn-brasil&utm_content=link |access-date=2026-10-23 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''Real Time''
+|''19–22 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|6
+|±2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |4
+|<ref>{{cite web|url=https://www.riotimesonline.com/real-time-big-data-poll-flavio-52-lula-48-oct-23-runoff-2026/|title=Real Time Poll Holds Flávio 52%, Lula 48%|website=Rio Times|language=pt-br|date=23 October 2026|accessdate=23 October 2026}}</ref>
+|-
+|''Veritá''
+|''18–22 Oct''
+|47.5
+| style="font-weight:bold; background-color:#b2d1ea;" |50.2
+|2.3
+|±1 pp
+|15,554
+| style="font-weight:bold; background-color:#b2d1ea;" |2.7
+|<ref>{{Cite web |title=Pesquisa Veritá para presidente: Flávio Bolsonaro tem 51,3% e Lula, 48,7%, dos votos válidos |url=https://exame.com/brasil/pesquisa-verita-flavio-bolsonaro-tem-513-e-lula-487-dos-votos-validos/ |access-date=2026-10-23 |website=Exame |language=pt-br}}</ref>
+|-
+|''Indexa''
+|''20–21 Oct''
+|44.1
+| style="font-weight:bold; background-color:#b2d1ea;" |45.2
+|10.7
+|±2.2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |1.1
+|<ref>{{Cite web |date=2026-10-22 |title=Indexa/Broadcast: Flávio tem 50,6% dos votos válidos; Lula, 49,4% |url=https://www.cnnbrasil.com.br/eleicoes/indexa-broadcast-flavio-tem-506-dos-votos-validos-lula-494/ |access-date=2026-10-22 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''Datatrends''
+|''19–21 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |50
+|4
+|±2.19 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |4
+|<ref>{{Cite web |date=2026-10-23 |title=DataTrends Poll Has Flávio 51.9%, Lula 48.1%
+|url=https://www.riotimesonline.com/datatrends-poll-flavio-51-9-lula-48-1-runoff-2026/ |access-date=2026-10-23 |website=The Rio Times |language=pt-BR}}</ref>
+|-
+|''PoderData''
+|''19–21 Oct''
+|48
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|4
+|±1.6 pp
+|4,000
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |last=Karter |first=Bianca Penteado, Jonathan |date=2026-10-22 |title=Flávio tem 51% e Lula tem 49% dos votos válidos, diz PoderData/Aya |url=https://www.poder360.com.br/poderdata/flavio-tem-51-e-lula-tem-49-dos-votos-validos-diz-poderdata-aya/ |access-date=2026-10-22 |website=Poder360 |language=pt-br}}</ref>
+|-
+|''Gerp''
+|''19–21 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |50
+|5
+|±2.0 pp
+|2,400
+| style="font-weight:bold; background-color:#b2d1ea;" |5
+|<ref>{{Cite web |date=2026-10-21 |title=Gerp: Flávio tem 53% dos votos válidos no 2º turno; Lula, 47%
+ |url=https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-53-dos-votos-validos-no-2o-turno-lula-47-2/ |access-date=2026-10-21 |website=CNN Brasil|language=pt-BR}}</ref>
+|-
+|''Futura''
+|''19–20 Oct''
+|46.8
+| style="font-weight:bold; background-color:#b2d1ea;" |48.9
+|4.3
+|±2.2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |2.1
+|<ref>{{Cite web |date=2026-10-21 |title=A nova pesquisa Futura para o segundo turno da eleição presidencial |url=https://www.cartacapital.com.br/politica/flavio-e-lula-seguem-tecnicamente-empatados-mostra-pesquisa-futura/ |access-date=2026-10-21 |website=CartaCapital |language=pt-BR}}</ref>
+|-
+|''Palver''
+|''18–20 Oct''
+|48
+| style="font-weight:bold; background-color:#b2d1ea;" |50
+|1
+|±2.4 pp
+|5,000
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{Cite web |last=portalterra |title=Pesquisa Palver: Flávio Bolsonaro tem 50% e Lula, 48% no 2º turno; candidatos estão em empate técnico |url=https://www.terra.com.br/noticias/eleicoes/pesquisas/pesquisa-palver-flavio-bolsonaro-tem-50-e-lula-48-no-2-turno-candidatos-estao-em-empate-tecnico,6e99d76af4651a537219166fa78a4183lmte1cxs.html |access-date=2026-10-21 |website=Terra |language=pt-BR}}</ref>
+|-
+|''Quaest''
+|''17–20 Oct''
+|44
+| style="font-weight:bold; background-color:#b2d1ea;" |45
+|11
+|±2 pp
+|2,154
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |date=2026-10-21 |title=Pesquisa Quaest: Flávio tem 45%, e Lula marca 44%; distância diminui a quatro dias da eleição |url=https://oglobo.globo.com/blogs/pulso/post/2026/10/pesquisa-quaest-flavio-tem-45percent-e-lula-marca-44percent-distancia-diminui-a-quatro-dias-da-eleicao.ghtml |access-date=2026-10-21 |website=O Globo |language=pt-BR}}</ref>
+|-
+|''Verita''
+|''15–19 Oct''
+|48.2
+| style="font-weight:bold; background-color:#b2d1ea;" |49.7
+|2.1
+|±1 pp
+|15,554
+| style="font-weight:bold; background-color:#b2d1ea;" |1.5
+|<ref>{{Cite web |date=2026-10-21 |title=Veritá: Flávio tem 50,7% dos votos válidos no 2º turno; Lula, 49,3% |url=https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-507-dos-votos-validos-no-2o-turno-lula-493/ |access-date=2026-10-21 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''Ideia''
+|''15–19 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |48
+|6
+|±2.5 pp
+|1,500
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|[https://www.canalmeio.com.br/wp-content/uploads/2026/10/Pesquisa-Meio_Ideia-Outubro.pdf]
+|-
+|''Alfa''
+|''15–19 Oct''
+|45.9
+| style="font-weight:bold; background-color:#b2d1ea;" |48.8
+|5.3
+|±1.9 pp
+|2,700
+| style="font-weight:bold; background-color:#b2d1ea;" |2.9
+|<ref>{{cite web|url=https://www.cnnbrasil.com.br/eleicoes/alfa-flavio-tem-515-dos-votos-validos-no-2o-turno-lula-485/?utm_source=chatgpt.com|title=Alfa: Flávio tem 51,5% dos votos válidos no 2º turno; Lula, 48,5%|website=CNN Brasil|language=pt-br|date=20 October 2026|accessdate=20 October 2026}}</ref>
+|-
+|''Real Time''
+|''15–19 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |48
+|7
+|±2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |3
+|<ref>{{cite web|url=https://www.riotimesonline.com/real-time-big-data-poll-flavio-52-lula-48-runoff-2026/|title=Brazil Poll Gives Flávio 52% and Lula 48%|website=Rio Times|language=pt-br|date=20 October 2026|accessdate=20 October 2026}}</ref>
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden;" |''18 Oct''
+| colspan="7" |[[2026 Brazilian general election#Presidential debates|First presidential debate of the second round]].<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=Gqc1rQtzWUk |title=Flávio Bolsonaro x Lula: debate presidencial do 2º turno na Band - 18/10/2026 |date=2026-10-18 |last=Band Jornalismo |access-date=2026-10-19 |via=YouTube}}</ref><ref>{{Cite AV media |url=https://www.youtube.com/watch?v=BgjpOorIXoI |title=ÍNTEGRA: 1º debate entre Lula e Flávio Bolsonaro nas eleições 2026 |date=2026-10-18 |last=Rádio Bandeirantes |access-date=2026-10-19 |via=YouTube}}</ref>
+|-
+|''PoderData''
+|''16–18 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|5
+|±1.8 pp
+|3,000
+| style="font-weight:bold; background-color:#b2d1ea;" |3
+|<ref>{{cite web|url=https://www.poder360.com.br/poderdata/pesquisa-poderdata-aya-leia-os-resultados-de-lula-e-flavio-no-2o-turno-19out2026/?utm_source=chatgpt.com|title=PoderData/Aya poll: read the results for Lula and Flávio in the second round|website=Poder360|language=pt-br|date=19 October 2026|accessdate=19 October 2026}}</ref>
+|-
+|''Nexus''
+|''16–18 Oct''
+|45.9
+| style="font-weight:bold; background-color:#b2d1ea;" |46.5
+|7.6
+|±2 pp
+|2,002
+| style="font-weight:bold; background-color:#b2d1ea;" |0.6
+|<ref>{{cite web|url=https://www.nexus.fsb.com.br/estudos-divulgados/pesquisa-btg-nexus-de-intencao-de-votos-para-presidente-do-brasil-19-de-outubro-de-2026/?utm_source=chatgpt.com|title=BTG/Nexus poll on voting intentions for the Brazilian presidential election – October 19, 2026|website=NEXUS|language=pt-br|date=19 October 2026|accessdate=19 October 2026}}</ref>
+|-
+|''AtlasIntel''
+|''13–18 Oct''
+|47.6
+| style="font-weight:bold; background-color:#b2d1ea;" |49.8
+|2.6
+|±1 pp
+|4,998
+| style="font-weight:bold; background-color:#b2d1ea;" |2.2
+|<ref>{{cite web|url=https://www.cnnbrasil.com.br/eleicoes/atlas-flavio-tem-511-dos-votos-validos-no-2o-turno-lula-489/|title=Atlas: Flávio tem 51,1% dos votos válidos no 2º turno; Lula, 48,9%|website=CNN Brasil|language=pt-br|date=19 October 2026|accessdate=19 October 2026}}</ref>
+|-
+|''Futura''
+|''16–17 Oct''
+|47.5
+| style="font-weight:bold; background-color:#b2d1ea;" |48.3
+|4.3
+|±2.2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |0.8
+|<ref>{{Cite web |title=Pesquisa que acertou tendência do 1º turno mostra Flávio Bolsonaro com 50,4% e Lula, 49,6% |url=https://exame.com/brasil/pesquisa-futura-para-presidente-flavio-bolsonaro-tem-504-e-lula-496-no-2o-turno/ |access-date=2026-10-21 |website=Exame |language=pt-br}}</ref>
+|-
+|''DataTrends''
+|''15–17 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|5
+|±2.19 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |3
+|<ref>{{cite web|url=https://robsonpiresxerife.com/pesquisa-datatrends-flavio-bolsonaro-tem-515-dos-votos-validos-contra-485-de-lula/|title=PESQUISA DATATRENDS: Flávio Bolsonaro tem 51,5% dos votos válidos, contra 48,5% de Lula|website=robsonpiresxerife.com|language=pt-br|date=19 October 2026|accessdate=19 October 2026}}</ref>
+|-
+|''Vox Brasil''
+|''15–17 Oct''
+| style="background:#ffb7b7;font-weight:bold;" |46.4
+|44.6
+|8.9
+|±2.15 pp
+|2,100
+| style="background:#ffb7b7;font-weight:bold;" |1.8
+|<ref>{{Cite web |last=Limão |first=José Augusto |date=2026-10-18 |title=Vox Brasil: com empate técnico, Lula tem 46,4% e Flávio Bolsonaro 44,6% |url=https://www.metropoles.com/brasil/vox-brasil-com-empate-tecnico-lula-tem-464-e-flavio-bolsonaro-446 |access-date=2026-10-18 |website=Metrópoles |language=pt-BR}}</ref>
+|-
+|''Gerp''
+|''14–16 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |50
+|5
+|±2 pp
+|2,400
+| style="font-weight:bold; background-color:#b2d1ea;" |5
+|<ref>{{cite web|url=https://tmc.com.br/politica/pesquisa-gerp-flavio-bolsonaro-lidera-com-50-contra-45-de-lula/ |title=Pesquisa Gerp: Flávio Bolsonaro lidera com 50% contra 45% de Lula|website=TMC|language=pt-br|date=16 October 2026|accessdate=16 October 2026}}</ref>
+|-
+|''Verita''
+|''12–16 Oct''
+|47.7
+| style="font-weight:bold; background-color:#b2d1ea;" |49.7
+|2.6
+|±1 pp
+|15,554
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{cite web|url=https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-511-dos-votos-validos-no-2o-turno-lula-489/?utm_source=whatsapp&utm_medium=-link |title=Veritá: Flávio has 51.1% of the valid votes in the second round; Lula, 48.9%.
+|website=CNN Brazsil|language=pt-br|date=17 October 2026|accessdate=17 October 2026}}</ref>
+|-
+|''Futura''
+|''14–15 Oct''
+|47.5
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|3.6
+|±2.2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |1.5
+|<ref>{{Cite web |date=2026-10-16 |title=Futura: Flávio tem 50,8% dos votos válidos no 2º turno; Lula, 49,2% |url=https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-508-dos-votos-validos-no-2o-turno-lula-492/ |access-date=2026-10-16 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''Ipespe''
+|''13–15 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |48
+|6
+|±2.6 pp
+|1,500
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{Cite web |date=2026-10-17 |title=Ipespe/Abrapel: Flávio tem 51,2% dos votos válidos no 2º turno; Lula, 48,8%
+ |url=https://www.cnnbrasil.com.br/eleicoes/ipespe-abrapel-flavio-tem-512-dos-votos-validos-no-2o-turno-lula-488/?utm_source=whatsapp&utm_medium=-link |access-date=2026-10-17 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''MDA''
+|''13–15 Oct''
+|45.9
+| style="font-weight:bold; background-color:#b2d1ea;" |46.8
+|7.3
+|±2.2 pp
+|2,014
+| style="font-weight:bold; background-color:#b2d1ea;" |0.9
+|<ref>{{cite web|url=https://noticias.uol.com.br/eleicoes/2026/10/16/cntmda-pesquisa-presidencial-2-turno.ghtm|title=CNT/MDA: Flávio aparece com 50,5%, e Lula tem 49,5% em votos válidos|website=UOL|language=pt-br|date=16 October 2026|accessdate=16 October 2026}}</ref>
+|-
+|''PoderData''
+|''13–15 Oct''
+| style="background:#ffb7b7;font-weight:bold;" |47
+| style="font-weight:bold; background-color:#b2d1ea;" |47
+|6
+|±1.8 pp
+|3,000
+| style="background:#ecf0f1;font-weight:bold" |Tie
+|<ref>{{cite web|url=https://noticias.uol.com.br/eleicoes/2026/10/16/poderdata-lula-flavio-bolsonaro-presidencia-republica-segundo-turno.ghtm|title=Flávio e Lula empatam em 50% dos votos válidos, diz pesquisa PoderData|website=UOL|language=pt-br|date=16 October 2026|accessdate=16 October 2026}}</ref>
+|-
+|''Datafolha''
+|''13–15 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |47
+|8
+|±2 pp
+|2,520
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{Cite web |date=2026-10-08 |title=Datafolha poll, second round: Flávio Bolsonaro, 47%; Lula, 45%
+ |url=https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml?utm_source=twitter&utm_medium=social&utm_campaign=g1 |access-date=2026-10-15 |website=G1 |language=pt-BR}}</ref>
+|-
+|''Indexa''
+|''13–14 Oct''
+|42
+| style="font-weight:bold; background-color:#b2d1ea;" |44
+|4
+|±2.2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{Cite web |last1=Duarte |first1=Isadora |last2=Bucci |first2=Geovani |date=2026-10-15 |title=Indexa/Broadcast: no 2º turno, Flávio Bolsonaro tem 44% ante 42% de Lula |url=https://viva.com.br/politica/indexabroadcast-no-2-turno-flavio-bolsonaro-tem-44-ante-42-de-lula.html |access-date=2026-10-15 |website=VIVA |language=pt-BR}}</ref>
+|-
+|''Palver''
+|''10–13 Oct''
+|49
+| style="font-weight:bold; background-color:#b2d1ea;" |50
+|1
+|±2.3 pp
+|5,000
+| style="font-weight:bold; background-color:#b2d1ea;" |1
+|<ref>{{Cite web |last=Bucci |first=Geovani |date=2026-10-15 |title=Palver: Flávio Bolsonaro tem 50% e Lula, 49% em empate técnico no 2º turno |url=https://viva.com.br/politica/palver-flavio-bolsonaro-tem-50-e-lula-49-em-empate-tecnico-no-2-turno.html |access-date=2026-10-15 |website=VIVA |language=pt-BR}}</ref>
+|-
+|''Quaest''
+|''10–13 Oct''
+|44
+| style="font-weight:bold; background-color:#b2d1ea;" |46
+|10
+|±2 pp
+|2,154
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{Cite web |date=2026-10-14 |title=Quaest aponta empate técnico entre Flávio Bolsonaro e Lula |url=https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-presidente-14-outubro.ghtml |access-date=2026-10-15 |website=G1 |language=pt-BR}}</ref>
+|-
+|''PoderData''
+|''10–12 Oct''
+|46
+| style="font-weight:bold; background-color:#b2d1ea;" |48
+|7
+|±1.8 pp
+|3,000
+| style="font-weight:bold; background-color:#b2d1ea;" |2
+|<ref>{{cite web|url=https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-flavio-tem-51-dos-votos-validos-no-2o-turno-lula-49/|title=PoderData/AYA: Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%|website=CNN Brasil|language=pt-br|first=Lucas|last=Massei|date=13 October 2026|accessdate=13 October 2026}}</ref>
+|-
+|''Nexus''
+|''10–12 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |48
+|7
+|±2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |3
+|<ref>{{cite web|url=https://noticias.uol.com.br/eleicoes/2026/10/13/btgnexus-pesquisa-presidencial-segundo-turno.ghtm|title=Flávio tem 52% dos votos válidos, e Lula, 48%, diz pesquisa BTG/Nexus|website=UOL|language=pt-br|date=13 October 2026|accessdate=13 October 2026}}</ref>
+|-
+|''Gerp''
+|''8–12 Oct''
+|44
+| style="font-weight:bold; background-color:#b2d1ea;" |53
+|3
+|±2 pp
+|2,400
+| style="font-weight:bold; background-color:#b2d1ea;" |9
+|<ref>{{cite web|url=https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-55-dos-votos-validos-no-2o-turno-lula-45/?utm_source=social&utm_medium=twitter-canal&utm_campaign=politica-cnn-brasil&utm_content=link#goog_rewarded|title=Gerp: Flávio tem 55% dos votos válidos no 2º turno; Lula, 45%|website=CNN Brazil|language=pt-br|date=13 October 2026|accessdate=13 October 2026}}</ref>
+|-
+|''Futura''
+|''7–10 Oct''
+|46.6
+| style="font-weight:bold; background-color:#b2d1ea;" |50
+|3.4
+|±2.2 pp
+|2,000
+| style="font-weight:bold; background-color:#b2d1ea;" |3.4
+|<ref>{{Cite web |date=2026-10-13 |title=Futura: Flávio tem 51,8% dos votos válidos no 2º turno; Lula, 48,2% |url=https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-518-dos-votos-validos-no-2o-turno-lula-482/ |access-date=2026-10-13 |website=CNN Brasil |language=pt-BR}}</ref>
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden;" |''9 Oct''
+| colspan="7" |Beginning of free electoral broadcast time on TV and Radio.{{efn|In the second round, free advertisement on television and radio runs from 9 to 23 October 2026 and is reserved exclusively for the two remaining candidates. The block for presidential candidates airs Monday to Saturday, twice per day, for 10 minutes, divided equally between the candidates regardless of the size of their parties or coalitions, giving Lula and Flávio Bolsonaro 5 minutes each per block.}}
+|-
+|''Ipespe''
+|''6–8 Oct''
+|44
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|7
+|±2.6 pp
+|1,500
+| style="font-weight:bold; background-color:#b2d1ea;" |5
+|<ref>{{Cite web |date=2026-10-10 |title=Ipespe: Flávio tem 52,7% dos votos válidos no 2º turno; Lula, 47,3% |url=https://www.cnnbrasil.com.br/eleicoes/ipespe-flavio-tem-527-dos-votos-validos-no-2o-turno-lula-473/ |access-date=2026-10-10 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''AtlasIntel''
+|''3–8 Oct''
+|45.7
+| style="font-weight:bold; background-color:#b2d1ea;" |51.1
+|3.2
+|±1 pp
+|5,026
+| style="font-weight:bold; background-color:#b2d1ea;" |5.4
+|<ref>{{Cite web |date=2026-10-09 |title=Atlas: Flávio tem 52,8% dos votos válidos no 2º turno; Lula, 47,2% |url=https://www.cnnbrasil.com.br/eleicoes/atlas-flavio-tem-528-dos-votos-validos-no-2o-turno-lula-472/ |access-date=2026-10-09 |website=CNN Brasil |language=pt-BR}}</ref>
+|-
+|''Datafolha''
+|''6–7 Oct''
+|45
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|6
+|±2 pp
+|2,520
+| style="font-weight:bold; background-color:#b2d1ea;" |4
+|<ref>{{Cite web |date=2026-10-08 |title=Datafolha: Flávio Bolsonaro, 49%; Lula, 45% |url=https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidente-8-outubro.ghtml |access-date=2026-10-08 |website=G1 |language=pt-BR}}</ref>
+|-
+|''PoderData''
+|''5–7 Oct''
+|44
+| style="font-weight:bold; background-color:#b2d1ea;" |49
+|7
+|±1.8 pp
+|3,000
+| style="font-weight:bold; background-color:#b2d1ea;" |5
+|<ref>{{Cite web |last=Karter |first=Bianca Penteado, Jonathan |date=2026-10-08 |title=Flávio tem 53% contra 47% de Lula no 2º turno, diz pesquisa PoderData/Aya |url=https://www.poder360.com.br/poderdata/flavio-tem-53-contra-47-de-lula-no-2o-turno-diz-pesquisa-poderdata-aya/ |access-date=2026-10-08 |website=Poder360 |language=pt-br}}</ref>
+|-
+|''Vox Brasil''
+|''5–7 Oct''
+| style="background:#ffb7b7;font-weight:bold;" |44.2
+|42.7
+|13.1
+|±2.15 pp
+|2,100
+| style="background:#ffb7b7;font-weight:bold;" |1.5
+|<ref>{{Cite web |date=2026-10-09 |title=Vox: Lula tem 44,2% das intenções de voto no 2º turno; Flávio, 42,7% |url=https://www.cnnbrasil.com.br/eleicoes/vox-lula-tem-442-das-intencoes-de-voto-no-2o-turno-flavio-427/ |access-date=2026-10-09 |website=CNN Brasil |language=pt-BR}}</ref>
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden;" |''4 Oct''
+| colspan="7" |First round of the elections.
+|}
