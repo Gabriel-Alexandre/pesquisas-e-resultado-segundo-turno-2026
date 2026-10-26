@@ -1,0 +1,1092 @@
+A continuación, se muestran las encuestas de intención de voto respecto de las [[elecciones generales de Bolivia de 2025]], donde se elegirán al presidente y vicepresidente constitucional de Bolivia para el período 2025-2030. El intervalo de fechas para estas encuestas de opinión va desde la primera medición realizada en diciembre de 2021, hasta el día en que se celebre la elección, el 17 de agosto de 2025.
+
+A continuación, se listan diversas encuestas en orden cronológico inverso (con las encuestas más recientes primero). El orden considera el último día de la realización del muestreo y solo cuando no se conoce aquel período, se muestra la fecha de publicación del estudio.
+
+== Candidaturas oficiales ==
+Encuestas a partir de la inscripción de las candidaturas oficiales. El orden de los candidatos es el mismo en el cual aparecerán en las papeletas electorales, sus colores corresponden a los partidos que representarán. El sombreado y negrita en cada encuesta corresponde al candidato ganador según cada encuesta.
+
+=== Primera vuelta ===
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Fecha
+! rowspan="3" |Difusión
+! rowspan="3" |Encuesta
+! rowspan="3" |Muestra
+! rowspan="3" |Medio
+![[Archivo:SamuelDM.png|70x70px]]
+![[Archivo:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+![[Archivo:Manfred Reyes Villa (cropped).jpg|70x70px]]
+![[Archivo:Andrónico Rodríguez (cropped).jpg|70x70px]]
+![[Archivo:Rodrigo Paz Pereira (cropped).jpg|70x70px]]
+![[Archivo:Jhonny Fernández (cropped).jpg|70x70px]]
+![[Archivo:Eduardo Del Castillo (cropped).png|70x70px]]
+![[Archivo:Pavel Aracena Vargas en julio de 2025.jpg|70x70px]]
+! rowspan="3" |Voto blanco
+! rowspan="3" |Voto Nulo
+! rowspan="3" |Indeciso
+|-
+![[Samuel Doria Medina|Samuel]]<br><small>[[Bloque de Unidad|Unidad]]</small>
+![[Jorge Quiroga Ramírez|Quiroga]]<br><small>[[Alianza Libre|Libre]]</small>
+![[Manfred Reyes Villa|Manfred]]<br><small>[[APB Súmate]]</small>
+![[Andrónico Rodríguez|Rodríguez]]<br><small>[[Alianza Popular (Bolivia)|AP]]</small>
+![[Rodrigo Paz Pereira|Paz]]<br><small>[[Partido Demócrata Cristiano (Bolivia)|PDC]]</small>
+![[Jhonny Fernández|Fernández]]<br><small>[[Unidad Cívica Solidaridad|FP]]</small>
+![[Eduardo Del Castillo|Del&nbsp;Castillo]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+!Aracena<br><small>[[Acción Democrática Nacionalista|LP-ADN]]</small>
+|-
+| bgcolor="#ffb848" |
+| bgcolor="#ff0000" |
+| bgcolor="#56008c" |
+| bgcolor="#0079BA" |
+| bgcolor="#016167" |
+| bgcolor="#00A8EC" |
+| bgcolor="#0047ab" |
+| bgcolor="#d81515" |
+|-
+|2 al 6 de agosto
+|10 ago 2025
+|Ipsos Ciesmori
+|2700
+Nacional, Urbano Rural
+|Unitel
+| style="background:#fff3b3;" |'''21.2 %'''
+|20 %
+|7.7 %
+|5.5 %
+|8.3 %
+|2 %
+|1.5 %
+|0.5 %
+|5.2 %
+|14.6 %
+|13.3 %
+|-
+|27 de julio al 3 de agosto
+|10 ago 2025
+|Captura Consulting
+|2500
+Nacional, Urbano Rural
+|Red Uno de Bolivia Cadena A
+| style="background:#fff3b3;" |'''21.6 %'''
+|20 %
+|9.7 %
+|7.2 %
+|6.4 %
+|2 %
+|2 %
+|0.7 %
+|5 %
+|10,6 %
+|14.4 %
+|-
+|31 julio al 4 agosto 
+|8 ago 2025
+|[https://eldeber.com.bo/pais/tuto-quiroga-supera-por-primera-vez-samuel-doria-medina-en-la-intencion-de-voto_525705/ SPIE]
+|'''2500'''
+<small>Nacional.</small> <small>Urbano Rural</small>
+|[[El Deber]]
+|23,64 %
+| style="background:#f3bfc8;" |'''24,45 %'''
+|8,79 %
+|8,46 %
+|9,10 %
+|2,44 %
+|1,83 %
+|0,33 %
+|9,91 %
+|5,74 %
+|5,10 %
+|-
+|25 al 28 julio
+|1 ago 2025
+|[https://eldeber.com.bo/pais/samuel-y-tuto-lideran-la-intencion-de-voto-en-bolivia-andronico-queda-relegado-al-cuarto-lugar_524914/ SPIE]
+|'''2500'''
+<small>Nacional.</small> <small>Urbano Rural</small>
+|[[El Deber]]
+| style="background:#fff3b3;" | '''24,5 %'''
+|22,9 %
+|7,2 %
+|7,4 %
+|7,6 %
+|2,1 %
+|1,7 %
+|0,4 %
+|12,1 %
+|7,4 %
+|5,5 %
+|-
+|25 al 27 de julio
+|30 jul 2025
+|[https://unitel.bo/noticias/asi-decidimos/estos-son-los-resultados-por-departamento-de-la-tercera-encuesta-de-intencion-de-voto-en-bolivia-GN16825470 Ipsos Ciesmori]
+|'''2500'''
+<small>Nacional, Urbano Rural</small>
+|[[Unitel (Bolivia)|Unitel]]
+| style="background:#fff3b3;" | '''21,5 %'''
+|19,6 %
+|8,3 %
+|6,1 %
+|5,8 %
+|1,8 %
+|2,1 %
+|0,3 %
+|8,6 %
+|13,6 %
+|12,4 %
+|-
+| colspan="5" |'''29 de julio de 2025'''
+|
+|
+| colspan="9" |'''[[Movimiento de Renovación Nacional (Bolivia)|Movimiento de Renovación Nacional]] declina su candidatura'''
+|-
+|5 al 10 julio
+|16 jul 2025
+|[https://eldeber.com.bo/pais/samuel-y-tuto-lideran-la-intencion-de-voto-en-la-primera-encuesta-nacional-de-el-deber_519231/ SPIE]
+|'''2500'''
+<small>Nacional.</small> <small>Urbano Rural</small>
+|[[El Deber]]
+| style="background:#fff3b3;" | '''21,76 %'''
+|20,70 %
+|10,01 %
+|8,26 %
+|4,04 %
+|2,45 %
+|1,92 %
+|0,36 %
+|14,76 %
+|4,48 %
+|5,31 %
+|-
+| colspan="5" |'''9 de julio de 2025'''
+|
+|
+| colspan="9" |'''[[Nueva Generación Patriótica]] declina su candidatura'''
+|-
+|5 al 7 de julio de 2025
+|13 jul 2025
+|[https://unitel.bo/noticias/asi-decidimos/segunda-encuesta-nacional-tuto-quiroga-y-samuel-doria-medina-siguen-liderado-intencion-de-voto-andronico-pierde-apoyo-AC16636170 Ciemcorp]
+|'''2500''' Nacional, Urbano Rural 
+|[[Unitel (Bolivia)|Unitel]]
+| style="background:#fff3b3;" | '''18,7 %'''
+|18,1 %
+|8,2 %
+|11,8 %
+|3,2 %
+|2,5 %
+|2,3 %
+|0,2 %
+|8,2 %
+|12,5 %
+|11,3 %
+|-
+| colspan="5" |'''6 de julio de 2025'''
+|
+|
+| colspan="9" |'''Primer Debate Presidencial<ref>{{Obra citada|título=DEBATE PRESIDENCIAL EN UNO DECIDE|apellidos=Red Uno De Bolivia|url=https://www.youtube.com/watch?v=Ux1jZw1-aUA&lc=Ugz-9hLujRxthb_3OEp4AaABAg|fecha=2025-07-07}}</ref><ref>{{Cita web|url=https://www.vision360.bo/noticias/2025/07/07/27992-el-retorno-del-debate-presidencial-dejo-momentos-virales-y-un-ganador-la-democracia|título=El retorno del debate presidencial dejó momentos virales y un ganador: la democracia|fechaacceso=2025-07-09|sitioweb=Visión 360|idioma=es-BO}}</ref>'''
+|-
+|10 al 20 de junio de 2025
+|30 jun 2025
+|Captura Consulting
+|'''2500'''
+|[[Red Uno]]<br />[[Cadena A]]
+| style="background:#fff3b3;" |'''19,6 %'''
+|16,6 %
+|8,8 %
+|13,7 %
+|6,4 %
+|3,8 %
+|1,4 %
+|Descartado
+|5 %
+|7,4 %
+|15,5 %
+|-
+|7 al 14 de junio de 2025
+|18 jun 2025
+|[https://eldeber.com.bo/pais/samuel-y-tuto-lideran-la-intencion-de-voto-en-la-primera-encuesta-nacional-de-el-deber_519231/ SPIE]
+|'''2500'''
+<small>Nacional.</small> <small>Urbano Rural</small>
+|[[El Deber]]
+| style="background:#fff3b3;" |'''24,02 %'''
+|22,07 %
+|9,39 %
+|14,69 %
+|5,56 %
+|2,56 %
+|1,69 %
+|0,57 %
+|9,84 %
+|4,54 %
+|3,01 %
+|-
+|22 al 26 de mayo de 2025
+|1 Jun 2025
+|[https://unitel.bo/noticias/asi-decidimos/quien-va-primero-en-las-encuestas-conoce-la-intencion-de-voto-a-nivel-nacional-GG16109690 Ciemcorp]
+|'''2500'''
+<small>Nacional.</small> <small>Urbano Rural</small>
+|[[Unitel (Bolivia)|Red&nbsp;Unitel]]
+| style="background:#fff3b3;" |'''19,1 %'''
+|18,4 %
+|7,9 %
+|14,2 %
+|4,3 %
+|3,7 %
+|2,3 %
+|0,5 %
+|6,5 %
+|10,5 %
+|10 %
+|}
+
+=== Segunda vuelta ===
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Fecha
+! rowspan="3" |Difusión
+! rowspan="3" |Encuesta
+! rowspan="3" |Muestra
+! rowspan="3" |Medio
+![[Archivo:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+![[Archivo:Rodrigo Paz Pereira (cropped).jpg|70x70px]]
+! rowspan="3" |Voto blanco
+! rowspan="3" |Voto nulo
+! rowspan="3" |Indeciso
+|-
+![[Jorge Quiroga Ramírez|Quiroga]]<br><small>[[Alianza Libre|Libre]]</small>
+![[Rodrigo Paz Pereira|Paz]]<br><small>[[Partido Demócrata Cristiano (Bolivia)|PDC]]</small>
+|-
+| bgcolor="#ff0000" |
+| bgcolor="#016167" |
+|-
+|6 al 9 de octubre de 2025 
+|12 Oct 2025
+|[https://unitel.bo/noticias/asi-decidimos/ultima-encuesta-tuto-aumenta-ventaja-sobre-rodrigo-y-crecen-los-indecisos-EH17672767 Ipsos Ciesmori]
+|'''2500''' Nacional
+|[[Unitel (Bolivia)|Unitel]]
+| style="background:#f3bfc8;" |'''44.9 %'''
+|36.5 %
+|3.7 %
+|5.6 %
+|9.3 %
+|-
+|3 al 7 de octubre de 2025
+|10 Oct 2025
+|Captura Consulting 
+|'''2560''' Nacional
+|Uno
+| style="background:#f3bfc8;" |'''42.9 %'''
+|38.7 %
+|2.6 %
+|5.8 %
+|10 %
+|-
+|1 al 6 de octubre de 2025 
+|7 oct 2025
+|[https://cbconsultoraop.com/bolivia-2o-vuelta-presidente-2025-cb-consultora-o-p-1028-casos-01-a-06-de-octubre-2025/ CB Consultora]
+|'''1028''' Nacional
+|–
+| style="background:#f3bfc8;" |'''44.4 %'''
+| 36.2 %
+| colspan=2|12.1 %
+| 7.3 %
+|-
+|—
+|25 sep 2025
+|[https://unitel.bo/noticias/asi-decidimos/segunda-vuelta-tuto-quiroga-supera-por-77-puntos-a-rodrigo-paz-en-la-primera-encuesta-nacional-de-intencion-de-voto-IF17470679 Ipsos Ciesmori]
+|'''2500''' Nacional
+|[[Unitel (Bolivia)|Unitel]]
+| style="background:#f3bfc8;" |'''47.0 %'''
+| 39.3 %
+| 3.5 %
+| 4.7 %
+| 5.5 %
+|}
+
+== Encuestas de precandidaturas antes de la inscripción ==
+
+=== Entre definición de precandidatos e inscripciones ===
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Fecha
+! rowspan="3" |Encuesta
+! rowspan="3" |Medio 
+! rowspan="3" |Muestra
+![[Archivo:Luis Arce (Official Photo, 2020) Cropped III.png|71x71px]]
+![[Archivo:Evo Morales 2023 cropped.jpg|70x70px]]
+![[Archivo:Andrónico Rodríguez (cropped).jpg|70x70px]]
+![[Archivo:Manfred Reyes Villa (cropped).jpg|70x70px]]
+![[Archivo:Chi Hyun Ching (cropped).png|70x70px]]
+![[Archivo:Samuel Doria Medina en junio de 2024.jpg|75x75px]]
+![[Archivo:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+![[Archivo:Carlos Mesa.jpg|69x69px]]
+![[Archivo:Luis Fernando Camacho.jpg|70x70px]]
+![[Archivo:Mónica Eva Copa Murga (Official Photo, 2015) Alejandra Vaca, Chamber of Senators of Bolivia.jpg|70x70px]]
+![[Archivo:Man without face.svg|70x70px]]
+![[Archivo:Branko Marinkovic 01.jpg|70x70px]]
+![[Archivo:Mariagalindo.jpg|70x70px]]
+! rowspan="3" |Otros
+! rowspan="3" |Indeciso/No sabe/No responde 
+|-
+![[Luis Arce|Arce]] <br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Evo Morales|Morales]]<br><small>[[EVO&nbsp;Pueblo]]</small>
+![[Andrónico Rodríguez|Rodríguez]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Manfred Reyes Villa|Manfred]]<br><small>[[APB&nbsp;Súmate]]</small>
+![[Chi Hyun Chung|Chi Hyun]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Samuel Doria Medina|Samuel]]<br><small>[[Frente de Unidad Nacional|UN]]</small>
+![[Jorge Quiroga Ramírez|Quiroga]]<br><small>[[Alianza Libre|Libre]]</small>
+![[Carlos Mesa|Mesa]]<br><small>[[Comunidad Ciudadana|CC]]</small>
+![[Luis Fernando Camacho|Camacho]]<br><small>[[Creemos]]</small>
+![[Eva Copa]]<br><small>[[Morena (Bolivia)|Morena]]</small>
+![[Vicente Cuellar|Cuellar]]<br><small>Cambio25</small>
+![[Branko Marinković|Branko]]<br><small>[[Acción Democrática Nacionalista|ADN]]</small>
+![[María Galindo|Galindo]]<br><small>[[Candidato independiente|Ind.]]</small>
+|-
+| bgcolor="#0047ab" |
+| bgcolor="#05654a" |
+| bgcolor="#0047ab" |
+| bgcolor="#56008c" |
+| bgcolor="silver" |
+| bgcolor="#ffcc00" |
+| bgcolor="#ff0000" |
+| bgcolor="ee7d03" |
+| bgcolor="#d02d69" |
+| bgcolor="#A5218F" |
+| bgcolor="#6118ab" |
+| bgcolor="#d81515" |
+| bgcolor="silver" |
+|-
+|13 de mayo de 2025
+| colspan="18" |[[Luis Arce]] y [[Chi Hyun Chung]] declinan su candidatura.
+|-
+|30 Mar 2025
+|[https://correodelsur.com/politica/20250330/encuesta-de-claure-ubica-primero-a-andronico-seguido-por-samuel-y-tuto.html Panterra]
+|–
+|5,000
+|–
+|–
+| style="background:lightblue" |'''25 %'''
+|11 %
+|13 %
+|16 %
+|15 %
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|20 %
+|-
+|27 Mar 2025
+|[https://www.reduno.com.bo/noticias/atencion-bolivia-estas-son-las-intenciones-de-voto-rumbo-a-las-presidenciales-202532619158 Captura Consulting]
+|[[Red Uno]]
+|1,500
+|1 %
+|–
+| style="background:lightblue" |'''18 %'''
+|13 %
+|11 %
+|17 %
+|16 %
+|–
+|–
+|–
+|–
+|–
+|–
+|4 %
+|14 %
+|-
+|8 - 25 Mar 2025
+| colspan="18" |[[Vicente Cuellar]], [[Branko Marinković]], [[Luis Fernando Camacho]], [[Jaime Soliz]], y [[María Galindo]] declinan su candidatura
+|-
+|14 Feb 2025
+|[https://www.opinion.com.bo/articulo/pais/manfred-chi-lideran-encuesta-realizada-uagrm-evo-doria-andronico-tuto-siguen/20250214000031966935.html UAGRM]
+|—
+|'''2200'''
+<small>Ciudades capital +</small> <small>El Alto y 79 localidades</small>
+|2 %
+|14 %
+|10 %
+| style="background:#E1C8FA" |'''15 %'''
+| style="background:lightsilver" |'''15 %'''
+|10 %
+|8 %
+|3 %
+|5 %
+|–
+|1 %
+|1 %
+|–
+|4 %
+|7 %
+|-
+|11 Feb 2025
+|[https://eju.tv/2025/02/encuesta-tuto-lidera-intencion-de-voto-le-siguen-samuel-y-manfred-evo-es-quinto/ Poder y Placer]
+|No Mentiras {{small|([[RTP (Bolivia)|RTP]])}}
+|'''850'''
+<small>En 4 ciudades</small>
+|2 %
+|8 %
+|–
+|13 %
+|13 %
+|16 %
+| style="background:#f3bfc8" |'''19 %'''
+|–
+|–
+|–
+|–
+|2 %
+|7 %
+|–
+|19 %
+|-
+|31 Ene 2025
+|[https://eju.tv/2025/01/lo-que-dice-la-encuesta-de-claure-detras-de-sus-datos/ Bolivia 360]
+|–
+|'''2000'''
+<small>Nacional.</small>
+<small>Urbano Rural</small>
+|2 %
+|–
+| style="background:lightblue" |'''16 %'''
+|15 %
+|13 %
+|8 %
+|9 %
+|4 %
+|7 %
+|2 %
+|2 %
+|–
+|4 %
+|7 %
+|8 %
+|-
+|24 Ene 2025
+| colspan="18" | [[Carlos Mesa]] declina su candidatura
+|-
+|11-12 Ene 2025
+|[https://www.eldia.com.bo/2025-01-21/politica/reyes-villa-lidera-encuesta-de-diagnosis-con-15-le-siguen-tuto-y-samuel-entre-los-opositores.html Diagnosis]
+|–
+|'''1800'''
+<small>Nacional.</small>
+<small>Urbano Rural</small>
+|7 %
+|9 %
+|10 %
+| style="background:#E1C8FA" |'''15 %'''
+|5 %
+|9 %
+|10 %
+| -
+| -
+| -
+|3 %
+|2 %
+| -
+|15 %
+|15 %
+|-
+|}
+
+
+=== Periodo pre-eleccionario ===
+
+==== 2024 ====
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Fecha
+! rowspan="3" |Encuesta
+![[Archivo:Luis Alberto Arce Catacora (Official Portrait, 2020) Cropped III.jpg|70x70px]]
+![[Archivo:Evo Morales July 2019.jpg|70x70px]]
+![[Archivo:Manfred Reyes Villa (cropped).jpg|70x70px]]
+![[Archivo:SamuelDM.png|70x70px]]
+![[Archivo:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+![[Archivo:Carlos Mesa (Agosto 2021).png|70x70px]]
+![[Archivo:Luis Fernando Camacho.jpg|73x73px]]
+![[Archivo:Andrónico Rodríguez (cropped).jpg|70x70px]]
+![[Archivo:Mónica Eva Copa Murga (Official Photo, 2015) Alejandra Vaca, Chamber of Senators of Bolivia.jpg|70x70px]]
+![[Archivo:Chi Hyun Ching (cropped).png|70x70px]]
+![[Archivo:David Choquehuanca Céspedes 2 (Recorte).jpg|70x70px]]
+![[Archivo:Mariagalindo.jpg|70x70px]]
+![[Archivo:Marcelo-claure.jpg|70x70px]]
+![[Archivo:Rodrigo Paz Pereira (cropped).jpg|70x70px]]
+![[Archivo:Man without face.svg|70x70px]]
+![[Archivo:Edmán Lara en mayo de 2025.1.jpg|70x70px]]
+! rowspan="3" |Indeciso/No sabe/No responde 
+|-
+![[Luis Arce|Arce]] <br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Evo Morales|Morales]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Manfred Reyes Villa|Manfred]]<br><small>[[APB Súmate]]</small>
+![[Samuel Doria Medina|Samuel]]<br><small>[[Frente de Unidad Nacional|UN]]</small>
+![[Jorge Quiroga Ramírez|Quiroga]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Carlos Mesa|Mesa]]<br><small>[[Comunidad Ciudadana|CC]]</small>
+![[Luis Fernando Camacho|Camacho]]<br><small>[[Creemos]]</small>
+![[Andrónico Rodríguez|Rodríguez]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+! [[Eva Copa|Copa]]<br><small>[[Morena (Bolivia)|Morena]]</small>
+![[Chi Hyun Chung|Chi]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[David Choquehuanca|Choquehuanca]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[María Galindo|Galindo]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Marcelo Claure|Claure]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Rodrigo Paz Pereira|Paz]]<br><small>[[Primero la Gente (Bolivia)|PG]]</small>
+![[Vicente Cuellar|Cuellar]]<br><small>Cambio25</small>
+![[Edmand Lara|Lara]]<br><small>[[Nuevas Ideas con Libertad|NUIL]]</small>
+|-
+| bgcolor="#0047ab" |
+| bgcolor="#0047ab" |
+| bgcolor="#56008c" |
+| bgcolor="#ffcc00" |
+| bgcolor="silver" |
+| bgcolor="ee7d03" |
+| bgcolor="D02D69"|
+| bgcolor="#0047ab" |
+| bgcolor="#A5218F" |
+| bgcolor=silver|
+| bgcolor="#0047ab" |
+| bgcolor =silver|
+| bgcolor =silver|
+| bgcolor="ee7d03" |
+| bgcolor="#6118ab" |
+| bgcolor="#00d2e5" |
+|-
+|-
+|28 Dic 2024
+|[https://www.opinion.com.bo/articulo/pais/manfred-lidera-preferencia-voto-opositores-encuesta/20241229001925963778.html#google_vignette Bunker]
+|–
+|–
+| style="background:#E1C8FA" |'''35.51 %'''
+|7.59 %
+| 31.28 %
+|1.03 %
+|6.24 %
+|–
+|–
+|2.47 %
+|–
+|–
+| –
+|1.29 %
+| 1.20 %
+|–
+|–
+|-
+|15 Nov 2024
+|[https://eju.tv/2024/11/estudio-de-consultora-morris-revela-que-manfred-lidera-intencion-de-voto-y-que-el-80-de-la-gente-rechaza-bloqueos/ Consultora Morris]
+|12.1 %
+|–
+| style="background:#E1C8FA" |'''35.5 %'''
+|2.2 %
+| 14.0 %
+|1.2 %
+|6.9 %
+|25.6 %
+|–
+|1.3 %
+|–
+|–
+| –
+| 0.2 %
+| 0.8 %
+|–
+|–
+|-
+|8-14 Nov 2024
+| colspan="18" | El [[Tribunal Constitucional Plurinacional|TCP]] inhabilita la candidatura de [[Evo Morales]] y [[Marcelo Claure]] declina su candidatura.
+|-
+|2-15 Nov 2024
+|[https://eju.tv/2024/11/encuesta-revela-rechazo-general-a-posibles-candidatos-arce-y-morales-lideran-indices-de-desfavorabilidad/ Panterra]
+|4 %
+| style="background:lightblue" |'''18 %'''
+| style="background:#E1C8FA" |'''18 %'''
+| 13 %
+|9 %
+|6 %
+| 9 %
+|–
+|–
+|–
+|–
+|–
+| –
+| –
+| –
+|–
+| –
+|-
+|21-22 Sept 2024
+|[https://eju.tv/2024/10/encuesta-de-intencion-de-voto-ratifica-empate-catastrofico-para-2025-indecisos-definiran-al-ganador/ Diagnosis]
+| style="background:lightblue" |'''16 %'''
+|10 %
+|10 %
+|4 %
+|–
+|8 %
+| 4 %
+|10 %
+| –
+|–
+|3 %
+|–
+| – 
+| –
+| 9
+|–
+|9 %
+|-
+|Sept 2024
+|[https://eju.tv/2024/09/en-medio-del-conflicto-azul-surgen-encuestas-que-ponen-a-evo-tuto-y-manfred-en-los-primeros-lugares/ Tactic Consulting]
+|6 %
+| style="background:lightblue" |'''16 %'''
+|9 %
+| 5 %
+|14 %
+|6 %
+| 5 %
+|–
+|–
+|–
+|–
+|–
+| –
+| 6 %
+| –
+|
+|21 %
+|-
+|16 Sep 2024
+| colspan="18" | Inicio de las [[Protestas en Bolivia de 2024]]
+|-
+|4 Jul 2024
+|[https://eju.tv/2024/07/encuesta-de-poder-y-placer-posesiona-a-manfred-y-andronico-como-favoritos/ Captura Consulting]
+|–
+|–
+| style="background:#E1C8FA" | 13 %
+|9 %
+| 4 %
+|6 %
+|10 %
+|13 %
+|–
+|6 %
+|–
+|10 %
+| –
+| –
+|5 %
+|3 %
+|5 %
+|-
+|26 Jun 2024
+| colspan="18" |[[Intento de golpe de Estado en Bolivia de 2024]]
+|-
+|May 2024
+|[https://informes.diagnosisestudios.com/48-24-intencion-de-voto-14 Diagnosis]
+| style="background:lightblue" |'''19 %'''
+|9 %
+|5 %
+|2 %
+|–
+|9 %
+| 3 %
+|7 %
+| – 
+|–
+|3 %
+|–
+| –
+| –
+| 7 %
+|–
+|15 %
+|-
+|Abril 2024
+|[https://rcbolivia.com/quien-cree-usted-que-seria-el-mejor-candidato-para-las-proximas-elecciones-presidenciales/ Coolosa Comunicaciones]
+|8.79 %
+|7.73 %
+| style="background:#E1C8FA" |'''11.6 %'''
+|5.95 %
+|3.86 %
+|7.52 %
+| 1.71 %
+|0.99 %
+|1.25 %
+|–
+|–
+|5.80 %
+|–
+| 2.82 %
+| 10.77 %
+|5.4 %
+|4.22 %
+|-
+|16-17 Mar 2024
+|[https://informes.diagnosisestudios.com/33-24-intencion-de-voto-13 Diagnosis]
+| style="background:lightblue" |'''17 %'''
+|12 %
+|2 %
+|4 %
+|–
+|10 %
+| 2 %
+|4 %
+| –
+|–
+|–
+|–
+| –
+| –
+| 9 %
+|–
+|–
+|-
+|15 Mar 2024
+|[https://www.opinion.com.bo/articulo/pais/encuesta/20240315144331939900.html Captura Consulting]
+| style="background:lightblue" |'''16 %'''
+|–
+|12 %
+|9 %
+| –
+|8 %
+|7 %
+|11 %
+| –
+|2 %
+|–
+|7 %
+| 7 %
+| –
+| 3 %
+|–
+|18 %
+|-
+|}
+
+==== 2023 ====
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Fecha
+! rowspan="3" |Encuesta
+![[Archivo:Luis Alberto Arce Catacora (Official Portrait, 2020) Cropped III.jpg|70x70px]]
+![[Archivo:Evo Morales July 2019.jpg|70x70px]]
+![[Archivo:Manfred Reyes Villa (cropped).jpg|70x70px]]
+![[Archivo:SamuelDM.png|70x70px]]
+![[Archivo:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+![[Archivo:Carlos Mesa (Agosto 2021).png|70x70px]]
+![[Archivo:Gubernatorial Inauguration of Luis Fernando Camacho. 3 May 2021, Agencia Boliviana de Información, Santa Cruz de la Sierra. (52592061822).png|70x70px]]
+![[Archivo:Andrónico Rodríguez (cropped).jpg|70x70px]]
+![[Archivo:Mónica Eva Copa Murga (Official Photo, 2015) Alejandra Vaca, Chamber of Senators of Bolivia.jpg|70x70px]]
+![[Archivo:David Choquehuanca Céspedes 2 (Recorte).jpg|70x70px]]
+![[Archivo:Mariagalindo.jpg|70x70px]]
+![[Archivo:Marcelo-claure.jpg|70x70px]]
+![[Archivo:Rodrigo Paz Pereira.png|70x70px]]
+![[Archivo:Man without face.svg|70x70px]]
+! rowspan="3" |Indeciso/No sabe/No responde 
+|-
+![[Luis Arce|Arce]] <br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Evo Morales|Morales]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Manfred Reyes Villa|Manfred]]<br><small>[[APB Súmate]]</small>
+![[Samuel Doria Medina|Samuel]]<br><small>[[Frente de Unidad Nacional|UN]]</small>
+![[Jorge Quiroga Ramírez|Quiroga]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Carlos Mesa|Mesa]]<br><small>[[Comunidad Ciudadana|CC]]</small>
+![[Luis Fernando Camacho|Camacho]]<br><small>[[Creemos]]</small>
+![[Andrónico Rodríguez|Rodríguez]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Eva Copa|Copa]]<br><small>[[Morena (Bolivia)|Morena]]</small>
+![[David Choquehuanca|Choquehuanca]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[María Galindo|Galindo]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Marcelo Claure|Claure]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Rodrigo Paz Pereira|Paz]]<br><small>[[Comunidad Ciudadana|CC]]</small>
+![[Vicente Cuellar|Cuellar]]<br><small>Cambio25</small>
+|-
+| bgcolor="#0047ab" |
+| bgcolor="#0047ab" |
+| bgcolor="#56008c" |
+| bgcolor="#ffcc00" |
+| bgcolor="silver" |
+| bgcolor="ee7d03" |
+| bgcolor="D02D69"|
+| bgcolor="#0047ab" |
+| bgcolor="#A5218F" |
+| bgcolor="#0047ab" |
+| bgcolor =silver|
+| bgcolor =silver|
+| bgcolor="ee7d03" |
+| bgcolor="purple" |
+|-
+|Nov 2023
+| [https://informes.diagnosisestudios.com/137-23-intencion-de-voto-11 Diagnosis]
+| style="background:lightblue" |'''21 %'''
+|11 %
+| 3 % 
+|5 %
+|–
+| 12 %
+|4 %
+|–
+| –
+|–
+|–
+| -
+| – 
+| 9 %
+| 12 %
+|-
+|9-10 Sep 2023
+|[https://informes.diagnosisestudios.com/118-23-intencion-de-voto-10 Diagnosis]
+| style="background:lightblue" |'''18 %'''
+|9 %
+|4 %
+| 6 %
+|–
+|11 %
+| 4 % 
+| –
+|–
+| –
+|–
+|7 %
+| –
+| 9 %
+| 14 %
+|-
+|19-20 Ago 2023
+|[https://informes.diagnosisestudios.com/107-23-intencion-de-voto-9 Diagnosis]
+| style="background:lightblue" |'''14 %'''
+|10 %
+|3 %
+|4 %
+|–
+|13 %
+|2 %
+|3 %
+|–
+|–
+|–
+|–
+|–
+|6 %
+|18 %
+|-
+|9 Ago 2023
+|[http://www.elalteno.com.bo/bolivia/20230908/afirman-que-evo-hace-campana-por-luis-arce Poder y Placer]
+| style="background:lightblue" |'''12 %'''
+|11 %
+|8 %
+|9 %
+| –
+|11 %
+|9 %
+|–
+|2 %
+|1 %
+|6 %
+|4 %
+| -
+|4 %
+|24 %
+|-
+|8-9 Jul 2023
+|[https://lavozbolivia.com/arce-supera-a-evo-en-intencion-de-voto-para-las-elecciones-2025/ Diagnosis]
+| style="background:lightblue" |'''14 %'''
+|9 %
+|3 %
+|4 %
+| –
+|13 %
+|2 %
+| 3 %
+| –
+| –
+| –
+| –
+|–
+|6 %
+| –
+|-
+|22 May-22 Jun 2023
+|[https://deredes.tv/2023/06/14/intencion-de-voto-en-el-alto/ Poder y Placer] 
+| style="background:lightblue |'''17 %'''
+|12 %
+|4 %
+|13 %
+|2 %
+|13 %
+|1 %
+| –
+|8 %
+|2 %
+|10 %
+|3 %
+|1 %
+|1 %
+|13 %
+|-
+|}
+
+==== 2022 ====
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Fecha
+! rowspan="3" |Encuesta
+![[Archivo:Luis Alberto Arce Catacora (Official Portrait, 2020) Cropped III.jpg|70x70px]]
+![[Archivo:Evo Morales July 2019.jpg|70x70px]]
+![[Archivo:Manfred Reyes Villa (cropped).jpg|70x70px]]
+![[Archivo:SamuelDM.png|70x70px]]
+![[Archivo:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+![[Archivo:Carlos Mesa (Agosto 2021).png|70x70px]]
+![[Archivo:Gubernatorial Inauguration of Luis Fernando Camacho. 3 May 2021, Agencia Boliviana de Información, Santa Cruz de la Sierra. (52592061822).png|70x70px]]
+![[Archivo:Mónica Eva Copa Murga (Official Photo, 2015) Alejandra Vaca, Chamber of Senators of Bolivia.jpg|70x70px]]
+![[Archivo:David Choquehuanca Céspedes 2 (Recorte).jpg|70x70px]]
+![[Archivo:Mariagalindo.jpg|70x70px]]
+![[Archivo:Marcelo-claure.jpg|70x70px]]
+! rowspan="3" |Indeciso/No sabe/No responde 
+|-
+![[Luis Arce|Arce]] <br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Evo Morales|Morales]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Manfred Reyes Villa|Manfred]]<br><small>[[APB Súmate]]</small>
+![[Samuel Doria Medina|Samuel]]<br><small>[[Frente de Unidad Nacional|UN]]</small>
+![[Jorge Quiroga Ramírez|Quiroga]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Carlos Mesa|Mesa]]<br><small>[[Comunidad Ciudadana|CC]]</small>
+![[Luis Fernando Camacho|Camacho]]<br><small>[[Creemos]]</small>
+![[Eva Copa]]<br><small>[[Morena (Bolivia)|Morena]]</small>
+![[David Choquehuanca|Choquehuanca]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[María Galindo|Galindo]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Marcelo Claure|Claure]]<br><small>[[Candidato independiente|Ind.]]</small>
+|-
+| bgcolor="#0047ab" |
+| bgcolor="#0047ab" |
+| bgcolor="#56008c" |
+| bgcolor="#ffcc00" |
+| bgcolor="silver" |
+| bgcolor="ee7d03" |
+| bgcolor="D02D69"|
+| bgcolor="#A5218F"|
+| bgcolor="#0047ab" |
+| bgcolor =silver|
+| bgcolor =silver|
+|-
+|-
+|29 Dic 2022-13 Ene 2023
+|[https://twitter.com/JimenaAnteloT/status/1615880964348968960 Captura Consulting]
+| style="background:lightblue" |'''21 %'''
+|11 %
+|9 %
+| 19 %
+| –
+|19 %
+|13 %
+|2 %
+|21 %
+|2 %
+|13 %
+|7 %
+|-
+|28 Dic 2022
+| colspan="20" | Detención del gobernador [[Luis Fernando Camacho]]
+|-
+|5 Nov 2022
+|[https://publico.bo/opinion/el-verso-del-golpe-atrofio-el-gobierno-de-arce/ Diagnosis]
+|11 %
+|8 %
+|8 %
+| –
+| –
+| style="background:#FDDCB8" |'''12 %'''
+|3 %
+| –
+| –
+| –
+| –
+| –
+|-
+|Jul 2022
+|[https://eju.tv/2022/07/encuesta-luis-arce-ganaria-comicios-si-la-eleccion-fuera-este-domingo/ Captura Consulting]
+| style="background:lightblue" |'''18 %'''
+|11 %
+| –
+|3 %
+|5 %
+|11 %
+|8 %
+|3 %
+|3 %
+| –
+| –
+|–
+|-
+|9-19 de abril de 2022
+|[https://www.noticiasfides.com/nacional/politica/luis-arce-ganaria-una-nueva-eleccion-y-evo-terminaria-en-tercer-lugar-segun-encuesta-415542 Captura Consulting]
+| style="background:lightblue" |'''17 %'''
+|11 %
+|10 %
+|4 %
+|7 %
+|11 %
+|15 %
+|5 %
+| –
+|3 %
+| –
+| 20 %
+|-
+|}
+
+==== 2021 ====
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Fecha
+! rowspan="3" |Encuesta
+![[Archivo:Luis Alberto Arce Catacora (Official Portrait, 2020) Cropped III.jpg|70x70px]]
+![[Archivo:Evo Morales July 2019.jpg|70x70px]]
+![[Archivo:Manfred Reyes Villa (cropped).jpg|70x70px]]
+![[Archivo:SamuelDM.png|70x70px]]
+![[Archivo:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+![[Archivo:Carlos Mesa (Agosto 2021).png|70x70px]]
+![[Archivo:Gubernatorial Inauguration of Luis Fernando Camacho. 3 May 2021, Agencia Boliviana de Información, Santa Cruz de la Sierra. (52592061822).png|70x70px]]
+![[Archivo:Mónica Eva Copa Murga (Official Photo, 2015) Alejandra Vaca, Chamber of Senators of Bolivia.jpg|70x70px]]
+! rowspan="3" |Indeciso/No sabe/No responde 
+|-
+![[Luis Arce|Arce]] <br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Evo Morales|Morales]]<br><small>[[Movimiento al Socialismo (Bolivia)|MAS]]</small>
+![[Manfred Reyes Villa|Manfred]]<br><small>[[APB Súmate]]</small>
+![[Samuel Doria Medina|Samuel]]<br><small>[[Frente de Unidad Nacional|UN]]</small>
+![[Jorge Quiroga Ramírez|Quiroga]]<br><small>[[Candidato independiente|Ind.]]</small>
+![[Carlos Mesa|Mesa]]<br><small>[[Comunidad Ciudadana|CC]]</small>
+![[Luis Fernando Camacho|Camacho]]<br><small>[[Creemos]]</small>
+![[Eva Copa]]<br><small>[[Morena (Bolivia)|Morena]]</small>
+|-
+| bgcolor="#0047ab" |
+| bgcolor="#0047ab" |
+| bgcolor="#56008c" |
+| bgcolor="#ffcc00" |
+| bgcolor="silver" |
+| bgcolor="ee7d03" |
+| bgcolor="D02D69"|
+| bgcolor="#A5218F"|
+|-
+|28 Dic 2021
+|[https://eju.tv/2021/12/manfred-y-evo-son-favoritos-a-presidentes-en-encuesta-arce-se-ratifica-en-general/ Captura Consulting]
+| style="background:lightblue" |'''23 %'''
+| –
+|12 %
+|3 %
+|9 %
+|13 %
+|15 %
+|7 %
+|19 %
+|-
+|28 Dic 2021
+|[https://eju.tv/2021/12/manfred-y-evo-son-favoritos-a-presidentes-en-encuesta-arce-se-ratifica-en-general/ Captura Consulting]
+|–
+| style="background:lightblue" |'''15 %'''
+|13 %
+|4 %
+|10 %
+|13 %
+|14 %
+|9 %
+|22 %
+|}
+
+== Referencias ==
+{{Listaref}}
+
+{{Control de autoridades}}
+[[Categoría:Elecciones generales de Bolivia de 2025]]
+[[Categoría:Encuestas en 2025]]
+[[Categoría:Anexos:Política de Bolivia]]

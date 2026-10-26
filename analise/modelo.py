@@ -383,11 +383,14 @@ def probabilidades(media_lula: float, resultado: dict, hist_erro: pd.DataFrame, 
     out["historico_governador_perto"] = perto["viradas"] / perto["vezes"]
     # 3) mercado
     f = pd.read_csv(COPIAS / "investigacao-segundo-turno-2026" / "polymarket_favoritos.csv")
+    f_todos = f
+    if "repetida" in f:
+        f = f[f.repetida.fillna(0).astype(int) == 0]  # o mesmo pleito em mais de um mercado conta uma vez
     br = f[f.slug == "brazil-presidential-election"].iloc[0]
     out["polymarket_lula_vespera"] = float(br.preco_vencedor_vespera)
     faixa = f[(f.preco_favorito >= 0.70) & (f.preco_favorito <= 0.90) & (f.slug != "brazil-presidential-election")]
     out["polymarket_favoritos_70_90"] = {"mercados": int(len(faixa)), "favorito_perdeu": int((faixa.acertou == 0).sum())}
-    out["polymarket_1t"] = {"favorito": "Lula", "preco": float(f[f.slug == "brazil-presidential-election-first-round-winner"].preco_favorito.iloc[0]),
+    out["polymarket_1t"] = {"favorito": "Lula", "preco": float(f_todos[f_todos.slug == "brazil-presidential-election-first-round-winner"].preco_favorito.iloc[0]),
                             "acertou": False}
     # combinação simples: média das três leituras (cada uma com o mesmo peso)
     tres = [out["pesquisas_normal"], out["historico_laplace"], out["polymarket_lula_vespera"]]

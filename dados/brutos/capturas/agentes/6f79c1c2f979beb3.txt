@@ -1,0 +1,3544 @@
+{{Short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| election_name     = Opinion polling for the Peruvian General election, 2021
+| country           = Peru
+| type              = presidential
+| ongoing           = yes
+| previous_election = Opinion polling for the 2016 Peruvian general election
+| previous_year     = 2016
+| next_election     = Opinion polling for the 2026 Peruvian general election
+| next_year         = ''2026''
+}}
+Since the [[2016 Peruvian general election|previous elections in 2016]], polling companies have published surveys tracking voting intention for the [[2021 Peruvian general election]]. The results of these surveys are listed below in reverse chronological order. The first round of the election was held on 11 April, and the run-off between [[Keiko Fujimori]] and [[Pedro Castillo]] was held on 6 June 2021.
+
+== Analysis ==
+The primary candidates in Peruvian elections typically become apparent two months prior to elections.<ref name="PROFE22">{{cite book|last1=Asensio|first1=Raúl|url=https://fondoeditorial.iep.org.pe/producto/el-profe-como-pedro-castillo-se-convirtio-en-presidente-del-peru-y-que-pasara-a-continuacion-2/|title=El Profe: Cómo Pedro Castillo se convirtió en presidente del Perú y qué pasará a continuación|last2=Camacho|first2=Gabriela|last3=González|first3=Natalia|last4=Grompone|first4=Romeo|last5=Pajuelo Teves|first5=Ramón|last6=Peña Jimenez|first6=Omayra|last7=Moscoso|first7=Macarena|last8=Vásquez|first8=Yerel|last9=Sosa Villagarcia|first9=Paolo|date=August 2021|publisher=[[Institute of Peruvian Studies]]|isbn=978-612-326-084-2|edition=1|location=[[Lima, Peru]]|pages=27–71|language=es|access-date=17 November 2021}}</ref> In the first wave of support, [[Yonhy Lescano]] saw initial support, though he was surpassed by [[Rafael López Aliaga]], a [[Far-right politics|far-right]] businessman whose speech was similar to [[Catholic]] [[extremism]].<ref name="PROFE2">{{cite book|last1=Asensio|first1=Raúl|url=https://fondoeditorial.iep.org.pe/producto/el-profe-como-pedro-castillo-se-convirtio-en-presidente-del-peru-y-que-pasara-a-continuacion-2/|title=El Profe: Cómo Pedro Castillo se convirtió en presidente del Perú y qué pasará a continuación|last2=Camacho|first2=Gabriela|last3=González|first3=Natalia|last4=Grompone|first4=Romeo|last5=Pajuelo Teves|first5=Ramón|last6=Peña Jimenez|first6=Omayra|last7=Moscoso|first7=Macarena|last8=Vásquez|first8=Yerel|last9=Sosa Villagarcia|first9=Paolo|date=August 2021|publisher=[[Institute of Peruvian Studies]]|isbn=978-612-326-084-2|edition=1|location=[[Lima, Peru]]|pages=27–71|language=es|access-date=17 November 2021}}</ref> López Aliaga's support waned following his poor debate performance, leading to [[neoliberal]] [[economist]] and advisor to [[Alberto Fujimori]], [[Hernando de Soto (economist)|Hernando de Soto]], receiving additional support from the recently emerged [[middle class]], though critics believed de Soto would continue Fujimori's controversial policies.<ref name="PROFE2" /> 
+
+Two weeks before the election, Keiko Fujimori, who was initially discounted due to corruption allegations and brief imprisonment, became among the most popular among poll respondents following her performance in debates.<ref name="PROFE2" /> However, during the [[election silence]] period that prevented the publishing of opinion polls, Pedro Castillo saw a dramatic jump in approval, though this support was not permitted to be documented.<ref name="PROFE2" />
+
+==Presidential election (run-off)==
+''The following graph shows the weighted polls and does not count voting simulations''
+{{graph
+|width=900
+|height=300
+|xAxisTitle=Dates
+|yAxisTitle=Percentages
+|legend=Presidential nominees
+|type=line
+|interpolate=basis
+|xType=date
+|yAxisMin=0
+|showSymbols=2
+|xGrid=10
+|yGrid=0.5
+|x=2021/6/4,2021/5/29,2021/5/28,2021/5/28,2021/5/27,2021/5/21,2021/5/20,2021/5/15,2021/5/14,2021/5/14,2021/5/13,2021/5/11,2021/5/10,2021/5/9,2021/5/7,2021/5/2,2021/4/30,2021/4/24,2021/4/22,2021/4/21,2021/4/20,2021/4/16 
+|y1Title=Pedro Castillo - FREE PERU
+|y1=41.1,40.8,43.9,42,40.3,41.6,44.8,44.9,42.0,36.5,40,34.4,42,38.2,34.2,36.2,41,43,44,41.3,35.5,41.5,41,42 
+|y2Title=Keiko Fujimori - POPULAR FORCE
+|y2=44.8,40.9,47.8,40,38.3,41.5,34.4,40.1,45.4,29.6,37,32.6,40,37.3,32,30,36,34,34,34.8,23.1,21.5,26,31 
+|colors=#C00A0A,#FF8000
+}}
+
+===Voting simulations===
+{| class="wikitable" style="text-align:center; font-size:95%; line-height:16px;"
+! style="width:175px;" |<small>Pollster</small>
+! style="width:95px;" |<small>Date</small>
+! style="width:50px;" |<small>Sample size</small>
+! style="width:50px;" |<small>[[Pedro Castillo]]</small><br/>[[File:Partido Político Nacional Perú Libre.png|30px|link=Free Peru]]
+! style="width:50px;" |<small>[[Keiko Fujimori]]</small><br/>[[File:Fuerza popular.svg|30px|link=Popular Force]]
+! style="width:50px;" |<small>Blank / <br/> None</small>
+|-
+| colspan="22" style="background:#A0A0A0"|
+|- 
+|'''Election results'''
+|6 June 2021| 6 June 2021
+|{{Celda|N/A}}
+| style="background:#FFD0D7"|'''50.13'''
+|49.87
+|{{Celda|N/A}}
+|-
+| colspan="22" style="background:#A0A0A0"|
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://elcomercio.pe/elecciones-2021/ultimo-simulacro-publicable-el-comercio-ipsos-pedro-castillo-obtiene-511-y-keiko-fujimori-489-noticia/|title=Último simulacro publicable El Comercio-Ipsos: Pedro Castillo obtiene 49,1% y Keiko Fujimori 51,9%|last=|first=|access-date=2021-05-30|website=elcomercio.pe|language=es}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |28 May 2021
+| rowspan="2" |1,517
+| style="background:#FFD0D7"|'''51.1'''
+| 48.9
+|{{Celda|N/A}}
+|-
+|Ipsos Perú/El Comercio<ref name="elcomercio.pe">{{cite web|url=https://elcomercio.pe/elecciones-2021/ultimo-simulacro-publicable-el-comercio-ipsos-pedro-castillo-obtiene-511-y-keiko-fujimori-489-noticia/|title=Último simulacro publicable El Comercio-Ipsos: Pedro Castillo obtiene 51,1% y Keiko Fujimori 48,9%|last=|first=|access-date=2021-05-30|website=elcomercio.pe|language=es}}</ref><br/>{{small|(Cast votes)}}
+| style="background:#FFD0D7"|'''45.1'''
+| 43.1
+| 11.8
+|-
+|CIT/Expreso<ref name="Keiko Fujimori supera a Castillo">{{cite web|url=https://www.expreso.com.pe/en-portada/keiko-fujimori-supera-a-castillo/|title=Keiko Fujimori supera a Castillo|last=|first=|access-date=2021-05-30|website=expreso.com.pe|language=es}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |27–28 May 2021
+| rowspan="2" |2,400
+| 49.3
+| style="background:#FF9966" |'''50.7'''
+|{{Celda|N/A}}
+|-
+|CIT/Expreso<ref name="Keiko Fujimori supera a Castillo"/><br/>{{small|(Cast votes)}}
+| 40.6
+| style="background:#FF9966" |'''41.7'''
+| 17.7
+|-
+|CPI/América<ref name="rpp.pe">{{cite web|url=https://rpp.pe/politica/elecciones/cpi-pedro-castillo-obtiene-el-41-y-keiko-fujimori-le-sigue-con-el-402-a-una-semana-de-las-elecciones-noticia-1339618|title=CPI: Pedro Castillo obtiene el 41% y Keiko Fujimori le sigue con el 40.2% a una semana de las elecciones|last=|first=|access-date=2021-05-30|website=elcomercio.pe|language=es}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |26–28 May 2021
+| rowspan="2" |1,400
+| style="background:#FFD0D7"|'''50.5'''
+| 49.5
+|{{Celda|N/A}}
+|-
+|CPI/América<ref name="rpp.pe"/><br/>{{small|(Cast votes)}}
+| style="background:#FFD0D7"|'''41.0'''
+| 40.2
+| 18.8
+|-
+|Datum/Gestión/Perú 21<ref name="gestion.pe">{{cite web|title=Datum: Pedro Castillo cae a 42.6%, mientras que Keiko Fujimori sube a 41.7% en tercer simulacro|url=https://gestion.pe/peru/politica/datum-pedro-castillo-cae-a-426-mientras-que-keiko-fujimori-sube-a-417-en-tercer-simulacro-peru-libre-fuerza-popular-elecciones-2021-noticia/|website=peru21.pe|date=28 May 2021}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |25–27 May 2021
+| rowspan="2" |1,201
+| style="background:#FFD0D7"|'''50.5'''
+| 49.5
+|{{Celda|N/A}}
+|-
+|Datum/Gestión/Perú 21<ref name="gestion.pe"/><br/>{{small|(Cast votes)}}
+| style="background:#FFD0D7"|'''42.6'''
+| 41.7
+| 15.7
+|-
+|CIT/Expreso<ref name="expreso.com.pe">{{cite web|url=https://www.expreso.com.pe/en-portada/encuesta-cit-keiko-con-40-y-castillo-con-41-9/|title=Encuesta CIT: Keiko con 40% y Castillo con 41.9%|last=|first=|access-date=2021-05-27|website=expreso.com.pe|language=es}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |21–22 May 2021
+| rowspan="2" |1,600
+| style="background:#FFD0D7"|'''51.1'''
+| 48.9
+|{{Celda|N/A}}
+|-
+|CIT/Expreso<ref name="expreso.com.pe"/><br/>{{small|(Cast votes)}}
+| style="background:#FFD0D7"|'''41.9'''
+| 40.0
+| 18.1
+|-
+|Ipsos Perú/El Comercio<ref name="Simulacro Ipsos: Pedro Castillo obt">{{cite web|url=https://elcomercio.pe/elecciones-2021/elecciones-2021-simulacro-ipsos-pedro-castillo-obtiene-526-y-keiko-fujimori-474-de-votos-validos-noticia/|title=Simulacro Ipsos: Pedro Castillo obtiene 52,6% y Keiko Fujimori 47,4% de votos válidos|last=|first=|access-date=2021-05-23|website=elcomercio.pe|language=es}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |21 May 2021
+| rowspan="2" |1,200
+| style="background:#FFD0D7"|'''52.6'''
+| 47.4
+|{{Celda|N/A}}
+|-
+|Ipsos Perú/El Comercio<ref name="Simulacro Ipsos: Pedro Castillo obt"/><br/>{{small|(Cast votes)}}
+| style="background:#FFD0D7"|'''45.0'''
+| 40.7
+| 14.3
+|-
+|Datum/Gestión/Perú 21<ref name="peru21.pe">{{cite web|title=Simulacro Datum: Pedro Castillo sube punto y medio, Keiko Fujimori baja uno y voto blanco crece uno|url=https://peru21.pe/politica/simulacro-datum-pedro-castillo-sube-punto-y-medio-keiko-fujimori-baja-uno-y-voto-blanco-crece-uno-noticia/|website=peru21.pe|date=21 May 2021}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |18–20 May 2021
+| rowspan="2" |1,201
+| style="background:#FFD0D7"|'''53.2'''
+| 46.8
+|{{Celda|N/A}}
+|-
+|Datum/Gestión/Perú 21<ref name="peru21.pe"/><br/>{{small|(Cast votes)}}
+| style="background:#FFD0D7"|'''45.5'''
+| 40.1
+| 14.4
+|-
+|Ipsos Perú/El Comercio<ref name="Simulacro El Comercio–Ipsos: Empate">{{cite web|url=https://elcomercio.pe/elecciones-2021/simulacro-el-comercioipsos-empate-estadistico-entre-pedro-castillo-511-y-keiko-fujimori-489-noticia/|title=Simulacro El Comercio–Ipsos: Empate estadístico entre Pedro Castillo (51,1%) y Keiko Fujimori (48,9%)|last=|first=|access-date=2021-05-16|website=elcomercio.pe|language=es}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |{{nowrap|13–14 May 2021}}
+| rowspan="2" |1,205
+| style="background:#FFD0D7"|'''51.1'''
+| 48.9
+|{{Celda|N/A}}
+|-
+|Ipsos Perú/El Comercio<ref name="Simulacro El Comercio–Ipsos: Empate"/><br/>{{small|(Cast votes)}}
+| style="background:#FFD0D7"|'''43.6'''
+| 41.7
+| 14.7
+|-
+|Datum/Gestión/Perú 21<ref name="datum-sim1"/><br/>{{small|(Valid votes)}}
+| rowspan="2" |{{nowrap|12–13 May 2021}}
+| rowspan="2" |1,201
+| style="background:#FFD0D7"|'''51'''
+| 49
+|{{Celda|N/A}}
+|-
+|Datum/Gestión/Perú 21<ref name="datum-sim1"/><br/>{{small|(Cast votes)}}
+| style="background:#FFD0D7"|'''44'''
+| 41
+| 15
+|-
+|}
+
+=== Electoral polls ===
+{{mw-datatable}}
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px;"
+! style="width:175px;"| <small>Pollster</small>
+! style="width:70px;"| <small>Date</small>
+! style="width:50px;" | <small>Sample size</small>
+! style="width:45px;" | <small>[[Pedro Castillo]]</small><br />[[File:Partido Político Nacional Perú Libre.png|30px|link=Free Peru]]
+! style="width:45px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|30px|link=Popular Force]]
+! style="width:50px;" | <small>Blank / None</small>
+! style="width:50px;" | <small>Undecided</small>
+|-
+| colspan="7" style="background:#A0A0A0"|
+|- style="background-color:#BEBEBE;"
+|'''Election results'''
+| 6 June 2021
+| {{Celda|N/A}}
+| style="background:#FFD0D7"|'''50.1'''
+| 49.9
+| 
+| 
+|-
+| colspan="8" style="background:#A0A0A0"|
+|-
+|-
+| Ipsos<ref>{{cite web|url=reuters.com/world/americas/ipsos-poll-shows-tie-eve-perus-election-with-fujimori-slightly-ahead-2021-06-05/|title=Ipsos poll shows tie on eve of Peru's election, with Fujimori slightly ahead|author=Marco Aquino and Marcelo Rochabrun|website=Reuters|date=2021-06-05|access-date=2021-06-06}}</ref>
+| 5 June 2021
+| 5,117
+| 44.1
+| style="background:#FF9966"|'''44.8'''
+| 11.1
+|  
+|-
+| IEP<ref>{{cite web|title=Encuestas en Perú pronostican empate técnico de cara a segunda vuelta electoral |url= https://www.wradio.com.co/noticias/internacional/encuestas-en-peru-pronostican-empate-tecnico-de-cara-a-segunda-vuelta-electoral/20210605/nota/4140861.aspx |website=wradio.com.co |date=5 June 2021}}</ref>
+| 2–4 June 2021
+| 2,057
+| 40.8
+| style="background:#FF9966"|'''40.9'''
+| 11.5
+| 6.8
+|-
+| IDICE/La Razón<ref>{{cite web|title=Keiko sobrepasó a Pedro Castillo por cuatro puntos|url=https://larazon.pe/keiko-sobrepaso-a-pedro-castillo-por-cuatro-puntos/|website=larazon.pe|access-date=2021-05-31}}</ref>
+| 28–29 May 2021
+| 1,200
+| 43.9
+| style="background:#FF9966"|'''47.8'''
+| 6.0
+| 2.3
+|-
+| Ipsos Perú/El Comercio<ref name="elcomercio.pe"/>
+| 28 May 2021
+| 1,526
+| style="background:#FFD0D7"|'''42'''
+| 40
+| 10
+| 8
+|-
+| IEP/La Republica<ref>{{Cite web|date=2021-05-23|title=Encuesta IEP: Pedro Castillo supera a Keiko Fujimori por más de 10 puntos|url=https://larepublica.pe/elecciones/2021/05/30/encuesta-iep-pedro-castillo-y-keiko-fujimori-en-empate-tecnico-pltc/|website=larepublica.pe|language=es}}</ref>
+| 27–28 May 2021
+| 1,227
+| style="background:#FFD0D7" |'''40.3'''
+| 38.3
+| 13.0
+| 8.3
+|-
+| Datum/Gestión/Perú 21<ref name="gestion.pe"/>
+| 25–27 May 2021
+| 1,201
+| style="background:#FFD0D7"|'''41.6'''
+| 41.5
+| 10.9
+| 6.0
+|-
+| IEP/La Republica<ref>{{Cite web|date=2021-05-23|title=Encuesta IEP: Pedro Castillo supera a Keiko Fujimori por más de 10 puntos|url=https://larepublica.pe/elecciones/2021/05/23/encuesta-iep-pedro-castillo-supera-a-keiko-fujimori-por-mas-de-10-puntos-pltc/|website=larepublica.pe|language=es}}</ref>
+| 20–21 May 2021
+| 1,208
+| style="background:#FFD0D7" |'''44.8'''
+| 34.4
+| 12.8
+| 5.8
+|-
+| Datum/Gestión/Perú 21<ref name="peru21.pe"/>
+| 18–20 May 2021
+| 1,201
+| style="background:#FFD0D7"|'''44.9'''
+| 40.1
+| 9.2
+| 5.8
+|-
+| IDICE/La Razón<ref>{{Cite web|date=2021-05-20|title=Keiko confirma la tendencia y logra superar a Castillo|url=https://larazon.pe/keiko-confirma-la-tendencia-y-logra-superar-a-castillo/|website=larazon.pe|language=es}}</ref>
+|18–19 May 2021
+| 1,200
+| 42.0
+| style="background:#FF9966" |'''45.4'''
+| 7.7
+| 4.9
+|-
+| IEP/La Republica<ref>{{Cite web|date=2021-05-16|title=Encuesta IEP: Pedro Castillo baja y Keiko Fujimori se le acerca en las preferencias|url=https://larepublica.pe/elecciones/2021/05/16/encuesta-iep-pedro-castillo-sigue-liderando-y-crecimiento-de-keiko-fujimori-se-estanca-pltc/|website=larepublica.pe|language=es}}</ref>
+| 13–15 May 2021
+| 1,246
+| style="background:#FFD0D7" |'''36.5'''
+| 29.6
+| 23.6
+| 10.3
+|-
+| Ipsos Perú/El Comercio<ref name="Simulacro El Comercio–Ipsos: Empate"/>
+| 13–14 May 2021
+| 1,205
+| style="background:#FFD0D7"|'''40'''
+| 37
+| 14
+| 19
+|-
+| CPI/América<ref>{{Cite web|date=2021-05-17|title=Encuesta Nacional del 12 al 14 de Mayo Perú Urbano-Rural - Elecciones Generales 2021|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/ENCUESTA_DEL_12%20AL_14_DE_MAYO_2021.pdf|website=cpi.pe|language=es}}</ref>
+| 12–14 May 2021
+| 1,600
+| style="background:#FFD0D7" |'''34.2'''
+| 32.0
+| 18.0
+| 15.0
+|-
+| Datum/Gestión/Perú 21<ref name=datum-sim1>{{cite web|title=Datum: Castillo tiene 44% y Keiko alcanza 41% en primer simulacro de votación |url=https://gestion.pe/peru/politica/datum-castillo-tiene-44-y-keiko-alcanza-41-en-primer-simulacro-de-votacion-noticia/ |website=gestion.pe|date=14 May 2021}}</ref>
+| 12–13 May 2021
+| 1,201
+| style="background:#FFD0D7"|'''42'''
+| 40
+| 11
+| 7
+|-
+| CIT/Expreso<ref>{{cite web|date=2021-05-11|url=https://encuestas.com.pe/encuesta-2da-vuelta-cit-11-mayo-2021/|title=Encuesta 2da Vuelta, CIT – 11 Mayo 2021|last=|first=|access-date=2021-05-11|website=encuetas.com.pe|language=es}}</ref>
+| 7–8 May 2021
+| 2,400
+| style="background:#FFD0D7"|'''38.2'''
+| 37.3
+| 12.6
+| 11.9
+|-
+| CPI/RPP<ref>{{Cite web|date=2021-05-10|title=CPI: Pedro Castillo obtiene 34.2 % de intención de voto y Keiko Fujimori acorta distancia al tener 32 %|url=https://rpp.pe/politica/elecciones/elecciones-2021-pedro-castillo-obtiene-342-de-intencion-de-voto-y-keiko-fujimori-acorta-distancia-al-tener-32-segun-encuesta-de-cpi-noticia-1335960|website=rpp.pe|language=es}}</ref>
+| 6–8 May 2021
+| 1,600
+| style="background:#FFD0D7" |'''34.2'''
+| 32.0
+| 18.5
+| 15.3
+|-
+| IEP/La Republica<ref>{{Cite web|date=2021-04-25|title=Encuesta IEP: Pedro Castillo baja y Keiko Fujimori se le acerca en las preferencias|url=https://larepublica.pe/elecciones/2021/05/09/encuesta-iep-pedro-castillo-baja-y-keiko-fujimori-se-le-acerca-en-las-preferencias-pltc/|website=larepublica.pe|language=es}}</ref>
+| 3–6 May 2021
+| 1,367
+| style="background:#FFD0D7" |'''36.2'''
+|30.0
+| 21.3
+| 12.4
+|-
+| Datum/Gestión/Perú 21<ref>{{Cite web|date=2021-05-07|title=Datum: Pedro Castillo lidera intención de voto, pero diferencia con Keiko Fujimori se acorta a cinco puntos|url=https://rpp.pe/politica/elecciones/elecciones-2021-pedro-castillo-lidera-intencion-de-voto-pero-diferencia-con-keiko-fujimori-se-acorta-a-cinco-puntos-segun-datum-noticia-1335544|website=rpp.pe|language=es}}</ref>
+| 5–6 May 2021
+| 1,203
+| style="background:#FFD0D7" |'''41'''
+| 36
+| 11
+| 12
+|-
+| CIT/Expreso<ref name="Encuesta Ipsos en Cuarto Poder: Ped">{{cite web|url=https://elcomercio.pe/elecciones-2021/encuesta-ipsos-en-cuarto-poder-pedro-castillo-lidera-las-preferencias-con-43-y-keiko-alcanza-34-noticia/|title=Encuesta Ipsos en Cuarto Poder: Pedro Castillo lidera las preferencias con 43 % y Keiko alcanza 34 %|last=|first=|access-date=2021-05-02|website=elcomercio.pe|date=2 May 2021|language=es}}</ref>
+| 28–30 April 2021
+| 1,600
+| style="background:#FFD0D7"|'''37.6'''
+| 34.5
+| 8.8
+| 19.1
+|-
+| Ipsos Perú/América<ref name="Encuesta Ipsos en Cuarto Poder: Ped"/>
+| 30 April 2021
+| 1,204
+| style="background:#FFD0D7"|'''43'''
+| 34
+| 13
+| 10
+|-
+| Datum/Gestión/Perú 21<ref>{{Cite web|date=2021-04-22|title=Keiko Fujimori crece 8 puntos y acorta la distancia con Pedro Castillo|url=https://gestion.pe/peru/politica/datum-keiko-fujimori-crece-8-puntos-y-acorta-la-distancia-con-pedro-castillo-noticia/|website=rpp.pe|language=es}}</ref>
+| 27–29 April 2021
+| 1,200
+| style="background:#FFD0D7" |'''44'''
+| 34
+| 11
+| 11
+|-
+| IDICE/La Razón<ref>{{Cite web|date=2021-04-24|title=Keiko Fujimori se acerca a izquierdista Pedro Castillo|url=https://larazon.pe/keiko-fujimori-se-acerca-a-izquierdista-pedro-castillo/|website=larazon.pe|language=es}}</ref>
+|{{nowrap|22–23 April 2021}}
+| 1,200
+| style="background:#FFD0D7" |'''41.3'''
+| 34.8
+| 11.7
+| 12.2
+|-
+| CPI/Panamericana<ref>{{Cite web|date=2021-04-26|title=CPI: Pedro Castillo lidera la intención de voto con el 35.5% y Keiko Fujimori obtiene el 23.1%|url=https://rpp.pe/politica/elecciones/cpi-pedro-castillo-lidera-la-intencion-de-voto-con-el-355-y-keiko-fujimori-obtiene-el-231-noticia-1333507|website=rpp.pe|language=es}}</ref>
+|{{nowrap|18–21 April 2021}}
+|1,200
+|style="background:#FFD0D7" |'''35.5'''
+|23.1
+|23.7
+|17.7
+|-
+| IEP/La Republica<ref>{{Cite web|date=2021-04-25|title=IEP: IEP: Pedro Castillo gana por casi el doble a Keiko Fujimori en segunda vuelta|url=https://larepublica.pe/elecciones/2021/04/25/iep-pedro-castillo-gana-por-casi-el-doble-a-keiko-fujimori-en-segunda-vuelta-pltc/|website=larepublica.pe|language=es}}</ref>
+| 17–21 April 2021
+| 1,367
+| style="background:#FFD0D7" |'''41.5'''
+| 21.5
+| 23.5
+| 13.5
+|-
+| Datum/Gestión/Perú 21<ref>{{Cite web|date=2021-04-22|title=Datum: Pedro Castillo obtiene 41% de intención de voto y Keiko Fujimori alcanza 26%|url=https://rpp.pe/politica/elecciones/elecciones-2021-datum-pedro-castillo-obtiene-41-de-intencion-de-voto-y-keiko-fujimori-alcanza-26-noticia-1332901|website=rpp.pe|language=es}}</ref>
+| 16–20 April 2021
+| 1,205
+| style="background:#FFD0D7" |'''41'''
+| 26
+| 15
+| 18
+|-
+| Ipsos Perú/América<ref>{{cite web|url=https://elcomercio.pe/elecciones-2021/encuesta-america-ipsos-pedro-castillo-lidera-las-preferencias-con-42-y-fujimori-alcanza-31-noticia/|title=Encuesta Ipsos en Cuarto Poder: Pedro Castillo lidera las preferencias con 42% y Fujimori alcanza 31%|last=|first=|access-date=2021-04-18|website=elcomercio.pe|date=18 April 2021|language=es}}</ref>
+| 15–16 April 2021
+| 1,204
+| style="background:#FFD0D7"|'''42'''
+| 31
+| 16
+| 11
+|-
+|}
+
+==Presidential election (first round)==
+''The following graph shows the weighted polls, and does not include voting simulations.''
+{{graph
+|width=900
+|height=300
+|xAxisTitle=Dates
+|yAxisTitle=Percentages
+|legend=Presidential nominees
+|type=line
+|interpolate=basis
+|xType=date
+|xAxisMax=1618019000000
+|yAxisMin=0
+|showSymbols=2
+|xGrid=10
+|yGrid=0.5
+|x=2020/8/28,2020/9/10,2020/9/24,2020/10/4,2020/10/7,2020/10/25,2020/10/26,2020/11/10,2020/11/19,2020/11/29,2020/12/6,2020/12/9,2020/12/13,2020/12/14,2021/1/13,2021/1/16,2021/1/18,2021/1/30,2021/1/31,2021/2/13,2021/2/14,2021/2/17,2021/2/20,2021/2/21,2021/2/28,2021/3/5,2021/3/9,2021/3/12,2021/3/13,2021/3/14,2021/3/15,2021/3/18,2021/3/19,2021/3/20,2021/3/23,2021/3/26,2021/3/27,2021/3/28,2021/4/3,2021/4/4,2021/4/4 
+|y1Title=Keiko Fujimori - POPULAR FORCE
+|y1=7,,7,8.5,5,8,7,6.8,5,4.2,4,7.5,7.7,7,8.1,6,8,5.6,6.7,9.2,8,8,7.6,6.4,8.1,8.9,7,8.6,7.2,7,6.5,7,7.2,6.5,8,7.1,7.9,7.9,7.8,8,9.8 
+|y2Title=Hernando de Soto - GO ON COUNTRY
+|y2=,16.8,2,14.6,5,5.4,3,11.3,4,2.9,5,10.4,4.1,3,9.6,3,5,2.8,5.6,4,4,4,5.4,2.9,4.2,3.3,5,8,5.7,4,4.5,8.6,5.4,7,5,4.5,6.9,8.5,8,9,9.8 
+|y3Title=Yonhy Lescano - POPULAR ACTION
+|y3=3,,3,1.5,3,4.9,3,2.9,3,2.3,4,3.2,4.5,4,4.6,4,6,5,7.1,4.9,10,9,5.6,8,11.3,9.4,13,7.1,13.9,15,12.2,15.6,11.3,8,14,11,10.8,11.4,10.8,10,8.2 
+|y4Title=Verónika Mendoza - TOGETHER FOR PERU
+|y4=6,1.2,4,2,4,9.1,5,5.8,6,3.4,4,6.4,9.1,7,7.2,5,7,4.7,8.2,8.4,8,7,5,4.7,8.9,8.4,6,5.1,7,6,5.9,11.2,6,5,6,5.4,5.9,9.6,7.3,9,7.3 
+|y5Title=George Forsyth - NATIONAL VICTORY
+|y5=25,9.3,23,11,20,23,19,12.5,16,8.1,10,9.8,14.7,18,11.8,13,17,10.1,13.3,14.1,11,11,8.7,8.9,8.1,7.2,7,8.6,6.8,10,8,13.1,6.8,6.5,8,8.1,7.6,8.2,7.3,8,5.7 
+|y6Title=Rafael López Aliaga - POPULAR RENEWAL
+|y6=,1,0.2,0.9,0.2,0.4,0.3,2,0.1,0.2,0.4,2.3,0.2,0.3,5.1,0.5,0.5,1.1,2.4,5.7,3,3,7.6,3,7.6,10.8,7,12,9.5,8,7.2,5.1,11.4,9.5,9,5.2,10,9.7,7.2,6,8.4 
+|y7Title=Pedro Castillo - FREE PERU
+|y7=,,,,,,,,,2,1.2,0.3,0.2,0.8,1,0.5,1,1,2.4,2.3,1,2,1,0.4,1.7,2.4,1.3,2,1,3.5,3,2.5,1.3,3.9,6,3,4.3,4.3,4.3,4.4,6,6.6 
+|y8Title=Daniel Urresti - PODEMOS PERÚ
+|y8=10,3.4,9,5,4,7.3,7,7.8,6,2.8,3,7.7,6.3,6,7.8,3,6,4.3,5.6,5.5,7,6,7,4.7,4.8,5,4,5.7,4.5,5,3.8,5.1,3.4,4,3.8,3.8,3.8,4.3,3.5,5,3.5 
+|y9Title=César Acuña - ALLIANCE FOR PROGRESS
+|y9=2,2.4,3,4.4,1,3.9,4,4.8,3,1.1,2,3.7,2,2,4.3,3,4,3.7,2,4.6,3,4,2.3,3.1,3.8,5.7,3,5,3.4,2,4,3,7.1,4,3,4,8.9,3.2,7.4,4,4.1 
+|y10Title=Alberto Beingolea - CHRISTIAN PEOPLE'S PARTY
+|y10=2,,1,,,,1,,2,0.7,0.7,,1.1,2,,1,1,1.1,1.7,1.2,1,2,1,0.7,0.6,1.4,1,0.9,0.9,1,1.2,,0.7,1,1,1,0.4,0.7,3.3,2,2 
+|y11Title=Ollanta Humala - PERUVIAN NATIONALIST PARTY
+|y11=1,,1,,,2.7,2,1.4,2,1.3,1,2,2.9,2,3.8,2,4,1.6,2.8,1.9,2,3,1.6,1,2.4,1.7,1,1.6,2.5,2,1.5,4.4,1.7,2,2,2.1,1.9,2,1.6,2,1.4 
+|y12Title=Julio Guzmán - PURPLE PARTY
+|y12=4,1.2,4,2.2,3,3.9,5,5.1,7,5,4,5.2,9.1,8,5,5,7,4.1,4.6,6.8,4,3,1.6,2.4,3.1,4.3,3,2.6,2.3,3,2,5,2.3,2,2,2,1.9,1.1,1.9,2,2.3 
+|y13Title=Daniel Salaverry - WE ARE PERU
+|y13=1,1.2,1,0.8,,2,2,0.8,1,1.1,2,1.9,3.1,3,3.3,2,4,3.2,2.5,3.9,3,2,2,2.6,2.2,1,2,2.6,1.2,1,1,1.5,1,1,2,1,1.6,1.2,1,2,1.4 
+|colors=#FF8000,#FF1493,black,#00FF00,#EE204E,#00BFFF,#C00A0A,#E09540,#1155cc,#008000,#E34234,#7026A8,darkblue 
+}}
+
+===Voting simulations===
+{| class="wikitable" style="text-align:center; font-size:95%; line-height:16px;"
+! style="width:175px;" |<small>Pollster</small>
+! style="width:95px;" |<small>Date</small>
+! style="width:50px;" |<small>Sample size</small>
+! style="width:50px;" |<small>[[Pedro Castillo]]</small><br/>[[File:Partido Político Nacional Perú Libre.png|30px|link=Free Peru]]
+! style="width:50px;" |<small>[[Keiko Fujimori]]</small><br/>[[File:Fuerza popular.svg|30px|link=Popular Force]]
+! style="width:50px;" |<small>[[Rafael López Aliaga]]</small><br/>[[File:Logo de Renovación Popular (Perú).png|25px|link=Popular Renewal]]
+! style="width:50px;" |<small>[[Hernando de Soto (economist)|Hernando de Soto]]</small><br/>[[Go on Country – Social Integration Party|AvP]]
+! style="width:50px;" |<small>[[Yonhy Lescano]]</small><br/>[[File:Acción_Popular.png|30px|link=Popular Action (Peru)]]
+! style="width:50px;" |<small>[[Verónika Mendoza]]</small><br/>[[File:Logo juntos por el Peru.svg|25px|link=Juntos por el Perú]]
+! style="width:50px;" |<small>[[César Acuña]]</small><br/>[[File:Alianza para el Progreso Peru.svg|30px|link=Alliance for Progress (Peru)]]
+! style="width:50px;" |<small>[[George Forsyth (footballer)|George Forsyth]]</small><br/>[[File:Victoria Nacional logo.svg|30px|link=National Victory]]
+! style="width:50px;" |<small>[[Daniel Urresti]]</small><br/>[[File:Logo Podemos Perú.png|30px|link=Podemos Perú]]
+! style="width:50px;" |<small>[[Julio Guzmán]]</small><br/>[[File:Partido_Morado_logo.svg|25px|link=Purple Party]]
+! style="width:50px;" |<small>[[Alberto Beingolea]]</small><br/>[[File:Logo Oficial PPC.png|30px|link=Christian People's Party (Peru)]]
+! style="width:50px;" |<small>[[Daniel Salaverry]]</small><br/>[[File:Logo Partido Democrático Somos Perú.svg|30px|link=We Are Peru]]
+! style="width:50px;" |<small>[[Ollanta Humala]]</small><br/>[[File:Logo - Partido Nacionalista Peruano.svg|30px|link=Peruvian Nationalist Party]]
+! style="width:50px;" |<small>[[José Vega (politician)|José Vega]]</small><br/>[[File:No image.svg|30px|link=Union for Peru]]
+! style="width:50px;" |<small>[[Ciro Gálvez]]</small><br/>[[File:No image.svg|30px|link=National United Renaissance]]
+! style="width:50px;" |<small>[[Marco Arana]]</small><br/>[[File:Logo-frente-amplio-Peru-alt.svg|30px|link=Broad Front (Peru)]]
+! style="width:50px;" |<small>[[Rafael Santos (politician)|Rafael Santos]]</small><br/>[[File:Logo Perú patria segura.svg|30px|link=Peru Secure Homeland]]
+! style="width:50px;" |<small>[[Andrés Alcántara (politician)|Andrés Alcántara]]</small><br/>[[File:No image.svg|30px|link=Direct democracy]]
+! style="width:50px;" |<small>Blank / <br/> None</small>
+|-
+| colspan="22" style="background:#A0A0A0"|
+|- 
+|'''Election results'''
+|11 April 2021| 11 April 2021
+|{{Celda|N/A}}
+| style="background:lightgreen" |'''18.9'''
+|align="center" style="background:lightblue" |'''13.4'''
+|align="center" style="background:#fceca2"|'''11.8'''
+|11.6
+|9.1
+|7.9
+|6.0
+|5.7
+|5.6
+|2.3
+|2.0
+|1.7
+|1.6
+|0.7
+|0.6
+|0.5
+|0.4
+|0.4
+|{{Celda|N/A}}
+|-
+| colspan="22" style="background:#A0A0A0"|
+|-
+|CPI/Latina<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/SIMULACRO_ELECCIONES_ABRIL_I.pdf|title=Simulación de votación con uso de cédula y ánfora: Elecciones Generales 2021|date=4 April 2021|website=cpi.pe|last=CPI}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |30 March–1 April 2021
+| rowspan="2" |1,600
+|9
+|align="center" style="background:lightblue" |'''11.5'''
+|10.2
+|align="center" style="background:#fceca2"|'''11.4'''
+| style="background:lightgreen" |'''16.2'''
+|10.6
+|7
+|9.9
+|4.2
+|2
+|3.6
+|2
+|0.8
+|0.2
+|0.2
+|0.5
+|0.5
+|0.0
+|{{Celda|N/A}}
+|-
+|CPI/Latina<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/SIMULACRO_ELECCIONES_ABRIL_I.pdf|title=Simulación de votación con uso de cédula y ánfora: Elecciones Generales 2021|date=4 April 2021|website=cpi.pe|last=CPI}}</ref><br/>{{small|(Cast votes)}}
+|6.2
+|align="center" style="background:lightblue" |'''7.9'''
+|7
+|align="center" style="background:#fceca2"|'''7.8'''
+| style="background:lightgreen" |'''11.1'''
+|7.3
+|4.8
+|6.8
+|2.9
+|1.4
+|2.5
+|1.4
+|0.6
+|0.1
+|0.2
+|0.3
+|0.3
+|0.0
+|31.5
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://elcomercio.pe/elecciones-2021/elecciones-2021-de-soto-escala-al-segundo-lugar-en-la-recta-final-ipsos-peru-simulacro-noticia/|title=Elecciones 2021: De Soto escala al segundo lugar en la recta final|date=4 April 2021|website=elcomercio.pe|first=Jonathan Castro|last=El Comercio}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |31 March 2021
+| rowspan="2" |1,526
+|7.9
+|11.2
+|8.2
+|align="center" style="background:lightblue" |'''13.9'''
+| style="background:lightgreen" |'''14.7'''
+|align="center" style="background:#fceca2"|'''12.4'''
+|4.2
+|11.9
+|4.7
+|1.8
+|2.7
+|1.5
+|1.9
+|1
+|0.1
+|0.8
+|0.7
+|0.4
+|{{Celda|N/A}}
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://elcomercio.pe/elecciones-2021/elecciones-2021-de-soto-escala-al-segundo-lugar-en-la-recta-final-ipsos-peru-simulacro-noticia/|title=Elecciones 2021: De Soto escala al segundo lugar en la recta final|date=4 April 2021|website=elcomercio.pe|first=Jonathan Castro|last=El Comercio}}</ref><br/>{{small|(Cast votes)}}
+|6.5
+|9.3
+|6.8
+|align="center" style="background:lightblue" |'''11.5'''
+| style="background:lightgreen" |'''12.1'''
+|align="center" style="background:#fceca2"|'''10.2'''
+|3.5
+|9.8
+|3.9
+|1.4
+|2.2
+|1.3
+|1.6
+|0.8
+|0.1
+|0.7
+|0.6
+|0.4
+|17.3
+|-
+|CIT/Expreso<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-cit-03-abril-2021/|title=Encuesta Presidencial, CIT – 03 Abril 2021|date=3 April 2021|website=encuestas.com.pe|first=|last=}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |30 March–1 April 2021
+| rowspan="2" |1,600
+|3.4
+|9.8
+|align="center" style="background:lightgreen"|'''17'''
+|style="background:lightblue" |'''12.9'''
+|align="center" style="background:#fceca2" |'''11.9'''
+|7.7
+|7.7
+|10.4
+|6.7
+|2.1
+|1.4
+|3.1
+|1.9
+|0.6
+|0.7
+|0.3
+|1.9
+|0.5
+|{{Celda|N/A}}
+|-
+|CIT/Expreso<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-cit-03-abril-2021/|title=Encuesta Presidencial, CIT – 03 Abril 2021|date=3 April 2021|website=encuestas.com.pe|first=|last=}}</ref><br/>{{small|(Cast votes)}}
+|2.7
+|7.7
+|align="center" style="background:lightgreen"|'''13.4'''
+|align="center" style="background:lightblue"|'''10.2'''
+|align="center" style="background:#fceca2" |'''9.4'''
+|6.1
+|6.1
+|8.2
+|5.3
+|1.7
+|1.1
+|2.4
+|1.5
+|0.4
+|0.6
+|0.3
+|1.5
+|0.4
+|21
+|-
+|Datum/Perú 21/Gestión<ref name="Gestión">{{cite web|url=https://gestion.pe/peru/politica/elecciones-generales-datum-cinco-candidatos-en-dura-disputa-por-pasar-a-segunda-vuelta-noticia/|title=Cinco candidatos en dura disputa por pasar a segunda vuelta|date=1 April 2021|website=gestion.pe|first=Raúl Castro|last=Gestión}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |27–29 March 2021
+| rowspan="2" |1,206
+|5.9
+| style="background:lightblue" |'''12.6'''
+|11.4
+|10.3
+|align="center" style="background:lightgreen" |'''19.1'''
+|9
+|3.9
+|align="center" style="background:#fceca2"|'''11.8'''
+|5.6
+|2.4
+|1.4
+|1.4
+|1.3
+|1.3
+|0.4
+|0.7
+|1.2
+|0.3
+|{{Celda|N/A}}
+|-
+|Datum/Perú 21/Gestión<ref name="Gestión"/><br/>{{small|(Cast votes)}}
+|3.7
+| style="background:lightblue" |'''7.9'''
+|7.2
+|6.5
+|align="center" style="background:lightgreen"|'''12.1'''
+|5.7
+|2.5
+|align="center" style="background:#fceca2" |'''7.4'''
+|3.5
+|1.5
+|0.9
+|0.9
+|0.9
+|0.8
+|0.3
+|0.4
+|0.7
+|0.2
+|36.9
+|-
+|CIT/Expreso<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-cit-25-marzo-2021/|title=Encuesta Presidencial, CIT – 25 Marzo 2021|date=26 March 2021|website=encuestas.com.pe|first=|last=}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |18–22 March 2021
+| rowspan="2" |1,600
+|2.9
+|9.7
+|align="center" style="background:lightgreen"|'''17'''
+|9.7
+| style="background:lightblue" |'''15.6'''
+|6.8
+|6.8
+|align="center" style="background:#fceca2" |'''12.8'''
+|5.8
+|3.5
+|0.8
+|3.8
+|1.1
+|1.7
+|0.9
+|0.4
+|0.3
+|0.4
+|{{Celda|N/A}}
+|-
+|CIT/Expreso<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-cit-25-marzo-2021/|title=Encuesta Presidencial, CIT – 25 Marzo 2021|date=26 March 2021|website=encuestas.com.pe|first=|last=}}</ref><br/>{{small|(Cast votes)}}
+|2.4
+|8.1
+|align="center" style="background:lightgreen"|'''14'''
+|8.1
+| style="background:lightblue" |'''13'''
+|5.6
+|5.9
+|align="center" style="background:#fceca2" |'''10.7'''
+|4.8
+|2.9
+|0.6
+|3.2
+|0.9
+|0.6
+|0.8
+|0.2
+|1.4
+|0.3
+|16.5
+|-
+|Ipsos Perú/El Comercio<ref name="El Comercio">{{cite web|url=https://elcomercio.pe/elecciones-2021/encuesta-el-comercio-ipsos-la-disputa-por-el-segundo-lugar-y-los-nuevos-escenarios-noticia/|title=Primer simulacro de votación de El Comercio-Ipsos muestra una reñida disputa por el segundo lugar|date=14 March 2021|website=elcomercio.pe|first=Jonathan Castro|last=El Comercio}}</ref><br/>{{small|(Valid votes)}}
+| rowspan="2" |10–11 March 2021
+| rowspan="2" |1,206
+|3.7
+|10.6
+|align="center" style="background:#fceca2"|'''11.6'''
+|5.9
+| style="background:lightgreen" |'''21'''
+|10.4
+|3.3
+|align="center" style="background:lightblue" |'''13.9'''
+|6.4
+|3.8
+|1.5
+|2.3
+|2.8
+|0.4
+|0.4
+|0.9
+|0.8
+|0.3
+|{{Celda|N/A}}
+|-
+|Ipsos Perú/El Comercio<ref name="El Comercio"/><br/>{{small|(Cast votes)}}
+|3
+|8.6
+|align="center" style="background:#fceca2"|'''9.3'''
+|4.8
+| style="background:lightgreen" |'''16.8'''
+|8.4
+|2.6
+|align="center" style="background:lightblue" |'''11.2'''
+|5.1
+|3.1
+|1.2
+|1.9
+|2.2
+|0.3
+|0.3
+|0.7
+|0.7
+|0.2
+|19.6
+|-
+|}
+
+===Electoral polls===
+{| class="wikitable" style="text-align:center; font-size:95%; line-height:16px;"
+! style="width:175px;" |<small>Pollster</small>
+! style="width:95px;" |<small>Date</small>
+! style="width:50px;" |<small>Sample size</small>
+! style="width:50px;" |<small>[[Pedro Castillo]]</small><br/>[[File:Partido Político Nacional Perú Libre.png|30px|link=Free Peru]]
+! style="width:50px;" |<small>[[Keiko Fujimori]]</small><br/>[[File:Fuerza popular.svg|30px|link=Popular Force]]
+! style="width:70px;" |<small>[[Rafael López Aliaga]]</small><br/>[[File:Logo de Renovación Popular (Perú).png|25px|link=Popular Renewal]]
+! style="width:50px;" |<small>[[Hernando de Soto (economist)|Hernando de Soto]]</small><br/>[[Go on Country – Social Integration Party|AvP]]
+! style="width:50px;" |<small>[[Yonhy Lescano]]</small><br/>[[File:Acción_Popular.png|30px|link=Popular Action (Peru)]]
+! style="width:50px;" |<small>[[Verónika Mendoza]]</small><br/>[[File:Logo juntos por el Peru.svg|25px|link=Juntos por el Perú]]
+! style="width:50px;" |<small>[[César Acuña]]</small><br/>[[File:Alianza para el Progreso Peru.svg|30px|link=Alliance for Progress (Peru)]]
+! style="width:50px;" |<small>[[George Forsyth (footballer)|George Forsyth]]</small><br/>[[File:Victoria Nacional logo.svg|30px|link=National Victory]]
+! style="width:50px;" |<small>[[Daniel Urresti]]</small><br/>[[File:Logo Podemos Perú.png|30px|link=Podemos Perú]]
+! style="width:50px;" |<small>[[Julio Guzmán]]</small><br/>[[File:Partido_Morado_logo.svg|25px|link=Purple Party]]
+! style="width:50px;" |<small>[[Alberto Beingolea]]</small><br/>[[File:Logo Oficial PPC.png|30px|link=Christian People's Party (Peru)]]
+! style="width:50px;" |<small>[[Daniel Salaverry]]</small><br/>[[File:Logo Partido Democrático Somos Perú.svg|30px|link=We Are Peru]]
+! style="width:50px;" |<small>[[Ollanta Humala]]</small><br/>[[File:Logo - Partido Nacionalista Peruano.svg|30px|link=Peruvian Nationalist Party]]
+! style="width:50px;" |<small>Other</small>
+! style="width:50px;" |<small>Blank<br/>/<br/>None</small>
+! style="width:50px;" |<small>Undecided</small>
+|-
+| colspan="19" style="background:#A0A0A0"|
+|- 
+|'''Election results'''
+|11 April 2021| 11 April 2021
+|{{Celda|N/A}}
+| style="background:lightgreen" |'''18.9'''
+|align="center" style="background:lightblue" |'''13.4'''
+|align="center" style="background:#fceca2"|'''11.8'''
+|11.7
+|9.1
+|7.9
+|6.0
+|5.7
+|5.6
+|2.3
+|2.0
+|1.7
+|1.6
+|2.6
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|-
+| colspan="19" style="background:#A0A0A0"|
+|-
+|IEP/La República<ref>{{cite web|url=https://larepublica.pe/elecciones/2021/04/04/iep-empate-quintuple-en-primer-lugar-de-intencion-de-voto-presidencial-pltc/|date=4 April 2021|website=larepublica.pe|title=IEP: empate quíntuple en primer lugar de intención de voto presidencial|access-date=4 April 2021}}</ref>{{refn|name=tarj|group=lower-alpha}}
+|1–2 April 2021
+|1,212
+|6.6
+| style="background:lightgreen" |'''9.8'''
+|align="center" style="background:lightblue" |'''8.4'''
+| style="background:lightgreen" |'''9.8'''
+|align="center" style="background:#fceca2"|'''8.2'''
+|7.3
+|4.1
+|5.7
+|3.5
+|2.3
+|2
+|1.4
+|1.4
+|1.8
+|18.3
+|9.3
+|-
+|IDICE/La Razón<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-idice-03-abril-2021/|title=Encuesta Presidencial, IDICE – 03 Abril 2021|date=3 April 2021|website=encuestas.com.pe}}</ref>
+|1–2 April 2021
+|1,200
+|4.4
+|align="center" style="background:#fceca2"|'''7.8'''
+|7.2
+|align="center" style="background:lightblue"|'''8'''
+| style="background:lightgreen" |'''10.8'''
+|7.3
+|7.4
+|7.3
+|3.5
+|1.9
+|3.3
+|1
+|1.6
+|4
+|16.7
+|8.6
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://elcomercio.pe/elecciones-2021/elecciones-2021-de-soto-escala-al-segundo-lugar-en-la-recta-final-ipsos-peru-simulacro-noticia/?ref=ecr|title=Elecciones 2021: De Soto escala al segundo lugar en la recta final|date=4 April 2021|website=elcomercio.pe|first=Jonathan Castro|last=El Comercio}}</ref>
+|31 March 2021
+|1,505
+|6
+|align="center" style="background:#fceca2"|'''8'''
+|6
+|align="center" style="background:lightblue" |'''9'''
+| style="background:lightgreen" |'''10'''
+|align="center" style="background:lightblue" |'''9'''
+|4
+|align="center" style="background:#fceca2"|'''8'''
+|5
+|2
+|2
+|2
+|2
+|2
+|11
+|14
+|-
+|IEP/La República<ref>{{cite web|url=https://larepublica.pe/elecciones/2021/03/28/encuesta-iep-lescano-pierde-impulso-y-hay-pugna-por-la-segunda-vuelta-pltc/|date=28 March 2021|website=larepublica.pe|title=Encuesta IEP: Lescano pierde impulso y hay pugna por la segunda vuelta|access-date=28 March 2021}}</ref>{{refn|name=tarj|group=lower-alpha}}
+|22–25 March 2021
+|1,212
+|4.3
+|7.9
+|align="center" style="background:lightblue" |'''9.7'''
+|8.5
+| style="background:lightgreen" |'''11.4'''
+|align="center" style="background:#fceca2"|'''9.6'''
+|3.2
+|8.2
+|4.3
+|1.1
+|0.7
+|1.2
+|2
+|1.2
+|20.2
+|6.3
+|-
+|IDICE/La Razón<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-idice-27-marzo-2021/|title=Encuesta Presidencial, IDICE – 27 de Marzo|date=27 March 2021|website=encuestas.com.pe}}</ref>
+|23–25 March 2021
+|1,200
+|4.3
+|7.9
+|align="center" style="background:lightblue"|'''10'''
+|6.9
+| style="background:lightgreen" |'''10.8'''
+|5.9
+|align="center" style="background:#fceca2"|'''8.9'''
+|7.6
+|3.8
+|1.9
+|0.4
+|1.6
+|1.9
+|1.8
+|13.4
+|13.8
+|-
+|CPI/Exitosa<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-cpi-26-marzo-2021/|title=Encuesta Presidencial, CPI – 26 Marzo 2021|date=26 March 2021|website=encuestas.com.pe}}</ref>
+|19–23 March 2021
+|1,600
+|4.3
+|align="center" style="background:#fceca2" |'''7.1'''
+|5.2
+|4.5
+| style="background:lightgreen" |'''11'''
+|5.4
+|4
+|align="center" style="background:lightblue" |'''8.1'''
+|3.8
+|2
+|1
+|1
+|2.1
+|0.5
+|15.2
+|24.8
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=https://gestion.pe/peru/politica/elecciones-generales-2021-encuesta-datum-lescano-mantiene-la-punta-y-crece-lucha-por-el-segundo-lugar-noticia/|title=Lescano mantiene la punta y crece lucha por el segundo lugar|date=23 March 2021|website=gestion.pe}}</ref>
+|18–21 March 2021
+|1,201
+|3
+|align="center" style="background:#fceca2|'''8'''
+|align="center" style="background:lightblue"|'''9'''
+|5
+| style="background:lightgreen" |'''14'''
+|6
+|3
+|align="center" style="background:#fceca2|'''8'''
+|5
+|2
+|1
+|2
+|2
+|1
+|14
+|17
+|-
+|Radio Latina<ref>{{cite web|url=http://radiolatina.com.pe|title=Encuesta por Radio Latina a Nivel Nacional - Noticias|date=20 March 2021|website=radiolatina.com.pe}}</ref>
+|17–19 March 2021
+|22,700
+|6
+|6.5
+| style="background:lightgreen" |'''9.5'''
+|align="center" style="background:#fceca2"|'''7'''
+|align="center" style="background:lightblue"|'''8'''
+|5
+|4
+|6.5
+|4
+|2
+|1
+|1
+|2
+|4.5
+|12
+|21
+|-
+|IDICE/La Razón<ref>{{cite web|url=https://www.encuestas.com.pe/encuesta-presidencial-idice-19-marzo-2021/|title=Encuesta Presidencial, IDICE – 19 de Marzo|date=19 March 2021|website=encuestas.com.pe}}</ref>
+|16–18 March 2021
+|1,200
+|3.9
+|align="center" style="background:#fceca2"|'''7.2'''
+| style="background:lightgreen" |'''11.4'''
+|5.4
+|align="center" style="background:lightblue"|'''11.3'''
+|6
+|7.1
+|6.8
+|3.4
+|2.3
+|0.7
+|1
+|1.7
+|1.3
+|11.9
+|18.8
+|-
+|CELAG<ref>{{cite web|url=https://www.celag.org/wp-content/uploads/2021/03/informe-peru-v3web.pdf|title=Intención de Voto Presidenciales|date=18 March 2021|website=cpi.pe}}</ref>
+|{{nowrap|23 February–16 March 2021}}
+|2,006
+|5
+|7
+|5.1
+|8.6
+| style="background:lightgreen" |'''15.6'''
+|align="center" style="background:#fceca2"|'''11.2'''
+|3
+|align="center" style="background:lightblue" |'''13.1'''
+|1.3
+|5
+| - 
+|1.5
+|4.4
+|6.9
+|5
+|7.4
+|-
+|CPI/Latina<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/CPI%20OP%2014%20Marzo.pdf|title=Elecciones 2021: Perú Urbano-Rural - Marzo|date=15 March 2021|website=cpi.pe}}</ref>
+|6–11 March 2021
+|1,300
+|2.5
+|6.5
+|align="center" style="background:#fceca2"|'''7.2'''
+|4.5
+| style="background:lightgreen" |'''12.2'''
+|5.9
+|4
+|align="center" style="background:lightblue" |'''8'''
+|3.8
+|2
+|1.2
+|1
+|1.5
+|1
+|15.6
+|23.2
+|-
+|Ipsos Perú/El Comercio<ref name="El Comercio"/>
+|10–11 March 2021
+|1,206
+|3
+|7
+|align="center" style="background:#fceca2"|'''8'''
+|4
+| style="background:lightgreen" |'''15'''
+|6
+|2
+|align="center" style="background:lightblue" |'''10'''
+|5
+|3
+|1
+|1
+|2
+|6
+|15
+|12
+|-
+|IEP/La República<ref>{{cite web|url=https://larepublica.pe/elecciones/2021/03/13/elecciones-2021-encuesta-iep-revela-que-lescano-sigue-primero-lopez-aliaga-sube-y-reina-la-desafeccion-pltc/|date=13 March 2021|website=larepublica.pe |title=Encuesta IEP revela que Lescano sigue primero, López Aliaga sube y reina la desafección |access-date=12 March 2021}}</ref>{{refn|name=tarj|group=lower-alpha}}
+|4–8 March 2021
+|1,220
+|3.5
+|align="center" style="background:#fceca2"|'''7.2'''
+|align="center" style="background:lightblue" |'''9.5'''
+|5.7
+| style="background:lightgreen" |'''13.9'''
+|7
+|3.4
+|6.8
+|4.5
+|2.3
+|0.9
+|1.2
+|2.5
+|1.1
+|20.1
+|10.5
+|-
+|CIT/Expreso<ref>{{cite web|url=http://citopinion.pe/facipub/upload/cont/1330/files/sondeo_cit_marzo_2021.pdf|title=Sondeo de Opinión Pública - Marzo 2021|date=12 March 2021|website=citopinion.pe}}</ref>
+|4–7 March 2021
+|1,220
+|1
+|5.1
+| style="background:lightgreen" |'''12'''
+|align="center" style="background:#fceca2"|'''8'''
+|7.1
+|align="center" style="background:lightblue"|'''8.6'''
+|5
+|5.7
+|align="center" style="background:lightblue"|'''8.6'''
+|2.6
+|0.9
+|2.6
+|1.6
+|3.5
+|27.6
+|{{Celda|N/A}}
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=https://gestion.pe/peru/politica/encuestas-yonhy-lescano-rafael-lopez-aliaga-george-forsyth-keiko-fujimori-lescano-repunta-mientras-lopez-aliaga-forsyth-y-fujimori-empatan-en-segundo-lugar-elecciones-2021-onpe-datum-noticia/|title=Lescano repunta, mientras López Aliaga, Forsyth y Fujimori empatan en segundo lugar|date=9 March 2021|website=peru21.pe}}</ref>
+|5–7 March 2021
+|1,200
+|2
+|align="center" style="background:lightblue"|'''7'''
+|align="center" style="background:lightblue"|'''7'''
+|5
+| style="background:lightgreen" |'''13'''
+|align="center" style="background:#fceca2"|'''6'''
+|3
+|align="center" style="background:lightblue"|'''7'''
+|4
+|3
+|1
+|2
+|1
+|2
+|16
+|21
+|-
+|IDICE/La Razón<ref name="encuestas.com.pe">{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-idice-05marzo-2021/|title=Encuesta Presidencial, IDICE – 5 de Marzo|date=6 March 2021|website=encuestas.com.pe}}</ref>
+|3–5 March 2021
+|1,200
+|1.3
+|align="center" style="background:#fceca2"|'''8.9'''
+| style="background:lightgreen" |'''10.8'''
+|3.3
+|align="center" style="background:lightblue"|'''9.4'''
+|8.4
+|5.7
+|7.2
+|5
+|4.3
+|1.4
+|1
+|1.7
+|4.3
+|10
+|18.7
+|-
+|IEP/La República<ref name="larepublica.pe">{{cite web|url=https://larepublica.pe/elecciones/2021/02/28/yonhy-lescano-sube-al-primer-lugar-seguido-de-veronika-mendoza-pltc/|title=Yonhy Lescano sube al primer lugar, seguido de Verónika Mendoza|date=28 January 2021|website=larepublica.pe}}</ref>{{refn|name=tarj|group=lower-alpha}}
+|{{nowrap|19–23 February 2021}}
+|1,220
+|2.4
+|align="center" style="background:#fceca2" |'''8.1'''
+|7.6
+|4.2
+| style="background:lightgreen" |'''11.3'''
+|align="center" style="background:lightblue" |'''8.9'''
+|3.8
+|align="center" style="background:#fceca2" |'''8.1'''
+|4.8
+|3.1
+|0.6
+|2.4
+|2.2
+|2
+|2.5
+|28.1
+|-
+|CPI/Correo<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/CPI%20OP%20Febrero%202021.pdf|title=Elecciones 2021: Perú Urbano-Rural - Febrero|date=21 February 2021|website=cpi.pe}}</ref>
+|17-19 February 2021
+|1,200
+|1.7
+|align="center" style="background:#fceca2"|'''6.4'''
+|3
+|2.9
+|align="center" style="background:lightblue"|'''8'''
+|4.7
+|3.1
+| style="background:lightgreen" |'''8.9'''
+|4.7
+|2.4
+|0.7
+|2.6
+|1
+|2
+|18.8
+|30.1
+|-
+|CIT/Expreso<ref>{{cite web|url=http://citopinion.pe/facipub/upload/cont/1325/files/encuesta__cit_febrero__2021.pdf|title=Sondeo de Opinión Pública - Febrero 2021|date=20 February 2021|website=citopinion.pe}}</ref>
+|12-14 February 2021
+|1,220
+|0.4
+|align="center" style="background:lightblue"|'''7.6'''
+|align="center" style="background:lightblue"|'''7.6'''
+|5.4
+|align="center" style="background:#fceca2"|'''5.6'''
+|5
+|2.3
+| style="background:lightgreen" |'''8.7'''
+|7
+|1.6
+|1
+|2
+|1.6
+|4
+|21.9
+|18.3
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=https://peru21.pe/politica/elecciones-2021-la-campana-empieza-a-calentarse-y-lidera-george-forsyth-con-apenas-11-de-preferencia-encuesta-datum-yonhy-lescano-noticia/|title=La campaña empieza a calentarse y George Forsyth lidera con apenas 11% de preferencia|date=17 February 2021|website=peru21.pe}}</ref>
+|9–12 February 2021
+|1,200
+|1
+|align="center" style="background:#fceca2"|'''8'''
+|3
+|4
+|align="center" style="background:lightblue"|'''9'''
+|7
+|4
+| style="background:lightgreen" |'''11'''
+|6
+|3
+|2
+|2
+|3
+|4
+|15
+|18
+|-
+|Ipsos Perú/El Comercio<ref name="Encuesta El Comercio-Ipsos: Yonhy Lescano crece, mientras George Forsyth y Julio Guzmán retroceden | febrero intención de voto elecciones 2021 | Acción Popular | Victoria Nacional | Partido Morado | 11 de abril | | POLITICA | EL COMERCIO PERÚ">{{cite web|url=https://elcomercio.pe/politica/elecciones/encuesta-de-el-comercio-ipsos-febrero-intencion-de-voto-elecciones-2021-yonhy-lescano-crece-mientras-george-forsyth-y-julio-guzman-retroceden-accion-popular-victoria-nacional-partido-morado-11-de-abril-noticia/|title=Encuesta de El Comercio-Ipsos: Lescano crece, mientras Forsyth y Guzmán retroceden|date=14 February 2021|website=elcomercio.pe}}</ref>
+|10–11 February 2021
+|1,219
+|2
+|align="center" style="background:#fceca2"|'''8'''
+|3
+|4
+|align="center" style="background:lightblue"|'''10'''
+|align="center" style="background:#fceca2"|'''8'''
+|3
+| style="background:lightgreen" |'''11'''
+|7
+|4
+|1
+|3
+|2
+|5
+|15
+|14
+|-
+|IDICE/La Razón<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-idice-13-febrero-2021/|title=Encuesta Presidencial, IDICE – 13 Febrero 2021|date=13 February 2021|website=encuestas.com.pe}}</ref>
+|9–11 February 2021
+|1,200
+|1
+|align="center" style="background:lightblue"|'''9.2'''
+|6.8
+|4
+|4.9
+|align="center" style="background:#fceca2"|'''8.4'''
+|4.6
+| style="background:lightgreen" |'''14.1'''
+|5.5
+|5.7
+|1.2
+|3.9
+|1.9
+|1.2
+|8.4
+|19.3
+|-
+|IEP/La República<ref>{{cite web|url=https://iep.org.pe/wp-content/uploads/2021/01/Informe-IEP-OP-Enero-2021-Aprobación-del-gobierno-e-intención-de-voto.pdf|title=IEP Informe de Opinión – Enero 2021 Aprobación del gobierno e intención de voto|date=31 January 2021|website=iep.org.pe}}</ref>{{refn|name=tarj|group=lower-alpha}}
+|21–27 January 2021
+|1,205
+|2.3
+|6.7
+|2.4
+|5.6
+|align="center" style="background:#fceca2"|'''7.1'''
+|align="center" style="background:lightblue"|'''8.2'''
+|2
+| style="background:lightgreen" |'''13.3'''
+|5.6
+|4.6
+|1.7
+|2.5
+|2.8
+|2.4
+|25.2
+|7.5
+|-
+|IEP/La República<ref>{{cite web|url=https://iep.org.pe/wp-content/uploads/2021/01/Informe-IEP-OP-Enero-2021-Aprobación-del-gobierno-e-intención-de-voto.pdf|title=IEP Informe de Opinión – Enero 2021 Aprobación del gobierno e intención de voto|date=31 January 2021|website=iep.org.pe}}</ref>{{refn|name=espont|group=lower-alpha}}
+|21–27 January 2021
+|1,205
+|0.5
+|align="center" style="background:#fceca2"|'''2.9'''
+|1.2
+|2.5
+|align="center" style="background:lightblue"|'''3.1'''
+|2.8
+|0.4
+| style="background:lightgreen" |'''6.5'''
+|1.8
+|1.5
+|0.1
+|1
+|0.9
+|0.3
+|31.9
+|42.5
+|-
+|CPI/Correo<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-cpi-30-enero-2021/|title=Encuesta Presidencial, CPI – 30 Enero 2021|date=30 January 2021|website=encuestas.com.pe}}</ref>
+|23–25 January 2021
+|1,200
+|2.4
+|align="center" style="background:lightblue"|'''5.6'''
+|1.1
+|2.8
+|align="center" style="background:#fceca2"|'''5'''
+|4.7
+|3.7
+| style="background:lightgreen" |'''10.1'''
+|4.3
+|4.1
+|1.1
+|3.2
+|1.6
+|1.5
+|19.3
+|30.5
+|-
+|Ipsos Perú/El Comercio<ref name="El Comercio-Ipsos: Ollanta Humala">{{cite web|url=https://elcomercio.pe/politica/elecciones/el-comercio-ipsos-ollanta-humala-keiko-fujimori-cesar-acuna-y-julio-guzman-lideran-el-antivoto-elecciones-2021-noticia/?ref=ecr|title=El Comercio-Ipsos: Ollanta Humala, Keiko Fujimori, César Acuña y Julio Guzmán lideran el antivoto|date=17 January 2021|website=elcomercio.pe}}</ref>
+|13–15 January 2021
+|1,210
+|1
+|align="center" style="background:lightblue"|'''8'''
+|0.5
+|5
+|6
+|align="center" style="background:#fceca2"|'''7'''
+|4
+| style="background:lightgreen" |'''17'''
+|6
+|align="center" style="background:#fceca2"|'''7'''
+|1
+|4
+|4
+|5
+|14
+|11
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=https://peru21.pe/politica/elecciones-2021-a-tres-meses-de-comicios-estas-son-las-preferencias-electorales-noticia/|title=Elecciones 2021: A tres meses de comicios, estas son las preferencias electorales|date=14 January 2021|website=peru21.pe}}</ref>
+|8–12 January 2021
+|1,206
+|1
+|align="center" style="background:lightblue"|'''6'''
+|0.5
+|3
+|4
+|5
+|3
+| style="background:lightgreen" |'''13'''
+|3
+|align="center" style="background:#fceca2"|'''5'''
+|1
+|2
+|2
+|3
+|30
+|19
+|-
+|CIT/Expreso<ref>{{cite web|url=https://caretas.pe/politica/elecciones-2021-encuesta-de-cit-peru-pone-segundo-a-hernando-de-soto/|title=Hernando de Soto figura segundo en encuesta de CIT Perú|date=24 January 2020|website=citopinion.pe}}</ref>
+|11–13 January 2021
+|1,200
+|0.5
+|align="center" style="background:#fceca2"|'''8.1'''
+|5.1
+|align="center" style="background:lightblue"|'''9.6'''
+|4.6
+|7.2
+|4.3
+| style="background:lightgreen" |'''11.8'''
+|7.8
+|5
+| - 
+|3.3
+|3.8
+|3.5
+|11.5
+|13.9
+|-
+|IDICE/La Razón<ref>{{cite web|url=https://www.encuestas.com.pe/encuesta-presidencial-idice-13-enero-2021/|title=Encuesta Presidencial, IDICE – 13 Enero 2021|date=13 January 2021|website=encuestas.com.pe}}</ref>
+|2–8 January 2021
+|1,200
+|1
+|align="center" style="background:lightblue"|'''8.8'''
+|4.6
+|4.4
+|3.6
+|align="center" style="background:#fceca2"|'''7.9'''
+|3.2
+| style="background:lightgreen" |'''14.7'''
+|6.6
+|7.8
+| - 
+|5.2
+|2.3
+|1.7
+|5.8
+|22.1
+|-
+|Ipsos Perú/El Comercio<ref name="El Comercio-Ipsos: Forsyth permanec">{{cite web|url=https://elcomercio.pe/elecciones-2021/encuesta-el-comercio-ipsos-forsyth-permanece-arriba-con-18-y-el-resto-no-pasa-del-8-noticia/|title=El Comercio-Ipsos: Forsyth permanece arriba con 18% y el resto no pasa del 8%|date=13 December 2020|website=elcomercio.pe}}</ref>
+|10–11 December 2020
+|1,200
+|1
+|align="center" style="background:#fceca2"|'''7'''
+|0.3
+|3
+|4
+|align="center" style="background:#fceca2"|'''7'''
+|2
+| style="background:lightgreen" |'''18'''
+|6
+|align="center" style="background:lightblue"|'''8'''
+|2
+|3
+|2
+|9
+|18
+|10
+|-
+|IEP/La República<ref name="Cae George Forsyth">{{cite web|url=https://larepublica.pe/elecciones/2020/12/13/cae-george-forsyth-y-cuatro-disputan-segundo-lugar-pltc/|title=Cae George Forsyth y cuatro disputan segundo lugar|date=13 December 2020|website=larepublica.pe}}</ref>{{refn|name=tarj|group=lower-alpha}}
+|1–8 December 2020
+|1,225
+|0.8
+|align="center" style="background:#fceca2"|'''7.7'''
+|0.2
+|4.1
+|4.5
+|align="center" style="background:lightblue"|'''9.1'''
+|2
+| style="background:lightgreen" |'''14.7'''
+|6.3
+|align="center" style="background:lightblue"|'''9.1'''
+|1.1
+|3.1
+|2.9
+|5
+|24.1
+|5.3
+|-
+|IEP/La República<ref name="Cae George Forsyth" />{{refn|name=espont|group=lower-alpha}}
+|1–8 December 2020
+|1,225
+|0.2
+|2.3
+|0.2
+|1.7
+|1.6
+|align="center" style="background:#fceca2"|'''2.4'''
+|0.3
+| style="background:lightgreen" |'''5.5'''
+|1.2
+|align="center" style="background:lightblue"|'''5.2'''
+|0.2
+|0.8
+|0.6
+|15.3
+|22.5
+|39.6
+|-
+|CIT/Expreso<ref>{{cite web|url=http://citopinion.pe/facipub/upload/cont/1321/files/encuesta_diciembre_2020.pdf|title=CIT Opinión Diciembre 2020 - Aprobación Gubernamental y Elecciones Presidenciales 2021|date=20 December 2020|website=citopinion.pe}}</ref>
+|11-13 December 2020
+|1,200
+|0.2
+|7.5
+|2.3
+| style="background:lightgreen" |'''10.4'''
+|3.2
+|6.4
+|3.7
+|align="center" style="background:lightblue"|'''9.8'''
+|align="center" style="background:#fceca2"|'''7.7'''
+|5.2
+| - 
+|1.9
+|2
+|12.7
+|13.3
+|14
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=https://peru21.pe/politica/encuesta-datum-al-56-no-le-atrae-ninguno-votaria-en-blanco-o-viciado-o-aun-no-sabe-noticia/|title=Encuesta Datum: Al 56% no le atrae ninguno, votaría en blanco o viciado, o aún no sabe|date=9 December 2020|website=peru21.pe}}</ref>
+|3–6 December 2020
+|1,244
+|0.3
+|align="center" style="background:#fceca2"|'''4'''
+|0.4
+|align="center" style="background:lightblue"|'''5'''
+|align="center" style="background:#fceca2"|'''4'''
+|align="center" style="background:#fceca2"|'''4'''
+|2
+| style="background:lightgreen" |'''10'''
+|3
+|align="center" style="background:#fceca2"|'''4'''
+|0.7
+|2
+|1
+|4
+|32
+|24
+|-
+|CPI/Correo<ref>{{cite web|url=https://diariocorreo.pe/politica/al-61-no-le-gusta-ningun-candidato-o-no-ha-elegido-a-uno-noticia/?ref=dcr|title=Al 61% no le gusta ningún candidato o no ha elegido a uno|date=29 November 2020|website=diariocorreo.pe}}</ref>
+|23–25 November 2020
+|1,200
+|1.2
+|align="center" style="background:#fceca2"|'''4.2'''
+|0.2
+|2.9
+|2.3
+|3.4
+|1.1
+| style="background:lightgreen" |'''8.1'''
+|2.8
+|align="center" style="background:lightblue"|'''5'''
+|0.7
+|1.1
+|1.3
+|4.7
+|37.7
+|23.3
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/intencion_de_voto_noviembre_2020.pdf|title=Intención de voto Noviembre 2020 - Encuesta de opinión nacional urbana-rural|date=19 November 2020|website=ipsos.pe}}</ref>
+|16 November 2020
+|1,207
+|2
+|5
+|0.1
+|4
+|3
+|align="center" style="background:#fceca2"|'''6'''
+|3
+| style="background:lightgreen" |'''16'''
+|align="center" style="background:#fceca2"|'''6'''
+|align="center" style="background:lightblue"|'''7'''
+|2
+|1
+|2
+|8
+|18
+|17
+|-
+|CIT/Expreso<ref>{{cite web|url=http://citopinion.pe/facipub/upload/cont/1320/files/encuesta_nov_cit_2020.pdf|title=CIT Opinión Noviembre 2020 - Aprobación Gubernamental y Elecciones Presidenciales 2021|date=30 November 2020|website=citopinion.pe}}</ref>
+|20-22 November 2020
+|1,200
+| - 
+|6.8
+|2
+|align="center" style="background:lightblue"|'''11.3'''
+|2.9
+|5.8
+|4.8
+| style="background:lightgreen" |'''12.5'''
+|align="center" style="background:#fceca2"|'''7.8'''
+|5.1
+| - 
+|0.8
+|1.4
+|14.3
+| - 
+|24.8
+|-
+|Ipsos Perú/El Comercio<ref>{{cite news|url=https://elcomercio.pe/elecciones-2021/el-comercio-ipsos-george-forsyth-continua-liderando-la-intencion-de-voto-con-19-noticia/|title=El Comercio-Ipsos: George Forsyth continúa liderando la intención de voto con 19%|date=26 October 2020|newspaper=El Comercio |last1=Lira Delcore |first1=Ariana }}</ref>
+|21–23 October 2020
+|1,193
+| - 
+|align="center" style="background:lightblue"|'''7'''
+|0.3
+|3
+|3
+|align="center" style="background:#fceca2"|'''5'''
+|4
+| style="background:lightgreen" |'''19'''
+|align="center" style="background:lightblue"|'''7'''
+|align="center" style="background:#fceca2"|'''5'''
+|1
+|2
+|2
+|12
+|14
+|16
+|-
+|IEP/La República<ref name="IEPoct">{{cite web|url=https://larepublica.pe/politica/2020/10/25/forsyth-mendoza-keiko-y-urresti-en-los-primeros-puestos-la-republica/|title=Forsyth, Mendoza, Keiko y Urresti en los primeros puestos|date=25 October 2020|website=larepublica.pe}}</ref>{{refn|name=tarj|group=lower-alpha}}
+|13–19 October 2020
+|1,212
+| - 
+|align="center" style="background:#fceca2"|'''8'''
+|0.4
+|5.4
+|4.9
+|align="center" style="background:lightblue"|'''9.1'''
+|3.9
+| style="background:lightgreen" |'''23'''
+|7.3
+|3.9
+| - 
+|2
+|2.7
+|3.1
+|21.1
+|5.5
+|-
+|IEP/La República<ref name="IEPoct" />{{refn|name=espont|group=lower-alpha}}
+|13–19 October 2020
+|1,212
+| - 
+|align="center" style="background:lightblue"|'''2.6'''
+|0.1
+|1.9
+|1
+|1.8
+|0.8
+| style="background:lightgreen" |'''9.6'''
+|align="center" style="background:#fceca2"|'''2.3'''
+|1
+| - 
+|0.2
+|0.2
+|16.8{{refn|name=Vizcarra|group=lower-alpha}}{{refn|name=Antauro|group=lower-alpha}}
+|23.2
+|38.6
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20201006190644.pdf|title=Encuesta de opinión pública a nivel nacional - Setiembre-Octubre 2020|date=7 October 2020|website=datum.com.pe}}</ref>
+|2–5 October 2020
+|1,224
+| - 
+|align="center" style="background:lightblue"|'''5'''
+|0.2
+|align="center" style="background:lightblue"|'''5'''
+|3
+|align="center" style="background:#fceca2"|'''4'''
+|1
+| style="background:lightgreen" |'''20'''
+|align="center" style="background:#fceca2"|'''4'''
+|3
+| - 
+| - 
+| - 
+|12
+|25
+|18
+|-
+|CIT/Expreso<ref>{{cite web|url=http://citopinion.pe/facipub/upload/cont/1319/files/encuesta_octubre_2020.pdf|title=CIT Opinión Octubre 2020 - Aprobación Gubernamental y Elecciones Presidenciales 2021|date=4 October 2020|website=citopinion.pe}}</ref>
+|14-16 October 2020
+|1,025
+| - 
+|8.5
+|0.9
+| style="background:lightgreen" |'''14.6'''
+|1.5
+|2
+|4.4
+|align="center" style="background:lightblue"|'''11'''
+|align="center" style="background:#fceca2"|'''5'''
+|2.2
+| - 
+|0.8
+| - 
+|16.3
+| - 
+|32.9
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/intencion_de_voto.pdf|date=24 September 2020|title=Intención de Voto para Septiembre 2020 - Ipsos Perú|website=ipsos.com}}</ref>
+|9–10 September 2020
+|1,204
+| - 
+|align="center" style="background:#fceca2"|'''7'''
+|0.2
+|2
+|3
+|4
+|3
+| style="background:lightgreen" |'''23'''
+|align="center" style="background:lightblue"|'''9'''
+|4
+|1
+|1
+|1
+|10
+|19
+|13
+|-
+|CIT/Expreso<ref>{{cite web|url=http://citopinion.pe/facipub/upload/cont/1318/files/encuesta_setiembre_cit.pdf|title=CIT Opinión Setiembre 2020 - Aprobación Gubernamental y preferencias electorales|date=15 September 2020|website=citopinion.pe}}</ref>
+|9-11 September 2020
+|1,025
+| - 
+| - 
+|1
+| style="background:lightgreen" |'''16.8'''
+| - 
+|1.2
+|2.4
+|align="center" style="background:lightblue"|'''9.3'''
+|align="center" style="background:#fceca2"|'''3.4'''
+|1.2
+| - 
+|1.2
+| - 
+|34.5
+| - 
+|27.8
+|-
+|Ipsos Perú/El Comercio<ref>{{cite news|url=https://elcomercio.pe/politica/george-forsyth-lidera-con-25-intencion-de-voto-para-elecciones-de-2021-encuesta-ipsos-peru-daniel-urresti-keiko-fujimori-noticia/|title=George Forsyth lidera con 25% intención de voto para elecciones 2021, según Ipsos Perú|date=24 September 2020|newspaper=El Comercio |last1=Ortiz Martínez |first1=Sebastian }}</ref>
+|21–22 August 2020
+|1,010
+| - 
+|align="center" style="background:#fceca2"|'''7'''
+| - 
+| - 
+|3
+|6
+|2
+| style="background:lightgreen" |'''25'''
+|align="center" style="background:lightblue"|'''10'''
+|4
+|2
+|1
+|1
+|5
+|31
+|3
+|-
+|}
+
+===Pre-electoral polls===
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px;"
+! style="width:175px;"| <small>Pollster</small>
+! style="width:95px;"| <small>Date</small>
+! style="width:50px;" | <small>Sample size</small>
+! style="width:50px;" | <small>[[George Forsyth (footballer)|George Forsyth]]</small>
+! style="width:50px;" | <small>[[Salvador del Solar]]</small>
+! style="width:50px;" | <small>[[Daniel Urresti]]</small><br/>[[File:Logo Podemos Perú.png|30px|link=Podemos Perú]]
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br/>[[File:Fuerza popular.svg|30px|link=Popular Force]]
+! style="width:50px;" | <small>[[Verónika Mendoza]]</small><br/>[[File:Logo nuevo peru.svg|30px|link=New Peru]]
+! style="width:50px;" | <small>[[Julio Guzmán]]</small><br/>[[File:Partido_Morado_logo.svg|25px|link=Purple Party]]
+! style="width:50px;" | <small>[[Alfredo Barnechea]]</small><br/>[[File:Acción_Popular.png|30px|link=Popular Action (Peru)]]
+! style="width:50px;" | <small>[[Yonhy Lescano]]</small><br/>[[File:Acción_Popular.png|30px|link=Popular Action (Peru)]]
+! style="width:50px;" | <small>[[César Acuña]]</small><br/>[[File:Alianza para el Progreso Peru.svg|30px|link=Alliance for Progress (Peru)]]
+! style="width:50px;" | <small>[[Kenji Fujimori]]</small><br/>[[File:Fuerza popular.svg|30px|link=Popular Force]]
+! style="width:50px;" | <small>[[Jorge Muñoz (Peruvian politician)|Jorge Muñoz]]</small><br/>[[File:Acción_Popular.png|30px|link=Popular Action (Peru)]]
+! style="width:50px;" | <small>[[Daniel Salaverry]]</small><br/>[[File:Logo Partido Democrático Somos Perú.svg|30px|link=We Are Peru]]
+! style="width:50px;" | <small>[[Alberto Beingolea]]</small><br/>[[File:Logo Oficial PPC.png|30px|link=Christian People's Party (Peru)]]
+! style="width:50px;" | <small><s>[[Alan García]]</s>  </small><br/>[[File:APRA Peru logo.svg|30px|link=Peruvian Aprista Party]]
+! style="width:50px;" |<small>Other</small>
+! style="width:50px;" |<small>Blank / None</small>
+! style="width:50px;" |<small>Undecided</small>
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2020-07/opinion_data-_julio_2020.pdf|title=Estudio de opinión Ipsos Perú, julio de 2020|date=23 July 2020|website=ipsos.com}}</ref>
+| 9–10 July 2020
+| 1,019
+| style="background:lightgreen"|'''23'''
+| style="background:lightblue"|14
+| style="background:#fceca2"|9
+| 6
+| 5
+| 3
+| 4
+| -
+| 2
+| -
+| -
+| -
+| 1
+| {{Celda|N/A}}
+| 1
+| 28
+| 4
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2020-06/6980620inf_v2_18jun20_op_integrado.pdf |title=Estudio de opinión Ipsos Perú, junio de 2020|date=23 June 2020|website=ipsos.com}}</ref>
+| 11–12 June 2020
+| 1,015
+| style="background:lightgreen"|'''23'''
+| style="background:#fceca2"|11
+| style="background:lightblue"|12
+| 7
+| 2
+| 3
+| 3
+| -
+| 2
+| -
+| -
+| -
+| 1
+| {{Celda|N/A}}
+| 8
+| 26
+| 2
+|-
+|Ipsos Perú/El Comercio<ref name=abr-may>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2020-05/el_2021._encuesta_nacional_urbana_ipsos_mayo_2020.pdf|title=El 2021 Perú, mayo de 2020|date=20 May 2020|website=ipsos.com}}</ref>
+| 14–15 May 2020
+| 1,022
+| style="background:lightgreen"|'''23'''
+| style="background:lightblue"|16
+| style="background:#fceca2"|11
+| 4
+| 3
+| 3
+| 3
+| -
+| 2
+| -
+| 3
+| -
+| 1
+| {{Celda|N/A}}
+| 2
+| 26
+| 3
+|-
+|Ipsos Perú/El Comercio<ref name=abr-may/>
+| 15–16 April 2020
+| 1,055
+| style="background:lightgreen"|'''22'''
+| style="background:lightblue"|17
+| style="background:#fceca2"|11
+| 4
+| 2
+| 3
+| 3
+| 3
+| 3
+| -
+| 7
+| -
+| 1
+| {{Celda|N/A}}
+| 9
+| 20
+| 3
+|-
+|Ipsos Perú/El Comercio<ref name=abr-may/>
+| 11–12 March 2020
+| 1,173
+| style="background:lightblue"|10
+| style="background:lightgreen"|'''12'''
+| style="background:lightblue"|10
+| style="background:#fceca2"|7
+| 4
+| 4
+| 2
+| 4
+| 4
+| -
+| 4
+| -
+| 1
+| {{Celda|N/A}}
+| 3
+| 34
+| 1
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20200312075740.pdf|title=Encuesta de opinión pública a nivel nacional - Marzo 2020|date=3 March 2020|website=datum.com.pe}}</ref>
+| 29 February–3 March 2020
+| 1,210
+| style="background:lightblue"|11
+| style="background:lightgreen"|'''15'''
+| 5
+| 5
+| style="background:#fceca2"|6
+| 4
+| 5
+| -
+| 4
+| -
+| -
+| -
+| -
+| {{Celda|N/A}}
+| 6
+| 29
+| 10
+|-
+|Ipsos Perú/El Comercio<ref name=abr-may/>
+| 11–13 February 2020
+| 1,190
+| style="background:lightblue"|9
+| style="background:lightgreen"|'''11'''
+| style="background:lightgreen"|'''11'''
+| style="background:#fceca2"|7
+| 3
+| 3
+| 2
+| -
+| 3
+| -
+| 3
+| -
+| 1
+| {{Celda|N/A}}
+| 10
+| 34
+| 3
+|-
+|Ipsos Perú/El Comercio<ref name=abr-may/>
+| 15–17 January 2020
+| 1,218
+| style="background:lightblue"|10
+| style="background:lightgreen"|'''13'''
+| -
+| style="background:#fceca2"|9
+| 5
+| 6
+| 2
+| -
+| 6
+| -
+| 3
+| -
+| 1
+| {{Celda|N/A}}
+| 7
+| 35
+| 3
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20200121110217.pdf|title=Encuesta de opinión pública a nivel nacional - Enero 2020|date=13 January 2020|website=datum.com.pe}}</ref>
+| 11–13 January 2020
+| 1,208
+| style="background:lightblue"|9
+| style="background:lightgreen"|'''19'''
+| -
+| 6
+| style="background:#fceca2"|7
+| style="background:#fceca2"|7
+| 5
+| -
+| 4
+| -
+| -
+| -
+| 1
+| {{Celda|N/A}}
+| 6
+| 20
+| 16
+|-
+|Ipsos Perú/El Comercio<ref name=dic-oct>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2019-12/6981219inf_v2_17dic19.pdf |title=Estudio de opinión Ipsos Perú, diciembre de 2019|date=17 December 2019|website=ipsos.com}}</ref>
+| 11–13 December 2019
+| 1,209
+| style="background:lightgreen"|'''13'''
+| style="background:lightgreen"|'''13'''
+| -
+| style="background:lightblue"|10
+| style="background:#fceca2"|6
+| style="background:#fceca2"|6
+| 2
+| -
+| 4
+| -
+| 4
+| 2
+| -
+| {{Celda|N/A}}
+| 7
+| 30
+| 3
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20191219081600.pdf|title=Encuesta de opinión pública a nivel nacional - Diciembre 2019|date=3 December 2019|website=datum.com.pe}}</ref>
+|{{nowrap|30 November–3 December 2019}}
+| 1,204
+| style="background:lightblue"|9
+| style="background:lightgreen"|'''16'''
+| -
+| style="background:#fceca2"|8
+| 4
+| style="background:#fceca2"|8
+| 3
+| -
+| 5
+| -
+| -
+| 0.4
+| 1
+| {{Celda|N/A}}
+| 10.6
+| 26
+| 11
+|-
+|Ipsos Perú/El Comercio<ref name=dic-oct/>
+| 13–15 November 2019
+| 1,199
+| style="background:lightblue"|13
+| style="background:lightgreen"|'''15'''
+| -
+| style="background:#fceca2"|10
+| 4
+| 6
+| 2
+| -
+| 4
+| -
+| 4
+| 3
+| -
+| {{Celda|N/A}}
+| 9
+| 28
+| 2
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20191112071920.pdf|title=Encuesta de opinión pública a nivel nacional - Noviembre 2019|date=4 November 2019|website=datum.com.pe}}</ref>
+| 1–4 November 2019
+| 1,224
+| style="background:lightblue"|9
+| style="background:lightgreen"|'''18'''
+| -
+| style="background:#fceca2"|6
+| 4
+| style="background:lightblue"|9
+| 2
+| -
+| 4
+| -
+| -
+| 1
+| 1
+| {{Celda|N/A}}
+| 8
+| 26
+| 14
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2019-10/opinion_data_octubre_2019.pdf|title=Estudio de opinión El Comercio-Ipsos Perú, octubre de 2019|date=15 October 2019|website=ipsos.com}}</ref>
+| 9–11 October 2019
+| 1,203
+| style="background:lightblue"|11
+| style="background:lightgreen"|'''16'''
+| -
+| style="background:#fceca2"|8
+| 5
+| 5
+| 1
+| -
+| 4
+| -
+| 5
+| 2
+| 2
+| {{Celda|N/A}}
+| 10
+| 29
+| 2
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20191016094444.pdf|title=Encuesta de opinión pública a nivel nacional - Octubre 2019|date=7 October 2019|website=datum.com.pe}}</ref>
+| 5–7 October 2019
+| 1,212
+| style="background:lightblue"|9
+| style="background:lightgreen"|'''21'''
+| -
+| 5
+| style="background:#fceca2"|7
+| style="background:lightblue"|9
+| 2
+| -
+| 3
+| -
+| -
+| 1
+| 0.5
+| {{Celda|N/A}}
+| 6.5
+| 22
+| 14
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2019-09/opinion_data_setiembre_2019.pdf|title=Estudio de opinión El Comercio-Ipsos Perú, setiembre de 2019|date=17 September 2019|website=ipsos.com}}</ref>
+| 11–13 September 2019
+| 1,208
+| style="background:lightgreen"|'''14'''
+| 5
+| style="background:#fceca2"|7
+| 4
+| style="background:#fceca2"|7
+| -
+| -
+| 4
+| style="background:lightblue"|8
+| -
+| 7
+| 2
+| -
+| {{Celda|N/A}}
+| 13
+| 28
+| 1
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20190911083059.pdf|title=Encuesta de opinión pública a nivel nacional - Setiembre 2019|date=2 September 2019|website=datum.com.pe}}</ref>
+| 30 August–2 September 2019
+| 1,221
+| style="background:lightblue"|7
+| 5
+| -
+| style="background:lightblue"|7
+| style="background:#fceca2"|6
+| style="background:lightgreen"|'''8'''
+| 4
+| -
+| 4
+| -
+| -
+| -
+| 1
+| {{Celda|N/A}}
+| 8
+| 35
+| 15
+|-
+|IEP/La República<ref name=ago19>{{cite web|url=https://iep.org.pe/wp-content/uploads/2019/08/4-IEP-Cuadros-y-Gr%C3%A1ficos-OP-Agosto-2019.pdf|title=IEP Informe de Opinión – Agosto 2019|date=26 August 2019|website=iep.org.pe}}</ref>{{refn|group=lower-alpha|name=tarj|Answer with card/options.}}
+| 17–21 August 2019
+| 1,224
+| style="background:lightgreen"|'''14'''
+| 3
+| 2
+| style="background:#fceca2"|9
+| 7
+| style="background:lightblue"|11
+| 4
+| 0.4
+| 4
+| 3
+| -
+| -
+| 0.3
+| {{Celda|N/A}}
+| 9.3
+| 28
+| 5
+|-
+|IEP/La República<ref name=ago19/>{{refn|group=lower-alpha|name=espont|Spontaneous response.}}
+| 17–21 August 2019
+| 1,224
+| style="background:lightgreen"|'''10'''
+| 1.5
+| 0.4
+| style="background:#fceca2"|8
+| 5
+| style="background:lightblue"|9
+| 3
+| 0.4
+| 3
+| 3
+| -
+| -
+| -
+| {{Celda|N/A}}
+| 6.7
+| 35
+| 15
+|-
+|Ipsos Perú/El Comercio<ref name=ago-jul>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2019-08/opinion_data_agosto_2019_0.pdf|title=Estudio de opinión El Comercio-Ipsos Perú, agosto de 2019|date=20 August 2019|website=ipsos.com}}</ref>
+| 14–15 August 2019
+| 1,205
+| style="background:lightgreen"|'''13'''
+| 6
+| 3
+| style="background:lightblue"|10
+| 5
+| style="background:#fceca2"|8
+| 2
+| -
+| 4
+| -
+| 6
+| 3
+| -
+| {{Celda|N/A}}
+| 10
+| 28
+| 2
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20190814064639.pdf|title=Encuesta de opinión pública a nivel nacional - Agosto 2019|date=4 August 2019|website=datum.com.pe}}</ref>
+| 2–4 August 2019
+| 1,219
+| style="background:lightblue"|10
+| 4
+| -
+| 5
+| style="background:#fceca2"|6
+| style="background:lightgreen"|'''11'''
+| 5
+| -
+| 3
+| -
+| 4
+| -
+| 1
+| {{Celda|N/A}}
+| 10
+| 29
+| 12
+|-
+|Ipsos Perú/El Comercio<ref name=ago-jul/>
+| 17–19 July 2019
+| 1,221
+| style="background:lightgreen"|'''13'''
+| style="background:#fceca2"|6
+| -
+| style="background:lightblue"|9
+| 3
+| 4
+| 2
+| -
+| 4
+| -
+| 5
+| 2
+| -
+| {{Celda|N/A}}
+| 16
+| 33
+| 3
+|-
+|Ipsos Perú/El Comercio<ref name=jun-may>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2019-06/opinion_data_junio_2019.pdf|title=Perú, junio de 2019|date=19 June 2019|website=ipsos.com}}</ref>
+| 12–14 June 2019
+| 1,210
+| style="background:lightgreen"|'''12'''
+| style="background:#fceca2"|5
+| -
+| style="background:lightblue"|9
+| 4
+| 4
+| 2
+| -
+| 4
+| -
+| 4
+| 2
+| -
+| {{Celda|N/A}}
+| 21
+| 31
+| 2
+|-
+|Ipsos Perú/El Comercio<ref name=jun-may/>
+| 15–17 May 2019
+| 1,222
+| style="background:lightgreen"|'''18'''
+| 4
+| -
+| style="background:lightblue"|9
+| 4
+| style="background:#fceca2"|5
+| 2
+| -
+| 3
+| -
+| 4
+| -
+| -
+| {{Celda|N/A}}
+| 20
+| 30
+| 1
+|-
+|Ipsos Perú/El Comercio<ref name=jun-may/>
+| 10–12 April 2019
+| 1,212
+| style="background:lightgreen"|'''17'''
+| 4
+| -
+| style="background:lightblue"|8
+| 4
+| style="background:#fceca2"|6
+| 2
+| -
+| 3
+| -
+| 5
+| -
+| -
+| 4
+| 17
+| 32
+| 2
+|-
+|Ipsos Perú/El Comercio<ref name=jun-may/>
+| 13–15 March 2019
+| 1,218
+| style="background:lightgreen"|'''13'''
+| -
+| -
+| style="background:lightblue"|9
+| 5
+| style="background:#fceca2"|8
+| 3
+| -
+| 3
+| -
+| 7
+| -
+| -
+| 4
+| 16
+| 31
+| 1
+|-
+|Ipsos Perú/El Comercio<ref name=jun-may/>
+| 13–15 February 2019
+| 1,199
+| -
+| -
+| -
+| style="background:lightgreen"|'''11'''
+| style="background:lightblue"|8
+| style="background:#fceca2"|7
+| 4
+| -
+| 3
+| -
+| -
+| -
+| -
+| 4
+| 24
+| 48
+| 1
+|-
+|Ipsos Perú/El Comercio<ref name=jun-may/>
+| 16–18 January 2019
+| 1,213
+| -
+| 2
+| -
+| style="background:lightgreen"|'''9'''
+| style="background:#fceca2"|6
+| style="background:lightblue"|8
+| 4
+| -
+| 4
+| -
+| -
+| -
+| -
+| 4
+| 18
+| 44
+| 1
+|-
+| Ipsos Perú/El Comercio<ref name=jun-may/>
+| 12–14 December 2018
+| 1,316
+| -
+| 2
+| -
+| style="background:lightgreen"|'''10'''
+| style="background:#fceca2"|7
+| style="background:lightblue"|9
+| 5
+| -
+| 3
+| -
+| -
+| -
+| -
+| 3
+| 16
+| 44
+| 1
+|-
+|Ipsos Perú/El Comercio<ref name=jun-may/>
+| 14–16 November 2018
+| 1,284
+| -
+| 3
+| -
+| style="background:lightgreen"|'''11'''
+| style="background:lightblue"|8
+| style="background:lightblue"|8
+| 5
+| -
+| style="background:#fceca2"|4
+| -
+| -
+| -
+| -
+| 3
+| 21
+| 35
+| 2
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2018-10/opinion_data_octubre_2018.pdf|title=Opinión Data - 15 de Octubre del 2018|date=16 October 2018|website=ipsos.com}}</ref>
+| 10–11 October 2018
+| 1,253
+| -
+| 4
+| -
+| style="background:lightgreen"|'''10'''
+| style="background:lightblue"|7
+| style="background:lightgreen"|'''10'''
+| 5
+| -
+| style="background:#fceca2"|6
+| -
+| -
+| -
+| -
+| 5
+| 17
+| 34
+| 2
+|-
+|Ipsos Perú/El Comercio<ref name=jun-may/>
+| 15–16 August 2018
+| 1,266
+| -
+| 3
+| -
+| style="background:lightgreen"|'''13'''
+| style="background:#fceca2"|8
+| style="background:lightblue"|11
+| 5
+| -
+| 4
+| -
+| -
+| -
+| -
+| 5
+| 14
+| 35
+| 2
+|-
+|CPI/Exitosa<ref>{{cite web|url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac_vizcarra_gobierno_peru_201808.pdf|title=Los cuatro primeros meses del Gobierno del presidente Martín Vizcarra - Nacional Urbano y Rural|date=7 August 2018|website=cpi.pe}}</ref>
+| 3–7 August 2018
+| 1,400
+| -
+| -
+| -
+| style="background:lightblue"|8.4
+| 6.4
+| style="background:lightgreen"|'''12.5'''
+| style="background:#fceca2"|6.8
+| -
+| 3.9
+| 1.4
+| -
+| -
+| -
+| 1.5
+| 8.5
+| 43.8
+| 6.8
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url =https://www.ipsos.com/sites/default/files/ct/news/documents/2018-07/opinion-data-julio-2018.pdf|title=Opinión Data - 16 de Julio del 2018 |date=16 July 2018|website=ipsos.com}}</ref>
+| 11–13 July 2018
+| 1,278
+| -
+| 3
+| -
+| style="background:lightgreen"|'''17'''
+| style="background:#fceca2"|8
+| style="background:lightblue"|12
+| 6
+| -
+| 4
+| -
+| -
+| -
+| -
+| 4
+| 17
+| 26
+| 3
+|-
+|CPI/Exitosa<ref>{{cite web|url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac_evaluacion_100_dias_vizcarra_presidente_peru_201807.pdf|title=Los 100 primeros días de la gestión del presidente del Perú, Sr. Martín Vizcarra - Nacional Urbano y Rural |date=5 July 2018|website=cpi.pe}}</ref>
+| 1–5 July 2018
+| 1,400
+| -
+| -
+| -
+| style="background:lightgreen"|'''11.9'''
+| 6.3
+| style="background:lightblue"|10.8
+| style="background:#fceca2"|7.4
+| -
+| 4.2
+| 2.5
+| -
+| -
+| -
+| 1.4
+| 7.8
+| 40.0
+| 7.7
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2018-06/opinion_data_-_11_de_junio_del_2018.pdf |title=Opinión Data - 11 de Junio del 2018|date=11 June 2018|website=ipsos.com}}</ref>
+| 6–8 June 2018
+| 1,290
+| -
+| 2
+| -
+| style="background:lightgreen"|'''15'''
+| style="background:#fceca2"|8
+| style="background:lightblue"|12
+| 5
+| -
+| 6
+| 5
+| -
+| -
+| -
+| 3
+| 12
+| 31
+| 1
+|-
+|CPI/Exitosa<ref>{{cite web|url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac_evaluacion_vizcarra_presidente_peru_201805.pdf|title=Evaluación de la gestión del presidente del Perú, Sr. Martín Vizcarra (A los dos meses de su gestión) - Nacional Urbano y Rural |date=23 May 2018|website=cpi.pe}}</ref>
+| 19–23 May 2018
+| 1,400
+| -
+| -
+| -
+| style="background:lightgreen"|'''14.8'''
+| 6.1
+| style="background:lightblue"|12.3
+| style="background:#fceca2"|7.5
+| -
+| 3.9
+| 2.3
+| -
+| -
+| -
+| 2.7
+| 8.1
+| 35.6
+| 6.7
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2018-05/opinion-data-mayo-2018.pdf|title=Opinión Data - 15 de Mayo del 2018|date=15 May 2018|website=ipsos.com}}</ref>
+| 9–11 May 2018
+| 1,279
+| -
+| 4
+| -
+| style="background:lightgreen"|'''18'''
+| style="background:#fceca2"|6
+| style="background:lightblue"|9
+| 5
+| -
+| 4
+| 4
+| -
+| -
+| -
+| 5
+| 14
+| 30
+| 1
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2018-04/Opinion-Data-Abril-2018.pdf|title=Opinión Data - 17 de Abril del 2018|date=17 April 2018|website=ipsos.com}}</ref>
+| 10–12 April 2018
+| 1,289
+| -
+| -
+| -
+| style="background:lightgreen"|'''15'''
+| style="background:#fceca2"|11
+| style="background:lightblue"|14
+| 8
+| -
+| 6
+| 5
+| -
+| -
+| -
+| 3
+| 8
+| 25
+| 5
+|-
+|CPI/Exitosa<ref>{{cite web|url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac_peru_elecciones_presidente_201804.pdf|title=Elecciones Presidenciales 2021 - Estudio de Opinión Pública a nivel Nacional Urbano y Rural|date=31 March 2018|website=cpi.pe}}</ref>
+| 27–31 March 2018
+| 1,400
+| -
+| -
+| -
+| style="background:lightgreen"|'''15.8'''
+| 6.0
+| style="background:lightblue"|13.1
+| style="background:#fceca2"|9.8
+| -
+| 4.9
+| 5.8
+| -
+| -
+| -
+| 1.4
+| 7.3
+| 29.6
+| 6.3
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2018-03/opinion-data-marzo-2018.pdf|title=Opinión Data - 12 de Marzo del 2018|date=12 March 2018|website=ipsos.com}}</ref>
+| 7–9 March 2018
+| 1,264
+| -
+| -
+| -
+| style="background:lightgreen"|'''17'''
+| 9
+| style="background:lightblue"|16
+| 6
+| -
+| 3
+| style="background:#fceca2"|10
+| -
+| -
+| -
+| 2
+| 7
+| 25
+| 5
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2018-02/opinion-data-febrero-2018.pdf|title=Opinión Data - 12 de Febrero del 2018 |date=12 February 2018|website=ipsos.com}}</ref>
+| 7–9 February 2018
+| 1,263
+| -
+| -
+| -
+| style="background:lightgreen"|'''21'''
+| 8
+| style="background:lightblue"|13
+| 5
+| -
+| 4
+| style="background:#fceca2"|11
+| -
+| -
+| -
+| 3
+| 6
+| 17
+| 12
+|-
+|CPI/Exitosa<ref>{{cite web|url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac_ppk_politica_indulto_fujimori_201802.pdf|title=Keiko - Kenji, Indulto al expresidente Alberto Fujimori e Imagen de personajes y políticos - Estudio de Opinión Pública a nivel Nacional Urbano y Rural |date=9 February 2018|website=cpi.pe}}</ref>
+| 4–9 February 2018
+| 1,500
+| -
+| -
+| -
+| style="background:lightgreen"|'''21.3'''
+| 6.8
+| style="background:lightblue"|11.5
+| 6.3
+| -
+| 4.6
+| style="background:#fceca2"|10.4
+| -
+| -
+| -
+| 2.4
+| 6.9
+| 24.8
+| 5.0
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2018-01/opinion-data-enero-2018.pdf|title=Opinión Data - 15 de Enero del 2018|date=16 January 2018|website=ipsos.com}}</ref>
+| 10–12 January 2018
+| 1,271
+| -
+| -
+| -
+| style="background:lightgreen"|'''20'''
+| 8
+| style="background:lightblue"|13
+| 5
+| -
+| 5
+| style="background:#fceca2"|12
+| -
+| -
+| -
+| 3
+| 6
+| 25
+| 3
+|-
+|Datum/Perú 21/Gestión<ref>{{cite web|url=http://admin.datum.com.pe/datum/descarga/20180115142527.pdf|title=Encuesta de opinión pública a nivel nacional - Enero 2018 |date=12 January 2018|website=datum.com.pe}}</ref>
+| 5–9 January 2018
+| 1,200
+| -
+| -
+| -
+| style="background:lightgreen"|'''24'''
+| style="background:#fceca2"|8
+| style="background:lightblue"|15
+| style="background:#fceca2"|8
+| -
+| 2
+| -
+| -
+| -
+| -
+| 3
+| 4
+| 26
+| 10
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2017-12/opinion-data-diciembre-2017.pdf |title=Opinión Data - 18 de Diciembre del 2017|date=18 December 2017|website=ipsos.com}}</ref>
+| 13–15 December 2017
+| 1,287
+| -
+| -
+| -
+| style="background:lightgreen"|'''27'''
+| style="background:#fceca2"|9
+| style="background:lightblue"|10
+| 5
+| -
+| 3
+| 7
+| -
+| -
+| -
+| 3
+| 6
+| 27
+| 3
+|-
+|}
+
+== Congressional election ==
+''The following graph shows the weighted polls, and does not include voting simulations.''
+{{graph
+|width=900
+|height=300
+|xAxisTitle=Dates
+|yAxisTitle=Percentages
+|legend=Parties
+|type=line
+|interpolate=monotone
+|xType=date
+|xAxisMax=1618019000000
+|yAxisMin=0
+|showSymbols=2
+|xGrid=2
+|yGrid=0.5
+|x=2020/12/8,2020/12/11,2021/1/12,2021/1/15,2021/1/25,2021/1/27,2021/2/11,2021/2/17,2021/2/20,2021/2/21,2021/2/28,2021/3/6,2021/3/9,2021/3/13,2021/3/14,2021/3/15,2021/3/23,2021/3/30,2021/4/4,2021/4/5 
+|y1Title=Popular Action (AP)
+|y1=4.1,8,11,9,4.6,3.3,9,15,6.2,4.7,12.5,9.8,11,13.2,15,8.6,14,13.5,9.1,11 
+|y2Title=Purple Party (PM)
+|y2=12.9,12,7,8,3.6,5.7,7,7,3,2.4,8.4,3.4,6,5.5,4,2.1,5,4.6,5.5,4 
+|y3Title=Popular Force (FP)
+|y3=3.3,6,6,7,3.7,2.5,8,6,5.6,4.8,5.5,9.6,5,7.6,6,4.7,6,7.2,6.4,9 
+|y4Title=We Are Peru (PDSP)
+|y4=8.3,3,5,5,5.5,4.9,7,5,8.1,4.4,9.5,4.8,6,8.4,6,8,7,10.4,6.7,5 
+|y5Title=Alliance for Progress (APP)
+|y5=1.4,3,3,5,2.3,1.6,5,5,2.4,2.5,3.9,8.6,2,5.5,5,3.2,5,4.3,5,4 
+|y6Title=Together for Peru (JPP)
+|y6=0.8,4,1,5,3,1,5,3,1.6,2.7,4,3.8,3,4.2,4,3.6,5,5.5,4,7 
+|y7Title=Agricultural People's Front (FREPAP)
+|y7=2.9,5,4,4,4.1,2.4,5,6,3.8,2.2,8.3,7.8,8,7,5,6.6,8,7.5,6.5,4 
+|y8Title=National Victory (VN)
+|y8=0.8,6,0.5,4,4.1,0.9,3,1.5,1.4,3.3,2,4.4,2,2.6,6,2.9,4,4,3.3,6 
+|y9Title=Go on Country (AvP)
+|y9=0.3,2,1,2,1.6,0.9,3,1.1,2,1.2,3.6,3,3,3.3,3,1.3,2,5.4,5.2,6 
+|y10Title=Podemos Perú (PP)
+|y10=1.2,1,2,2,3,1.9,4,3,2.6,2.5,4.7,3,3,3.8,4,2.3,4,4.4,3.8,4 
+|y11Title=Christian People's Party (PPC)
+|y11=0.7,2,0.5,2,0.7,0.6,2,2,1.8,0.8,1.7,1.8,1,1,2,1,1,1.7,1.9,2 
+|y12Title=Popular Renewal (RP)
+|y12=0.2,1,1,1,0.4,0.8,2,1.2,4,1,3.5,6.2,4,6,4,2.4,5,5.7,5.2,4 
+|y13Title=Free Peru (PL)
+|y13=0.3,1,0.9,1,0.3,0.5,2,1.2,0.5,0.6,2.1,1,1,1.8,2,2.7,1,2.4,3.9,4 
+|y14Title=Broad Front (FA)
+|y14=0.8,2,2,2,0.8,0.3,1,1,0.3,0.5,1.2,1.2,1,2,2,1.2,1,1.5,0.9,1 
+|y15Title=Nationalist Party (PNP)
+|y15=0.1,1,0.6,2,0.7,0.7,1,0.8,0.2,0.6,1.5,1.1,1,0.5,2,1,1,0.3,1,2 
+|colors=black,#7026A8,#FF8000,darkblue,#1155cc,#00FF00,250D6A,#EE204E,#FF1493,#E09540,#008000,#00BFFF,#C00A0A,#49b848,#E34234 
+}}
+
+===Voting simulations===
+{| class="wikitable" style="text-align:center; font-size:95%; line-height:16px;"
+! style="width:175px;" |<small>Pollster</small>
+! style="width:95px;" |<small>Date</small>
+! style="width:50px;" |<small>Sample size</small>
+! style="width:50px;" |[[File:Partido Político Nacional Perú Libre.png|30px|link=Free Peru]]<br/><small>'''PL'''</small>
+! style="width:50px;" |[[File:Fuerza popular.svg|30px|link=Popular Force]]<br/><small>'''FP'''</small>
+! style="width:50px;" |[[File:Logo de Renovación Popular (Perú).png|25px|link=Popular Renewal]]<br/><small>'''RP'''</small>
+! style="width:50px;" |[[File:Acción_Popular.png|30px|link=Popular Action (Peru)]]<br/><small>'''AP'''</small>
+! style="width:50px;" |[[File:Alianza para el Progreso Peru.svg|30px|link=Alliance for Progress (Peru)]]<br/><small>'''APP'''</small>
+! style="width:50px;" |[[Go on Country – Social Integration Party|AvP]]<br/><small>'''AvP'''</small>
+! style="width:50px;" |[[File:Logo juntos por el Peru.svg|25px|link=Together for Peru]]<br/><small>'''JPP'''</small>
+! style="width:50px;" |[[File:Logo Partido Democrático Somos Perú.svg|30px|link=We Are Peru]]<br/><small>'''PDSP'''</small>
+! style="width:50px;" |[[File:Logo Podemos Perú.png|30px|link=Podemos Perú]]<br/><small>'''PP'''</small>
+! style="width:50px;" |[[File:Partido_Morado_logo.svg|25px|link=Purple Party]]<br/><small>'''PM'''</small>
+! style="width:50px;" |[[File:Victoria Nacional logo.svg|30px|link=National Victory]]<br/><small>'''VN'''</small>
+! style="width:50px;" |[[Agricultural People's Front of Peru|FREPAP]]<br/><small>'''FREPAP'''</small>
+! style="width:50px;" |[[File:No image.png|30px|link=Union for Peru]]<br/><small>'''UPP'''</small>
+! style="width:50px;" |[[File:Logo Oficial PPC.png|30px|link=Christian People's Party (Peru)]]<br/><small>'''PPC'''</small>
+! style="width:50px;" |[[File:Logo - Partido Nacionalista Peruano.svg|30px|link=Peruvian Nationalist Party]]<br/><small>'''PNP'''</small>
+! style="width:50px;" |[[File:Logo-frente-amplio-Peru-alt.svg|30px|link=Broad Front (Peru)]]<br/><small>'''FA'''</small>
+! style="width:50px;" |[[File:No image.png|30px|link=Direct Democracy (Peru)]]<br/><small>'''DD'''</small>
+! style="width:50px;" |[[File:No image.png|30px|link=National United Renaissance]]<br/><small>'''RUNA'''</small>
+! style="width:50px;" |[[File:Logo Perú patria segura.svg|30px|link=Peru Secure Homeland]]<br/><small>'''PPS'''</small>
+! style="width:50px;" |<br/><small>'''Contigo'''</small>
+! style="width:50px;" |<small>Blank / None</small>
+|-
+| colspan="23" style="background:#A0A0A0"|
+|- 
+|'''Election results'''
+|11 April 2021| 11 April 2021
+|{{Celda|N/A}}
+| style="background:lightgreen" |'''13.4'''
+|align="center" style="background:lightblue" |'''11.3'''
+|align="center" style="background:#fceca2"|'''9.3'''
+|9.0
+|7.5
+|7.5
+|6.6
+|6.1
+|5.8
+|5.4
+|5.0
+|4.6
+|2.1
+|1.7
+|1.5
+|1.1
+|0.8
+|0.8
+|0.4
+|0.1
+|{{Celda|N/A}}
+|-
+| colspan="23" style="background:#A0A0A0"|
+|-
+|CPI/Latina<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/SIMULACRO_ELECCIONES_ABRIL_I.pdf|title=Simulación de votación con uso de cédula y ánfora: Elecciones Generales 2021|date=4 April 2021|website=cpi.pe|last=CPI}}</ref><br/>{{small|(Valid votes)}}
+|30 March–1 April 2021
+|1,600
+|7
+|align="center" style="background:#fceca2"|'''8.4'''
+|5.7
+| style="background:lightgreen" |'''17.8'''
+|6.1
+|6.4
+|7.8
+|8
+|3.7
+|5.2
+|5.7
+|align="center" style="background:lightblue" |'''9.3'''
+|2.2
+|2.1
+|1.4
+|1.4
+|0.6
+|0.6
+|0.5
+|0.0
+|{{Celda|N/A}}
+|-
+|CPI/Latina<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/SIMULACRO_ELECCIONES_ABRIL_I.pdf|title=Simulación de votación con uso de cédula y ánfora: Elecciones Generales 2021|date=4 April 2021|website=cpi.pe|last=CPI}}</ref><br/>{{small|(Cast votes)}}
+|30 March–1 April 2021
+|1,600
+|3.9
+|align="center" style="background:#fceca2"|'''4.7'''
+|3.2
+| style="background:lightgreen" |'''10'''
+|3.4
+|3.6
+|4.4
+|4.5
+|2.1
+|2.9
+|3.2
+|align="center" style="background:lightblue" |'''5.2'''
+|1.2
+|1
+|0.8
+|0.8
+|0.4
+|0.5
+|0.3
+|0.0
+|43.9
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://elcomercio.pe/elecciones-2021/elecciones-2021-un-congreso-mas-fragmentado-ipsos-peru-simulacro-de-votacion-noticia/|title=Elecciones 2021: Un Congreso más fragmentado|date=4 April 2021|website=elcomercio.pe|first=Jonathan Castro|last=El Comercio}}</ref><br/>{{small|(Valid votes)}}
+|31 March 2021
+|1,526
+|5.9
+|align="center" style="background:lightblue" |'''10.5'''
+|6
+| style="background:lightgreen" |'''13.2'''
+|5.5
+|align="center" style="background:#fceca2"|'''9.3'''
+|align="center" style="background:#fceca2"|'''9.3'''
+|5.9
+|5.2
+|5.7
+|8.3
+|5
+|1.7
+|1.9
+|1.4
+|1.4
+|0.8
+|0.2
+|0.3
+|0.0
+|{{Celda|N/A}}
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://elcomercio.pe/elecciones-2021/elecciones-2021-un-congreso-mas-fragmentado-ipsos-peru-simulacro-de-votacion-noticia/|title=Elecciones 2021: Un Congreso más fragmentado|date=4 April 2021|website=elcomercio.pe|first=Jonathan Castro|last=El Comercio}}</ref><br/>{{small|(Cast votes)}}
+|31 March 2021
+|1,526
+|4.1
+|align="center" style="background:lightblue" |'''7.2'''
+|4.1
+| style="background:lightgreen" |'''10.7'''
+|3.8
+|align="center" style="background:#fceca2"|'''6.4'''
+|align="center" style="background:#fceca2"|'''6.4'''
+|4.1
+|3.6
+|3.9
+|5.7
+|3.4
+|1.2
+|1.3
+|0.9
+|1
+|0.6
+|0.1
+|0.2
+|0.0
+|31.4
+|-
+|CIT/Expreso<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-cit-03-abril-2021/|title= Encuesta Presidencial, CIT – 03 Abril 2021|date=1 April 2021|website=encuestas.com.pe|first=|last=}}</ref><br/>{{small|(Valid votes)}}
+|30 March–1 April 2021
+|1,600
+|4
+|7.9
+|align="center" style="background:lightblue" |'''10.8'''
+| style="background:lightgreen" |'''13.3'''
+|6.5
+|9.3
+|6.3
+|8.9
+|5.3
+|6.7
+|align="center" style="background:#fceca2"|'''9.7'''
+|3.6
+|0.7
+|1.4
+|2.4
+|0.9
+|0.6
+|0.6
+|1.1
+|0.0
+|{{Celda|N/A}}
+|-
+|CIT/Expreso<ref>{{cite web|url=https://encuestas.com.pe/encuesta-presidencial-cit-03-abril-2021/|title= Encuesta Presidencial, CIT – 03 Abril 2021|date=1 April 2021|website=encuestas.com.pe|first=|last=}}</ref><br/>{{small|(Cast votes)}}
+|30 March–1 April 2021
+|1,600
+|2
+|4
+|align="center" style="background:lightblue" |'''5.4'''
+| style="background:lightgreen" |'''6.7'''
+|3.3
+|4.7
+|3.2
+|4.5
+|2.7
+|3.4
+|align="center" style="background:#fceca2"|'''4.9'''
+|1.8
+|0.4
+|0.7
+|1.2
+|0.4
+|0.3
+|0.3
+|0.6
+|0.0
+|49.6
+|-
+|Datum/Perú 21/Gestión<ref name="Estos son los diez partidos polític">{{cite web|url=https://gestion.pe/peru/politica/elecciones-generales-congreso-valla-electoral-datum-estos-son-los-diez-partidos-politicos-que-pasarian-la-valla-electoral-noticia/|title=Estos son los diez partidos políticos que pasarían la valla electoral|date=1 April 2021|website=gestion.pe|first=Whitney Miñán|last=Gestión}}</ref><br/>{{small|(Valid votes)}}
+|27–29 March 2021
+|1,206
+|4.2
+|align="center" style="background:lightblue" |'''12.1'''
+|7.8
+| style="background:lightgreen" |'''18.6'''
+|5.8
+|5.9
+|align="center" style="background:#fceca2"|'''9.5'''
+|6.5
+|6.9
+|6.2
+|7.1
+|1.6
+|2
+|1.5
+|0.7
+|1.3
+|0.4
+|0.6
+|0.5
+|0.0
+|{{Celda|N/A}}
+|-
+|Datum/Perú 21/Gestión<ref name="Estos son los diez partidos polític"/><br/>{{small|(Cast votes)}}
+|27–29 March 2021
+|1,206
+|1.8
+|align="center" style="background:lightblue" |'''5.2'''
+|3.3
+| style="background:lightgreen" |'''8'''
+|2.5
+|2.5
+|align="center" style="background:#fceca2"|'''4.4'''
+|2.8
+|2.9
+|2.6
+|3
+|0.7
+|0.9
+|0.6
+|0.3
+|0.5
+|0.2
+|0.2
+|0.2
+|0.0
+|57.3
+|-
+|Ipsos Perú/El Comercio<ref name="El Comercio"/><br/>{{small|(Valid votes)}}
+|10–11 March 2021
+|1,206
+|3.1
+|8.8
+|align="center" style="background:#fceca2"|'''9.5'''
+| style="background:lightgreen" |'''20.8'''
+|4.4
+|3.7
+|6.2
+|7.4
+|6.7
+|5.3
+|align="center" style="background:lightblue" |'''9.9'''
+|6.3
+|0.8
+|2.3
+|1.6
+|1.9
+|0.4
+|0.2
+|0.7
+|0.0
+|{{Celda|N/A}}
+|-
+|Ipsos Perú/El Comercio<ref name="El Comercio"/><br/>{{small|(Cast votes)}}
+|10–11 March 2021
+|1,206
+|1.9
+|5.6
+|align="center" style="background:#fceca2"|'''6'''
+| style="background:lightgreen" |'''13.2'''
+|2.8
+|2.4
+|3.9
+|4.7
+|4.3
+|3.3
+|align="center" style="background:lightblue" |'''6.3'''
+|4
+|0.5
+|1.5
+|1
+|1.2
+|0.3
+|0.1
+|0.5
+|0.0
+|36.5
+|-
+|}
+
+===Electoral polls===
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px;"
+! style="width:175px;"| <small>Pollster</small>
+! style="width:95px;"| <small>Date</small>
+! style="width:50px;" | <small>Sample size</small>
+! style="width:50px;" | [[File:Partido Político Nacional Perú Libre.png|30px|link=Free Peru]]<br/><small>'''PL'''</small>
+! style="width:50px;" | [[File:Fuerza popular.svg|30px|link=Popular Force]]<br/><small>'''FP'''</small>
+! style="width:50px;" | [[File:Logo de Renovación Popular (Perú).png|25px|link=Popular Renewal]]<br/><small>'''RP'''</small>
+! style="width:50px;" | [[File:Acción_Popular.png|30px|link=Popular Action (Peru)]]<br/><small>'''AP'''</small>
+! style="width:50px;" | [[File:Alianza para el Progreso Peru.svg|30px|link=Alliance for Progress (Peru)]]<br/><small>'''APP'''</small>
+! style="width:50px;" | [[Go on Country – Social Integration Party|AvP]]<br/><small>'''AvP'''</small>
+! style="width:50px;" | [[File:Logo juntos por el Peru.svg|25px|link=Juntos por el Perú]]<br/><small>'''JPP'''</small>
+! style="width:50px;" | [[File:Logo Partido Democrático Somos Perú.svg|30px|link=We Are Peru]]<br/><small>'''PDSP'''</small>
+! style="width:50px;" | [[File:Logo Podemos Perú.png|30px|link=Podemos Perú]]<br/><small>'''PP'''</small>
+! style="width:50px;" | [[File:Partido_Morado_logo.svg|25px|link=Purple Party]]<br/><small>'''PM'''</small>
+! style="width:50px;" | [[File:Victoria Nacional logo.svg|30px|link=National Victory]]<br/><small>'''VN'''</small>
+! style="width:50px;" | [[Agricultural People's Front of Peru|FREPAP]]<br/><small>'''FREPAP'''</small>
+! style="width:50px;" | [[File:Logo Oficial PPC.png|30px|link=Christian People's Party (Peru)]]<br/><small>'''PPC'''</small>
+! style="width:50px;" | [[File:Logo - Partido Nacionalista Peruano.svg|30px|link=Peruvian Nationalist Party]]<br/><small>'''PNP'''</small>
+! style="width:50px;" | [[File:Logo-frente-amplio-Peru-alt.svg|30px|link=Broad Front (Peru)]]<br/><small>'''FA'''</small>
+! style="width:50px;" |<small>Other</small>
+! style="width:50px;" |<small>Blank / None</small>
+! style="width:50px;" |<small>Undecided</small>
+|-
+| colspan="21" style="background:#A0A0A0"|
+|- style="background-color:#BEBEBE;"
+| '''Election results'''
+| 11 April 2021
+| {{Celda|N/A}}
+|align="center" style="background:lightgreen"|'''13.4'''
+|align="center" style="background:lightblue"|'''11.3'''
+|align="center" style="background:#fceca2"|'''9.3'''
+| 9.0
+| 7.5
+| 7.5
+| 6.6
+| 6.1
+| 5.8
+| 5.4
+| 5.0
+| 4.6
+| 1.7
+| 1.5
+| 1.1
+| 4.1
+| {{Celda|N/A}}
+| {{Celda|N/A}}
+|-
+| colspan="21" style="background:#A0A0A0"|
+|-
+| IEP/La República<ref>{{cite web|url=https://larepublica.pe/elecciones/2021/04/04/congreso-baja-apoyo-a-accion-popular-y-somos-peru-mas-votos-en-blanco-o-nulo-pltc/|title=Congreso: baja apoyo a Acción Popular y Somos Perú, más votos en blanco o nulo|date=4 April 2021|website=larepublica.pe}}</ref>{{refn|name=tarj|group=lower-alpha}}
+| 1–2 April 2021
+| 1,215
+| 3.9
+| 6.4
+| 5.2
+|align="center" style="background:lightgreen"|'''9.1'''
+| 5
+| 5.2
+| 4
+|align="center" style="background:lightblue"|'''6.7'''
+| 3.8
+| 5.5
+| 3.3
+|align="center" style="background:#fceca2"|'''6.5'''
+| 1.9
+| 1
+| 0.9
+| 2.3
+| 22.7
+| 6.5
+|-
+|Ipsos Perú/El Comercio<ref>{{cite web|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2021-04/1._simulacro_de_voto_nacional_urbano_rural_al_31_de_marzo_2021_encuesta_nacional_urbano_rural_31_de_marzo.pdf|title=Intención de Voto Congresal - Abril 2021|date=4 April 2021|website=ipsos.pe|last=Ipsos Perú}}</ref>
+|31 March 2021
+|1,206
+| 4
+|align="center" style="background:lightblue"|'''9'''
+| 4
+|align="center" style="background:lightgreen"|'''11'''
+| 4
+| 6
+|align="center" style="background:#fceca2"|'''7'''
+| 5
+| 4
+| 4
+| 6
+| 4
+| 2
+| 2
+| 1
+| 2
+| 10
+| 15
+|-
+| IEP/La República<ref>{{cite web|url=https://larepublica.pe/elecciones/2021/03/30/accion-popular-y-somos-peru-los-mas-favorecidos-para-el-congreso-pltc/|title=Acción Popular y Somos Perú, los más favorecidos para el Congreso|date=30 March 2021|website=larepublica.pe}}</ref>{{refn|name=tarj|group=lower-alpha}}
+| 22–25 March 2021
+| 1,220
+| 2.4
+| 7.2
+| 5.7
+|align="center" style="background:lightgreen"|'''13.5'''
+| 4.3
+| 5.4
+| 5.5
+|align="center" style="background:lightblue"|'''10.4'''
+| 4.4
+| 4.6
+| 4
+|align="center" style="background:#fceca2"|'''7.5'''
+| 1.7
+| 0.3
+| 1.5
+| 2.7
+| 11.9
+| 7
+|-
+| Datum/Perú 21/Gestión<ref>{{cite web|url=https://peru21.pe/politica/elecciones-2021-tres-candidatos-se-mantienen-en-pugna-por-el-segundo-lugar-encuesta-datum-elecciones-2021-yonhy-lescano-rafael-lopez-aliaga-george-forsyth-keiko-fujimori-noticia/|title=Elecciones 2021: Tres candidatos se mantienen en pugna por el segundo lugar|date=23 March 2021|website=gestion.pe}}</ref>
+| 18–21 March 2021
+| 1,201
+| 1
+| 6
+| 5
+|align="center" style="background:lightgreen"|'''14'''
+| 5
+| 2
+| 5
+|align="center" style="background:#fceca2"|'''7'''
+| 4
+| 5
+| 4
+|align="center" style="background:lightblue"|'''8'''
+| 1
+| 1
+| 1
+| 5
+| 9
+| 17
+|-
+| CPI/Latina<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/CPI%20OP%2014%20Marzo.pdf|title=Estudio de Opinión Pública Marzo 2021|date=15 March 2021|website=cpi.pe}}</ref>
+| 6–11 March 2021
+| 1,300
+| 2.7
+| 4.7
+| 2.4
+|align="center" style="background:lightgreen"|'''8.6'''
+| 3.2
+| 1.3
+| 3.6
+|align="center" style="background:lightblue"|'''8'''
+| 2.3
+| 2.1
+| 2.9
+|align="center" style="background:#fceca2"|'''6.6'''
+| 1
+| 1
+| 1.2
+| 1.3
+| 19.5
+| 28.7
+|-
+|Ipsos Perú/El Comercio<ref name="El Comercio"/>
+|10–11 March 2021
+|1,206
+| 2
+|align="center" style="background:lightblue"|'''6'''
+|align="center" style="background:#fceca2"|'''5'''
+|align="center" style="background:lightgreen"|'''15'''
+| 4
+| 3
+| 4
+|align="center" style="background:lightblue"|'''6'''
+| 4
+| 4
+|align="center" style="background:lightblue"|'''6'''
+|align="center" style="background:#fceca2"|'''5'''
+| 2
+| 2
+| 2
+| 4
+| 13
+| 13
+|-
+| IEP/La República<ref>{{cite web|url=https://larepublica.pe/elecciones/2021/03/14/encuesta-iep-yonhy-lescano-favorito-en-segunda-vuelta-y-un-congreso-atomizado-pltc/|title=Encuesta IEP: Yonhy Lescano favorito en segunda vuelta y un Congreso atomizado|date=13 March 2021|website=larepublica.pe}}</ref>{{refn|name=tarj|group=lower-alpha}}
+| 4–8 March 2021
+| 1,220
+| 1.8
+|align="center" style="background:#fceca2"|'''7.6'''
+| 6
+|align="center" style="background:lightgreen"|'''13.2'''
+| 5.5
+| 3.3
+| 4.2
+|align="center" style="background:lightblue"|'''8.4'''
+| 3.8
+| 5.5
+| 2.6
+| 7
+| 1
+| 0.5
+| 2
+| 4.9
+| 0.8
+| 23.7
+|-
+| Datum/Perú 21/Gestión<ref>{{cite web|url=https://gestion.pe/peru/politica/encuestas-yonhy-lescano-rafael-lopez-aliaga-george-forsyth-keiko-fujimori-lescano-repunta-mientras-lopez-aliaga-forsyth-y-fujimori-empatan-en-segundo-lugar-elecciones-2021-onpe-datum-noticia/?ref=gesr|title=Lescano repunta, mientras López Aliaga, Forsyth y Fujimori empatan en segundo lugar|date=9 March 2021|website=gestion.pe}}</ref>
+| 5–7 March 2021
+| 1,200
+| 1
+| 5
+| 4
+|align="center" style="background:lightgreen"|'''11'''
+| 2
+| 3
+| 3
+|align="center" style="background:#fceca2"|'''6'''
+| 3
+|align="center" style="background:#fceca2"|'''6'''
+| 2
+|align="center" style="background:lightblue"|'''8'''
+| 1
+| 1
+| 1
+| 6
+| 11
+| 26
+|-
+| IDICE/La Razón<ref name="encuestas.com.pe"/>
+|3–5 March 2021
+|1,200
+| 1.8
+|align="center" style="background:lightblue"|'''9.6'''
+| 6.2
+|align="center" style="background:lightgreen"|'''9.8'''
+|align="center" style="background:#fceca2"|'''8.6'''
+| 3
+| 3.8
+| 4.8
+| 3
+| 3.4
+| 4.4
+| 7.8
+| 1
+| 1.1
+| 1.2
+| 1.5
+| 8.2
+| 20.7
+|-
+| IEP/La República<ref name="larepublica.pe"/>{{refn|name=tarj|group=lower-alpha}}
+|19–23 February 2021
+| 1,220
+| 2.1
+| 5.5
+| 3.5
+|align="center" style="background:lightgreen"|'''12.5'''
+| 3.9
+| 3.6
+| 4
+|align="center" style="background:lightblue"|'''9.5'''
+| 4.7
+|align="center" style="background:#fceca2"|'''8.4'''
+| 2
+| 8.3
+| 1.7
+| 1.5
+| 1.2
+| 4.2
+| 1.1
+| 22.3
+|-
+| CPI/Correo<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/CPI%20OP%20Febrero%202021.pdf|title=Estudio de Opinión Pública Febrero 2021|date=21 February 2021|website=cpi.pe}}</ref>
+| 17–19 February 2021
+| 1,200
+| 0.6
+|align="center" style="background:lightgreen"|'''4.8'''
+| 1
+|align="center" style="background:lightblue"|'''4.7'''
+| 2.5
+| 1.2
+| 2.7
+|align="center" style="background:#fceca2"|'''4.4'''
+| 2.5
+| 2.4
+| 3.3
+| 2.2
+| 0.8
+| 0.6
+| 0.5
+| 1
+| 20.6
+| 44.2
+|-
+| Datum/Perú 21/Gestión<ref>{{cite web|url=https://gestion.pe/peru/datum-solo-el-18-de-los-peruanos-ya-decidio-por-quien-votara-en-abril-peru-noticia/|title=Solo el 18% de los peruanos ya decidió por quién votará en abril|date=17 February 2021|website=gestion.pe}}</ref>
+| 9–12 February 2021
+| 1,200
+| 1.2
+|align="center" style="background:#fceca2"|'''6'''
+| 1.2
+|align="center" style="background:lightgreen"|'''15'''
+| 5
+| 1.1
+| 3
+| 5
+| 3
+|align="center" style="background:lightblue"|'''7'''
+| 1.5
+|align="center" style="background:#fceca2"|'''6'''
+| 2
+| 0.8
+| 1
+| 9.9
+| 10
+| 24
+|-
+| Ipsos Perú/El Comercio<ref name="Encuesta El Comercio-Ipsos: Yonhy Lescano crece, mientras George Forsyth y Julio Guzmán retroceden | febrero intención de voto elecciones 2021 | Acción Popular | Victoria Nacional | Partido Morado | 11 de abril | | POLITICA | EL COMERCIO PERÚ" />
+| 10–11 February 2021
+| 1,219
+| 2
+|align="center" style="background:lightblue"|'''8'''
+| 2
+|align="center" style="background:lightgreen"|'''9'''
+| 5
+| 3
+| 5
+|align="center" style="background:#fceca2"|'''7'''
+| 4
+|align="center" style="background:#fceca2"|'''7'''
+| 3
+| 5
+| 2
+| 1
+| 1
+| 4
+| 14
+| 18
+|-
+| IEP/La República<ref>{{cite web|url=https://iep.org.pe/wp-content/uploads/2021/01/Informe-IEP-OP-Enero-2021-Aprobación-del-gobierno-e-intención-de-voto.pdf|title=IEP Informe de Opinión – Enero 2021 Aprobación del gobierno e intención de voto|date=31 January 2021|website=iep.org.pe}}</ref>{{refn|name=espont|group=lower-alpha}}
+| 21–27 January 2021
+| 1,205
+| 0.5
+| 2.5
+| 0.8
+|align="center" style="background:#fceca2"|'''3.3'''
+| 1.6
+| 0.9
+| 1
+|align="center" style="background:lightblue"|'''4.9'''
+| 1.9
+|align="center" style="background:lightgreen"|'''5.7'''
+| 0.9
+| 2.4
+| 0.6
+| 0.7
+| 0.3
+| 2.3
+| 30.2
+| 39.8
+|-
+| CPI/Correo<ref>{{cite web|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/CPI_OpinionPublica_Enero21.pdf|title=Estudio de Opinión Pública Enero 2021|date=30 January 2021|website=cpi.pe}}</ref>
+| 21–25 January 2021
+| 1,200
+| 0.3
+| 3.7
+| 0.4
+|align="center" style="background:lightblue"|'''4.6'''
+| 2.3
+| 1.6
+| 3
+|align="center" style="background:lightgreen"|'''5.5'''
+| 3
+| 3.6
+| 2.6
+|align="center" style="background:#fceca2"|'''4.1'''
+| 0.7
+| 0.7
+| 0.8
+| 3.4
+| 22.3
+| 38.6
+|-
+| Ipsos Perú/El Comercio<ref name="El Comercio-Ipsos: Ollanta Humala"/>
+| 13–15 January 2021
+| 1,210
+| 1
+|align="center" style="background:#fceca2"|'''7'''
+| 1
+|align="center" style="background:lightgreen"|'''9'''
+| 5
+| 2
+| 5
+| 5
+| 2
+|align="center" style="background:lightblue"|'''8'''
+| 4
+| 4
+| 2
+| 2
+| 2
+| 7
+| 14
+| 20
+|-
+| Datum/Perú 21/Gestión<ref>{{cite web|url=https://peru21.pe/politica/elecciones-2021-a-tres-meses-de-comicios-estas-son-las-preferencias-electorales-noticia/|title=Elecciones 2021: A tres meses de comicios, estas son las preferencias electorales|date=14 January 2021|website=peru21.pe}}</ref>
+| 8–12 January 2021
+| 1,206
+| 0.9
+|align="center" style="background:#fceca2"|'''6'''
+| 1
+|align="center" style="background:lightgreen"|'''11'''
+| 3
+| 1
+| 1
+| 5
+| 2
+|align="center" style="background:lightblue"|'''7'''
+| 0.5
+| 4
+| 0.5
+| 0.6
+| 2
+| 3.5
+| 25
+| 26
+|-
+| Ipsos Perú/El Comercio<ref name="El Comercio-Ipsos: Forsyth permanec"/>
+|{{Nowrap|10–11 December 2020}}
+| 1,200
+| 1
+|align="center" style="background:#fceca2"|'''6'''
+| 1
+|align="center" style="background:lightblue"|'''8'''
+| 3
+| 2
+| 4
+| 3
+| 1
+|align="center" style="background:lightgreen"|'''12'''
+|align="center" style="background:#fceca2"|'''6'''
+| 5
+| 2
+| 1
+| 2
+| 10
+| 16
+| 17
+|-
+| IEP/La República<ref name="Cae George Forsyth"/>{{refn|name=espont|group=lower-alpha}}
+| 1–8 December 2020
+| 1,225
+| 0.3
+| 3.3
+| 0.2
+|align="center" style="background:#fceca2"|'''4.1'''
+| 1.4
+| 0.3
+| 0.8
+|align="center" style="background:lightblue"|'''8.3'''
+| 1.2
+|align="center" style="background:lightgreen"|'''12.9'''
+| 0.8
+| 2.9
+| 0.7
+| 0.1
+| 0.8
+| 4.1
+| 24.8
+| 33
+|-
+|}
+
+==Notes==
+{{reflist|group=note}}
+{{notelist|refs=
+<ref name=Vizcarra>The poll includes [[Martín Vizcarra]] ([[President of Peru]]) as a candidate. However, he is not allowed to contest the election because an immediate re-election is forbidden in Peru. An intention to vote for him is included here under "Other".</ref>
+<ref name=Antauro>The poll includes [[Antauro Humala]] as a candidate. However, he is not allowed to contest the election because of his detention for homicide. An intention to vote for him is included here under "Other".</ref>
+}}
+
+==References==
+{{reflist}}
+
+[[Category:Elections in Peru]]
+[[Category:2021 in Peru]]

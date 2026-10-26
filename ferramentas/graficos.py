@@ -271,21 +271,72 @@ def g09_governador(R):
 
 
 def g10_probabilidade(R):
-    pr = R["probabilidade"]
-    lei = sorted(pr["leituras"].items(), key=lambda kv: kv[1])
-    fig = figura("Antes da votação, qual era a chance de o Lula vencer?",
-                 "Cada régua dá um número. Só a dos governadores em disputa apertada passava de 50%")
-    ax = fig.add_axes([0.36, 0.14, 0.58, 0.68])
-    y = np.arange(len(lei))
-    ax.barh(y, [100 * v for _, v in lei], color=COR["base"], height=0.6)
-    for yi, (k, v) in zip(y, lei):
-        ax.text(100 * v + 1, yi, f"{br(100 * v, 0)}%" + (f"  (1 em {br(1 / v, 1)})" if v < 0.5 else ""), va="center", fontsize=22, color=TINTA)
-    ax.set_yticks(y, [k for k, _ in lei], fontsize=19)
+    p2 = R["probabilidade_v2"]
+    pil, W = p2["pilares"], p2["pesos"]
+    fig = figura(f"Antes da votação, a chance do Lula era de {br(100 * p2['combinada'], 0)}%",
+                 "Três pilares, com os pesos da projeção do vídeo 14 (pesquisas 60%, histórico 25%, crescimento 15%)")
+    ax = fig.add_axes([0.34, 0.16, 0.6, 0.64])
+    itens = [("Pesquisas e o erro de\n80 segundos turnos (60%)", pil["pesquisas"]),
+             ("Viradas com frente\nparecida (25%)", pil["historico"]),
+             ("Votos livres como em\n2002 a 2022 (15%)", pil["crescimento"]),
+             ("Junto", p2["combinada"]), ("Polymarket na véspera\n(conferência)", p2["mercado"])]
+    y = np.arange(len(itens))[::-1]
+    cores = [COR["base"], COR["base"], COR["base"], COR["lula"], "#B0B0B0"]
+    ax.barh(y, [100 * v for _, v in itens], color=cores, height=0.6)
+    for yi, (k, v) in zip(y, itens):
+        ax.text(100 * v + 1, yi, f"{br(100 * v, 0)}%  (1 em {br(1 / v, 1)})", va="center", fontsize=22, color=TINTA)
+    ax.set_yticks(y, [k for k, _ in itens], fontsize=19)
     ax.axvline(50, color=TINTA2, lw=1.5)
-    ax.set_xlim(0, 80)
+    ax.set_xlim(0, 75)
     ax.set_xlabel("chance do Lula (%)")
-    rodape(fig, "pesquisas registradas no TSE e o erro histórico de 2014 a 2022; TSE (1989 a 2022); Polymarket (preço da véspera)")
+    rodape(fig, "pesquisas registradas e o erro histórico (Brasil e outros países); TSE, 1994 a 2022; Polymarket")
     salvar(fig, "g10_probabilidade_antes_da_eleicao.png")
+
+
+def g16_erro_pesquisas_historico(R):
+    e = pd.read_csv(RES / "erro_media_pesquisas_runoffs.csv")
+    U, v = R["pesquisas"]["ultima_de_cada_instituto"], R["resultado"]["variacao"]
+    erro26 = 2 * (50 - U["media_lula"]) + v["frente_2t_pontos"]
+    fig = figura("As pesquisas já erraram tanto assim?",
+                 "Quanto a média das pesquisas superestimou o líder em cada 2º turno presidencial (pontos na frente)")
+    ax = fig.add_axes([0.08, 0.16, 0.86, 0.64])
+    e = e.sort_values("superestimou_lider").reset_index(drop=True)
+    cores = [COR["flavio"] if not ok else ("#8A8A8A" if p != "Brasil" else COR["base"]) for p, ok in zip(e.pais, e.lider_das_pesquisas_venceu)]
+    ax.bar(range(len(e)), e.superestimou_lider, color=cores, width=0.75)
+    pos = int((e.superestimou_lider < erro26).sum())
+    ax.bar(pos - 0.5, erro26, color=COR["lula"], width=0.9)
+    ax.text(pos - 2.5, erro26 + 3.2, "Brasil\n2026", ha="center", fontsize=18, weight="bold", color=COR["lula"])
+    for i, r in e.iterrows():
+        if r.pais == "Brasil" or abs(r.superestimou_lider) > 9:
+            ax.text(i, r.superestimou_lider + (0.4 if r.superestimou_lider >= 0 else -0.9), f"{r.pais[:3]} {str(r.ano)[2:]}", ha="center", fontsize=12, rotation=90, color=TINTA2)
+    ax.axhline(0, color=TINTA2, lw=1.2)
+    ax.set_xticks([])
+    ax.set_ylabel("pontos")
+    ax.text(0, 16, "■ o líder das pesquisas perdeu", color=COR["flavio"], fontsize=20, weight="bold")
+    ax.text(0, 13.5, "■ Brasil, o líder venceu", color=COR["base"], fontsize=20, weight="bold")
+    ax.text(0, 11, "■ outros países, o líder venceu", color="#8A8A8A", fontsize=20, weight="bold")
+    rodape(fig, "pesquisas de cada eleição na Wikipédia e nos PDFs do Datafolha, conferidas número a número (resultados/erro_media_pesquisas_runoffs.csv)")
+    salvar(fig, "g16_erro_das_pesquisas_no_mundo.png")
+
+
+def g17_soma_ingenua(R):
+    si = R["probabilidade_v2"]["soma_ingenua"]
+    c = si["componentes"]
+    fig = figura("O erro de multiplicar as coincidências",
+                 "Quatro fatos que parecem improváveis, mas são um só: o Lula vencer uma disputa apertada")
+    itens = [("As pesquisas erram", c["pesquisas"]), ("O líder do 1º turno perde", c["historico"]),
+             ("A regra de Minas quebra", c["minas"]), ("O favorito do mercado perde", c["mercado"])]
+    y0 = 0.72
+    for k, p in itens:
+        fig.text(0.07, y0, k, fontsize=26, color=TINTA)
+        fig.text(0.5, y0, f"{br(100 * p, 0)}%", fontsize=26, color=TINTA, weight="bold")
+        y0 -= 0.09
+    fig.text(0.07, 0.30, f"Multiplicando: 1 em {br(si['um_em_ingenuo'], 0)}", fontsize=34, color=TINTA2)
+    fig.text(0.07, 0.30 - 0.004, "_" * 34, fontsize=34, color=TINTA2)
+    fig.text(0.07, 0.18, f"O certo: 1 em {br(si['um_em_correta'], 1)} (a chance do próprio fato)", fontsize=34, color=COR["lula"], weight="bold")
+    fig.text(0.6, 0.62, "Se o Lula vence,\nas quatro acontecem\njuntas, sempre.", fontsize=30, color=TINTA, weight="bold")
+    rodape(fig, "este projeto (resultados/RESUMO.json, probabilidade_v2.soma_ingenua)")
+    salvar(fig, "g17_o_erro_de_multiplicar.png")
 
 
 def g11_teste_votos_sem_origem(R):
@@ -311,11 +362,105 @@ def g11_teste_votos_sem_origem(R):
     salvar(fig, "g11_votos_sem_origem.png")
 
 
+def g12_curva_da_apuracao(R):
+    c = R["alegacoes"]["curva"]
+    fig = figura("A virada na contagem também aconteceu em 2022",
+                 "Frente do candidato contra o PT ao longo da apuração do 2º turno, pela porcentagem de seções apuradas")
+    ax = fig.add_axes([0.08, 0.14, 0.86, 0.68])
+    a = pd.DataFrame(c["2022"]["pontos"])
+    b = pd.DataFrame(c["2026"]["pontos"])
+    ax.plot(a.pct_secoes, a.frente_anti, color=COR["base"], lw=4, marker="o", ms=9)
+    ax.plot(b.pct_secoes, b.frente_anti, color=COR["flavio"], lw=4, marker="o", ms=9)
+    ax.axhline(0, color=TINTA2, lw=1.5)
+    ax.text(12, 4.3, "2022: Bolsonaro na frente até 67% das seções", color=COR["base"], fontsize=22, weight="bold")
+    ax.text(30, 1.4, f"2026: Flávio na frente até {br(c['2026']['pt_passa_com_pct'], 0)}% das seções", color=COR["flavio"], fontsize=22, weight="bold")
+    ax.set_xlabel("seções apuradas (%)")
+    ax.set_ylabel("frente do candidato contra o PT (pontos)")
+    ax.set_xlim(0, 101)
+    ax.grid(axis="y", color=GRADE)
+    rodape(fig, "TSE, versões do resultado divulgadas na noite (2026, 346 versões gravadas; 2022, pela hora de recebimento dos boletins)")
+    salvar(fig, "g12_curva_da_apuracao_2022_e_2026.png")
+
+
+def g13_votos_sem_origem_por_ano(R):
+    t = pd.DataFrame(R["historia"]["testes"])
+    fig = figura("Votos sem origem visível no município, em cada 2º turno",
+                 "Ganho de um candidato acima de tudo o que estava livre no município (outros + abstenção + branco e nulo)")
+    ax = fig.add_axes([0.08, 0.14, 0.86, 0.66])
+    x = np.arange(len(t))
+    ax.bar(x - 0.2, t.pt_votos_sem_origem, width=0.38, color=COR["lula"])
+    ax.bar(x + 0.2, t.anti_votos_sem_origem, width=0.38, color=COR["flavio"])
+    for i, r in enumerate(t.itertuples()):
+        ax.text(i - 0.2, max(r.pt_votos_sem_origem, 1) * 1.3, n0(r.pt_votos_sem_origem), ha="center", fontsize=16, color=TINTA)
+        ax.text(i + 0.2, max(r.anti_votos_sem_origem, 1) * 1.3, n0(r.anti_votos_sem_origem), ha="center", fontsize=16, color=TINTA)
+    ax.set_yscale("symlog", linthresh=100)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    ax.set_xticks(x, [str(a) for a in t.ano], fontsize=24)
+    ax.text(0, 4e6, "■ PT", color=COR["lula"], fontsize=22, weight="bold")
+    ax.text(0.8, 4e6, "■ adversário", color=COR["flavio"], fontsize=22, weight="bold")
+    ax.set_ylim(0, 1e7)
+    rodape(fig, "TSE, resultado por município, 2002 a 2026 (escala logarítmica)")
+    salvar(fig, "g13_votos_sem_origem_por_ano.png")
+
+
+def g14_crescimento(R):
+    c = pd.DataFrame(R["probabilidade_v2"]["crescimento"]["por_padrao"])
+    urna = R["resultado"]["t2"]["lula_pct"]
+    fig = figura("Se os votos livres fossem como num 2º turno passado",
+                 "O 1º turno de 2026, com os votos dos outros, de branco e nulo e da abstenção indo como foram em cada ano")
+    ax = fig.add_axes([0.08, 0.14, 0.86, 0.66])
+    x = np.arange(len(c))
+    ax.bar(x, c.lula_pct, color=[COR["lula"] if v > 50 else COR["base"] for v in c.lula_pct], width=0.6)
+    for i, v in enumerate(c.lula_pct):
+        ax.text(i, v + 0.15, f"{br(v)}%", ha="center", fontsize=24, weight="bold", color=TINTA)
+    ax.axhline(50, color=TINTA2, lw=1.5)
+    ax.axhline(urna, color=COR["lula"], lw=3, ls="--")
+    ax.text(-0.4, urna + 0.15, f"urna: {br(urna, 2)}%", color=COR["lula"], fontsize=22, weight="bold")
+    ax.set_xticks(x, [f"padrão de {a}" for a in c.padrao_de], fontsize=20)
+    ax.set_ylim(45, 53)
+    ax.set_ylabel("Lula nos válidos (%)")
+    rodape(fig, "TSE, resultado por município 2002 a 2026; modelo de transição por região (resultados/transferencia_por_ano.csv)")
+    salvar(fig, "g14_crescimento_pelos_padroes_passados.png")
+
+
+def g15_transferencia_por_ano(R):
+    t = pd.DataFrame(R["historia"]["transferencia"])
+    t = t[t.origem_1t == "outros"]
+    fig = figura("Para onde foram os votos dos outros candidatos, em cada 2º turno",
+                 "Estimativa por município (o voto é secreto); parte dos eleitores dos outros que foi para cada lado")
+    ax = fig.add_axes([0.08, 0.14, 0.86, 0.66])
+    x = np.arange(len(t))
+    ax.bar(x - 0.2, t.para_pt_pct, width=0.38, color=COR["lula"])
+    ax.bar(x + 0.2, t.para_adversario_pct, width=0.38, color=COR["flavio"])
+    for i, r in enumerate(t.itertuples()):
+        ax.text(i - 0.2, r.para_pt_pct + 1, f"{br(r.para_pt_pct, 0)}%", ha="center", fontsize=18, color=TINTA)
+        ax.text(i + 0.2, r.para_adversario_pct + 1, f"{br(r.para_adversario_pct, 0)}%", ha="center", fontsize=18, color=TINTA)
+    ax.set_xticks(x, [str(a) for a in t.ano], fontsize=24)
+    ax.set_ylim(0, 70)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    ax.text(-0.4, 65, "■ para o PT", color=COR["lula"], fontsize=22, weight="bold")
+    ax.text(1.2, 65, "■ para o adversário", color=COR["flavio"], fontsize=22, weight="bold")
+    rodape(fig, "TSE, resultado por município, 2002 a 2026; modelo de transição por região")
+    salvar(fig, "g15_outros_candidatos_por_ano.png")
+
+
+def n0(x: float) -> str:
+    return br(x, 0)
+
+
 def main() -> None:
     R = json.loads((RES / "RESUMO.json").read_text(encoding="utf-8"))
     for f in (g01_de_onde_vieram, g02_pesquisas, g03_ultima_de_cada, g04_erro_troca_de_lado, g05_regras, g06_estados,
-              g07_abstencao, g08_transferencia, g09_governador, g10_probabilidade, g11_teste_votos_sem_origem):
+              g07_abstencao, g08_transferencia, g09_governador, g10_probabilidade, g11_teste_votos_sem_origem,
+              g12_curva_da_apuracao, g13_votos_sem_origem_por_ano, g14_crescimento, g15_transferencia_por_ano):
         f(R)
+    for f in EXTRAS:
+        f(R)
+
+
+EXTRAS: list = [g16_erro_pesquisas_historico, g17_soma_ingenua]
 
 
 if __name__ == "__main__":

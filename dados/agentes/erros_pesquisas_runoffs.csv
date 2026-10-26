@@ -1,0 +1,188 @@
+pais,ano,instituto,campo_fim,candidato_a,candidato_a_pesquisa,candidato_b,candidato_b_pesquisa,base,candidato_a_urna,candidato_b_urna,vencedor_urna,url_fonte
+Brasil,1989,Datafolha,1989-12-16,Collor,47,Lula,44,totais,53.03,46.97,Collor,http://media.folha.uol.com.br/datafolha/2018/04/27/4c6893d510a761911d2dddfe97b4a41d.pdf
+Brasil,2002,Datafolha,2002-10-26,Lula,64,Serra,36,validos,61.27,38.73,Lula,http://media.folha.uol.com.br/datafolha/2013/05/02/intvoto_pres_26102002.pdf
+Brasil,2006,Datafolha,2006-10-28,Lula,61,Alckmin,39,validos,60.83,39.17,Lula,http://media.folha.uol.com.br/datafolha/2013/05/02/intvoto_pres_28102006.pdf
+Brasil,2010,Vox Populi,2010-10-30,Dilma,51,Serra,39,totais,56.05,43.95,Dilma,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2010_Brazilian_presidential_election
+Brasil,2010,Datafolha,2010-10-30,Dilma,51,Serra,41,totais,56.05,43.95,Dilma,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2010_Brazilian_presidential_election
+Brasil,2010,CNT/Sensus,2010-10-29,Dilma,50.3,Serra,37.6,totais,56.05,43.95,Dilma,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2010_Brazilian_presidential_election
+Brasil,2010,Ibope,2010-10-30,Dilma,52,Serra,40,totais,56.05,43.95,Dilma,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2010_Brazilian_presidential_election
+Brasil,2014,Vox Populi,2014-10-25,Dilma,54,Aecio,46,validos,51.64,48.36,Dilma,https://en.wikipedia.org/wiki/2014_Brazilian_general_election
+Brasil,2014,Datafolha,2014-10-25,Dilma,52,Aecio,48,validos,51.64,48.36,Dilma,https://en.wikipedia.org/wiki/2014_Brazilian_general_election
+Brasil,2014,Ibope,2014-10-25,Dilma,53,Aecio,47,validos,51.64,48.36,Dilma,https://en.wikipedia.org/wiki/2014_Brazilian_general_election
+Brasil,2014,CNT/MDA,2014-10-24,Dilma,49.7,Aecio,50.3,validos,51.64,48.36,Dilma,https://en.wikipedia.org/wiki/2014_Brazilian_general_election
+Brasil,2018,Datafolha,2018-10-27,Haddad,39,Bolsonaro,47,totais,44.87,55.13,Bolsonaro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Brazilian_presidential_election
+Brasil,2018,Ibope,2018-10-27,Haddad,41,Bolsonaro,47,totais,44.87,55.13,Bolsonaro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Brazilian_presidential_election
+Brasil,2018,CNT/MDA,2018-10-27,Haddad,37,Bolsonaro,49,totais,44.87,55.13,Bolsonaro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Brazilian_presidential_election
+Brasil,2018,Parana Pesquisas,2018-10-25,Haddad,35,Bolsonaro,53,totais,44.87,55.13,Bolsonaro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Brazilian_presidential_election
+Brasil,2018,RealTime Big Data,2018-10-24,Haddad,38,Bolsonaro,49,totais,44.87,55.13,Bolsonaro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Brazilian_presidential_election
+Brasil,2018,Ipespe,2018-10-24,Haddad,37,Bolsonaro,51,totais,44.87,55.13,Bolsonaro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Brazilian_presidential_election
+Brasil,2018,FSB Pesquisa,2018-10-21,Haddad,35,Bolsonaro,52,totais,44.87,55.13,Bolsonaro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Brazilian_presidential_election
+Brasil,2022,Datafolha,2022-10-29,Bolsonaro,45,Lula,49,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,Genial/Quaest,2022-10-29,Bolsonaro,42,Lula,45,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,Ipec,2022-10-29,Bolsonaro,43,Lula,50,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,Atlas,2022-10-29,Bolsonaro,45.7,Lula,52.4,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,CNT/MDA,2022-10-28,Bolsonaro,44.9,Lula,46.9,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,Parana Pesquisas,2022-10-28,Bolsonaro,46.3,Lula,47.1,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,ModalMais/Futura,2022-10-26,Bolsonaro,47.2,Lula,46.6,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,Gerp,2022-10-26,Bolsonaro,47,Lula,43,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,PoderData,2022-10-25,Bolsonaro,44,Lula,49,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Brasil,2022,Abrapel/Ipespe,2022-10-24,Bolsonaro,44,Lula,50,totais,49.1,50.9,Lula,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election
+Argentina,2015,Gonzalez y Valladares,2015-11-19,Scioli,43.6,Macri,56.1,validos,48.66,51.34,Macri,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Argentina_de_2015
+Argentina,2015,Elypsis,2015-11-18,Scioli,45.6,Macri,54.4,validos,48.66,51.34,Macri,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Argentina_de_2015
+Argentina,2015,Quorus,2015-11-16,Scioli,45.98,Macri,47.02,totais,48.66,51.34,Macri,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Argentina_de_2015
+Argentina,2015,Universidad Nacional de San Martin,2015-11-14,Scioli,45.55,Macri,42.55,totais,48.66,51.34,Macri,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Argentina_de_2015
+Argentina,2015,Giacobbe & Asociados,2015-11-13,Scioli,46.2,Macri,53.8,validos,48.66,51.34,Macri,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Argentina_de_2015
+Argentina,2015,Management & Fit,2015-11-12,Scioli,43.7,Macri,52,totais,48.66,51.34,Macri,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Argentina_de_2015
+Argentina,2023,AtlasIntel,2023-11-09,Massa,44.6,Milei,48.6,totais,44.35,55.65,Milei,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Argentine_general_election
+Argentina,2023,CELAG,2023-11-08,Massa,50.8,Milei,49.2,validos,44.35,55.65,Milei,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Argentine_general_election
+Argentina,2023,CB Consultora,2023-11-06,Massa,43.1,Milei,46.3,totais,44.35,55.65,Milei,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Argentine_general_election
+Argentina,2023,Proyeccion Consultores,2023-11-06,Massa,49,Milei,51,validos,44.35,55.65,Milei,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Argentine_general_election
+Argentina,2023,CIGP,2023-11-03,Massa,49,Milei,51,validos,44.35,55.65,Milei,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Argentine_general_election
+Argentina,2023,Analogias,2023-11-03,Massa,42.4,Milei,39.7,totais,44.35,55.65,Milei,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Argentine_general_election
+Chile,2013,Ipsos-Usach,2013-12-02,Bachelet,65.2,Matthei,34.9,validos,62.17,37.83,Bachelet,https://en.wikipedia.org/wiki/2013_Chilean_general_election
+Chile,2017,Cadem,2017-12-15,Guillier,33.4,Pinera,39.6,totais,45.43,54.57,Pinera,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Chilean_general_election
+Chile,2021,Cadem,2021-12-16,Boric,55,Kast,45,validos,55.87,44.13,Boric,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Chilean_presidential_election
+Chile,2025,LCN,2025-12-08,Jara,40.3,Kast,59.7,validos,41.83,58.17,Kast,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Chilean_presidential_election
+Chile,2025,Panel Ciudadano,2025-12-05,Jara,36,Kast,50,totais,41.83,58.17,Kast,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Chilean_presidential_election
+Chile,2025,Cadem,2025-12-05,Jara,36,Kast,47,totais,41.83,58.17,Kast,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Chilean_presidential_election
+Colombia,2014,Invamer-Gallup,2014-06-03,Santos,47.7,Zuluaga,48.5,totais,53.13,46.87,Santos,https://en.wikipedia.org/wiki/2014_Colombian_presidential_election
+Colombia,2014,Cifras y Conceptos,2014-06-03,Santos,43.4,Zuluaga,38.5,totais,53.13,46.87,Santos,https://en.wikipedia.org/wiki/2014_Colombian_presidential_election
+Colombia,2014,Datexco,2014-06-04,Santos,41.9,Zuluaga,37.7,totais,53.13,46.87,Santos,https://en.wikipedia.org/wiki/2014_Colombian_presidential_election
+Colombia,2014,Ipsos-Napoleon Franco,2014-06-04,Santos,41,Zuluaga,49,totais,53.13,46.87,Santos,https://en.wikipedia.org/wiki/2014_Colombian_presidential_election
+Colombia,2018,YanHaas,2018-06-05,Petro,34,Duque,52,totais,43.61,56.39,Duque,https://en.wikipedia.org/wiki/2018_Colombian_presidential_election
+Colombia,2018,Mosqueteros,2018-06-07,Petro,38.3,Duque,50.2,totais,43.61,56.39,Duque,https://en.wikipedia.org/wiki/2018_Colombian_presidential_election
+Colombia,2018,Invamer,2018-06-07,Petro,37.3,Duque,57.2,totais,43.61,56.39,Duque,https://en.wikipedia.org/wiki/2018_Colombian_presidential_election
+Colombia,2018,Datexco,2018-06-08,Petro,40.2,Duque,46.2,totais,43.61,56.39,Duque,https://en.wikipedia.org/wiki/2018_Colombian_presidential_election
+Colombia,2018,Cifras & Conceptos,2018-06-08,Petro,36.4,Duque,45.3,totais,43.61,56.39,Duque,https://en.wikipedia.org/wiki/2018_Colombian_presidential_election
+Colombia,2018,Centro Nacional de Consultoria,2018-06-09,Petro,38,Duque,51,totais,43.61,56.39,Duque,https://en.wikipedia.org/wiki/2018_Colombian_presidential_election
+Colombia,2018,Guarumo,2018-06-10,Petro,36,Duque,52.5,totais,43.61,56.39,Duque,https://en.wikipedia.org/wiki/2018_Colombian_presidential_election
+Colombia,2018,CELAG,2018-06-11,Petro,40,Duque,45.5,totais,43.61,56.39,Duque,https://en.wikipedia.org/wiki/2018_Colombian_presidential_election
+Colombia,2022,AtlasIntel,2022-06-11,Petro,47.5,Hernandez,50.2,totais,51.57,48.43,Petro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Colombian_presidential_election
+Colombia,2022,YanHaas,2022-06-10,Petro,45,Hernandez,35,totais,51.57,48.43,Petro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Colombian_presidential_election
+Colombia,2022,GAD3,2022-06-10,Petro,47.1,Hernandez,47.9,totais,51.57,48.43,Petro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Colombian_presidential_election
+Colombia,2022,Guarumo,2022-06-09,Petro,46.5,Hernandez,48.2,totais,51.57,48.43,Petro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Colombian_presidential_election
+Colombia,2022,Mosqueteros,2022-06-08,Petro,43.83,Hernandez,44.68,totais,51.57,48.43,Petro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Colombian_presidential_election
+Colombia,2022,Invamer,2022-06-07,Petro,47.2,Hernandez,48.2,totais,51.57,48.43,Petro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Colombian_presidential_election
+Colombia,2026,CNC,2026-06-13,Cepeda,44.7,De la Espriella,48.6,totais,49.51,50.49,De la Espriella,https://en.wikipedia.org/wiki/2026_Colombian_presidential_election
+Colombia,2026,AtlasIntel/Semana,2026-06-11,Cepeda,44.4,De la Espriella,52.4,totais,49.51,50.49,De la Espriella,https://en.wikipedia.org/wiki/2026_Colombian_presidential_election
+Colombia,2026,Guarumo/Ecoanalitica,2026-06-11,Cepeda,45,De la Espriella,52.6,totais,49.51,50.49,De la Espriella,https://en.wikipedia.org/wiki/2026_Colombian_presidential_election
+Peru,2016,Ipsos Peru,2016-06-04,Kuczynski,50.4,Fujimori,49.6,validos,50.12,49.88,Kuczynski,https://es.wikipedia.org/wiki/Anexo:Sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Per%C3%BA_de_2016
+Peru,2016,GfK,2016-06-04,Kuczynski,51.1,Fujimori,48.9,validos,50.12,49.88,Kuczynski,https://es.wikipedia.org/wiki/Anexo:Sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Per%C3%BA_de_2016
+Peru,2016,Datum Internacional,2016-06-01,Kuczynski,47.9,Fujimori,52.1,validos,50.12,49.88,Kuczynski,https://es.wikipedia.org/wiki/Anexo:Sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Per%C3%BA_de_2016
+Peru,2016,CPI,2016-06-01,Kuczynski,48.4,Fujimori,51.6,validos,50.12,49.88,Kuczynski,https://es.wikipedia.org/wiki/Anexo:Sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Per%C3%BA_de_2016
+Peru,2021,Ipsos,2021-06-05,Castillo,44.1,Fujimori,44.8,totais,50.13,49.87,Castillo,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Peruvian_general_election
+Peru,2021,IEP,2021-06-04,Castillo,40.8,Fujimori,40.9,totais,50.13,49.87,Castillo,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Peruvian_general_election
+Peru,2021,IDICE/La Razon,2021-05-29,Castillo,43.9,Fujimori,47.8,totais,50.13,49.87,Castillo,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Peruvian_general_election
+Peru,2026,Ipsos Peru,2026-06-06,Fujimori,44.1,Sanchez,43.7,totais,50.13,49.87,Fujimori,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Peruvian_general_election
+Peru,2026,Datum Internacional,2026-06-06,Fujimori,44.9,Sanchez,43.9,totais,50.13,49.87,Fujimori,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Peruvian_general_election
+Peru,2026,CB Global Data,2026-05-30,Fujimori,38.6,Sanchez,36.5,totais,50.13,49.87,Fujimori,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Peruvian_general_election
+Equador,2017,Eureknow,2017-03-22,Moreno,44.3,Lasso,41.3,totais,51.16,48.84,Moreno,https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election
+Equador,2017,Diagnostico,2017-03-22,Moreno,48.73,Lasso,37.07,totais,51.16,48.84,Moreno,https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election
+Equador,2017,Perfiles de Opinion,2017-03-21,Moreno,49.37,Lasso,36.35,totais,51.16,48.84,Moreno,https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election
+Equador,2017,CEDATOS,2017-03-21,Moreno,52.4,Lasso,47.6,validos,51.16,48.84,Moreno,https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election
+Equador,2017,Market,2017-03-21,Moreno,52.1,Lasso,47.9,validos,51.16,48.84,Moreno,https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election
+Equador,2017,CMS,2017-03-19,Moreno,36.76,Lasso,35.86,totais,51.16,48.84,Moreno,https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election
+Equador,2021,Omar Maluk,2021-04-01,Arauz,53.8,Lasso,46.2,validos,47.64,52.36,Lasso,https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election
+Equador,2021,Atlas Intel,2021-04-01,Arauz,50.9,Lasso,49.1,validos,47.64,52.36,Lasso,https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election
+Equador,2021,Eureknow,2021-03-31,Arauz,50.1,Lasso,49.9,validos,47.64,52.36,Lasso,https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election
+Equador,2021,CEDATOS,2021-03-31,Arauz,48.0,Lasso,52.0,validos,47.64,52.36,Lasso,https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election
+Equador,2021,Comunicaliza,2021-03-30,Arauz,49.1,Lasso,50.9,validos,47.64,52.36,Lasso,https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election
+Equador,2021,Click Report,2021-03-29,Arauz,48.51,Lasso,51.49,validos,47.64,52.36,Lasso,https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election
+Equador,2021,Estrategia Consultores,2021-03-28,Arauz,51.7,Lasso,48.3,validos,47.64,52.36,Lasso,https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election
+Equador,2021,Pulso Ciudadano,2021-03-25,Arauz,39.3,Lasso,36.7,totais,47.64,52.36,Lasso,https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election
+Equador,2023,Omar Maluk,2023-10-14,Noboa,50.9,Gonzalez,49.1,validos,51.83,48.17,Noboa,https://en.wikipedia.org/wiki/2023_Ecuadorian_general_election
+Equador,2023,CIT Peru (projecao),2023-10-15,Noboa,49.14,Gonzalez,50.86,validos,51.83,48.17,Noboa,https://en.wikipedia.org/wiki/2023_Ecuadorian_general_election
+Equador,2023,Dado Duro EC,2023-10-10,Noboa,38.6,Gonzalez,39.6,totais,51.83,48.17,Noboa,https://en.wikipedia.org/wiki/2023_Ecuadorian_general_election
+Equador,2023,Negocios & Estrategias,2023-10-09,Noboa,49.94,Gonzalez,50.06,validos,51.83,48.17,Noboa,https://en.wikipedia.org/wiki/2023_Ecuadorian_general_election
+Equador,2023,Comunicaliza,2023-10-08,Noboa,41.4,Gonzalez,36.2,totais,51.83,48.17,Noboa,https://en.wikipedia.org/wiki/2023_Ecuadorian_general_election
+Equador,2025,Comunicaliza,2025-04-03,Noboa,41.5,Gonzalez,41.1,totais,55.63,44.37,Noboa,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election
+Equador,2025,Telcodata,2025-04-03,Noboa,49.8,Gonzalez,50.2,validos,55.63,44.37,Noboa,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election
+Equador,2025,Tino Electoral,2025-04-03,Noboa,52.4,Gonzalez,45.1,totais,55.63,44.37,Noboa,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election
+Equador,2025,TresPuntoZero,2025-04-01,Noboa,45.1,Gonzalez,50.6,totais,55.63,44.37,Noboa,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election
+Equador,2025,Pedro Cango,2025-03-30,Noboa,48.1,Gonzalez,51.9,validos,55.63,44.37,Noboa,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election
+Equador,2025,Altica,2025-03-28,Noboa,42.3,Gonzalez,44.1,totais,55.63,44.37,Noboa,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election
+Equador,2025,MR Analitica,2025-03-27,Noboa,42.98,Gonzalez,50.39,totais,55.63,44.37,Noboa,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election
+Uruguai,2014,Equipos Mori,2014-11-26,Vazquez,54.5,Lacalle Pou,40.0,totais,56.5,43.5,Vazquez,https://es.wikipedia.org/wiki/Elecciones_generales_de_Uruguay_de_2014
+Uruguai,2014,Opcion Consultores,2014-11-26,Vazquez,54.5,Lacalle Pou,39.5,totais,56.5,43.5,Vazquez,https://es.wikipedia.org/wiki/Elecciones_generales_de_Uruguay_de_2014
+Uruguai,2014,Cifra,2014-11-26,Vazquez,54.8,Lacalle Pou,40.4,totais,56.5,43.5,Vazquez,https://es.wikipedia.org/wiki/Elecciones_generales_de_Uruguay_de_2014
+Uruguai,2014,Radar,2014-11-26,Vazquez,53.2,Lacalle Pou,41.8,totais,56.5,43.5,Vazquez,https://es.wikipedia.org/wiki/Elecciones_generales_de_Uruguay_de_2014
+Uruguai,2014,Agesor,2014-11-26,Vazquez,52.5,Lacalle Pou,43.5,totais,56.5,43.5,Vazquez,https://es.wikipedia.org/wiki/Elecciones_generales_de_Uruguay_de_2014
+Uruguai,2019,Factum,2019-11-19,Martinez,43.0,Lacalle Pou,51.0,totais,49.21,50.79,Lacalle Pou,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2019
+Uruguai,2019,Metrocall,2019-11-21,Martinez,41.0,Lacalle Pou,52.0,totais,49.21,50.79,Lacalle Pou,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2019
+Uruguai,2019,Radar,2019-11-21,Martinez,44.3,Lacalle Pou,49.9,totais,49.21,50.79,Lacalle Pou,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2019
+Uruguai,2019,Cifra,2019-11-21,Martinez,44.5,Lacalle Pou,51.5,totais,49.21,50.79,Lacalle Pou,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2019
+Uruguai,2019,Opcion,2019-11-21,Martinez,44.0,Lacalle Pou,51.0,totais,49.21,50.79,Lacalle Pou,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2019
+Uruguai,2024,Nomade Consultora,2024-11-20,Orsi,48.2,Delgado,46.4,totais,52.0,48.0,Orsi,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2024
+Uruguai,2024,Cifra,2024-11-20,Orsi,47,Delgado,46.4,totais,52.0,48.0,Orsi,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2024
+Uruguai,2024,Opcion Consultores,2024-11-20,Orsi,49.7,Delgado,45.5,totais,52.0,48.0,Orsi,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2024
+Uruguai,2024,Equipos Consultores,2024-11-20,Orsi,48.0,Delgado,46.2,totais,52.0,48.0,Orsi,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2024
+Uruguai,2024,El Observador,2024-11-19,Orsi,49.0,Delgado,46.1,totais,52.0,48.0,Orsi,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2024
+Uruguai,2024,Factum,2024-11-19,Orsi,47.1,Delgado,46.6,totais,52.0,48.0,Orsi,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2024
+Guatemala,2019,CID-Gallup,2019-08-05,Giammattei,39.5,Torres,32.4,totais,57.95,42.05,Giammattei,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Guatemala_de_2019
+Guatemala,2019,Prodatos,2019-08-03,Giammattei,50.3,Torres,32.1,totais,57.95,42.05,Giammattei,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Guatemala_de_2019
+Guatemala,2023,Prodatos / Prensa Libre,2023-08-14,Arevalo,64.9,Torres,35.1,validos,60.91,39.09,Arevalo,https://en.wikipedia.org/wiki/2023_Guatemalan_general_election
+Guatemala,2023,CID Gallup,2023-08-13,Arevalo,61.0,Torres,39.0,validos,60.91,39.09,Arevalo,https://en.wikipedia.org/wiki/2023_Guatemalan_general_election
+Franca,2017,Ipsos,2017-05-05,Macron,63,Le Pen,37,validos,66.1,33.9,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election
+Franca,2017,Harris Interactive,2017-05-05,Macron,62,Le Pen,38,validos,66.1,33.9,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election
+Franca,2017,Ifop-Fiducial,2017-05-05,Macron,63,Le Pen,37,validos,66.1,33.9,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election
+Franca,2017,Elabe,2017-05-04,Macron,62,Le Pen,38,validos,66.1,33.9,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election
+Franca,2017,Odoxa,2017-05-04,Macron,62,Le Pen,38,validos,66.1,33.9,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election
+Franca,2017,OpinionWay,2017-05-04,Macron,62,Le Pen,38,validos,66.1,33.9,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election
+Franca,2017,BVA,2017-05-02,Macron,60,Le Pen,40,validos,66.1,33.9,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election
+Franca,2017,Kantar Sofres,2017-04-30,Macron,59,Le Pen,41,validos,66.1,33.9,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election
+Franca,2022,Ipsos,2022-04-22,Macron,56.5,Le Pen,43.5,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,Cluster17,2022-04-22,Macron,56,Le Pen,44,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,Elabe,2022-04-22,Macron,55.5,Le Pen,44.5,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,Harris-Interactive,2022-04-22,Macron,55,Le Pen,45,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,OpinionWay-Kea,2022-04-22,Macron,57,Le Pen,43,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,Ifop-Fiducial,2022-04-22,Macron,55,Le Pen,45,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,BVA,2022-04-21,Macron,55.5,Le Pen,44.5,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,Odoxa,2022-04-21,Macron,53,Le Pen,47,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,AtlasIntel,2022-04-21,Macron,53,Le Pen,47,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,YouGov,2022-04-21,Macron,56,Le Pen,44,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Franca,2022,Kantar,2022-04-18,Macron,55,Le Pen,45,validos,58.55,41.45,Macron,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election
+Polonia,2015,Millward Brown,2015-05-20,Komorowski,47,Duda,45,totais,48.45,51.55,Duda,https://en.wikipedia.org/wiki/2015_Polish_presidential_election
+Polonia,2015,Estymator,2015-05-18,Komorowski,48,Duda,52,validos,48.45,51.55,Duda,https://en.wikipedia.org/wiki/2015_Polish_presidential_election
+Polonia,2015,IBRiS,2015-05-14,Komorowski,43.2,Duda,48,totais,48.45,51.55,Duda,https://en.wikipedia.org/wiki/2015_Polish_presidential_election
+Polonia,2020,Social Changes,2020-07-10,Duda,47,Trzaskowski,46,totais,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2020,IBRiS,2020-07-09,Duda,45.7,Trzaskowski,47.4,totais,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2020,CBOS,2020-07-09,Duda,44.4,Trzaskowski,44.6,totais,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2020,Kantar,2020-07-09,Duda,45.9,Trzaskowski,46.4,totais,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2020,Pollster,2020-07-09,Duda,50.72,Trzaskowski,49.28,validos,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2020,Indicator,2020-07-09,Duda,45.9,Trzaskowski,44.7,totais,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2020,PGB Opinium,2020-07-09,Duda,49.16,Trzaskowski,50.84,validos,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2020,IPSOS,2020-07-08,Duda,50,Trzaskowski,47,totais,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2020,United Surveys,2020-07-04,Duda,46.8,Trzaskowski,45.9,totais,51.03,48.97,Duda,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election
+Polonia,2025,AtlasIntel,2025-05-30,Nawrocki,47.4,Trzaskowski,47.6,totais,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Polonia,2025,United Surveys / WP.pl,2025-05-30,Nawrocki,47.7,Trzaskowski,47.3,totais,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Polonia,2025,Social Changes / wnet.fm,2025-05-29,Nawrocki,50.9,Trzaskowski,49.1,validos,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Polonia,2025,OGB / WP.pl,2025-05-29,Nawrocki,50.63,Trzaskowski,49.37,validos,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Polonia,2025,Pollster / SE.pl,2025-05-29,Nawrocki,45.6,Trzaskowski,47.97,totais,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Polonia,2025,IBRiS / Polsat News,2025-05-29,Nawrocki,48.1,Trzaskowski,49.1,totais,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Polonia,2025,Opinia24 / Fakty TVN,2025-05-29,Nawrocki,46.3,Trzaskowski,47.4,totais,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Polonia,2025,IPSOS / 19:30 TVP Info,2025-05-29,Nawrocki,48,Trzaskowski,49,totais,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Polonia,2025,CBOS,2025-05-28,Nawrocki,49.7,Trzaskowski,50.3,validos,50.89,49.11,Nawrocki,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election
+Romenia,2014,CSCI,2014-11-05,Ponta,55,Iohannis,45,validos,45.57,54.43,Iohannis,https://en.wikipedia.org/wiki/2014_Romanian_presidential_election
+Romenia,2014,CURS-Avangarde,2014-11-09,Ponta,54,Iohannis,46,validos,45.57,54.43,Iohannis,https://en.wikipedia.org/wiki/2014_Romanian_presidential_election
+Romenia,2019,PSD (pesquisa do partido),2019-11-11,Iohannis,66,Dancila,34,validos,66.09,33.91,Iohannis,https://en.wikipedia.org/wiki/2019_Romanian_presidential_election
+Romenia,2025,AtlasIntel,2025-05-15,Dan,48.7,Simion,47.8,totais,53.6,46.4,Dan,https://en.wikipedia.org/wiki/2025_Romanian_presidential_election
+Romenia,2025,IRSOP,2025-05-13,Dan,52,Simion,48,validos,53.6,46.4,Dan,https://en.wikipedia.org/wiki/2025_Romanian_presidential_election
+Romenia,2025,Sociopol,2025-05-12,Dan,47,Simion,53,validos,53.6,46.4,Dan,https://en.wikipedia.org/wiki/2025_Romanian_presidential_election
+Romenia,2025,MKOR,2025-05-14,Dan,34.2,Simion,32,totais,53.6,46.4,Dan,https://en.wikipedia.org/wiki/2025_Romanian_presidential_election
+Romenia,2025,CURS,2025-05-11,Dan,48,Simion,52,validos,53.6,46.4,Dan,https://en.wikipedia.org/wiki/2025_Romanian_presidential_election
+Portugal,2026,Pitagorica,2026-02-05,Seguro,67.8,Ventura,32.2,validos,66.84,33.16,Seguro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Portuguese_presidential_election
+Portugal,2026,CESOP-UCP,2026-02-02,Seguro,67,Ventura,33,validos,66.84,33.16,Seguro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Portuguese_presidential_election
+Portugal,2026,Aximage,2026-02-02,Seguro,65.4,Ventura,30.3,totais,66.84,33.16,Seguro,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Portuguese_presidential_election
+Eslovaquia,2019,Focus,2019-03-29,Sefcovic,44.8,Caputova,55.2,validos,41.59,58.41,Caputova,https://en.wikipedia.org/wiki/2019_Slovak_presidential_election
+Eslovaquia,2024,Ipsos,2024-04-02,Pellegrini,49.9,Korcok,50.1,validos,53.12,46.88,Pellegrini,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Slovak_presidential_election
+Eslovaquia,2024,NMS,2024-04-02,Pellegrini,48.3,Korcok,51.7,validos,53.12,46.88,Pellegrini,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Slovak_presidential_election
+Eslovaquia,2024,Focus,2024-04-02,Pellegrini,50.8,Korcok,49.2,validos,53.12,46.88,Pellegrini,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Slovak_presidential_election
+Eslovaquia,2024,Median SK,2024-03-31,Pellegrini,51.1,Korcok,48.9,validos,53.12,46.88,Pellegrini,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Slovak_presidential_election
+Eslovaquia,2024,SCIO,2024-04-02,Pellegrini,45.01,Korcok,54.99,validos,53.12,46.88,Pellegrini,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Slovak_presidential_election
+Bolivia,2025,Ipsos Ciesmori,2025-10-09,Quiroga,44.9,Paz,36.5,totais,45.04,54.96,Paz,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Bolivia_de_2025
+Bolivia,2025,Captura Consulting,2025-10-07,Quiroga,42.9,Paz,38.7,totais,45.04,54.96,Paz,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Bolivia_de_2025
+Bolivia,2025,CB Consultora,2025-10-06,Quiroga,44.4,Paz,36.2,totais,45.04,54.96,Paz,https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Bolivia_de_2025
+Costa Rica,2022,OPol,2022-03-25,Chaves,50.2,Figueres,32.6,totais,52.82,47.18,Chaves,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Costa_Rican_general_election
+Costa Rica,2022,Enfoques,2022-03-27,Chaves,45,Figueres,33.7,totais,52.82,47.18,Chaves,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Costa_Rican_general_election
+Costa Rica,2022,CIEP-UCR,2022-03-28,Chaves,41.4,Figueres,38,totais,52.82,47.18,Chaves,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Costa_Rican_general_election
+Costa Rica,2022,Demoscopia,2022-03-23,Chaves,32.4,Figueres,36,totais,52.82,47.18,Chaves,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Costa_Rican_general_election

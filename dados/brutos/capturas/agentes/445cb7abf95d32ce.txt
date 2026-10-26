@@ -1,0 +1,4594 @@
+{{no footnotes|date=March 2025}}
+{{Short description|none}}
+
+In the run up to the [[2026 Portuguese presidential election]], various organisations will carry out opinion polling to gauge voting intention in Portugal. Results of such polls are displayed in this article.
+
+Poll results are listed in the table below in reverse chronological order, showing the most recent first. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading candidate colour. In the instance that there is a tie, then no figure is shaded but both are displayed in bold. If no candidate gets the required majority in a survey, the second place gets highlighted with a lighter color. Poll results use the date the survey's fieldwork was done, as opposed to the date of publication.
+
+== Candidates vote ==
+
+=== First round ===
+
+====Graphical summary====
+[[File:Graph_with_polling_for_the_2026_Portuguese_presidential_election.png|left|850x850px|Graph of the polling for the 2026 Portuguese presidential election.]]
+{{clear}}
+====Polling====
+Polls that show their results without distributing those respondents who are undecided or said they would abstain from voting, are re-calculated by removing these numbers from the totals through a simple [[Rule of three (mathematics)|rule of three]], in order to obtain results comparable to other polls and the official election results.
+
+{{legend2|#EAFFEA|Exit poll|border=1px solid #AAAAAA}}
+
+{{sticky header}}
+{| class="wikitable mw-collapsible sortable sticky-header-multi" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" style="width:110px;"|Polling firm
+! rowspan="3" class="unsortable" style="width:150px;"|Fieldwork date
+! rowspan="3" class="unsortable" |Sample<br>size
+!{{vert header|stp=1|[[Henrique Gouveia e Melo|Gouveia e Melo]]}}
+!{{vert header|stp=1|[[Luís Marques Mendes|Marques Mendes]]}}
+!{{vert header|stp=1|[[António José Seguro]]}}
+!{{vert header|stp=1|[[André Ventura]]}}
+!{{vert header|stp=1|[[João Cotrim de Figueiredo|Cotrim Figueiredo]]}}
+!{{vert header|stp=1|[[Catarina Martins]]}}
+!{{vert header|stp=1|[[António Filipe (politician)|António Filipe]]}}
+!{{vert header|stp=1|[[Jorge Pinto]]}}
+!{{vert header|stp=1|[[André Pestana]]}}
+!{{vert header|stp=1|[[Manuel João Vieira]]}}
+!{{vert header|stp=1|Humberto Correia}}
+! rowspan="3" class="unsortable" style="width:30px;" | {{abbr|Oth|Others}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Chega (political party)|CH]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Liberal Initiative (Portugal)|IL]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Left Bloc (Portugal)|BE]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Unitary Democratic Coalition|CDU]]}}
+! class="unsortable" style="width:30px;" | {{small|[[LIVRE|L]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+|-
+! style="background:#777777;"|
+! style="background:{{party color|Social Democratic Party (Portugal)}};"|
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:#202056;"|
+! style="background:#00ADEF;"|
+! style="background:{{party color|Left Bloc (Portugal)}};"|
+! style="background:{{party color|Unitary Democratic Coalition}};" |
+! style="background:{{party color|LIVRE}};" |
+! style="background:#777777;" |
+! style="background:#777777;" |
+! style="background:#777777;" |
+|-
+| colspan="16" style="background:#A0A0A0"|
+|- style="background:#E9E9E9;"
+|'''[[2026 Portuguese presidential election|First round]]'''
+|18 Jan 2026
+| {{N/A}}
+|12.3
+|11.3
+| {{Party shading/PS}} |'''31.1'''
+| style="background:#C1CCE170" |23.5
+|16.0
+|2.1
+|1.6
+|0.7
+|0.2
+|1.1
+|0.1
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |'''7.6'''
+|-
+| colspan="16" style="background:#A0A0A0"|
+|- style="background:#EAFFEA"
+| CESOP–UCP<ref>{{Cite web |title=Eleições Presidenciais 2026 - Boca de Urna |url=https://www.erc.pt/download.php?fd=14654&l=pt&key=6e4fd2ffb6a79338141d7c369b6c42c6|date=2026-01-18 |access-date=2026-01-20 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 18 Jan 2026
+| 31,221
+|11–<br/>14
+|8–<br/>11
+| {{Party shading/PS}} |'''30–<br/>35'''
+| style="background:#C1CCE170" |20–<br/>24
+|17–<br/>21
+|1–<br/>3
+|1–<br/>3
+|0–<br/>1
+|0–<br/>1
+|1–<br/>2
+|0–<br/>1
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10–<br/>11
+|- style="background:#EAFFEA"
+| ICS/ISCTE/Pitagórica<ref>{{Cite web |title=Eleições Presidência da República 2026 - Boca da Urna (Previsão eleitoral) |url=https://www.erc.pt/pt/depositos/deposito-2026/eleicoes-presidencia-da-republica-2026-boca-da-urna-previsao-eleitoral-/|date=2026-01-18 |access-date=2026-01-20 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 18 Jan 2026
+| 28,522
+|9.2–<br/>12.4
+|9.1–<br/>12.3
+| {{Party shading/PS}} |'''30.8–<br/>35.2'''
+| style="background:#C1CCE170" |19.9–<br/>24.1
+|16.3–<br/>20.1
+|0.9–<br/>2.7
+|0.4–<br/>2.0
+|{{N/A}}
+|{{N/A}}
+|0.7–<br/>2.3
+|{{N/A}}
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.9–<br/>11.1
+|- style="background:#EAFFEA"
+| Intercampus<ref>{{Cite web |title=Presidenciais 2026 - Boca da Urna |url=https://www.erc.pt/pt/depositos/deposito-2026/presidenciais-2026-boca-da-urna-/|date=2026-01-18 |access-date=2026-01-20 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 18 Jan 2026
+| 18,411
+|10.9–<br/>14.9
+|8.3–<br/>12.3
+| {{Party shading/PS}} |'''29.6–<br/>33.6'''
+| style="background:#C1CCE170" |21.0–<br/>25.0
+|13.9–<br/>17.9
+|0.8–<br/>3.8
+|0.6–<br/>2.6
+|0.0–<br/>1.7
+|{{N/A}}
+|0.4–<br/>2.4
+|{{N/A}}
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8.6
+|-
+|Pitagórica<ref name=":19">{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#12- 16 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14638&l=pt&key=38b97778d0f474e86791f7731521cb36 |date=2026-01-16 |access-date=2026-02-05 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|13–15 Jan 2026 
+|1,200
+|11.6
+|11.5
+| {{Party shading/PS}} |'''25.1'''
+| style="background:#C1CCE170" |23.0
+|22.3
+|2.2
+|2.4
+|1.2
+|{{N/A}}
+|0.6
+|{{N/A}}
+|0.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |2.1
+|-
+|Pitagórica<ref name=":17">{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#11- 15 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14635&l=pt&key=c34cfad3e3f34eb8cf2fba20c7fc0043 |date=2026-01-15 |access-date=2026-02-05 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|12–14 Jan 2026 
+|903
+|13.4
+|12.6
+| {{Party shading/PS}} |'''24.2'''
+| style="background:#C1CCE170" |22.9
+|21.1
+|1.8
+|1.6
+|1.3
+|{{N/A}}
+|1.0
+|{{N/A}}
+|0.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |1.3
+|-
+|Pitagórica<ref name=":785">{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#10- 14 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14608&l=pt&key=43c06ef38123e62a1b23d0f8c4ada273 |date=2026-01-14 |access-date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|11–13 Jan 2026 
+|755
+|15.4
+|13.4
+| {{Party shading/PS}} |'''22.6'''
+| style="background:#C1CCE170" |22.0
+|20.3
+|2.4
+|1.4
+|1.3
+|{{N/A}}
+|1.0
+|{{N/A}}
+|0.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |0.6
+|-
+|Intercampus<ref name=":507">{{Cite web |title=Barómetro Vaga 73 - Jan 2026 |url=https://www.erc.pt/download.php?fd=14626&l=pt&key=25f41b69fa1a95040e548104ca0031e1 |access-date=2026-01-14 | date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>{{efn|name=Intercampus12}}
+|6–13 Jan 2026
+|806
+|15.4
+|style="background:#FFF1DD"|19.0
+|15.6
+| {{Party shading/Chega}}|'''23.1'''
+|17.8
+|3.2
+|2.1
+|2.4
+|{{N/A}}
+|1.5
+|{{N/A}}
+|{{N/A}}
+| style="background:#202056; color:white;"|4.1
+|-
+|Consulmark2<ref name=":235">{{Cite web |title=Sondagem para Euronews – Vaga 6 (2026) |url=https://www.erc.pt/pt/depositos/deposito-2026/sondagem-para-euronews-e2-80-93-vaga-6-2026-/ |date=2026-01-15 |access-date=2026-02-03 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>
+|5–13 Jan 2026
+|993
+|14.4
+|17.8
+|{{Party shading/PS}} |'''20.7'''
+| style="background:#C1CCE170" |18.9
+|18.5
+|3.0
+|1.4
+|1.2
+|{{N/A}}
+|1.0
+|{{N/A}}
+|3.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |1.8
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#9 - 13 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14601&l=pt&key=41ac65463674842d82495b7fce5c71bc |date=2026-01-13 |access-date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|10–12 Jan 2026
+|608
+|15.2
+|13.2
+| {{Party shading/PS}} |'''23.9'''
+|20.5
+| style="background:#b9ecff50" |20.8
+|2.5
+|1.4
+|1.3
+|{{N/A}}
+|1.0
+|{{N/A}}
+|0.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |3.1
+|-
+|Aximage<ref name=":657">{{Cite web |date=2026-01-14 |title=Eleições presidenciais DN - Janeiro 2026 |url=https://www.erc.pt/download.php?fd=14611&l=pt&key=4356b4a4cb24b4baa0848a46cb20ccb0 |access-date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=en}}</ref>
+|9–12 Jan 2026
+|606
+|13.6
+|14.9
+| style="background:#FFCBFF50" |23.0
+| {{Party shading/Chega}}|'''24.7'''
+|14.9
+|2.4
+|2.0
+|1.5
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|3.0
+| style="background:#202056; color:white;" |1.7
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#8 - 12 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14598&l=pt&key=ba7e99b9c33b8acd79ebc682106dc784 |date=2026-01-12 |access-date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|9–11 Jan 2026
+|608
+|16.3
+|14.0
+| {{Party shading/PS}} |'''22.9'''
+|19.7
+| style="background:#b9ecff50" |21.1
+|2.4
+|1.1
+|1.1
+|{{N/A}}
+|1.1
+|{{N/A}}
+|0.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |1.8
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#7 - 11 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14595&l=pt&key=e8696c567df2857a080d8b24364f79eb |date=2026-01-11 |access-date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|8–10 Jan 2026
+|608
+|17.0
+|14.5
+| {{Party shading/PS}} |'''21.4'''
+|19.7
+| style="background:#b9ecff50" |21.1
+|2.6
+|2.0
+|0.9
+|{{N/A}}
+|0.7
+|{{N/A}}
+|0.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |0.3
+|-
+|CESOP–UCP<ref>{{Cite web |date=2026-01-13 |title=Sondagem janeiro 2026 CESOP |url=https://www.erc.pt/download.php?fd=14603&l=pt&key=adf9831b7757adb425045fa2a88e16e9 |access-date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social  |language=pt}}</ref>
+|6–9 Jan 2025
+|1,770
+|14
+|14
+| style="background:#FFCBFF50" |23
+| {{Party shading/Chega}}|'''24'''
+|19
+|2
+|2
+|1.5
+|<1
+|<1
+|<1
+|{{N/A}}
+| style="background:#202056; color:white;" |1
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#6 - 10 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14593&l=pt&key=396cf13c85c2a5fd688571d969eb1ee7 |date=2026-01-10 |access-date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|7–9 Jan 2026
+|608
+|17.4
+|15.7
+| {{Party shading/PS}} |'''20.8'''
+|19.8
+| style="background:#b9ecff50" |20.1
+|2.7
+|1.8
+|0.8
+|{{N/A}}
+|0.6
+|{{N/A}}
+|0.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |0.7
+|-
+|Pitagórica<ref name=":14">{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#5 - 9 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14587&l=pt&key=dd68acc5baad5380b2448758b7c643d6 |date=2026-01-09 |access-date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|6–8 Jan 2026
+|608
+|17.2
+|16.8
+| style="background:#FFCBFF50" |19.7
+| {{Party shading/Chega}}|'''20.5'''
+|19.2
+|3.0
+|2.3
+|0.7
+|{{N/A}}
+|0.3
+|{{N/A}}
+|0.3
+| style="background:#202056; color:white;" |0.8
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#4 - 8 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14583&l=pt&key=6a142ff64e27b68598e8e2e96c6a9566 |date=2026-01-08 |access-date=2026-01-22 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|5–7 Jan 2026
+|608
+|17.8
+|16.7
+|style="background:#FFCBFF50"|20.1
+| {{Party shading/Chega}}|'''20.5'''
+|18.1
+|3.0
+|2.4
+|0.8
+|{{N/A}}
+|0.4
+|{{N/A}}
+|0.3
+| style="background:#202056; color:white;"|0.4
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#3 - 7 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14574&l=pt&key=2fa32a035d46b0da6c6eff9dfde158c2 |date=2026-01-07 |access-date=2026-01-22 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|4–6 Jan 2026
+|608
+|17.2
+|16.0
+| {{Party shading/PS}} |'''21.0'''
+| style="background:#C1CCE170" |19.6
+|18.0
+|3.3
+|2.7
+|0.7
+|{{N/A}}
+|1.0
+|{{N/A}}
+|0.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |1.4
+|-
+|Aximage<ref name=":1278">{{Cite web |title=Sondagem sobre Eleições Presidenciais |url=https://www.erc.pt/download.php?fd=14577&l=pt&key=be2a2488e35883ffd49f86bb61daf071 |date=2026-01-08 |access-date=2026-01-22 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>
+|1–6 Jan 2026
+|800
+|17.3
+|style="background:#FFF1DD"|18.3
+|16.8
+| {{Party shading/Chega}}|'''24.6'''
+|14.4
+|3.3
+|1.7
+|1.2
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|2.4
+| style="background:#202056; color:white;"|6.3
+|-
+|Pitagórica<ref name=":10">{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#2 - 6 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14571&l=pt&key=5048eb3ee60142206b634976555e6423 |date=2026-01-06 |access-date=2026-01-21 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|3–5 Jan 2026
+|608
+|18.3
+|15.1
+| {{Party shading/PS}} |'''20.7'''
+| style="background:#C1CCE170" |18.4
+|18.3
+|2.9
+|3.5
+|1.3
+|{{N/A}}
+|1.3
+|{{N/A}}
+|0.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |2.3
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2026 TVI , CNN, JN e TSF - Day#1 - 5 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14563&l=pt&key=99c8ede52d0515b8fb4bd6a9f0956542 |date=2026-01-05 |access-date=2026-01-20 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|2–4 Jan 2026
+|608
+|style="background:#DCDCDC60"|19.2
+|15.4
+|{{Party shading/PS}} |'''19.3'''
+|18.9
+|18.0
+|2.9
+|2.8
+|1.8
+|{{N/A}}
+|1.5
+|{{N/A}}
+|0.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |0.1
+|-
+|Pitagórica<ref name=":9">{{Cite web |title=Sondagem TVI / CNN Portugal /JN/ TSF- Dezembro 2025 |url=https://www.erc.pt/download.php?fd=14561&l=pt&key=9a0f6938b2f139c4b66e6649027e4bae|date=2025-12-21 |access-date=2026-01-05 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+|11–19 Dec 2025
+|1,000
+|15.0
+|{{Party shading/PSD}} |'''20.7'''
+|style="background:#FFCBFF50"|19.9
+|19.1
+|14.9
+|2.7
+|3.0
+|3.0
+|{{N/A}}
+|1.1
+|{{N/A}}
+|0.6
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |0.8
+|-
+|Intercampus<ref name=":110">{{Cite web |title=Barómetro Vaga 72 - Dez 2025 |url=https://www.erc.pt/download.php?fd=14556&l=pt&key=09fbcb1d0a7ea523de0630f5f76ed9a3 |access-date=2026-01-05 | date=2025-12-18 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>{{efn|name=Intercampus3}}
+|12–16 Dec 2025
+|611
+|13.4
+|style="background:#FFF1DD"|19.1
+|14.5
+| {{Party shading/Chega}}|'''21.1'''
+|15.4
+|7.2
+|4.4
+|4.9
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| style="background:#202056; color:white;"|2.0
+|-
+|ICS/ISCTE<ref name=":102">{{Cite web |date=2025-12-18 |title=Sondagem política Dezembro 2025 |url=https://www.erc.pt/download.php?fd=14550&l=pt&key=c0882343c150701bd869d2eab99118ff |access-date=2026-01-05 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+|5–13 Dec 2025
+|903
+|style="background:#DCDCDC60"|20
+|style="background:#FFF1DD"|20
+|14
+| {{Party shading/Chega}}|'''22'''
+|10
+|5
+|3
+|1
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|5{{efn|[[Joana Amaral Dias]]: 2%; Others: 3%.}}
+| style="background:#202056; color:white;"|2
+|-
+|CESOP–UCP<ref name=":78">{{Cite web |date=2025-12-15 |title=Sondagem dezembro 2025 CESOP |url=https://www.erc.pt/download.php?fd=14545&l=pt&key=616f030dc04d4b0d5d3d59a750c987e9 |access-date=2026-01-05 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+|4–12 Dec 2025
+|1,185
+|18
+|style="background:#FFF1DD"|20
+|16
+| {{Party shading/Chega}}|'''22'''
+|14
+|3
+|3
+|2
+|{{N/A}}
+|0.5
+|{{N/A}}
+|1.5
+| style="background:#202056; color:white;"|2
+|-
+|Aximage<ref>{{Cite web |title=Atualidade política e eleições presidenciais DN - Dezembro 2025 |url=https://www.erc.pt/download.php?fd=14530&l=pt&key=e24babfb83f98861ad6ab57b529944db |date=2025-12-05 |access-date=2025-12-22 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>{{efn|name=Aximage4}}
+|28 Nov–3 Dec 2025
+|607
+|19.6
+|style="background:#FFF1DD"|20.4
+|10.7
+| {{Party shading/Chega}}|'''21.4'''
+|11.7
+|6.6
+|3.2
+|2.1
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|4.3
+| style="background:#202056; color:white;"|1.0
+|-
+|Consulmark2<ref name=":55">{{Cite web |title=Sondagem para Euronews – Vaga 5 (2025) |url=https://www.erc.pt/pt/depositos/depositos-2025/sondagem-para-euronews-e2-80-93-vaga-5-2025-/ |date=2025-12-03 |access-date=2025-12-22 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>
+|19–28 Nov 2025
+|795
+|16.6
+|{{Party shading/PSD}} |'''22.0'''
+|style="background:#FFCBFF50"|16.9
+|16.4
+|15.9
+|2.6
+|2.5
+|0.8
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|6.3
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |5.1
+|-
+|Intercampus<ref name=":97">{{Cite web |title=Barómetro Vaga 71 - Nov 2025 |url=https://www.erc.pt/download.php?fd=14512&l=pt&key=041fb27e942f3eff0a3f98f2f1f5179a |date=2025-11-20 |access-date=2025-12-09 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>{{efn|name=Intercampus4}}
+|14–19 Nov 2025
+|611
+|19.4
+|{{Party shading/PSD}} |'''20.5'''
+|13.9
+|style="background:#C1CCE170"|19.9
+|14.4
+|5.4
+|4.7
+|2.0
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |0.6
+|-
+|Aximage<ref>{{Cite web |date=2025-11-18 |title=Sondagem sobre Eleições Presidenciais |url=https://www.erc.pt/download.php?fd=14503&l=pt&key=f31ee257f1e8242cf809f5cc84a2576f |access-date=2025-12-02 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-PT}}</ref>{{efn|name=Aximage3}}
+|10–17 Nov 2025
+|816
+|style="background:#DCDCDC60"|20.9
+|17.8
+|16.6
+| {{Party shading/Chega}}|'''21.6'''
+|10.6
+|4.4
+|2.3
+|1.7
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|4.1
+| style="background:#202056; color:white;"|0.7
+|-
+|ICS/ISCTE<ref name=":105">{{Cite web |date=2025-11-27 |title=Sondagem ICS ISCTE Novembro2025 |url=https://www.erc.pt/download.php?fd=14515&l=pt&key=1e47066036bd34f40aba804be008fbc0 |access-date=2025-12-17 |website=ERC - Entidade Reguladora para a Comunicação Social|language=pt-PT}}</ref>
+|7–17 Nov 2025
+|807
+| {{Party shading/Independent (politician)}} |'''26'''
+|23
+|14
+|style="background:#C1CCE170"|25
+|5
+|2
+|2
+|<1
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|3{{efn|[[Joana Amaral Dias]]: <1%; Others: 3%.}}
+| style="background:#777777; color:white;" |1
+|-
+|Pitagórica<ref name=":8">{{Cite web |date=2025-11-17 |title=Sondagem TVI / CNN Portugal /JN/ TSF- Novembro 2025 |url=https://www.erc.pt/download.php?fd=14496&l=pt&key=a02d55e31df00aa7abac22e330d0e4e6 |access-date=2025-12-02 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-PT}}</ref>
+|5–14 Nov 2025
+|1,000
+|style="background:#DCDCDC60"|21.1
+|{{Party shading/PSD}} |'''22.6'''
+|17.4
+|14.7
+|12.6
+|4.4
+|2.5
+|1.4
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|3.3{{efn|[[Joana Amaral Dias]]: 0.2%; Others: 3.1%.}}
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |1.5
+|-
+|Aximage<ref name=":91">{{Cite web |title=Barómetro DN - Outubro 2025 |url=https://www.erc.pt/download.php?fd=14489&l=pt&key=0e104c3987ee5bacd73a26c2b799c9b7 |date=2025-10-30 |access-date=2025-11-14 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>
+|23–27 Oct 2025
+|651
+| {{Party shading/Independent (politician)}} |'''24.4'''
+|style="background:#FFF1DD"| 19.2
+|15.7
+|style="background:#C1CCE170"|19.2
+|8.2
+|5.0
+|2.7
+|0.9
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|4.6
+| style="background:#777777; color:white;" |5.2
+|-
+|Intercampus<ref name=":79">{{Cite web |title=Barómetro CMTV, Vaga 70 |url=https://www.erc.pt/download.php?fd=14484&l=pt&key=b3a1038fb5970e6b9c5417f65140d5f5 |date=2025-10-28 |access-date=2025-11-14 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>{{efn|name=Intercampus5}}
+|20–26 Oct 2025
+|609
+|19.2
+|{{Party shading/PSD}} |'''20.7'''
+|15.4
+|style="background:#C1CCE170"|19.7
+|10.5
+|8.9
+|5.7
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |1.0
+|-
+|Pitagórica<ref name=":6">{{Cite web |title=Avaliação Presidencial |url=https://www.erc.pt/download.php?fd=14477&l=pt&key=156227d48c2d4cab3c2f38d17d819abd |date=2025-10-12 |access-date=2025-10-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>
+|6–10 Oct 2025
+|625
+| {{Party shading/Independent (politician)}} |'''26.9'''
+|style="background:#FFF1DD"|20.3
+|18.4
+|13.9
+|9.1
+|1.9
+|2.5
+|2.9<br>{{small|([[Rui Tavares|RT]])}}
+|0.2
+|{{N/A}}
+|{{N/A}}
+|3.9{{efn|name=Tinoco}}
+| style="background:#777777; color:white;" |6.6
+|-
+|Intercampus<ref name=":7">{{Cite web |title=Sondagem Presidenciais |url=https://www.erc.pt/download.php?fd=14479&l=pt&key=74c3d53f577fbcd1e7006f41d603d9b5 |date=2025-10-12 |access-date=2025-10-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>{{efn|name=Intercampus6}}
+|1–8 Oct 2025
+|802
+| {{Party shading/Independent (politician)}} |'''24.0'''
+|style="background:#FFF1DD"|21.9
+|11.3
+|21.2
+|11.0
+|6.5
+|4.1
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| style="background:#777777; color:white;" |2.1
+|-
+|Intercampus<ref name=":5">{{Cite web |title=Barómetro CMTV, Vaga 69 |url=https://www.erc.pt/download.php?fd=14210&l=pt&key=b08e684a33f344cf68489050bb2f0a63 |date=2025-08-18 |access-date=2025-09-03 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>{{efn|name=Intercampus7}}
+|7–14 Aug 2025
+|611
+| {{Party shading/Independent (politician)}} |'''22.8'''
+|style="background:#FFF1DD"|19.8
+|16.9
+|17.4
+|10.7
+|5.8
+|2.5
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|4.1{{efn|name=Moreira}}
+| style="background:#777777; color:white;" |3.0
+|-
+|ICS/ISCTE<ref>{{Cite web |date=2025-09-04 |title=Gouveia e Melo vai buscar votos até ao Bloco; Mendes, Ventura e Seguro dependem dos fiéis |url=https://expresso.pt/politica/eleicoes/presidenciais/2025-09-04-presidenciais-gouveia-e-melo-ate-ao-bloco-vai-buscar-votos-mendes-ventura-e-seguro-estao-dependentes-dos-eleitorados-partidarios-01d71706 |access-date=2025-09-06 |website=Expresso |language=pt}}</ref>{{efn|name=ISCTE}}
+|28 Jun–10 Aug 2025
+|2,017
+| {{Party shading/Independent (politician)}} |'''32'''
+|style="background:#FFF1DD"|22
+|17
+|style="background:#C1CCE170"|22
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|7
+| style="background:#777777; color:white;" |6
+|-
+| rowspan="2" |Aximage<ref name=":4" />{{efn|name=Aximage1}}
+| rowspan="2" |11–21 Jul 2025
+| rowspan="2" |1,000
+| {{Party shading/Independent (politician)}} |'''37'''
+|style="background:#FFF1DD"|27
+|20
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|16
+| style="background:#777777; color:white;" |10
+|-
+| {{Party shading/Independent (politician)}} |'''32'''
+|style="background:#FFF1DD"|25
+|17
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|5
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|21{{efn|name=Aximage2}}
+| style="background:#777777; color:white;" |7
+|-
+|Intercampus<ref name=":3">{{Cite web |title=Barómetro CMTV, Vaga 68 |url=https://www.erc.pt/download.php?fd=14175&l=pt&key=60d476d9fb2f286ff61d12bab829e631 |date=2025-07-21 |access-date=2025-08-06 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>{{efn|name=Intercampus8}}
+|11–18 Jul 2025
+|606
+| {{Party shading/Independent (politician)}} |'''24.8'''
+|style="background:#FFF1DD"|20.7
+|19.8
+|12.7
+|8.2
+|4.3<br>{{small|([[Mariana Mortágua|MM]])}}
+|4.6
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|4.9{{efn|name=Intercampus2}}
+| style="background:#777777; color:white;" |4.1
+|-
+|Intercampus<ref name=":30">{{Cite web |date=2025-06-17 |title=Barómetro Vaga 67 - Junho 2025 |url=https://www.erc.pt/download.php?fd=14144&l=pt&key=3b83f38a4a417b5971f9d681154a3669 |website=ERC - Entidade Reguladora para a Comunicação Social |access-date=2026-02-18 |language=pt}}</ref>{{efn|name=Intercampus9}}
+|5–15 Jun 2025
+|616
+| {{Party shading/Independent (politician)}} | '''35.6'''
+|style="background:#FFF1DD"|24.1
+|14.3
+|10.9
+|2.3<br>{{small|([[Mariana Leitão|ML]])}}
+|4.8<br>{{small|([[Mariana Mortágua|MM]])}}
+|3.1<br>{{small|([[Paulo Raimundo|PR]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|4.9{{efn|name=Intercampus1}}
+| style="background:#777777; color:white;" |11.4
+|-
+|Consulmark2<ref name=":1">{{Cite web |date=2025-05-13 |title=Sondagem para Jornal Nascer do Sol – Vaga 4 (2025) |url=https://www.erc.pt/pt/depositos/depositos-2025/sondagem-para-jornal-nascer-do-sol-e2-80-93-vaga-4-2025-/ |access-date=2026-02-18 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Consulmark2.1}}
+|6–13 May 2025
+|589
+| {{Party shading/Independent (politician)}} |'''35.6'''
+|style="background:#FFF1DD"|21.2
+|6.9
+|9.6
+|2.2<br>{{small|([[Mariana Leitão|ML]])}}
+|4.7
+|2.2<br>{{small|([[Paulo Raimundo|PR]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|17.6{{efn|name=Consulmark2c}}
+| style="background:#777777; color:white;" |14.4
+|-
+|Consulmark2<ref name=":0">{{Cite web |date=2025-04-22 |title=Sondagem para Jornal Nascer do Sol – Vaga 3 (2025) |url=https://www.erc.pt/pt/depositos/depositos-2025/sondagem-para-jornal-nascer-do-sol-e2-80-93-vaga-3-2025-/ |access-date=2026-02-18 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Consulmark2.2}}
+|14–22 Apr 2025
+|569
+| {{Party shading/Independent (politician)}} |'''36.7'''
+|style="background:#FFF1DD"|21.4
+|8.0
+|8.2
+|1.4<br>{{small|([[Mariana Leitão|ML]])}}
+|4.9
+|1.4<br>{{small|([[Paulo Raimundo|PR]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|18.0{{efn|name=Consulmark2b}}
+| style="background:#777777; color:white;" |15.3
+|-
+|Consulmark2<ref>{{Cite web |date=2025-04-04 |title=Sondagem para Jornal Nascer do Sol – Vaga 2 (2025) |url=https://www.erc.pt/pt/depositos/depositos-2025/sondagem-para-jornal-nascer-do-sol-e2-80-93-vaga-2-2025-/ |access-date=2025-04-19 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Consulmark2.3}}
+|27 Mar–3 Apr 2025
+|583
+| {{Party shading/Independent (politician)}} | '''46.1'''
+|style="background:#FFF1DD"|21.5
+|10.1
+|5.6
+|1.1<br>{{small|([[Mariana Leitão|ML]])}}
+|4.5
+|0.6<br>{{small|([[Paulo Raimundo|PR]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|10.5{{efn|name=Consulmark2}}
+| style="background:#777777; color:white;" |24.6
+|-
+|CESOP–UCP<ref>{{Cite web |date=2025-04-03 |title=CESOP Sondagem política Sondagem de março de 2025 |url=https://www.erc.pt/download.php?fd=13992&l=pt&key=deb8170062100383c8408f830a080fac |access-date=2025-04-19 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+|17–26 Mar 2025
+|1,206
+| {{Party shading/Independent (politician)}} | '''37'''
+|style="background:#FFF1DD"|19
+|7
+|9
+|3<br>{{small|([[Mariana Leitão|ML]])}}
+|4
+|2<br>{{small|([[Paulo Raimundo|PR]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|19{{efn|name=Vitorino}}
+| style="background:#777777; color:white;" |18
+|-
+|Intercampus<ref name=":11">{{Cite web |date=2025-03-11 |title=Barómetro CMTV, Vaga 62 |url=https://www.erc.pt/download.php?fd=13942&l=pt&key=3cf46dbf073a71f52db137815366776e |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Intercampus10}}
+|4–10 Mar 2025
+|638
+| {{Party shading/Independent (politician)}} | '''44.8'''
+|style="background:#FFF1DD"|17.5
+|9.7
+|15.6
+|5.0<br>{{small|([[Mariana Leitão|ML]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|7.4{{efn|name=Vitorino1}}
+| style="background:#777777; color:white;" |27.3
+|-
+| rowspan="2" |Pitagórica<ref name=":13">{{Cite web |date=2025-03-06 |title=BARÓMETRO TVI, CNN Portugal, TSF, JN e O Jogo |url=https://www.erc.pt/download.php?fd=13929&l=pt&key=10579e341daa2442e8aa4c8d298872fb |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| rowspan="2" |23–27 Feb 2025
+| rowspan="2" |400
+| {{Party shading/Independent (politician)}} |'''35.9'''
+|style="background:#FFF1DD"|25.5
+|14.1
+|12.9
+|2.5<br>{{small|([[Mariana Leitão|ML]])}}
+|{{N/A}}
+|1.8<br>{{small|([[Jerónimo de Sousa|JS]])}}
+|{{N/A}}
+|0.6
+|{{N/A}}
+|{{N/A}}
+|6.4{{efn|name=Nóvoa}}
+| style="background:#777777; color:white;" |10.4
+|-
+| {{Party shading/Independent (politician)}} |'''32.2'''
+|style="background:#FFF1DD"|24.8
+|{{N/A}}
+|12.1
+|2.2<br>{{small|([[Mariana Leitão|ML]])}}
+|{{N/A}}
+|1.9<br>{{small|([[Jerónimo de Sousa|JS]])}}
+|{{N/A}}
+|0.7
+|{{N/A}}
+|{{N/A}}
+|26.1{{efn|name=Vitorino2}}
+| style="background:#777777; color:white;" |7.4
+|-
+|Aximage<ref>{{Cite web |date=2025-02-01 |title=Atualidade Política Sondagem Aximage Janeiro 2025 |url=https://www.erc.pt/download.php?fd=13917&l=pt&key=67f0d538954aa5b3b94bef9070bc67b1 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Aximage5}}
+|23–28 Jan 2025
+|800
+| {{Party shading/Independent (politician)}} | '''35'''
+|14
+|10
+|14
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|27{{efn|name=Durão}}
+| style="background:#777777; color:white;" |20
+|-
+|Intercampus<ref name=":12">{{Cite web |date=2025-01-29 |title=Barómetro CMTV, Vaga 61 |url=https://www.erc.pt/download.php?fd=13902&l=pt&key=74886c1e36f88e25b2a1777b48bfd045 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Intercampus11}}
+|21–26 Jan 2025
+|638
+| {{Party shading/Independent (politician)}} | '''40.7'''
+|style="background:#FFF1DD"|17.3
+|10.2
+|11.6
+|{{N/A}}
+|6.0
+|3.7<br>{{small|([[João Ferreira (politician)|JF]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|10.5{{efn|name=Vitorino3}}
+| style="background:#777777; color:white;" |23.4
+|-
+| rowspan="3" |ICS/ISCTE<ref name=":16">{{Cite web |date=2025-01-29 |title=Sondagem ICS/ISCTE Janeiro 2025 |url=https://www.erc.pt/download.php?fd=13907&l=pt&key=7712037d2ba4f3c8ee96f9f9dfa7124b |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| rowspan="3" |9–20 Jan 2025
+| rowspan="3" |805
+| {{Party shading/Independent (politician)}} | '''33'''
+|17
+|20
+|style="background:#C1CCE170"|21
+|1<br>{{small|([[Liberal Initiative|IL]])}}
+|1<br>{{small|([[Left Bloc (Portugal)|BE]])}}
+|1<br>{{small|([[Portuguese Communist Party|PCP]])}}
+|1<br>{{small|([[LIVRE|L]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|5{{efn|name=Others1}}
+| style="background:#777777; color:white;" |12
+|-
+| {{Party shading/Independent (politician)}} | '''33'''
+|17
+|{{N/A}}
+|style="background:#C1CCE170"|21
+|1<br>{{small|([[Liberal Initiative|IL]])}}
+|3<br>{{small|([[Left Bloc (Portugal)|BE]])}}
+|1<br>{{small|([[Portuguese Communist Party|PCP]])}}
+|1<br>{{small|([[LIVRE|L]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|23{{efn|name=Others2}}
+| style="background:#777777; color:white;" |12
+|-
+| {{Party shading/Independent (politician)}} | '''32'''
+|17
+|{{N/A}}
+|style="background:#C1CCE170"|21
+|1<br>{{small|([[Liberal Initiative|IL]])}}
+|3<br>{{small|([[Left Bloc (Portugal)|BE]])}}
+|1<br>{{small|([[Portuguese Communist Party|PCP]])}}
+|1<br>{{small|([[LIVRE|L]])}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|24{{efn|name=Centeno}}
+| style="background:#777777; color:white;" |10
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Polling before confirmed candidates, with several options|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{{sticky header}}
+{| class="wikitable mw-collapsible sortable sticky-header-multi" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" style="width:80px;"|Polling firm
+! rowspan="3" class="unsortable"|Fieldwork date
+! rowspan="3" class="unsortable"|Sample<br>size
+!{{vert header|stp=1|[[Henrique Gouveia e Melo|Gouveia e Melo]]}}
+!{{vert header|stp=1|[[António Costa]]}}
+!{{vert header|stp=1|[[Pedro Passos Coelho|Passos Coelho]]}}
+!{{vert header|stp=1|[[Paulo Portas]]}}
+!{{vert header|stp=1|[[Luís Marques Mendes|Marques Mendes]]}}
+!{{vert header|stp=1|[[Mariana Mortágua]]}}
+!{{vert header|stp=1|[[Catarina Martins]]}}
+!{{vert header|stp=1|[[Augusto Santos Silva|Santos Silva]]}}
+!{{vert header|stp=1|[[André Ventura]]}}
+!{{vert header|stp=1|[[João Ferreira (politician)|João Ferreira]]}}
+!{{vert header|stp=1|[[Paulo Raimundo]]}}
+!{{vert header|stp=1|[[Ana Gomes]]}}
+!{{vert header|stp=1|[[João Cotrim de Figueiredo|Cotrim Figueiredo]]}}
+!{{vert header|stp=1|[[José Manuel Durão Barroso|Durão Barroso]]}}
+!{{vert header|stp=1|[[António Guterres]]}}
+!{{vert header|stp=1|[[António José Seguro]]}}
+!{{vert header|stp=1|[[Mário Centeno]]}}
+!{{vert header|stp=1|[[Pedro Santana Lopes|Santana Lopes]]}}
+!{{vert header|stp=1|[[Rui Tavares]]}}
+! rowspan="3" class="unsortable" style="width:30px;" | {{abbr|O|Others}}/<br/>{{abbr|U|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[CDS – People's Party|CDS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Left Bloc (Portugal)|BE]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Left Bloc (Portugal)|BE]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Chega (political party)|CH]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Unitary Democratic Coalition|CDU]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Unitary Democratic Coalition|CDU]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Liberal Initiative (Portugal)|IL]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[LIVRE|L]]}}
+|-
+! style="background:#777777;"|
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:{{party color|Social Democratic Party (Portugal)}};"|
+! style="background:{{party color|CDS – People's Party}};"|
+! style="background:{{party color|Social Democratic Party (Portugal)}};"|
+! style="background:{{party color|Left Bloc (Portugal)}};"|
+! style="background:{{party color|Left Bloc (Portugal)}};"|
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:#202056;"|
+! style="background:{{party color|Unitary Democratic Coalition}};"|
+! style="background:{{party color|Unitary Democratic Coalition}};"|
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:#00ADEF;"|
+! style="background:{{party color|Social Democratic Party (Portugal)}};"|
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:#777777;"|
+! style="background:{{party color|LIVRE}};" |
+|-
+| Intercampus<ref name=":20">{{Cite web |date=2024-10-29 |title=Barómetro CMTV, Vaga 60 |url=https://www.erc.pt/download.php?fd=13860&l=pt&key=133f9c16daf4c3ad4a413b03c3057b64 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 21–27 Nov 2024
+| 605
+| {{Party shading/Independent (politician)}}| '''23.2'''
+| {{N/A}}
+| style="background:#FFF1DD"|13.9
+| {{N/A}}
+| 9.8
+| {{N/A}}
+| 4.0
+| {{N/A}}
+| 6.6
+| {{N/A}}
+| 0.9
+| 5.1
+| 3.2
+| 3.2
+| {{N/A}}
+| 4.7
+| 6.4
+| 1.3
+| 2.4
+| 15.3
+| style="background:#777777; color:white;"| 9.3
+|-
+| Aximage<ref name=":21">{{Cite web |date=2024-09-23 |title=Sondagem Aximage Presidenciais 2026 Setembro 2024 |url=https://www.erc.pt/download.php?fd=13829&l=pt&key=d998ffa3ed0235f8024aab4dd1d12ec2 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 6–19 Sep 2024
+| 818
+| {{Party shading/Independent (politician)}}| '''21.0'''
+| {{N/A}}
+| style="background:#FFF1DD"|14.7
+| {{N/A}}
+| 10.6
+| {{N/A}}
+| {{N/A}}
+| 5.0
+| 8.8
+| {{N/A}}
+| {{N/A}}
+| 7.9
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 8.3
+| {{N/A}}
+| {{N/A}}
+| 23.7
+| style="background:#777777; color:white;"| 6.3
+|-
+| Intercampus<ref name=":22">{{Cite web |date=2024-07-29 |title=Barómetro CMTV, Vaga 57 |url=https://www.erc.pt/download.php?fd=13814&l=pt&key=abeff3474eadab454e94235a763b7e34 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 19–26 Jul 2024
+| 609
+| 9.4
+| {{N/A}}
+| style="background:#FFF1DD"|14.1
+| 4.6
+| 8.1
+| 8.4
+| {{N/A}}
+| {{N/A}}
+| 11.4
+| {{N/A}}
+| 1.5
+| 5.7
+| 4.8
+| {{N/A}}
+| {{Party shading/PS}}| '''19.3'''
+| {{N/A}}
+| 4.6
+| 2.4
+| {{N/A}}
+| 5.7<br/>{{efn|name=Beleza}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 5.2
+|-
+| Duplimétrica<ref name=":23">{{Cite web |date=2024-05-19 |title=SONDAGEM SOBRE ELEIÇÕES EUROPEIAS - PORTUGAL |url=https://www.erc.pt/download.php?fd=13717&l=pt&key=e7d4bdd31acd5b1fdef5d33286c0a439 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 6–13 May 2024
+| 800
+| 10
+| {{Party shading/PS}}| '''17'''
+| style="background:#FFF1DD"|13
+| 5
+| 7
+| {{N/A}}
+| 2
+| {{N/A}}
+| 5
+| {{N/A}}
+| {{N/A}}
+| 3
+| {{N/A}}
+| 5
+| style="background:#FFCBFF50"|13
+| {{N/A}}
+| 5
+| {{N/A}}
+| {{N/A}}
+| 15
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 4
+|-
+| Intercampus<ref name=":24">{{Cite web |date=2024-04-24 |title=Barómetro CMTV, Vaga 54 |url=https://www.erc.pt/download.php?fd=13706&l=pt&key=0cccf12222839960b8f5aad3ea46de91 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 18–23 Apr 2024
+| 605
+| 8.4
+| {{Party shading/PS}}| '''14.7'''
+| 12.5
+| 2.7
+| 5.7
+| {{N/A}}
+| 5.9
+| {{N/A}}
+| 7.7
+| {{N/A}}
+| 1.3
+| 5.3
+| 2.7
+| 2.9
+| style="background:#FFCBFF50"|13.6
+| {{N/A}}
+| 2.9
+| 1.3
+| 3.5
+| 9.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 1.1
+|-
+| Intercampus<ref name=":25">{{Cite web |date=2023-09-20 |title=Barómetro CMTV, Vaga 47 |url=https://www.erc.pt/download.php?fd=13401&l=pt&key=36721139675d07d288082ce8858628d0 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 9–14 Sep 2023
+| 614
+| 7.8
+| 8.8
+| {{Party shading/PSD}}| '''15.8'''
+| 3.9
+| 6.0
+| {{N/A}}
+| 5.5
+| 1.5
+| 9.0
+| {{N/A}}
+| 2.0
+| 3.4
+| 3.3
+| 3.1
+| style="background:#FFCBFF50"| 14.8
+| {{N/A}}
+| 3.9
+| 2.0
+| {{N/A}}
+| 9.3
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;"| 1.0
+|-
+| Intercampus<ref name=":26">{{Cite web |date=2023-07-07 |title=Barómetro CMTV, Vaga 45 |url=https://www.erc.pt/download.php?fd=13187&l=pt&key=3bc9c70d3085e51d34f0caf6d234c4f1 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 3–6 Jul 2023
+| 623
+| 7.9
+| style="background:#FFCBFF50"| 14.3
+| 13.3
+| 3.2
+| 3.0
+| {{N/A}}
+| 6.9
+| 1.4
+| 11.4
+| {{N/A}}
+| 0.8
+| 5.9
+| 3.2
+| {{N/A}}
+| {{Party shading/PS}}| '''15.1'''
+| 2.7
+| 2.6
+| 1.9
+| {{N/A}}
+| 6.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 0.8
+|-
+| Intercampus<ref name=":27">{{Cite web |date=2023-02-15 |title=Barómetro CMTV, Vaga 41 |url=https://www.erc.pt/download.php?fd=12905&l=pt&key=9b243b6f17b1498ed16069da5412c90d |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 3–10 Feb 2023
+| 602
+| 10.0
+| 10.6
+| {{Party shading/PSD}}| '''15.8'''
+| {{N/A}}
+| 3.8
+| 4.3
+| {{N/A}}
+| 3.8
+| 9.5
+| {{N/A}}
+| {{N/A}}
+| 6.0
+| 3.8
+| 4.0
+| style="background:#FFCBFF50"| 13.5
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 14.9<br/>{{efn|name=Assis}}
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;"| 2.3
+|-
+| Intercampus<ref name=":28">{{Cite web |date=2022-11-23 |title=Barómetro CMTV, Vaga 38 |url=https://www.erc.pt/download.php?fd=13136&l=pt&key=3d3e1c3c803c65ba61c4229a7f2bea1f |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref><br/>{{efn|name=Poll}}
+| 15–20 Nov 2022
+| 605
+| {{Party shading/Independent (politician)}}| '''15.9'''
+| 9.6
+| style="background:#FFF1DD"| 15.2
+| 6.3
+| 7.3
+| 4.0
+| {{N/A}}
+| 5.8
+| 6.1
+| 3.3
+| {{N/A}}
+| 8.6
+| 2.1
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 15.8
+| style="background:#777777; color:white;"| 0.7
+|-
+| rowspan="4"| Intercampus<ref name=":29">{{Cite web |date=2022-07-13 |title=Barómetro CMTV, Vaga 34 |url=https://www.erc.pt/download.php?fd=12783&l=pt&key=fcf8e8a0c91a4d789b188a0eb3d31ffd |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| rowspan="4"| 6–11 Jul 2022
+| rowspan="4"| 605
+| {{Party shading/Independent (politician)}}| '''31.7'''
+| {{N/A}}
+| {{N/A}}
+| style="background:#e3f7ff"| 10.9
+| 10.4
+| 7.8
+| {{N/A}}
+| 7.8
+| 6.1
+| 3.0
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 22.3
+| style="background:#777777; color:white;"| 20.8
+|-
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{Party shading/PP}}| '''18.3'''
+| style="background:#FFF1DD"| 17.4
+| 12.7
+| {{N/A}}
+| 12.2
+| {{N/A}}
+| 4.5
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 34.9
+| style="background:{{party color|CDS – People's Party}}; color:white;"| 0.9
+|-
+| {{N/A}}
+| {{Party shading/PS}}| '''31.1'''
+| {{N/A}}
+| 13.6
+| style="background:#FFF1DD"| 16.2
+| 7.8
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 4.0
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 27.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 14.9
+|-
+| {{N/A}}
+| {{N/A}}
+| {{Party shading/PSD}}| '''23.1'''
+| {{N/A}}
+| style="background:#FFF1DD"| 16.5
+| 12.9
+| {{N/A}}
+| 12.4
+| {{N/A}}
+| 4.5
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 30.6
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;"| 6.6
+|}
+{{hidden end}}
+
+=== Second round ===
+Poll results are shown in the table below in reverse chronological order, showing the most recent first. 
+
+{{legend2|#EAFFEA|Exit poll|border=1px solid #AAAAAA}}
+
+{{sticky header}}
+{| class="wikitable mw-collapsible sortable sticky-header-multi" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;" |Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;" |Sample<br>size
+! class="unsortable" width="55px" |[[António José Seguro|Seguro]]
+! class="unsortable" width="55px" |[[André Ventura|Ventura]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br />{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Chega (political party)|CH]]}}
+|-
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:#202056;"|
+|-
+| colspan="7" style="background:#A0A0A0" |
+|- style="background:#E9E9E9;"
+|'''[[2026 Portuguese presidential election|Second round]]'''
+|8 Feb 2026
+| {{N/A}}
+| {{Party shading/PS}} |'''66.8'''
+| 33.2
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |'''33.6'''
+|-
+| colspan="7" style="background:#A0A0A0"|
+|- style="background:#EAFFEA"
+| CESOP–UCP<ref>{{Cite web |title=Eleições Presidenciais 2026 - Boca de Urna (2ª volta) |url=https://www.erc.pt/download.php?fd=14693&l=pt&key=ada0ccf79342fa569913ad3557500b1c|date=2026-02-08 |access-date=2026-02-13 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 8 Feb 2026
+|40,526
+| {{Party shading/PS}} |'''68–<br />73'''
+|27–<br />32
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |36–<br />46
+|- style="background:#EAFFEA"
+| ICS/ISCTE/Pitagórica<ref>{{Cite web |title=Eleições Presidência da República 2026 - Boca da Urna (Previsão eleitoral - 2º Escrutínio) |url=https://www.erc.pt/pt/depositos/deposito-2026/eleicoes-presidencia-da-republica-2026-boca-da-urna-previsao-eleitoral-2-escrutinio-/|date=2026-02-08 |access-date=2026-02-13 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 8 Feb 2026
+|26,584
+| {{Party shading/PS}} |'''67.0–<br />71.4'''
+|28.6–<br />33.0
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |34.0–<br />42.8
+|- style="background:#EAFFEA"
+| Intercampus<ref>{{Cite web |title=Presidenciais 2026 - Boca da Urna (2º sufrágio) |url=https://www.erc.pt/download.php?fd=14681&l=pt&key=dcd96a80097848aadcd2c8d1a7b61fd5|date=2026-02-08 |access-date=2026-02-13 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 8 Feb 2026
+|12,665
+| {{Party shading/PS}} |'''66.8–<br />71.8'''
+|28.2–<br />33.2
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |33.6–<br />43.6
+|-
+| rowspan="2" |Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#11 - 6 fevereiro 2026 |url=https://www.erc.pt/download.php?fd=14754&l=pt&key=f385c4c4001a0191df4444d3225c76ef |access-date=2026-02-19 | date=2026-02-06 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+| rowspan="2" |3–5 Feb 2026
+|810{{efn|name=NoUndecided}}
+| {{Party shading/PS}} |'''67.8'''
+|32.2
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |35.6
+|-
+|810{{efn|name=WithUndecided}}
+| {{Party shading/PS}} |'''56.7'''
+|26.9
+|16.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |29.8
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#10 - 5 fevereiro 2026 |url=https://www.erc.pt/download.php?fd=14751&l=pt&key=4dbcd3155bbd1df714ce11704f772901 |access-date=2026-02-19 | date=2026-02-05 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|2–4 Feb 2026
+|608
+| {{Party shading/PS}} |'''53.5'''
+|28.0
+|18.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |25.5
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#9 - 4 fevereiro 2026|url=https://www.erc.pt/download.php?fd=14747&l=pt&key=16435e56a3df1e9181cf6845baf30c5c |access-date=2026-02-18 | date=2026-02-04 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|1–3 Feb 2026
+|608
+| {{Party shading/PS}} |'''53.2'''
+|29.5
+|17.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |23.7
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#8 - 3 fevereiro 2026|url=https://www.erc.pt/download.php?fd=14733&l=pt&key=82b516a252be4b0ac28164bf3739973e |access-date=2026-02-18 | date=2026-02-03 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|31 Jan–2 Feb 2026
+|608
+| {{Party shading/PS}} |'''52.8'''
+|28.1
+|19.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |24.7
+|-
+| rowspan="2" |CESOP–UCP<ref>{{Cite web |title=Sondagem pré eleitoral 2ª volta 2026 CESOP |url=https://www.erc.pt/download.php?fd=14736&l=pt&key=eb4b14e7907843fd0f9ff103b31673b2 |access-date=2026-02-18 | date=2026-02-03 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| rowspan="2" |29 Jan–2 Feb 2026
+|1,601{{efn|name=NoUndecided}}
+| {{Party shading/PS}} |'''67'''
+|33
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |34
+|-
+|1,601{{efn|name=WithUndecided}}
+| {{Party shading/PS}} |'''56'''
+|25
+|19
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |31
+|-
+|Aximage<ref>{{Cite web |title=Eleições presidenciais 2ª volta - DN Fevereiro 2026 |url=https://www.erc.pt/download.php?fd=14742&l=pt&key=1761c8632a34d10fc0751f0918a7cdf5 |access-date=2026-02-18 | date=2026-02-04 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+|29 Jan–2 Feb 2026
+|607
+| {{Party shading/PS}} |'''65.4'''
+|30.3
+|4.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |35.1
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#7 - 2 fevereiro 2026 |url=https://www.erc.pt/download.php?fd=14730&l=pt&key=d01a1b28b4d071c98f86ccfd6d43f5c6 |access-date=2026-02-18 | date=2026-02-02 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|30 Jan–1 Feb 2026 
+|608
+| {{Party shading/PS}} |'''53.6'''
+|27.9
+|18.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |25.7
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#6 - 1 fevereiro 2026 |url=https://www.erc.pt/download.php?fd=14727&l=pt&key=20b2507a2bd2c69553f3034659527559 |access-date=2026-02-18 | date=2026-02-01 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|29–31 Jan 2026 
+|608
+| {{Party shading/PS}} |'''56.2'''
+|28.4
+|15.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |27.8
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#5 - 31 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14724&l=pt&key=8475ab8c4750045e3787f1c0070d0695 |access-date=2026-02-18 | date=2026-01-31 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|28–30 Jan 2026 
+|608
+| {{Party shading/PS}} |'''57.3'''
+|27.2
+|15.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |30.1
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#4 - 30 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14721&l=pt&key=68540a074d6539182a01230e6091f0e3 |access-date=2026-02-18 | date=2026-01-30 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|27–29 Jan 2026 
+|608
+| {{Party shading/PS}} |'''57.8'''
+|27.3
+|14.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |30.5
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#3 - 29 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14710&l=pt&key=55aee5e29dd21480e5b0efb825f6545d |access-date=2026-02-13 | date=2026-01-29 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|26–28 Jan 2026 
+|608
+| {{Party shading/PS}} |'''59.0'''
+|28.0
+|13.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |31.0
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#2 - 28 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14707&l=pt&key=2acb833f42b200d9d7ca65dd6e2ce7ec |access-date=2026-02-13 | date=2026-01-28 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|25–27 Jan 2026 
+|608
+| {{Party shading/PS}} |'''61.9'''
+|26.2
+|11.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |35.7
+|-
+|Pitagórica<ref>{{Cite web |title=Tracking Poll Presidenciais 2ª volta 2026 TVI , CNN, JN e TSF - Day#1 - 27 janeiro 2026 |url=https://www.erc.pt/download.php?fd=14698&l=pt&key=cce79d24a31858a05deb7e36ba3c13d0 |access-date=2026-02-13 | date=2026-01-27 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>{{efn|name=Pitagórica1}}
+|24–26 Jan 2026 
+|608
+| {{Party shading/PS}} |'''60.9'''
+|26.5
+|12.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |34.4
+|-
+|Aximage<ref>{{Cite web |title=Sondagem sobre Eleições Presidenciais - 2ª Volta |url=https://www.erc.pt/download.php?fd=14701&l=pt&key=cc0ff4eb06ef3f7938a105dc3f6e1e2c|date=2026-01-27 |access-date=2026-02-13|website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+|21–26 Jan 2026
+|800
+| {{Party shading/PS}} |'''64.6'''
+|30.8
+|4.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |33.8
+|-
+| rowspan="2" | ICS/ISCTE<ref>{{Cite web |title=Sondagem política Janeiro 2026 |url=https://www.erc.pt/download.php?fd=14716&l=pt&key=03741e5a7c59e0590a4edb547ead44e4 |date=2026-01-29 |access-date=2026-02-13 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+|rowspan="2" | 20–25 Jan 2026
+|902{{efn|name=NoUndecided}}
+| {{Party shading/PS}} |'''66'''
+|34
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |32
+|-
+|902{{efn|name=WithUndecided}}
+| {{Party shading/PS}} |'''51'''
+|27
+|22
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |24
+|-
+| rowspan="2" | CESOP–UCP<ref>{{Cite web |title=Sondagem Pós 1ª volta Presidenciais 2026 |url=https://www.erc.pt/download.php?fd=14676&l=pt&key=985c917ea7e3f4c3a689c4699921eb79|date=2026-01-23 |access-date=2026-02-13 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+|rowspan="2" | 20–21 Jan 2026
+|1,102{{efn|name=NoUndecided}}
+| {{Party shading/PS}} |'''70'''
+|30
+|{{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |40
+|-
+| 1,102{{efn|name=WithUndecided}}
+| {{Party shading/PS}} |'''61'''
+|27
+|12
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |34
+|-
+|Intercampus<ref>{{Cite web |title=Sondagem Presidenciais 2026 - 2ª volta |url=https://www.erc.pt/download.php?fd=14671&l=pt&key=dc7bd5a435af239cda812ac793e0c747 |access-date=2026-02-06 |date=2026-01-22 | website=ERC - Entidade Reguladora para a Comunicação Social |language=pt-pt}}</ref>
+|19–21 Jan 2026
+|609
+| {{Party shading/PS}} |'''60.8'''
+|24.5
+|14.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |36.3
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+| {{Party shading/PS}} |'''66'''
+|27
+|7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |39
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+| {{Party shading/PS}} |'''67'''
+|26
+|7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |41
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+| {{Party shading/PS}} |'''66'''
+|25
+|9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |41
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+| {{Party shading/PS}} |'''57.1'''
+|32.4
+|10.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |24.7
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+| {{Party shading/PS}} |'''60.5'''
+|25.6
+|13.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |34.9
+|-
+|Aximage<ref name=":657" />
+|9–12 Jan 2026
+|606
+| {{Party shading/PS}} |'''49'''
+|29
+|22
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |20
+|-
+|Aximage<ref name=":1278" />
+|1–6 Jan 2026
+|800
+| {{Party shading/PS}} |'''42'''
+|30
+|28
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+| {{Party shading/PS}} |'''65'''
+|23
+|12
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |42
+|-
+|Intercampus<ref name=":110" />
+|12–16 Dec 2025
+|611
+| {{Party shading/PS}} |'''52.2'''
+|33.6
+|14.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |18.6
+|-
+| ICS/ISCTE<ref name=":102" />
+| 5–13 Dec 2025
+| 903
+| {{Party shading/PS}} |'''45'''
+|24
+|31
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |21
+|-
+| CESOP–UCP<ref name=":78" />
+| 4–12 Dec 2025
+| 1,185
+| {{Party shading/PS}} |'''66'''
+|29
+|5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |37
+|-
+| Consulmark2<ref name=":55" />
+| 19–28 Nov 2025
+| 795
+| {{Party shading/PS}} |'''60.1'''
+|21.4
+|18.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |38.7
+|-
+| Intercampus<ref name=":97" />
+| 14–19 Nov 2025
+| 611
+| {{Party shading/PS}} |'''53.0'''
+|28.5
+|18.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |24.5
+|-
+| ICS/ISCTE<ref name=":105" />
+| 7–17 Nov 2025
+| 807
+| {{Party shading/PS}} |'''42'''
+|25
+|33
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |17
+|-
+| Pitagórica<ref name=":8" />
+| 5–14 Nov 2025
+| 1,000
+| {{Party shading/PS}} |'''67'''
+|21
+|12
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |46
+|-
+| Aximage<ref name=":91" />
+| 23–27 Oct 2025
+| 651
+| {{Party shading/PS}} |'''56'''
+|26
+|18
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |30
+|-
+| Intercampus<ref name=":79" />
+| 20–26 Oct 2025
+| 609
+| {{Party shading/PS}} |'''58.5'''
+|29.9
+|11.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |28.6
+|-
+| Pitagórica<ref name=":6" />
+| 6–10 Oct 2025
+| 625
+| {{Party shading/PS}} |'''61'''
+|21
+|18
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |40
+|-
+| Intercampus<ref name=":7" />
+| 1–8 Oct 2025
+| 802
+| {{Party shading/PS}} |'''54.9'''
+|29.8
+|15.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |25.1
+|-
+| Intercampus<ref name=":5" />
+| 7–14 Aug 2025
+| 611
+| {{Party shading/PS}} |'''52.0'''
+| 29.5
+| 18.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |22.5
+|-
+| Pitagórica<ref name=":13" />
+| 23–27 Feb 2025
+| 400
+| {{Party shading/PS}} |'''65'''
+|18
+|17
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |47
+|}
+
+==== Other scenarios ====
+Poll results showing how people would vote on hypothetical second round matchups, are shown in the table below in reverse chronological order, showing the most recent first
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;"|Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;"|Sample<br>size
+! class="unsortable" width="55px" |[[Henrique Gouveia e Melo|Gouveia e Melo]]
+! class="unsortable" width="55px" |[[Luís Marques Mendes|Marques Mendes]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br/>{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+|-
+! style="background:#777777;" |
+! style="background:{{party color|Social Democratic Party (Portugal)}};" |
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+| {{Party shading/Independent (politician)}} |'''44'''
+|42
+|14
+| style="background:#777777; color:white;" |2
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+| {{Party shading/Independent (politician)}} |'''45'''
+|42
+|13
+| style="background:#777777; color:white;" |3
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+| {{Party shading/Independent (politician)}} |'''44'''
+|42
+|14
+| style="background:#777777; color:white;" |2
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+|37.7
+| {{Party shading/PSD}} |'''38.8'''
+|23.4
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |1.1
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+|40.1
+| {{Party shading/PSD}} |'''40.9'''
+|19.0
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |0.8
+|-
+|Aximage<ref name=":1278" />
+|1–6 Jan 2026
+|800
+| {{Party shading/Independent (politician)}} |'''33'''
+|30
+|37
+| style="background:#777777; color:white;" |3
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+|34
+| {{Party shading/PSD}} |'''47'''
+|19
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |13
+|-
+|Intercampus<ref name=":110" />
+|12–16 Dec 2025
+|611
+|36.7
+| {{Party shading/PSD}} |'''41.7'''
+|21.6
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |5.0
+|-
+| ICS/ISCTE<ref name=":102" />
+| 5–13 Dec 2025
+| 903
+|31
+| {{Party shading/PSD}} |'''35'''
+|34
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |4
+|-
+| CESOP–UCP<ref name=":78" />
+| 4–12 Dec 2025
+| 1,185
+|42
+| {{Party shading/PSD}} |'''50'''
+|8
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |8
+|-
+| Consulmark2<ref name=":55" />
+| 19–28 Nov 2025
+| 795
+|34.0
+| {{Party shading/PSD}} |'''46.0'''
+|20.0
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |12.0
+|-
+| Intercampus<ref name=":97" />
+| 14–19 Nov 2025
+| 611
+|36.7
+| {{Party shading/PSD}} |'''37.5'''
+|25.8
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |0.8
+|-
+| ICS/ISCTE<ref name=":105" />
+| 7–17 Nov 2025
+| 807
+| {{Party shading/Independent (politician)}} |'''35'''
+| 31
+| 34
+| style="background:#777777; color:white;" |4
+|-
+| Pitagórica<ref name=":8" />
+| 5–14 Nov 2025
+| 1,000
+|39
+| {{Party shading/PSD}} |'''46'''
+|15
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |7
+|-
+| Aximage<ref name=":91" />
+| 23–27 Oct 2025
+| 651
+| {{Party shading/Independent (politician)}} |'''38'''
+| 36
+|26
+| style="background:#777777; color:white;" |2
+|-
+| Intercampus<ref name=":79" />
+| 20–26 Oct 2025
+| 609
+|37.3
+| {{Party shading/PSD}} |'''41.5'''
+|21.2
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |4.2
+|-
+| Pitagórica<ref name=":6" />
+| 6–10 Oct 2025
+| 625
+| {{Party shading/Independent (politician)}} |'''42'''
+|37
+|21
+| style="background:#777777; color:white;" |5
+|-
+| Intercampus<ref name=":7" />
+| 1–8 Oct 2025
+| 802
+| {{Party shading/Independent (politician)}} |'''40.6'''
+|39.3
+|20.1
+| style="background:#777777; color:white;" |1.3
+|-
+| Intercampus<ref name=":5" />
+| 7–14 Aug 2025
+| 611
+| {{Party shading/Independent (politician)}} |'''39.8'''
+|38.5
+|21.8
+| style="background:#777777; color:white;" |1.3
+|-
+| Aximage<ref name=":4">{{Cite web |title=Sondagem sobre Eleições Presidenciais - julho 2025 |url=https://www.erc.pt/download.php?fd=14180&l=pt&key=a8a776c93b4815720fdb8094fd50828c |date=2025-07-23|access-date=2025-08-06 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 11–21 Jul 2025
+| 1,000
+| {{Party shading/Independent (politician)}} |'''41'''
+|36
+|23
+| style="background:#777777; color:white;" |5
+|-
+| Intercampus<ref name=":3" />
+| 11–18 Jul 2025
+| 606
+| {{Party shading/Independent (politician)}} |'''40.4'''
+|39.6
+|20.0
+| style="background:#777777; color:white;" |0.8
+|-
+| Intercampus<ref name=":30" />
+| 5–15 Jun 2025
+| 616
+| {{Party shading/Independent (politician)}} |'''41.1'''
+|35.4
+|23.5
+| style="background:#777777; color:white;" |5.7
+|-
+| Intercampus<ref name=":11" />
+| 4–10 Mar 2025
+| 638
+| {{Party shading/Independent (politician)}} |'''51.6'''
+|28.5
+|19.9
+| style="background:#777777; color:white;" |23.1
+|-
+| Pitagórica<ref name=":13" />
+| 23–27 Feb 2025
+| 400
+| {{Party shading/Independent (politician)}} |'''49'''
+|37
+|14
+| style="background:#777777; color:white;" |12
+|-
+| Intercampus<ref name=":12" />
+| 21–26 Jan 2025
+| 638
+| {{Party shading/Independent (politician)}} |'''52.5'''
+|29.3
+|18.2
+| style="background:#777777; color:white;" |23.2
+|-
+| ICS/ISCTE<ref name=":16" />
+| 9–20 Jan 2025
+| 805
+| {{Party shading/Independent (politician)}} |'''43'''
+|20
+|37
+| style="background:#777777; color:white;" |23
+|-
+| Pitagórica<ref name=":2">{{Cite web |date=2025-01-07 |title=Barómetro TVI / CNN Portugal /JN/ TSF / O Jogo - Janeiro 2025 |url=https://www.erc.pt/download.php?fd=13892&l=pt&key=7be9ee55a4c58aae8f0af4f6595e446a |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 28 Dec 2024–5 Jan 2025
+| 400
+| {{Party shading/Independent (politician)}} |'''51'''
+|30
+|19
+| style="background:#777777; color:white;" |21
+|-
+|Intercampus<ref name=":20" />
+|21–27 Nov 2024
+|605
+| {{Party shading/Independent (politician)}} |'''49.3'''
+|30.3
+|20.3
+| style="background:#777777; color:white;" |19.0
+|-
+|Aximage<ref name=":21" />
+|6–19 Sep 2024
+|818
+| {{Party shading/Independent (politician)}} |'''47'''
+|28
+|25
+| style="background:#777777; color:white;" |19
+|-
+|Intercampus<ref name=":22" />
+|19–26 Jul 2024
+|609
+| {{Party shading/Independent (politician)}} |'''48.8'''
+|40.2
+|11.0
+| style="background:#777777; color:white;" |8.6
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;"|Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;"|Sample<br>size
+! class="unsortable" width="55px" |[[Henrique Gouveia e Melo|Gouveia e Melo]]
+! class="unsortable" width="55px" |[[António José Seguro|Seguro]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br/>{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+|-
+! style="background:#777777;" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+|30
+| {{Party shading/PS}} |'''56'''
+|14
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |26
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+|34
+| {{Party shading/PS}} |'''55'''
+|11
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |21
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+|32
+| {{Party shading/PS}} |'''55'''
+|13
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |23
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+| {{Party shading/Independent (politician)}} |'''39.1'''
+| 38.0
+| 23.0
+| style="background:#777777; color:white;" |1.1
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+|33.6
+| {{Party shading/PS}} |'''50.8'''
+|15.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |17.2
+|-
+|Aximage<ref name=":657" />
+|9–12 Jan 2026
+|606
+|25
+| {{Party shading/PS}} |'''43'''
+|32
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |18
+|-
+|Aximage<ref name=":1278" />
+|1–6 Jan 2026
+|800
+| {{Party shading/Independent (politician)}} |'''31'''
+| {{Party shading/PS}} |'''31'''
+| 38
+| style="background:white; color:black;" |Tie
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+|34
+| {{Party shading/PS}} |'''48'''
+|18
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14
+|-
+|Intercampus<ref name=":110" />
+|12–16 Dec 2025
+|611
+|37.3
+| {{Party shading/PS}} |'''38.5'''
+|24.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |1.2
+|-
+| ICS/ISCTE<ref name=":102" />
+| 5–13 Dec 2025
+| 903
+| {{Party shading/Independent (politician)}} |'''36'''
+| 26
+| 38
+| style="background:#777777; color:white;" |10
+|-
+| CESOP–UCP<ref name=":78" />
+| 4–12 Dec 2025
+| 1,185
+|44
+| {{Party shading/PS}} |'''49'''
+|7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |5
+|-
+| Consulmark2<ref name=":55" />
+| 19–28 Nov 2025
+| 795
+|36.0
+| {{Party shading/PS}} |'''44.5'''
+|19.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8.5
+|-
+| Intercampus<ref name=":97" />
+| 14–19 Nov 2025
+| 611
+| {{Party shading/Independent (politician)}} |'''37.2'''
+| 34.7
+| 28.1
+| style="background:#777777; color:white;" |2.5
+|-
+| ICS/ISCTE<ref name=":105" />
+| 7–17 Nov 2025
+| 807
+| {{Party shading/Independent (politician)}} |'''41'''
+| 24
+| 35
+| style="background:#777777; color:white;" |17
+|-
+| Pitagórica<ref name=":8" />
+| 5–14 Nov 2025
+| 1,000
+|39
+| {{Party shading/PS}} |'''43'''
+|18
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |4
+|-
+| Aximage<ref name=":91" />
+| 23–27 Oct 2025
+| 651
+| {{Party shading/Independent (politician)}} |'''40'''
+|35
+|25
+| style="background:#777777; color:white;" |5
+|-
+| Intercampus<ref name=":79" />
+| 20–26 Oct 2025
+| 609
+| {{Party shading/Independent (politician)}} |'''42.0'''
+|38.9
+|19.1
+| style="background:#777777; color:white;" |3.1
+|-
+| Pitagórica<ref name=":6" />
+| 6–10 Oct 2025
+| 625
+| {{Party shading/Independent (politician)}} |'''44'''
+|37
+|19
+| style="background:#777777; color:white;" |7
+|-
+| Intercampus<ref name=":7" />
+| 1–8 Oct 2025
+| 802
+| {{Party shading/Independent (politician)}} |'''48.8'''
+|32.2
+|19.1
+| style="background:#777777; color:white;" |16.6
+|-
+| Intercampus<ref name=":5" />
+| 7–14 Aug 2025
+| 611
+| {{Party shading/Independent (politician)}} |'''42.2'''
+|34.7
+|23.1
+| style="background:#777777; color:white;" |7.5
+|-
+| Aximage<ref name=":4">{{Cite web |title=Sondagem sobre Eleições Presidenciais - julho 2025 |url=https://www.erc.pt/download.php?fd=14180&l=pt&key=a8a776c93b4815720fdb8094fd50828c |date=2025-07-23|access-date=2025-08-06 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 11–21 Jul 2025
+| 1,000
+| {{Party shading/Independent (politician)}} |'''42'''
+|36
+|22
+| style="background:#777777; color:white;" |6
+|-
+| Intercampus<ref name=":3" />
+| 11–18 Jul 2025
+| 606
+| {{Party shading/Independent (politician)}} |'''41.6'''
+|38.1
+|20.3
+| style="background:#777777; color:white;" |3.5
+|-
+| Intercampus<ref name=":30" />
+| 5–15 Jun 2025
+| 616
+| {{Party shading/Independent (politician)}} |'''44.5'''
+|32.3
+|23.2
+| style="background:#777777; color:white;" |12.2
+|-
+| Intercampus<ref name=":11" />
+| 4–10 Mar 2025
+| 638
+| {{Party shading/Independent (politician)}} |'''54.5'''
+|24.5
+|21.0
+| style="background:#777777; color:white;" |30.0
+|-
+| Pitagórica<ref name=":13" />
+| 23–27 Feb 2025
+| 400
+| {{Party shading/Independent (politician)}} |'''51'''
+|32
+|17
+| style="background:#777777; color:white;" |19
+|-
+| Intercampus<ref name=":12" />
+| 21–26 Jan 2025
+| 638
+| {{Party shading/Independent (politician)}} |'''55.2'''
+|24.9
+|19.9
+| style="background:#777777; color:white;" |30.3
+|-
+| ICS/ISCTE<ref name=":16" />
+| 9–20 Jan 2025
+| 805
+| {{Party shading/Independent (politician)}} |'''45'''
+|16
+|39
+| style="background:#777777; color:white;" |29
+|-
+| Pitagórica<ref name=":2">{{Cite web |date=2025-01-07 |title=Barómetro TVI / CNN Portugal /JN/ TSF / O Jogo - Janeiro 2025 |url=https://www.erc.pt/download.php?fd=13892&l=pt&key=7be9ee55a4c58aae8f0af4f6595e446a |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 28 Dec 2024–5 Jan 2025
+| 400
+| {{Party shading/Independent (politician)}} |'''54'''
+|26
+|20
+| style="background:#777777; color:white;" |28
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;"|Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;"|Sample<br>size
+! class="unsortable" width="55px" |[[Henrique Gouveia e Melo|Gouveia e Melo]]
+! class="unsortable" width="55px" |[[André Ventura|Ventura]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br/>{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Chega (political party)|CH]]}}
+|-
+! style="background:#777777;" |
+! style="background:#202056;"|
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+| {{Party shading/Independent (politician)}} |'''60'''
+|26
+|14
+| style="background:#777777; color:white;" |34
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+| {{Party shading/Independent (politician)}} |'''62'''
+|25
+|13
+| style="background:#777777; color:white;" |37
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+| {{Party shading/Independent (politician)}} |'''63'''
+|24
+|13
+| style="background:#777777; color:white;" |39
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+| {{Party shading/Independent (politician)}} |'''56.5'''
+| 29.8
+| 13.8
+| style="background:#777777; color:white;" |26.7
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+| {{Party shading/Independent (politician)}} |'''60.2'''
+|25.8
+|14.0
+| style="background:#777777; color:white;" |34.4
+|-
+|Aximage<ref name=":657" />
+|9–12 Jan 2026
+|606
+| {{Party shading/Independent (politician)}} |'''43'''
+|28
+|29
+| style="background:#777777; color:white;" |15
+|-
+|Aximage<ref name=":1278" />
+|1–6 Jan 2026
+|800
+| {{Party shading/Independent (politician)}} |'''44'''
+|28
+|28
+| style="background:#777777; color:white;" |16
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+| {{Party shading/Independent (politician)}} |'''62'''
+|21
+|17
+| style="background:#777777; color:white;" |41
+|-
+|Intercampus<ref name=":110" />
+|12–16 Dec 2025
+|611
+| {{Party shading/Independent (politician)}} |'''52.5'''
+|30.0
+|17.5
+| style="background:#777777; color:white;" |22.5
+|-
+| ICS/ISCTE<ref name=":102" />
+| 5–13 Dec 2025
+| 903
+| {{Party shading/Independent (politician)}} |'''47'''
+|24
+|29
+| style="background:#777777; color:white;" |23
+|-
+| CESOP–UCP<ref name=":78" />
+| 4–12 Dec 2025
+| 1,185
+| {{Party shading/Independent (politician)}} |'''68'''
+|25
+|7
+| style="background:#777777; color:white;" |43
+|-
+| Consulmark2<ref name=":55" />
+| 19–28 Nov 2025
+| 795
+| {{Party shading/Independent (politician)}} |'''63.4'''
+|19.5
+|17.1
+| style="background:#777777; color:white;" |43.9
+|-
+| Intercampus<ref name=":97" />
+| 14–19 Nov 2025
+| 611
+| {{Party shading/Independent (politician)}} |'''54.0'''
+|25.7
+|20.3
+| style="background:#777777; color:white;" |28.3
+|-
+| ICS/ISCTE<ref name=":105" />
+| 7–17 Nov 2025
+| 807
+| {{Party shading/Independent (politician)}} |'''49'''
+| 23
+| 28
+| style="background:#777777; color:white;" |26
+|-
+| Pitagórica<ref name=":8" />
+| 5–14 Nov 2025
+| 1,000
+| {{Party shading/Independent (politician)}} |'''68'''
+|18
+|14
+| style="background:#777777; color:white;" |50
+|-
+| Aximage<ref name=":91" />
+| 23–27 Oct 2025
+| 651
+| {{Party shading/Independent (politician)}} |'''54'''
+|25
+|21
+| style="background:#777777; color:white;" |29
+|-
+| Intercampus<ref name=":79" />
+| 20–26 Oct 2025
+| 609
+| {{Party shading/Independent (politician)}} |'''61.2'''
+|29.4
+|9.4
+| style="background:#777777; color:white;" |31.8
+|-
+| Pitagórica<ref name=":6" />
+| 6–10 Oct 2025
+| 625
+| {{Party shading/Independent (politician)}} |'''63'''
+|15
+|22
+| style="background:#777777; color:white;" |48
+|-
+| Intercampus<ref name=":7" />
+| 1–8 Oct 2025
+| 802
+| {{Party shading/Independent (politician)}} |'''60.3'''
+|25.6
+|14.1
+| style="background:#777777; color:white;" |34.7
+|-
+| Intercampus<ref name=":5" />
+| 7–14 Aug 2025
+| 611
+| {{Party shading/Independent (politician)}} |'''56.6'''
+|25.9
+|17.5
+| style="background:#777777; color:white;" |30.7
+|-
+| Intercampus<ref name=":3" />
+| 11–18 Jul 2025
+| 606
+| {{Party shading/Independent (politician)}} |'''63.4'''
+|19.1
+|17.5
+| style="background:#777777; color:white;" |44.3
+|-
+| Pitagórica<ref name=":13" />
+| 23–27 Feb 2025
+| 400
+| {{Party shading/Independent (politician)}} |'''71'''
+|13
+|16
+| style="background:#777777; color:white;" |58
+|-
+| ICS/ISCTE<ref name=":16" />
+| 9–20 Jan 2025
+| 805
+| {{Party shading/Independent (politician)}} |'''53'''
+|16
+|31
+| style="background:#777777; color:white;" |29
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;" |Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;" |Sample<br>size
+! class="unsortable" width="55px" |[[Henrique Gouveia e Melo|Gouveia e Melo]]
+! class="unsortable" width="55px" |[[João Cotrim de Figueiredo|Cotrim]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br />{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Liberal Initiative|IL]]}}
+|-
+! style="background:#777777;" |
+! style="background:{{party color|Liberal Initiative}};" |
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+|36
+| style="background:#b9ecff;"|'''50'''
+|14
+| style="background:{{party color|Liberal Initiative}}; color:white;" |16
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+|38
+| style="background:#b9ecff;"|'''53'''
+|9
+| style="background:{{party color|Liberal Initiative}}; color:white;" |15
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+|39
+| style="background:#b9ecff;"|'''51'''
+|10
+| style="background:{{party color|Liberal Initiative}}; color:white;" |12
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+|38.3
+| style="background:#b9ecff;"|'''39.7'''
+|22.0
+| style="background:{{party color|Liberal Initiative}}; color:white;" |1.4
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+|40.2
+| style="background:#b9ecff;"|'''44.0'''
+|15.8
+| style="background:{{party color|Liberal Initiative}}; color:white;" |3.8
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+|40
+| style="background:#b9ecff;"|'''42'''
+|18
+| style="background:{{party color|Liberal Initiative}}; color:white;" |2
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;"|Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;"|Sample<br>size
+! class="unsortable" width="55px" |[[Luís Marques Mendes|Marques Mendes]]
+! class="unsortable" width="55px" |[[António José Seguro|Seguro]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br/>{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+|32
+| {{Party shading/PS}} |'''55'''
+|13
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |23
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+|33
+| {{Party shading/PS}} |'''56'''
+|11
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |23
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+|33
+| {{Party shading/PS}} |'''55'''
+|12
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |22
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+| {{Party shading/PSD}} |'''41.4'''
+|33.1
+|25.5
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |8.3
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+|34.6
+| {{Party shading/PS}} |'''47.2'''
+|18.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.6
+|-
+|Aximage<ref name=":657" />
+|9–12 Jan 2026
+|606
+|26
+| {{Party shading/PS}} |'''41'''
+|33
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |15
+|-
+|Aximage<ref name=":1278" />
+|1–6 Jan 2026
+|800
+|28
+| {{Party shading/PS}} |'''33'''
+|39
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |5
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+| {{Party shading/PSD}} |'''41'''
+| {{Party shading/PS}} |'''41'''
+|18
+|Tie
+|-
+|Intercampus<ref name=":110" />
+|12–16 Dec 2025
+|611
+| {{Party shading/PSD}} |'''41.4'''
+|33.1
+|25.5
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |8.3
+|-
+| ICS/ISCTE<ref name=":102" />
+| 5–13 Dec 2025
+| 903
+| {{Party shading/PSD}} |'''37'''
+|25
+|38
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |12
+|-
+| CESOP–UCP<ref name=":78" />
+| 4–12 Dec 2025
+| 1,185
+| {{Party shading/PSD}} |'''48'''
+|43
+|9
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |5
+|-
+| Consulmark2<ref name=":55" />
+| 19–28 Nov 2025
+| 795
+| {{Party shading/PSD}} |'''43.6'''
+|35.7
+|20.7
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |7.9
+|-
+| Intercampus<ref name=":97" />
+| 14–19 Nov 2025
+| 611
+| {{Party shading/PSD}} |'''39.9'''
+|32.1
+|28.0
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |7.8
+|-
+| ICS/ISCTE<ref name=":105" />
+| 7–17 Nov 2025
+| 807
+| {{Party shading/PSD}} |'''36'''
+|26
+|38
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |10
+|-
+| Pitagórica<ref name=":8" />
+| 5–14 Nov 2025
+| 1,000
+| {{Party shading/PSD}} |'''44'''
+|40
+|16
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |4
+|-
+| Aximage<ref name=":91" />
+| 23–27 Oct 2025
+| 651
+| {{Party shading/PSD}} |'''37'''
+| {{Party shading/PS}} |'''37'''
+|26
+| style="background:white; color:black;" |Tie
+|-
+| Intercampus<ref name=":79" />
+| 20–26 Oct 2025
+| 609
+| {{Party shading/PSD}} |'''43.2'''
+|33.5
+|23.3
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |9.7
+|-
+| Pitagórica<ref name=":6" />
+| 6–10 Oct 2025
+| 625
+| {{Party shading/PSD}} |'''40'''
+|37
+|23
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |3
+|-
+| Intercampus<ref name=":7" />
+| 1–8 Oct 2025
+| 802
+| {{Party shading/PSD}} |'''47.1'''
+|30.7
+|22.2
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |16.4
+|-
+| Intercampus<ref name=":5" />
+| 7–14 Aug 2025
+| 611
+| {{Party shading/PSD}} |'''41.9'''
+| 32.1
+| 26.0
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |9.8
+|-
+| Aximage<ref name=":4">{{Cite web |title=Sondagem sobre Eleições Presidenciais - julho 2025 |url=https://www.erc.pt/download.php?fd=14180&l=pt&key=a8a776c93b4815720fdb8094fd50828c |date=2025-07-23|access-date=2025-08-06 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 11–21 Jul 2025
+| 1,000
+|36
+| {{Party shading/PS}} |'''37'''
+|27
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |1
+|-
+| Intercampus<ref name=":3" />
+| 11–18 Jul 2025
+| 606
+|38.0
+| {{Party shading/PS}} |'''39.6'''
+|22.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |1.6
+|-
+| Intercampus<ref name=":30" />
+| 5–15 Jun 2025
+| 616
+| {{Party shading/PSD}} |'''41.2'''
+|30.0
+|28.7
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |11.2
+|-
+| Intercampus<ref name=":11" />
+| 4–10 Mar 2025
+| 638
+| {{Party shading/PSD}} |'''42.4'''
+|29.0
+|28.6
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |13.4
+|-
+| Pitagórica<ref name=":13" />
+| 23–27 Feb 2025
+| 400
+| {{Party shading/PSD}} |'''43'''
+|32
+|25
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |11
+|-
+| Intercampus<ref name=":12" />
+| 21–26 Jan 2025
+| 638
+| {{Party shading/PSD}} |'''44.5'''
+|28.8
+|26.7
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |15.7
+|-
+| Pitagórica<ref name=":2">{{Cite web |date=2025-01-07 |title=Barómetro TVI / CNN Portugal /JN/ TSF / O Jogo - Janeiro 2025 |url=https://www.erc.pt/download.php?fd=13892&l=pt&key=7be9ee55a4c58aae8f0af4f6595e446a |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| 28 Dec 2024–5 Jan 2025
+| 400
+| {{Party shading/PSD}} |'''40'''
+|34
+|26
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |6
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;"|Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;"|Sample<br>size
+! class="unsortable" width="55px" |[[Luís Marques Mendes|Marques Mendes]]
+! class="unsortable" width="55px" |[[André Ventura|Ventura]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br/>{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Chega (political party)|CH]]}}
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" |
+! style="background:#202056;"|
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+| {{Party shading/PSD}} |'''60'''
+|28
+|12
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |32
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+| {{Party shading/PSD}} |'''60'''
+|27
+|13
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |33
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+| {{Party shading/PSD}} |'''58'''
+|27
+|15
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |31
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+| {{Party shading/PSD}} |'''55.8'''
+|30.1
+|14.1
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |25.7
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+| {{Party shading/PSD}} |'''59.8'''
+|26.1
+|14.1
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |33.7
+|-
+|Aximage<ref name=":657" />
+|9–12 Jan 2026
+|606
+| {{Party shading/PSD}} |'''43'''
+|30
+|27
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |13
+|-
+|Aximage<ref name=":1278" />
+|1–6 Jan 2026
+|800
+| {{Party shading/PSD}} |'''44'''
+|29
+|27
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |15
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+| {{Party shading/PSD}} |'''65'''
+|21
+|14
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |44
+|-
+|Intercampus<ref name=":110" />
+|12–16 Dec 2025
+|611
+| {{Party shading/PSD}} |'''55.8'''
+|30.1
+|14.1
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |25.7
+|-
+| ICS/ISCTE<ref name=":102" />
+| 5–13 Dec 2025
+| 903
+| {{Party shading/PSD}} |'''49'''
+|23
+|28
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |26
+|-
+| CESOP–UCP<ref name=":78" />
+| 4–12 Dec 2025
+| 1,185
+| {{Party shading/PSD}} |'''69'''
+|26
+|5
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |43
+|-
+| Consulmark2<ref name=":55" />
+| 19–28 Nov 2025
+| 795
+| {{Party shading/PSD}} |'''64.8'''
+|20.0
+|15.2
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |44.8
+|-
+| Intercampus<ref name=":97" />
+| 14–19 Nov 2025
+| 611
+| {{Party shading/PSD}} |'''54.7'''
+|27.7
+|17.6
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |27.0
+|-
+| ICS/ISCTE<ref name=":105" />
+| 7–17 Nov 2025
+| 807
+| {{Party shading/PSD}} |'''47'''
+|24
+|29
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |23
+|-
+| Pitagórica<ref name=":8" />
+| 5–14 Nov 2025
+| 1,000
+| {{Party shading/PSD}} |'''70'''
+|19
+|11
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |51
+|-
+| Aximage<ref name=":91" />
+| 23–27 Oct 2025
+| 651
+| {{Party shading/PSD}} |'''54'''
+|25
+|21
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |29
+|-
+| Intercampus<ref name=":79" />
+| 20–26 Oct 2025
+| 609
+| {{Party shading/PSD}} |'''60.8'''
+|29.6
+|9.6
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |31.2
+|-
+| Pitagórica<ref name=":6" />
+| 6–10 Oct 2025
+| 625
+| {{Party shading/PSD}} |'''62'''
+|19
+|19
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |43
+|-
+| Intercampus<ref name=":7" />
+| 1–8 Oct 2025
+| 802
+| {{Party shading/PSD}} |'''60.1'''
+|26.1
+|13.8
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |34.0
+|-
+| Intercampus<ref name=":5" />
+| 7–14 Aug 2025
+| 611
+| {{Party shading/PSD}} |'''57.1'''
+| 26.5
+| 16.4
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |30.6
+|-
+| Pitagórica<ref name=":13" />
+| 23–27 Feb 2025
+| 400
+| {{Party shading/PSD}} |'''65'''
+|17
+|18
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |48
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;" |Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;" |Sample<br>size
+! class="unsortable" width="55px" |[[Luís Marques Mendes|Marques Mendes]]
+! class="unsortable" width="55px" |[[João Cotrim de Figueiredo|Cotrim]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br />{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Liberal Initiative|IL]]}}
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" |
+! style="background:{{party color|Liberal Initiative}};" |
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+|36
+| style="background:#b9ecff;"|'''51'''
+|13
+| style="background:{{party color|Liberal Initiative}}; color:white;" |15
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+|34
+| style="background:#b9ecff;"|'''54'''
+|12
+| style="background:{{party color|Liberal Initiative}}; color:white;" |20
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+|34
+| style="background:#b9ecff;"|'''52'''
+|14
+| style="background:{{party color|Liberal Initiative}}; color:white;" |18
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+|39.5
+| style="background:#b9ecff;"|'''40.2'''
+|20.3
+| style="background:{{party color|Liberal Initiative}}; color:white;" |0.7
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+|41.0
+| style="background:#b9ecff;"|'''42.4'''
+|16.6
+| style="background:{{party color|Liberal Initiative}}; color:white;" |1.4
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+| {{Party shading/PSD}} |'''48'''
+|33
+|19
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |15
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;" |Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;" |Sample<br>size
+! class="unsortable" width="55px" |[[António José Seguro|Seguro]]
+! class="unsortable" width="55px" |[[João Cotrim de Figueiredo|Cotrim]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br />{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Liberal Initiative|IL]]}}
+|-
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Liberal Initiative}};" |
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+| {{Party shading/PS}} |'''47'''
+|44
+|9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |3
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+| {{Party shading/PS}} |'''46'''
+| style="background:#b9ecff;"|'''46'''
+|8
+|Tie
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+| {{Party shading/PS}} |'''46'''
+|44
+|10
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |2
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+| {{Party shading/PS}} |'''42.4'''
+|38.2
+|19.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |4.2
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+| {{Party shading/PS}} |'''48.5'''
+|39.1
+|12.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.4
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+| {{Party shading/PS}} |'''45'''
+|39
+|16
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |6
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" width="110px" |Polling firm
+! rowspan="3" class="unsortable" style="width:150px;" |Fieldwork date
+! rowspan="3" class="unsortable" style="width:45px;" |Sample<br>size
+! class="unsortable" width="55px" |[[André Ventura|Ventura]]
+! class="unsortable" width="55px" |[[João Cotrim de Figueiredo|Cotrim]]
+! rowspan="3" class="unsortable" style="width:55px;" | {{abbr|Oth|Others}}/<br />{{abbr|Und|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Chega (political party)|CH]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Liberal Initiative|IL]]}}
+|-
+! style="background:#202056;" |
+! style="background:{{party color|Liberal Initiative}};" |
+|-
+|Pitagórica<ref name=":19" />
+|13–15 Jan 2026
+|1,200
+|21
+| style="background:#b9ecff;"|'''64'''
+|15
+| style="background:{{party color|Liberal Initiative}}; color:white;" |43
+|-
+|Pitagórica<ref name=":17" />
+|12–14 Jan 2026
+|903
+|21
+| style="background:#b9ecff;"|'''67'''
+|12
+| style="background:{{party color|Liberal Initiative}}; color:white;" |46
+|-
+|Pitagórica<ref name=":785" />
+|11–13 Jan 2026
+|755
+|21
+| style="background:#b9ecff;"|'''67'''
+|12
+| style="background:{{party color|Liberal Initiative}}; color:white;" |46
+|-
+|Intercampus<ref name=":507" />
+|6–13 Jan 2026
+|806
+|29.0
+| style="background:#b9ecff;"|'''58.2'''
+|12.8
+| style="background:{{party color|Liberal Initiative}}; color:white;" |29.2
+|-
+|Consulmark2<ref name=":235" />
+|5–13 Jan 2026
+|993
+|22.4
+| style="background:#b9ecff;"|'''62.5'''
+|15.1
+| style="background:{{party color|Liberal Initiative}}; color:white;" |40.1
+|-
+|Pitagórica<ref name=":9" />
+|11–19 Dec 2025
+|1,000
+|19
+| style="background:#b9ecff;"|'''62'''
+|19
+| style="background:{{party color|Liberal Initiative}}; color:white;" |43
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{{sticky header}}
+{| class="wikitable mw-collapsible sortable sticky-header-multi" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" style="width:80px;"|Polling firm
+! rowspan="3" class="unsortable"|Fieldwork date
+! rowspan="3" class="unsortable"|Sample<br>size
+!{{vert header|stp=1|[[António José Seguro]]}}
+!{{vert header|stp=1|[[António Vitorino]]}}
+!{{vert header|stp=1|[[Augusto Santos Silva|Santos Silva]]}}
+!{{vert header|stp=1|[[António Guterres]]}}
+!{{vert header|stp=1|[[Ana Gomes]]}}
+!{{vert header|stp=1|[[Mário Centeno]]}}
+!{{vert header|stp=1|[[Henrique Gouveia e Melo|Gouveia e Melo]]}}
+!{{vert header|stp=1|[[Luís Marques Mendes|Marques Mendes]]}}
+!{{vert header|stp=1|[[Pedro Passos Coelho|Passos Coelho]]}}
+!{{vert header|stp=1|[[Leonor Beleza]]}}
+!{{vert header|stp=1|[[Paulo Portas]]}}
+!{{vert header|stp=1|[[Pedro Santana Lopes|Santana Lopes]]}}
+!{{vert header|stp=1|[[José Manuel Barroso|Durão Barroso]]}}
+!{{vert header|stp=1|[[André Ventura]]}}
+! rowspan="3" class="unsortable" style="width:30px;" | {{abbr|O|Others}}/{{abbr|U|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" |{{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" |{{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" |{{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" |{{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" |{{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[CDS – People's Party|CDS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" |{{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Chega (political party)|CH]]}}
+|-
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:#777777;" |
+! style="background:{{party color|Social Democratic Party (Portugal)}};" |
+! style="background:{{party color|Social Democratic Party (Portugal)}};" |
+! style="background:{{party color|Social Democratic Party (Portugal)}};" |
+! style="background:{{party color|CDS – People's Party}};" |
+! style="background:#777777;" |
+! style="background:{{party color|Social Democratic Party (Portugal)}};" |
+! style="background:#202056;"|
+|-
+| rowspan="2" |Intercampus<ref name=":11" />
+| rowspan="2" |4–10 Mar 2025
+| rowspan="2" |638
+|{{N/A}}
+|21.6
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''57.1'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|29.3
+| style="background:#777777; color:white;" |18.1
+|-
+|{{N/A}}
+|26.3
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''44.4'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|21.3
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |35.5
+|-
+| rowspan="3" |Pitagórica<ref name=":13" />
+| rowspan="3" |23–27 Feb 2025
+| rowspan="3" |400
+|{{N/A}}
+|30
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''53'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|17
+| style="background:#777777; color:white;" |23
+|-
+|{{N/A}}
+|31
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''45'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|24
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |14
+|-
+|{{N/A}}
+| {{Party shading/PS}} |'''62'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|20
+|18
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |42
+|-
+| rowspan="2" |Intercampus<ref name=":12" />
+| rowspan="2" |21–26 Jan 2025
+| rowspan="2" |638
+|{{N/A}}
+|25.2
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''56.0'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|18.8
+| style="background:#777777; color:white;" |30.8
+|-
+|{{N/A}}
+|28.8
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''45.0'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|26.2
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |16.2
+|-
+| rowspan="2" |ICS/ISCTE<ref name=":16" />
+| rowspan="2" |9–20 Jan 2025
+| rowspan="2" |805
+|{{N/A}}
+|16
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''53'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|31
+| style="background:#777777; color:white;" |37
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|23
+| {{Party shading/Independent (politician)}} |'''40'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|37
+| style="background:#777777; color:white;" |17
+|-
+| rowspan="8" |Pitagórica<ref name=":2" />
+| rowspan="8" |28 Dec 2024–5 Jan 2025
+| rowspan="8" |400
+|36
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''46'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|18
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |10
+|-
+|{{N/A}}
+|27
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''55'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|18
+| style="background:#777777; color:white;" |28
+|-
+|{{N/A}}
+|32
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''43'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|25
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |11
+|-
+|{{N/A}}
+|34
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''49'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|17
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |15
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|32
+| {{Party shading/Independent (politician)}} |'''51'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|17
+| style="background:#777777; color:white;" |19
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''42'''
+|{{N/A}}
+|36
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|22
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |6
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|42
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''44'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|14
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |2
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''50'''
+|{{N/A}}
+|32
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|18
+| style="background:#777777; color:white;" |18
+|-
+| rowspan="11" |Intercampus<ref name=":20" />
+| rowspan="11" |21–27 Nov 2024
+| rowspan="11" |605
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|32.0
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''44.6'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|23.4
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |12.6
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|37.3
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''46.5'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|16.2
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |9.2
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''42.2'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|31.8
+|{{N/A}}
+|{{N/A}}
+|26.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.4
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|35.8
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''40.7'''
+|{{N/A}}
+|23.5
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |4.9
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''39.0'''
+|{{N/A}}
+|35.6
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|25.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |3.4
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''39.9'''
+|{{N/A}}
+|{{N/A}}
+|39.5
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|20.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |0.4
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''52.5'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|21.3
+|{{N/A}}
+|{{N/A}}
+|26.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |31.2
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''45.0'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|29.4
+|{{N/A}}
+|25.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |15.6
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''50.8'''
+|{{N/A}}
+|31.8
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|17.3
+| style="background:#777777; color:white;" |19.0
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''59.1'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|19.8
+|{{N/A}}
+|{{N/A}}
+|21.1
+| style="background:#777777; color:white;" |39.3
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''52.4'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|28.6
+|{{N/A}}
+|19.0
+| style="background:#777777; color:white;" |23.8
+|-
+| rowspan="7" style="text-align:center;" |Aximage<ref name=":21" />
+| rowspan="7" style="text-align:center;" |6–19 Sep 2024
+| rowspan="7" style="text-align:center;" |818
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''34'''
+|{{N/A}}
+| 33
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|33
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |1
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''56'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| 22
+| 22
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |34
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''43'''
+|{{N/A}}
+|{{N/A}}
+|35
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| 22
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''51'''
+|{{N/A}}
+| 28
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| 21
+| style="background:#777777; color:white;" |23
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| 29
+| {{Party shading/Independent (politician)}} |'''38'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| 33
+| style="background:#777777; color:white;" |9
+|-
+|{{N/A}}
+|{{N/A}}
+| 19
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''48'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| 33
+| style="background:#777777; color:white;" |29
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| 21
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''54'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| 25
+| style="background:#777777; color:white;" |33
+|-
+| rowspan="22" style="text-align:center;" |Intercampus<ref name=":22" />
+| rowspan="22" style="text-align:center;" |19–26 Jul 2024
+| rowspan="22" align="center" |609
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''56.7'''
+|{{N/A}}
+|{{N/A}}
+|33.2
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|10.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |23.5
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''55.6'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|34.9
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|9.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |20.7
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''58.0'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|34.7
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|7.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |23.3
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''66.1'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|21.7
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|12.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |44.4
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''66.8'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|22.6
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|10.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |44.2
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''69.2'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|19.4
+|{{N/A}}
+|{{N/A}}
+|11.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |49.8
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|36.7
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''52.7'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|10.7
+| style="background:#777777; color:white;" |16.0
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|33.4
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''55.0'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|11.6
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |21.6
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|42.4
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PSD}} |'''48.8'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|8.8
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |6.4
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''48.3'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|37.8
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|13.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.5
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''49.9'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|36.9
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|13.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.0
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''52.5'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|33.2
+|{{N/A}}
+|{{N/A}}
+|14.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |19.3
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|40.2
+| {{Party shading/Independent (politician)}} |'''46.8'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|13.0
+| style="background:#777777; color:white;" |6.6
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|37.1
+|{{N/A}}
+| {{Party shading/PSD}} |'''48.4'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|14.5
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;" |11.3
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''48.4'''
+|{{N/A}}
+|{{N/A}}
+|41.1
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|10.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |7.3
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''56.5'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|27.0
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|16.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |29.5
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''56.0'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|29.4
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|14.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |26.6
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/PS}} |'''57.8'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|25.9
+|{{N/A}}
+|{{N/A}}
+|16.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |31.9
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''51.9'''
+|{{N/A}}
+|37.6
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|10.5
+| style="background:#777777; color:white;" |14.3
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''63.7'''
+|{{N/A}}
+|{{N/A}}
+|23.9
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|12.4
+| style="background:#777777; color:white;" |39.8
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''61.1'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|27.3
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|11.6
+| style="background:#777777; color:white;" |33.8
+|-
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| {{Party shading/Independent (politician)}} |'''68.1'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|19.8
+|{{N/A}}
+|{{N/A}}
+|12.1
+| style="background:#777777; color:white;" |48.3
+|}
+{{hidden end}}
+
+== Leadership polls ==
+
+=== Approval ratings ===
+{{main|Opinion polling on the Marcelo Rebelo de Sousa presidency}}
+
+=== Preferred candidate ===
+Poll results showing public opinion on who would be the best candidate for each political side, are shown in the table below in reverse chronological order, showing the most recent first.
+
+==== Right-wing ====
+{{sticky header}}
+{| class="wikitable mw-collapsible sortable sticky-header-multi" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" style="width:110px;"|Polling firm
+! rowspan="3" class="unsortable" style="width:150px;"|Fieldwork date
+! rowspan="3" class="unsortable"|Sample<br>size
+!{{vert header|stp=1|[[Luís Marques Mendes|Marques Mendes]]}}
+!{{vert header|stp=1|[[Pedro Passos Coelho|Passos Coelho]]}}
+!{{vert header|stp=1|[[Rui Rio]]}}
+!{{vert header|stp=1|[[André Ventura]]}}
+!{{vert header|stp=1|[[Paulo Portas]]}}
+!{{vert header|stp=1|[[Pedro Santana Lopes|Santana Lopes]]}}
+!{{vert header|stp=1|[[João Cotrim de Figueiredo|Cotrim Figueiredo]]}}
+! class="unsortable" style="width:30px;" rowspan="3"| {{abbr|O|Others}}/{{abbr|U|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" | Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Social Democratic Party (Portugal)|PSD]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Chega (political party)|CH]]}}
+! class="unsortable" style="width:30px;" | {{small|[[CDS – People's Party|CDS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Independent (politician)|Ind.]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Liberal Initiative (Portugal)|IL]]}}
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};"|
+! style="background:{{party color|Social Democratic Party (Portugal)}};"|
+! style="background:{{party color|Social Democratic Party (Portugal)}};"|
+! style="background:#202056;"|
+! style="background:{{party color|CDS – People's Party}};"|
+! style="background:#777777;"|
+! style="background:#00ADEF;"|
+|-
+|Consulmark2<ref name=":0" />
+|14–22 Apr 2025
+|569{{efn|name=PSD}}
+| style="background:#FFD18D" |'''54.1'''
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|28.8
+|{{N/A}}
+|{{N/A}}
+|17.0
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;"|25.3
+|-
+| style="text-align:center;" | Aximage<ref name=":21" />
+| style="text-align:center;" | 6–19 Sep 2024
+| align="center" | 818{{efn|name=PSD}}
+| style="background:#FFD18D" | '''39'''
+| style="text-align:center;" | 37
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="text-align:center;" |22
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;"| 2
+|-
+| style="text-align:center;" |Aximage<ref name=":31">{{Cite web |date=2023-07-20 |title=Sondagem aximage: Candidatos às eleições presidenciais - setembro 2023 |url=https://www.erc.pt/download.php?fd=13408&l=pt&key=1bec4cd7aa08f88bfe8ea07cfa40ed51 |website=ERC - Entidade Reguladora para a Comunicação Social |language=pt}}</ref>
+| style="text-align:center;" |14–18 Sep 2023
+| align="center" |804
+| style="background:#FFD18D" |'''19.8'''
+| style="text-align:center;" |19.5
+| style="text-align:center;" |13.0
+| style="text-align:center;" |11.3
+| style="text-align:center;" |11.2
+| style="text-align:center;" |7.0
+| style="text-align:center;" |6.0
+| style="text-align:center;" |12.2
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;"| 0.3
+|}
+
+==== Left-wing ====
+{{sticky header}}
+{| class="wikitable mw-collapsible sortable sticky-header-multi" style="text-align:center;font-size:95%;line-height:16px;"
+! rowspan="3" class="unsortable" style="width:110px;"|Polling firm
+! rowspan="3" class="unsortable" style="width:150px;"|Fieldwork date
+! rowspan="3" class="unsortable" |Sample<br>size
+!{{vert header|stp=1|[[António Guterres]]}}
+!{{vert header|stp=1|[[António José Seguro]]}}
+!{{vert header|stp=1|[[António Vitorino]]}}
+!{{vert header|stp=1|[[Ana Gomes]]}}
+!{{vert header|stp=1|[[Mário Centeno]]}}
+!{{vert header|stp=1|[[Elisa Ferreira]]}}
+!{{vert header|stp=1|[[Augusto Santos Silva|Santos Silva]]}}
+!{{vert header|stp=1|[[Francisco Assis]]}}
+!{{vert header|stp=1|[[Francisco Louçã]]}}
+!{{vert header|stp=1|[[João Ferreira (politician)|João Ferreira]]}}
+! class="unsortable" style="width:30px;" rowspan="3"| {{abbr|O|Others}}/{{abbr|U|Undecided}}
+! rowspan="3" class="unsortable" style="width:30px;" |Lead
+|- style="height:20px;"
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Socialist Party (Portugal)|PS]]}}
+! class="unsortable" style="width:30px;" |{{small|[[Left Bloc (Portugal)|BE]]}}
+! class="unsortable" style="width:30px;" | {{small|[[Unitary Democratic Coalition|CDU]]}}
+|-
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};" |
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:{{party color|Socialist Party (Portugal)}};"|
+! style="background:{{party color|Left Bloc (Portugal)}};" |
+! style="background:{{party color|Unitary Democratic Coalition}};" |
+|-
+| Intercampus<ref name=":30" />
+| 5–15 Jun 2025
+| 616{{efn|name=PS}}
+|{{N/A}}
+| style="background:#FFCBFF" |'''25.8'''
+|15.3
+|12.5
+|{{N/A}}
+|{{N/A}}
+|8.1
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|38.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.5
+|-
+|Consulmark2<ref name=":0" />
+|14–22 Apr 2025
+|569{{efn|name=PS}}
+|{{N/A}}
+| style="background:#FFCBFF" |'''41.7'''
+|29.5
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|28.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.2
+|-
+|Pitagórica<ref name=":13" />
+|23–27 Feb 2025
+|400{{efn|name=PS}}
+| {{N/A}}
+| style="background:#FFCBFF" |'''56'''
+|44
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12
+|-
+|Intercampus<ref name=":12" />
+|21–26 Jan 2025
+|638{{efn|name=PS}}
+| {{N/A}}
+| style="background:#FFCBFF" |'''24.9'''
+|21.3
+|14.4
+| {{N/A}}
+|7.1
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|32.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |3.6
+|-
+| style="text-align:center;" | Aximage<ref name=":21" />
+| style="text-align:center;" | 6–19 Sep 2024
+| align="center" | 818{{efn|name=PS}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="text-align:center;" | 14
+| style="background:#FFCBFF" |'''41'''
+| {{N/A}}
+| style="text-align:center;" | 18
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="text-align:center;" |27
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" | 23
+|-
+| style="text-align:center;" |Aximage<ref name=":31" />
+| style="text-align:center;" |14–18 Sep 2023
+| align="center" |804
+| style="background:#FFCBFF" |'''34'''
+| {{N/A}}
+| {{N/A}}
+| style="text-align:center;" |19
+| style="text-align:center;" |12
+| {{N/A}}
+| style="text-align:center;" |8
+| style="text-align:center;" |6
+|9
+| style="text-align:center;" |5
+| style="text-align:center;" |7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" | 15
+|}
+
+== Notes ==
+{{notes
+| refs =
+
+{{efn
+| name = Pitagórica1
+| Daily tracking poll
+}}
+
+{{efn
+| name = Intercampus11
+| Results presented here exclude undecideds (18.7%). With their inclusion results are: Gouveia e Melo: 33.1%; Marques Mendes: 14.1%; André Ventura: 9.4%; António Vitorino: 8.6%; António José Seguro: 8.3%; Mariana Leitão: 4.9%; João Ferreira: 3.0%.
+}}
+
+{{efn
+| name = Aximage5
+| Results presented here exclude undecideds (20%). With their inclusion results are: Gouveia e Melo: 35%; António Vitorino: 12%; Marques Mendes: 11%; André Ventura: 11%; Durão Barroso: 9%; António José Seguro: 8%.
+}}
+
+{{efn
+| name = Intercampus10
+| Results presented here exclude undecideds (20.6%). With their inclusion results are: Gouveia e Melo: 35.6%; Marques Mendes: 13.9%; André Ventura: 12.4%; António José Seguro: 7.7%; António Vitorino: 5.6%; Mariana Leitão: 4.0%.
+}}
+
+{{efn
+| name = Consulmark2.3
+| Results presented here exclude undecideds (13.7%) abstention (1.0%) Refused to answer (1.4%) and Blank/Invalid (3.8%). With their inclusion results are: Gouveia e Melo: 36.9%; Marques Mendes: 17.2%; António José Seguro: 8.1%; Paulo Portas: 5.8%; André Ventura: 4.5%; Catarina Martins: 3.6%; Joana Amaral Dias: 0.9%; Mariana Leitão: 0.9%; Paulo Raimundo: 0.5%; Tim Vieira: 0.2%; Other: 1.7%.
+}}
+
+{{efn
+| name = Consulmark2.2
+| Results presented here exclude undecideds (13.9%) abstention (2.3%) Refused to answer (1.6%) and Blank/Invalid (3.2%). With their inclusion results are: Gouveia e Melo: 29.0%; Marques Mendes: 16.9%; André Ventura: 6.5%; António José Seguro: 6.3%; António Vitorino: 5.6%; Paulo Portas: 5.6%; Catarina Martins: 3.9%; Joana Amaral Dias: 1.4%; Paulo Raimundo: 1.1%; Mariana Leitão: 1.1%.; Tim Vieira: 0.7%; Other: 1.1%.
+}}
+
+{{efn
+| name = Consulmark2.1
+| Results presented here exclude undecideds (15.1%) abstention (2.4%) Refused to answer (2.7%) and Blank/Invalid (1.9%). With their inclusion results are: Gouveia e Melo: 27.7%; Marques Mendes: 16.5%;  André Ventura: 7.5%; António Vitorino: 6.1%; António José Seguro: 5.4%; Paulo Portas: 3.9%; Catarina Martins: 3.7%; Joana Amaral Dias: 2.2%; Paulo Raimundo: 1.7%; Mariana Leitão: 1.7%.; Tim Vieira: 0.2%; Other: 1.4%.
+}}
+
+{{efn
+| name = Intercampus9
+| Results presented here exclude undecideds (23.3%). With their inclusion results are: Gouveia e Melo: 27.3%; Marques Mendes: 18.5%; António José Seguro: 11.0%; André Ventura: 8.4%; Mariana Mortágua: 3.7%; António Sampaio da Nóvoa: 3.6%; Paulo Raimundo: 2.4%; Mariana Leitão: 1.8%.
+}}
+
+{{efn
+| name = Intercampus8
+| Results presented here exclude undecideds (16.8%). With their inclusion results are: Gouveia e Melo: 20.6%; Marques Mendes: 17.2%; António José Seguro: 16.5%; André Ventura: 10.6%; Cotrim Figueiredo: 6.8%; António Sampaio da Nóvoa: 4.1%; António Filipe: 3.8%; Mariana Mortágua: 3.6%.
+}}
+
+{{efn
+| name = Intercampus7
+| Results presented here exclude undecideds (19.0%). With their inclusion results are: Gouveia e Melo: 18.5%; Marques Mendes: 16.0%; André Ventura: 14.1%; António José Seguro: 13.7%; Cotrim Figueiredo: 8.7%; Catarina Martins: 4.7%; Rui Moreira: 3.3%; António Filipe: 2.0%.
+}}
+
+{{efn
+| name = Intercampus6
+| Results presented here exclude undecideds (9.9%). With their inclusion results are: Gouveia e Melo: 21.6%; Marques Mendes: 19.7%; André Ventura: 19.1%; António José Seguro: 10.2%; Cotrim Figueiredo: 9.9%; Catarina Martins: 5.9%; António Filipe: 3.7%.
+}}
+
+{{efn
+| name = Intercampus5
+| Results presented here exclude undecideds (19.9%). With their inclusion results are: Marques Mendes: 16.6%; André Ventura: 15.8%; Gouveia e Melo: 15.4%; António José Seguro: 12.3%; Cotrim Figueiredo: 8.4%; Catarina Martins: 7.1%; António Filipe: 4.6%.
+}}
+
+{{efn
+| name = Intercampus4
+| Results presented here exclude undecideds (20.0%). With their inclusion results are: Marques Mendes: 16.4%; André Ventura: 15.9%; Gouveia e Melo: 15.5%; Cotrim Figueiredo: 11.5%; António José Seguro: 11.1%; Catarina Martins: 4.3%; António Filipe: 3.8%; Jorge Pinto: 1.6%.
+}}
+
+{{efn
+| name = Intercampus3
+| Results presented here exclude undecideds (11.6%). With their inclusion results are: André Ventura: 18.7%; Marques Mendes: 16.9%; Cotrim Figueiredo: 13.6%; António José Seguro: 12.8%; Gouveia e Melo: 11.9%; Catarina Martins: 7.2%; Jorge Pinto: 4.3%; António Filipe: 3.9%.
+}}
+
+{{efn
+| name = Poll
+| Voters were asked which candidate they prefer.
+}}
+
+{{efn
+| name = Tinoco
+| [[Joana Amaral Dias]] - 0.4%; [[:pt:Pedro Tinoco de Faria|Pedro Tinoco de Faria]] - 0.4%; Others/Neither/Would not vote - 3.1%.
+}}
+
+{{efn
+| name = Moreira
+| [[Rui Moreira]] – 4.1%.
+}}
+
+{{efn
+| name = Durão
+| [[António Vitorino]] - 15%; [[José Manuel Barroso|Durão Barroso]]- 11%.
+}}
+
+{{efn
+| name = Others1
+| Results presented here exclude undecideds (25%). With their inclusion results are: Gouveia e Melo: 25%; André Ventura: 16%; António José Seguro: 15% Marques Mendes: 13%; IL candidate: 1%; BE candidate: 1%; PCP candidate: 1%; Livre candidate: 1%; Other [[Independent politician|Independent]] candidate: 1%; [[CDS – People's Party|CDS]] candidate: 0%; [[People-Animals-Nature|PAN]] candidate: 0%;
+}}
+
+{{efn
+| name = Others2
+| Results presented here exclude undecideds (25%). With their inclusion results are: Gouveia e Melo: 25%; André Ventura: 16%; [[António Vitorino]]: 14%; Marques Mendes: 13%; BE candidate: 2%; IL candidate: 1%; PCP candidate: 1%; Livre candidate: 1%; Other [[Independent politician|Independent]] candidate: 1%; [[CDS – People's Party|CDS]] candidate: 0%; [[People-Animals-Nature|PAN]] candidate: 0%;
+}}
+
+{{efn
+| name = Vitorino
+| [[António Vitorino]] - 7%; [[António Sampaio da Nóvoa]] - 3%; Others - 9%.
+}}
+
+{{efn
+| name = Vitorino1
+| [[António Vitorino]] – 7.1%.
+}}
+
+{{efn
+| name = Vitorino2
+| [[António Vitorino]] - 20.7%; [[António Sampaio da Nóvoa]] - 3.8%; [[Inês Sousa Real]] - 0.7%; [[Tim Vieira]] - 0.6%; [[Joana Amaral Dias]] - 0.2%.
+}}
+
+{{efn
+| name = Nóvoa
+| [[António Sampaio da Nóvoa]] - 4.9%; [[Inês Sousa Real]] - 0.9%; [[Tim Vieira]] - 0.6%; [[Joana Amaral Dias]] - 0.3%.
+}}
+
+{{efn
+| name = Vitorino3
+| [[António Vitorino]] - 10.5%.
+}}
+
+{{efn
+| name = Centeno
+| Results presented here exclude undecideds (24%). With their inclusion results are: Gouveia e Melo: 24%; [[Mário Centeno]] - 17%; André Ventura: 16%; Marques Mendes: 13%; BE candidate: 2%; IL candidate: 1%; PCP candidate: 1%; Livre candidate: 1%; Other [[Independent politician|Independent]] candidate: 1%; [[CDS – People's Party|CDS]] candidate: 0%; [[People-Animals-Nature|PAN]] candidate: 0%;
+
+
+| [[Mário Centeno]] - 17%; Other [[Independent politician|Independent]] candidate – 1%; [[CDS – People's Party|CDS]] candidate – 0%; [[People-Animals-Nature|PAN]] candidate – 0%; Neither/Would not vote - 24%.
+}}
+
+{{efn
+| name = Assis
+| [[Rui Moreira (politician)|Rui Moreira]]- 4.7%; [[Francisco Assis]] - 0.5%; Others/Neither/Would not vote - 9.7%.
+}}
+
+{{efn
+| name = Beleza
+| [[Leonor Beleza]] - 0.9%; Others/Neither/Would not vote - 4.8%.
+}}
+
+{{efn
+| name = PSD
+| Which candidate should the Social Democratic Party (PSD) support?
+}}
+
+{{efn
+| name = PS
+| Which candidate should the Socialist Party (PS) support?
+}}
+
+{{efn
+| name = Consulmark2
+| [[Paulo Portas]] - 7.2%; [[Joana Amaral Dias]] - 1.1%; [[Tim Vieira]] - 0.3%; Other: 2.1%.
+}}
+
+{{efn
+| name = Consulmark2b
+| [[António Vitorino]] - 7.1%; [[Paulo Portas]] - 7.1%; [[Joana Amaral Dias]] - 1.8%; [[Tim Vieira]] - 0.9%; Other - 1.4%.
+}}
+
+{{efn
+| name = Consulmark2c
+| [[António Vitorino]] - 7.8%; [[Paulo Portas]] - 5.0%; [[Joana Amaral Dias]] - 2.8%; [[Tim Vieira]] - 0.3%; Other - 1.8%.
+}}
+
+{{efn
+| name = Aximage1
+| Results presented here exclude undecideds (29%). With their inclusion results are: Gouveia e Melo: 26%; Marques Mendes: 19%; André Ventura: 14%; Others: 12%.
+}}
+
+{{efn
+| name = Aximage2
+| Results presented here exclude undecideds (24%). With their inclusion results are: Gouveia e Melo: 24%; Marques Mendes: 19%; André Ventura: 13%; [[António Sampaio da Nóvoa]]: 6%; António Filipe: 4%; [[Joana Amaral Dias]]: 4%; Other candidates: 6%.
+}}
+
+{{efn
+| name = Aximage3
+| Results presented here exclude undecideds (10.6%). With their inclusion results are: André Ventura: 19.4%; Gouveia e Melo: 18.7%; Marques Mendes: 15.9%; António José Seguro: 14.8%; Cotrim Figueiredo: 9.5%; Catarina Martins: 3.9%; António Filipe: 2.1%; Jorge Pinto: 1.5%; Others/Invalid: 3.6%.
+}}
+
+{{efn
+| name = Aximage4
+| Results presented here exclude undecideds (10.6%). With their inclusion results are: André Ventura: 19.1%; Marques Mendes: 18.2%; Gouveia e Melo: 17.5%; Cotrim Figueiredo: 10.5%; António José Seguro: 9.6%; Catarina Martins: 5.9%; António Filipe: 2.9%; Jorge Pinto: 1.9%; Others/Invalid: 3.8%.
+}}
+
+{{efn
+| name = Intercampus1
+| [[António Sampaio da Nóvoa]] - 4.9%.
+}}
+
+{{efn
+| name =Intercampus2
+| [[António Sampaio da Nóvoa]] - 4.9%.
+}}
+
+{{efn
+| name =ISCTE
+| Results presented here exclude undecideds (24%), Invalid/Blank (4%) and Would not vote (12%). With their inclusion results are: Gouveia e Melo: 19%; Marques Mendes: 13%; André Ventura: 13%; António José Seguro: 10%;  Others: 6%.
+}}
+
+{{efn
+| name = Intercampus12
+| Results presented here exclude undecideds (19.6%). With their inclusion results are: André Ventura: 18.6%; Marques Mendes: 15.3%; Cotrim Figueiredo: 14.3%; António José Seguro: 12.5%; Gouveia e Melo: 12.3%; Catarina Martins: 2.6%; Jorge Pinto: 1.9%; António Filipe: 1.7%; Manuel João Vieira: 1.2%; Others: 0.0%.
+}}
+
+{{efn
+| name = NoUndecided
+| Poll numbers with the undecided excluded.
+}}
+
+{{efn
+| name = WithUndecided
+| Poll numbers with the undecided included.
+}}
+}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.erc.pt/pt/sondagens ERC - Official publication of polls]
+
+{{Opinion polling for Portuguese elections}}
+
+[[Category:Opinion polling in Portugal|2026]]

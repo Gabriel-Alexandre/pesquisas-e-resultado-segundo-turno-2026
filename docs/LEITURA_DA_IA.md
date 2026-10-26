@@ -1,44 +1,25 @@
-# Leitura da IA: as duas lentes
+# Leitura da IA: as duas lentes (rodada 2)
 
-Pedido do autor: analisar o resultado **dando como verdadeira, uma de cada vez**, a premissa de que foi legítimo e a de que foi fraude, para os dois lados serem bem atendidos. Esta leitura é do Claude, a partir dos números do [`RELATORIO.md`](../RELATORIO.md). "Fraude" aqui é o nome de uma hipótese, nunca uma conclusão.
+Esta leitura é do Claude, a partir dos números do [`RELATORIO.md`](../RELATORIO.md). "Fraude" aqui é o nome de uma hipótese, testada com o mesmo rigor que a outra.
 
-## Lente L · o resultado foi legítimo
+## Lente F: o resultado foi fraude
 
-**A versão mais forte:** as pesquisas erraram como já erraram antes, num 2º turno decidido por uma frente pequena, e o eleitor que estava fora (abstenção, branco, nulo e os outros candidatos) decidiu a eleição.
+**A versão mais forte:** o líder do 1º turno, à frente em 17 de 19 institutos e com 76% no mercado, perdeu por 3,57 pontos; nenhuma das 53 pesquisas chegou no número; a abstenção caiu como nunca entre os turnos; as pesquisas diziam que os eleitores de Renan e Caiado iam para o Flávio; e a votação foi prorrogada por decisão de um ministro a pedido de uma das campanhas.
 
-**O que se esperaria ver no dado, e o que se vê:**
+**O que fica de pé:** a surpresa (chance de cerca de 39%), o erro de todas as pesquisas para o mesmo lado (o 2º maior do Brasil), a queda inédita da abstenção, e a distância entre o que as pesquisas diziam dos eleitores eliminados e o que o resultado exige.
 
-| Se foi legítimo, esperaria-se | O dado |
-|---|---|
-| uma chance real de virada, antes da votação | 1 em 2,6 pelas pesquisas com o erro histórico; 1 em 4,4 na média das três réguas |
-| erro de pesquisa do tamanho e do lado já vistos | o 2º turno de 2014 e o de 2018 também deram mais ao candidato contra o PT; o de 2026 foi o maior (2,6 pontos) |
-| a soma dos votos fechando | fecha no voto: tudo o que os dois ganharam saiu dos outros, da abstenção e do branco e nulo |
-| subida espalhada, não em poucos lugares | o Lula subiu em todos os 27 estados (4,5 a 9,3 pontos) e ganhou votos em 5.491 de 5.571 municípios |
-| votos novos explicando o ganho | 2,96 milhões de pessoas a mais votando; onde a abstenção mais caiu o Lula mais subiu |
-| eleições do mesmo dia coerentes | 18 de 27 governadores eleitos do mesmo lado do presidente no estado; 2 viradas em 6 segundos turnos de governador |
+**O que não se sustenta no dado deste projeto:** a ideia de que o resultado era improvável a ponto de 1 em 1.000 (é a conta que multiplica o mesmo fato quatro vezes); voto novo indo todo para um lado (ele se dividiu); votos sem origem em escala que importe (0,36% da frente, contra 4,8% em 2006); prorrogação ou exterior mudando o resultado (os tetos de pior caso ficam muito abaixo da frente); uma curva de apuração diferente da de 2022.
 
-**O que essa lente não explica bem:** por que **todas** as pesquisas erraram para o mesmo lado e nenhuma chegou no número; por que a abstenção caiu tanto, contra o padrão de quase todas as eleições; e o que o modelo de transferência não consegue separar (troca direta de voto). A explicação mais citada, o filtro de "eleitor provável" das pesquisas ter cortado justamente quem voltou a votar, combina com a queda da abstenção, mas **não foi testada** aqui.
+**O que não foi testado aqui e pode mudar a leitura:** logs, boletins e horários seção a seção (vídeo 16).
 
-**O que mudaria esta leitura:** municípios ou seções em que o ganho do Lula não caiba em nenhuma origem, um padrão de comparecimento e votação que fuja do resto do país, ou a apuração seção a seção mostrando algo que os totais não mostram.
+## Lente L: o resultado foi legítimo
 
-## Lente F · o resultado foi fraude
+**A versão mais forte:** uma disputa com frente de menos de 2 pontos, num país onde as pesquisas de 2º turno erram para o lado do candidato contra o PT desde 2014, decidida pelo eleitor que voltou a votar.
 
-**A versão mais forte:** um candidato que liderou o 1º turno, liderava 17 de 19 institutos na véspera e tinha 81% no mercado perdeu por 3,57 pontos, quebrando uma regra que valia desde 1989 e a regra de Minas no 1º turno. Pela régua mais dura, o histórico do 1º turno, a chance era de 1 em 9,0; a vitória por 3,57 pontos ou mais, pelas pesquisas, era de 22%.
+**O que fica de pé:** a chance real antes da votação, o erro já visto em tamanho, a conta que fecha, a subida uniforme, o eleitor novo dividido, a apuração com a forma de sempre.
 
-**O que se esperaria ver no dado, e o que se vê:**
+**O que não explica bem:** por que nenhuma pesquisa chegou no número e por que a abstenção caiu tanto. A explicação do filtro de eleitor provável combina com o dado, mas não está provada.
 
-| Se foi fraude, esperaria-se | O dado |
-|---|---|
-| votos que não cabem em nenhuma origem, concentrados | 291 municípios com 15.636 votos do Lula sem origem visível (0,35% da frente); o espelho do Flávio dá 2 municípios e 228 votos. A diferença existe, mas é pequena demais para a eleição e cabe em troca direta de voto |
-| a mancha de comparecimento muito alto com voto quase todo num lado | nenhum município com comparecimento acima de 95%, nos dois turnos |
-| ganho concentrado em poucos lugares | ganho em todos os estados e em 5.491 municípios, de todos os tamanhos |
-| pesquisas que "acertam sempre" e uma urna fora delas | as pesquisas erram muito em 2º turno (42 disputas, desvio de 7,3 pontos) e erraram no 1º turno de 2026 para o outro lado |
-| um mercado que nunca erra | a Polymarket errou o 1º turno e, na faixa de 70% a 90%, o favorito perdeu 3 de 18 vezes |
+## Conclusão
 
-**O que essa lente acerta:** o resultado foi uma surpresa de verdade. Nenhuma das três réguas principais dava o Lula como favorito, a regra do líder do 1º turno quebrou pela primeira vez, e a queda da abstenção é fora do padrão. Essas três coisas merecem a apuração seção a seção, a hora de chegada dos boletins e os registros das urnas, que este projeto não cobre.
-
-**O que mudaria esta leitura:** os mesmos testes, feitos seção a seção (o vídeo 16), mostrando concentração que o município esconde; pesquisas pós-eleição mostrando que os eleitores dos outros candidatos não votaram como o resultado exige.
-
-## O que o dado sustenta mais
-
-**A lente L.** Por três razões que não dependem de opinião: (1) a chance antes da votação não era pequena o bastante para ser estranha: na média das réguas, 1 em 4,4, e na régua das pesquisas com o erro histórico, 1 em 2,6; (2) os votos fecham e a subida foi espalhada pelo país inteiro; (3) o teste que procuraria voto acrescentado acha no máximo 15.636 votos, 0,35% da frente. A lente F não fica apagada: a surpresa é real, o erro de todas as pesquisas para o mesmo lado é real, e a parte da apuração seção a seção ainda não foi medida aqui.
+**O dado sustenta mais a lente L.** A diferença entre as duas não está na surpresa, que é real nas duas, e sim nos testes: tudo o que dá para medir com o resultado oficial por município fica dentro do padrão de seis eleições que ninguém contesta.

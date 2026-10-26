@@ -1,21 +1,19 @@
-# Resumo simples
+# Resumo simples (rodada 2)
 
-**O que aconteceu:** o Lula teve 51,79% dos votos válidos e o Flávio 48,21%. No 1º turno o Flávio estava na frente por 2.224.965 votos; no 2º o Lula venceu por 4.430.191.
+## A pergunta: qual era a chance do que aconteceu?
 
-| Pergunta | Resposta curta | Por quê |
-|---|---|---|
-| As pesquisas acertaram? | **Não.** 17 dos 19 institutos davam Flávio na última pesquisa | erraram todas para o mesmo lado, 2,6 pontos em média no Lula; nenhuma das 53 chegou no número da urna |
-| Alguma pesquisa dava Lula? | Vox Brasil e Colectta | e mesmo elas ficaram abaixo da urna |
-| Já tinha acontecido? | o lado do erro, sim | em 2014 e 2018 o 2º turno também deu mais ao candidato contra o PT do que a urna |
-| "O líder do 1º turno sempre vence" | quebrou pela 1ª vez em 8 eleições | a frente do Flávio era a menor da história (1,87 pontos); em governador, virada é comum |
-| "Quem ganha Minas ganha a eleição" | no 1º turno, quebrou; no 2º, valeu | Minas deu Flávio no 1º turno e Lula no 2º |
-| Quantos estados viraram? | **1, Minas Gerais**, para o Lula | o Lula subiu de 4,5 a 9,3 pontos em todos os 27 |
-| Quantos municípios viraram? | 211 para o Lula, 1 para o Flávio | o maior foi a cidade do Rio de Janeiro |
-| A abstenção? | **caiu** 1,86 pontos, 2,96 milhões a mais votando | em quase toda eleição ela sobe no 2º turno |
-| Brancos e nulos? | caíram 1,82 milhões | |
-| Para onde foram Cury, Renan e Caiado? | se dividiram, um pouco mais para o Lula em cada um | estimativa com faixa larga; sem troca direta de voto, o Lula precisava de 60% deles |
-| Governador e presidente no mesmo estado | 18 de 27 do mesmo lado | 6 governadores sem PT nem PL na coligação |
-| Qual era a chance do Lula antes da votação? | entre 1 em 9,0 e 1 em 2,6, conforme a régua | média das três réguas principais: 23% |
-| Os dados mostram voto sem explicação? | 15.636 votos do Lula sem origem visível, 0,35% da frente | cabem em troca direta de voto; nenhum município com comparecimento acima de 95% |
+**Cerca de 39%, ou 1 em 2,5, de o Lula vencer**, com o que se sabia no sábado. Era a menos provável das duas, mas longe de impossível.
 
-Leitura das duas lentes (resultado legítimo e fraude): [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Relatório completo: [`RELATORIO.md`](RELATORIO.md).
+| Pilar | Peso (o do vídeo 14) | Chance do Lula | De onde vem |
+|---|---|---|---|
+| Pesquisas | 60% | 38% | em 30 de 80 segundos turnos passados, as pesquisas erraram a favor do líder por mais do que a frente do Flávio |
+| Histórico de viradas | 25% | 47% | com frente parecida com a do Flávio, o líder do 1º turno perdeu 8 de 17 vezes |
+| Crescimento | 15% | 33% | com os votos livres indo como em cada eleição de 2002 a 2022, o Lula venceria em 2 de 6 |
+| **Junto** | | **39%** | |
+
+- **Por que não é "1 em 1.000":** multiplicar "as pesquisas erraram × o líder perdeu × Minas quebrou × o mercado errou" trata como quatro sorteios o que é um só fato: o Lula vencer uma disputa apertada. Dado que ele venceu, as quatro coisas acontecem juntas.
+- **As pesquisas já erraram tanto?** No Brasil, uma vez: em 2002, do mesmo tamanho, mas com 28 pontos de frente. No mundo, o líder das pesquisas perdeu 9 de 41 segundos turnos. O que 2026 teve de diferente foi um erro grande numa disputa apertada.
+- **"Nunca houve virada"?** Para presidente, nunca, mas nenhum dos 7 casos tinha frente pequena. Com frente parecida, virada é quase cara ou coroa.
+- **A lente da fraude:** a surpresa é real e o erro das pesquisas também. Mas os testes que dá para fazer com o resultado por município (votos sem origem, eleitor novo, comparecimento, subida fora do padrão, curva da apuração, prorrogação, exterior) ficam todos dentro do que aconteceu em 2002 a 2022. O seção a seção é o projeto do vídeo 16.
+
+Relatório completo: [`RELATORIO.md`](RELATORIO.md). Leitura das duas lentes: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md).

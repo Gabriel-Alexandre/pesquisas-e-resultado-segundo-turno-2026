@@ -1,0 +1,1525 @@
+{{Short description|none}}
+In the run up to the [[2025 Ecuadorian general election]], various organisations carried out opinion polling to gauge voting intention in Ecuador. Results of such polls are displayed in this article.
+
+The date range for these opinion polls are from 2024, almost a year into incumbent President [[Daniel Noboa]]'s term to the day the run-off election, which was held on 13 April 2025. The data range also includes opinion polls conducted prior to the first round of voting, which was held 9 February 2025 and before official candidates were finalized.
+
+==Opinion polling==
+Poll results are listed in the table below in reverse chronological order, showing the most recent first. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading party's colour.
+
+===Run-off===
+[[File:Encuestas de intención de voto Ecuador 2025 (Segunda vuelta).png|center|800px]]
+<!--Do not bold second place individual as in run-off polling, we only bold the leading candidate since only one individual will win-->
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:13px"
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="2" |Date
+! rowspan="2" |Polling source
+! rowspan="2" |Sample size
+! rowspan="2" |Margin<br>of error ('''+/-)'''
+![[Daniel Noboa]]<br>([[National Democratic Action (Ecuador)|ADN]])
+![[Luisa González]]<br>([[Citizen Revolution Movement|RC]])
+! rowspan="2" |Null
+! rowspan="2" |Blank
+! rowspan="2" |Undecided
+! rowspan="2" |Lead
+|-
+| bgcolor="#7C468D" |
+| bgcolor="{{party color|Citizen Revolution}}" |
+|-
+|3 Apr 2025
+|Comunicaliza
+|4,763
+|1.42%
+| style="background:#7C468D;color:#FFFFFF;" |'''41.5%'''
+|41.1%
+| colspan="2" |8.0%
+|9.5%
+| style="background:#7C468D;color:#FFFFFF;" |'''0.4'''
+|-
+|3 Apr 2025
+|Telcodata
+|6,134
+|3%
+|49.8%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''50.2%'''
+| colspan="3" |–
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''0.4'''
+|-
+|3 Apr 2025
+|Tino Electoral
+|1,500
+|2%
+| style="background:#7C468D;color:#FFFFFF;" |'''52.4%'''
+|45.1%
+| colspan="3" |2.5%
+| style="background:#7C468D;color:#FFFFFF;" |'''7.3'''
+|-
+|1 Apr 2025
+|TresPuntoZero
+|1,180
+|2.9%
+|45.1%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''50.6%'''
+| colspan="2" |4.1%
+|0.2%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''5.5'''
+|-
+|25–30 Mar 2025
+|Pedro Cango<ref>{{Cite AV media |url=https://www.youtube.com/watch?si=dY7JnhLAeg5dq89Z&v=bBWXlHD3MuU&feature=youtu.be |title=El final de Noboa. Nueva encuesta Luisa sigue liderando |date=2025-04-01 |last=Hablando claro con Nelson Salazar |access-date=2025-04-02 |via=YouTube}}</ref>
+|5,422
+|1.5%
+|48.1%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''51.9%'''
+| colspan="3" |–
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''3.8'''
+|-
+| 28 Mar 2025
+| Áltica<ref>{{cite web |access-date=2025-03-31 |author=Áltica |date=31 March 2025 |title=Intención de Voto. Si el día de hoy fuera la elección para Presidente de Ecuador, ¿usted por cuál de estos candidatos votaría? |url=https://x.com/altica_research/status/1906842110579343417?s=46}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+| 700
+| 3.7%
+|42.3%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''44.1%'''
+| colspan="2" |6.4%
+|7.2%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''1.8'''
+|-
+|27 Mar 2025
+|MR Analitica
+|6,024
+|1.5%
+|42.98%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''50.39%'''
+| colspan="2" |6.63%
+|–
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''7.41'''
+|-
+|25 Mar 2025
+|Tino Electoral
+|800
+|2%
+| style="background:#7C468D;color:#FFFFFF;" |'''51.0%'''
+|45.9%
+| colspan="3" |3.1%
+| style="background:#7C468D;color:#FFFFFF;" |'''5.1'''
+|-
+|24 Mar 2025
+|Negocios y Estrategias<ref>{{cite web|access-date=2025-03-26 |author=Negocios y Estrategias |title=Encuesta N&E: Luisa se mantiene firme y al frente con 51,45% de intención de voto |date=25 March 2025 |url=https://confirmado.net/luisa-se-mantiene-firme-y-al-frente-con-5145-de-intencion-de-voto/}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|3,000
+|3%
+|48.55%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''51.45%'''
+| colspan="3" |–
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''2.9'''
+|-
+!23 Mar 2025
+! colspan="9" |'''Run-off debate'''
+|-
+|3–20 Mar 2025
+|MR Analitica<ref>{{Cite AV media |url=https://www.youtube.com/watch?si=OLJ7eQ_uZTcJ5q6Q&v=d1hAyH_M8c0&feature=youtu.be |title=SI HOY FUERAN LAS ELECCIONES, LUISA GONZÁLEZ TENDRÍA 53,19% Y DANIEL NOBOA 46,81% D INTENCIÓN D VOTO |date=2025-03-10 |last=Ecuador En Directo |access-date=2025-03-23 |via=YouTube}}</ref>
+|15,003
+|1.5%
+| 43.10%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''49.97%'''
+| colspan="3" |6.92%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" | '''6.87'''
+|-
+|19 Mar 2025
+|Tino Electoral
+|1,500
+|2%
+| style="background:#7C468D;color:#FFFFFF;" |'''49.1%'''
+|46.2%
+| colspan="3" |4.7%
+| style="background:#7C468D;color:#FFFFFF;" |'''2.9'''
+|-
+|9–12 Mar 2025
+|TresPuntoZero<ref>{{Cite AV media |url=https://www.youtube.com/watch?si=VOASTqUzDG4X2-G-&v=akrdUWl9O0Q&feature=youtu.be |title=#LUISA #GONZÁLEZ 53,9% Y #DANIEL #NOBOA 46,1%. #LUISA HA #CRECIDO Y #NOBOA SE QUEDA #ATRÁS CON EL 7% |date=2025-03-20 |last=Ecuador En Directo |access-date=2025-03-23 |via=YouTube}}</ref>
+|1,500
+|2.5%
+| 45.2%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''52.9%'''
+| colspan="2" |0.3%
+| 1.6%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''7.7'''
+|-
+|26 Feb–3 Mar 2025
+|Negocios y Estrategias<ref>{{cite web|url=https://confirmado.net/luisa-gonzalez-lidera-con-el-51-09-de-intencion-de-voto-a-pocos-dias-de-la-campana-electoral-en-ecuador/|title=Luisa Gonzalez lidera con el 51.09 de intencion de voto a pocos dias de la campana electoral en Ecuador|publisher=Confirmado.net|language=Spanish|accessdate=13 March 2025|date=3 March 2025}}</ref>
+|1,800
+|2.3%
+|44.78%
+| style="background:{{Party color|Citizen Revolution}}; color:white;" |'''46.78%'''
+| colspan="3" |8.44%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" | '''2.00'''
+|-
+|25 Feb–2 Mar 2025
+|MR Analitica<ref>https://x.com/RComunitariosEc/status/1897379098336616667?t=7LS0TnVk5s43en87ubO81Q&s=08</ref>
+|5,143
+|1.5%
+|43.79%
+| style="background:{{Party color|Citizen Revolution}}; color:white;" |'''49.75%'''
+| colspan="2" |6.46%
+|–
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;"| '''5.96'''
+|-
+|14–22 Feb 2025
+|MR Analítica<ref>{{Cite AV media |url=https://www.youtube.com/watch?si=439iLo8PZsQAkSbQ&v=56wEpCdAWXc&feature=youtu.be |title=LUISA GONZÁLEZ LIDERA las ENCUESTAS: MR la UBICA con el 52,56% vs. el 47,44% de DANIEL NOBOA |date=2025-02-25 |last=En Retrospectiva |access-date=2025-02-26 |via=YouTube}}</ref><ref>{{Cite AV media |url=https://www.youtube.com/watch?si=8KP6NA3BF9f39hpn&v=X9O7LYU2tzo&feature=youtu.be |title=LUISA GONZÁLEZ TIENE 52,56% Y DANIEL NOBOA 47,44%EN VOTOS VÁLIDOS.NO HAY VOTOS PARA ALCANZAR A LUISA |date=2025-02-25 |last=Ecuador En Directo |access-date=2025-02-26 |via=YouTube}}</ref><ref>{{Cite web|url=https://x.com/RComunitariosEc/status/1893886840404340796|access-date=2025-02-24|date=2025-02-23|website=X | title=▶️ 2da VUELTA🗳️ ENCUESTA NACIONAL }}</ref>
+|10,005
+|1.5%
+|43.24%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''47.91%'''
+| colspan="2" | 8.85%
+|–
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;"| '''4.67'''
+|-
+|11–13 Feb 2025
+|TresPuntoZero<ref>{{Cite AV media |url=https://www.youtube.com/watch?si=9xdtC9bQPffktShF&v=5eAZo1yh6vg&feature=youtu.be |title=#LUISA #GONZÁLEZ TIENE EN #INTENCIÓN DE VOTO EL 50,6% Y DANIEL NOBOA 46,5%.NOBOA YA LLEGÓ A SU TECHO |date=2025-02-17 |last=Ecuador En Directo |access-date=2025-02-19 |via=YouTube}}</ref><ref>{{Cite AV media |url=https://www.youtube.com/watch?si=6J4Cse6WxRs0yq7o&v=qepkqW4EgrA&feature=youtu.be |title=¿Por qué Luisa está mejor evaluada para la presidencia? Análisis con Shila Vilker. |date=2025-02-18 |last=Hablando Corto con Nelson Salazar |access-date=2025-02-19 |via=YouTube}}</ref>
+|1,000
+|3.2%
+|46.5%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''50.6%'''
+| colspan="2" | 1.7%
+|1.2%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;"|'''4.1'''
+|-
+!9 Feb 2025
+! colspan="9" |'''First round'''
+|-
+|24 Jan 2025
+|Comunicaliza
+|5,217
+|1.36%
+| style="background:#7C468D;color:#FFFFFF;" |'''40.5%'''
+|35.2%
+| colspan="2" |13.6%
+|10.7%
+| style="background:#7C468D;color:#FFFFFF;" |'''5.3'''
+|-
+|22 Jan 2025
+|Comunicaliza
+|2,782
+|1.86%
+| style="background:#7C468D;color:#FFFFFF;" |'''40.4%'''
+|35.6%
+| colspan="2" |13.3%
+|10.8%
+| style="background:#7C468D;color:#FFFFFF;" |'''4.8'''
+|-
+|16 Jan 2025
+|Politiks Studio
+|1,200
+|3.1%
+|45%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''47%'''
+| colspan="2" |6%
+|2%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;" |'''2'''
+|-
+|14 Jan 2025
+|TresPuntoZero
+|1,050
+|3%
+|43.0%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''51.0%'''
+| colspan="2" | 2.7%
+|3.3%
+| style="background:{{Party color|Citizen Revolution}}; color:#FFFFFF;"|'''8.0'''
+|}
+
+===First round===
+Opinion polls conducted since the 2023 election are listed below. Results for candidates in first place are in bold and have their party color as a background. Results for candidates who would make it to a second round (if the first-placed candidate would not reach either 50% or 40% with a 10-point lead) are also in bold.
+[[File:Encuestas de intención de voto Ecuador 2025.png|center|800px]]
+<div style="overflow:auto;">
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:13px"
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="2" |Date
+! rowspan="2" |Polling source
+! rowspan="2" |Sample size
+! rowspan="2" |Margin<br>of error
+![[Luisa González]]<br>([[Citizen Revolution Movement|RC]])
+![[Daniel Noboa]]<br>([[National Democratic Action (Ecuador)|ADN]])
+![[Leonidas Iza]]<br>([[Pachakutik Plurinational Unity Movement – New Country|MUPP]])
+![[Henry Kronfle]]<br>([[Christian Social Party (Ecuador)|PSC]])
+!Pedro Granja<br>([[Socialist Party – Broad Front of Ecuador|PSE]])
+![[Jimmy Jairala]]<br>([[Democratic Center (Ecuador)|MCD]])
+![[Henry Cucalón]]<br>([[Movimiento Construye|MC25]])
+![[Carlos Rabascall]]<br>([[Democratic Left (Ecuador)|ID]])
+!Victor Araus<br>([[People, Equality and Democracy|PID]])
+![[Andrea González Nader|Andrea González]]<br>([[Patriotic Society Party|PSP]])
+!Enrique Gómez<br>([[SUMA Party|SUMA]])
+!{{ill|Francesco Tabacchi|es}}<br>([[Creating Opportunities|CREO]])
+![[Jorge Escala]]<br>([[Popular Unity (Ecuador)|UP]])
+!Luis Tillería<br>([[Advance (Ecuador)|Avanza]])
+!Juan Cueva'<br>([[AMIGO Movement|AMIGO]])
+!{{ill|Iván Saquicela|es}}<br>({{ill|Democracy Yes|lt=DSí|es|Democracia Sí}})
+! rowspan="2" |Null
+! rowspan="2" |Blank
+! rowspan="2" |Undecided
+|-
+| bgcolor="{{party color|Citizen Revolution}}" |
+| bgcolor="#7C468D" |
+| bgcolor="{{party color|Pachakutik Plurinational Unity Movement – New Country}}" |
+| bgcolor="{{party color|Christian Social Party (Ecuador)}}" |
+| bgcolor="{{party color|Socialist Party – Broad Front of Ecuador}}" |
+| bgcolor="{{party color|Democratic Center (Ecuador)}}" |
+| bgcolor="{{party color|Movimiento Construye}}" |
+| bgcolor="{{party color|Democratic Left (Ecuador)}}" |
+| bgcolor="#FFFF00" |
+| bgcolor="{{party color|Patriotic Society Party}}" |
+| bgcolor="{{party color|SUMA Party}}" |
+| bgcolor="{{party color|CREO Movement}}" |
+| bgcolor="{{party color|Popular Unity (Ecuador)}}" |
+| bgcolor="{{party color|Advance}}" |
+| bgcolor="{{party color|AMIGO Movement}}" |
+| bgcolor="#B71C5" |
+|-
+| colspan="23" |'''The second round of the election between Luisa González and Daniel Noboa is scheduled for 13 April 2025.'''
+|-
+|12 March 2025
+|'''CNE ''Final Presidential results'''''<ref>{{Cite web |date=2025-03-12 |title=CNE proclama resultados de la primera vuelta: Daniel Noboa superó con 16.746 votos a Luisa González |url=https://www.primicias.ec/elecciones/ecuador2025/presidenciales/resultados-definitivos-primera-vuelta-cne-daniel-noboa-luisa-gonzalez-91634/ |access-date=2025-03-26 |website=Primicias}}</ref>
+| rowspan="2" |11,264,435
+|0.03%
+|'''44%'''
+|'''44.17%'''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|18 Feb 2025
+|<sup>'''Consejo Nacional Electoral  ''Preliminary Results'''''</sup> <ref>{{Cite web |title=Sistema Informático de Escrutinio y Resultados |url=https://resultados2025.cne.gob.ec/Resultados/VentanaReporte |access-date=2025-02-20 |website=resultados2025.cne.gob.ec}}</ref>
+|<sup>Available by 22 March 2025</sup>
+|<u>'''43.97%'''</u>
+|<u>'''44.17%'''</u>
+|'''5.25%'''
+|'''0.72%'''
+|'''0.53%'''
+|'''0.4%'''
+|'''0.36%'''
+|'''0.22%'''
+|'''0.25%'''
+|'''2.69%'''
+|'''0.18%'''
+|'''0.26%'''
+|'''0.4%'''
+|'''0.32%'''
+|'''0.17%'''
+|'''0.12%'''
+|'''6.8%'''
+|'''2.16'''
+|'''Nill'''
+|-
+|9 Feb 2025 <sup>'''5 p.m.''' (ECT)</sup>
+|<sup>Diego Tello Flores '''Official Exit Poll  ''"on behalf of Estrategas"'''''</sup> <ref>{{Cite web |date=2025-02-09 |title='Exit poll': Diego Tello dice que Daniel Noboa lideraría la votación |url=https://www.teleamazonas.com/exit-poll-elecciones-ecuador-2025/ |access-date=2025-02-19 |website=Teleamazonas |language=es}}</ref>
+|28,220
+|2.98%
+|'''42.21%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''50.12%'''
+|1.89%
+|0.70%
+|0.52%
+|0.42%
+|0.18%
+|0.16%
+|0.28%
+|1.98%
+|0.13%
+|0.16%
+|0.66%
+|0.41%
+|0.11%
+|0.06%
+| colspan="3" |Nill
+|-
+| rowspan="2" |30 Jan 2025
+| rowspan="2" |Negocios y Estrategias<ref>{{Cite web |title=Negocios & Estrategias en LinkedIn: Presidenciales 30 de enero |url=https://es.linkedin.com/posts/negocios-&-estrategias_presidenciales-30-de-enero-activity-7290920989054406658-XCeV |access-date=2025-02-01 |website=es.linkedin.com |language=es}}</ref>
+| rowspan="2" |2,000
+| rowspan="2" |2.2%
+|style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''48.5%'''
+|'''44.9%'''
+| colspan="14" |6.6%
+| colspan="2" |–
+| rowspan="2" |–
+|-
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''44.9%'''
+|'''41.6%'''
+|2.0%
+|0.3%
+|0.3%
+|0.3%
+|0.3%
+|0.2%
+|0.0%
+|2.3%
+|0.0%
+|0.2%
+|0.2%
+|0.2%
+|0.2%
+|0.1%
+| colspan="2" |7.4%
+|-
+| rowspan="2" |30 Jan 2025
+| rowspan="2" |Cedatos
+| rowspan="2" |3,650
+| rowspan="2" |2.2%
+|'''32.2%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''48.6%'''
+| colspan="17" |
+|-
+|'''27.6%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''41.4%'''
+|1.1%
+|0.6%
+|1.4%
+|1.7%
+|0.3%
+|0.6%
+|0.8%
+|6.4%
+|0.0%
+|1.0%
+|0.3%
+|1.5%
+|0.9%
+|0.4%
+|9.3%
+|2.4%
+|2.5%
+|-
+| rowspan="2" |26 Jan 2025
+| rowspan="2" |Informe Confidencial
+| rowspan="2" |2,630
+| rowspan="2" |3%
+|'''29%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''37%'''
+|2%
+| colspan="2" |–
+|4%
+| colspan="3" |–
+|6%
+| colspan="6" |–
+|12%
+| colspan="2" |5%
+|-
+|'''34.9%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''44.6%'''
+|2.4%
+| colspan="2" |–
+|4.8%
+| colspan="3" |–
+|7.2%
+| colspan="6" |–
+| colspan="3" |–
+|-
+| rowspan="2" |24 Jan 2025
+| rowspan="2" |Ipsos
+| rowspan="2" |2,000
+| rowspan="2" |2.2%
+|'''31.3'''%
+| style="background:#7C468D;color:#FFFFFF;" |'''45.3%'''
+|2.4%
+| colspan="2" |–
+|1.9%
+| colspan="3" |–
+|5.1%
+| colspan="6" |–
+| colspan="2" |6.3%
+|2.9%
+|-
+|'''34.6'''%
+| style="background:#7C468D;color:#FFFFFF;" |'''50.0%'''
+|2.6%
+| colspan="2" |–
+|2.1%
+| colspan="3" |–
+|5.7%
+| colspan="6" |–
+| colspan="3" |–
+|-
+| rowspan="2" |24 Jan 2025
+| rowspan="2" |Communicaliza
+| rowspan="2" |5,217
+| rowspan="2" |1.36%
+|'''32.0%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''38.1%'''
+|2.1%
+|0.2%
+|1.0%
+|0.8%
+|0.3%
+|0.4%
+|0.2%
+|4.3%
+|0.2%
+|0.3%
+|0.1%
+|0.7%
+|0.1%
+|0.1%
+| colspan="2" |7.6%
+|11.5%
+|-
+|'''39.5%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''47.1%'''
+|2.5%
+| colspan="6" |–
+|5.3%
+| colspan="6" |–
+| colspan="3" |–
+|-
+| rowspan="2" |22 Jan 2025
+| rowspan="2" |Communicaliza
+| rowspan="2" |2,782
+| rowspan="2" |1.86%
+|'''32.4%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''36.9%'''
+|1.8%
+|0.3%
+|1.0%
+|0.8%
+|0.3%
+|0.6%
+|0.2%
+|4.1%
+|0.2%
+|0.3%
+|0.2%
+|1.2%
+|0.2%
+|0.2%
+| colspan="2" |7.8%
+|11.4%
+|-
+|'''40.1%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''45.7%'''
+| colspan="14" |14.2%
+| colspan="3" |–
+|-
+| rowspan="2" |22 Jan 2025
+| rowspan="2" |MR Analitica
+| rowspan="2" |2,010
+| rowspan="2" |–
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''42.20%'''
+|'''32.42%'''
+|4.88%
+|1.05%
+|4.46%
+|1.57%
+|0.73%
+|0.88%
+|0.07%
+|4.72%
+|0.37%
+|0.14%
+|3.15%
+|0.72%
+|1.15%
+|0.05%
+| colspan="3" |–
+|-
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''39.70%'''
+|'''30.50%'''
+|4.10%
+|0.88%
+|3.75%
+|1.32%
+|0.62%
+|0.74%
+|0.06%
+|3.97%
+|0.31%
+|0.12%
+|2.65%
+|0.60%
+|0.97%
+|0.04%
+| colspan="2" |5.92
+|–
+|-
+|21 Jan 2025
+|Negocios y Estrategias
+|2,000
+|2.2%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''41%'''
+|'''36%'''
+|4%
+|1%
+|1%
+|1%
+|1%
+|1%
+|0%
+|4%
+|0%
+|1%
+|0%
+|0%
+|0%
+|0%
+| colspan="2" |9%
+|–
+|-
+!19 Jan 2025
+! colspan="22" |'''First round debate'''
+|-
+| rowspan="2" |18 Jan 2025
+| rowspan="2" |Cedatos
+| rowspan="2" |3,651
+| rowspan="2" |2.2%
+|'''29.6'''%
+| style="background:#7C468D;color:#FFFFFF;" |'''32.1%'''
+|1.7%
+|0.9%
+|0.7%
+|3.1%
+|0.6%
+|0.4%
+|0.8%
+|1.2%
+|0.2%
+|1.5%
+|0.2%
+|0.2%
+|0.1%
+|0.3%
+|15.9%
+|3.2%
+|16.3%
+|-
+|'''31.9'''%
+| style="background:#7C468D;color:#FFFFFF;" |'''49.7%'''
+|2.6%
+|1.4%
+|1.1%
+|4.8%
+|0.9%
+|0.6%
+|1.2%
+|1.9%
+|0.3%
+|2.3%
+|0.3%
+|0.3%
+|0.2%
+|0.5%
+| colspan="3" |–
+|-
+| rowspan="2" |16 Jan 2025
+| rowspan="2" |MR Analitica
+| rowspan="2" |3,950
+| rowspan="2" |2.5%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''49.55%'''
+|'''39.52'''%
+|2.24%
+|0.39%
+|1.14%
+|1.05%
+|0.85%
+|0.17%
+|0.25%
+|0.62%
+|0.07%
+|0.11%
+|0.87%
+|1.05%
+|1.20%
+|0.00%
+| colspan="3" |–
+|-
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''43.09%'''
+|'''34.37%'''
+|1.82%
+|0.31%
+|0.92%
+|0.85%
+|0.69%
+|0.14%
+|0.21%
+|0.50%
+|0.06%
+|0.09%
+|0.71%
+|0.85%
+|0.97%
+|0.00%
+| colspan="2" |13.04%
+|–
+|-
+|16 Jan 2025
+|Politiks Studio
+|1,200
+|3.1%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''44%'''
+|'''38%'''
+|0%
+|2%
+|2%
+|–
+|1%
+|0%
+|1%
+|0%
+|1%
+|0%
+| colspan="4" |–
+|6%
+| colspan="2" |–
+|-
+|14 Jan 2025
+|Trespuntozero
+|1,050
+|3.0%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''48.0%'''
+|'''40.4%'''
+|1.4%
+|0.1%
+|1.6%
+|1.1%
+|0.2%
+|0.9%
+|0.1%
+|0.6%
+|1.0%
+|0.1%
+|0.1%
+|0.2%
+|0.7%
+|0.00%
+| colspan="2" |–
+|1.5%
+|-
+|12 Jan 2025
+|Informe Confidencial
+|13,000
+|3.0%
+|'''32%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''37%'''
+|3%
+|2%
+|–
+|3%
+| colspan="10" |–
+|13%
+|7%
+|–
+|-
+| rowspan="2" |11 Jan 2025
+| rowspan="2" |Comunicaliza
+| rowspan="2" |5,251
+| rowspan="2" |1.4%
+|'''33.0%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''36.1%'''
+|2.0%
+|0.3%
+|0.7%
+|0.7%
+|0.5%
+|0.6%
+|0.5%
+|0.4%
+|0.2%
+|0.3%
+|0.4%
+|0.3%
+|0.2%
+|0.2%
+| colspan="2" |9.9%
+|13.9%
+|-
+|'''43.3%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''47.3%'''
+| colspan="14" |9.4%
+| colspan="3" |–
+|-
+|8 Jan 2025
+|Negocios y Estrategias
+|1,300
+|2.7%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''40%'''
+|'''34%'''
+|4%
+|1%
+|1%
+|3%
+|2%
+|1%
+|0%
+|0%
+|0%
+|1%
+|0%
+|0%
+|0%
+|0%
+| colspan="2" |12%
+|–
+|-
+|29 Dec 2024
+|Comunicaliza
+|4,485
+|1.5%
+|'''29.3%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''32.9%'''
+|2.5%
+|0.6%
+|1.0%
+|1.1%
+|1.0%
+|1.1%
+|0.5%
+|0.8%
+|0.5%
+|0.3%
+|0.5%
+|0.5%
+|0.4%
+|0.2%
+| colspan="2" |8.9%
+|17.8%
+|-
+| rowspan="2" |22 Dec 2024
+| rowspan="2" |MR Analitica
+| rowspan="2" |9,000
+| rowspan="2" |2.0%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''41.14%'''
+|'''32.32%'''
+|4.60%
+|3.53%
+|1.96%
+|3.72%
+|1.86%
+|0.98%
+|0.39%
+|1.47%
+|0.20%
+|0.29%
+|0.78%
+|2.55%
+|4.11%
+|0.10%
+| colspan="3" |–
+|-
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''35.56%'''
+|'''27.24%'''
+|3.98%
+|3.05%
+|1.69%
+|3.22%
+|1.61%
+|0.85%
+|0.34%
+|1.27%
+|0.17%
+|0.25%
+|0.68%
+|2.20%
+|3.56%
+|0.08%
+| colspan="2" |13.55%
+|
+|-
+| rowspan="2" |20 Dec 2024
+| rowspan="2" |Cedatos
+| rowspan="2" |3,444
+| rowspan="2" |2.4%
+|'''32.5'''%
+| style="background:#7C468D;color:#FFFFFF;" |'''48.0%'''
+|2.3%
+|1.6%
+|0.3%
+|4.8%
+|0.3%
+|0.5%
+|1.5%
+|2.1%
+|0.6%
+|4.2%
+|0.6%
+|–
+|0.3%
+|0.3%
+| colspan="3" |–
+|-
+|'''20.1%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''29.7%'''
+|1.4%
+|1.0%
+|0.2%
+|3.0%
+|0.2%
+|0.3%
+|0.9%
+|1.3%
+|0.4%
+|2.6%
+|0.4%
+|–
+|0.2%
+|0.2%
+|19.7%
+|3.7%
+|14.6%
+|-
+|15 Dec 2024
+|Comunicaliza
+|4,486
+|1.5%
+|'''29.9%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''32.6%'''
+|2.2%
+|0.4%
+|0.6%
+|1.2%
+|1.0%
+|1.0%
+|0.9%
+|0.8%
+|0.5%
+|0.8%
+|0.4%
+|0.3%
+|0.5%
+|0.2%
+| colspan="2" |10.4%
+|16.3%
+|-
+|14 Dec 2024
+|Bitar Consultores
+|10,269
+|0.03%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''40.28%'''
+|'''38.05%'''
+|3.21%
+|10.38%
+|0.76%
+|1.81%
+|0.59%
+|0.51%
+|0.86%
+|0.64%
+|0.57%
+|0.87%
+|0.38%
+|0.33%
+|0.62%
+|0.12%
+| colspan="3" |–
+|-
+|7 Dec 2024
+|Áltica
+|1,000
+|3.1%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''45.5%'''
+|'''39.1%'''
+|4.2%
+|0.4%
+|1.5%
+|2.2%
+|1.1%
+| colspan="2" |–
+|0.5%
+|–
+|4.5%
+|0.6%
+|0.4%
+| colspan="2" |–
+| colspan="3" |–
+|-
+|3 Dec 2024
+|Tino Electoral
+|4,000
+|–
+|'''32%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''36%'''
+|7%
+| colspan="2" |–
+|4%
+| colspan="10" |–
+|13%
+|8%
+|–
+|-
+| rowspan="2" |25 Nov 2024
+| rowspan="2" |MR Analitica
+| rowspan="2" |4,667
+| rowspan="2" |2%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''43.17%'''
+|'''29.2'''%
+|4.70%
+|1.42%
+|2.25%
+|3.53%
+|2.21%
+|0.56%
+|0.60%
+|1.11%
+|0.31%
+|0.32%
+|0.75%
+|2.61%
+|4.05%
+|0.02%
+| colspan="3" |–
+|-
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''37.74%'''
+|'''25.37'''%
+|4.11%
+|1.24%
+|1.97%
+|3.08%
+|1.93%
+|0.49%
+|0.53%
+|0.97%
+|0.27%
+|0.28%
+|0.65%
+|2.29%
+|3.64%
+|0.02%
+| colspan="2" |12.58%
+|–
+|-
+|24 Nov 2024
+|Informe Confidencial
+|2,930
+|3%
+|'''32%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''34%'''
+|2%
+|1%
+|–
+|4%
+| colspan="4" |–
+|2%
+| colspan="5" |–
+|15%
+|6%
+|–
+|-
+| rowspan="2" |20 Nov 2024
+| rowspan="2" |Negocios y Estrategias
+| rowspan="2" |1,250
+| rowspan="2" |2.8%
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''45%'''
+|'''36%'''
+|2%
+|1%
+|2%
+|2%
+|2%
+|1%
+|1%
+|1%
+|2%
+|1%
+|0%
+|0%
+|0%
+|0%
+| colspan="3" |–
+|-
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;" |'''39%'''
+|'''31%'''
+|2%
+|1%
+|2%
+|2%
+|2%
+|1%
+|1%
+|1%
+|2%
+|1%
+|0%
+|0%
+|0%
+|0%
+| colspan="2" |14%
+|–
+|-
+|12 Nov 2024
+|Comunicaliza
+|4,196
+|1.51%
+|'''28.8%'''
+| style="background:#7C468D;color:#FFFFFF;" |'''28.9%'''
+|2.3%
+|0.6%
+|0.6%
+|1.4%
+|0.3%
+|0.7%
+|0.9%
+|0.6%
+|–
+|0.5%
+|0.3%
+|0.2%
+|0.3%
+|0.3%
+| colspan="2" |12.6%
+|20.3%
+|}</div>
+
+===Pre-candidates===
+<div style="overflow:auto;">
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:13px"
+|- style="height:30px; background-color:#8B8B8B"
+!rowspan=2|Date
+!rowspan=2|Polling source
+!rowspan=2|Sample size
+!rowspan=2|Margin<br>of error
+![[Daniel Noboa]]<br>([[National Democratic Action (Ecuador)|ADN]])
+![[Luisa González]]<br>([[Citizen Revolution Movement|RC]])
+!Gustavo Jalkh<br>([[Citizen Revolution Movement|RC]])
+!{{ill|Pedro Granja|es}}<br>([[Socialist Party – Broad Front of Ecuador|PSE]])
+![[Leonidas Iza]]<br>([[Pachakutik Plurinational Unity Movement – New Country|MUPP]])
+![[Jan Topić]]<br>([[SUMA Party|SUMA]])
+![[Pedro Freile]]<br>([[SUMA Party|SUMA]])
+![[Henry Kronfle]]<br>([[Christian Social Party (Ecuador)|PSC]])
+![[Carlos Rabascall]]<br>([[Democratic Left (Ecuador)|ID]])
+![[Andrea González Nader|Andrea González]]<br>([[Patriotic Society Party|PSP]])
+!Victor Araus<br>([[People, Equality and Democracy|PID]])
+![[Jorge Escala]]<br>([[Popular Unity (Ecuador)|UP]])
+![[Henry Cucalón]]<br>([[Movimiento Construye|MC25]])
+![[José Serrano (Ecuadorian politician)|José Serrano]]<br>([[Democratic Center (Ecuador)|MCD]])
+!Luis Tillería<br>([[Advance (Ecuador)|Avanza]])
+![[Bolívar Armijos Velasco|Bolívar Armijos]]<br>([[AMIGO Movement|AMIGO]])
+![[Cristina Reyes]]<br>(Ind.)
+![[Diana Salazar Méndez|Diana Salazar]]<br>(Ind.)
+! rowspan="2" |Others
+!rowspan=2|Null
+!rowspan=2|Blank
+!rowspan=2|Undecided
+|-
+| bgcolor="#7C468D" |
+| bgcolor="{{party color|Citizen Revolution}}" |
+| bgcolor="{{party color|Citizen Revolution}}" |
+| bgcolor="{{party color|Socialist Party – Broad Front of Ecuador}}" |
+| bgcolor="{{party color|Pachakutik Plurinational Unity Movement – goodNew Country}}" |
+| bgcolor="{{party color|SUMA Party}}" |
+| bgcolor="{{party color|SUMA Party}}" |
+| bgcolor="{{party color|Christian Social Party (Ecuador)}}" |
+| bgcolor="{{party color|Democratic Left (Ecuador)}}" |
+| bgcolor="{{party color|Patriotic Society Party}}" |
+| bgcolor="{{party color|United Ecuadorian}}" |
+| bgcolor="{{party color|Popular Unity (Ecuador)}}" |
+| bgcolor="{{party color|Movimiento Construye}}" |
+| bgcolor="{{party color|Democratic Center (Ecuador)}}" |
+| bgcolor="{{party color|Advance}}" |
+| bgcolor="{{party color|AMIGO Movement}}" |
+| bgcolor="{{party color|Independent politician}}" |
+| bgcolor="{{party color|Independent politician}}" |
+|-
+|27 Sep 2024
+|CID Gallup<ref>{{Cite web |date=2024-09-27 |title=Daniel Noboa y Luisa González encabezan nueva encuesta presidencial en Ecuador, con Jan Topic en tercer lugar |url=https://www.primicias.ec/politica/daniel-noboa-luisa-gonzalez-jan-topic-encuesta-presidencial-79966/ |access-date=2024-10-11 |website=Primicias}}</ref>
+|1,200
+|2.8%
+| style="background:#7C468D;color:#FFFFFF;"|'''31%'''
+|'''26%'''
+|–
+|–
+|–
+|15%
+|–
+|1%
+|–
+|–
+|–
+|–
+|2%
+|–
+|–
+|–
+|–
+|–
+|4%
+| colspan="3" |21%
+|-
+|22 Sep 2024
+|Informe Confidential<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=uDHQc7UobSE |title=Así quedó la papeleta presidencial de 2025 {{!}} La Presidencia de Veloz {{!}} Chequeo electoral |date=2024-10-03 |last=Café la Posta |access-date=2024-10-11 |via=YouTube}}</ref>
+|–
+|–
+| style="background:#7C468D;color:#FFFFFF;"|'''29%'''
+|'''25%'''
+|–
+|–
+|3%
+|7%
+|–
+|2%
+|1%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|6%
+|17%
+| colspan="2" |10%
+|-
+|24 Aug 2024
+|Cedatos<ref>{{Cite web |date=2024-08-24 |title=INFORME OPINIÓN ECUADOR AL 24 DE AGOSTO, 2024 |url=https://cedatos.com/2024/08/24/informe-opinion-ecuador-al-24-de-agosto-2024/ |access-date=2024-10-11 |website=Cedatos |language=es}}</ref>
+|3,238
+|3.1%
+| style="background:#7C468D;color:#FFFFFF;"|'''48.6%'''
+|'''27.6%'''
+|–
+|1.3%
+|5.3%
+|7.7%
+|–
+|1.6%
+|1,5%
+|0.9%
+|0.9%
+|0.2%
+|1.1%
+|0.3%
+|1.1%
+|–
+|–
+|–
+|2,0%
+|–
+|–
+|–
+|-
+|19 Aug 2024
+|Negocios y Estrategias<ref>{{Cite web|url=https://drive.google.com/file/d/1eaDNBBwoGDnOtbhR0aDMlBaK7c-7djIW/view|title=Negocios y Estrategias.jpg|website=Google Docs}}</ref>
+|–
+|–
+|'''37%'''
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''41%'''
+|–
+|1%
+|2%
+|8%
+|–
+|0%
+|1%
+|–
+|–
+|–
+|1%
+|1%
+|–
+|–
+|–
+|–
+|–
+| colspan="2" |9.9%
+|–
+|-
+|18 Aug 2024
+|Communicaliza<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=n3guQWFBK0g |title=#EnVivo #Teleamazonas #Entrevistas |date=2024-08-26 |last=Teleamazonas Ecuador |access-date=2024-10-11 |via=YouTube}}</ref>
+|4,971
+|1.39%
+| style="background:#7C468D;color:#FFFFFF;"|'''32.4%'''
+|'''25.4%'''
+|–
+|1.2%
+|2.6%
+|6.3%
+|–
+|1.4%
+|0,8%
+|0.7%
+|0.5%
+|0.4%
+|0.5%
+|2.2%
+|0.4%
+|–
+|–
+|–
+|0,9%
+| colspan="2" |9.9%
+|14.3%
+|-
+| rowspan="2" |5 Aug 2024
+| rowspan="2" |Maluk Research<ref>{{Cite web | title=Archived copy | url=https://malukresearch.com/wp-content/uploads/2024/08/ENCUESTA-MENSUAL-NACIONAL-JULIO-AGOSTO-2024-LIBRE-EDICION.pdf | archive-url=https://web.archive.org/web/20241015164644/https://malukresearch.com/wp-content/uploads/2024/08/ENCUESTA-MENSUAL-NACIONAL-JULIO-AGOSTO-2024-LIBRE-EDICION.pdf | archive-date=2024-10-15}}</ref>
+| rowspan="2" |4,052
+| rowspan="2" |2.5%
+|'''25.27%'''
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''39.67%'''
+|–
+|3.86%
+|4.45%
+|–
+|2.57%
+|–
+|1,83%
+|2.50%
+|–
+|2.81%
+|2.95%
+|–
+|6.48%
+|–
+|–
+|3.16%
+|4.44%
+|–
+|–
+|–
+|-
+|'''22.83%'''
+|–
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''26.93%'''
+|5.75%
+|5.83%
+|–
+|3.70%
+|–
+|4,41%
+|3.07%
+|–
+|2.20%
+|4.72%
+|–
+|12.60%
+|–
+|–
+|3.07%
+|4.88%
+|7.03%
+|–
+|–
+|-
+|17 Jul 2024
+|Maluk Research<ref>{{cite web|url=https://malukresearch.com/wp-content/uploads/2024/08/ENCUESTA-MENSUAL-NACIONAL-JULIO-2024-LIBRE-EDICION.pdf|title=Encuesta Julio 2024|publisher=Maluk Research|accessdate=30 July 2024|date=17 July 2024|language=Spanish}}</ref>
+|4,793
+|2.5%
+|'''34.61%'''
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''40.11%'''
+|–
+|3.90%
+|4.07%
+|–
+|–
+|0.48%
+| –
+|3.10%
+|–
+|4.65%
+|1.74%
+| –
+|–
+|–
+|–
+|1.94%
+|5.39%
+| –
+| –
+| –
+|-
+| rowspan="2" |4 Jul 2024
+| rowspan="2" |Cedatos<ref>{{cite web|url=https://cedatos.com/2024/07/08/informe-estudio-opinion-ecuador-a-julio-4-2024/|title=INFORME ESTUDIO OPINIÓN ECUADOR, A JULIO 4, 2024|publisher=Cedatos|accessdate=30 July 2024|date=4 July 2024|language=Spanish}}</ref>
+| rowspan="2" |3,882
+| rowspan="2" |2.4%
+| style="background:#7C468D;color:#FFFFFF;"|'''35.2%'''
+|'''11.7%'''
+|–
+| –
+|3.4%
+|–
+|–
+|4.0%
+|–
+|5.9%
+|–
+|–
+|7.0%
+|–
+|–
+|–
+|–
+|–
+|2.0%
+|14.9%
+|3.6%
+|12.3%
+|-
+| style="background:#7C468D;color:#FFFFFF;"|'''36.6%'''
+| –
+|3.80%
+| –
+| 3.5%
+|–
+|–
+| 4.3%
+| –
+| 5.4%
+|–
+| –
+| 7.6%
+| –
+|–
+|–
+| –
+|–
+| 11.4%
+| 15.1%
+| 4.4%
+| 7.8%
+|-
+|28 Jun 2024
+|Maluk Research<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=VI6NKtybzD0 |title=🔴 ¿CUÁL ES LA INTENCIÓN DE VOTO PARA PRESIDENTE? EVALUACIÓN DE CANDIDATOS SEGÚN CIFRAS {{!}} OMAR MALUK |date=2024-07-02 |last=La Contra |access-date=2024-10-11 |via=YouTube}}</ref>
+|4,412
+|2.5%
+|'''32.49%'''
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''39.63%'''
+|–
+|5.21%
+|4.89%
+|–
+|–
+|1.16%
+|–
+|3.69%
+|–
+|1.04%
+|–
+|1.72%
+|–
+|–
+|–
+|2.73%
+|7.42%
+|–
+|–
+|–
+|-
+|13 Jun 2024
+|Maluk Research<ref>{{Cite web | title=Archived copy | url=https://malukresearch.com/wp-content/uploads/2024/06/ENCUESTA-NACIONAL-QUINCENAL-JUNIO-2024.pdf | archive-url=https://web.archive.org/web/20240618011347/https://malukresearch.com/wp-content/uploads/2024/06/ENCUESTA-NACIONAL-QUINCENAL-JUNIO-2024.pdf | archive-date=2024-06-18}}</ref>
+|4,012
+|2.5%
+|'''32.37%'''
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''43.22%'''
+|–
+|4.98%
+|4.85%
+|–
+|–
+|1.02%
+|–
+|3.01%
+|–
+|1.18%
+|0.92%
+|–
+|–
+|1.33%
+|–
+|1.10%
+|6.03%
+|–
+|–
+|–
+|-
+|30 May 2024
+|Communicaliza<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=8cP88LeBkuM |title=¿El Gobierno ha tomado BUENAS DECISIONES? |date=2024-05-31 |last=Café la Posta |access-date=2024-10-11 |via=YouTube}}</ref>
+|–
+|–
+| style="background:#7C468D;color:#FFFFFF;"|'''39.8%'''
+|'''21.1%'''
+|–
+|1.0%
+|2.3%
+|–
+|–
+|2.4%
+|1.1%
+|–
+|–
+|–
+|–
+|–
+|–
+|0.5%
+|0.8%
+|–
+|0.8%
+| colspan="2" |9.8%
+|20.5%
+|-
+|14 May 2024
+|Maluk Research<ref>{{Cite web | title=Archived copy | url=https://malukresearch.com/wp-content/uploads/2024/06/ENCUESTA-NACIONAL-MAYO2024.pdf | archive-url=https://web.archive.org/web/20240618011340/https://malukresearch.com/wp-content/uploads/2024/06/ENCUESTA-NACIONAL-MAYO2024.pdf | archive-date=2024-06-18}}</ref>
+|4,012
+|2.5%
+|'''29.91%'''
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''47.75%'''
+|–
+|4.60%
+|1.89%
+|2.30%
+|–
+|–
+|2.79%
+|0.95%
+|–
+|–
+|–
+|–
+|–
+|0.00%
+|8.90%
+|0.37%
+|0.54%
+|–
+|–
+|–
+|-
+|15 Apr 2024
+|Maluk Research<ref>{{Cite web |last=Paucar |first=Edison |date=2024-05-17 |title=Otra encuesta muestra que la desaprobación de Noboa llegó al 59,92% |url=https://www.radiopichincha.com/otra-encuesta-muestra-que-la-desaprobacion-de-noboa-llego-al-5992/ |access-date=2024-10-11 |website=RADIO PICHINCHA |language=es}}</ref>
+|3,635
+|2.5%
+|'''30.31%'''
+| style="background:{{party color|Citizen Revolution}};color:#FFFFFF;"|'''39.12%'''
+|–
+|5.13%
+|4.20%
+|3.71%
+|–
+|–
+|3.69%
+|1.68%
+|–
+|–
+|–
+|–
+|–
+|0.26%
+|8.93%
+|1.02%
+|1.96%
+|–
+|–
+|–
+|}</div>
+
+==See also==
+* [[2025 Ecuadorian general election]]
+
+==References==
+{{reflist}}
+
+[[Category:Opinion polling for elections|Ecuador]]

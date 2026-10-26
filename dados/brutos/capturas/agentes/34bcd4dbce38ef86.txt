@@ -1,0 +1,3584 @@
+{{Short description|none}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox election
+| election_name     = Opinion polling for the Peruvian General election, 2026
+| country           = Peru
+| type              = presidential
+| ongoing           = yes
+| previous_election = Opinion polling for the 2021 Peruvian general election
+| previous_year     = 2021
+| next_election     = Opinion polling for the 2031 Peruvian general election
+| next_year         = ''Next''
+}}
+In the Peruvian electoral system, a candidate is proclaimed winner only after they obtain more than 50% of valid votes. If no candidates achieve that percentage in the first electoral round, the two candidates with the most votes participate in a second round or ballot. Peruvian electoral law prohibits the dissemination of polls in the week prior to the day of the electoral [[suffrage]].
+
+In the run-up to the [[2026 Peruvian general election]], various organizations conduct opinion polls to measure the intention to vote in [[Peru]] in the previous period. The results of these surveys are shown in this article. The date range for these opinion polls is from the runoff of the [[2021 Peruvian general election]], held on 6 June, to the present. Voting intention estimates refer mainly to a hypothetical election of the [[President of Peru|President of the Republic]]. Intent polls and mock ballots are listed in reverse chronological order, showing the most recent first and using the dates the poll was conducted in the field rather than the date of publication. When fieldwork dates are unknown, the publication date is given instead.
+
+==Presidential election==
+===Second round===
+{{wide image|File:Opinion polling for the second round of the 2026 Peruvian general election.png|800px|Trend lines of the voting intention polls for the second round.}}
+
+;{{small|Legend:}}
+{{legend|#FFEAEA|Poll performed during the blackout of polling information.|borde=#AAAAAA}}
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:16px;"
+! rowspan="3" |<small>Pollster / Client</small>
+! rowspan="3" |<small>Sample size</small>
+! rowspan="3" |<small>Margin of error</small>
+! rowspan="3" |<small>Date</small>
+! style="width:50px;" | [[File:260406-MITIN-KEIKO-PIURA-064 (cropped 2).jpg|50x50px|link=Keiko Fujimori]]
+! style="width:50px;" | [[File:Roberto Sánchez Palomino 2022 (retouched).jpg|50x50px]]
+! rowspan="3" |<small>Blank/None</small>
+! rowspan="3" |<small>Undecided</small>
+! rowspan="3" style="width:30px;" |<small>Lead</small>
+|-
+! {{Small|[[Keiko Fujimori|Fujimori]]}}<br><small>[[Popular Force|FP]]</small>
+! {{Small|[[Roberto Sánchez (Peruvian politician)|Sánchez]]}}<br><small>[[Together for Peru|JP]]</small>
+|-
+! style="background:#FF8000" |
+! style="background:#00FF00" |
+|- style="background-color:#FFEAEA; height:38px;"
+| Ipsos Perú<ref name=ipsos-6jun>{{Cite web |url=https://www.infobae.com/america/agencias/2026/06/07/sondeo-ratifica-empate-entre-fujimori-y-sanchez-a-pocas-horas-de-la-segunda-vuelta-en-peru/ |title=Sondeo ratifica empate entre Fujimori y Sánchez a pocas horas de la segunda vuelta en Perú |access-date= 7 June 2026 |date=6 June 2026 |website= infobae.com |language=es }}</ref>
+| 4,032
+| 1.5
+| 6 June 2026
+| style="background:#FF9966"|'''44.1'''
+| 43.7
+| 12.2
+| —
+| style="background:{{Party color|Popular Force}}" | {{color|white|0.4}}
+|-
+|- style="background-color:#FFEAEA; height:38px;"
+| Datum Internacional<ref>{{Cite news |title=Encuesta Datum 6 junio. |url=https://x.com/Zovatto55/status/2063410940054225111 |website=x.com}}</ref>
+| 2,622
+| 1.9
+| 6 June 2026
+| style="background:#FF9966"|'''44.9'''
+| 43.9
+| 11.2
+| —
+| style="background:{{Party color|Popular Force}}" | {{color|white|1}}
+|- style="background-color:#FFEAEA;"
+|-
+|- style="background-color:#FFEAEA;"
+| Ipsos Perú<ref name=ipsos-4jun>{{Cite web |url=https://es-us.noticias.yahoo.com/s%C3%A1nchez-fujimori-empate-t%C3%A9cnico-d%C3%ADas-003215575.html |title=Sánchez y Fujimori en empate técnico a días del balotaje presidencial de Perú |access-date= 5 June 2026 |date=4 June 2026 |website=yahoo.com |language=es }}</ref>
+| 1,231
+| 2.1
+| 3 June 2026
+| 43.2
+| style="background:#5EEF72"|'''43.8'''
+| 13
+| —
+| style="background:{{Party color|Together for Peru}}" | {{color|black|0.6}}
+|-
+|- style="background-color:#FFEAEA; height:38px;"
+| Datum Internacional<ref>{{Cite news |title=Encuesta Datum 3/4 junio. |url=https://www.facebook.com/share/p/1Cepo5tDbe/ |work=Radar de Noticias}}</ref>
+| 1,201
+| 2.8
+| 3–4 June 2026
+| style="background:#FF9966"|'''38.8'''
+| 37.0
+| 24.2
+| —
+| style="background:{{Party color|Popular Force}}" | {{color|white|1.8}}
+|-
+| Ipsos Perú/Perú21<ref>{{Cite web |last=Perú 21 |title=Será una victoria ajustada ipsos alfredo torres |url=https://peru21.pe/opinion/sera-una-victoria-ajustada-ipsos-alfredo-torres/ |access-date=2026-05-31 |website=peru21.pe |language=es}}</ref>
+| 1,204
+| 2.8
+| 29–30 May 2026
+| style="background:#FF9966"|'''40.4'''
+| 38.3
+| 21.3
+| —
+| style="background:{{Party color|Popular Force}}" | {{color|white|2.1}}
+|-
+| Datum Internacional/El Comercio<ref>{{Cite news |date=2026-05-31 |title=Encuesta Datum: El 57% considera que el debate será decisivo para definir su voto |url=https://elcomercio.pe/politica/encuesta-datum-internacional-el-57-considera-que-el-debate-sera-decisivo-para-definir-su-voto-simulacro-de-votacion-intencion-de-voto-keiko-fujimori-roberto-sanchez-fuerza-popular-juntos-por-el-peru-tlcnota-noticia/?ref=ecr#google_vignette |access-date=2026-05-31 |work=El Comercio |language=es-PE |issn=1605-3052}}</ref>
+| 1,501
+|2.5
+| 26–30 May 2026
+| style="background:#FF9966"|'''39.7'''
+| 35.4
+| 24.9
+| —
+| style="background:{{Party color|Popular Force}}" | {{color|white|4.3}}
+|-
+| CIT<ref>{{Cite web |last=Redactor_SDC |date=2026-05-31 |title=Keiko Fujimori amplía su ventaja y saca casi 8 puntos a Roberto Sánchez: candidata presidencial de Fuerza Popular sube 7.7% |url=https://www.expreso.com.pe/en-portada/keiko-fujimori-amplia-su-ventaja-y-saca-casi-8-puntos-a-roberto-sanchez-candidata-presidencial-de-fuerza-popular-sube-7-7-juntos-por-el-peru-noticia/1290944/ |access-date=2026-06-02 |website=Diario Expreso |language=es}}</ref>
+| 1,220
+|2.8
+| 27–29 May 2026
+|style="background:#FF9966"|'''41.1'''
+| 33.4
+| 13.2
+| 12.3
+| style="background:{{Party color|Popular Force}}" | {{color|white|7.7}}
+|-
+|CPI<ref>{{cite news|last = Corrales Valqui|first = Marilyn|title = Última encuesta CPI: 13,4% de peruanos indecisos y el 22,6% votaría blanco o viciado en la segunda vuelta entre Keiko Fujimori y Roberto Sánchez|url = https://www.infobae.com/peru/2026/05/29/ultima-encuesta-cpi-134-de-peruanos-indecisos-y-el-226-votaria-blanco-o-viciado-en-la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/|website = infobae.com|date = 29 May 2026|access-date = 30 May 2026}}</ref>
+|1,200
+|2.8
+|26–28 May 2026
+|style="background:#FF9966"|'''32.5'''
+|29.1
+|22.6
+|13.4
+| style="background:{{Party color|Popular Force}}" | {{color|white|3.4}}
+|-
+| CB Global Data<ref>{{Cite web |last=Edmundo |date=2026-06-01 |title=Empate técnico marca la recta final hacia el balotaje presidencial en Perú |url=https://elmundo.cr/mundo/empate-tecnico-marca-la-recta-final-hacia-el-balotaje-presidencial-en-peru/ |access-date=2026-06-03 |website=El Mundo CR |language=es-CR}}</ref>
+| 1,595
+|2.5
+| 25–30 May 2026
+| style="background:#FF9966"|'''38.6'''
+| 36.5
+| 15.1
+| 9.8
+| style="background:{{Party color|Popular Force}}" | {{color|white|2.1}}
+|-
+| Imasolu<ref>{{Cite web |title=Encuesta Presidencial Segunda Vuelta Mayo 2026: intención de voto entre Keiko Fujimori y Roberto Sánchez |url=https://imasolu.com/portfolio/encuesta-presidencial-segunda-vuelta-mayo-2026-intencion-de-voto-entre-keiko-fujimori-y-roberto-sanchez/ |access-date=2026-06-02 |website=Imasolu |language=es-PE}}</ref>
+|1,200
+|2.8
+| 23–26 May 2026
+|style="background:#FF9966"|'''39.58'''
+| 33.08
+| 14.25
+| 13.08
+| style="background:{{Party color|Popular Force}}" | {{color|white|6.5}}
+|-
+|IEP/La República<ref>{{cite web|last = Saavedra|first = Narda|title = Encuesta IEP entre Keiko Fujimori y Roberto Sánchez: indecisos se duplican y llegan a 26%, blanco y nulo cae al 6%|url = https://larepublica.pe/politica/2026/05/28/encuesta-iep-indecisos-se-duplican-y-llegan-a-26-blanco-y-nulo-cae-al-6-roberto-sanchez-keiko-fujimori-hnews-1026872|website = larepublica.pe|date = 28 May 2026|access-date = 29 May 2026|language = es}}</ref>
+|1,204
+|2.8
+|22–26 May 2026
+|style="background:#FF9966"|'''36'''
+|30
+|6
+|26
+| style="background:{{Party color|Popular Force}}" | {{color|white|6}}
+|-
+|Datum Internacional/América TV<ref>{{cite news|title = Encuesta de Datum le da 39.5% de intención de voto a Keiko Fujimori y 36.1% a Roberto Sánchez en segunda vuelta|url = https://elcomercio.pe/politica/elecciones/encuesta-de-datum-le-da-395-de-intencion-de-voto-a-keiko-fujimori-y-361-a-roberto-sanchez-en-segunda-vuelta-ultimas-noticia/|website = elcomercio.pe|date = 22 May 2026|access-date = 22 May 2026|language = es}}</ref>
+|1,200
+|2.8
+|17–20 May 2026
+|style="background:#FF9966"|'''39.5'''
+|36.1
+|15.9
+|8.5
+| style="background:{{Party color|Popular Force}}" | {{color|white|3.4}}
+|-
+|Ipsos Peru/Péru 21<ref name=ipsos-20may>{{cite news|url=https://peru21.pe/politica/encuesta-ipsos-keiko-supera-con-39-sanchez-35-en-intencion-de-voto/ |title=Encuesta Ipsos: Keiko supera con 39% a Sánchez, que tiene 35% en intención de voto |date=20 May 2026 |website=peru21.pe |access-date=21 May 2026 |language=es}}</ref>
+|1,210
+|2.8
+|16–17 May 2026
+|style="background:#FF9966"|'''39'''
+|35
+|14
+|12
+| style="background:{{Party color|Popular Force}}" | {{color|white|4}}
+|-
+|CIT/Expreso<ref>{{cite web |url=https://www.expreso.com.pe/politica/segunda-vuelta-ajustada-keiko-fujimori-supera-por-4-puntos-a-roberto-sanchez-segun-encuesta-cit-fuerza-popular-juntos-por-el-peru-noticia/1288498/ |title=¡Segunda vuelta ajustada! Keiko Fujimori supera por 4 puntos a Roberto Sánchez, según encuesta CIT |date=21 May 2026 |publisher=expreso.com.pe |lang=es}}</ref>
+| 1,220
+|2.8
+| 14–17 May 2026
+| style="background:#FF9966"|'''40.5'''
+| 36
+|23.5
+|—
+| style="background:{{Party color|Popular Force}}" |{{color|white|4.5}}
+|-
+|IEP/La República<ref>{{cite web|url=https://larepublica.pe/politica/2026/04/29/keiko-fujimori-es-fuerte-en-lima-pero-roberto-sanchez-gana-en-provincias-hnews-1115296 |title=Encuesta IEP: Keiko Fujimori es fuerte en Lima, pero Roberto Sánchez gana en provincias|date=29 April 2026 |website=larepublica.pe }}</ref> 
+| 1,197
+|2.8
+| 21–25 April 2026
+| 31
+| style="background:#5EEF72"|'''32'''
+|24
+|13
+| style="background:{{Party color|Together for Peru}}" | {{color|black|1}}
+|-
+|Ipsos Perú/Perú21<ref>{{cite web|url=https://peru21.pe/politica/encuesta-ipsos-peru21-asi-va-la-intencion-de-voto-para-la-segunda-vuelta/ |title=Encuesta Ipsos-Perú21: Así va la intención de voto para la segunda vuelta |date=26 April 2026 |website=peru21.pe }}</ref>
+| 1,208
+|2.8
+| 23–24 April 2026
+| style="background:#FF9966"|'''38'''
+| style="background:#5EEF72"|'''38'''
+|17
+|7
+| data-sort-value="0" |Tie
+|-
+|}
+
+===First round===
+====Voting simulations====
+{{wide image|File:SondeosEleccionesGeneralesPerú2026.png|1200px|Trend lines of the voting intention polls for the first round.}}
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |<small>Pollster/<br/>Client</small>
+! rowspan="4" |<small>Date</small>
+! rowspan="4" |<small>Sample<br/>size</small>
+![[File:260406-MITIN-KEIKO-PIURA-064 (cropped 2).jpg|70x70px]]
+![[File:Roberto Sánchez Palomino 2022 (retouched).jpg|77x77px]]
+![[File:Aliaga.jpg|70x70px]]
+![[File:Jorge Nieto Montesinos portrait 2017.jpg|69x69px]]
+![[File:Ricardo Belmont (cropped).jpg|70x70px]]
+![[File:Carlos Álvarez 2025 (cropped).jpg|70x70px]]
+![[File:Alfonso López-Chau.jpg|70x70px]]
+![[File:MarisolPérezTello.jpg|70x70px]]
+![[File:Carlos Espá, canciller de la República Peruana.jpg|70x70px]]
+![[File:Fernando Olivera 2025.png|65x65px]]
+![[File:José Luna (cropped1).jpg|70x70px]]
+![[File:Yonhy Lescano 2012 (cropped).jpg|70x70px]]
+![[File:CÉSAR ACUÑA PERALTA-WIKIPEDIA-PERFIL.jpg|70x70px]]
+![[File:EnriqueValderrama (cropped).jpg|70x70px]]
+! rowspan="4" class=unsortable |<small>Other</small>
+! rowspan="4" class=unsortable |<small>Blank/<br/>None</small>
+|-
+!{{small|[[Keiko Fujimori|Fujimori]]}}
+!{{small|[[Roberto Sánchez (Peruvian politician)|Sánchez]]}}
+!{{small|[[Rafael López Aliaga|López Aliaga]]}}
+!{{small|[[Jorge Nieto|Nieto]]}}
+!{{small|[[Ricardo Belmont|Belmont]]}}
+!{{small|[[Carlos Álvarez (comedian)|Álvarez]]}}
+!{{small|[[Alfonso López-Chau|López-Chau]]}}
+!{{small|[[Marisol Pérez Tello|Pérez Tello]]}}
+!{{small|[[Carlos Espá|Espá]]}}
+!{{small|[[Fernando Olivera (politician)|Olivera]]}}
+!{{small|[[José Luna|Luna]]}}
+!{{small|[[Yonhy Lescano|Lescano]]}}
+!{{small|[[César Acuña|Acuña]]}}
+!{{small|[[Enrique Valderrama|Valderrama]]}}
+|-
+!<small>[[Popular Force|FP]]</small>
+!<small>[[Together for Peru|JP]]</small>
+!<small>[[Popular Renewal|RP]]</small>
+!<small>[[Party of Good Government|PBG]]</small>
+!<small>[[OBRAS Civic Party|OBRAS]]</small>
+!<small>[[Country for All|PPT]]</small>
+!<small>[[Now Nation|AN]]</small>
+!<small>[[First the People (Peru)|PLG]]</small>
+!<small>[[IBelieve Party|PSC]]</small>
+!<small>[[Front of Hope 2021|FE2021]]</small>
+!<small>[[Podemos Perú|PP]]</small>
+!<small>[[Popular Cooperation|CooP]]</small>
+!<small>[[Alliance for Progress (Peru)|APP]]</small>
+!<small>[[American Popular Revolutionary Alliance|APRA]]</small>
+|-
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{party color|Together for Peru}};" |
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:#FFC700;" |
+! style="color:inherit;background:#006400;" |
+! style="color:inherit;background:#FFD300;" |
+! style="color:inherit;background:{{party color|Now Nation}};" |
+! style="color:inherit;background:#4CBB17;" |
+! style="color:inherit;background:#E40613;" |
+! style="color:inherit;background:{{party color|Front of Hope 2021}};" |
+! style="color:inherit;background:{{party color|Podemos Perú}};" |
+! style="color:inherit;background:#0267AF;" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+! style="color:inherit;background:{{party color|American Popular Revolutionary Alliance}};" |
+|- 
+|'''1st round results'''
+|11 April 2021| 12 April 2026
+|{{Celda|N/A}}
+| style="background:#FF9966" |'''17.2'''
+| style="background:#5EEF72"|12.0
+|11.9
+|11.0
+|10.1
+|7.9
+|7.3
+|3.4
+|3.4
+|1.8
+|1.6
+|1.3
+|1.1
+|1.0
+|9.0
+|{{Celda|N/A}}
+|-
+| colspan="19" style="background:#A0A0A0" |
+|-
+|rowspan=2 | CPI/RPP<ref>{{Cite web|last=|first=|date=5 April 2026|title=Informe OP Nacional Marzo 2026|url=https://cpi.pe/wp-content/uploads/2026/04/INFORME-SIMULACRO-ELECCIONES-GENERALE-2026.pdf|access-date=5 April 2026|website=CPI|language=es|quote=}}</ref>
+| rowspan="2” |3–4 Apr 2026
+| rowspan="2" |1,722
+| style="background:#FF9966" |'''16.2'''
+|5.2
+| style="background:#cbedfb" |13.0
+|6.4
+|5.9
+|11.8
+|8.3
+|5.4
+|2.0
+|3.4
+|2.6
+|2.0
+|4.5
+|1.3
+|12.3{{efn|Including [[George Forsyth (footballer)|George Forsyth]] at 2.4%, [[Wolfgang Grozo]] at 1.3, and [[Mesías Guevara]] at 1.2%.}}
+|{{Celda|N/A}}
+|-
+| style="background:#FF9966" |'''13.3'''
+|4.3
+| style="background:#cbedfb" |10.6
+|5.3
+|4.9
+|9.7
+|6.8
+|4.4
+|1.6
+|2.8
+|2.1
+|1.6
+|3.7
+|1.1
+|10.0{{efn|Including [[George Forsyth (footballer)|George Forsyth]] at 1.9%, [[Wolfgang Grozo]] at 1.0%, and [[Mesías Guevara]] at 1.0%.}}
+|17.8
+|-
+| rowspan=2 | Datum Internacional/<wbr/>El Comercio<ref>{{Cite news|date=5 April 2026|title=Último simulacro de Datum: El tablero electoral se sigue moviendo en la recta final|url=https://elcomercio.pe/politica/elecciones-generales-2026-12-de-abril-ultimo-simulacro-de-datum-internacional-el-tablero-electoral-se-sigue-moviendo-en-la-recta-final-simulacro-de-votacion-intencion-de-voto-presidencia-tlcnota-noticia/|access-date=5 April 2026|work=El Comercio|language=es-PE}}</ref>
+| rowspan="2" |1–4 Apr 2026
+| rowspan="2" |1,422
+| style="background:#FF9966" |'''18.1'''
+|7.2
+|10.3
+|7.2
+|6.5
+| style="background:#fff0b4" |10.8
+|4.6
+|4.7
+|3.0
+|2.8
+|–
+|2.7
+|3.0
+|–
+|19.3{{efn|Including [[George Forsyth (footballer)|George Forsyth]] at 2.5%.}}
+|{{Celda|N/A}}
+|-
+| style="background:#FF9966" |'''13.5'''
+|5.2
+| style="background:#cbedfb" |7.6
+|5.3
+|4.8
+|8.0
+|3.4
+|3.5
+|2.2
+|2.1
+|2.2
+|1.2
+|2.0
+|1.2
+|11.9{{efn|Including [[George Forsyth (footballer)|George Forsyth]] at 1.9%, [[Ronald Atencio]] at 1.3%, [[Vladimir Cerrón]] at 1.2%, [[Alex Gonzales]] at 0.9%, [[Mario Vizcarra]] at 0.9%, [[Paul Jaimes]] at 0.8%, [[Wolfgang Grozo]] at 0.7%, [[Mesías Guevara]] at 0.6%, [[Herbert Caller]] at 0.5%, [[Rosario Fernández Bazán]] at 0.4%, [[Roberto Chiabra]] at 0.4%, [[José Williams]] at 0.4%, [[Charlie Carrasco]] at 0.3%, [[Rafael Belaúnde Llosa]] at 0.3%, [[Álvaro Paz de la Barra]] at 0.3%, [[Francisco Diez Canseco Távara]] at 0.2%, [[Armando Massé]] at 0.2%, [[Walter Chirinos]] at 0.2%, [[Fiorella Molinelli]] at 0.2%, [[Antonio Ortiz]] at 0.2%, and [[Carlos Jaico]] at 0.0%.}}
+|25.7
+|-
+|rowspan=2 | Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news|title=Encuesta Ipsos: Cambio de posiciones de los candidatos al empezar la semana definitiva|work=Perú21|date=4 April 2026 |url=https://peru21.pe/politica/encuesta-ipsos-cambio-de-posiciones-de-los-candidatos-al-empezar-la-semana-definitiva/|last=Villanueva|first=Luis|language=es |quote=}}</ref>
+| rowspan="2” |1–2 Apr 2026
+| rowspan="2" |1,192
+| style="background:#FF9966" |'''18.6'''
+|9.0
+|10.9
+|5.6
+|4.3
+| style="background:#fff0b4" |12.1
+|4.4
+|3.9
+|2.8
+|–
+|–
+|3.2
+|5.1
+|–
+|20.1{{efn|Including [[Ronald Atencio]] at 2.6%.}}
+|{{Celda|N/A}}
+|-
+| style="background:#FF9966" |'''13.7'''
+|6.7
+|8.1
+|4.1
+|3.2
+| style="background:#fff0b4" |9.0
+|3.3
+|2.8
+|2.1
+|–
+|–
+|2.4
+|3.8
+|–
+|14.8{{efn|Including [[Ronald Atencio]] at 1.9%.}}
+|26.0
+|-
+| rowspan=2 | Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news|title=Encuesta Ipsos: Cuádruple empate en el segundo pelotón de candidatos presidenciales|work=Perú21|date=25 March 2026 |url=https://peru21.pe/politica/cuadruple-empate-entre-candidatos-presidenciales-segun-ipsos/|access-date=25 March 2026|last=Quispe|first=Patricia|language=es |quote=A national urban-rural survey also reveals that Keiko Fujimori and Rafael López Aliaga are in a dead heat for the lead.}}</ref>
+| rowspan="2” |21–22 Mar 2026
+| rowspan="2" |1,189
+| style="background:#FF9966" |'''17.3'''
+|7.5
+| style="background:#cbedfb" |17.2
+|5.4
+|3.0
+|7.4
+|7.9
+|–
+|–
+|–
+|2.6
+|2.7
+|5.2
+|–
+|23.8{{efn|Including [[George Forsyth (footballer)|George Forsyth]] at 3.0%, [[Ronald Atencio]] at 2.3%, [[Wolfgang Grozo]] at 2.2%, [[Mario Vizcarra]] at 1.8%.}}
+|{{Celda|N/A}}
+|-
+| style="background:#FF9966" |'''12.3'''
+|5.4
+| style="background:#cbedfb" |12.2
+|3.8
+|2.2
+|5.2
+|5.6
+|–
+|–
+|–
+|1.8
+|1.9
+|3.7
+|–
+|16.9{{efn|Including [[George Forsyth (footballer)|George Forsyth]] at 2.1%, [[Ronald Atencio]] at 1.6%, [[Wolfgang Grozo]] at 1.6%, and [[Mario Vizcarra]] at 1.3%.}}
+|29.0
+|-
+| rowspan=2 | Ipsos Perú/<wbr/>Perú 21<ref>{{Cite web |title=Estudio de Opinión Ipsos-Perú 21 - Encuesta y Simulacro Nacional |website=Ipsos Perú |date=11 March 2026 |url=https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/Informe%20Encuesta%20Nacional%20Urbano%20Rural%20-%20Per%C3%BA%2021%20-%20Encuesta%20y%20Simulacro%20de%20voto%20Presidente%20al%206%20de%20marzo%202026%20%28PUBLICACI%C3%93N%29.pdf |access-date=12 March 2026 |last= |first= |language=es |quote=}}</ref>
+| rowspan="2” |5–6 Mar 2026
+| rowspan="2" |1,182
+| style="background:#FF9966" |14.2
+|3.2
+| style="background:#cbedfb" | '''17.2'''
+|2.2
+|2.7
+|8.9
+|6.4
+|–
+|–
+|–
+|1.8
+|3.1
+|8.1
+|–
+|31.5{{efn|Including [[Wolfgang Grozo]] at 5.1%, [[George Forsyth (footballer)|George Forsyth]] at 2.9%, [[Mario Vizcarra]] at 2.3%, [[Ronald Atencio]] at 1.6%.}}
+|{{Celda|N/A}}
+|-
+| style="background:#FF9966" |9.2
+|2.0
+| style="background:#cbedfb" | '''11.2'''
+|1.5
+|1.8
+|5.8
+|4.1
+|–
+|–
+|–
+|1.2
+|2.0
+|5.3
+|–
+|20.7{{efn|Including [[Wolfgang Grozo]] at 3.3%, [[George Forsyth (footballer)|George Forsyth]] at 1.9%, [[Mario Vizcarra]] at 1.5%, [[Ronald Atencio]] at 1.1%.}}
+|34.8
+|-
+|}
+
+====2026====
+
+;{{small|Legend:}}
+{{legend|#FFEAEA|Poll performed during the blackout of polling information.|borde=#AAAAAA}}
+
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |<small>Pollster/<br/>Client</small>
+! rowspan="4" |<small>Date</small>
+! rowspan="4" |<small>Sample<br/>size</small>
+![[File:260406-MITIN-KEIKO-PIURA-064 (cropped 2).jpg|70x70px]]
+![[File:Roberto Sánchez Palomino 2022 (retouched).jpg|77x77px]]
+![[File:Rafael López Aliaga 2024.jpg|70x70px]]
+![[File:JORGE NIETO (CROPPED).jpg|69x69px]]
+![[File:Ricardo Belmont (cropped).jpg|70x70px]]
+![[File:Carlos Álvarez 2025 (cropped).jpg|70x70px]]
+![[File:Alfonso López-Chau.jpg|70x70px]]
+![[File:José Luna (cropped1).jpg|70x70px]]
+![[File:Yonhy Lescano 2012 (cropped).jpg|70x70px]]
+![[File:César Acuña Peralta.jpg|70x70px]]
+![[File:George Forsyth Sommer.jpg|70x70px]]
+![[File:Mario Vizcarra (cropped).jpg|70x70px]]
+![[File:Wolfgang Grozo Costa.png|65x65px]]
+! class="unsortable" rowspan="4" |<small>Other</small>
+! class="unsortable" rowspan="4" |<small>Blank/<br/>None</small>
+! class="unsortable" rowspan="4" |<small>Undecided</small>
+! rowspan="4" data-sort-type="number"|<small>Lead</small>
+|-
+!{{small|[[Keiko Fujimori|Fujimori]]}}
+!{{small|[[Roberto Sánchez Palomino|Sánchez]]}}
+!{{small|[[Rafael López Aliaga|López Aliaga]]}}
+!{{small|[[Jorge Nieto|Nieto]]}}
+!{{small|[[Ricardo Belmont|Belmont]]}}
+!{{small|[[Carlos Álvarez (comedian)|Álvarez]]}}
+!{{small|[[Alfonso López-Chau|López-Chau]]}}
+!{{small|[[José Luna|Luna]]}}
+!{{small|[[Yonhy Lescano|Lescano]]}}
+!{{small|[[César Acuña|Acuña]]}}
+!{{small|[[George Forsyth (footballer)|Forsyth]]}}
+!{{small|[[Mario Vizcarra|Vizcarra]]}}
+!{{small|[[Wolfgang Grozo|Grozo]]}}
+|-
+!<small>[[Popular Force|FP]]</small>
+!<small>[[Together for Peru|JPP]]</small>
+!<small>[[Popular Renewal|RP]]</small>
+!<small>[[Party of Good Government|PBG]]</small>
+!<small>[[Civic Party OBRAS|OBRAS]]</small>
+!<small>[[Country for All|PPT]]</small>
+!<small>[[Now Nation|AN]]</small>
+!<small>[[Podemos Perú|PP]]</small>
+!<small>[[Popular Cooperation|CooP]]</small>
+!<small>[[Alliance for Progress (Peru)|APP]]</small>
+!<small>[[We Are Peru|SP]]</small>
+!<small>[[Peru First|P1]]</small>
+!<small>[[Democratic Integrity|ID]]</small>
+|-
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{party color|Together for Peru}};" |
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="background:#FFD300" |
+! style="color:inherit;background:#006400;" |
+! style="color:inherit;background:#FFC700;" |
+! style="color:inherit;background:{{party color|Now Nation}};" |
+! style="color:inherit;background:{{party color|Podemos Perú}};" |
+! style="color:inherit;background:#0267AF;" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+! style="color:inherit;background:{{party color|We Are Peru}};" |
+! style="color:inherit;background:{{party color|Peru First}};" |
+! style="color:inherit;background:#4882AA;" |
+|- style="background-color:#FFEAEA;"
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news|title=Ardua pelea por entrar a balotaje y definir con Fujimori presidencia de Perú: sondeo|work=El Economista|date=7 April 2026 |url=https://www.eleconomista.com.mx/internacionales/ardua-pelea-entrar-balotaje-definir-fujimori-presidencia-peru-sondeo-20260407-807669.html|last=|first=|language=es |quote=}}</ref>
+|{{Opdrts||6|Apr|2026|year}}
+|1,205
+| style="background:#FF9966" |'''16'''
+| style="background:#5EEF72"|7
+| style="background:#cbedfb" |7
+|–
+|9
+|8
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|29
+| colspan="2" |24
+| style="background:{{party color|Popular Force}}; color:#fff;" |7
+|-
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news|title=Esta es la última encuesta que nos permiten publicar. Ipsos para Perú21 y Latina|work=Perú21|date=5 April 2026 |url=https://peru21.pe/politica/esta-es-la-ultima-encuesta-que-nos-permiten-publicar-ipsos-para-peru21-y-latina/|last=Monzón Kcomt|first=Ricardo|language=es |quote=}}</ref>
+|{{Opdrts|3|4|Apr|2026|year}}
+|1,205
+| style="background:#FF9966" |'''15'''
+|5
+| style="background:#cbedfb" |7
+|4
+|6
+|8
+|5
+|2
+|–
+|3
+|–
+|–
+|–
+|18{{efn|Including [[Marisol Pérez Tello]] at 3% and [[Fernando Olivera (politician)|Fernando Olivera]] at 3%.}}
+|11
+|16
+| style="background:{{party color|Popular Force}}; color:#fff;" |7
+|-
+|CPI/<wbr/>RPP<ref>{{Cite web|last=|first=|date=5 April 2026|title=Informe OP Nacional Marzo 2026|url=https://cpi.pe/wp-content/uploads/2026/04/INFORME-SIMULACRO-ELECCIONES-GENERALE-2026.pdf|access-date=5 April 2026|website=CPI|language=es|quote=}}</ref>
+|{{Opdrts|3|4|Apr|2026|year}}
+|2,000
+| style="background:#FF9966" |'''11.8'''
+|3.8
+| style="background:#cbedfb" |9.2
+|4.8
+|4.3
+|8.5
+|6.0
+|1.7
+|1.4
+|3.2
+|1.6
+|–
+|0.8
+|14.8{{efn|Including [[Marisol Pérez Tello]] at 3.7%, [[Fernando Olivera (politician)|Fernando Olivera]] at 2.4%, [[Carlos Espá]] at 1.5%, [[Mesías Guevara]] at 0.9%, and [[Enrique Valderrama]] at 0.8%.}}
+|14.7
+|13.9
+| style="background:{{party color|Popular Force}}; color:#fff;" |2.6
+|-
+|Datum Internacional/<wbr/>El Comercio<ref>{{Cite news|date=5 April 2026|title=Último simulacro de Datum: El tablero electoral se sigue moviendo en la recta final|url=https://elcomercio.pe/politica/elecciones-generales-2026-12-de-abril-ultimo-simulacro-de-datum-internacional-el-tablero-electoral-se-sigue-moviendo-en-la-recta-final-simulacro-de-votacion-intencion-de-voto-presidencia-tlcnota-noticia/|access-date=5 April 2026|work=El Comercio|language=es-PE}}</ref>
+|1–4 Apr 2026
+|3,000
+| style="background:#FF9966" |'''14.5'''
+|4.9
+| style="background:#cbedfb" |9.9
+|6.0
+|5.5
+|10.9
+|4.7
+|0.9
+|2.4
+|3.2
+|1.2
+|1.3
+|1.1
+|16.5{{efn|Including [[Marisol Pérez Tello]] at 4.5%, [[Carlos Espá]] at 2.6%, [[Fernando Olivera (politician)|Fernando Olivera]] at 1.8%, [[Enrique Valderrama]] at 1.2%, [[Herbert Caller]] at 0.9%, [[Mesías Guevara]] at 0.8%, [[Roberto Chiabra]] at 0.7%, [[Ronald Atencio]] at 0.6%, [[Alex Gonzales]] at 0.5%, [[Rosario Fernández Bazán]] at 0.4%, [[Rafael Belaúnde Llosa]] at 0.4%, [[Francisco Diez Canseco Távara]] at 0.3%, [[Vladimir Cerrón]] at 0.3%, [[Álvaro Paz de la Barra]] at 0.3%, [[Armando Massé]] at 0.3%, [[Paul Jaimes]] at 0.3%, [[Charlie Carrasco]] at 0.2%, [[Fiorella Molinelli]] at 0.2%, [[José Williams]] at 0.1%, [[Walter Chirinos]] at 0.1%, [[Antonio Ortiz]] at 0.0%, and [[Carlos Jaico]] at 0.0%.}}
+|8.1
+|8.7
+| style="background:{{party color|Popular Force}}; color:#fff;" |3.6
+|-
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news|title=Encuesta Ipsos: Cambio de posiciones de los candidatos al empezar la semana definitiva|work=Perú21|date=4 April 2026 |url=https://peru21.pe/politica/encuesta-ipsos-cambio-de-posiciones-de-los-candidatos-al-empezar-la-semana-definitiva/|last=Villanueva|first=Luis|language=es |quote=}}</ref>
+|{{Opdrts|1|2|Apr|2026|year}}
+|1,217
+| style="background:#FF9966" |'''13'''
+|6
+| style="background:#cbedfb" |8
+|5
+|3
+|9
+|4
+|2
+|2
+|3
+|2
+|–
+|–
+|14{{efn|Including [[Marisol Pérez Tello]] at 2%.}}
+|16
+|13
+| style="background:{{party color|Popular Force}}; color:#fff;” |4
+|-
+|IEP/<wbr/>La República<ref>{{Cite web|date=3 April 2026|title=IEP Informe de Opinión de Marzo II 2026 (Informe Completo)|url=https://estudiosdeopinion.iep.org.pe/wp-content/uploads/2026/04/IEP-Informe-de-opinion-marzo-II-2026-informe-completo.pdf|access-date=4 April 2026|website=Instituto de Estudios Peruanos|language=es}}</ref>
+|{{Opdrts|28|31|Mar|2026|year}}
+|1,203
+| style="background:#FF9966" |'''10.0'''
+|6.7
+| style="background:#cbedfb" |8.7
+|5.4
+|5.2
+|6.9
+|6.3
+|1.0
+|2.2
+|2.2
+|0.9
+|1.9
+|1.1
+|11.1{{efn|Including [[Marisol Pérez Tello]] at 2.3%, [[Carlos Espá]] at 1.6%, [[Fernando Olivera (politician)|Fernando Olivera]] at 1.2%, [[Vladimir Cerrón]] at 0.6%, [[Ronald Atencio]] at 0.6%, [[Charlie Carrasco]] at 0.6%, [[Roberto Chiabra]] at 0.6%, [[Rosario Fernández Bazán]] at 0.5%, [[Enrique Valderrama]] at 0.5%, [[Herbert Caller]] at 0.4%, [[Carlos Jaico]] at 0.4%, [[Paul Jaimes]] at 0.4%, [[Mesías Guevara]] at 0.3%, [[Rafael Belaúnde Llosa]] at 0.3%, [[Fiorella Molinelli]] at 0.3%, [[Álvaro Paz de la Barra]] at 0.2%, [[José Williams]] at 0.1%, [[Armando Massé]] at 0.1%, [[Alex Gonzales]] at 0.1%, [[Francisco Diez Canseco Távara]] at 0.0%, [[Walter Chirinos]] at 0.0%, and [[Antonio Ortiz]] at 0.0%.}}
+|22.7
+|21.8
+| style="background:{{party color|Popular Force}}; color:#fff;" |1.3
+|-
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news|title=Encuesta Ipsos para Perú21: así llegan los candidatos a la segunda semana de debate|work=Perú21|date=28 March 2026 |url=https://peru21.pe/politica/elecciones-2026-movidas-en-la-intencion-de-voto-posdebate/|last=Quispe|first=Patricia|language=es |quote=}}</ref>
+|{{Opdrts|26|27|Mar|2026|year}}
+|1,212
+| style="background:#FF9966" |'''11'''
+|4
+| style="background:#cbedfb" |9
+|5
+|3
+|7
+|4
+|–
+|2
+|3
+|–
+|–
+|–
+|18
+|21
+|13
+| style="background:{{party color|Popular Force}}; color:#fff;" |2
+|-
+|Datum Internacional/<wbr/>El Comercio<ref>{{Cite news |date=2026-03-30 |title=Elecciones 2026: El número de indecisos se reduce tras la primera ronda de debates presidenciales |url=https://elcomercio.pe/politica/elecciones-2026-el-numero-de-indecisos-se-reduce-tras-la-primera-ronda-de-debates-presidenciales-tlc-nota-noticia/ |access-date=2026-03-30 |work=[[El Comercio (Peru)|El Comercio]] |language=es-PE |issn=1605-3052}}</ref>
+|25–27 Mar 2026
+|2,000
+| style="background:#FF9966" |'''13.0'''
+|4.9
+| style="background:#cbedfb" |11.7
+|5.9
+|2.9
+|6.9
+|6.1
+|2.1
+|2.5
+|4.0
+|1.3
+|1.5
+|2.1
+|12.1{{efn|Including [[Fernando Olivera (politician)|Fernando Olivera]] at 1.7%, [[Marisol Pérez Tello]] at 1.2%, [[Enrique Valderrama]] at 1.2%, [[Carlos Espá]] at 1.1%, [[Vladimir Cerrón]] at 0.7%, [[Ronald Atencio]] at 0.5%, [[Paul Jaimes]] at 0.5%, [[Rosario Fernández Bazán]] at 0.5%, [[Carlos Jaico]] at 0.4%, [[Alex Gonzales]] at 0.4%, [[Roberto Chiabra]] at 0.4%, [[Rafael Belaúnde Llosa]] at 0.3%, [[Francisco Diez Canseco Távara]] at 0.3%, [[Armando Massé]] at 0.3%, [[Charlie Carrasco]] at 0.3%, [[Walter Chirinos]] at 0.2%, [[Fiorella Molinelli]] at 0.2%, [[Álvaro Paz de la Barra]] at 0.2%, [[José Williams]] at 0.2%, [[Herbert Caller]] at 0.1%, [[Antonio Ortiz]] at 0.1%, and [[Mesías Guevara]] at 0.1%.}}
+|12.2
+|11.6
+| style="background:{{party color|Popular Force}}; color:#fff;" |1.3
+|-
+|CPI/<wbr/>RPP<ref>{{Cite web|last=|first=|date=27 March 2026|title=Informe OP Nacional Marzo 2026|url=https://cpi.pe/wp-content/uploads/2026/03/INFORME-OP-NACIONAL-MARZO-2026.pdf|access-date=27 March 2026|website=CPI|language=es|quote=}}</ref>
+|{{Opdrts|21|23|Mar|2026|year}}
+|1,300
+| style="background:#FF9966" |10.1
+|3.1
+| style="background:#cbedfb" |'''11.2'''
+|3.9
+|2.1
+|3.5
+|6.6
+|3.0
+|1.1
+|3.2
+|2.3
+|0.9
+|2.9
+|6.4{{efn|Including [[Rosario Fernández Bazán]] at 0.9% and [[Vladimir Cerrón]] at 0.8%.}}
+|16.5
+|23.1
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |1.1
+|-
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news|title=Encuesta Ipsos: Cuádruple empate en el segundo pelotón de candidatos presidenciales|work=Perú21|date=25 March 2026 |url=https://peru21.pe/politica/cuadruple-empate-entre-candidatos-presidenciales-segun-ipsos/|access-date=25 March 2026|last=Quispe|first=Patricia|language=es |quote=A national urban-rural survey also reveals that Keiko Fujimori and Rafael López Aliaga are in a dead heat for the lead.}}</ref>
+|{{Opdrts|21|22|Mar|2026|year}}
+|1,203
+| style="background:#FF9966" |'''11'''
+|5
+| style="background:#cbedfb" |10
+|5
+|2
+|5
+|5
+|2
+|2
+|3
+|2
+|2
+|–
+|10
+|21
+|15
+| style="background:{{party color|Popular Force}}; color:#fff;" |1
+|-
+! colspan="24" |<small>Death of Napoleón Becerra (15 March 2026)</small>
+|-
+|Datum Internacional/<wbr/>El Comercio<ref>{{Cite news|date=22 March 2026|title=Encuesta Datum: El 57% de los electores aún no ha decidido su voto|url=https://elcomercio.pe/politica/encuesta-datum-internacional-marzo-2026-el-57-de-los-electores-aun-no-ha-decidido-su-voto-elecciones-2026-tlcnota-noticia/|work=El Comercio|first=Alexander|last=Villarroel Zurita}}</ref>
+|{{Opdrts|13|17|Mar|2026|year}}
+|1,500
+| style="background:#FF9966" |'''11.9'''
+|2.0
+| style="background:#cbedfb" |11.7
+|4.6
+|2.4
+|5.0
+|6.5
+|1.2
+|2.3
+|3.6
+|1.7
+|1.2
+|2.5
+|7.5{{efn|Including [[Fernando Olivera (politician)|Fernando Olivera]] at 0.9%, [[Roberto Chiabra]] at 0.7%, [[Vladimir Cerrón]] at 0.6%, [[Carlos Espá]] at 0.6%, [[Paul Jaimes]] at 0.6%, [[Rosario Fernández Bazán]] at 0.5%, [[Marisol Pérez Tello]] at 0.5%, [[Ronald Atencio]] at 0.5%, [[Enrique Valderrama]] at 0.3%, [[Rafael Belaúnde]] at 0.3%, [[Alex Gonzales]] at 0.3%, [[Charlie Carrasco]] at 0.3%, [[Mesías Guevara]] at 0.3%, [[Fiorella Molinelli]] at 0.3%, [[José Williams]] at 0.1%, [[Carlos Jaico]] at 0.1%, [[Armando Massé]] at 0.1%, [[Álvaro Paz de la Barra]] at 0.1%, [[Walter Chirinos]] at 0.1%, [[Herbert Caller]] at 0.1%, [[Antonio Ortiz]] at 0.1%, and [[Francisco Diez Canseco Távara]] at 0.1%.}}
+|17.7{{efn|Including Napoleón Becerra’s polling.}}
+|18.1
+| style="background:{{party color|Popular Force}}; color:#fff;" |0.2
+|-
+|Imasolu<ref>{{Cite web |date=March 2026 |title=Elecciones Presidenciales y Coyuntura Política – 2026 Nivel Nacional – Marzo, 2026 |url=https://imasolu.com/wp-content/uploads/2026/03/VM-Encuesta-Nacional-IMASOLU-Marzo-2026.pdf |website=Imasolu}}</ref>
+|13–16 Mar 2026
+|1,200
+| style="background:#FF9966" |13.4
+|–
+| style="background:#cbedfb" |'''16.5'''
+|2.6
+|–
+|3.3
+|5.2
+|4.9
+|2.8
+|5.6
+|2.3
+|2.8
+|3.1
+|6.7
+|3.8
+|25.4
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |3.1
+|-
+|IEP/<wbr/>La República<ref>{{Cite web |last=Saavedra |first=Narda |date=2026-03-13 |title=Keiko Fujimori y RLA experimentan caída en intención de voto mientras que López Chau y Wolfgang Grozo aumentan |url=https://larepublica.pe/politica/2026/03/13/encuestas-presidenciales-2026-keiko-fujimori-y-rla-experimentan-caida-en-intencion-de-voto-mientras-que-lopez-chau-y-wolfgang-grozo-aumentan-hnews-997896 |access-date=2026-03-14 |website=[[La República]] |language=es}}</ref><ref>{{Cite web |date=13 March 2026 |title=IEP Informe de opinión de marzo I 2026 |url=https://estudiosdeopinion.iep.org.pe/wp-content/uploads/2026/03/IEP-Informe-de-opinion-marzo-2026-informe-parcial-140326.pdf |website=IEP}}</ref>
+|{{Opdrts|6|11|Mar|2026|year}}
+|1,207
+| style="background:#FF9966" |9.4
+|3.7
+| style="background:#cbedfb" |'''11.7'''
+|2.1
+|2.3
+|3.9
+|6.8
+|1.8
+|2.5
+|2.7
+|2.4
+|3.1
+|4.3
+|8.1
+|19
+|16.2
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |2.3
+|-
+|Datum Internacional/<wbr/>América TV<ref>{{Cite web |date=March 2026 |title=PLAN DE ESTUDIOS DE OPINIÓN PÚBLICA. Marzo II Informe Electoral. 06 al 10 de Marzo 2026 América Televisión |url=https://www.datum.com.pe/new_web_files/files/opinion/Encuesta%20MARZO%20Ad%20Hoc%202026%20-%20Informe%20v1%20(002)_260315103117.pdf |website=Datum Internacional}}</ref>
+|{{Opdrts|6|10|Mar|2026|year}}
+|1,502
+| style="background:#FF9966" |10.9
+|1.4
+| style="background:#cbedfb" |'''11.4'''
+|2.5
+|1.6
+|4.0
+|6.5
+|0.8
+|3.2
+|3.8
+|1.5
+|1.7
+|5.1
+|8.9
+|21.5
+|15.2
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |0.5
+|-
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite web |title=Estudio de Opinión Ipsos-Perú 21 - Encuesta y Simulacro Nacional |website=Ipsos Perú |date=11 March 2026 |url=https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/Informe%20Encuesta%20Nacional%20Urbano%20Rural%20-%20Per%C3%BA%2021%20-%20Encuesta%20y%20Simulacro%20de%20voto%20Presidente%20al%206%20de%20marzo%202026%20%28PUBLICACI%C3%93N%29.pdf |access-date=12 March 2026 |last= |first= |language=es |quote=}}</ref>
+|{{Opdrts|5|6|Mar|2026|year}}
+|1,202
+| style="background:#FF9966" |10
+|2
+| style="background:#cbedfb" | '''11'''
+|2
+|2
+|6
+|4
+|2
+|2
+|4
+|3
+|3
+|4
+|13{{efn|Including [[José Williams]] at 2%.}}
+|20
+|12
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |1
+|-
+|CPI/<wbr/>RPP<ref>{{Cite web |last= |first= |date=7 March 2026 |title=A menos de dos meses para las elecciones presidenciales, así marcha la intención de voto, según encuesta de CPI |url=https://cpi.pe/wp-content/uploads/2026/03/INFORME-OP-FEBRERO-2-2026.pdf |access-date=12 March 2026 |website=CPI |language=es |quote=}}</ref>
+|{{Opdrts|28|5|Mar|2026|year}}
+|1,300
+| style="background:#FF9966" |8.0
+|1.7
+| style="background:#cbedfb" |'''12.7'''
+|0.8
+|1.4
+|5.6
+|5.6
+|3.0
+|1.9
+|3.4
+|2.4
+|2.5
+|4.8
+|7.5{{efn|Including [[Enrique Valderrama]] at 1.0%.}}
+|16.4
+|20.8
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |4.7
+|-
+|Datum Internacional/<wbr/>América TV<ref>{{Cite news |date=11 March 2026 |title=Plan de estudios de opinión pública Informe Electora Marzo 2026 |url=https://elcomercio.pe/politica/encuesta-datum-empieza-a-moverse-el-tablero-electoral-a-casi-un-mes-de-las-elecciones-keiko-fujimori-rafael-lopez-aliaga-alfonso-lopez-chau-carlos-alvarez-wolfgang-crozo-cesar-acuna-tlcnota-noticia/ |work=El Comercio |access-date=12 March 2026 |last=Villarroel Zurita |first=Alexander |quote=Keiko Fujimori rises in the polls to 10.7%, tying Rafael López Aliaga, who drops more than three points to 10%. César Acuña and Wolfgang Grozo also show gains, mainly among young voters.}}</ref>
+|{{Opdrts|27|4|Mar|2026|year}}
+|1,501
+| style="background:#FF9966" |'''10.7'''
+|1.9
+| style="background:#cbedfb" |10.0
+|–
+|1.4
+|5.0
+|5.5
+|1.3
+|2.6
+|5.2
+|1.8
+|2.3
+|4.2
+|9.8{{efn|Including [[Jorge Nieto]] at 1.3%, [[Fernando Olivera (politician)|Fernando Olivera]] at 0.9%, [[Rafael Belaúnde Llosa]] at 0.9%, [[Carlos Espá]] 0.8%, [[Marisol Pérez Tello]] at 0.6%, [[Roberto Chiabra]] at 0.5%, [[Ronald Atencio]] at 0.5%, [[Vladimir Cerrón]] at 0.5%, [[Rosario Fernández Bazán]] at 0.5%, [[Enrique Valderrama]] at 0.4%, [[Paul Jaimes]] at 0.4%, [[Alex Gonzales]] at 0.3%, [[Mesías Guevara]] at 0.3%, [[Armando Massé]] at 0.3%, [[Antonio Ortiz]] at 0.3%, [[Carlos Jaico]] at 0.2%, [[Fiorella Molinelli]] at 0.2%, [[Charlie Carrasco]] at 0.2%, [[José Williams]] at 0.1%, [[Napoleón Becerra]] at 0.1%, [[Walter Chirinos]] at 0.1%, [[José Williams]] at 0.1%, [[Álvaro Paz de la Barra]] at 0.1%, [[Herbert Caller]] at 0.1%, and [[Francisco Diez Canseco Távara]] at 0.1%.}}
+|23.0
+|15.5
+| style="background:{{party color|Popular Force}}; color:#fff;" |0.7
+|-
+|CELAG<ref>{{Cite web |last=Silva |first=Johana |date=2026-03-02 |title=Encuesta Perú, marzo 2026 |url=https://www.celag.org/encuesta-peru-marzo-2026/ |access-date=2026-03-04 |website=CELAG |language=es}}</ref>
+|{{Opdrts|5|25|Feb|2026|year}}
+|2,260
+| style="background:#FF9966" |10.0
+|2.3
+| style="background:#cbedfb" |'''10.5'''
+|–
+|–
+|6.9
+|3.5
+|–
+|2.2
+|–
+|–
+|4.0
+|–
+|7.8
+|16.2
+|25.2
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |0.5
+|-
+|Imasolu/<wbr/>Exitosa<ref>{{Cite web |title=Encuesta Presidencial Imasolu – 01 Marzo 2026 |website=Imasolu |date=1 March 2026 |url=https://encuestas.com.pe/encuesta-presidencial-imasolu-01-marzo-2026/ |access-date=3 March 2026 |last= |first= |language=es |quote=}}</ref>
+|{{Opdrts|23|25|Feb|2026|year}}
+|1,200
+| style="background:#FF9966" |9.9
+|–
+| style="background:#cbedfb" | '''14.1'''
+|–
+|1.3
+|3.2
+|4.3
+|3.5
+|2.9
+|4.3
+|2.4
+|2.8
+|1.7
+|7.1
+|5.9
+|36.5
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |4.2
+|-
+|CIT/<wbr/>Panamericana<ref>{{Cite news |title=Empieza el último round de la campaña presidencial: encuesta de candidatos presidenciales de CIT |work=Panamericana Televisión |date=1 March 2026 |url=https://m.panamericana.pe/panorama/politica/466113-empieza-round-campana-presidencial-encuesta-candidatos-presidenciales-cit |access-date=3 March 2026 |last= |first= |language=es |quote=Rafael López Aliaga continues to lead the polls with 14%, while Keiko Fujimori remains in second place with 6.8%.}}</ref>
+|{{Opdrts|20|24|Feb|2026|year}}
+|1,200
+| style="background:#FF9966" |6.8
+|–
+| style="background:#cbedfb" | '''14.0'''
+|–
+|2.0
+|6.1
+|4.8
+|3.1
+|–
+|6.4
+|2.3
+|3.2
+|2.9
+|17.3{{efn|Including [[Paul Jaimes]] at 2.0%, [[Rafael Belaúnde Llosa]] at 1.9%, and [[José Williams]] at 1.6%.}}
+|18.9
+|10.9
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |7.2
+|-
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news |title=Encuesta Ipsos: López Aliaga cae en la intención de voto tras censura a Jerí y designación de Balcázar |work=Perú21 |date=26 February 2026 |url=https://peru21.pe/politica/encuesta-ipsos-lopez-aliaga-cae-en-la-intencion-de-voto-tras-censura-jeri-y-designacion-de-balcazar/ |access-date=26 February 2026 |last=Quispe |first=Patricia |language=es |quote=The latest Ipsos national urban-rural survey conducted for Perú21 reveals that voting intentions for the April 12 elections have undoubtedly been affected by this political crisis, but also that one of those affected would be Rafael López Aliaga, the presidential candidate for Renovación Popular—the bloc that promoted the motion of censure against Jerí.}}</ref>
+|{{Opdrts|19|20|Feb|2026|year}}
+|1,206
+| style="background:#FF9966" |9
+|2
+| style="background:#cbedfb" | '''10'''
+|–
+|2
+|3
+|4
+|2
+|–
+|4
+|3
+|2
+|–
+|17{{efn|Including [[José Williams]] at 3% and [[Enrique Valderrama]] at 2%.}}
+|28
+|14
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |1
+|-
+|CPI/<wbr/>RPP<ref>{{Cite news |title=Estudio de Opinión Pública Nacional |website=CPI |date=19 January 2025 |url=https://cpi.pe/wp-content/uploads/2026/02/FEBRERO-INFORME-OPINION-PUBLICA.pdf |access-date=20 February 2026 |last= |first= |language=es |quote=}}</ref>
+|{{Opdrts|14|18|Feb|2026|year}}
+|1,300
+| style="background:#FF9966" |7.0
+|1.8
+| style="background:#cbedfb" | '''13.9'''
+|–
+|1.4
+|4.0
+|5.1
+|3.0
+|2.2
+|4.4
+|1.9
+|3.2
+|–
+|5.0
+|18.0
+|29.1
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |6.9
+|-
+|IEP/<wbr/>La República<ref>{{Cite news |title=Rafael López Aliaga se estanca en 14.6% y crece el electorado que elige candidato |work=La República |date=23 February 2026 |url=https://larepublica.pe/politica/2026/02/23/rafael-lopez-aliaga-lidera-intencion-de-voto-con-apenas-146-y-crece-el-electorado-que-ya-elige-candidato-hnews-613389 |access-date=23 February 2026 |last=Palomino |first=Eva |language=es |quote=64.2% have already chosen a candidate, 8.7 points more than in January. However, the perception of victory remains unclear: 50.5% cannot identify a likely winner. Approval ratings for former president José Jerí have fallen to 21%, while Congress has an 89% disapproval rating.}}</ref>
+|{{Opdrts|13|18|Feb|2026|year}}
+|1,201
+| style="background:#FF9966" |10.3
+|2.4
+| style="background:#cbedfb" | '''14.6'''
+|0.3
+|1.7
+|4.9
+|5.3
+|0.8
+|3.0
+|2.3
+|1.5
+|4.0
+|1.2
+|12.2{{efn|Including [[Fernando Olivera (politician)|Fernando Olivera]] at 1.5%, [[Vladimir Cerrón]] at 1.4%, [[Rosario Fernández Bazán]] at 1.3%, [[Marisol Pérez Tello]] at 1.0%, [[Rafael Belaúnde Llosa]] at 0.8%, [[Charlie Carrasco]] at 0.8%, [[Enrique Valderrama]] at 0.7%, [[Carlos Espá]] at 0.7%, [[Herbert Caller]] at 0.6%, [[Roberto Chiabra]] at 0.6%, [[Fiorella Molinelli]] at 0.5%, [[José Williams]] at 0.4%, [[Armando Massé]] at 0.3%, [[Mesías Guevara]] at 0.3%, [[Jorge Nieto]] at 0.3%, [[Ronald Atencio]] at 0.3%, [[Walter Chirinos]] at 0.3%, [[Paul Jaimes]] at 0.2%, [[Álvaro Paz de la Barra]] at 0.1%, [[Francisco Diez Canseco Távara]] at 0.1%, [[Antonio Ortiz]] at 0.1%, [[Carlos Jaico]] at 0.1%, [[Alex Gonzales]] at 0.1%, and [[Napoleón Becerra]] at 0.0%.}}
+|17.1
+|18.6
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |4.3
+|-
+|Datum Internacional/<wbr/>América TV<ref>{{Cite news|title=Encuesta Datum: Un 40% de peruanos afirma que decidirá su voto tras debates|work=El Comercio|date=23 February 2026|url=https://elcomercio.pe/politica/elecciones/encuesta-datum-internacional-un-40-de-peruanos-afirma-que-decidira-su-voto-tras-debates-tlc-nota-noticia/|access-date=23 February 2026|last=Villarroel Zurita|first=Alexander|language=es|quote=Another 27% say they already have a clear choice, while 29% say they will decide how to vote in the last week before April 12 or even on the day itself. Rafael López Aliaga rises to 13.4% of voting intentions and Keiko Fujimori to 9.7%; however, the percentage of undecided voters is still high. In third place, there is a technical tie.}}</ref>
+|{{Opdrts|13|17|Feb|2026|year}}
+|1,500
+| style="background:#FF9966" |9.7
+|2.5
+| style="background:#cbedfb" | '''13.4'''
+|0.1
+|1.4
+|6.0
+|5.7
+|1.7
+|2.4
+|3.0
+|1.5
+|2.6
+|–
+|9.6{{efn|Including [[Carlos Espá]] at 0.9%, [[Rafael Belaúnde Llosa]] at 0.8%, [[Vladimir Cerrón]] at 0.8%, [[Enrique Valderrama]] at 0.6%, [[Roberto Chiabra]] at 0.6%, [[Rosario Fernández Bazán]] at 0.6%, [[Fernando Olivera (politician)|Fernando Olivera]] at 0.5%, [[Mesías Guevara]] at 0.5%, [[Francisco Diez Canseco Távara]] at 0.5%, [[Marisol Pérez Tello]] at 0.5%, [[Ronald Atencio]] at 0.3%, [[José Williams]] at 0.2%, [[Alex Gonzales]] at 0.2%, [[Herbert Caller]] at 0.2%, [[Álvaro Paz de la Barra]] at 0.2%, [[Walter Chirinos]] at 0.1%, [[Jorge Nieto]] at 0.1%, [[Charlie Carrasco]] at 0.1%, [[Carlos Jaico]] at 0.1%, [[Paul Jaimes]] at 0.1%, [[Armando Massé]] at 0.1%, [[Antonio Ortiz]] at 0.4%, [[Fiorella Molinelli]] at 0.1%, and [[Napoleón Becerra]] at 0.0%.}}
+|24.1
+|16.3
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |3.7
+|-
+! colspan="24" |<small>Deadline to voluntarily withdraw from the general election (11 February 2026)</small>
+|-
+|CIT/<wbr/>Panamericana<ref>{{Cite news |title=64.3% Desaprueba Gestión de Presidente Jerí: A Dos Días del Pleno Extraordinario |work=Panamericana Televisión |date=15 February 2026 |url=https://panamericana.pe/panorama/politica/465405-64-3-desaprueba-gestion-presidente-jeri-dias-pleno-extraordinario |access-date=16 February 2026 |last= |first= |language=es |quote=As for voting intentions ahead of the April general election, the CIT Opinión & Mercado poll places Rafael López Aliaga in first place with 15.3%, followed by Keiko Fujimori with 8%. Further behind are César Acuña and Alfonso López Chau, both with 6%, in an electoral scenario that is beginning to take shape amid the political crisis.}}</ref>
+|{{Opdrts|5|9|Feb|2026|year}}
+|1,200
+| style="background:#FF9966" |8.0
+|–
+| style="background:#cbedfb" | '''15.3'''
+|–
+|1.6
+|5.0
+|6.0
+|3.0
+|–
+|6.1
+|2.5
+|2.3
+|–
+|14.7{{efn|Including [[Rafael Belaúnde Llosa]] at 1.9%, [[Paul Jaimes]] at 1.8%, and [[José Williams]] at 1.7%.}}
+|17.7
+|13.0
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |7.3
+|-
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news |title=Encuesta Ipsos: Candidatura de Mario Vizcarra cae de 8% en octubre a 3% en enero |work=Perú21 |date=12 February 2026 |url=https://peru21.pe/politica/ipsos-rafael-lopez-aliaga-confirma-su-primer-lugar-y-se-forman-dos-pelotones-de-4-y-2/ |access-date=12 February 2025 |last=Villanueva |first=Luis |language=es |quote=The Popular Renewal candidate continues to lead in presidential voting intentions, now with 12% and extending his lead over Keiko Fujimori of Popular Force (8%) to four percentage points, according to the latest poll for Perú21. Álvarez, Vizcarra, Acuña, and López-Chau are tied for third place.}}</ref>
+|{{Opdrts|5|6|Feb|2026|year}}
+|1,211
+| style="background:#FF9966" |8
+|2
+| style="background:#cbedfb" | '''12'''
+|–
+|–
+|4
+|4
+|2
+|–
+|4
+|2
+|4
+|–
+|16{{efn|Including [[José Williams]] at 2%.}}
+|27
+|15
+| style="background:{{party color|Popular Renewal}}; color:#fff;”" |4
+|-
+|Datum Internacional/<wbr/>El Comercio<ref name=ec1>{{Cite news |title=Elecciones 2026: Veinticuatro candidatos tienen menos de 1% de intención de voto |work=El Comercio |date=8 February 2026 |url=https://elcomercio.pe/politica/elecciones/elecciones-2026-encuesta-datum-internacional-febrero-veinticuatro-candidatos-tienen-menos-de-1-de-intencion-de-voto-12-de-abril-tlcnota-noticia/ |access-date=8 February 2026 |last=Villarroel Zurita |first=Alexander |language=es |quote=Supply and Demand. With less than 60 days to go before the elections, 42.5% of the electorate remains undecided, and half of Peruvians approach the contest with anger and indifference. Although Rafael López Aliaga and Keiko Fujimori lead in voting intentions, the highest support recorded is 11.9%. Only three parties exceed 5% for the National Senate.}}</ref>
+|{{Opdrts|30|3|Feb|2026|year}}
+|1,200
+| style="background:#FF9966" |9.2
+|1.1
+| style="background:#cbedfb" | '''11.9'''
+|0.3
+|1.5
+|5.8
+|3.8
+|1.9
+|2.3
+|3.8
+|2.2
+|3.6
+|0.8
+|9.7{{efn|Including [[Enrique Valderrama]] at 1.1%, [[Vladimir Cerrón]] at 0.8%, [[Rosario Fernández Bazán]] at 0.8%, [[Paul Jaimes]] at 0.8%, [[Carlos Espá]] at 0.7, [[Rafael Belaúnde Llosa]] at 0.7%, [[Francisco Diez Canseco Távara]] at 0.6%, [[Roberto Chiabra]] at 0.5%, [[José Williams]] at 0.4%, [[Fernando Olivera (politician)|Fernando Olivera]] at 0.4%, [[Armando Massé]] at 0.4%, [[Ronald Atencio]] at 0.3%, [[Mesías Guevara]] at 0.3%, [[Fiorella Molinelli]] at 0.3%, [[Carlos Jaico]] at 0.3%, [[Alex Gonzales]] at 0.3%, [[Jorge Nieto]] at 0.3%, [[Walter Chirinos]] at 0.2%, [[Napoleón Becerra]] at 0.2%, [[Herbert Caller]] at 0.2%, [[Charlie Carrasco]] at 0.2%, [[Álvaro Paz de la Barra]] at 0.2%, [[Marisol Pérez Tello]] at 0.1%, and [[Antonio Ortiz]] at 0.1%}}
+|27.6
+|14.9
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |2.7
+|-
+|CPI/<wbr/>RPP<ref>{{Cite news |title=Encuesta CPI: ¿Qué candidatos lideran la intención de voto para las próximas elecciones presidenciales? |work=RPP Noticias |date=4 February 2026 |url=https://rpp.pe/politica/elecciones/encuesta-cpi-que-candidatos-lideran-la-intencion-de-voto-en-las-proximas-elecciones-presidenciales-noticia-1674323 |access-date=4 February 2026 |last=Ramos Martínez |first=Pedro Luis |language=es |quote=With two months to go before the elections, most respondents have not yet decided who to vote for, but there are some candidates who remain popular with the electorate. Find out who they are.}}</ref>
+|{{Opdrts|29|2|Feb|2026|year}}
+|1,200
+| style="background:#FF9966" |6.6
+|–
+| style="background:#cbedfb" | '''14.6'''
+|–
+|1.5
+|3.6
+|3.7
+|2.9
+|1.8
+|3.9
+|1.8
+|4.7
+|–
+|7.2
+|15.8
+|29.0
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |8.0
+|-
+|Imasolu/<wbr/>Exitosa<ref>{{Cite web |title=Elecciones 2026: Veinticuatro candidatos tienen menos de 1% de intención de voto |website=Imasolu |date=8 February 2026 |url=https://imasolu.com/portfolio/elecciones-presidenciales-2026-enero-2026-un-electorado-dividido-y-un-escenario-aun-abierto/ |access-date=10 February 2026 |last= |first= |language=es |quote=}}</ref>
+|{{Opdrts|28|31|Jan|2026|year}}
+|1,200
+| style="background:#FF9966" |8.9
+|–
+| style="background:#cbedfb" | '''13.6'''
+|–
+|1.6
+|5.4
+|3.9
+|2.8
+|1.8
+|4.5
+|3.1
+|3.1
+|–
+|15.9{{efn|Including [[Enrique Valderrama]] at 1.4%, [[José Williams]] at 1.3%, [[Rafael Belaúnde Llosa]] at 1.3%, [[Carlos Espa]] at 1.0%, [[Vladimir Cerrón]] at 1.0%, [[Fernando Olivera (politician)|Fernando Olivera]] at 0.9%, and [[Fernando Olivera (politician)|Fernando Olivera]] at 0.9%.}}
+|6.3
+|30.2
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |4.7
+|-
+|IDICE/<wbr/>La Razón<ref>{{Cite web |title=Encuesta Presidencial IDICE – 01 febrero 2026 |work=Encuestas Perú |date=26 January 2025 |url=https://encuestas.com.pe/encuesta-presidencial-idice-01-febrero-2026/ |access-date=4 February 2026 |last= |first= |language=es}}</ref>
+|{{Opdrts|24|27|Jan|2026|year}}
+|1,200
+| style="background:#FF9966" |7.8
+|–
+| style="background:#cbedfb" | '''11.2'''
+|–
+|0.4
+|4.4
+|3.0
+|2.3
+|0.4
+|4.6
+|3.1
+|3.2
+|–
+|8.5{{efn|Including [[Vladimir Cerrón]] at 2.4%, [[Enrique Valderrama]] at 1.9%, [[Fernando Olivera (politician)|Fernando Olivera]] at 1.2%, [[José Williams]] at 0.8%, [[Carlos Espá]] at 0.8%, [[Roberto Chiabra]] at 0.7%, [[Ricardo Belmont]] at 0.4%, and [[Rafael Belaúnde Llosa]] at 0.3%.}}
+|10.9
+|40.1
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |3.4
+|-
+|IEP/<wbr/>La República<ref>{{Cite news |title=José Jerí pierde respaldo ciudadano: su aprobación cae a 33%, según el IEP |work=La República |date=26 January 2025 |url=https://larepublica.pe/politica/2026/01/26/jose-jeri-pierde-respaldo-ciudadano-aprobacion-cae-a-33-segun-iep-hnews-1307688 |access-date=27 January 2025 |last=Palomino |first=Eva |language=es |quote=The results reveal a highly fragmented scenario, in which no candidate manages to garner majority support. Preferences are distributed among the many political options, reflecting a divided electorate with no figure who stands out clearly.}}</ref>
+|{{Opdrts|16|21|Jan|2026|year}}
+|1,211
+| style="background:#FF9966" |8.1
+|0.6
+| style="background:#cbedfb" | '''14.7'''
+|0.5
+|2.4
+|4.0
+|4.0
+|0.8
+|3.2
+|1.4
+|1.9
+|4.4
+|0.4
+|9.1{{efn|Including [[Carlos Espa]] at 1.4%, [[Marisol Pérez Tello]] at 1.1%, [[Rafael Belaúnde Llosa]] at 0.9%, [[Rosario Fernández Bazán]] at 0.8%, [[Roberto Chiabra]] at 0.7%, [[Fernando Olivera (politician)|Fernando Olivera]] at 0.7%, [[Vladimir Cerrón]] at 0.5%, [[Jorge Nieto]] at 0.5%, [[Fiorella Molinelli]] at 0.4%, [[Charlie Carrasco]] at 0.4%, [[José Williams]] at 0.3%, [[Enrique Valderrama]] at 0.2%, [[Carlos Jaico]] at 0.2%, [[Alex Gonzales]] at 0.2%, [[Herbert Caller]] at 0.2%, [[Walter Chirinos]] at 0.2%, [[Paul Jaimes]] at 0.2%, [[Napoleón Becerra]] at 0.2%, [[Armando Massé]] at 0.1%, [[Álvaro Paz de la Barra]] at 0.1%, [[Francisco Diez Canseco Távara]] at 0.1%, [[Antonio Ortiz]] at 0.1%, and [[Ronald Atencio]] at 0.1%.}}
+|22.7
+|21.8
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |6.6
+|-
+|Datum Internacional/<wbr/>América TV<ref>{{Cite news |title=Aprobación de José Jerí cae diez puntos tras crisis por reuniones con empresario chino, revela encuesta de Datum |work=El Comercio |date=26 January 2025 |url=https://elcomercio.pe/politica/gobierno/encuesta-datum-internacional-aprobacion-de-jeri-cae-al-41-y-queda-por-debajo-de-su-desaprobacion-por-primera-vez-tlc-nota-noticia/?ref=ecr |access-date=27 January 2025 |last=Villarroel Zurita |first=Alexander |language=es |quote=Even so, the 36 candidates for the presidency together account for 55.7% of the vote, with support distributed among the multiple candidates, compared to 44.3% of the population who, with the election fast approaching, have opted for none, blank or spoiled, or simply do not know.}}</ref>
+|{{Opdrts|16|20|Jan|2026|year}}
+|1,202
+| style="background:#FF9966" |8.0
+|0.8
+| style="background:#cbedfb" | '''11.7'''
+|0.3
+|1.5
+|5.7
+|4.6
+|1.6
+|2.5
+|3.0
+|3.0
+|3.6
+|0.3
+|9.1{{efn|Including [[Carlos Espá]] at 1.0%, [[Roberto Chiabra]] at 0.9%, [[Enrique Valderrama]] at 0.8%, [[Fiorella Molinelli]] at 0.7%, [[Fernando Olivera (politician)|Fernando Olivera]] at 0.7%, [[Vladimir Cerrón]] at 0.7%, [[Charlie Carrasco]] at 0.5%, [[Rosario Fernández Bazán]] at 0.4%, [[Mesías Guevara]] at 0.4%, [[Marisol Pérez Tello]] at 0.4%, [[Antonio Ortiz]] at 0.4%, [[Álvaro Paz de la Barra]] at 0.4%, [[Alex Gonzales]] at 0.4%, [[Jorge Nieto]] at 0.3%, [[Carlos Jaico]] at 0.3%, [[Ronald Atencio]] at 0.2%, [[Rafael Belaúnde Llosa]] at 0.2%, [[Francisco Diez Canseco Távara]] at 0.2%, [[José Williams]] at 0.1%, [[Walter Chirinos]] at 0.1%, [[Paul Jaimes]] at 0.1%, [[Herbert Caller]] at 0.1%, [[Armando Massé]] at 0.1%, and [[Napoleón Becerra]] at 0.0%.}}
+|25.9
+|18.4
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |3.7
+|-
+|CIT/<wbr/>Panamericana<ref>{{Cite web |title=Encuesta Nacional De Intención De Voto Y Aprobación Gubernamental – Enero 2026 |work=CIT |date=26 January 2025 |url=https://www.citopinion.pe/encuesta-nacional-de-intencion-de-voto-y-aprobacion-gubernamental-enero-2025/ |access-date=30 January 2025 |last= |first= |language=es |quote=}}</ref>
+|{{Opdrts|16|20|Jan|2026|year}}
+|1,220
+| style="background:#FF9966" |9.3
+|–
+| style="background:#cbedfb" | '''15.1'''
+|–
+|1.1
+|6.6
+|4.8
+|2.0
+|3.0
+|6.0
+|1.0
+|2.5
+|–
+|12.2{{efn|Including [[Carlos Espá]] at 1.9%, [[Roberto Chiabra]] at 1.8%, [[Enrique Valderrama]] at 1.1%, [[Rafael Belaúnde Llosa]] at 1.0%, and [[Rosario Fernández Bazán]] at 1.0%.}}
+|21.6
+|14.8
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |5.8
+|-
+|CPI/<wbr/>RPP<ref>{{Cite news |title=¿Qué candidatos lideran la intención de voto para las elecciones presidenciales?: esto dice la última encuesta de CPI |work=RPP Noticias |date=19 January 2025 |url=https://rpp.pe/politica/elecciones/encuesta-cpi-2026-que-candidatos-lideran-la-intencion-de-voto-para-las-elecciones-presidenciales-noticia-1672111 |access-date=19 January 2025 |last=Flores |first=José |language=es |quote=With just months to go before the general election, undecided voters and those who say they will cast blank or spoiled ballots continue to dominate the electoral landscape. In addition, respondents show a majority inclination toward centrist and moderate right-wing positions.}}</ref>
+|{{Opdrts|11|16|Jan|2026|year}}
+|1,200
+| style="background:#FF9966" |7.1
+|–
+| style="background:#cbedfb" | '''13.6'''
+|–
+|
+|3.9
+|3.1
+|2.8
+|1.2
+|3.7
+|1.8
+|4.4
+|–
+|9.2
+|18.8
+|30.5
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |6.5
+|-
+|Ipsos Perú/<wbr/>Perú 21<ref>{{Cite news |title=Encuesta Ipsos: Candidatura de Mario Vizcarra cae de 8% en octubre a 3% en enero |work=Perú21 |date=15 January 2026 |url=https://peru21.pe/politica/mario-vizcarra-cae-al-sexto-lugar-en-intencion-de-voto-segun-ipsos/ |access-date=11 January 2025 |last=Quispe |first=Patricia |language=es |quote=Voters continue to refine their preferences. Rafael López Aliaga and Keiko Fujimori continue to lead in voting intentions, and Carlos Álvarez regains third place.}}</ref>
+|{{Opdrts|7|8|Jan|2026|year}}
+|1,207
+| style="background:#FF9966" |7
+|2
+| style="background:#cbedfb" | '''10'''
+|–
+|–
+|4
+|3
+|2
+|–
+|2
+|3
+|3
+|–
+|17{{efn|Including [[José Williams]] at 2%, [[Vladimir Cerrón]] at 2% and [[Fernando Olivera (politician)|Fernando Olivera]] at 2%.}}
+|29
+|18
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |3
+|-
+|Datum Internacional/<wbr/>El Comercio<ref>{{Cite news|title=Elecciones 2026: Solo un 12% asegura que ya definió a su candidato presidencial, según encuesta de Datum|work=El Comercio|date=11 January 2025|url=https://elcomercio.pe/politica/elecciones/keiko-fujimori-rafael-lopez-aliaga-carlos-alvarez-elecciones-2026-solo-un-12-asegura-que-ya-definio-a-su-candidato-presidencial-segun-encuesta-de-datum-internacional-tlcnota-noticia/|access-date=11 January 2025|last=Villarroel Zurita|first=Alexander|language=es|quote=Although the election is fast approaching and the political landscape is practically set, only 12% of the population say they have already decided which presidential candidate they will support at the polls on April 12, while 35% say they are still evaluating their vote and another 50% admit they have not yet made up their minds, according to the latest Datum Internacional poll for El Comercio.}}</ref>
+|{{Opdrts|2|6|Jan|2026|year}}
+|1,200
+| style="background:#FF9966" |8.8
+|0.8
+| style="background:#cbedfb" | '''12.0'''
+|0.0
+|2.2
+|6.2
+|3.8
+|0.9
+|3.0
+|2.5
+|2.8
+|5.8
+|0.5
+|7.8{{efn|Including [[Fernando Olivera (politician)|Fernando Olivera]] at 1.3%, [[Vladimir Cerrón]] at 1.2%, [[Carlos Espá]] at 1.0%, Rosario Fernández Bazán at 0.4%, [[Rafael Belaúnde Llosa]] at 0.4%, [[Marisol Pérez Tello]] at 0.4%, Álvaro Paz de la Barra at 0.4%, [[Enrique Valderrama]] at 0.3%, Paul Jaimes at 0.3%, Charlie Carrasco at 0.3%, Armando Massé at 0.3%, Antonio Ortiz at 0.3%, Alex Gonzales at 0.3%, [[José Williams]] at 0.2%, [[Roberto Chiabra]] at 0.2%, [[Mesías Guevara]] at 0.2%, Herbert Caller a 0.2%, [[Fiorella Molinelli]] at 0.2%, Walter Chirinos at 0.1%, Ronald Atencio at 0.1%, Carlos Jaico at 0.1%, Francisco Diez Canseco Távara at 0.0%, [[Jorge Nieto]] at 0.0%, and Napoleón Becerra at 0.0%.}}
+|35.8
+|14.7
+| style="background:{{party color|Popular Renewal}}; color:#fff;" |3.2
+|}
+
+====2025====
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |<small>Pollster / Client</small>
+! rowspan="4" |<small>Date</small>
+! rowspan="4" |<small>Sample size</small>
+![[File:Rafael López Aliaga 2024.jpg|70x70px]]
+![[File:260406-MITIN-KEIKO-PIURA-064 (cropped 2).jpg|70x70px]]
+![[File:Mario Vizcarra.png|70x70px]]
+![[File:Carlos Álvarez 2025 (cropped).jpg|70x70px]]
+![[File:César Acuña Peralta.jpg|70x70px]]
+![[File:Alfonso López-Chau.jpg|70x70px]]
+![[File:Yonhy Lescano 2012 (cropped).jpg|70x70px]]
+![[File:Carlos Espá, canciller de la República Peruana.jpg|70x70px]]
+![[File:George Forsyth Sommer.jpg|70x70px]]
+![[File:Rafael Belaúnde Llosa.jpg|70x70px]]
+![[File:Phillip Butters.png|70x70px]]
+! class="unsortable" rowspan="4" |<small>Other</small>
+! class="unsortable" rowspan="4" |<small>Blank / None</small>
+! class="unsortable" rowspan="4" |<small>Undecided</small>
+! rowspan="4" data-sort-type="number"|<small>Lead</small>
+|-
+!{{small|[[Rafael López Aliaga|López Aliaga]]}}
+!{{small|[[Keiko Fujimori|Fujimori]]}}
+!{{small|[[Mario Vizcarra|Vizcarra]]}}
+!{{small|[[Carlos Alvarez (comedian)|Álvarez]]}}
+!{{small|[[César Acuña|Acuña]]}}
+!{{small|[[Alfonso López-Chau|López-Chau]]}}
+!{{small|[[Yonhy Lescano|Lescano]]}}
+!{{small|[[Carlos Espá|Espá]]}}
+!{{small|[[George Forsyth (footballer)|Forsyth]]}}
+!{{small|[[Rafael Belaúnde Llosa|Belaúnde]]}}
+!{{small|[[Phillip Butters|Butters]]}}
+|-
+!<small>[[Popular Renewal|RP]]</small>
+!<small>[[Popular Force|FP]]</small>
+!<small>[[Peru First|P1]]</small>
+!<small>[[Country for All|PPT]]</small>
+!<small>[[Alliance for Progress (Peru)|APP]]</small>
+!<small>[[Now Nation|AN]]</small>
+!<small>[[Popular Cooperation|CooP]]</small>
+!<small>[[IBelieve Party|PSC]]</small>
+!<small>[[We Are Peru|SP]]</small>
+!<small>[[People's Liberty|LP]]</small>
+!<small>[[Go on Country|AvP]]</small>
+|-
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{party color|Peru First}};" |
+! style="color:inherit;background:#FFC700;" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+! style="color:inherit;background:{{party color|Now Nation}};" |
+! style="color:inherit;background:#0267AF;" |
+! style="color:inherit;background:#E40613;" |
+! style="color:inherit;background:{{party color|We Are Peru}};" |
+! style="color:inherit;background:#FFFF00;" |
+! style="color:inherit;background:{{party color|Go on Country – Social Integration Party (2017)}};" |
+|-
+! colspan="18" |<small>Deadline to register tickets and parliamentary lists for the general election (23 December 2025)</small>
+|-
+|Ipsos Perú/América TV<ref>{{Cite news|title=El 48% no sabe por quién votar o piensa viciar su voto|work=Perú21|date=21 December 2025|url=https://peru21.pe/politica/el-48-no-sabe-por-quien-votar-o-piensa-viciar-su-voto/|access-date=21 December 2025|last=Monzón Kcomt|first=Ricardo|language=es|quote=}}</ref>
+|{{Opdrts|18|19|Dec|2025|year}}
+|1,211
+| style="background:#cbedfb"| '''10'''
+| style="background:#FFCD9C" |7
+|5
+|4
+|3
+|3
+|2
+|2
+|–
+|2
+|–
+|14{{efn|Including [[José Luna]] at 2%}}
+|28
+|20
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|3
+|-
+! colspan="18" |<small>[[National Jury of Elections]] annuls [[Popular Action (Peru)|Popular Action]]'s primary election (13 December 2025)</small>
+|-
+|CIT/Panamericana<ref>{{Cite web|title=Encuesta de CIT: aprobación del presidente José Jerí cae al 40.7%|website=YouTube|date=14 December 2025|url=https://www.youtube.com/watch?v=VViqwHsJ_z8&t=195s|access-date=15 December 2025|last=Panorama}}</ref>
+|{{Opdrts|5|9|Dec|2025|year}}
+|1,220
+| style="background:#cbedfb"| '''13.5'''
+| style="background:#FFCD9C" |7.4
+|4.2
+|6.0
+|6.0
+|3.8
+|–
+|1.3
+|1.1
+|–
+|–
+|17.8{{efn|Including [[José Luna]] at 1.8%, [[Ricardo Belmont]] at 1.3% [[Roberto Chiabra]] at 1.3%, [[Fernando Olivera (politician)|Fernando Olivera]] at 1.2%, and [[Enrique Valderrama]] at 1.2%.}}
+| 21.7
+| 17.3
+| style="background:{{party color|Popular Renewal}}; color:#fff;”|6.1
+|-
+|Datum Internacional/El Comercio<ref>{{Cite news|title=Casi la mitad de los peruanos coinciden en que no hay buenas opciones entre los candidatos|work=El Comercio|date=14 December 2025|url=https://elcomercio.pe/politica/elecciones/elecciones-2026-encuesta-de-intencion-de-voto-12-de-abril-casi-la-mitad-de-los-peruanos-coinciden-en-que-no-hay-buenas-opciones-entre-los-candidatos-tlcnota-noticia/|access-date=14 December 2025|quote=With the primary elections over and the candidates decided, only 8% believe there are “very good options” among those running for president. There is widespread uncertainty, as reflected in Datum's first voting intention poll for El Comercio ahead of the 2026 elections: more than 50% are undecided or plan to cast a blank or spoiled ballot, do not know who to vote for, or even say they will not go to the polls.}}</ref>
+|{{Opdrts|4|8|Dec|2025|year}}
+|1,201
+| style="background:#cbedfb"| '''10.5'''
+| style="background:#FFCD9C" |7.5
+|6.5
+|4.0
+|1.9
+|2.9
+|1.9
+|0.7
+|1.2
+|0.7
+|–
+|11.7{{efn|Including [[Ricardo Belmont]] at 1.6%, [[José Luna]] at 1.3%, [[Fernando Olivera (politician)|Fernando Olivera]] at 1.2%, [[Roberto Chiabra]] at 0.9%, [[Jorge Nieto]] at 0.7%, [[Popular Action (Peru)|Popular Action]] candidate at 0.7%, and [[Vladimir Cerrón]] at 0.7%}}
+|35.8
+|14.7
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|3
+|-
+! colspan="18" |<small>Second primary elections and confirmation of [[José Williams]] as [[Go on Country – Social Integration Party]]’s presidential nominee (7 December 2025)</small>
+|-
+! colspan="18" |<small>[[Phillip Butters]] drops out of the presidential election and leaves [[Go on Country – Social Integration Party]] (5 December 2025)</small>
+|-
+! colspan="18" |<small>First primary elections (30 November 2025)</small>
+|-
+|Ipsos Perú/América TV<ref>{{Cite web|title=Intención de Voto Noviembre II 2025 Encuesta América TV - Ipsos|website=Ipsos Perú|date=5 December 2025|url=https://www.ipsos.com/es-pe/intencion-de-voto-noviembre-ii-2025-encuesta-america-tv-ipsos|access-date=6 December 2025}}</ref>
+|{{Opdrts|27|28|Nov|2025|year}}
+|1,210
+| style="background:#cbedfb"| '''9'''
+| style="background:#FFCD9C" |7
+| style="background:#FFD0D7"|7
+|5
+|2
+|2
+|2
+|2
+|2
+|2
+|2
+|10
+|33
+|15
+| style="background:{{party color|Popular Renewal}}; color:#fff;”|2
+|-
+|CPI/RPP<ref>{{Cite web|title=CPI: A cuatro meses de las Elecciones, estos son los candidatos y pre candidatos presidenciales que lideran la intención de voto|work=RPP Noticias|date=4 December 2025|url=https://rpp.pe/politica/elecciones/cpi-a-cuatro-meses-de-las-elecciones-estos-son-los-candidatos-y-pre-candidatos-presidenciales-que-lideran-la-intencion-de-voto-noticia-1666471|access-date=22 September 2025}}</ref>
+|{{Opdrts|26|30|Nov|2025|year}}
+|1,200
+| style="background:#cbedfb"| '''12.5'''
+| style="background:#FFCD9C" |7.6
+|6.7
+|4.2
+|2.8
+|1.8
+|–
+|2.0
+|1.4
+|–
+|1.1
+|9.9{{efn|Including [[José Luna]] at 2.1% and [[Fernando Olivera (politician)|Fernando Olivera]] at 1.4%}}
+|19.2
+|30.7
+| style="background:{{party color|Popular Renewal}}; color:#fff;”|4.9
+|-
+|CIT/Expreso<ref>{{Cite web|title=Encuesta Intención De Voto Y Aprobación Gubernamental Noviembre 2025|website=CIT|date=24 November 2025|url=https://www.citopinion.pe/encuesta-intencion-de-voto-y-aprobacion-gubernamental-noviembre-2025/|access-date=24 November 2025}}</ref>
+|{{Opdrts|14|18|Nov|2025|year}}
+|1,220
+| style="background:#cbedfb"| '''14.8'''
+| style="background:#FFCD9C" |8.9
+|2.0
+|6.7
+|6.1
+|3.5
+|–
+|–
+|1.1
+|1.0
+|1.6
+|14.6{{efn|Including [[Alfredo Barnechea]] at 3.7%, [[José Luna]] at 1.7% [[Paul Jaimes]] at 1.1%, and [[Ricardo Belmont]] at 1.0%.}}
+|20.6
+|18.9
+| style="background:{{party color|Popular Renewal}}; color:#fff;”|5.9
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Encuesta Ipsos: Ningún candidato supera el 10% de intención de voto a 5 meses de las elecciones|website=Perú21|date=13 November 2025|url=https://peru21.pe/politica/encuesta-ipsos-ningun-candidato-supera-el-10-de-intencion-de-voto/|access-date=13 November 2025}}</ref>
+|{{Opdrts|6|7|Nov|2025|year}}
+|1,210
+| style="background:#cbedfb"| '''9'''
+| style="background:#FFCD9C" |8
+|7
+|4
+|3
+|3
+|–
+|2
+|2
+|2
+|2
+|16{{efn|Including [[Alfredo Barnechea]] at 2% and [[Javier Velásquez]] at 2%}}
+|30
+|12
+| style="background:{{party color|Popular Renewal}}; color:#fff;”|1
+|-
+|CPI/RPP<ref>{{Cite web|title=¿Quiénes lideran la intención de voto para las Elecciones Generales 2026?: esto dice la última encuesta de CPI|website=RPP Noticias|date=10 November 2025|url=https://rpp.pe/politica/elecciones/quienes-lideran-la-intencion-de-voto-para-las-elecciones-generales-2026-esto-dice-la-ultima-encuesta-de-cpi-noticia-1663159|access-date=10 November 2025}}</ref>
+|{{Opdrts|3|7|Nov|2025|year}}
+|1,200
+| style="background:#cbedfb"| '''12.7'''
+|5.5
+| style="background:#FFD0D7"|6.2
+|3.7
+|2.0
+|2.0
+|–
+|–
+|1.3
+|–
+|1.4
+|10.4{{efn|Including [[José Luna]] at 1.8%, [[Susel Paredes]] at 1.6%, and [[Fernando Olivera (politician)|Fernando Olivera]] at 1.1%}}
+|21.7
+|33.1
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|7.2
+|-
+|Ipsos Perú/América TV<ref>{{Cite web|title=Intención de Voto II Octubre 2025 - Encuesta América TV - Ipsos|website=Ipsos Perú|date=27 October 2025|url=https://www.ipsos.com/es-pe/encuesta-america-tv-ipsos-octubre-2025|access-date=28 October 2025}}</ref>
+|{{Opdrts|23|24|Oct|2025|year}}
+|1,208
+| style="background:#cbedfb"| '''9'''
+| style="background:#FFCD9C" |7
+| style="background:#FFD0D7"|7
+|4
+|2
+|2
+|2
+|2
+|–
+|2
+|2
+|12{{efn|Including [[Víctor Andrés García Belaúnde]] at 2%}}
+|37
+|12
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|2
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Intención de Voto Octubre 2025 Encuesta Perú 21 - Ipsos|website=Ipsos Perú|date=16 October 2025|url=https://www.ipsos.com/es-pe/intencion-de-voto-octubre-2025-encuesta-peru-21-ipsos|access-date=18 October 2025}}</ref>
+|{{Opdrts|9|10|Oct|2025|year}}
+|1,210
+| style="background:#cbedfb"| '''10'''
+|6
+| style="background:#FFD0D7"|8
+|5
+|3
+|2
+|–
+|–
+|–
+|2
+|2
+|12
+|39
+|11
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|4
+|-
+|CIT/Expreso<ref>{{Cite web|title=Encuesta Intención De Voto Y Aprobación Gubernamental Octubre 2025|website=CIT|date=26 October 2025|url=https://www.citopinion.pe/encuesta-intencion-de-voto-y-aprobacion-gubernamental-octubre-2025/|access-date=28 October 2025}}</ref>
+|{{Opdrts|21|24|Oct|2025|year}}
+|1,220
+| style="background:#cbedfb"| '''15.3'''
+|6.1
+|4.1
+| style="background:#fff0b4" |7.2
+|6.0
+|2.1
+|–
+|–
+|–
+|1.0
+|3.1
+|12.7
+|19.6
+|22.2
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|9.2
+|-
+|Ipsos Perú/América TV<ref>{{Cite web|title=RLA lidera intención de voto, seguido de Vizcarra y Fujimori|website=América Televisión|date=28 September 2025|url=https://www.ipsos.com/es-pe/intencion-de-voto-septiembre-2025-ii-encuesta-america-tv-ipsos|access-date=29 September 2025}}</ref>
+|{{Opdrts|25|26|Sep|2025|year}}
+|1,220
+| style="background:#cbedfb"| '''10'''
+| style="background:#FFCD9C" |7
+|7
+|4
+|2
+|–
+|2
+|–
+|–
+|2
+|3
+|14{{efn|Including [[Guillermo Bermejo]] at 2%}}
+|37
+|12
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|3
+|-
+|IEP/La República<ref>{{Cite web|title=IEP Informe de Opinión - Septiembre 2025|website=Instituto de Estudios Peruanos|date=29 September 2025|url=https://estudiosdeopinion.iep.org.pe/wp-content/uploads/2025/09/IEP-Informe-de-opinion-septiembre-2025-informe-completo.pdf|access-date=30 September 2025}}</ref>
+|{{Opdrts|19|24|Sep|2025|year}}
+|1,202
+| style="background:#cbedfb"| '''8.5'''
+| style="background:#FFCD9C" |5.9
+|–
+|2.4
+|–
+|0.9
+|0.8
+|–
+|–
+|–
+|0.5
+|15.1{{efn|Including [[Martín Vizcarra]] at 9.2%, [[Pedro Castillo]] at 3.3%, [[Antauro Humala]] at 1.1%, [[Arturo Fernández Bazán]] at 0.6%, [[Verónika Mendoza]] at 0.6%, [[Hernando de Soto]] at 0.6%, and [[Franco Vidal]] at 0.5%}}
+|5.5
+|57.3
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|2.6
+|-
+|CPI/RPP<ref>{{Cite web|title=Elecciones Generales Perú 2026 - Temas de Actualidad Política|website=CPI|date=22 September 2025| url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/Informe%20OP%20septiembre%20RPP.pdf|access-date=22 September 2025}}</ref>
+|{{Opdrts|11|17|Sep|2025|year}}
+|1,200
+| style="background:#cbedfb"| '''13.7'''
+| style="background:#FFCD9C" |9.0
+|7.9
+|6.9
+|2.3
+|2.5
+|–
+|–
+|–
+|–
+|1.2
+|11.2{{efn|Including [[José Luna]] at 1.7%, [[Fernando Olivera (politician)|Fernando Olivera]] at 1.3%, [[Vladimir Cerrón]] at 1.1%, and [[Jorge del Castillo]] at 1.0%}}
+|17.6
+|27.8
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|4.7
+|-
+|CIT/Expreso<ref>{{Cite web|title=Informe Encuesta Nacional De Intención De Voto – Septiembre 2025|website=CIT|date=17 September 2025|url=https://www.citopinion.pe/informe-encuesta-nacional-de-intencion-de-voto-septiembre-2025/|access-date=28 October 2025}}</ref>
+|{{Opdrts|12|15|Sep|2025|year}}
+|1,220
+| style="background:#cbedfb"| '''11.8'''
+| style="background:#FFCD9C" |9.1
+|3.4
+|6.0
+|6.0
+|2.1
+|–
+|–
+|–
+|–
+|2.7
+|17.2
+|28.2
+|13.4
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|2.7
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Intención de Voto Setiembre 2025 - Encuesta Perú 21 - Ipsos|website=Ipsos Perú|date=18 September 2025| url=https://www.ipsos.com/es-pe/intencion-de-voto-setiembre-2025-encuesta-peru-21-ipsos|access-date=19 September 2025}}</ref>
+|{{Opdrts|4|5|Sep|2025|year}}
+|1,204
+| style="background:#cbedfb"| '''10'''
+| style="background:#FFCD9C" |8
+|5
+|4
+|3
+|2
+|2
+|–
+|2
+|2
+|2
+|13{{efn|Including [[Víctor Andrés García Belaúnde]] at 2%}}
+|37
+|10
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|2
+|-
+|Ipsos Perú/América TV<ref>{{Cite web|title=Intención de Voto 2 Agosto 2025 - Encuesta América TV - Ipsos|website=Ipsos Perú|date=31 August 2025| url=https://www.ipsos.com/es-pe/intencion-de-voto-2-agosto-2025-encuesta-america-tv-ipsos|access-date=1 September 2025}}</ref>
+|{{Opdrts|28|29|Aug|2025|year}}
+|1,208
+| style="background:#cbedfb"| '''11'''
+| style="background:#FFCD9C" |7
+|3
+|5
+|2
+|3
+|–
+|–
+|–
+|–
+|2
+|19{{efn|Including [[Arturo Fernández Bazán]] at 2%}}
+|38
+|10
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|4
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Intención de Voto Agosto 2025 - Encuesta Perú 21 - Ipsos|website=Ipsos Perú|date=17 August 2025|url=https://www.ipsos.com/es-pe/intencion-de-voto-agosto-2025-encuesta-peru-21-ipsos|access-date=17 August 2025}}</ref>
+|{{Opdrts|6|7|Aug|2025|year}}
+|1,207
+| style="background:#cbedfb"| '''10'''
+| style="background:#FFCD9C" |8
+|–
+|6
+|3
+|2
+|2
+|–
+|–
+|2
+|–
+|16{{efn|Including [[Vladimir Cerrón]] at 2% and [[Arturo Fernández Bazán]] at 2%}}
+|38
+|13
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|2
+|-
+|Ipsos Perú/América TV<ref>{{Cite web|title=Estudio de Opinión Ipsos - América Televisión|website=Ipsos Perú|date=20 July 2025| url=https://www.ipsos.com/es-pe/intencion-de-voto-julio-2025-encuesta-america-tv-ipsos|access-date=28 July 2025}}</ref>
+|{{Opdrts|21|22|Jul|2025|year}}
+|1,205
+| style="background:#cbedfb"|8
+| style="background:#FFCD9C" |'''9'''
+|2
+|6
+|2
+|2
+|–
+|–
+|2
+|–
+|2
+|23{{efn|Including [[Vladimir Cerrón]] at 2%, [[Ricardo Belmont]] at 2%, [[Víctor Andrés García Belaúnde]] at 2%, and [[Jorge del Castillo]] at 2%}}
+|32
+|12
+| style="background:{{party color|Popular Force}}; color:#fff;"|1
+|-
+|CPI/RPP<ref>{{Cite web|title=Estudio de Opinión Pública Nacional - Julio 2025|website=CPI|date=20 July 2025|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/Opini%C3%B3n%20p%C3%BAblica%20nacional%20julio%202025%5B1%5D.pdf|access-date=27 July 2025}}</ref>
+|{{Opdrts|18|24|Jul|2025|year}}
+|1,200
+| style="background:#cbedfb"|8.9
+| style="background:#FFCD9C" |'''9.7'''
+|–
+|7.0
+|1.9
+|3.2
+|–
+|–
+|–
+|1.1
+|1.8
+|10.0{{efn|Including [[Vladimir Cerrón]] at 2.8%, [[Jorge del Castillo]] at 1.0%, and [[Roberto Chiabra]] at 1.0%}}
+|17.2
+|39.3
+| style="background:{{party color|Popular Force}}; color:#fff;"|0.8
+|-
+|CIT/Expreso<ref>{{Cite web|title=Dina Boluarte Registra 1.3% de Aprobación, Según Encuesta de CIT Perú|website=Panamericana Televisión|date=20 July 2025|url=https://panamericana.pe/panorama/politica/448690-dina-boluarte-registra-1-3-aprobacion-segun-encuesta-cit-opinion-mercado/|access-date=21 July 2025}}</ref>
+|{{Opdrts|10|12|Jul|2025|year}}
+|1,200
+| style="background:#cbedfb"| '''14.2'''
+|7.9
+|–
+| style="background:#fff0b4" |10.9
+|6.8
+|2.3
+|–
+|–
+|–
+|2.4
+|4.2
+|14.8
+|11.9
+|24.6
+| style="background:{{party color|Popular Renewal}}; color:#fff"|6.3
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Pienso, Luego Voto. Ipsos: Al 50% de los electores no le convence ningún candidato|website=Perú21|date=20 July 2025| url=https://peru21.pe/politica/pienso-luego-voto-ipsos-al-50-de-los-electores-no-le-convence-ningun-candidato/|access-date=20 July 2025}}</ref>
+|{{Opdrts|3|4|Jul|2025|year}}
+|1,204
+| style="background:#cbedfb"|7
+| style="background:#FFCD9C" |'''9'''
+|–
+|6
+|2
+|2
+|2
+|–
+|–
+|2
+|2
+|18{{efn|Including [[Arturo Fernández Bazán]] at 2% and [[Alfredo Barnechea]] at 2%}}
+|37
+|13
+| style="background:{{party color|Popular Force}}; color:#fff;"|2
+|-
+|CPI/RPP<ref>{{Cite web|title=Estudio de Opinión Pública Nacional - Mayo 2025|website=CPI|date=25 May 2025|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/ENCUESTA%20DE%20OPINI%C3%93N%20P%C3%9ABLICA%20MAYO%202025.pdf|access-date=21 July 2025}}</ref>
+|{{Opdrts|15|23|May|2025|year}}
+|1,200
+| style="background:#cbedfb"|8.4
+| style="background:#FFCD9C" |'''10.3'''
+|–
+|6.9
+|1.8
+|3.3
+|–
+|–
+|–
+|–
+|1.6
+|33.7{{efn|Including [[Martín Vizcarra]] at 15.1%, [[Hernando de Soto]] at 5.2%, [[Verónika Mendoza]] at 3.0%, [[Antauro Humala]] at 2.3%, [[Fernando Olivera (politician)|Fernando Olivera]] at 0.8%, [[Jorge del Castillo]] at 0.8%, [[Roberto Chiabra]] at 0.6%, [[Julio Chávez Chiong]] at 0.6%, [[Susel Paredes]] at 0.5%, and [[Jonás Ataucusi]] at 0.5%}}
+|20.0
+|14.2
+| style="background:{{party color|Popular Renewal}}; color:#fff;"|1.9
+|-
+|CIT/Expreso<ref>{{Cite web|title=Encuesta Nacional Urbano Rural Elecciones Presidenciales – Mayo 2025|website=CIT Perú|date=11 May 2025|url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-elecciones-presidenciales-mayo-2026/|access-date=20 July 2025}}</ref>
+|{{Opdrts|6|9|May|2025|year}}
+|1,220
+| style="background:#cbedfb"|9.3
+|9.3
+|–
+| style="background:#fff0b4" |'''15.8'''
+|6.8
+|–
+|–
+|–
+|–
+|–
+|1.6
+|14.8
+|28.3
+|14.0
+| style="background:#FFC700; color:#fff;"|6.5
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Encuesta Ipsos: ¿Quiénes lideran las preferencias electorales para el 2026?|website=Ipsos Perú|date=20 April 2025| url=https://www.ipsos.com/es-pe/encuesta-peru-21-ipsos-quienes-lideran-las-preferencias-electorales-para-el-2026|access-date=20 July 2025}}</ref>
+|{{Opdrts|13|14|Apr|2025|year}}
+|1,206
+| style="background:#cbedfb"|6
+| style="background:#FFCD9C" |'''11'''
+|–
+|6
+|3
+|2
+|–
+|–
+|–
+|2
+|2
+|26{{efn|Including [[Hernando de Soto]] at 3%, [[Verónika Mendoza]] at 3%, [[Susel Paredes]] at 2%, [[Vladimir Cerrón]] at 2%, [[Alfredo Barnechea]] at 2%, [[Fernando Olivera (politician)|Fernando Olivera]] at 2%, and [[Guillermo Bermejo]] at 2%}}
+|32
+|10
+| style="background:{{party color|Popular Force}}; color:#fff;"|5
+|-
+|CIT/Expreso<ref>{{Cite web|title=Encuesta Nacional Urbano Rural Elecciones Presidenciales – Marzo 2025|website=CIT Perú|date=1 April 2025|url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-elecciones-presidenciales-marzo-2025/|access-date=20 July 2025}}</ref>
+|{{Opdrts|27|31|Mar|2025|year}}
+|1,200
+| style="background:#cbedfb"|8.3
+| style="background:#FFCD9C" |'''13'''
+|–
+|6
+|2
+|1
+|–
+|–
+|–
+|1
+|–
+|23
+|30
+|14
+| style="background:{{party color|Popular Force}}; color:#fff;"|4.7
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Encuesta Perú 21 -Ipsos: ¿Cómo votarían los peruanos si las elecciones fueran mañana?|website=Ipsos Perú|date=27 January 2025|url=https://www.ipsos.com/es-pe/encuesta-peru-21-ipsos-como-votarian-los-peruanos-si-las-elecciones-fueran-manana|access-date=20 July 2025}}</ref>
+|{{Opdrts|9|10|Jan|2025|year}}
+|1,214
+| style="background:#cbedfb"|4
+| style="background:#FFCD9C" |'''12'''
+|–
+| style="background:#fff0b4" |4
+|2
+|2
+|–
+|–
+|2
+|2
+|2
+|26{{efn|Including [[Hernando de Soto]] at 3%, [[Francisco Sagasti]] at 3%, [[Aníbal Torres]] at 3%, [[Verónika Mendoza]] at 3%, [[Carla García]] at 2%, [[Alfredo Barnechea]] at 2%, and [[Fernando Olivera (politician)|Fernando Olivera]] at 2%}}
+|30
+|14
+| style="background:{{party color|Popular Force}}; color:#fff;"|8
+|}
+
+====2024====
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |<small>Pollster / Client</small>
+! rowspan="4" |<small>Date</small>
+! rowspan="4" |<small>Sample size</small>
+! 
+! 
+! [[File:Carlos Álvarez 2025 (cropped).jpg|70x70px]]
+![[File:Francisco_Sagasti_Hochhausler.jpg|70x70px]]
+![[File:Hernando de Soto (cropped).jpg|70x70px]]
+![[File:Rafael López Aliaga 2024.jpg|70x70px]]
+![[File:Verónika_Fanny_Mendoza_Frisch.jpg|70x70px]]
+![[File:Alfonso López-Chau.jpg|70x70px]]
+![[File:Phillip Butters.png|70x70px]]
+![[File:Juramentación de nuevo Gabinete Ministerial 3-45 screenshot - Aníbal Torres (cropped).png|70x70px]]
+![[File:César Acuña Peralta.jpg|70x70px]]
+! class="unsortable" rowspan="4" |<small>Other</small>
+! class="unsortable" rowspan="4" |<small>Blank / None</small>
+! class="unsortable" rowspan="4" |<small>Undecided</small>
+|-
+!{{small|[[Keiko Fujimori|Fujimori]]}}
+!{{small|[[Antauro Humala|Humala]]}}
+!{{small|[[Carlos Álvarez (comedian)|Álvarez]]}}
+!{{small|[[Francisco Sagasti|Sagasti]]}}
+!{{small|[[Hernando de Soto (economist)|de Soto]]}}
+!{{small|[[Rafael López Aliaga|López Aliaga]]}}
+!{{small|[[Verónika Mendoza|Mendoza]]}}
+!{{small|[[Alfonso López-Chau|López-Chau]]}}
+!{{small|[[Philip Butters|Butters]]}}
+!{{small|[[Aníbal Torres|Torres]]}}
+!{{small|[[César Acuña|Acuña]]}}
+|-
+!<small>[[Popular Force|FP]]</small>
+!<small>[[National Alliance of Workers, Farmers, University Students, and Reservists|ANTAURO]]</small>{{Efn|Party disqualified on 31 October 2024}}
+!<small>[[Country for All|PPT]]</small>
+!<small>[[Purple Party|PM]]</small>
+!<small>[[Progresemos|Prog.]]</small>
+!<small>[[Popular Renewal|RP]]</small>
+!<small>[[New Peru for Good Living|NP]]</small>
+!<small>[[Now Nation|AN]]</small>
+!<small>[[Go on Country – Social Integration Party (2017)|AvP]]</small>
+!<small>[[Forward United People|APU]]</small>
+!<small>[[Alliance for Progress (Peru)|APP]]</small>
+|-
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{Party color|National Alliance of Workers, Farmers, University Students, and Reservists}};" |
+! style="color:inherit;background:#FFC700;" |
+! style="color:inherit;background:{{party color|Purple Party}};" |
+! style="color:inherit;background:{{Party color|Progresemos}};" |
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:{{party color|New Peru for Good Living}};" |
+! style="color:inherit;background:{{party color|Now Nation}};" |
+! style="color:inherit;background:{{party color|Go on Country – Social Integration Party (2017)}};" |
+! style="color:inherit;background:#AF3A05;" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web | title=Encuesta Ipsos-Perú21: Cuatro posibles candidatos lideran las preferencias para el 2026 |website=Ipsos | date=28 October 2024 | url=https://www.ipsos.com/es-pe/encuesta-ipsos-peru21-cuatro-posibles-candidatos-lideran-las-preferencias-para-el-2026 | archive-url=https://web.archive.org/web/20241116000921/https://www.ipsos.com/es-pe/encuesta-ipsos-peru21-cuatro-posibles-candidatos-lideran-las-preferencias-para-el-2026 | access-date=2025-05-16 | archive-date=2024-11-16}}</ref>
+|{{Opdrts|10|11|Oct|2024|year}}
+|1,218
+| style="background:#FFCD9C" |'''12'''
+| style="background:#FFD0D7"|8
+|4
+|4
+|3
+|3
+|2
+|2
+|2
+|1
+|–
+|12{{efn|Including [[Rafael Belaúnde]] at 2%}}
+|30
+|17
+|-
+|CPI/RPP<ref>{{Cite web|title=Estudio de Opinión Pública Nacional - Julio 2024|url=https://www.cpi.pe/images/upload/paginaweb/archivo/23/INFORME%20OP%20NACIONAL%20JULIO%202024.pdf|access-date=21 July 2025|website=CPI}}</ref>
+|{{Opdrts|15|19|Jul|2024|year}}
+|1,370
+| style="background:#FFCD9C" |2.2
+|1.0
+|1.3
+|–
+| style="background:#98FB98" |'''2.5'''
+|1.8
+|–
+|1.6
+|–
+|–
+|–
+|23.6{{efn|Including [[Martín Vizcarra]] at 4.1%, [[Alberto Fujimori]] at 2.5%, [[Pedro Castillo]] at 1.9%, [[Carlos Bruce]] at 1.7%, [[Álvaro Paz de la Barra]] at 1.6%, [[Carlos Añaños]] at 1.5%, [[Salvador del Solar]] at 1.3%, [[Yonhy Lescano]] at 1.1%, and [[Arturo Fernández Bazán]] at 1.0%}}
+|11.9
+|53.9
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Estudio de Opinión: Informe de Resultados Julio, 2024|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2024-07/Encuesta%20Ipsos%20para%20domingo%2021-%20Web.pdf|access-date=18 August 2024 |website=Ipsos}}</ref>
+|{{Opdrts|17|18|Jul|2024|year}}
+|1,218
+| style="background:#FFCD9C" |'''10'''
+| style="background:#FFD0D7"|6
+|2
+|3
+|4
+|2
+|3
+|2
+|2
+|2
+|2
+|17{{efn|Including [[José Luna]] at 2%, [[Rafael Belaúnde]] at 2%, [[Guido Bellido]] at 2%, and [[Yonhy Lescano]] at 2%}}
+|21
+|24
+|-
+|Ipsos Perú/50+Uno<ref>{{Cite web|title=Encuesta privada de Ipsos para la consultora 50+1|url=https://x.com/paolobenza/status/1804601406151889198|access-date=20 July 2025|website=X}}</ref>
+|25 May–2 Jun 2024
+|1,200
+| style="background:#FFCD9C" |'''17.5'''
+| style="background:#FFD0D7"|4.0
+|2.9
+|–
+|–
+|8.1
+|4.0
+|0.5
+|–
+|2.9
+|3.7
+|21.6{{efn|Including [[Martín Vizcarra]] at 12.3%, [[Yonhy Lescano]] at 5.9%, [[Carlos Añaños]] at 1.3%, [[Alberto Otárola]] at 1.0%, [[Carlos Neuhaus]] at 0.8%, and [[Vladimir Cerrón]] at 0.3}}
+|13.3
+|21.5
+|-
+|IEP/La República<ref>{{Cite web |title=IEP Informe de opinión de marzo 2024 - (informe completo) |url=https://iep.org.pe/wp-content/uploads/2024/03/IEP-Informe-de-opinion-marzo-de-2024-completo.pdf |access-date=9 April 2024 |website=iep.org.pe}}</ref>
+|{{Opdrts|16|21|Mar|2024|year}}
+|1,207
+| style="background:#FFCD9C" |'''4.4'''
+|2.1
+|–
+|–
+| style="background:#98FB98" |2.3
+|1.0
+|–
+|1.7
+|–
+|–
+|0.7
+|17.0{{efn|Including [[Martín Vizcarra]] at 3.3%, [[Pedro Castillo]] at 3.3%, [[Arturo Fernández (politician)|Arturo Fernández]] at 0.8%, [[Salvador del Solar]] at 0.7%, [[Alberto Fujimori]] at 0.7%, Ulises Villegas at 0.7%, [[Yonhy Lescano]] at 0.6%, Ulises Villegas at 0.4% and [[Fiorella Molinelli]] at 0.2%}}
+|26.8
+|44.0
+|-
+|Sensor<ref>{{Cite web |title=Estudio de Opinión pública Febrero 2023 |url=https://sensor.pe/wp-content/uploads/2024/02/Sensor-OpFeb2024.pdf |access-date=9 April 2024 |website=sensor.pe}}</ref>
+|{{Opdrts|19|23|Feb|2024|year}}
+|1,200
+| style="background:#FFCD9C" |'''6.3'''
+| style="background:#FFD0D7"|3.7
+|–
+|–
+|1.3
+|2.9
+|2.5
+|–
+|–
+|–
+|1.7
+|20.2{{efn|Including [[Yonhy Lescano]] at 3.2%, [[Daniel Urresti]] at 1.3%, [[Fernando Cillóniz]] at 1.2%, [[Julio Guzmán]] at 0.8%, [[Susel Paredes]] at 0.6%, Ulises Villegas at 0.4% and [[Fiorella Molinelli]] at 0.2%}}
+|–
+|61.5
+|}
+
+====2023====
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |<small>Pollster / Client</small>
+! rowspan="4" |<small>Date</small>
+! rowspan="4" |<small>Sample size</small>
+! 
+![[File:Martin Vizcarra en 2018.jpg|70x70px]]
+! 
+![[File:Hernando de Soto (cropped).jpg|70x70px]]
+![[File:Rafael López Aliaga 2024.jpg|70x70px]]
+![[File:Verónika_Fanny_Mendoza_Frisch.jpg|70x70px]]
+![[File:Alfonso López-Chau.jpg|70x70px]]
+![[File:César Acuña Peralta.jpg|70x70px]]
+![[File:Francisco_Sagasti_Hochhausler.jpg|70x70px]]
+![[File:Juramentación de nuevo Gabinete Ministerial 3-45 screenshot - Aníbal Torres (cropped).png|70x70px]]
+! class="unsortable" rowspan="4" |<small>Other</small>
+! class="unsortable" rowspan="4" |<small>Blank / None</small>
+! class="unsortable" rowspan="4" |<small>Undecided</small>
+|-
+!{{small|[[Keiko Fujimori|Fujimori]]}}
+!{{small|[[Martín Vizcarra|Vizcarra]]}}
+!{{small|[[Antauro Humala|Humala]]}}
+!{{small|[[Hernando de Soto (economist)|de Soto]]}}
+!{{small|[[Rafael López Aliaga|López Aliaga]]}}
+!{{small|[[Verónika Mendoza|Mendoza]]}}
+!{{small|[[Alfonso López-Chau|López-Chau]]}}
+!{{small|[[César Acuña|Acuña]]}}
+!{{small|[[Francisco Sagasti|Sagasti]]}}
+!{{small|[[Aníbal Torres|Torres]]}}
+|-
+!<small>[[Popular Force|FP]]</small>
+!<small>[[Peru First|P1]]</small>
+!<small>[[National Alliance of Workers, Farmers, University Students, and Reservists|ANTAURO]]</small>
+!<small>[[Progresemos|Prog.]]</small>
+!<small>[[Popular Renewal|RP]]</small>
+!<small>[[New Peru for Good Living|NP]]</small>
+!<small>[[Now Nation|AN]]</small>
+!<small>[[Alliance for Progress (Peru)|APP]]</small>
+!<small>[[Purple Party|PM]]</small>
+!<small>[[Forward United People|APU]]</small>
+|-
+! style="color:inherit;background:{{party color|Popular Force}};” |
+! style="color:inherit;background:{{party color|Peru First}};” |
+! style="color:inherit;background:{{Party color|National Alliance of Workers, Farmers, University Students, and Reservists}};" |
+! style="color:inherit;background:{{Party color|Progresemos}};" |
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:{{party color|New Peru for Good Living}};" |
+! style="color:inherit;background:{{party color|Now Nation}};" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+! style="color:inherit;background:{{party color|Purple Party}};" |
+! style="color:inherit;background:#AF3A05;” |
+|-
+|IEP/La República<ref>{{Cite web |title=IEP Informe de Opinión – Diciembre 2023 (Informe completo) |url=https://iep.org.pe/wp-content/uploads/2023/12/IEP-Informe-de-Opinion-Diciembre-2023-completo.pdf |access-date=2 January 2024 |website=iep.org.pe}}</ref>
+|{{Opdrts|8|13|Dec|2023|year}}
+|1,210
+| style="background:#FFCD9C" |'''4.1'''
+| style="background:#FFD0D7"|3.0
+|1.0
+|1.8
+|1.2
+|0.6
+|–
+|–
+|–
+|–
+|13.4{{efn|Including [[Pedro Castillo]] at 4.3%, [[Yonhy Lescano]] at 1.1%, [[Salvador del Solar]] at 0.7%, [[Alberto Fujimori]] at 0.4% and [[Roberto Chiabra]] at 0.4%}}
+|27.6
+|47.5
+|-
+|CPI<ref>{{Cite web |title=Estudio de Opinión Pública Nacional Perú Urbano Rural Campo: 13 al 18 de noviembre de 2023 |url=https://cpi.pe/images/upload/paginaweb/archivo/23/OP_NACIONAL_NOVIEMBRE23.pdf |access-date=2 January 2024 |website=cpi.pe}}</ref>
+|{{Opdrts|13|18|Nov|2023|year}}
+|1,200
+| style="background:#FFCD9C" |2.7
+|2.4
+|1.4
+|2.6
+| style="background:#ACEBFF" |'''3.2'''
+|0.8
+|0.2
+|0.4
+|0.9
+|–
+|10.8{{efn|Including [[Pedro Castillo]] at 1.9%, [[Yonhy Lescano]] at 0.8%, [[Carlos Añaños]] at 0.3% and [[Carlos Álvarez (comedian)|Carlos Álvarez]] at 0.1%}}
+|15.5
+|59.1
+|-
+|CPI/RPP<ref>{{Cite web |title=Peru, CPI Poll: Presidential election (open question)
+|url=https://cpi.pe/images/upload/paginaweb/archivo/23/ENCUESTA%20DE%20OPINI%C3%93N%20P%C3%9ABLICA%20JULIO%20-%202023.pdf}}</ref>
+|{{Opdrts|11|15|Jul|2023|year}}
+|1,200
+|4.8
+|–
+| style="background:#FFD0D7"|5.6
+|4.6
+| style="background:#ACEBFF" |'''9.8'''
+|2.4
+|–
+|–
+|2.7
+|–
+|8.5
+|20.6
+|41.0
+|-
+|CIT/Expreso<ref>{{cite web |title=Encuesta Nacional Urbano Rural – Aprobación Gubernamental de Junio |url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-aprobacion-gubernamental-de-junio-2023/ |access-date=26 August 2023 |website=citopinion.pe|date=28 June 2023}}</ref>
+|{{Opdrts|29|31|May|2023|year}}
+|1,200
+| style="background:#FFCD9C" |9.6
+|–
+|7.3
+|8.2
+| style="background:#ACEBFF" |'''12.8'''
+|3.2
+|–
+|–
+|4.3
+|–
+|9.9
+|–
+|45.0
+|-
+|CPI/RPP<ref>{{Cite web |title=Estudio de Opinión Pública Nacional - Perú Urbano Rural (Campo: 23 al 28 de abril de 2023) |url=https://cpi.pe/images/upload/paginaweb/archivo/23/Informe%20de%20Opini%C3%B3n%20P%C3%BAblica%20abril%202023.pdf|access-date=7 May 2023|website=cpi.pe}}</ref>
+|{{Opdrts|23|28|Apr|2023|year}}
+|1,200
+| style="background:#FFCD9C" |6.3
+|–
+|5.8
+|5.6
+| style="background:#ACEBFF" |'''9.1'''
+|2.6
+|–
+|–
+|2.2
+|2.7
+|11.7
+|18.3
+|35.7
+|-
+|CIT/Expreso<ref>{{Cite web |title=Encuesta Nacional Urbano Rural – Aprobación Gubernamental |url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-aprobacion-gubernamental-de-abril/ |access-date=17 May 2023 |website=citopinion.pe|date=28 April 2023}}</ref>
+|{{Opdrts|20|22|Apr|2023|year}}
+|1,200
+| style="background:#FFCD9C" |9.6
+|–
+|7.5
+|8.6
+| style="background:#ACEBFF" |'''13.5'''
+|1.4
+|–
+|–
+|–
+|–
+|22.2
+|19.2
+|18.0
+|-
+|CPI/RPP<ref>{{Cite web |title=Estudio de Opinión Pública Nacional - Perú Urbano Rural (Campo: 07 al 10 de marzo de 2023) |url=https://cpi.pe/images/upload/paginaweb/archivo/23/INFORME%20OPINI%C3%93N%20P%C3%99BLICA%20NACIONAL%20-%20MARZO%202023.pdf |access-date=14 March 2023 |website=cpi.pe}}</ref>
+|{{Opdrts|7|10|Mar|2023|year}}
+|1,200
+|3.1
+|2.3
+|3.7
+| style="background:#98FB98" |5.1
+| style="background:#ACEBFF" |'''8.2'''
+|2.0
+|–
+|–
+|2.1
+|1.0
+|10.1{{efn|Including [[Pedro Castillo]] at 2.2% and [[Álvaro Paz de la Barra]] at 1.6%}}
+|16.9
+|46.5
+|-
+|IEP/La República<ref name="iep-feb232">{{cite web|date=26 February 2023|title=IEP Informe de Opinión – Febrero 2023 (Informe completo)|url=https://iep.org.pe/wp-content/uploads/2023/02/Informe-IEP-OP-Febrero-2023.-Informe-completo.pdf|website=iep.org.pe}}<!-- auto-translated by Module:CS1 translator --></ref>
+|{{Opdrts|18|22|Feb|2023|year}}
+|1,201
+|2.4
+|2.0
+|1.3
+|4.2
+| style="background:#ACEBFF" |2.8
+|1.1
+| style="background:#F7D4D5" |'''4.5'''
+|–
+|0.2
+|2.1
+|9.3{{efn|Including [[Pedro Castillo]] at 2.1%, [[Yonhy Lescano]] at 1.2%, [[Daniel Urresti]] at 0.8%, [[Salvador del Solar]] at 0.5%, [[Cecilia García (politician)|Cecilia García]] at 0.4%, [[Ricardo Belmont]] at 0.4%, [[César Acuña]] at 0.3%, [[George Forsyth (footballer)|George Forsyth]] at 0.1% and [[Ollanta Humala]] at 0.1%}}
+|21.7
+|49.4
+|-
+|CIT/Expreso<ref>{{Cite web |title=Encuesta Nacional Urbano Rural – Aprobación Gubernamental – CIT Opinion |url=https://www.citopinion.pe/wp-content/uploads/2023/02/ENCUESTA-CIT-FEB-2023.pdf|access-date=21 July 2025|language=es}}</ref>
+|{{Opdrts|16|18|Feb|2023|year}}
+|1,200
+|–
+|–
+|9.3
+| style="background:#98FB98" |9.4
+| style="background:#ACEBFF" |'''11.8'''
+|2.0
+|–
+|–
+|–
+|–
+|22.2
+|24.0
+|21.2
+|-
+|CPI/RPP<ref>{{Cite web |title=Estudio de Opinión Pública Nacional - Perú Urbano Rural (Campo: 24 al 27 de enero 2023) |url=https://cpi.pe/images/upload/paginaweb/archivo/23/CPI%20-%20Informe%20%20OP%20Enero%202023.pdf |access-date=30 January 2023 |website=cpi.pe}}</ref>
+|{{Opdrts|24|27|Jan|2023|year}}
+|1,200
+|3.2
+|2.4
+|1.6
+| style="background:#98FB98" |5.2
+| style="background:#ACEBFF" |'''8.6'''
+|1.1
+|–
+|–
+|0.7
+|1.4
+|11.2
+|13.8
+|50.9
+|-
+|IEP/La República<ref>{{Cite web |last=Pereda |first=David |title=Un 73% del país: Que elecciones generales sean este mismo año |url=https://larepublica.pe/politica/actualidad/2023/01/29/dina-boluarte-73-del-pais-elecciones-generales-sean-mismo-ano-congreso-encuesta-iep-0 |access-date=29 January 2023 |website=La Republica |date=29 January 2023 |language=es}}</ref>
+|21–25 Jan 2023
+|1,214
+|2.1
+|1.5
+|1.1
+| style="background:#98FB98" |'''3.6'''
+| style="background:#ACEBFF" |3.3
+|1.7
+|0.8
+|–
+|0.8
+|0.9
+|8.3
+|17.3
+|58.8
+|-
+|CIT/Expreso<ref>{{Cite web |title=Encuesta Nacional Urbano Rural – Aprobación Gubernamental – CIT Opinion |url=https://www.citopinion.pe/wp-content/uploads/2023/01/ENCUESTA-OP-ENERO-2023.pdf|access-date=21 July 2025|language=es}}</ref>
+|18–20 Jan 2023
+|1,200
+|–
+|–
+| style="background:#FFD0D7"|9.8
+|9.3
+| style="background:#ACEBFF" |'''12.2'''
+|2.0
+|–
+|–
+|–
+|–
+|21.0
+|22.0
+|23.8
+|}
+
+====2022====
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |<small>Pollster / Client</small>
+! rowspan="4" |<small>Date</small>
+! rowspan="4" |<small>Sample size</small>
+![[File:Rafael López Aliaga 2024.jpg|70x70px]]
+! 
+![[File:Hernando de Soto (cropped).jpg|70x70px]]
+! 
+![[File:Martin Vizcarra en 2018.jpg|70x70px]]
+![[File:Verónika_Fanny_Mendoza_Frisch.jpg|70x70px]]
+![[File:Francisco_Sagasti_Hochhausler.jpg|70x70px]]
+![[File:Yonhy Lescano 2012 (cropped).jpg|70x70px]]
+![[File:Ex ministro de defensa en Fórum (cropped).jpg|70x70px]]
+![[File:César Acuña Peralta.jpg|70x70px]]
+! class="unsortable" rowspan="4" |<small>Other</small>
+! class="unsortable" rowspan="4" |<small>Blank / None</small>
+! class="unsortable" rowspan="4" |<small>Undecided</small>
+|-
+!{{small|[[Rafael López Aliaga|López Aliaga]]}}
+!{{small|[[Antauro Humala|Humala]]}}
+!{{small|[[Hernando de Soto (economist)|de Soto]]}}
+!{{small|[[Keiko Fujimori|Fujimori]]}}
+!{{small|[[Martín Vizcarra|Vizcarra]]}}
+!{{small|[[Verónika Mendoza|Mendoza]]}}
+!{{small|[[Francisco Sagasti|Sagasti]]}}
+!{{small|[[Yonhy Lescano|Lescano]]}}
+!{{small|[[Roberto Chiabra|Chiabra]]}}
+!{{small|[[César Acuña|Acuña]]}}
+|-
+!<small>[[Popular Renewal|RP]]</small>
+!<small>[[National Alliance of Workers, Farmers, University Students, and Reservists|ANTAURO]]</small>
+!<small>[[Progresemos|Prog.]]</small>
+!<small>[[Popular Force|FP]]</small>
+!<small>[[Peru First|P1]]</small>
+!<small>[[New Peru for Good Living|NP]]</small>
+!<small>[[Purple Party|PM]]</small>
+!<small>[[Popular Action (Peru)|AP]]</small>
+!<small>[[Unity and Peace|UyP]]</small>
+!<small>[[Alliance for Progress (Peru)|APP]]</small>
+|-
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:{{Party color|National Alliance of Workers, Farmers, University Students, and Reservists}};" |
+! style="color:inherit;background:{{Party color|Progresemos}};" |
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{party color|Peru First}};" |
+! style="color:inherit;background:{{party color|New Peru}};" |
+! style="color:inherit;background:{{party color|Purple Party}};" |
+! style="color:inherit;background:{{party color|Popular Action (Peru)}};" |
+! style="color:inherit;background:#EC3237;" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+|-
+|CPI<ref>{{Cite web |date=24 November 2022 |title=Estudio de Opinión Pública Nacional - Perú Urbano Rural (Campo: 16 al 20 de Noviembre de 2022) |url=https://cpi.pe/images/upload/paginaweb/archivo/23/ENCUESTA%20DE%20OPINION%20P%C3%9ABLICA%20NOVIEMBRE.pdf|website=cpi.pe |language= |quote=}}</ref>
+|16–20 Nov 2022
+|1,200
+| style="background:#ACEBFF" |'''9.7'''
+| style="background:#FFD0D7"|9.0
+|7.2
+|7.0
+|3.6
+|1.9
+|1.1
+|1.1
+|0.7
+|0.5
+|9.1
+|28.6
+|20.8
+|-
+|CPI<ref>{{Cite web|date=8 September 2022 |title=Estudio de Opinión Pública Nacional - Perú Urbano Rural (Campo: 05 al 08 de septiembre de 2022) |url=https://cpi.pe/images/upload/paginaweb/archivo/23/Informe%20OP%20del%205%20al%208%20de%20septiembre.pdf|website=cpi.pe|language=|quote=}}</ref>
+|6–9 Sep 2022
+|1,200
+| style="background:#ACEBFF" |5.9
+|5.3
+| style="background:#98FB98" |'''6.2'''
+|3.9
+|3.4
+|1.6
+|3.3
+|2.3
+|2.4
+|–
+|11.9
+|14.9
+|43.2
+|-
+|CPI<ref>{{Cite web |date=12 August 2022 |title=Estudio de Opinión Pública Nacional - Perú Urbano Rural (Campo: 3 al 10 de agosto de 2022) |url=https://cpi.pe/images/upload/paginaweb/archivo/23/OP%20AGOSTO%202022_.pdf |website=cpi.pe |language= |quote=}}</ref>
+|3–10 Aug 2022
+|1,200
+| style="background:#ACEBFF" |4.2
+|1.5
+| style="background:#98FB98" |'''4.8'''
+|3.6
+|2.2
+|1.9
+|1.6
+|1.8
+|1.3
+|–
+|12.4
+|8.5
+|58.7
+|-
+|CPI<ref>{{Cite web |date=6 July 2022 |title=Estudio de Opinión Pública Nacional - Perú Urbano Rural (Campo: 28 de junio al 2 de julio 2022) |url=https://cpi.pe/images/upload/paginaweb/archivo/23/OP_JUNIO_2022.pdf |website=cpi.pe |language= |quote=}}</ref>
+|28 Jun–2 Jul 2022
+|1,128
+| style="background:#ACEBFF" |'''7.2'''
+|1.0
+| style="background:#98FB98" |5.0
+|4.8
+|2.0
+|2.3
+|1.1
+|1.8
+|1.0
+|–
+|9.5
+|13.0
+|54.1
+|}
+
+==Parliamentary election==
+
+===Senate (at national level)===
+
+====Voting simulations====
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:90%; line-height:16px;"
+|- style="height:42px;"
+! rowspan="2" |<small>Pollster / Client</small>
+! rowspan="2" |<small>Date</small>
+! rowspan="2" |<small>Sample size</small>
+! style="width:30px;" | [[File:Logo of the Popular Force (2024).svg|25x25px|link=Popular Force]]
+! style="width:30px;" | [[File:Logo Renovación Popular 2023.png|25x25px|link=Popular Renewal]]
+! style="width:30px;" | [[File:Logo juntos por el Peru.svg|25x25px|link=Together for Peru]]
+! style="width:30px;" | [[File:Alianza para el Progreso Peru.svg|25x25px|link=Alliance for Progress (Peru)]]
+! style="width:30px;" | [[File:PBG Logo.jpg|25x25px|link=Party of Good Government]]
+! style="width:30px;" | [[File:Logo Ahora Nación 2026.jpg|25x25px|link=Now Nation]]
+! style="width:30px;" | [[File:Logo_Podemos_Perú.png|25x25px|link=Podemos Perú]]
+! style="width:30px;" | [[Country for All]]
+! style="width:30px;" | [[File:Logo Partido Democrático Somos Perú.svg|25x25px|link=We Are Peru]]
+! style="width:30px;" | [[File:Logo Alianza Electoral Venceremos.png|25x25px|link=Venceremos Electoral Alliance]]
+! style="width:30px;" | [[Democratic Integrity]]
+! style="width:30px;" | [[File:Logo Cooperacion Popular Peru.png|25x25px|link=Popular Cooperation]]
+! style="width:30px;" | [[File:Perú Libre logo.svg|25x25px|link=Free Peru]]
+! style="width:30px;" | [[File:Partido Civico OBRAS.png|25x25px|link=OBRAS Civic Party]]
+! style="width:30px;" | [[File:APRA Peru logo.svg|25x25px|link=American Popular Revolutionary Alliance]]
+! style="width:30px;" | [[Go on Country – Social Integration Party (2017)|AvP]]
+! style="width:30px;" | [[File:Logo de Perú Primero.png|25x25px|link=Peru First]]
+! style="width:28px;" rowspan="2"|<small>Other</small>
+! style="width:28px;" rowspan="2"|<small>Blank / None</small>
+! style="width:28px;" rowspan="2"|<small>Lead</small>
+|-
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:{{party color|Together for Peru}};" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+! style="color:inherit;background:#FFD300;" |
+! style="color:inherit;background:{{party color|Now Nation}};" |
+! style="color:inherit;background:{{party color|Podemos Perú}};" |
+! style="color:inherit;background:#FFC700;" |
+! style="color:inherit;background:{{party color|We Are Peru}};" |
+! style="color:inherit;background:{{party color|New Peru}};" |
+! style="color:inherit;background:#4882AA;" |
+! style="color:inherit;background:#0267AF;" |
+! style="color:inherit;background:{{party color|Free Peru}};" |
+! style="color:inherit;background:#006400;" |
+! style="color:inherit;background:{{party color|American Popular Revolutionary Alliance}};" |
+! style="color:inherit;background:{{party color|Go on Country}};" |
+! style="color:inherit;background:{{party color|Peru First}};" |
+|-
+|Ipsos Perú/Perú21<ref>{{Cite news|date=4 April 2026|title=Encuesta Ipsos: Cambio de posiciones de los candidatos al empezar la semana definitiva|url=https://peru21.pe/politica/encuesta-ipsos-cambio-de-posiciones-de-los-candidatos-al-empezar-la-semana-definitiva/|work=Perú21|first=Luis|last=Villanueva}}</ref><br/>{{small|(Valid votes)}}
+|1–2 Apr 2026
+|1,192
+| style="background:#FFCD9C"| '''17.1'''
+|10.5
+|9.7
+|5.9
+|5.0
+|4.4
+|–
+|9.3
+|–
+|–
+|–
+|3.0
+|–
+|4.3
+|–
+|–
+|–
+|30.8{{efn|Including [[First the People]] at 3.3% and [[IBelieve Party]] at 3.0%.}}
+|{{Celda|N/A}}
+| style="background:{{party color|Popular Force}}" | {{color|white|6.6}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite news|date=4 April 2026|title=Encuesta Ipsos: Cambio de posiciones de los candidatos al empezar la semana definitiva|url=https://peru21.pe/politica/encuesta-ipsos-cambio-de-posiciones-de-los-candidatos-al-empezar-la-semana-definitiva/|work=Perú21|first=Luis|last=Villanueva}}</ref><br/>{{small|(Cast votes)}}
+|1–2 Apr 2026
+|1,192
+| style="background:#FFCD9C"| '''11.0'''
+|6.8
+|6.2
+|3.8
+|3.2
+|2.9
+|–
+|6.0
+|–
+|–
+|–
+|1.9
+|–
+|2.8
+|–
+|–
+|–
+|19.9{{efn|Including [[First the People]] at 2.2% and [[IBelieve Party]] at 1.9%.}}
+|35.5
+| style="background:{{party color|Popular Force}}" | {{color|white|0.8}}
+|-
+|Datum Internacional/América TV<ref>{{Cite news|date=22 March 2026|title=Plan de Estudios de Opinión Pública Informe Electoral Marzo 2026|url=https://www.datum.com.pe/new_web_files/files/opinion/587v3-1225%20-%20Encuesta%20y%20Simulcaro%20MEDIO%20Marzo%202026%20(25-27%20marzo)%20-%20Informe%20(002)_260330091848.pdf|website=Datum Internacional|first=|last=}}</ref><br/>{{small|(Valid votes)}}
+|25–27 Mar 2026
+|1,102
+| style="background:#FFCD9C"| '''16.9'''
+|12.3
+|7.9
+|6.7
+|6.5
+|6.7
+|3.3
+|6.8
+|4.2
+|–
+|–
+|–
+|3.5
+|2.0
+|2.5
+|–
+|–
+|20.7{{efn|Including [[FREPAP]] at 0.9%.}}
+|{{Celda|N/A}}
+| style="background:{{party color|Popular Force}}" | {{color|white|4.6}}
+|-
+|Datum Internacional/América TV<ref>{{Cite news|date=22 March 2026|title=Plan de Estudios de Opinión Pública Informe Electoral Marzo 2026|url=https://www.datum.com.pe/new_web_files/files/opinion/587v3-1225%20-%20Encuesta%20y%20Simulcaro%20MEDIO%20Marzo%202026%20(25-27%20marzo)%20-%20Informe%20(002)_260330091848.pdf|website=Datum Internacional|first=|last=}}</ref><br/>{{small|(Cast votes)}}
+|25–27 Mar 2026
+|2,000
+| style="background:#FFCD9C"| '''9.3'''
+|6.8
+|4.3
+|3.7
+|3.6
+|3.7
+|1.8
+|3.8
+|2.3
+|–
+|–
+|–
+|1.9
+|1.1
+|1.4
+|–
+|–
+|11.3{{efn|Including [[FREPAP]] at 0.5%.}}
+|45.0
+| style="background:{{party color|Popular Force}}" | {{color|white|2.5}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite news|date=26 March 2026|title=Encuesta Ipsos: Hasta el momento, seis partidos pasarían la valla para el Senado|url=https://peru21.pe/politica/encuesta-ipsos-hasta-el-momento-seis-partidos-pasarian-la-valla-para-el-senado/|work=Perú21|first=Patricia|last=Quispe}}</ref><br/>{{small|(Valid votes)}}
+|21–22 Mar 2026
+|1,189
+| style="background:#FFCD9C"| '''14.6'''
+|13.2
+|9.6
+|7.2
+|5.8
+|5.5
+|4.3
+|3.9
+|3.8
+|3.2
+|2.7
+|2.5
+|2.4
+|2.4
+|–
+|–
+|–
+|18.9
+|{{Celda|N/A}}
+| style="background:{{party color|Popular Force}}" | {{color|white|1.4}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite news|date=26 March 2026|title=Encuesta Ipsos: Hasta el momento, seis partidos pasarían la valla para el Senado|url=https://peru21.pe/politica/encuesta-ipsos-hasta-el-momento-seis-partidos-pasarian-la-valla-para-el-senado/|work=Perú21|first=Patricia|last=Quispe}}</ref><br/>{{small|(Cast votes)}}
+|21–22 Mar 2026
+|1,189
+| style="background:#FFCD9C"| '''8.8'''
+|8.0
+|5.8
+|4.4
+|3.5
+|3.3
+|2.6
+|2.4
+|2.3
+|2.0
+|1.6
+|1.5
+|1.5
+|1.4
+|–
+|–
+|–
+|11.5
+|39.4
+| style="background:{{party color|Popular Force}}" | {{color|white|0.8}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Ipsos: La intención de voto al Senado se fragmenta y ningún partido despega|website=Ipsos Perú|date=|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/25-105353-01INF_V1_12Mar26%20%28P21%20Senado%20Nacional%20-%20PUBLICACI%C3%93N%29.pdf|access-date=22 March 2026|last=|first=}}</ref><br/>{{small|(Valid votes)}}
+|5–6 Mar 2026
+|1,182
+| style="background:#FFCD9C"| '''13.6'''
+|12.1
+|2.7
+|9.1
+|3.6
+|6.2
+|3.1
+|7.0
+|3.1
+|–
+|4.3
+|–
+|2.8
+|–
+|2.7
+|3.1
+|2.9
+|23.7
+|{{Celda|N/A}}
+| style="background:{{party color|Popular Force}}" | {{color|white|1.5}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Ipsos: La intención de voto al Senado se fragmenta y ningún partido despega|website=Ipsos Perú|date=|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/25-105353-01INF_V1_12Mar26%20%28P21%20Senado%20Nacional%20-%20PUBLICACI%C3%93N%29.pdf|access-date=22 March 2026|last=|first=}}</ref><br/>{{small|(Cast votes)}}
+|5–6 Mar 2026
+|1,182
+| style="background:#FFCD9C"| '''7.9'''
+|7.0
+|1.5
+|5.3
+|2.1
+|3.6
+|1.8
+|4.1
+|1.8
+|–
+|2.5
+|–
+|1.6
+|–
+|1.6
+|1.8
+|1.7
+|13.7
+|42.0
+| style="background:{{party color|Popular Force}}" | {{color|white|0.9}}
+|-
+|}
+
+====2026====
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:90%; line-height:16px;"
+|- style="height:42px;"
+! rowspan="2" |<small>Pollster / Client</small>
+! rowspan="2" |<small>Date</small>
+! rowspan="2" |<small>Sample size</small>
+! style="width:30px;" | [[File:Logo of the Popular Force (2024).svg|25x25px|link=Popular Force]]
+! style="width:30px;" | [[File:Logo Renovación Popular 2023.png|25x25px|link=Popular Renewal]]
+! style="width:30px;" | [[File:Logo Partido Democrático Somos Perú.svg|25x25px|link=We Are Peru]]
+! style="width:30px;" | [[File:Alianza para el Progreso Peru.svg|25x25px|link=Alliance for Progress (Peru)]]
+! style="width:30px;" | [[Go on Country – Social Integration Party (2017)|AvP]]
+! style="width:30px;" | [[File:Perú Libre logo.svg|25x25px|link=Free Peru]]
+! style="width:30px;" | [[File:PBG Logo.jpg|25x25px|link=Party of Good Government]]
+! style="width:30px;" | [[File:Logo juntos por el Peru.svg|25x25px|link=Together for Peru]]
+! style="width:30px;" | [[File:Logo Ahora Nación 2026.jpg|25x25px|link=Now Nation]]
+! style="width:30px;" | [[File:Logo_Podemos_Perú.png|25x25px|link=Podemos Perú]]
+! style="width:30px;" | [[File:APRA Peru logo.svg|25x25px|link=American Popular Revolutionary Alliance]]
+! style="width:30px;" | [[Country for All]]
+! style="width:30px;" | [[File:Logo of the Agricultural People's Front of Peru.png|25x25px|link=Agricultural People's Front of Peru]]
+! style="width:30px;" | [[Democratic Integrity]]
+! style="width:30px;" | [[File:Logo de Perú Primero.png|25x25px|link=Peru First]]
+! style="width:28px;" rowspan="2"|<small>Other</small>
+! style="width:28px;" rowspan="2"|<small>Blank / None</small>
+! style="width:28px;" rowspan="2"|<small>Undecided</small>
+! style="width:28px;" rowspan="2"|<small>Lead</small>
+|-
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:{{party color|We Are Peru}};" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+! style="color:inherit;background:{{party color|Go on Country}};" |
+! style="color:inherit;background:{{party color|Free Peru}};" |
+! style="color:inherit;background:#FFD300;" |
+! style="color:inherit;background:{{party color|Together for Peru}};" |
+! style="color:inherit;background:{{party color|Now Nation}};" |
+! style="color:inherit;background:{{party color|Podemos Perú}};" |
+! style="color:inherit;background:{{party color|American Popular Revolutionary Alliance}};" |
+! style="color:inherit;background:#FFC700;" |
+! style="color:inherit;background:{{party color|Agricultural People's Front of Peru}};" |
+! style="color:inherit;background:#4882AA;" |
+! style="color:inherit;background:{{party color|Peru First}};" |
+|-
+|Ipsos Perú/Perú 21<ref>{{Cite news|title=Esta es la última encuesta que nos permiten publicar. Ipsos para Perú21 y Latina|work=Perú21|date=5 April 2026 |url=https://peru21.pe/politica/esta-es-la-ultima-encuesta-que-nos-permiten-publicar-ipsos-para-peru21-y-latina/|last=Monzón Kcomt|first=Ricardo|language=es |quote=}}</ref>
+|{{Opdrts|3|4|Apr|2026|year}}
+|1,205
+| style="background:#FFCD9C"| '''9'''
+|5
+|2
+|5
+|2
+|–
+|3
+|5
+|4
+|3
+|2
+|5
+|–
+|–
+|–
+|21{{efn|Including [[OBRAS Civic Party]] at 5% and [[First the People]] at 2%.}}
+|15
+|19
+| style="background:{{party color|Popular Force}}" | {{color|white|4}}
+|-
+|Datum Internacional/América TV<ref>{{Cite news|date=22 March 2026|title=Plan de Estudios de Opinión Pública Informe Electoral Marzo 2026|url=https://www.datum.com.pe/new_web_files/files/opinion/587v3-1225%20-%20Encuesta%20y%20Simulcaro%20MEDIO%20Marzo%202026%20(25-27%20marzo)%20-%20Informe%20(002)_260330091848.pdf|website=Datum Internacional|first=|last=}}</ref>
+|{{Opdrts|25|27|Mar|2026|year}}
+|2,000
+| style="background:#FFCD9C"| '''9.4'''
+|8.0
+|2.6
+|5.8
+|1.3
+|2.3
+|4.6
+|6.1
+|4.6
+|3.1
+|2.7
+|4.0
+|2.0
+|1.4
+|1.1
+|11.7{{efn|Including [[Progresemos]] at 1.1%, [[Popular Cooperation]] at 1.0%, [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 1.0%, [[Venceremos Electoral Alliance]] at 1.0%, [[Democratic Green Party (Peru)|Democratic Green Party]] at 0.9%, [[Front of Hope 2021]] at 0.9%, [[IBelieve Party]] at 0.7%,  [[United Peru Democratic Party]] at 0.6%, [[National Unity (Peru, 2025)|National Unity]] at 0.5%, [[People's Liberty]] at 0.5%, [[Faith in Peru]] at 0.2%, [[Purple Party]] at 0.5%, [[A Different Path]] at 0.5%, [[Purple Party]] at 0.4%, [[Modern Peru]] at 0.4%, [[Peru Action]] at 0.4%, [[Patriotic Party of Peru]] a 0.3%, [[Force and Liberty]] at 0.3%, [[Federal Democratic Party]] at 0.3%, [[Let's Save Peru]] at 0.2%, [[Workers and Entrepreneurs Party]] at 0.1%, and [[Regionalist Party of National Integration]] at 0.1%.}}
+|12.8
+|14.9
+| style="background:{{party color|Popular Force}}" | {{color|white|0.9}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite news|title=Encuesta Ipsos: Hasta el momento, seis partidos pasarían la valla para el Senado|work=Perú21|date=26 March 2026|url=https://peru21.pe/politica/encuesta-ipsos-hasta-el-momento-seis-partidos-pasarian-la-valla-para-el-senado/|access-date=26 March 2026|last=|first=}}</ref>
+|{{Opdrts|21|22|Mar|2026|year}}
+|1,203
+| style="background:#FFCD9C"| '''8'''
+|6
+|3
+|5
+|–
+|2
+|3
+|4
+|4
+|2
+|2
+|3
+|2
+|–
+|–
+|15
+|21
+|20
+| style="background:{{party color|Popular Force}}" | {{color|white|2}}
+|-
+|Datum Internacional/El Comercio<ref>{{Cite news|date=22 March 2026|title=Encuesta Datum: El 57% de los electores aún no ha decidido su voto|url=https://elcomercio.pe/politica/encuesta-datum-internacional-marzo-2026-el-57-de-los-electores-aun-no-ha-decidido-su-voto-elecciones-2026-tlcnota-noticia/|work=El Comercio|first=Alexander|last=Villarroel Zurita}}</ref>
+|{{Opdrts|13|17|Mar|2026|year}}
+|1,500
+| style="background:#FFCD9C"| '''8.2'''
+|7.3
+|3.2
+|4.7
+|1.4
+|2.0
+|3.5
+|3.5
+|4.8
+|2.7
+|1.9
+|1.5
+|1.5
+|1.0
+|0.8
+|8.2{{efn|Including [[Venceremos Electoral Alliance]] at 0.9%, [[OBRAS Civic Party]] at 0.9%, [[People's Liberty]] at 0.7%, [[National Unity (Peru, 2025)|National Unity]] at 0.7%, [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 0.7%, [[Force and Liberty]] at 0.7%, [[United Peru Democratic Party]] at 0.5%, [[Front of Hope 2021]] at 0.5%, [[Purple Party]] at 0.5%, [[A Different Path]] at 0.4%, [[Popular Cooperation]] at 0.4%, [[Let's Save Peru]] at 0.2%, [[Faith in Peru]] at 0.2%, [[Democratic Green Party (Peru)|Democratic Green Party]] at 0.2%, [[Modern Peru]] at 0.2%, [[Regionalist Party of National Integration]] at 0.1%, [[Federal Democratic Party]] at 0.1%, [[Patriotic Party of Peru]] a 0.1%, [[Workers and Entrepreneurs Party]] at 0.1%, [[Peru Action]] at 0.1%, and [[IBelieve Party]] at 0.0%.}}
+|16.8
+|25.7
+| style="background:{{party color|Popular Force}}" | {{color|white|0.9}}
+|-
+|Datum Internacional/América TV<ref>{{Cite web|access-date=22 March 2026|title=Plan de Estudios de Opinión Pública. Marzo II - Informe Electoral. 06 al 10 de Marzo 2026 - América Televisión|url=https://www.datum.com.pe/new_web_files/files/opinion/Encuesta%20MARZO%20Ad%20Hoc%202026%20-%20Informe%20v1%20(002)_260315103117.pdf|website=Datum Internacional}}</ref>
+|{{Opdrts|6|10|Mar|2026|year}}
+|1,502
+| style="background:#FFCD9C"| '''7.7'''
+|6.7
+|3.0
+|4.8
+|1.8
+|1.8
+|2.2
+|3.1
+|3.2
+|3.2
+|2.0
+|1.5
+|1.8
+|1.9
+|0.8
+|9.7{{efn|Including [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 1.1%, [[Progresemos]] at 0.8%, [[Venceremos Electoral Alliance]] at 0.8%, [[Front of Hope 2021]] at 0.6%, [[People's Liberty]] at 0.6%, [[Democratic Green Party (Peru)|Democratic Green Party]] at 0.5%, [[OBRAS Civic Party]] at 0.5%, [[IBelieve Party]] at 0.5%, [[Popular Cooperation]] at 0.5%, [[Purple Party]] at 0.5%, [[A Different Path]] at 0.4%, [[Patriotic Party of Peru]] a 0.3%, [[Peru Action]] at 0.3%, [[Regionalist Party of National Integration]] at 0.3%, [[National Unity (Peru, 2025)|National Unity]] at 0.3%, [[Federal Democratic Party]] at 0.2%, [[Force and Liberty]] at 0.2%, [[United Peru Democratic Party]] at 0.1%, [[Faith in Peru]] at 0.1%, and [[Workers and Entrepreneurs Party]] at 0.1%.}}
+|21.4
+|24.4
+| style="background:{{party color|Popular Force}}" | {{color|white|1.0}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Ipsos: La intención de voto al Senado se fragmenta y ningún partido despega|website=Ipsos Perú|date=|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2026-03/25-105353-01INF_V1_12Mar26%20%28P21%20Senado%20Nacional%20-%20PUBLICACI%C3%93N%29.pdf|access-date=22 March 2026|last=|first=}}</ref>
+|{{Opdrts|5|6|Mar|2026|year}}
+|1,202
+| style="background:#FFCD9C"| '''8'''
+|7
+|4
+|6
+|2
+|2
+|–
+|3
+|2
+|2
+|2
+|3
+|–
+|2
+|2
+|17{{efn|Including [[OBRAS Civic Party]] at 2%.}}
+|18
+|20
+| style="background:{{party color|Popular Force}}" | {{color|white|1}}
+|-
+|Datum Internacional/América TV<ref>{{Cite news|date=11 March 2026|title=Encuesta Datum: Empieza a moverse el tablero electoral a casi un mes de las elecciones|url=https://elcomercio.pe/politica/encuesta-datum-empieza-a-moverse-el-tablero-electoral-a-casi-un-mes-de-las-elecciones-keiko-fujimori-rafael-lopez-aliaga-alfonso-lopez-chau-carlos-alvarez-wolfgang-crozo-cesar-acuna-tlcnota-noticia/|work=El Comercio|access-date=12 March 2026|last=Villarroel Zurita|first=Alexander|quote=Keiko Fujimori rises in the polls to 10.7%, tying Rafael López Aliaga, who drops more than three points to 10%. César Acuña and Wolfgang Grozo also show gains, mainly among young voters.}}</ref>
+|{{Opdrts|27|4|Mar|2026|year}}
+|1,501
+| style="background:#FFCD9C"| '''8.1'''
+|6.3
+|4.1
+|5.8
+|1.4
+|1.5
+|0.9
+|3.9
+|2.5
+|2.8
+|2.3
+|1.6
+|1.7
+|2.2
+|1.2
+|10.3{{efn|Including [[People's Liberty]] at 0.9%, [[Progresemos]] at 0.9%, [[Popular Cooperation]] at 0.8%, [[Venceremos Electoral Alliance]] at 0.7%, [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 0.7%, [[OBRAS Civic Party]] at 0.6%, [[Let’s Save Peru]] at 0.6%, [[IBelieve Party]] at 0.5%, [[Front of Hope 2021]] at 0.5%, [[A Different Path]] at 0.5%, [[Purple Party]] at 0.5%, [[United Peru Democratic Party]] at 0.4%, [[Regionalist Party of National Integration]] at 0.4%, [[Patriotic Party of Peru]] a 0.4%, [[Force and Liberty]] at 0.4%, [[Peru Action]] at 0.3%, [[Faith in Peru]] at 0.3%, [[Modern Peru]] at 0.3%, [[National Unity (Peru, 2025)|National Unity]] at 0.2%, [[Democratic Green Party (Peru)|Democratic Green Party]] at 0.2%, [[Federal Democratic Party]] at 0.1%, and [[Workers and Entrepreneurs Party]] at 0.1%.}}
+|19.8
+|23.4
+| style="background:{{party color|Popular Force}}" | {{color|white|1.8}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite news|title=Ipsos: La intención de voto al Senado se fragmenta y ningún partido despega|work=Perú21|date=27 February 2026|url=https://peru21.pe/politica/ipsos-la-intencion-de-voto-al-senado-se-fragmenta-y-ningun-partido-despega/|access-date=27 February 2026|last=Villanueva|first=Luis|language=es|quote=The latest Peru21 poll shows a fragmented scenario with narrow differences between the political parties for the Upper House. No group exceeds 7%, and 43% of the electorate remains undecided or will cast invalid votes.}}</ref>
+|{{Opdrts|19|20|Feb|2026|year}}
+|1,206
+| style="background:#FFCD9C"| '''7'''
+|6
+|4
+|5
+|3
+|2
+|–
+|2
+|2
+|2
+|3
+|2
+|2
+|–
+|–
+|17{{efn|Including [[OBRAS Civic Party]] at 2% and [[Democratic Green Party (Peru)|Democratic Green Party]] at 2%.}}
+|25
+|18
+| style="background:{{party color|Popular Force}}" | {{color|white|1}}
+|-
+|Datum Internacional/América TV<ref>{{Cite news|title=Encuesta Datum: Un 40% de peruanos afirma que decidirá su voto tras debates|work=El Comercio|date=23 February 2026|url=https://elcomercio.pe/politica/elecciones/encuesta-datum-internacional-un-40-de-peruanos-afirma-que-decidira-su-voto-tras-debates-tlc-nota-noticia/|access-date=23 February 2026|last=Villarroel Zurita|first=Alexander|language=es|quote=Another 27% say they already have a clear choice, while 29% say they will decide how to vote in the last week before April 12 or even on the day itself. Rafael López Aliaga rises to 13.4% of voting intentions and Keiko Fujimori to 9.7%; however, the percentage of undecided voters is still high. In third place, there is a technical tie.}}</ref>
+|{{Opdrts|13|16|Feb|2026|year}}
+|1,500
+|7.0
+| style="background:#cbedfb"| '''7.7'''
+|3.8
+|4.0
+|1.8
+|3.1
+|0.2
+|3.1
+|3.8
+|2.5
+|2.2
+|2.3
+|0.8
+|0.9
+|1.8
+|9.7{{efn|Including [[Popular Cooperation]] at 1.1%, [[Purple Party]] at 1.0%, [[OBRAS Civic Party]] at 0.9%, [[People's Liberty]] at 0.7%, [[Front of Hope 2021]] at 0.7%, [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 0.6%, [[National Unity (Peru, 2025)|National Unity]] at 0.5%, [[A Different Path]] at 0.4%, [[IBelieve Party]] at 0.4%, [[Progresemos]] at 0.4%, [[Patriotic Party of Peru]] a 0.3%, [[Peru Action]] at 0.3%, [[Faith in Peru]] at 0.3%, [[Democratic Green Party (Peru)|Democratic Green Party]] at 0.3%, [[Venceremos Electoral Alliance]] at 0.3%, [[United Peru Democratic Party]] at 0.3%, [[Modern Peru]] at 0.3%, [[Force and Liberty]] at 0.3%, [[Let’s Save Peru]] at 0.2%, [[Federal Democratic Party]] at 0.1%, [[Workers and Entrepreneurs Party]] at 0.1%, [[Regionalist Party of National Integration]] at 0.1%, and [[Citizens for Peru]] at 0.1%.}}
+|19.1
+|26
+| style="background:{{party color|Popular Renewal}}" | {{color|white|0.7}}
+|-
+|CIT/Panamericana<ref>{{Cite web|title=Encuesta Senadores por Partidos, CIT – 16 Febrero 2026|website=Encuestas Perú|date=16 February 2026|url=https://encuestas.com.pe/encuesta-senadores-por-partidos-cit-16-febrero-2026/|access-date=16 February 2026|last=|first=|language=es|quote=}}</ref>
+|{{Opdrts|5|9|Feb|2026|year}}
+|1,200
+|6.3
+| style="background:#cbedfb"| '''9.4'''
+|1.7
+|4.0
+|3.2
+|2.0
+|–
+|1.6
+|4.6
+|1.7
+|2.0
+|2.9
+|–
+|–
+|–
+|12.6{{efn|Including OBRAS at 1.1%.}}
+|22.3
+|24.4
+| style="background:{{party color|Popular Renewal}}" | {{color|white|3.1}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite news|title=El Senado superpoderoso|work=Perú21|date=15 February 2026|url=https://peru21.pe/opinion/alfredo-torres-el-senado-superpoderoso/|access-date=15 February 2026|last=Torres|first=Alfredo|language=es|quote=}}</ref>
+|{{Opdrts|5|6|Feb|2026|year}}
+|1,211
+| style="background:#FFCD9C"| '''8'''
+|7
+|4
+|4
+|4
+|2
+|–
+|2
+|3
+|2
+|3
+|–
+|–
+|–
+|3
+|14{{efn|Including Venceremos Electoral Alliance at 2%.}}
+|29
+|15
+| style="background:{{party color|Popular Force}}" | {{color|white|1}}
+|-
+|Datum Internacional/El Comercio<ref name=ec1/>
+|{{Opdrts|30|3|Feb|2026|year}}
+|1,200
+| style="background:#FFCD9C"| '''6.6'''
+|6.5
+|5.3
+|4.0
+|3.8
+|2.9
+|0.4
+|2.9
+|2.7
+|2.6
+|2.5
+|2.8
+|0.2
+|0.7
+|1.9
+|8.2{{efn|Including [[People's Liberty]] at 0.8%, [[Popular Cooperation]] at 0.7%, [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 0.7%, [[Peru Action]] at 0.7%, [[Front of Hope 2021]]  at 0.7%, [[Venceremos Electoral Alliance]] at 0.5%, [[A Different Path]] at 0.5%, [[United Peru Democratic Party]] at 0.5%, [[Purple Party]] at 0.5%, [[IBelieve Party]] at 0.4%, [[Modern Peru]] at 0.4%, [[National Unity (Peru, 2025)|National Unity]] at 0.3%, [[Let’s Save Peru]] at 0.3%, [[Workers and Entrepreneurs Party]] at 0.3%, [[Faith in Peru]] at 0.3%, [[Force and Liberty]] at 0.3%, [[Regionalist Party of National Integration]] at 0.2%, [[Federal Democratic Party]] at 0.2%, [[Democratic Green Party (Peru)|Democratic Green Party]] at 0.2%, [[Venceremos Electoral Alliance]] at 0.3%, [[IBelieve Party]] at 0.3%, [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 0.3%, [[Citizens for Peru]] at 0.0%, and [[Patriotic Party of Peru]].}}
+|21.2
+|22.8
+| style="background:{{party color|Popular Force}}" | {{color|white|0.1}}
+|-
+|Datum Internacional/América TV<ref>{{Cite news|title=Aprobación de José Jerí cae diez puntos tras crisis por reuniones con empresario chino, revela encuesta de Datum|work=El Comercio|date=26 January 2025|url=https://elcomercio.pe/politica/gobierno/encuesta-datum-internacional-aprobacion-de-jeri-cae-al-41-y-queda-por-debajo-de-su-desaprobacion-por-primera-vez-tlc-nota-noticia/?ref=ecr|access-date=27 January 2025|last=Villarroel Zurita|first=Alexander|language=es|quote=Even so, the 36 candidates for the presidency together account for 55.7% of the vote, with support distributed among the multiple candidates, compared to 44.3% of the population who, with the election fast approaching, have opted for none, blank or spoiled, or simply do not know.}}</ref>
+|{{Opdrts|16|20|Jan|2026|year}}
+|1,202
+|6.7
+| style="background:#cbedfb"| '''6.8'''
+|4.0
+|3.2
+|3.0
+|2.7
+|0.1
+|3.0
+|2.5
+|2.0
+|2.1
+|2.0
+|1.2
+|0.3
+|1.2
+|10.5{{efn|Including [[Force and Liberty]] at 1.1%, [[United Peru Democratic Party]] at 0.9%, [[Let’s Save Peru]] at 0.7%, [[Purple Party]] at 0.7%, [[Popular Cooperation]] at 0.6%, [[Workers and Entrepreneurs Party]] at 0.3%, [[National Unity (Peru, 2025)|National Unity]] at 0.5%, [[Peru Action]] at 0.5%, [[OBRAS Civic Party]] at 0.5%, [[Faith in Peru]] at 0.5%, [[A Different Path]] at 0.4%, [[IBelieve Party]] at 0.4%, [[Front of Hope 2021]] at 0.4%, [[People's Liberty]] at 0.3%, [[Federal Democratic Party]] at 0.3%, [[Democratic Green Party (Peru)|Democratic Green Party]] at 0.3%, [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 0.2%, [[Patriotic Party of Peru]] a 0.2%, [[Progresemos]] at 0.2%, [[Citizens for Peru]] at 0.2%, [[Modern Peru]] at 0.2%, [[Venceremos Electoral Alliance]] at 0.1%, and [[Regionalist Party of National Integration]] at 0.1%.}}
+|25.3
+|23.7
+| style="background:{{party color|Popular Renewal}}" | {{color|white|0.1}}
+|-
+|Datum Internacional/El Comercio<ref>{{Cite news|title=Elecciones 2026: Solo un 12% asegura que ya definió a su candidato presidencial, según encuesta de Datum|work=El Comercio|date=11 January 2025|url=https://elcomercio.pe/politica/elecciones/keiko-fujimori-rafael-lopez-aliaga-carlos-alvarez-elecciones-2026-solo-un-12-asegura-que-ya-definio-a-su-candidato-presidencial-segun-encuesta-de-datum-internacional-tlcnota-noticia/|access-date=11 January 2025|last=Villarroel Zurita|first=Alexander|language=es|quote=Although the election is fast approaching and the political landscape is practically set, only 12% of the population say they have already decided which presidential candidate they will support at the polls on April 12, while 35% say they are still evaluating their vote and another 50% admit they have not yet made up their minds, according to the latest Datum Internacional poll for El Comercio.}}</ref>
+|{{Opdrts|2|6|Jan|2026|year}}
+|1,200
+|5.8
+| style="background:#cbedfb"| '''5.9'''
+|5.1
+|2.3
+|1.8
+|2.8
+|0.2
+|1.4
+|2.1
+|1.2
+|1.0
+|1.9
+|1.0
+|0.2
+|1.6
+|5.1{{efn|Including [[Modern Peru]] at 1.5%, [[OBRAS Civic Party]] at 0.8%, [[Force and Liberty]] at 0.8%, [[United Peru Democratic Party]] at 0.7%, [[Popular Cooperation]] at 0.6%, [[A Different Path]] at 0.6%, [[Let’s Save Peru]] at 0.5%, [[Front of Hope 2021]] at 0.4%, [[Faith in Peru]] at 0.4%, [[Purple Party]] at 0.4%, [[Venceremos Electoral Alliance]] at 0.3%, [[IBelieve Party]] at 0.3%, [[Workers and Entrepreneurs Party]] at 0.3%, [[First The People – Community, Ecology, Liberty, and Progress|First the People]] at 0.3%, [[People's Liberty]] at 0.3%, [[National Unity (Peru, 2025)|National Unity]] at 0.2%, [[Progresemos]] at 0.2%, [[Patriotic Party of Peru]] a 0.2%, [[Citizens for Peru]] at 0.2%, [[Democratic Green Party (Peru)|Democratic Green Party]] at 0.1%, [[Federal Democratic Party]] at 0.0%, [[Peru Action]] at 0.0%, and [[Regionalist Party of National Integration]] at 0.0%.}}
+|23.3
+|34.1
+| style="background:{{party color|Popular Renewal}}" | {{color|white|0.1}}
+|}
+
+===By political party===
+====2025====
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:90%; line-height:16px;"
+|- style="height:42px;"
+! rowspan="2” |<small>Pollster / Client</small>
+! rowspan="2” |<small>Date</small>
+! rowspan="2” |<small>Sample size</small>
+! style="width:30px;" | [[File:Logo Renovación Popular 2023.png|25x25px|link=Popular Renewal]]
+! style="width:30px;" | [[File:Logo of the Popular Force (2024).svg|25x25px|link=Popular Force]]
+! style="width:30px;" | [[File:Acción_Popular.svg|25x25px|link=Popular Action (Peru)]]
+! style="width:30px;" | [[File:Alianza para el Progreso Peru.svg|25x25px|link=Alliance for Progress (Peru)]]
+! style="width:30px;" | [[File:Logo Partido Democrático Somos Perú.svg|25x25px|link=We Are Peru]]
+! style="width:30px;" | [[File:Perú Libre logo.svg|25x25px|link=Free Peru]]
+! style="width:30px;" | [[File:Logo_Podemos_Perú.png|25x25px|link=Podemos Perú]]
+! style="width:30px;" | [[Go on Country – Social Integration Party (2017)|AvP]]
+! style="width:30px;" | [[File:APRA Peru logo.svg|25x25px|link=American Popular Revolutionary Alliance]]
+! style="width:30px;" | [[File:Juntos_Por_El_Perú.svg|25x25px|link=Together for Peru]]
+! style="width:30px;" | [[Country for All]]
+! style="width:30px;" | [[File:Logo of the Agricultural People's Front of Peru.png|25x25px|link=Agricultural People's Front of Peru]]
+! style="width:30px;" | [[File:Partido_Morado_logo.svg|25x25px|link=Purple Party]]
+! style="width:30px;" | [[File:Nuevo Perú x Buen Vivir.png|25x25px|link=New Peru]]
+! style="width:28px;" rowspan="2"|<small>Other</small>
+! style="width:28px;" rowspan="2"|<small>Blank / None</small>
+! style="width:28px;" rowspan="2"|<small>Undecided</small>
+! style="width:28px;" rowspan="2"|<small>Lead</small>
+|-
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{party color|Popular Action (Peru)}};" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+! style="color:inherit;background:{{party color|We Are Peru}};" |
+! style="color:inherit;background:{{party color|Free Peru}};" |
+! style="color:inherit;background:{{party color|Podemos Perú}};" |
+! style="color:inherit;background:{{party color|Go on Country}};" |
+! style="color:inherit;background:{{party color|American Popular Revolutionary Alliance}};" |
+! style="color:inherit;background:{{party color|Together for Peru}};" |
+! style="color:inherit;background:#FFC700;" |
+! style="color:inherit;background:{{party color|Agricultural People's Front of Peru}};" |
+! style="color:inherit;background:{{party color|Purple Party}};" |
+! style="color:inherit;background:{{party color|New Peru}};" |
+|-
+|Imasolu/Willax<ref>{{Cite web|title=Encuesta Nacional IMASOLU Diciembre 2025: el mapa político del Perú rumbo a las elecciones 2026|website=Imasolu|date=12 January 2026|url=https://imasolu.com/portfolio/encuesta-presidencial-2026-intencion-de-voto-nacional-diciembre-2025/|access-date=9 February 2026|last= |first=|language=es|quote=}}</ref>
+|{{Opdrts|26|29|Dec|2025|year}}
+|1,200
+| style="background:#cbedfb"| '''11.3'''
+|7.1
+|–
+|3.5
+|3.4
+|3.3
+|2.5
+|2.2
+|2.0
+|1.0
+|0.9
+|–
+|–
+|–
+|15.8
+|–
+|46.9
+| style="background:{{party color|Popular Renewal}}" | {{color|white|4.2}}
+|-
+|Imasolu/Exitosa<ref>{{Cite web|title=Elecciones Presidenciales 2026 - Encuesta Nacional Noviembre, 2025|website=Imasolu|date=|url=https://imasolu.com/wp-content/uploads/2025/12/Encuesta-Nacional-IMASOLU-noviembre-2025-Elecciones.pdf|access-date=11 February 2026|last=|first=|language=es|quote=}}</ref>
+|{{Opdrts|24|26|Nov|2025|year}}
+|1,200
+| style="background:#cbedfb"| '''13.2'''
+|7.4
+|4.7
+|4.1
+|3.1
+|2.6
+|2.3
+|2.3
+|1.3
+|1.4
+|1.3
+|–
+|–
+|–
+|14.4
+|–
+|38.6
+| style="background:{{party color|Popular Renewal}}" | {{color|white|5.8}}
+|-
+|Imasolu/Willax<ref>{{Cite web|title=Elecciones Presidenciales 2026 - Encuesta Nacional Setiembre, 2025|website=Imasolu|date=|url=https://imasolu.com/wp-content/uploads/2025/10/RESULTADOS-1.pdf|access-date=11 February 2026|last= |first=|language=es|quote=}}</ref>
+|{{Opdrts|26|28|Sep|2025|year}}
+|1,200
+| style="background:#cbedfb"| '''12.1'''
+|6.7
+|4.5
+|4.0
+|3.2
+|3.4
+|2.7
+|3.3
+|3.2
+|1.1
+|1.0
+|1.0
+|2.1
+|–
+|20.8
+|–
+|31.8
+| style="background:{{party color|Popular Renewal}}" | {{color|white|5.4}}
+|-
+|Ipsos Perú/América TV<ref>{{Cite web|title=Estudio de Opinión Ipsos - América Televisión|website=Ipsos Perú|date=20 July 2025| url=https://www.ipsos.com/sites/default/files/ct/news/documents/2025-07/Encuesta%20Am%C3%A9rica%20TV%20-Ipsos%20_%20Julio%202025.pdf|access-date=28 July 2025}}</ref>
+|{{Opdrts|21|22|Jul|2025|year}}
+|1,205
+|4
+| style="background:#FFD9B4" |'''7'''
+|5
+|4
+|2
+|4
+|–
+|3
+|2
+|–
+|–
+|–
+|–
+|2
+|19
+|30
+|18
+| style="background:{{party color|Popular Force}}" | {{color|white|2.0}}
+|-
+|CIT/Expreso<ref>{{Cite web|title=Encuesta CIT sobre Intención de Voto 2026|url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-sobre-aprobacion-gubernamental-julio-2025/|access-date=28 July 2025|website=CIT}}</ref>
+|{{Opdrts|10|12|Jul|2025|year}}
+|1,200
+| style="background:#cbedfb"| '''9.8'''
+|8.2
+|3.8
+|3.7
+|3.5
+|2.3
+|1.0
+|5.4
+|3.2
+|–
+|3.8
+|–
+|–
+|–
+|4.9
+|18.6
+|30.4
+| style="background:{{party color|Popular Renewal}}" | {{color|white|1.6}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Encuesta Ipsos: ¿Quiénes lideran las preferencias electorales para el 2026?|url=https://peru21.pe/politica/encuesta-ipsos-quienes-lideran-las-preferencias-para-el-2026/|access-date=20 July 2025|website=Perú21}}</ref>
+|{{Opdrts|13|14|Apr|2025|year}}
+|1,206
+|2
+| style="background:#FFD9B4" |'''9'''
+|6
+|2
+|2
+|4
+|–
+|2
+|–
+|–
+|–
+|2
+|–
+|–
+|15
+|34
+|22
+| style="background:{{party color|Popular Force}}" | {{color|white|3.0}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Tendencias Electorales a 15 Meses|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2025-01/Tendencias%20electorales%20a%2015%20meses.pdf|access-date=20 July 2025|website=Ipsos Perú}}</ref>
+|{{Opdrts|9|10|Jan|2025|year}}
+|1,214
+|–
+| style="background:#FFD9B4" |'''9'''
+|6
+|3
+|3
+|2
+|–
+|3
+|2
+|–
+|–
+|3
+|–
+|–
+|18
+|30
+|21
+| style="background:{{party color|Popular Force}}" | {{color|white|3.0}}
+|-
+|}
+
+====2023–2024====
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:90%; line-height:16px;"
+|- style="height:42px;"
+! rowspan="2” |<small>Pollster / Client</small>
+! rowspan="2” |<small>Date</small>
+! rowspan="2” |<small>Sample size</small>
+! style="width:30px;" | [[File:Logo of the Popular Force (2024).svg|25x25px|link=Popular Force]]
+! style="width:30px;" | [[File:Acción_Popular.svg|25x25px|link=Popular Action (Peru)]]
+! style="width:30px;" | [[File:Perú Libre logo.svg|25x25px|link=Free Peru]]
+! style="width:30px;" | [[File:Logo Renovación Popular 2023.png|25x25px|link=Popular Renewal]]
+! style="width:30px;" | [[File:Alianza para el Progreso Peru.svg|25x25px|link=Alliance for Progress (Peru)]]
+! style="width:30px;" | [[Go on Country – Social Integration Party (2017)|AvP]]
+! style="width:30px;" | [[File:Logo Partido Democrático Somos Perú.svg|25x25px|link=We Are Peru]]
+! style="width:30px;" | [[File:Logo of the Agricultural People's Front of Peru.png|25x25px|link=Agricultural People's Front of Peru]]
+! style="width:30px;" | [[File:APRA Peru logo.svg|25x25px|link=American Popular Revolutionary Alliance]]
+! style="width:30px;" | [[File:Nuevo Perú x Buen Vivir.png|25x25px|link=New Peru]]
+! style="width:30px;" | [[Country for All]]
+! style="width:30px;" | [[File:Juntos_Por_El_Perú.svg|25x25px|link=Together for Peru]]
+! style="width:30px;" | [[File:Logo_Podemos_Perú.png|25x25px|link=Podemos Perú]]
+! style="width:30px;" | [[File:Partido_Morado_logo.svg|25x25px|link=Purple Party]]
+! style="width:28px;" rowspan="2"|<small>Other</small>
+! style="width:28px;" rowspan="2"|<small>Blank / None</small>
+! style="width:28px;" rowspan="2"|<small>Undecided</small>
+! style="width:28px;" rowspan="2"|<small>Lead</small>
+|-
+! style="color:inherit;background:{{party color|Popular Force}};" |
+! style="color:inherit;background:{{party color|Popular Action (Peru)}};" |
+! style="color:inherit;background:{{party color|Free Peru}};" |
+! style="color:inherit;background:{{party color|Popular Renewal}};" |
+! style="color:inherit;background:{{party color|Alliance for Progress (Peru)}};" |
+! style="color:inherit;background:{{party color|Go on Country}};" |
+! style="color:inherit;background:{{party color|We Are Peru}};" |
+! style="color:inherit;background:{{party color|Agricultural People's Front of Peru}};" |
+! style="color:inherit;background:{{party color|American Popular Revolutionary Alliance}};" |
+! style="color:inherit;background:{{party color|New Peru}};" |
+! style="color:inherit;background:#FFC700;" |
+! style="color:inherit;background:{{party color|Together for Peru}};" |
+! style="color:inherit;background:{{party color|Podemos Perú}};" |
+! style="color:inherit;background:{{party color|Purple Party}};" |
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Estudio de Opinión: Informe de Resultados Julio, 2024|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2024-10/encuesta%20electoral%20Ipsos%20para%20Perú21_V3_0.pdf|access-date=19 November 2024 |website=Ipsos}}</ref>
+|{{Opdrts|10|11|Oct|2024|year}}
+|1,211
+| style="background:#FFD9B4" |'''9.0'''
+|5.0
+|2.0
+|–
+|2.0
+|–
+|3.0
+|–
+|2.0
+|–
+|–
+|–
+|–
+|–
+|19
+|19
+|39
+| style="background:{{party color|Popular Force}}" | {{color|white|4.0}}
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Estudio de Opinión: Informe de Resultados Julio, 2024|url=https://www.ipsos.com/sites/default/files/ct/news/documents/2024-07/Encuesta%20Ipsos%20para%20domingo%2021-%20Web.pdf|access-date=18 August 2024 |website=Ipsos}}</ref>
+|{{Opdrts|17|18|Jul|2024|year}}
+|1,218
+| style="background:#FFD9B4" |'''8.0'''
+|4.0
+|2.0
+|–
+|–
+|2.0
+|3.0
+|–
+|–
+|–
+|–
+|2.0
+|–
+|–
+|26
+|22
+|31
+| style="background:{{party color|Popular Force}}" | {{color|white|2.0}}
+|-
+|Ipsos Perú/Perú21<ref>{{cite web |title=Estudio De Opinión Informe De Resultados Noviembre, 2023 |url=https://www.ipsos.com/sites/default/files/ct/news/documents/2023-12/Situaci%C3%B3n%20pol%C3%ADtica_Encuesta%20Per%C3%BA%2021-%20Ipsos.pdf |access-date=2 January 2024 |website=Ipsos |language=es}}</ref>
+|{{Opdrts|9|10|Nov|2023|year}}
+|1,205
+| style="background:#FFD9B4" |'''8.0'''
+|5.0
+|5.0
+|3.0
+|4.0
+|4.0
+|4.0
+|3.0
+|2.0
+|–
+|–
+|2.0
+|–
+|2.0
+|17
+|14
+|27
+| style="background:{{party color|Popular Force}}" | {{color|white|3.0}}
+|-
+|Datum International<ref>{{cite web|last=|date=9 July 2023|title=Estudio de Opinión Pública - Popularidad + Coyuntura - Julio 2023 |url=http://admin.datum.com.pe/datum/descarga/20230707061408.pdf|access-date=26 August 2023|website=Datum Internacional|language=es|archive-date=9 July 2023|archive-url=https://web.archive.org/web/20230709182043/http://admin.datum.com.pe/datum/descarga/20230707061408.pdf|url-status=dead}}</ref>
+|{{Opdrts|30|4|Jul|2023|year}}
+|896
+| style="background:#FFD9B4" |'''7.0'''
+|6.0
+|5.0
+|1.0
+|3.0
+|3.0
+|5.0
+|2.0
+|2.0
+|–
+|–
+|2.0
+|1.0
+|2.0
+|4
+|17
+|40
+| style="background:{{party color|Popular Force}}" | {{color|white|1.0}}
+|-
+|CIT/Expreso<ref>{{Cite web |last=citopinion |date=2023-03-28 |title=Encuesta Nacional Urbano Rural |website=CIT Opinión |url=https://www.citopinion.pe/encuesta-nacional-marzo-2023/ |access-date=2023-05-13 |language=es}}</ref>{{refn|group=lower-alpha|name=proyección}}
+|20–22 Mar 2023
+|1,200
+|7.9
+|3.2
+|2.2
+| style="background:#cbedfb"| '''8.8'''
+|5.8
+|7.1
+|8.3
+|0.9
+|5.0
+|–
+|–
+|3.3
+|–
+|1.0
+|10.0
+|28.3
+|8.3
+| style="background:{{party color|Popular Renewal}}" | {{color|white|0.6}}
+|-
+|CIT/Expreso<ref name="cit-feb23">{{cite web|date=24 February 2023|title=Encuesta Nacional Urbano Rural|url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-aprobacion-gubernamental-de-febrero/|website=citopinion.pe}}<!-- auto-translated by Module:CS1 translator --></ref>{{refn|group=lower-alpha|name=proyección}}
+|16–18 Feb 2023
+|1,200
+|13.3
+|6.9
+|2.9
+|14.1
+|10.8
+|13.0
+|style="background:#D1DEF4" | '''15.7'''
+|1.3
+|3.3
+|–
+|–
+|4.4
+|–
+|2.7
+|8.2
+|18.1
+|6.8
+| style="background:{{party color|We Are Peru}}" | {{color|white|1.6}}
+|-
+|Ipsos Perú/América TV<ref>{{cite web |url=https://www.ipsos.com/sites/default/files/ct/news/documents/2023-02/Opini%C3%B3n%20Data%20Febrero%202023.pdf |title=Informe de Resultados. Estudio de opinión para América Televisión. Perú, 10 de febrero de 2023 |date=28 February 2023 |website=Ipsos |language=es}}</ref>
+|9–10 Feb 2023
+|1,210
+| style="background:#FFD9B4" |'''8'''
+|4
+|5
+|3
+|4
+|4
+|–
+|–
+|2
+|–
+|–
+|2
+|1
+|2
+|23
+|13
+|29
+| style="background:{{party color|Popular Force}}" | {{color|white|3}}
+|-
+|CIT/Expreso<ref name="cit-ene23">{{cite web|date=26 January 2023|title=Encuesta Nacional Urbano Rural|url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-aprobacion-gubernamental/|website=citopinion.pe}}<!-- auto-translated by Module:CS1 translator --></ref>{{refn|group=lower-alpha|name=proyección|Undecided and/or abstainers excluded}}
+|18–20 Jan 2023
+|1,200
+|9.8
+|–
+|1.8
+|11.3
+|8.3
+|10.0
+| style="background:#D1DEF4" | '''12.0'''
+|1.0
+|–
+|–
+|–
+|3.3
+|–
+|2.0
+|7.5
+|27.2
+|5.9
+| style="background:{{party color|We Are Peru}}" | {{color|white|0.7}}
+|-
+| colspan="21" style="background:#A0A0A0" |
+|- style="background-color:#EFEFEF;"
+| '''[[2021 Peruvian general election|2021 general]]'''
+| 11 Apr 2021
+|–
+| 11.3<br />{{font|size=75%|font=Verdana|text=24}}
+| 9.0<br />{{font|size=75%|font=Verdana|text=16}}
+| style="background:#FF9D9D"| '''13.4'''<br />{{font|size=75%|font=Verdana|text=37}}
+| 9.3<br />{{font|size=75%|font=Verdana|text=13}}
+| 7.5<br />{{font|size=75%|font=Verdana|text=15}}
+| 7.5<br />{{font|size=75%|font=Verdana|text=7}}
+| 6.1<br />{{font|size=75%|font=Verdana|text=5}}
+| 4.6<br />{{font|size=75%|font=Verdana|text=0}}
+|–
+|–
+|–
+| 6.6<br />{{font|size=75%|font=Verdana|text=5}}
+| 5.8<br />{{font|size=75%|font=Verdana|text=5}}
+| 5.4<br />{{font|size=75%|font=Verdana|text=3}}
+|
+|
+|
+| style="background:{{party color|Free Peru}}"| {{color|white|2.1}}
+|}
+
+==Presidential primaries==
+===Peruvian Aprista Party===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |<small>Pollster / Client</small>
+! rowspan="4" |<small>Date</small>
+! rowspan="4" |<small>Sample size</small>
+![[File:EnriqueValderramaPAP.jpg|70x70px]]
+![[File:Jorge del Castillo.jpg|70x70px]]
+![[File:Javier Velásquez Quesquén (cropped).jpg|70x70px]]
+![[File:Hernán Garrido Lecca.jpg|70x70px]]
+! class="unsortable" rowspan="4" |<small>Other</small>
+! class="unsortable" rowspan="4" |<small>Blank / None</small>
+! class="unsortable" rowspan="4" |<small>Undecided</small>
+|-
+!{{small|[[Enrique Valderrama|Valderrama]]}}
+!{{small|[[Jorge del Castillo|Del Castillo]]}}
+!{{small|[[Javier Velásquez|Velásquez]]}}
+!{{small|[[Hernán Garrido Lecca|Garrido Lecca]]}}
+|-
+|Idp SAC/Diario de Lima<ref>{{Cite web|title=La interna del APRA|website=El Diario de Lima|date=24 August 2025|url=https://eldiariodelima.com/noticias/la-interna-del-apra-|access-date=25 August 2025}}</ref>
+|{{Opdrts|22|24|Aug|2025|year}}
+|200
+| style="background:#FFD0D7"| '''37'''
+|34
+|15
+|10
+|5
+|?
+|?
+|-
+|CIT/Expreso<ref>{{Cite web|title=Encuesta Nacional Urbano Rural - Agosto 2025|website=Ipsos Perú|date=21 August 2025| url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-agosto-2025/|access-date=25 August 2025}}</ref>
+|{{Opdrts|18|20|Aug|2025|year}}
+|1,200
+|2
+| style="background:#FFD0D7"|'''26'''
+|15
+|–
+|10
+|35
+|12
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Ningún candidato lidera las internas del APRA: Jorge del Castillo y Carla García apenas cuentan con 17% de respaldo|website=Infobae|date=16 Aug 2025|url=https://www.infobae.com/peru/2025/08/16/ningun-candidato-lidera-las-internas-del-apra-jorge-del-castillo-y-carla-garcia-apenas-cuentan-con-17-de-respaldo/|access-date=25 Aug 2025}}</ref>
+|{{Opdrts|6|7|Aug|2025|year}}
+|1,207
+|–
+| style="background:#FFD0D7"|'''17'''
+| style="background:#FFD0D7"|'''17'''
+|15
+|7
+|40
+|4
+|}
+
+===Popular Action===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |<small>Pollster / Client</small>
+! rowspan="4" |<small>Date</small>
+! rowspan="4" |<small>Sample size</small>
+![[File:Barnechea.jpg|70x70px]]
+![[File:Víctor Andrés García Belaunde.jpg|70x70px]]
+![[File:Julio Chavez Accion Popular.jpg|70x70px]]
+! class="unsortable" rowspan="4" |<small>Other</small>
+! class="unsortable" rowspan="4" |<small>Blank / None</small>
+! class="unsortable" rowspan="4" |<small>Undecided</small>
+|-
+!{{small|[[Alfredo Barnechea|Barnechea]]}}
+!{{small|[[Víctor Andrés García Belaúnde|García Belaúnde]]}}
+!{{small|[[Julio Chávez Chiong|Chávez]]}}
+|-
+|CIT/Expreso<ref>{{Cite web|title=Encuesta Nacional Urbano Rural - Agosto 2025|website=Ipsos Perú|date=21 August 2025| url=https://www.citopinion.pe/encuesta-nacional-urbano-rural-agosto-2025/|access-date=25 August 2025}}</ref>
+|{{Opdrts|18|20|Aug|2025|year}}
+|1,200
+| style="background:#BEBFC5"|'''42'''
+|21
+|6
+|14
+|8
+|9
+|-
+|Ipsos Perú/Perú21<ref>{{Cite web|title=Encuesta Ipsos-Perú21: Estos son los preferidos del APRA, AP y Venceremos para la Presidencia|website=Perú21|date=16 Aug 2025|url=https://peru21.pe/politica/ipsos-los-preferidos-del-apra-ap-y-venceremos-la-presidencia/|access-date=28 Aug 2025}}</ref>
+|{{Opdrts|6|7|Aug|2025|year}}
+|1,207
+|15
+| style="background:#BEBFC5"|'''34'''
+|4
+|5
+|35
+|7
+|}
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [https://laencerrona.pe/encuestas/ ''Comparaencuestas'' (comparison of polls from major polling firms, platform developed by La Encerrona)]
+* [https://estudiosdeopinion.iep.org.pe/informes/ Opinion Poll Reports from the Institute of Peruvian Studies (in Spanish)]
+
+[[Category:Elections in Peru]]

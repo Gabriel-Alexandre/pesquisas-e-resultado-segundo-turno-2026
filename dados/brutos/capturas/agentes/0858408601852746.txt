@@ -1,0 +1,2320 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2022}}
+
+This page lists public opinion polls conducted for the [[2022 Colombian presidential election]], the first round of which was held on 29 May. Because no candidate won a majority, a second round was held on 19 June between the top two candidates, [[Gustavo Petro]] and [[Rodolfo Hernández Suárez]].<ref>{{cite news |author1=Holly K. Sonneland |author2=Hope Wilkinson |title=Explainer: Who's Who in Colombia's 2022 Presidential Race |url=https://www.as-coa.org/articles/explainer-whos-who-colombias-2022-presidential-race |access-date=2 May 2022 |work=AS/COA |date=14 March 2022}}</ref><ref>{{cite news |title=Colombia presidential election heads to runoff, with leftist former rebel Petro, populist businessman Hernandez |url=https://abcnews.go.com/International/wireStory/colombia-presidential-election-heads-runoff-leftist-rebel-petro-85058588 |access-date=30 May 2022 |work=ABC News |date=30 March 2022}}</ref>
+
+==First round==
+===Graphical summary===
+<section begin="First Round Presidential polling chart"/>{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, first round (after candidate finalisation).chart|data=Opinion polling for the 2022 Colombian presidential election, first round (after candidate finalisation).tab|width=700px}}<section end="First Round Presidential polling chart"/>
+
+===Table of values===
+<div style="overflow:auto;">
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! rowspan=2| Polling organisation/client
+! rowspan=2| Date(s) conducted
+! rowspan=2| Sample<br />size
+! style="width:30px;"| [[Gustavo Petro]]<br/>{{small|[[Historic Pact for Colombia|PHC]]}}
+! style="width:30px;"| [[Federico Gutiérrez]]<br/>{{small|[[Team for Colombia|EPC]]}}
+! style="width:30px;"| [[Rodolfo Hernández Suárez|Rodolfo Hernández]]<br/>{{small|[[League of Anti-Corruption Governors|LIGA]]}}
+! style="width:30px;"| [[Sergio Fajardo]]<br/>{{small|[[Hope Center Coalition|CCE]]}}
+! style="width:30px;"| [[Íngrid Betancourt]]<br/>{{small|[[Oxygen Green Party|PVO]]}}
+! style="width:30px;"| John M. Rodríguez<br/>{{small|[[Fair and Free Colombia|CJL]]}}
+! style="width:30px;"| Enrique Gómez<br/>{{small|[[National Salvation Movement|MSN]]}}
+! style="width:30px;"| Luis Pérez<br/>{{small|[[Independent politician|IND]]}}
+! rowspan=2 style="width:30px;" | Blank
+! rowspan=2 style="width:30px;" | No vote
+! rowspan=2 style="width:30px;" | Unsure/No answer
+! rowspan=2 style="width:30px;" | Margin of Error
+|-
+! style="background:#A42F95;"|
+! style="background:#0061D3;"|
+! style="background:#F5EC49;"|
+! style="background:#73BE01;"|
+! style="background:#178D04;"|
+! style="background:#964B00;"|
+! style="background:#1E90FF;"|
+! style="background:#FF0000;"|
+|- style="background:#D5D5D5;"
+| First round election<ref>{{cite web |title=La diferencia entre el preconteo y el escrutinio municipal en la primera vuelta de las elecciones presidenciales de 2022 fue de tan solo el 0,1 % |url=https://www.registraduria.gov.co/La-diferencia-entre-el-preconteo-y-el-escrutinio-municipal-en-la-primera-vuelta.html |publisher=National Registry of Colombia |access-date=5 June 2022 |language=es |date=1 June 2022}}</ref>
+| 29 May 2022
+| –
+| style="background:Plum;"|'''40.34%'''
+| 23.94%
+| style="background:#FFED99;"|'''28.17%'''
+| 4.18%
+| 0.07%
+| 1.28%
+| 0.23%
+| 0.05%
+| 1.73%
+| –
+| –
+| –
+|-
+| colspan="25" | Betancourt withdrew her candidacy on 20 May 2022<ref>{{cite news |title=Ingrid Betancourt renuncia a la candidatura: adhiere a Rodolfo Hernández |url=https://www.eltiempo.com/elecciones-2022/presidencia/ingrid-betancourt-se-une-a-la-campana-de-rodolfo-hernandez-673982 |access-date=21 May 2022 |work=El Tiempo |date=20 May 2022 |language=es}}</ref>
+|-
+| AtlasIntel<ref name=intel>{{cite web |title=Colombia: National |url=https://atlasintel.org/poll/colombia-national-2022-05-20 |publisher=AtlasIntel |access-date=21 May 2022 |date=20 May 2022}}</ref>
+| 17–20 May 2022
+| 2,781
+| style="background:Plum;"|'''40%'''
+| style="background:#e2f6fe;"|'''26.7%'''
+| 21.4%
+| 8.8%
+| 0.2%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2%
+|-
+| CELAG<ref>{{cite web |title=Encuesta Colombia, mayo 2022 |url=https://www.celag.org/encuesta-colombia-mayo-2022/ |publisher=CELAG |date=20 May 2022|access-date=21 May 2022 |language=es}}</ref>
+| 16–20 May 2022
+| 2,174
+| style="background:Plum;"|'''45.1%'''
+| 20.1%
+| style="background:#FFED99;"|'''20.4%'''
+| 4.9%
+| –
+| –
+| –
+| –
+| 3.6%
+| 1.4%
+| 3.2%
+| 2.1%
+|-
+| Guarumo<ref name=segunda>{{cite news |title=Petro y "Fico" irían a segunda vuelta y Rodolfo se consolida en el tercer puesto: Guarumo |url=https://www.elcolombiano.com/colombia/petro-va-a-segunda-vuelta-con-fico-gutierrez-y-rodolfo-hernandez-queda-de-tercero-por-encima-de-fajardo-encuesta-2022-HH17546427 |access-date=21 May 2022 |work=El Colombiano |date=20 May 2022 |language=es}}</ref>
+| 16–19 May 2022
+| 2,258
+| style="background:Plum;"|'''37.9%'''
+| style="background:#e2f6fe;"|'''30.8%'''
+| 20.3%
+| 4.3%
+| 0.8%
+| 0.8%
+| 0.5%
+| –
+| 2.4%
+| –
+| 2.2%
+| 2.5%
+|-
+| rowspan="2"|CNC<ref name=encuestacnc>{{cite news |title=Federico Gutiérrez y Rodolfo Hernández, prácticamente empatados en primera vuelta: encuesta del CNC |url=https://www.semana.com/nacion/articulo/federico-gutierrez-y-rodolfo-hernandez-practicamente-empatados-en-primera-vuelta-encuesta-del-cnc/202202/ |access-date=20 May 2022 |work=Semana |date=19 May 2022 |language=es}}</ref>
+| rowspan="2"|13–19 May 2022
+| 3,860
+| style="background:Plum;"|'''41%'''
+| style="background:#e2f6fe;|'''23.9%'''
+| 21.9%
+| 4.5%
+| 0.7%
+| 1.1%
+| 0.3%
+| –
+| 6.6%
+| –
+| –
+| rowspan="2"|1.5%
+|-
+| 4,412
+| style="background:Plum;"|'''35.8%'''
+| style="background:#e2f6fe;"|'''20.8%'''
+| 19.1%
+| 4%
+| 0.6%
+| 1%
+| 0.3%
+| –
+| 5.7%
+| 2.5%
+| 9.9%
+|-
+| Invamer<ref name=caracoltv>{{cite news |title=Encuesta Invamer: Rodolfo Hernández, la sorpresa; Petro y Fico se mantienen |url=https://noticias.caracoltv.com/politica/elecciones-colombia/encuestas/encuesta-invamer-del-mes-de-mayo-rodolfo-hernandez-la-sorpresa-rg10 |access-date=20 May 2022 |work=Caracol TV |date=19 May 2022|language=es}}</ref>
+| 13–18 May 2022
+| 1,312
+| style="background:Plum;"|'''40.6%'''
+| style="background:#e2f6fe;"|'''27.1%'''
+| 20.9%
+| 5.1%
+| 0.8%
+| 0.6%
+| 0.3%
+| –
+| 4.6%
+| –
+| –
+| 2.71%
+|-
+| Mosqueteros<ref>{{cite news |author1=Lina María Vega |title=Encuesta Mosqueteros: Petro con 44,73%, 'Fico' con 22,42% y Rodolfo Hernández con 15,84% lideran intención de voto |url=https://www.wradio.com.co/2022/05/19/encuesta-mosqueteros-petro-con-4473-fico-con-2242-y-rodolfo-hernandez-con-1584-lideran-intencion-de-voto/ |access-date=20 May 2022 |work=W Radio |date=19 May 2022 |archive-url=https://web.archive.org/web/20220519213117/https://www.wradio.com.co/2022/05/19/encuesta-mosqueteros-petro-con-4473-fico-con-2242-y-rodolfo-hernandez-con-1584-lideran-intencion-de-voto/ |archive-date=19 May 2022 |language=es}}</ref>
+| 15–18 May 2022
+| 6,000
+| style="background:Plum;"|'''44.7%'''
+| style="background:#e2f6fe|'''22.4%'''
+| 15.8%
+| 6.9%
+| 0.6%
+| 0.9%
+| 0.5%
+| –
+| 7.9%
+| –
+| –
+| 1.27%
+|-
+| CNC<ref name=may>{{cite news |title=Petro, 'Fico' y Rodolfo, los candidatos con más intención de voto |url=https://www.portafolio.co/elecciones-2022/encuesta-del-cnc-petro-fico-y-rodolfo-los-candidatos-con-mas-intencion-de-voto-565448 |access-date=16 May 2022 |work=El Tiempo |date=15 May 2022 |language=es}}</ref>
+| 2–13 May 2022
+| 6,204
+| style="background:Plum;"|'''38%'''
+| style="background:#e2f6fe;"|'''23%'''
+| 16%
+| 7%
+| 1%
+| 1%
+| 0%
+| –
+| 6%
+| 2%
+| 6%
+| 1.2%
+|-
+| colspan="25" | Pérez withdrew his candidacy on 11 May 2022<ref>{{cite news |title=El exgobernador Luis Pérez renuncia a su candidatura presidencial |url=https://www.colombia.com/actualidad/politica/el-exgobernador-luis-perez-renuncia-a-su-candidatura-presidencial-350520 |website=colombia.com|access-date=12 May 2022 |date=11 May 2022 |archive-url=https://web.archive.org/web/20220511152115/https://www.colombia.com/actualidad/politica/el-exgobernador-luis-perez-renuncia-a-su-candidatura-presidencial-350520 |archive-date=11 May 2022 |language=es}}</ref>
+|-
+| TYSE<ref>{{cite web |title=Encuesta |url=https://www.eltiempo.com/uploads/files/2022/05/16/EncuestaPresidencialTYSE_Mayo2022.pdf |publisher=El Tiempo |date=16 May 2022|access-date=17 May 2022 |language=es}}</ref>
+| 23 Apr–8 May 2022
+| 8,000
+| style="background:Plum;"|'''36.6%'''
+| style="background:#e2f6fe|'''21.4%'''
+| 10.9%
+| 6.6%
+| 0.8%
+| 1.1%
+| 1.3%
+| 1.1%
+| 6.2%
+| –
+| 14.4%
+| 2.7%
+|-
+| YanHaas<ref name=rcn>{{cite news |title=¿Quiénes ganan y quiénes pierden, tras la cuarta Gran Encuesta? |url=https://www.noticiasrcn.com/elecciones/resultados-de-la-cuarta-gran-encuesta-intencion-de-voto-418887 |access-date=11 May 2022 |work=RCN |date=10 May 2022 |archive-url=https://web.archive.org/web/20220511030030/https://www.noticiasrcn.com/elecciones/resultados-de-la-cuarta-gran-encuesta-intencion-de-voto-418887 |archive-date=11 May 2022 |language=es}}</ref>
+| 30 Apr–7 May 2022
+| 1,232
+| style="background:Plum;"|'''40%'''
+| style="background:#e2f6fe;"|'''21%'''
+| 12%
+| 7%
+| 1%
+| –
+| 0.3%
+| 0.3%
+| 13%
+| –
+| 6%
+| 3.2%
+|-
+| Guarumo<ref name=tiempoguarumo>{{cite news |last1=Neira |first1=Armando |title=Petro y Fico, favoritos para primera vuelta, pero habría empate en segunda |url=https://www.eltiempo.com/elecciones-2022/presidencia/encuesta-de-guarumo-petro-y-fico-favoritos-para-primera-vuelta-668979 |access-date=1 May 2022 |work=El Tiempo |date=1 May 2022 |archive-url=https://web.archive.org/web/20220501204425/https://www.eltiempo.com/elecciones-2022/presidencia/encuesta-de-guarumo-petro-y-fico-favoritos-para-primera-vuelta-668979 |archive-date=1 May 2022|url-status=live |language=es}}</ref>
+| 25–29 April 2022
+| 2,132
+| style="background:Plum;"|'''36.4%'''
+| style="background:#e2f6fe;"|'''30.6%'''
+| 12.4%
+| 6.9%
+| 1.3%
+| 1.1%
+| 1.1%
+| 0.2%
+| 5.7%
+| –
+| 4.3%
+| 2.5%
+|-
+| Invamer<ref name=invamercaracol>{{cite news |title=Colombian leftist Petro leads presidential election poll |url=https://www.reuters.com/world/americas/colombian-leftist-petro-leads-presidential-election-poll-2022-04-29/ |access-date=16 May 2022 |work=Reuters |date=29 April 2022 |archive-url=https://web.archive.org/web/20220512221208/https://www.reuters.com/world/americas/colombian-leftist-petro-leads-presidential-election-poll-2022-04-29/ |archive-date=12 May 2022| url-status=live |location=Bogotá}}</ref>
+| 21–27 April 2022
+| 1,409
+| style="background:Plum;"|'''43.6%'''
+| style="background:#e2f6fe;"|'''26.7%'''
+| 13.9%
+| 6.5%
+| 0.5%
+| 1.5%
+| 1.1%
+| 0.5%
+| 5.7%
+| –
+| –
+| 2.55%
+|-
+| CNC/Semana<ref name=cnc>{{cite news |title=Atención Gustavo Petro consolida su ventaja y se perfila como el próximo presidente: encuesta del CNC |url=https://www.semana.com/nacion/articulo/atencion-gustavo-petro-consolida-su-ventaja-y-se-perfila-como-el-proximo-presidente-encuesta-del-cnc/202237/ |access-date=26 April 2022 |work=Semana |date=22 April 2022|archive-url= https://web.archive.org/web/20220424092032/https://www.semana.com/nacion/articulo/atencion-gustavo-petro-consolida-su-ventaja-y-se-perfila-como-el-proximo-presidente-encuesta-del-cnc/202237/ |archive-date=24 April 2022|url-status=live|language=es}}</ref>
+| 18–21 April 2022
+| 4,599
+| style="background:Plum; "|'''38%'''
+| style="background:#e2f6fe;"|'''23.8%'''
+| 9.6%
+| 7.2%
+| 0.9%
+| 0.9%
+| 0.3%
+| 0.4%
+| 7.6%
+| 2.1%
+| 8.8%
+| 1.4%
+|-
+| CELAG<ref name=celag>{{cite news |title=Encuesta Colombia, abril 2022 |url=https://www.celag.org/encuesta-colombia-abril-2022/ |access-date=26 April 2022 |work=CELAG |date=21 April 2022|archive-url= https://web.archive.org/web/20220512172816/https://www.celag.org/encuesta-colombia-abril-2022/|archive-date=12 May 2022|url-status=live |language=es}}</ref>
+| 1–19 April 2022
+| 3,064
+| style="background:Plum; "|'''42.6%'''
+| style="background:#e2f6fe; "|'''21.8%'''
+| 11.5%
+| 9.2%
+| 1.0%
+| —
+| —
+| —
+| 6.6%
+| 1.4%
+| 5.1%
+| 2.19%
+|-
+| CNC<ref name=tiempo>{{cite news |title=Nueva encuesta: empate técnico entre Petro y Fico en segunda vuelta |url=https://www.eltiempo.com/elecciones-2022/nueva-encuesta-empate-tecnico-entre-petro-y-fico-en-segunda-vuelta-663912 |access-date=26 April 2022 |work=El Tiempo |date=8 April 2022|archive-url= https://web.archive.org/web/20220502175903/https://www.eltiempo.com/elecciones-2022/nueva-encuesta-empate-tecnico-entre-petro-y-fico-en-segunda-vuelta-663912 |archive-date=2 May 2022|url-status=live |language=es}}</ref>
+| 4–7 April 2022
+| 1,965
+| style="background:Plum; "|'''34%'''
+| style="background:#e2f6fe; "|'''23%'''
+| 12%
+| 9%
+| 2%
+| 1%
+| 0%
+| 0%
+| 4%
+| 2%
+| 12%
+| 2.2%
+|-
+| Guarumo<ref name=guarumo>{{cite news |title=Dos encuestas vaticinan una disputada segunda vuelta entre Petro y Fico |url=https://www.eltiempo.com/elecciones-2022/presidencia/fico-y-petro-se-encaminan-a-un-renido-final-en-segunda-vuelta-662689 |access-date=26 April 2022 |work=El Tiempo |date=4 April 2022|archive-url= https://web.archive.org/web/20220427161855/https://www.eltiempo.com/elecciones-2022/presidencia/fico-y-petro-se-encaminan-a-un-renido-final-en-segunda-vuelta-662689 |archive-date=27 April 2022|url-status=live|language=es}}</ref>
+| 30 Mar–1 Apr 2022
+| 1,865
+| style="background:Plum; "|'''34%'''
+| style="background:#e2f6fe; "|'''25%'''
+| 9.3%
+| 9.5%
+| 2.6%
+| 0.6%
+| 1.6%
+| 0.3%
+| 10.3%
+| —
+| 7.4%
+| 2.5%
+|-
+| CNC/Semana<ref>{{cite news |title=Petro y Fico, adelante en la 1.ª vuelta; para la 2.ª se aprieta el duelo |url=https://www.eltiempo.com/elecciones-2022/presidencia/encuesta-presidencial-petro-y-fico-sacan-distancia-a-los-otros-candidatos-662562 |access-date=26 April 2022 |work=El Tiempo |date=2 April 2022|archive-url= https://web.archive.org/web/20220427031042/https://www.eltiempo.com/elecciones-2022/presidencia/encuesta-presidencial-petro-y-fico-sacan-distancia-a-los-otros-candidatos-662562 |archive-date=27 April 2022|url-status=live|language=es}}</ref>
+| 28–31 March 2022
+| 4,206
+| style="background:Plum; "|'''36.5%'''
+| style="background:#e2f6fe; "| '''24.5%'''
+| 10%
+| 8.4%
+| 1.5%
+| 0.9%
+| 0.5%
+| 0.3%
+| 8.1%
+| 2.8%
+| 6.2%
+| 1.5%
+|-
+| YanHaas<ref>{{cite news |title=La Gran Encuesta: Petro encabeza intención de voto para las presidenciales, seguido por 'Fico' |url=https://www.lafm.com.co/politica/la-gran-encuesta-petro-encabeza-intencion-de-voto-para-las-presidenciales-seguido-por-fico |access-date=26 April 2022 |work=LAFM |date=21 March 2021|archive-url= https://web.archive.org/web/20220418053733/https://www.lafm.com.co/politica/la-gran-encuesta-petro-encabeza-intencion-de-voto-para-las-presidenciales-seguido-por-fico |archive-date=18 April 2022|url-status=live|language=es}}</ref>
+| 14–19 March 2022
+| 1,236
+| style="background:Plum; "|'''37%'''
+| style="background:#e2f6fe;|'''19%'''
+| 11%
+| 10%
+| 2%
+| —
+| 0.3%
+| 0.2%
+| 16%
+| —
+| 5%
+| 3.2
+|-
+| CNC/Semana<ref>{{cite news |title=Petro y Fico se separan del lote en nueva encuesta presidencial |url=https://www.eltiempo.com/elecciones-2022/presidencia/gustavo-petro-y-federico-gutierrez-lideran-intencion-de-voto-en-encuesta-659719 |access-date=26 April 2022 |work=El Tiempo |date=20 March 2022|archive-url= https://web.archive.org/web/20220513030838/https://www.eltiempo.com/elecciones-2022/presidencia/gustavo-petro-y-federico-gutierrez-lideran-intencion-de-voto-en-encuesta-659719 |archive-date=13 May 2022|url-status=live|language=es}}</ref>
+| 18–19 March 2022
+| 2,143
+| style="background:Plum; "|'''32%'''
+| style="background:#e2f6fe; "|'''23%'''
+| 10%
+| 10%
+| 3%
+| —
+| 1%
+| 0%
+| 5%
+| 2%
+| 13%
+| 2.1%
+|}</div>
+
+===Polls prior to the finalisation of candidates===
+====Graphical summary====
+{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, first round (before candidate finalisation).chart|data=Opinion polling for the 2022 Colombian presidential election, first round (before candidate finalisation).tab|width=700px}}
+
+====Table of values====
+====2022====
+
+<div style="overflow:auto;">
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! Polling organisation/client
+! Date conducted
+! Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Alejandro Char Chaljub|Alejandro Char]]}}
+! {{vert header|mw=35px|stp=1|[[Alejandro Gaviria Uribe]]}}
+! {{vert header|mw=35px|stp=1|Alfredo Saade}}
+! {{vert header|mw=35px|stp=1|[[Arelis Uriana]]}}
+! {{vert header|mw=35px|stp=1|Aydeé Lizarazo}}
+! {{vert header|mw=35px|stp=1|Camilo Romero}}
+! {{vert header|mw=35px|stp=1|[[Carlos Amaya]]}}
+! {{vert header|mw=35px|stp=1|David Barguil}}
+! {{vert header|mw=35px|stp=1|[[Enrique Peñalosa]]}}
+! {{vert header|mw=35px|stp=1|[[Federico Gutiérrez]]}}
+! {{vert header|mw=35px|stp=1|[[Francia Márquez]]}}
+! {{vert header|mw=35px|stp=1|[[Gustavo Petro]]}}
+! {{vert header|mw=35px|stp=1|[[Íngrid Betancourt]]}}
+! {{vert header|mw=35px|stp=1|John Milton Rodríguez}}
+! {{vert header|mw=35px|stp=1|[[Jorge Enrique Robledo|Jorge Robledo]]}}
+! {{vert header|mw=35px|stp=1|[[Juan Fernando Cristo]]}}
+! {{vert header|mw=35px|stp=1|[[Juan Manuel Galán Pachón|Juan Manuel Galán]]}}
+! {{vert header|mw=35px|stp=1|Luis Pérez}}
+! {{vert header|mw=35px|stp=1|[[Óscar Iván Zuluaga]]}}
+! {{vert header|mw=35px|stp=1|[[Rodolfo Hernández Suárez|Rodolfo Hernández]]}}
+! {{vert header|mw=35px|stp=1|[[Sergio Fajardo]]}}
+! {{vert header|mw=35px|stp=1|Others}}
+! {{vert header|mw=35px|stp=1|No vote}}
+! {{vert header|mw=35px|stp=1|Blank}}
+! {{vert header|mw=35px|stp=1|Margin of error}}
+|-
+| AtlasIntel<ref name=atlasintel>{{cite web |title=Encuesta Atlas: Elecciones legislativas y consultas presidenciales 2022 |url= https://atlasintel.org/poll/colombia-national-2022-03-12 |publisher=AtlasIntel |access-date=26 April 2022 |date=12 March 2022|archive-url= https://web.archive.org/web/20220313193856/https://atlasintel.org/poll/colombia-national-2022-03-12 |archive-date=13 March 2022|url-status=live| language=es}}</ref>
+| 10–12 March
+| 2,376
+| 7.0%
+| 1.9%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#e2f6fe;"|'''11.4%'''
+| –
+| style="background:Plum;"|'''35.2%'''
+| 1.5%
+| 1.1%
+| 1.6%
+| –
+| 4.8%
+| 0.5%
+| 2.4%
+| 11.2%
+| 11.3%
+| –
+| 2.4%
+| –
+| 2%
+|-
+| Guarumo<ref name=encuesta>{{cite news |title=Petro, Fico y Fajardo ganarían las consultas, según encuesta Guarumo |url=https://www.eltiempo.com/elecciones-2022/consultas/elecciones-2022-petro-fico-y-fajardo-ganarian-consultas-segun-encuesta-656266 |access-date=26 April 2022 |work=El Tiempo |date=6 March 2022|archive-url= https://web.archive.org/web/20220325164753/https://www.eltiempo.com/elecciones-2022/consultas/elecciones-2022-petro-fico-y-fajardo-ganarian-consultas-segun-encuesta-656266 |archive-date=25 March 2022|url-status=live|language=es}}</ref>
+| 28 Feb–4 Mar
+| 2,345
+| 6.4%
+| 3.4%
+| 0.1%
+| 0.8%
+| 0.3%
+| 0.5%
+| 1.5%
+| 3.5%
+| 1.4%
+| 7.7%
+| 2.5%
+| style="background:Plum;"|'''32.7%'''
+| 3.3%
+| –
+| 1.2%
+| –
+| 3.4%
+| –
+| 5.3%
+| 8.2%
+| style="background:palegreen;"|'''9.1%'''
+| –
+| 4.8%
+| 1.5%
+| 2.5%
+|-
+| CELAG<ref>{{cite web |title=Encuesta Colombia, febrero 2022 |url=https://www.celag.org/encuesta-colombia-febrero-2022/ |publisher=CELAG |access-date=26 April 2022 |date=8 February 2022|archive-url= https://web.archive.org/web/20220320220903/https://www.celag.org/encuesta-colombia-febrero-2022/ |archive-date=20 March 2022|url-status=dead|language=es}}</ref>
+| 14 Jan–4 Feb
+| 2,126
+| style="background:#FFE8E8;"|'''11.3%'''
+| 3.4%
+| –
+| –
+| –
+| –
+| –
+| –
+| 0.1%
+| 2.2%
+| –
+| style="background:Plum;"|'''28.1%'''
+| –
+| 1.0%
+| –
+| –
+| 2.3%
+| –
+| 3.2%
+| 4.1%
+| 7.2%
+| –
+| 11.8%
+| 15.1%
+| 2.19%
+|-
+| CNC<ref name=cnca>{{cite news |title=Nueva encuesta: Gustavo Petro y Rodolfo Hernández crecen |url=https://www.eltiempo.com/politica/partidos-politicos/gustavo-petro-y-rodolfo-hernandez-crecen-en-intencion-de-voto-649639 |access-date=26 April 2022 |work=El Tiempo |date=5 February 2022|archive-url = https://web.archive.org/web/20220228022017/https://www.eltiempo.com/politica/partidos-politicos/gustavo-petro-y-rodolfo-hernandez-crecen-en-intencion-de-voto-649639 |archive-date=28 February 2022|url-status=live|language=es}}</ref>
+| 26 Jan–2 Feb
+| 2,206
+| 5%
+| 2%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 2%
+| 4%
+| –
+| style="background:Plum";|'''27%'''
+| 7%
+| –
+| –
+| –
+| 4%
+| –
+| 4%
+| style="background:#FFED99";|'''14%'''
+| 6%
+| 1%
+| 11%
+| 6%
+| 2.1%
+|-
+| YanHaas<ref>{{cite news |title=#LaGranEncuesta Petro, Fajardo y Gutiérrez puntean en intención de voto en coaliciones |url=https://www.elcolombiano.com/colombia/politica/gustavo-petro-sergio-fajardo-y-federico-gutierrez-lideran-intencion-de-voto-en-sus-coaliciones-PB16533826 |access-date=26 April 2022 |work=El Colombiano |date=6 February 2022|archive-url= https://web.archive.org/web/20220409025143/https://www.elcolombiano.com/colombia/politica/gustavo-petro-sergio-fajardo-y-federico-gutierrez-lideran-intencion-de-voto-en-sus-coaliciones-PB16533826 |archive-date=9 April 2022|url-status=live|language=es}}</ref>
+| 25–31 January
+| 1,225
+| 5%
+| 1%
+| 0.1%
+| 0.4%
+| 1%
+| 1%
+| 1%
+| 1%
+| 2%
+| 3%
+| 3%
+| style="background:Plum";|'''27%'''
+| 2%
+| 0.1%
+| 1%
+| 0.1%
+| 3%
+| 1%
+| 4%
+| style="background:#FFED99;|'''12%'''
+| 7%
+| –
+| 19%
+| –
+| 3.2%
+|}</div>
+
+====2021====
+<div style="overflow:auto;">
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! Polling organisation/client
+! Date conducted
+! Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Alejandro Char Chaljub|Alejandro Char]]}}
+! {{vert header|mw=35px|stp=1|[[Alejandro Gaviria Uribe]]}}
+! {{vert header|mw=35px|stp=1|[[Ángela Robledo]]}}
+! {{vert header|mw=35px|stp=1|Camilo Romero}}
+! {{vert header|mw=35px|stp=1|David Barguil}}
+! {{vert header|mw=35px|stp=1|Dilian Francisca Toro}}
+! {{vert header|mw=35px|stp=1|Enrique Peñalosa}}
+! {{vert header|mw=35px|stp=1|[[Federico Gutiérrez]]}}
+! {{vert header|mw=35px|stp=1|[[Germán Vargas Lleras]]}}
+! {{vert header|mw=35px|stp=1|[[Gustavo Petro]]}}
+! {{vert header|mw=35px|stp=1|[[Humberto De la Calle]]}}
+! {{vert header|mw=35px|stp=1|[[Jorge Enrique Robledo]]}}
+! {{vert header|mw=35px|stp=1|[[Juan Carlos Echeverry (politician)|Juan Carlos Echeverry]]}}
+! {{vert header|mw=35px|stp=1|[[Juan Carlos Pinzón]]}}
+! {{vert header|mw=35px|stp=1|[[Juan Manuel Galán Pachón|Juan Manuel Galán]]}}
+! {{vert header|mw=35px|stp=1|Luis Pérez}}
+! {{vert header|mw=35px|stp=1|María Fernanda Cabal}}
+! {{vert header|mw=35px|stp=1|[[Marta Lucía Ramírez]]}}
+! {{vert header|mw=35px|stp=1|[[Óscar Iván Zuluaga]]}}
+! {{vert header|mw=35px|stp=1|[[Paloma Valencia]]}}
+! {{vert header|mw=35px|stp=1|[[Rodolfo Hernández Suárez|Rodolfo Hernández]]}}
+! {{vert header|mw=35px|stp=1|Rodrigo Lara}}
+! {{vert header|mw=35px|stp=1|[[Roy Barreras]]}}
+! {{vert header|mw=35px|stp=1|[[Sergio Fajardo]]}}
+! {{vert header|mw=35px|stp=1|[[Simón Gaviria Muñoz]]}}
+! {{vert header|mw=35px|stp=1|Tomás Uribe}}
+! {{vert header|mw=35px|stp=1|Others}}
+! {{vert header|mw=35px|stp=1|Blank}}
+! {{vert header|mw=35px|stp=1|Margin of error}}
+|-
+| YanHaas<ref>{{cite news |title=Gustavo Petro se queda con el podio de La Gran Encuesta |url=https://www.elcolombiano.com/colombia/gustavo-petro-y-rodolfo-hernandez-lideran-intencion-de-voto-presidencial-la-gran-encuesta-elecciones-2022-OC16149645 |access-date=26 April 2022 |work=El Colombiano|date=13 December 2021|archive-url=https://web.archive.org/web/20220512025642/https://www.elcolombiano.com/colombia/gustavo-petro-y-rodolfo-hernandez-lideran-intencion-de-voto-presidencial-la-gran-encuesta-elecciones-2022-OC16149645 |archive-date=12 May 2022|url-status=live|language=es}}</ref>
+| 30 Nov–8 Dec
+| 1,230
+| 5%
+| 1%
+| –
+| –
+| –
+| 2%
+| –
+| 3%
+| –
+| style="background:Plum;"|'''25%'''
+| –
+| –
+| –
+| –
+| 5%
+| –
+| –
+| –
+| 4%
+| –
+| style="background:#FFED99;"|'''13%'''
+| –
+| –
+| 8%
+| –
+| –
+| 4%
+| 18%
+| 2.8%
+|-
+| CNC/Semana<ref name=cncsemana>{{cite news |title=¡Despegó Rodolfo Hernández! La segunda vuelta presidencial podría ser entre él y Gustavo Petro |url=https://www.semana.com/nacion/articulo/despego-rodolfo-hernandez-la-segunda-vuelta-presidencial-podria-ser-entre-el-y-gustavo-petro/202158/ |access-date=26 April 2022 |work=Semana |date=11 December 2021|archive-url= https://web.archive.org/web/20220512025809/https://www.semana.com/nacion/articulo/despego-rodolfo-hernandez-la-segunda-vuelta-presidencial-podria-ser-entre-el-y-gustavo-petro/202158/|archive-date=12 May 2022|url-status=live|language=es}}</ref>
+| 26 Nov–7 Dec
+| 4,093
+| 4.5%
+| 2.3%
+| –
+| –
+| 0.6%
+| –
+| 2.1%
+| 3.3%
+| 2.2%
+| style="background:Plum;"|'''25.4%'''
+| –
+| –
+| 0.6%
+| –
+| 3.9%
+| –
+| –
+| –
+| 6.4%
+| –
+| style="background:#FFED99;"|'''11%'''
+| –
+| –
+| 7.3%
+| –
+| –
+| –
+| 17.4%
+| 1.5%
+|-
+| CNC<ref>{{cite news |title=Encuesta ¿Por quién votaría a la Presidencia? |url=https://noticias.canal1.com.co/politica/encuesta-por-quien-votaria-a-la-presidencia/ |access-date=26 April 2022 |work=Canal1 |date=12 November 2021|archive-url= https://web.archive.org/web/20220425034328/https://noticias.canal1.com.co/politica/encuesta-por-quien-votaria-a-la-presidencia/ |archive-date=25 April 2022|url-status=live|language=es}}</ref>
+| 9–12 November
+| 1,069
+| –
+| 5%
+| –
+| 1%
+| 1%
+| –
+| 2%
+| 5%
+| –
+| style="background:Plum;"|'''22%'''
+| 3%
+| 1%
+| 1%
+| –
+| 5%
+| 1%
+| 4%
+| –
+| 3%
+| –
+| style="background:#FFED99;"|'''6%'''
+| –
+| –
+| 5%
+| –
+| –
+| 19%
+| 7%
+| 3%
+|-
+| Datexco<ref>{{cite news |title=Datexco: En segunda vuelta, Petro ganaría excepto si enfrenta a Fajardo o Galán |url=https://www.elespectador.com/politica/encuesta-datexco-en-segunda-vuelta-petro-ganaria-excepto-si-enfrenta-a-fajardo-o-galan/ |access-date=26 April 2022 |work=El Espectador |date=3 November 2021 |archive-url=https://web.archive.org/web/20220511152340/https://www.elespectador.com/politica/encuesta-datexco-en-segunda-vuelta-petro-ganaria-excepto-si-enfrenta-a-fajardo-o-galan/ |archive-date=11 May 2022 |url-status=live|language=es}}</ref>
+| 15–26 October
+| 1,200
+| –
+| 6%
+| –
+| –
+| –
+| 1%
+| 3%
+| 6%
+| –
+| style="background:Plum;"|'''26%'''
+| –
+| –
+| –
+| –
+| 5%
+| –
+| 4%
+| –
+| 3%
+| –
+| 7%
+| –
+| –
+| style="background:palegreen;"|'''10%'''
+| –
+| –
+| 11%
+| 9%
+| N/A
+|-
+| CNC<ref>{{cite news |title=Petro y los enanitos: encuesta presidencial de SEMANA revela su sorprendente ventaja frente a sus rivales |url=https://www.semana.com/nacion/articulo/petro-y-los-enanitos-encuesta-presidencial-de-semana-revela-su-sorprendente-ventaja-frente-a-sus-rivales/202149/ |access-date=26 April 2022 |work=Semana |date=18 October 2021|archive-url= https://web.archive.org/web/20220402171440/https://www.semana.com/nacion/articulo/petro-y-los-enanitos-encuesta-presidencial-de-semana-revela-su-sorprendente-ventaja-frente-a-sus-rivales/202149/ |archive-date=2 April 2022|url-status=live|language=es}}</ref>
+| 8–14 October
+| 2,012
+| –
+| 2.6%
+| –
+| –
+| 1.3%
+| –
+| 1.2%
+| 3%
+| –
+| style="background:Plum;"|'''19.7%'''
+| 1.8%
+| –
+| –
+| 4.2%
+| –
+| 3.2%
+| –
+| –
+| 1.8%
+| –
+| 4.6%
+| 0.9%
+| 0.6%
+| style="background:palegreen;"|'''5.8%'''
+| –
+| –
+| –
+| 22.5%
+| N/A
+|-
+| CNC<ref>{{cite web |title=Petro, Fajardo y Galán lideran nueva encuesta presidencial en Colombia |url=https://www.valoraanalitik.com/2021/09/08/petro-fajardo-y-galan-lideran-nueva-encuesta-presidencial/?amp |publisher=Valora Analitik |access-date=26 April 2022 |date=8 September 2021|archive-url= https://web.archive.org/web/20211216203631/https://www.valoraanalitik.com/2021/09/08/petro-fajardo-y-galan-lideran-nueva-encuesta-presidencial/?amp|archive-date=16 December 2021|url-status=live|language=es}}</ref>
+| 3–8 September
+| 2,019
+| –
+| 3%
+| –
+| –
+| –
+| –
+| 1%
+| 4%
+| –
+| style="background:Plum;"|'''17%'''
+| –
+| –
+| –
+| –
+| 6%
+| –
+| 4%
+| –
+| 3%
+| –
+| 5%
+| –
+| –
+| style="background:palegreen;"|'''7%'''
+| –
+| –
+| –
+| 23%
+| 2.4%
+|-
+| Guarumo<ref>{{cite web |title=Gustavo Petro y Sergio Fajardo siguen liderando intención de voto para elecciones de Colombia en 2022 |url=https://www.valoraanalitik.com/2021/08/19/gustavo-petro-sergio-fajardo-siguen-liderando-intencion-voto/ |publisher=Valora Analitik |access-date=26 April 2022 |date=19 August 2021|archive-url= https://web.archive.org/web/20220425035741/https://www.valoraanalitik.com/2021/08/19/gustavo-petro-sergio-fajardo-siguen-liderando-intencion-voto/ |archive-date=25 April 2022|url-status=live|language=es}}</ref>
+| 14–16 August
+| 1,367
+| 4.2%
+| –
+| –
+| 1.2%
+| –
+| –
+| –
+| 8.9%
+| –
+| style="background:Plum;"| '''21.6%'''
+| 1.6%
+| 1.2%
+| –
+| –
+| 6.0%
+| –
+| 1.4%
+| –
+| 3.8%
+| –
+| 3.3%
+| 
+| –
+| style="background:palegreen;"|'''12.7%'''
+| –
+| –
+| 7.1%
+| 10.8%
+| 2.5%
+|-
+| CNC<ref>{{cite news |title=Encuesta SEMANA: Gustavo Petro bajó 4 puntos después del paro, ¿qué pasó con los demás candidatos? |url=https://www.semana.com/nacion/articulo/encuesta-semana-asi-impacto-el-paro-a-los-candidatos-presidenciales-para-el-2022/202100/ |access-date=26 April 2022 |work=Semana |date=26 June 2021|archive-url= https://web.archive.org/web/20211216153554/https://www.semana.com/nacion/articulo/encuesta-semana-asi-impacto-el-paro-a-los-candidatos-presidenciales-para-el-2022/202100/|archive-date=16 December 2021|url-status=live|language=es}}</ref>
+| 17–22 June
+| 2,077
+| 3%
+| 2%
+| –
+| –
+| –
+| –
+| 4%
+| 3%
+| 2%
+| style="background:Plum;"|'''21%'''
+| –
+| –
+| –
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:palegreen;"|'''6%'''
+| –
+| –
+| –
+| 26%
+| 2.4%
+|-
+| CELAG<ref>{{cite web |title=Encuesta Colombia, junio 2021 |url=https://www.celag.org/encuesta-colombia-junio-2021/ |publisher=CELAG |access-date=26 April 2022 |date=9 June 2021|language=es|archive-url= https://web.archive.org/web/20220423235233/https://www.celag.org/encuesta-colombia-junio-2021/|archive-date=23 April 2022|url-status=live}}</ref>
+| 13 May–8 June
+| 1,945
+| 4.3%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4.9%
+| 5.2%
+| style="background:Plum;"|'''30.3%'''
+| 6.2%
+| –
+| –
+| –
+| 7.3%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:palegreen"|'''14.7%'''
+| –
+| 3.3%
+| 4.2%
+| 14.3%
+| N/A
+|-
+| Guarumo<ref>{{cite news |title=Encuesta: vea cómo va la intención de voto para el 2022 |url=https://www.eltiempo.com/politica/partidos-politicos/asi-va-la-intencion-de-voto-para-el-2022-lidera-gustavo-petro-y-fajardo-590978 |access-date=26 April 2022 |work=El Tiempo |date=25 May 2021|archive-url= https://web.archive.org/web/20220112022658/https://www.eltiempo.com/politica/partidos-politicos/asi-va-la-intencion-de-voto-para-el-2022-lidera-gustavo-petro-y-fajardo-590978|archive-date=12 January 2022|url-status=live|language=es}}</ref>
+| 19–23 May
+| 1,480
+| 4.8%
+| –
+| –
+| –
+| –
+| –
+| –
+| 8.5%
+| –
+| style="background:Plum;"|'''20.6%'''
+| 2.3%
+| 2%
+| –
+| 2.8%
+| 3%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:palegreen;"|'''9.8%'''
+| –
+| 2%
+| 8.3%
+| 20.4%
+| N/A
+|-
+| Guarumo<ref>{{cite news |title=Encuesta sobre los precandidatos presidenciales |url=https://noticias.canal1.com.co/uno-dos-tres/encuesta-precandidatos-presidenciales/ |access-date=26 April 2022 |work=Canal1 |date=27 April 2021|language=es}}</ref>
+| April
+| 1,370
+| 7.6%
+| –
+| –
+| –
+| –
+| –
+| –
+| 9.7%
+| –
+| style="background:Plum;"|'''24.2%'''
+| 2.3%
+| 2%
+| –
+| 2.8%
+| 3%
+| –
+| –
+| 6.9%
+| –
+| –
+| –
+| –
+| –
+| style="background:palegreen;"|'''16.9%'''
+| –
+| 4.2
+| –
+| –
+| N/A
+|-
+| Invamer<ref>{{cite news |title=Aprobación de presidente Iván Duque cae, Petro lidera intención de voto: encuesta Invamer |url=https://noticias.caracoltv.com/colombia/aprobacion-de-presidente-ivan-duque-cae-petro-lidera-intencion-de-voto-encuesta-invamer |access-date=26 April 2022 |work=Caravel TV |date=21 April 2021|archive-url= https://web.archive.org/web/20211216153549/https://noticias.caracoltv.com/colombia/aprobacion-de-presidente-ivan-duque-cae-petro-lidera-intencion-de-voto-encuesta-invamer|archive-date=16 December 2021|url-status=live|language=es}}</ref>
+| April
+| 1,008
+| 6.1%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5.2%
+| –
+| style="background:Plum;"|'''38.3%'''
+| 4%
+| 3.7%
+| –
+| 1.3%
+| 4.4%
+| -
+| –
+| 11.8%
+| –
+| –
+| –
+| –
+| –
+| style="background:palegreen;"|'''15.9%'''
+| –
+| 4.6%
+| –
+| 4.6%
+| 5%
+|-
+| CNC<ref>{{cite news |title=Petro se escapa del lote y puntea en encuesta de intención de voto a la Presidencia |url=https://www.semana.com/nacion/articulo/petro-se-escapa-del-lote-y-puntea-encuesta-de-intencion-de-voto-a-la-presidencia/202128/ |access-date=26 April 2022 |work=Semana |date=23 March 2021|archive-url= https://web.archive.org/web/20220316190234/https://www.semana.com/nacion/articulo/petro-se-escapa-del-lote-y-puntea-encuesta-de-intencion-de-voto-a-la-presidencia/202128/|archive-date=16 March 2022|url-status=live|language=es}}</ref>
+| 8–18 March
+| 4,435
+| 6%
+| 2%
+| –
+| –
+| –
+| 4%
+| –
+| 6%
+| 3%
+| style="background:Plum;"|'''23%'''
+| –
+| 2%
+| –
+| 2%
+| 6%
+| –
+| –
+| 9%
+| –
+| 1%
+| 4%
+| –
+| –
+| style="background:palegreen;"|'''12%'''
+| 1%
+| 2%
+| 3%
+| 8%
+| N/A
+|-
+| Datexco<ref>{{cite news |title=Petro, Fajardo and Char lead voting intention for 2022, according to Datexco |url=https://www.elespectador.com/politica/petro-fajardo-y-char-lideran-intencion-de-voto-para-2022-segun-datexco-article/ |access-date=15 May 2022 |work=El Espectador |date=17 March 2021 |archive-url=https://web.archive.org/web/20210613091458/https://www.elespectador.com/politica/petro-fajardo-y-char-lideran-intencion-de-voto-para-2022-segun-datexco-article/ |archive-date=13 June 2021|url-status=live|language=es}}</ref>
+| 4–15 March
+| 1,200
+| 6%
+| 3%
+| 1%
+| –
+| –
+| 1%
+| 1%
+| 4%
+| 2%
+| style="background:Plum;"|'''19%'''
+| 3%
+| 1%
+| –
+| –
+| 3%
+| –
+| –
+| 3%
+| 2%
+| –
+| 4%
+| –
+| –
+| style="background:palegreen;"|'''11%'''
+| –
+| –
+| 9%
+| 5%
+| 2.8%
+|}</div>
+
+====2020====
+<div style="overflow:auto;">
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! Polling organisation/client
+! Dates conducted
+! Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Alejandro Char Chaljub|Alejandro Char]]}}
+! {{vert header|mw=35px|stp=1|[[Alejandro Gaviria Uribe]]}}
+! {{vert header|mw=35px|stp=1|[[Ángela Robledo]]}}
+! {{vert header|mw=35px|stp=1|[[Aurelio Iragorri Valencia]]}}
+! {{vert header|mw=35px|stp=1|[[Carlos Holmes Trujillo]]}}
+! {{vert header|mw=35px|stp=1|[[Federico Gutiérrez]]}}
+! {{vert header|mw=35px|stp=1|[[Fernando Carrillo Flórez]]}}
+! {{vert header|mw=35px|stp=1|[[Germán Vargas Lleras]]}}
+! {{vert header|mw=35px|stp=1|[[Gustavo Petro]]}}
+! {{vert header|mw=35px|stp=1|[[Humberto De la Calle]]}}
+! {{vert header|mw=35px|stp=1|[[Iván Marulanda]]}}
+! {{vert header|mw=35px|stp=1|[[Jorge Enrique Robledo]]}}
+! {{vert header|mw=35px|stp=1|[[Juan Carlos Pinzón]]}}
+! {{vert header|mw=35px|stp=1|[[Juan Fernando Cristo]]}}
+! {{vert header|mw=35px|stp=1|[[Juan Manuel Galán Pachón|Juan Manuel Galán]]}}
+! {{vert header|mw=35px|stp=1|[[Marta Lucía Ramírez]]}}
+! {{vert header|mw=35px|stp=1|[[Paloma Valencia]]}}
+! {{vert header|mw=35px|stp=1|Rafael Nieto Loaiza}}
+! {{vert header|mw=35px|stp=1|[[Rodolfo Hernández Suárez|Rodolfo Hernández]]}}
+! {{vert header|mw=35px|stp=1|[[Roy Barreras]]}}
+! {{vert header|mw=35px|stp=1|[[Sergio Fajardo]]}}
+! {{vert header|mw=35px|stp=1|Tomás Uribe}}
+! {{vert header|mw=35px|stp=1|Blank}}
+! {{vert header|mw=35px|stp=1|Margin of error}}
+|-
+| Invamer<ref>{{cite news |title=Gustavo Petro y Sergio Fajardo encabezan intención de voto para presidenciales de 2022 |url=https://noticias.caracoltv.com/politica/encuesta-invamer-noviembre-2020 |access-date=26 April 2022 |work=Caracol TV |date=26 November 2021 |archive-url=https://web.archive.org/web/20201126125405/https://noticias.caracoltv.com/politica/encuesta-invamer-noviembre-2020 |archive-date=26 November 2020|url-status=live|language=es}}</ref>
+| 19–22 November
+| 1,008
+| 5.5%
+| 1.3%
+| –
+| –
+| 2.1%
+| 6.7%
+| –
+| –
+| style="background:Plum;"|'''25.9%'''
+| 7%
+| 0.6%
+| –
+| –
+| –
+| 7.2%
+| 18.7%
+| –
+| –
+| –
+| 0.6%
+| style="background:palegreen;"|'''20.5%'''
+| –
+| 3.9%
+| 3%
+|-
+| Guarumo<ref>{{cite news |title=Fajardo supera a Petro en intención de voto |url=https://www.eltiempo.com/politica/partidos-politicos/fajardo-supera-a-petro-en-intencion-de-voto-segun-nueva-encuesta-541131 |access-date=26 April 2022 |work=El Tiempo |date=2 October 2020 |archive-url=https://web.archive.org/web/20211216153549/https://www.eltiempo.com/politica/partidos-politicos/fajardo-supera-a-petro-en-intencion-de-voto-segun-nueva-encuesta-541131 |archive-date=16 December 2021|url-status=live}}</ref>
+| 27–30 September
+| 1,257
+| 11.2%
+| –
+| –
+| –
+| –
+| 12.1%
+| –
+| –
+| style="background:#E8BFFB;"|'''13.4%'''
+| –
+| –
+| –
+| 1.7%
+| –
+| 8%
+| 2.1%
+| –
+| –
+| 1.0%
+| –
+| style="background:lightgreen;"|'''18.1%'''
+| –
+| –
+| N/A
+|-
+| CNC<ref>{{cite news |title=Fajardo le gana a Petro en intención de voto, según CNC |url=https://www.bluradio.com/nacion/fajardo-le-gana-a-petro-en-intencion-de-voto-segun-cnc |access-date=26 April 2022 |work=Blu Radio |date=8 September 2020 |archive-url=https://web.archive.org/web/20211216153551/https://www.bluradio.com/nacion/fajardo-le-gana-a-petro-en-intencion-de-voto-segun-cnc |archive-date=16 December 2021|url-status=live|language=es}}</ref>
+| 8 September
+| 809
+| 2%
+| 1%
+| –
+| –
+| 1%
+| 5%
+| –
+| 3%
+| style="background:#E8BFFB;"|'''16%'''
+| 5%
+| –
+| 2%
+| –
+| –
+| 8%
+| 6%
+| –
+| –
+| –
+| –
+| style="background:lightgreen"|'''20%'''
+| 5%
+| 3%
+| N/A
+|-
+| Guarumo<ref>{{cite news |title=Así va la carrera entre los aspirantes a la Presidencia en 2022 |url=https://www.eltiempo.com/politica/partidos-politicos/presidente-de-colombia-asi-va-la-carrera-entre-los-aspirantes-a-la-presidencia-en-2022-530402 |access-date=26 April 2022 |work=El Tiempo |date=18 August 2020 |archive-url=https://web.archive.org/web/20211216153550/https://www.eltiempo.com/politica/partidos-politicos/presidente-de-colombia-asi-va-la-carrera-entre-los-aspirantes-a-la-presidencia-en-2022-530402 |archive-date=16 December 2021|url-status=live|language=es}}</ref>
+| 11–15 August
+| 1,876
+| 9.1%
+| –
+| –
+| –
+| –
+| 12.4%
+| –
+| –
+| style="background:#E8BFFB;"|'''16.5%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| 5.7%
+| –
+| –
+| –
+| –
+| style="background:lightgreen;"|'''23.1%'''
+| –
+| –
+| N/A
+|-
+| CNC<ref>{{cite news |title=Gran Encuesta: Gustavo Petro lidera intención de voto para elecciones presidenciales de 2022 |url=https://noticias.canal1.com.co/politica/gran-encuesta-gustavo-petro-lidera-intencion-voto-elecciones-presidenciales-2022/ |access-date=26 April 2022 |work=Canal TV |date=6 August 2020 |archive-url=https://web.archive.org/web/20220318210933/https://noticias.canal1.com.co/politica/gran-encuesta-gustavo-petro-lidera-intencion-voto-elecciones-presidenciales-2022/ |archive-date=18 March 2022|url-status=live|language=es}}</ref>
+| 3–6 August
+| 1,207
+| 5%
+| 2%
+| 3%
+| 1%
+| 3%
+| 8%
+| 2%
+| –
+| style="background:Plum;"|'''18%'''
+| –
+| –
+| 2%
+| –
+| 1%
+| 11%
+| –
+| 3%
+| –
+| –
+| –
+| style="background:palegreen;"|'''16%'''
+| –
+| –
+| 4%
+|-
+| Invamer<ref>{{cite news |title=Detención de Álvaro Uribe: el 53% está de acuerdo y el 41,4% no |url=https://noticias.caracoltv.com/politica/detencion-de-alvaro-uribe-el-53-esta-de-acuerdo-y-el-41-4-no |access-date=26 April 2022 |work=Caracol TV |date=13 August 2020 |archive-url=https://web.archive.org/web/20211216153553/https://noticias.caracoltv.com/politica/detencion-de-alvaro-uribe-el-53-esta-de-acuerdo-y-el-41-4-no |archive-date=16 December 2021 |url-status=live|language=es}}</ref>
+| 30 July–4 August
+| 1,008
+| 7%
+| –
+| –
+| –
+| –
+| 8.9%
+| –
+| –
+| style="background:Plum;"|'''32.9%'''
+| 12.1%
+| –
+| 4.3%
+| –
+| –
+| –
+| 11.4%
+| –
+| 1.3%
+| –
+| –
+| style="background:palegreen;"|'''19.9%'''
+| –
+| 2.1%
+| 5%
+|}</div>
+
+==Second round==
+
+===Petro vs. Hernández===
+
+<section begin="Second Round Presidential polling chart"/>{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, second round (Petro vs. Hernandez).chart|data=Opinion polling for the 2022 Colombian presidential election, second round (Petro vs. Hernandez).tab|width=700px}}<section end="Second Round Presidential polling chart"/>
+
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! rowspan=2| Polling organisation/client
+! rowspan=2| Dates conducted
+! rowspan=2| Sample<br />size
+! style="width:30px;"| [[Gustavo Petro]]<br/>{{small|[[Historic Pact for Colombia|PHC]]}}
+! style="width:30px;"| [[Rodolfo Hernández Suárez|Rodolfo Hernández]]<br/>{{small|[[League of Anti-Corruption Governors|LIGA]]}}
+! rowspan=2 style="width:30px;" | Blank
+! rowspan=2 style="width:30px;" | No vote
+! rowspan=2 style="width:30px;" | Unsure/No answer
+! rowspan=2 style="width:30px;" | Margin of Error
+|-
+! style="background:#A42F95;"|
+! style="background:#F5EC49;"|
+|- style="background:#D5D5D5;"
+| Second round election<ref>{{cite web |title=En la segunda vuelta presidencial del 2022 se registró la abstención más baja de los últimos 24 años |url=https://www.registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html |publisher=National Register of Colombia |access-date=21 July 2022 |archive-url=https://web.archive.org/web/20220706123801/https://www.registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html |archive-date=6 July 2022 |language=es |date=21 June 2022 |url-status=live}}</ref>
+| 19 June 2022
+| –
+| style="background:Plum;"|'''50.42%'''
+| 47.35%
+| 2.23%
+| –
+| –
+| –
+|-
+| AtlasIntel<ref>{{cite news |title=Colombia: National |url=https://atlasintel.org/poll/colombia-national-2022-06-11 |access-date=15 June 2022 |work=AtlasIntel |date=11 June 2022}}</ref>
+| 8–11 June 2022
+| 4,467
+| 47.5%
+| style="background:#F5EC49;"|'''50.2%'''
+| 2.4%
+| –
+| –
+| 1%
+|-
+| YanHaas<ref>{{cite news |title=Encuesta Yanhaas: Petro 45 %; Rodolfo 35 %; voto en blanco 13 % |url=https://www.eltiempo.com/elecciones-2022/presidencia/encuesta-yanhaas-petro-45-rodolfo-hernandez-35-voto-en-blanco-13-679482 |access-date=11 June 2022 |work=El Tiempo |date=11 June 2022 |language=es}}</ref>
+| 5–10 June 2022
+| 1,234
+| style="background:Plum;"|'''45%'''
+| 35%
+| 13%
+| –
+| 7%
+| 3.2%
+|-
+| GAD3<ref>{{cite news |title=Rodolfo Hernández Vs Gustavo Petro: resultados del cabeza a cabeza en último tracking presidencial |url=https://www.rcnradio.com/politica/rodolfo-hernandez-vs-gustavo-petro-resultados-del-cabeza-a-cabeza-en-ultimo-tracking |access-date=11 June 2022 |work=RCN Radio |date=11 June 2022 |language=es}}</ref>
+| 30 May–10 June 2022
+| 5,236
+| 47.1%
+| style="background:#F5EC49;"|'''47.9%'''
+| 5%
+| –
+| –
+| 1.4%
+|-
+| Guarumo<ref>{{cite news |title=Encuesta: Rodolfo, 48,2 %; Petro, 46,5 %; voto en blanco, 5,3 % |url=https://www.eltiempo.com/elecciones-2022/actualidad-electoral/rodolfo-hernandez-48-2-gustavo-petro-46-5-encuesta-guarumo-679400 |access-date=11 June 2022 |work=El Tiempo |date=11 June 2022 |language=es}}</ref>
+| 6–9 June 2022
+| 2,029
+| 46.5%
+| style="background:#F5EC49;"|'''48.2%'''
+| 5.3%
+| –
+| –
+| 2.5%
+|-
+| GAD3<ref>{{cite news |title=Tracking Presidencial: Petro sigue liderando y Rodolfo se estanca |url=https://www.noticiasrcn.com/elecciones/resultados-primera-encuesta-de-tracking-presidencial-420694 |access-date=10 June 2022 |work=RCN Radio |date=10 June 2022 |language=es}}</ref>
+| 30 May–9 June 2022
+| 4,834
+| style="background:Plum;"|'''48.1%'''
+| 46.8%
+| 5.1%
+| –
+| –
+| 1.3%
+|-
+| Mosqueteros<ref>{{cite news |title=Rodolfo Hernández toma ventaja sobre Petro en nueva encuesta electoral |url=https://www.valoraanalitik.com/2022/06/09/rodolfo-hernandez-toma-ventaja-sobre-petro-encuesta/ |access-date=10 June 2022 |work=Valora Analitik |date=9 June 2022 |language=es}}</ref>
+| 7–8 June 2022
+| 6,000
+| 43.83%
+| style="background:#F5EC49;"|'''44.68%'''
+| 3.54%
+| –
+| 7.95%
+| 1.27%
+|-
+| GAD3<ref>{{cite news |title=Tracking Presidencial: Tracking Presidencial: Petro sigue liderando y le saca más ventaja a Rodolfo. Consultado el 9 de junio de 2022 |url=https://www.noticiasrcn.com/elecciones/resultados-primera-encuesta-de-tracking-presidencial-420694 |access-date=8 June 2022 |work=RCN Radio |date=9 June 2022 |language=es}}</ref>
+| 30 May–8 June 2022
+| 4,438
+| style="background:Plum;"|'''48.5%'''
+| 46.7%
+| 4.9%
+| –
+| –
+| 1.5%
+|-
+| Invamer<ref>{{cite news |author1=Mireya Fernández Beltrán |title=Rodolfo Hernández 48,2% y Gustavo Petro 47,2%: encuesta Invamer prevé final de infarto |url=https://noticias.caracoltv.com/politica/elecciones-colombia/encuestas/rodolfo-hernandez-48-2-y-gustavo-petro-47-2-encuesta-invamer-preve-final-de-infarto-rg10 |access-date=11 June 2022 |work=Caravel TV |date=10 June 2022 |language=es}}</ref>
+| 3–7 June 2022
+| 1,329
+| 47.2%
+| style="background:#F5EC49"|'''48.2%'''
+| 4.7%
+| –
+| –
+| 2.69%
+|-
+| GAD3<ref>{{cite news |title=Tracking Presidencial: Tracking Presidencial: por primera vez, Petro se pone adelante de Rodolfo. Consultado el 8 de junio de 2022 |url=https://www.noticiasrcn.com/elecciones/resultados-primera-encuesta-de-tracking-presidencial-420694 |access-date=8 June 2022 |work=RCN Radio |date=8 June 2022 |language=es}}</ref>
+| 30 May–7 June 2022
+| 4,041
+| style="background:Plum;"|'''47.8%'''
+| 47.1%
+| 5.1%
+| –
+| –
+| 1.6%
+|-
+| GAD3<ref>{{cite news |title=Tracking Presidencial: Rodolfo Hernández bajó al 47.8% mientras que Petro se mantiene en 46,8%. Consultado el 7 de junio de 2022 |url=https://www.noticiasrcn.com/elecciones/resultados-primera-encuesta-de-tracking-presidencial-420694 |access-date=7 June 2022 |work=RCN Radio |date=7 June 2022 |language=es}}</ref>
+| 30 May–6 June 2022
+| 3,240
+| 46.8%
+| style="background:#F5EC49;"|'''47.8%'''
+| 5.4%
+| –
+| –
+| 1.7%
+|-
+| GAD3<ref>{{cite news |title=Rodolfo Hernández tiene 48,1 % de los votos y Gustavo Petro 46,8 % en segunda vuelta, según encuesta |url=https://www.rcnradio.com/politica/rodolfo-hernandez-tiene-481-de-los-votos-y-gustavo-petro-468-en-segunda-vuelta-segun |access-date=6 June 2022 |work=RCN Radio |date=5 June 2022 |language=es}}</ref>
+| 30 May–4 June 2022
+| 3,240
+| 46.8%
+| style="background:#F5EC49;"|'''48.1%'''
+| 5.1%
+| –
+| –
+| 1.3%
+|-
+| Guarumo<ref>{{cite news |title=Nueva encuesta: Rodolfo, 46,4 %; Petro, 43,3 % |url=https://www.eltiempo.com/elecciones-2022/presidencia/nueva-encuesta-de-intencion-de-voto-a-la-segunda-vuelta-presidencial-677733 |access-date=6 June 2022 |work=El Tiempo |date=5 June 2022 |language=es}}</ref>
+| 1–4 June 2022
+| 1,958
+| 43.3%
+| style="background:#F5EC49;"|'''46.4%'''
+| 8.4%
+| –
+| 1.9%
+| 2.5%
+|-
+| YanHaas<ref>{{cite news |title=La Gran Encuesta revela empate técnico: Gustavo Petro, 42%; Rodolfo Hernández, 41 % para segunda vuelta |url=https://www.elpais.com.co/politica/la-gran-encuesta-revela-empate-tecnico-gustavo-petro-42-rodolfo-hernandez-41-para-segunda-vuelta.html |access-date=5 June 2022 |work=El País |date=5 June 2022 |archive-url=https://web.archive.org/web/20220605231512/https://www.elpais.com.co/politica/la-gran-encuesta-revela-empate-tecnico-gustavo-petro-42-rodolfo-hernandez-41-para-segunda-vuelta.html |archive-date=5 June 2022 |url-status=live|language=es}}</ref>
+| 30 May–3 June 2022
+| 1,234
+| style="background:Plum;"|'''42%'''
+| 41%
+| 13%
+| –
+| 5%
+| 3.2%
+|-
+| GAD3<ref>{{cite news |author1=Erika Villanueva |title=Rodolfo Hernández sigue liderando y el voto en blanco crece, según tracking presidencial |url=https://www.rcnradio.com/politica/rodolfo-hernandez-sigue-liderando-y-el-voto-en-blanco-crece-segun-tracking-presidencial |access-date=4 June 2022 |work=RCN Radio|date=4 June 2022 |language=es}}</ref>
+| 30 May–3 June 2022
+| 2,840
+| 46.3%
+| style="background:#F5EC49;"|'''47.9%'''
+| 5.8%
+| –
+| –
+| 1.9%
+|-
+| CNC<ref>{{cite news |title=Atención: se aprieta la competencia por la Presidencia, según CNC, Gustavo Petro (44,9%) y Rodolfo Hernández (41%) |url=https://www.semana.com/nacion/articulo/atencion-se-aprieta-la-competencia-por-la-presidencia-segun-cnc-gustavo-petro-449-y-rodolfo-hernandez-41/202206/ |access-date=4 June 2022 |work=Semana |date=3 June 2022 |language=es}}</ref>
+| 31 May–2 June 2022
+| 2,172
+| style="background:Plum;"|'''44.9%'''
+| 41%
+| 3%
+| 1.7%
+| 9.4%
+| 2.1%
+|-
+| GAD3<ref>{{cite news |author1=Laura Rodríguez Hernández |title=Rodolfo Hernández sigue liderando intención de voto en segunda vuelta, pero pasó del 52,5 % al 50,4 % |url=https://www.rcnradio.com/politica/rodolfo-hernandez-sigue-liderando-intencion-de-voto-en-segunda-vuelta-pero-paso-del-525-al |access-date=4 June 2022 |work=RCN Radio |date=3 June 2022 |language=es}}</ref>
+| 2 June 2022
+| 553
+| 45.6%
+| style="background:#F5EC49;"|'''50.4%'''
+| 4%
+| –
+| –
+| 2.1%
+|-
+| GAD3<ref>{{cite news |author1=Laura Rodríguez Hernández |title=Rodolfo Hernández sigue liderando intención de voto en segunda vuelta con el 52.3 %, según consultora GAD3 |url=https://www.rcnradio.com/politica/rodolfo-hernandez-sigue-liderando-intencion-de-voto-en-segunda-vuelta-con-el-523-segun |access-date=3 June 2022 |work=RCN Radio |date=2 June 2022}}</ref>
+| 1 June 2022
+| 555
+| 45.1%
+| style="background:#F5EC49;"|'''52.3%'''
+| 2.6%
+| –
+| –
+| 2.4%
+|-
+| GAD3<ref>{{cite news |title=Rodolfo Hernández ganaría segunda vuelta con un 52%, según Tracking Presidencial |url=https://www.noticiasrcn.com/elecciones/resultados-primera-encuesta-de-tracking-presidencial-420694 |access-date=1 June 2022 |work=RCN Radio|date=1 June 2022 |language=es}}</ref>
+| 30–31 May 2022
+| 1,199
+| 44.8%
+| style="background:#F5EC49;"|'''52.5%'''
+| 2.7%
+| –
+| –
+| 2.9%
+|-
+| CNC<ref>{{cite news |title=Nueva encuesta CNC: Rodolfo llega al 41%, Petro queda en 39 % |url=https://www.eltiempo.com/elecciones-2022/presidencia/encuesta-presidencial-segunda-vuelta-rodolfo-adelante-de-petro-676660 |access-date=1 June 2022 |work=El Tiempo |date=1 June 2022 |language=es}}</ref>
+| 30–31 May 2022
+| 1,200
+| 39%
+| style="background:#F5EC49;"|'''41%'''
+| 5%
+| 1%
+| 14%
+| 2.8%
+|-
+| AtlasIntel<ref name=intel/>
+| 17–20 May 2022
+| 2,781
+| 39.8%
+| style="background:#F5EC49;"|'''48.2%'''
+| –
+| –
+| –
+| 2%
+|-
+| Guarumo<ref name=segunda/>
+| 16–19 May 2022
+| 2,258
+| style="background:Plum;"|'''45.2%'''
+| 41.5%
+| 8.6%
+| –
+| 4.7%
+| 2.5%
+|-
+| CNC<ref name=encuestacnc/>
+| 13–19 May 2022
+| 4,412
+| style="background:#E8BFFB;"|'''40.5%'''
+| style="background:#FFED99;"|'''40.5%'''
+| 3.7%
+| 9.3%
+| 6%
+| 1.5%
+|-
+| Mosqueteros<ref name=mosquemayo>{{cite web |title=Estudio Electoral |url=https://www.valoraanalitik.com/wp-content/uploads/2022/05/Encuesta-Electoral-JPG-Mayo-2022-CNE-1.pdf |publisher=Valoraanalitik |access-date=4 June 2022 |language=es}}</ref>
+| 15–18 May 2022
+| 6,000
+| style="background:Plum;"|'''45.3%'''
+| 35%
+| 19.7%
+| –
+| –
+| 1.27%
+|-
+| Invamer<ref name=caracoltv/>
+| 13–18 May 2022
+| 1,195
+| style="background:Plum;"|'''50.0%'''
+| 47.4%
+| 2.6%
+| –
+| –
+| 2.83%
+|-
+| YanHaas<ref name=rcn/>
+| 30 Apr–7 May 2022
+| 1,232
+| style="background:Plum;"|'''46%'''
+| 31%
+| –
+| 23%
+| –
+| 3.2%
+|-
+| Guarumo<ref name=tiempoguarumo/>
+| 25–29 Apr 2022
+| 2,132
+| style="background:Plum;"|'''44.5%'''
+| 37.1%
+| 8.6%
+| –
+| 9.8%
+| 2.5%
+|-
+| Invamer<ref name=invamercaracol/>
+| 21–27 April 2022
+| 1,243
+| style="background:Plum;"|'''56%'''
+| 40.6%
+| 3.4%
+| –
+| –
+| 2.55
+|-
+| CNC<ref name=cnc/>
+| 18–21 April 2022
+| 4,599
+| style="background:Plum;"|'''44.1%'''
+| 34.1%
+| 4.9%
+| 11.4%
+| 5.5%
+| 1.4%
+|-
+| CNC<ref name=tiempo/>
+| 4–7 April 2022
+| 1,965
+| style="background:Plum;"|'''40%'''
+| 38%
+| 4%
+| 10%
+| 8%
+| 2.2%
+|-
+| CNC<ref name=semana/>
+| 28–31 March 2022
+| 4,206
+| style="background:Plum;"|'''42.6%'''
+| 34.4%
+| 4.5%
+| 12.4%
+| 4.1%
+| 1.5%
+|-
+| YanHaas<ref name=yanhaas/>
+| 14–19 March 2022
+| 1,236
+| style="background:Plum;"|'''41%'''
+| 32%
+| –
+| 27%
+| –
+| 3.2%
+|}
+
+===Other scenarios===
+The following charts display matchups involving a candidate who did not qualify for the second round.
+
+====Petro vs. Gutiérrez====
+
+{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, second round (Petro vs. Gutierrez).chart|data=Opinion polling for the 2022 Colombian presidential election, second round (Petro vs. Gutierrez).tab|width=500px}}
+
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! rowspan=2| Polling organisation/client
+! rowspan=2| Date(s) conducted
+! rowspan=2| Sample<br />size
+! style="width:30px;"| [[Gustavo Petro]]<br/>{{small|[[Historic Pact for Colombia|PHC]]}}
+! style="width:30px;"| [[Federico Gutiérrez]]<br/>{{small|[[Team for Colombia|EPC]]}}
+! rowspan=2 style="width:30px;" | Blank
+! rowspan=2 style="width:30px;" | No vote
+! rowspan=2 style="width:30px;" | Unsure/No answer
+! rowspan=2 style="width:30px;" | Margin of Error
+|-
+! style="background:#A42F95;"|
+! style="background:#0061D3;"|
+|-
+| AtlasIntel<ref name=intel/>
+| 17–20 May 2022
+| 2,781
+| style="background:Plum;"|'''45.4%'''
+| 39.4%
+| –
+| –
+| –
+| 2%
+|-
+| Guarumo<ref name=segunda/>
+| 16–19 May 2022
+| 2,258
+| style="background:Plum;"|'''45.7%'''
+| 42%
+| 9.2%
+| –
+| 3.1%
+| 2.5%
+|-
+| CNC<ref name=encuestacnc/>
+| 13–19 May 2022
+| 4,412
+| style="background:Plum;"|'''44.2%'''
+| 34.9%
+| 5.2%
+| 10%
+| 5.7%
+| 1.5%
+|-
+| Mosqueteros<ref name=mosquemayo/>
+| 15–18 May 2022
+| 6,000
+| style="background:Plum;"|'''50.9%'''
+| 30.5%
+| 18.6%
+| –
+| –
+| 1.27%
+|-
+| Invamer<ref name=caracoltv/>
+| 13–18 May 2022
+| 1,205
+| style="background:Plum;"|'''52.7%'''
+| 44.2%
+| 3.1%
+| –
+| –
+| 2.82%
+|-
+| CNC<ref name=may/>
+| 2–13 May 2022
+| 6,204
+| style="background:Plum;"|'''47%'''
+| 39%
+| 5%
+| 6%
+| 3%
+| 1.2%
+|-
+| YanHaas<ref name=rcn/>
+| 30 Apr–7 May 2022
+| 1,232
+| style="background:Plum;"|'''47%'''
+| 34%
+| –
+| 19%
+| –
+| 3.2%
+|-
+| Guarumo<ref name=tiempoguarumo/>
+| 25–29 April 2022
+| 2,132
+| style="background:Plum;"|'''43.8%'''
+| 40.9%
+| 8.8%
+| –
+| 6.5%
+| 2.5%
+|-
+| Invamer<ref name=invamercaracol/>
+| 21–27 April 2022
+| 1,306
+| style="background:Plum;"|'''52.4%'''
+| 45.2%
+| 2.4%
+| –
+| –
+| 2.55%
+|-
+| CNC/Semana<ref name=cnc/>
+| 18–21 April 2022
+| 4,599
+| style="background:Plum;"|'''44.8%'''
+| 36.9%
+| 5.2%
+| 8%
+| 5.1%
+| 1.4%
+|-
+| CELAG<ref name=celag/>
+| 1–19 April 2022
+| 3,064
+| style="background:Plum;"|'''51.7%'''
+| 32.6%
+| 10.4%
+| –
+| 5.3%
+| 2.2%
+|-
+| CNC<ref name=tiempo/>
+| 4–7 April 2022
+| 1,965
+| style="background:Plum;"|'''41%'''
+| 39%
+| 6%
+| 7%
+| 7%
+| 2.2%
+|-
+| Guarumo<ref name=guarumo/>
+| 30 Mar–1 Apr 2022
+| 1,865
+| 40.1%
+| style="background:#B0CEFF;"|'''43.5%'''
+| 7.4%
+| –
+| 9%
+| 2.5%
+|-
+| CNC<ref name=semana>{{cite news |title=Segunda vuelta presidencial de infarto: Fico Gutiérrez está a solo tres puntos de Gustavo Petro |url=https://www.semana.com/nacion/articulo/segunda-vuelta-presidencial-de-infarto-fico-gutierrez-esta-a-solo-tres-puntos-de-gustavo-petro/202242/ |access-date=26 April 2022 |work=Semana |date=2 April 2022 |archive-url=https://web.archive.org/web/20220421130933/https://www.semana.com/nacion/articulo/segunda-vuelta-presidencial-de-infarto-fico-gutierrez-esta-a-solo-tres-puntos-de-gustavo-petro/202242/ |archive-date=21 April 2022 |url-status=live|language=es}}</ref>
+| 28–31 March 2022
+| 4,206
+| style="background:Plum;"|'''43.1%'''
+| 40.1%
+| 4.4%
+| 8.1%
+| 4.3%
+| 1.5%
+|-
+| YanHaas<ref name=yanhaas>{{cite news |title=#GranEncuesta: Gustavo Petro gana en todos los escenarios de segunda vuelta |url=https://www.elcolombiano.com/colombia/politica/gustavo-petro-gana-a-federico-gutierrez-sergio-fajardo-y-rodolfo-hernandez-en-segunda-vuelta-BG16981891 |access-date=26 April 2022 |work=El Colombiano |date=21 March 2022 |archive-url=https://web.archive.org/web/20220421203408/https://www.elcolombiano.com/colombia/politica/gustavo-petro-gana-a-federico-gutierrez-sergio-fajardo-y-rodolfo-hernandez-en-segunda-vuelta-BG16981891 |archive-date=21 April 2022 |url-status=live|language=es}}</ref>
+| 14–19 March 2022
+| 1,236
+| style="background:Plum;"|'''42%'''
+| 35%
+| –
+| 23%
+| –
+| 3.2%
+|}
+
+====Petro vs. Fajardo====
+
+{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, second round (Petro vs. Fajardo).chart|data=Opinion polling for the 2022 Colombian presidential election, second round (Petro vs. Fajardo).tab|width=500px}}
+
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! rowspan=2| Polling organisation/client
+! rowspan=2| Date conducted
+! rowspan=2| Sample<br />size
+! style="width:30px;"| [[Gustavo Petro]]<br/>{{small|[[Historic Pact for Colombia|PHC]]}}
+! style="width:30px;"| [[Sergio Fajardo]]<br/>{{small|[[Hope Center Coalition|CCE]]}}
+! rowspan=2 style="width:30px;" | Blank
+! rowspan=2 style="width:30px;" | No vote
+! rowspan=2 style="width:30px;" | Unsure/No answer
+! rowspan=2 style="width:30px;" | Margin of Error
+|-
+! style="background:#A42F95;"|
+! style="background:#73BE01;"|
+|-
+| AtlasIntel<ref name=intel/>
+| 17–20 May 2022
+| 2,781
+| style="background:Plum;"|'''41.5%'''
+| 34.8%
+| –
+| –
+| –
+| 2%
+|-
+| Guarumo<ref name=segunda/>
+| 16–19 May 2022
+| 2,258
+| style="background:Plum;"|'''45%'''
+| 38.7%
+| 12.3%
+| –
+| 4%
+| 2.5%
+|-
+| CNC<ref name=encuestacnc/>
+| 13–19 May 2022
+| 4,412
+| style="background:Plum;"|'''43.6%'''
+| 32%
+| 5.9%
+| 13%
+| 5.5%
+| 1.5%
+|-
+| Mosqueteros<ref name=mosquemayo/>
+| 15–18 May 2022
+| 6,000
+| style="background:Plum;"|'''50.1%'''
+| 25.8%
+| 24.1%
+| –
+| –
+| 1.27%
+|-
+| Invamer<ref name=caracoltv/>
+| 13–18 May 2022
+| 1,125
+| style="background:Plum;"|'''57.8%'''
+| 39.0%
+| 3.2%
+| –
+| –
+| 2.92%
+|-
+| YanHaas<ref name=rcn/>
+| 30 Apr–7 May 2022
+| 1,232
+| style="background:Plum;"|'''46%'''
+| 29%
+| –
+| 24%
+| –
+| 3.2%
+|-
+| Guarumo<ref name=tiempoguarumo/>
+| 25–29 April 2022
+| 2,132
+| style="background:Plum;"|'''44.8%'''
+| 36%
+| 11.1%
+| –
+| 8.1%
+| 2.5%
+|-
+| Invamer<ref name=invamercaracol/>
+| 21–27 April 2022
+| 1,215
+| style="background:Plum;"|'''56.5%'''
+| 40.4%
+| 3.1%
+| –
+| –
+| 2.55%
+|-
+| CNC<ref name=cnc/>
+| 18–21 April 2022
+| 4,599
+| style="background:Plum;"|'''43.4%'''
+| 35.8%
+| 5.3%
+| 10.5%
+| 5%
+| 1.4%
+|-
+| CNC<ref name=tiempo/>
+| 4–7 April 2022
+| 1,965
+| style="background:Plum;"|'''39%'''
+| 38%
+| 6%
+| 10%
+| 7%
+| 2.2%
+|-
+| CNC<ref name=semana/>
+| 30 Mar–1 Apr 2022
+| 4,206
+| style="background:Plum;"|'''41.5%'''
+| 38.3%
+| 5%
+| 11.2%
+| 4%
+| 1.5%
+|-
+| YanHaas<ref name=yanhaas/>
+| 14–19 March 2022
+| 1,236
+| style="background:Plum;"|'''41%'''
+| 35%
+| –
+| 24%
+| –
+| 3.2%
+|}
+
+====Petro vs. Betancourt====
+
+{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, second round (Petro vs. Betancourt).chart|data=Opinion polling for the 2022 Colombian presidential election, second round (Petro vs. Betancourt).tab|width=500px}}
+
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! rowspan=2| Polling organisation/client
+! rowspan=2| Date conducted
+! rowspan=2| Sample<br />size
+! style="width:30px;"| [[Gustavo Petro]]<br/>{{small|[[Historic Pact for Colombia|PHC]]}}
+! style="width:30px;"| [[Íngrid Betancourt]]<br/>{{small|[[Oxygen Green Party|PVO]]}}
+! rowspan=2 style="width:30px;" | Blank
+! rowspan=2 style="width:30px;" | No vote
+! rowspan=2 style="width:30px;" | Unsure/No answer
+! rowspan=2 style="width:30px;" | Margin of Error
+|-
+! style="background:#A42F95;"|
+! style="background:#178D04;"|
+|-
+| AtlasIntel<ref name=intel/>
+| 17–20 May 2022
+| 2,781
+| style="background:Plum;"|'''46.4%'''
+| 17.3%
+| –
+| –
+| –
+| 2%
+|-
+| CNC<ref name=encuestacnc/>
+| 13–19 May 2022
+| 4,412
+| style="background:Plum;"|'''46.5%'''
+| 20.9%
+| 7.5%
+| 19.6%
+| 5.5%
+| 1.5%
+|-
+| CNC<ref name=cnc/>
+| 18–21 April 2022
+| 4,599
+| style="background:Plum;"|'''46.9%'''
+| 23.2%
+| 7.2%
+| 17.9%
+| 4.8%
+| 1.4%
+|-
+| CNC<ref name=semana/>
+| 30 Mar–1 Apr 2022
+| 4,206
+| style="background:Plum;"|'''44.7%'''
+| 26%
+| 7.1%
+| 18.4%
+| 3.3%
+| 1.5%
+|}
+
+==Coalition primaries==
+===Historic Pact===
+
+{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, Historic Pact primary.chart|data=Opinion polling for the 2022 Colombian presidential election, Historic Pact primary.tab|width=500px}}
+
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! Polling organisation/client
+! Date conducted
+! Sample<br />size
+! {{vert header|mw=35px|Alfredo Saade}}
+! {{vert header|mw=35px|[[Arelis Uriana]]}}
+! {{vert header|mw=35px|Camilo Romero}}
+! {{vert header|mw=35px|[[Francia Márquez]]}}
+! {{vert header|mw=35px|[[Gustavo Petro]]}}
+! {{vert header|mw=35px|[[Roy Barreras]]}}
+! {{vert header|mw=35px|No vote}}
+! {{vert header|mw=35px|Blank}}
+! {{vert header|mw=35px|Don't know/No response}}
+! {{vert header|mw=35px|stp=1|Margin of error}}
+|- style="background:#dedede"
+| Primary election<ref>{{cite web |title=Votos a Pre-candidatos |url=https://resultados.registraduria.gov.co/pacto/0/colombia |publisher=Government of Colombia |access-date=26 April 2022 |archive-url=https://web.archive.org/web/20220414131201/https://resultados.registraduria.gov.co/pacto/0/colombia |archive-date=14 April 2022 |language=es}}</ref>
+| 13 March 2022
+| –
+| 0.38%
+| 0.98%
+| 4.06%
+| 14.05%
+| style="background:Plum;"|'''80.5%'''
+| –
+| –
+| –
+| –
+| –
+|-
+| AtlasIntel<ref name=atlasintel/>
+| 10–12 March 2022
+| 2,736
+| 0.1%
+| 1.9%
+| 3.9%
+| 6.2%
+| style="background:Plum;"|'''85.2%'''
+| –
+| 0.9%
+| –
+| 1.9%
+| 3%
+|-
+| Guarumo<ref name=encuesta/>
+| 24 Feb–4 March 2022
+| 2,345
+| 0.2%
+| 1.8%
+| 5.9%
+| 10.5%
+| style="background:Plum;"|'''81.6%'''
+| –
+| –
+| –
+| –
+| 2.5%
+|-
+| Invamer<ref name=bluradio>{{cite news |title=Así votarían los colombianos en segunda vuelta, según la más reciente encuesta Invamer |url=https://www.bluradio.com/nacion/elecciones/presidenciales/asi-votarian-los-colombianos-en-segunda-vuelta-segun-la-mas-reciente-encuesta-invamer |access-date=26 April 2022 |work=BluRadio |date=4 March 2022 |archive-url=https://web.archive.org/web/20220324211519/https://www.bluradio.com/nacion/elecciones/presidenciales/asi-votarian-los-colombianos-en-segunda-vuelta-segun-la-mas-reciente-encuesta-invamer |archive-date=24 March 2022|url-status=live|language=es}}</ref>
+| 24–28 Feb 2022
+| 1,504
+| 0.3%
+| 1.7%
+| 5.9%
+| 13.5%
+| style="background:Plum;"|'''78.6%'''
+| –
+| –
+| –
+| –
+| 2.92%
+|-
+| CNC<ref name=cnca/>
+| 26 Jan–2 Feb 2022
+| 2,206
+| 1%
+| 4%
+| 4%
+| 12%
+| style="background:Plum;"|'''77%'''
+| –
+| 1%
+| –
+| 0.6%
+| 2.1%
+|-
+| CNC<ref name=cncsemana/>
+| 26 Nov–7 Dec 2021
+| 4,093
+| –
+| 1%
+| 4%
+| 3%
+| style="background:Plum;"|'''89%'''
+| 1%
+| 1%
+| –
+| 1%
+| 1.5%
+|-
+| Invamer<ref name=caracol>{{cite news |title=Encuesta Invamer: Pacto Histórico sería la coalición más votada en las consultas interpartidistas |url=https://noticias.caracoltv.com/politica/elecciones-colombia/encuesta-invamer-resultados-y-analisis-5-de-diciembre-2021 |access-date=26 April 2022 |work=Caracol TV |date=5 December 2021 |archive-url=https://web.archive.org/web/20220416073737/https://noticias.caracoltv.com/politica/elecciones-colombia/encuesta-invamer-resultados-y-analisis-5-de-diciembre-2021 |archive-date=16 April 2022|url-status=live|language=es}}</ref>
+| 26 Nov–1 Dec 2021
+| 1,200
+| 0%
+| 2.8%
+| 4.5%
+| 7.5%
+| style="background:Plum;"|'''82.4%'''
+| 2.7%
+| –
+| 0%
+| –
+| 3.49%
+|}
+
+===Team for Colombia===
+
+{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, Team for Colombia primary.chart|data=Opinion polling for the 2022 Colombian presidential election, Team for Colombia primary.tab|width=500px}}
+
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! Polling organisation/client
+! Date conducted
+! Sample<br />size
+! {{vert header|mw=35px|[[Alejandro Char Chaljub|Alejandro Char]]}}
+! {{vert header|mw=35px|Aydeé Lizarazo}}
+! {{vert header|mw=35px|David Barguil}}
+! {{vert header|mw=35px|[[Dilian Francisca Toro]]}}
+! {{vert header|mw=35px|[[Enrique Peñalosa]]}}
+! {{vert header|mw=35px|[[Federico Gutiérrez]]}}
+! {{vert header|mw=35px|[[Juan Carlos Echeverry (politician)|Juan Carlos Echeverry]]}}
+! {{vert header|mw=35px|No vote}}
+! {{vert header|mw=35px|Blank}}
+! {{vert header|mw=35px|Unsure/no answer}}
+! {{vert header|mw=35px|Margin of error}}
+|- style="background:#dedede"
+| Primary election<ref>{{cite web |title=Votos a Pre-candidatos |url=https://resultados.registraduria.gov.co/equipo/0/colombia |publisher=Government of Colombia |access-date=26 April 2022 |archive-url=https://web.archive.org/web/20220414131200/https://resultados.registraduria.gov.co/equipo/0/colombia |archive-date=14 April 2022 |language=es |date=17 March 2022 |url-status=live}}</ref>
+| 13 March 2022
+| –
+| 17.72%
+| 6.51%
+| 15.77%
+| –
+| 5.8%
+| style="background:#B0CEFF;"|'''54.18%'''
+| –
+| –
+| –
+| –
+| –
+|-
+| AtlasIntel<ref name=atlasintel/>
+| 10–12 March 2022
+| 2,736
+| 21.3%
+| 1.8%
+| 14.8%
+| –
+| 5.2%
+| style="background:#B0CEFF;"|'''49.3%'''
+| –
+| 4.6%
+| –
+| 3.1%
+| 4%
+|-
+| Guarumo<ref name=encuesta/>
+| 24 Feb–4 Mar 2022
+| 2,345
+| 29.2%
+| 4.2%
+| 21.4%
+| –
+| 11.8%
+| style="background:#B0CEFF;"|'''33.4%'''
+| –
+| –
+| –
+| –
+| 2.5%
+|-
+| Invamer<ref name=bluradio/>
+| 24–28 Feb 2022
+| 1,504
+| 24.7%
+| 12.3%
+| 15.5%
+| –
+| 18.7%
+| style="background:#B0CEFF;"|'''28.9%'''
+| –
+| –
+| –
+| –
+| 2.92%
+|-
+| CNC<ref name=cnca/>
+| 26 Jan–2 Feb 2022
+| 2,206
+| style="background:#FFE8E8;"|'''30%'''
+| 5%
+| 6%
+| –
+| 21%
+| style="background:#e2f6fe;"|'''30%'''
+| –
+| 5%
+| –
+| 3%
+| 2.1%
+|-
+| CNC<ref name=cncsemana/>
+| 26 Nov–7 Dec 2021
+| 4,093
+| style="background:#FFC6D5;"|'''34%'''
+| –
+| 4%
+| 6%
+| 21%
+| 24%
+| 5%
+| 4%
+| –
+| 2%
+| 1.5%
+|-
+| Invamer<ref name=caracol/>
+| 26 Nov–1 Dec 2021
+| 1,200
+| 26.1%
+| –
+| 8.8%
+| 10.6%
+| 22.7%
+| style="background:#B0CEFF;"|'''26.4%'''
+| 4.3%
+| –
+| 1%
+| –
+| 3.49%
+|}
+
+===Hope Center===
+
+{{Chart|definition=Opinion polling for the 2022 Colombian presidential election, Hope Center primary.chart|data=Opinion polling for the 2022 Colombian presidential election, Hope Center primary.tab|width=500px}}
+
+{|class="wikitable" style="text-align:center;font-size:85%;line-height:5x"
+! Polling organisation/client
+! Date conducted
+! Sample<br />size
+! {{vert header|mw=35px|[[Alejandro Gaviria Uribe|Alejandro Gaviria]]}}
+! {{vert header|mw=35px|Carlos Amaya}}
+! {{vert header|mw=35px|[[Jorge Enrique Robledo]]}}
+! {{vert header|mw=35px|[[Juan Fernando Cristo]]}}
+! {{vert header|mw=35px|[[Juan Manuel Galán Pachón|Juan Manuel Galán]]}}
+! {{vert header|mw=35px|[[Sergio Fajardo]]}}
+! {{vert header|mw=35px|No vote}}
+! {{vert header|mw=35px|Blank}}
+! {{vert header|mw=35px|Unsure/no answer}}
+! {{vert header|mw=35px|Margin of error}}
+|- style="background:#dedede"
+| Primary election<ref>{{cite web |title=Votos a Pre-candidatos |url=https://resultados.registraduria.gov.co/coalicion/0/colombia |publisher=Government of Colombia |access-date=26 April 2022 |archive-url=https://web.archive.org/web/20220403233004/https://resultados.registraduria.gov.co/coalicion/0/colombia |archive-date=3 April 2022 |url-status=live|language=es |date=17 March 2022}}</ref>
+| 13 March 2022
+| –
+| 15.58%
+| 20.89%
+| 7.46%
+| –
+| 22.55%
+| style="background:lightgreen;"|'''33.5%'''
+| –
+| –
+| –
+| –
+|-
+| AtlasIntel<ref name=atlasintel/>
+| 10–12 March 2022
+| 2,736
+| 17.7%
+| 10.2%
+| 5.2%
+| –
+| 13.8%
+| style="background:lightgreen;"|'''46.1%'''
+| 3.2%
+| –
+| 3.9%
+| 5%
+|-
+| Guarumo<ref name=encuesta/>
+| 24 Feb–4 Mar 2022
+| 2,345
+| 21.5%
+| 10.4%
+| 8.5%
+| –
+| 22.1%
+| style="background:lightgreen"|'''37.5%'''
+| –
+| –
+| –
+| 2.5%
+|-
+| Invamer<ref name=bluradio/>
+| 24–28 Feb 2022
+| 1,504
+| 12.9%
+| 14.9%
+| 10.5%
+| –
+| 23.9%
+| style="background:lightgreen;"|'''37.8%'''
+| –
+| –
+| –
+| 2.92%
+|-
+| CNC<ref name=cnca/>
+| 26 Jan–2 Feb 2022
+| 2,206
+| 11%
+| 8%
+| 5%
+| 1%
+| 31%
+| style="background:lightgreen;"|'''39%'''
+| 4%
+| –
+| 1%
+| 2.1%
+|-
+| CNC<ref name=cncsemana/>
+| 26 Nov–7 Dec 2021
+| 4,093
+| 17%
+| 4%
+| 3%
+| –
+| 31%
+| style="background:lightgreen;"|'''43%'''
+| 2%
+| –
+| 2%
+| 1.5%
+|-
+| Invamer<ref name=caracol/>
+| 26 Nov–1 Dec 2021
+| 1,200
+| 9.5%
+| 5.3%
+| 5.5%
+| 3.1%
+| 32.4%
+| style="background:lightgreen;"|'''43.5%'''
+| –
+| 0.7%
+| –
+| 3.49%
+|}
+
+==References==
+{{Reflist}}
+
+[[Category:Opinion polling in Colombia|2022]]

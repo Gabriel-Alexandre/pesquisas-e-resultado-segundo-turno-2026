@@ -1,0 +1,1294 @@
+{{Short description|none}}
+This page lists nationwide public [[opinion polls]] that have been conducted relating to the [[2024 Slovak presidential election]]. Poll results are listed in the tables below in reverse chronological order, showing the most recent first. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading candidate's colour. In the instance that there is a tie, then no figure is shaded. Poll results use the date the survey's fieldwork was done, as opposed to the date of publication; however, if such date is unknown, the date of publication will be given instead.
+
+==Opinion polls for the first round==
+=== Diagram ===
+[[File:Opinion polling for the 2024 Presidential elections in Slovakia.svg|thumb|800px|centre]]
+===Since nominations were closed===
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Ivan Korčok]]
+! [[Peter Pellegrini]]
+! [[Štefan Harabin]]
+! [[Krisztián Forró]]
+! [[Igor Matovič]]
+! [[Ján Kubiš]]
+! Patrik Dubovský
+! [[Marian Kotleba]]
+! Milan Náhlik
+! [[Andrej Danko]]
+! [[Róbert Švec]]
+|-
+! style="background:{{party color|Independent (politician)}}; width:40px;"|
+! style="background:{{party color|Voice – Social Democracy}}; width:40px;" |
+! style="background:{{party color|Independent (politician)}}; width:40px;"|
+! style="background:{{party color|Alliance (Slovak political party)}}; width:40px;" |
+! style="background:{{party color|Ordinary People and Independent Personalities}}; width:40px;" |
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|For the People (Slovakia)}}; width:40px;"|
+!style="background:{{party color|Kotleba – People's Party Our Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+! style="background:{{party color|Slovak National Party}}; width:40px;" |
+! style="background:#CE1719; width:40px;" |
+|-
+|'''23 March 2024'''
+|'''First round election'''<ref>{{Cite web |title=Voľby prezidenta SR - Voľby prezidenta Slovenskej republiky 2024 |url=https://www.volbysr.sk/sk/vysledky_hlasovania_kolo1.html |access-date=2024-03-24 |website=www.volbysr.sk |archive-date=2024-03-24 |archive-url=https://archive.today/20240324091926/https://www.volbysr.sk/sk/vysledky_hlasovania_kolo1.html |url-status=dead }}</ref>
+| style="background:#C0C0C0;" |'''42.52%'''
+| '''37.03%'''
+| 11.74%
+| 2.91%
+| 2.18%
+| 2.04%
+| 0.71%
+| 0.57%
+| 0.14%
+| style="background:#D5D5D5" |0.08%
+| style="background:#D5D5D5" |0.08%
+|-
+|23 March 2024
+(Exit Poll)
+|RTVS + Median<ref>{{Cite web |last=REFRESHER |title=PRVÝ EXIT POLL MEDIANU: Medzi Pellegrinim a Korčokom je veľmi tesný rozdiel (+ graf) |url=https://news.refresher.sk/156681-PRVY-EXIT-POLL-MEDIANU-Medzi-Pellegrinim-a-Korcokom-je-velmi-tesny-rozdiel-graf |access-date=2024-03-24 |website=news.refresher.sk |language=sk}}</ref>
+| style="background:#C0C0C0;" |'''34.9%'''
+| '''34.3%'''
+| 15.0%
+| 3.0%
+| 4.5%
+| 4.3%
+| 0.5%
+| 2.8%
+| 0.5%
+| style="background:#D5D5D5" | —
+| style="background:#D5D5D5" | —
+|-
+|20 March 2024
+| colspan="12" |'''[[Róbert Švec]] drops out and endorses [[Štefan Harabin]] (remains on ballot)<ref name="Svec">{{Cite web |title=Róbert Švec odstúpil z boja o prezidentské kreslo |url=https://standard.sk/603435/robert-svec-odstupil-z-boja-o-prezidentske-kreslo |access-date=2024-03-20 |website=Štandard |language=sk-SK}}</ref>'''
+|-
+| 16–19 March 2024
+| Ipsos<ref name="Ipsos March 2024"/>
+| '''36.3%'''
+| style="background:#FFB7B7;" |'''37.5%'''
+| 13.1%
+| 4.3%
+| 3.6%
+| 2.5%
+| 1.1%
+| 0.9%
+| 0.1%
+| style="background:#D5D5D5" | —
+| 0.8%
+|-
+|18 March 2024
+| colspan="12" |'''[[Andrej Danko]] drops out and endorses [[Štefan Harabin]] (remains on ballot)<ref>{{cite web |date=18 March 2024 |title=Danko sa vzdal kandidatúry na prezidenta v prospech Harabina |url=https://dennikn.sk/minuta/3889026/?ref=mwat |access-date=18 March 2024 |website=Denník N |language=sk-SK}}</ref>'''
+|-
+| 13–18 March 2024
+| NMS<ref name="NMS March 2024">{{cite web |last1=Tomečková |first1=Nicol |title=Prezidentom by sa tesne stal Peter Pellegrini, ukazuje prieskum |url=https://spravy.rtvs.sk/2024/03/rozdiel-medzi-p-pellegrinim-a-i-korcokom-je-v-druhom-kole-velmi-tesny-potvrdila-agentura-nms/ |website=Správy RTVS |access-date=20 March 2024 |language=sk-SK |date=20 March 2024}}</ref>
+| style="background:#C0C0C0;" |'''36.0%'''
+| '''34.2%'''
+| 16.0%
+| 2.7%
+| 4.0%
+| 2.8%
+| 0.9%
+| 2.2%
+| 0.2%
+| 0.5%
+| 0.5%
+|-
+| 11–17 March 2024
+| Sanep<ref name="Sanep March 2024">{{cite web |title=PRIESKUM krátko pred voľbami mieša karty: Prvé kolo tesné, v druhom jasný víťaz! |url=https://www.topky.sk/cl/10/2714399/-PRIESKUM-kratko-pred-volbami-miesa-karty--Prve-kolo-tesne--v-druhom-jasny-vitaz- |website=Topky.sk |access-date=19 March 2024 |language=sk |date=19 March 2024}}</ref>
+| '''33.1%'''
+| style="background:#FFB7B7;" |'''35.6%'''
+| 12.0%
+| 2.6%
+| 5.2%
+| 3.6%
+| 1.9%
+| 2.7%
+| 0.5%
+| 2.0%
+| 0.8%
+|-
+| 12–16 March 2024
+| Ipsos<ref name="Ipsos March 2024">{{cite web |last1=Franková |first1=Andrea |title=Lídrom oboch kôl prezidentských volieb by bol Peter Pellegrini |url=https://spravy.rtvs.sk/2024/03/obe-kola-prezidentskych-volieb-by-vyhral-peter-pellegrini-prezradil-prieskum-ipsos/ |website=Správy RTVS |access-date=17 March 2024 |language=sk-SK |date=17 March 2024}}</ref>
+| '''36.6%'''
+| style="background:#FFB7B7;" |'''37.4%'''
+| 11.3%
+| 2.8%
+| 4.3%
+| 2.4%
+| style="background:#D5D5D5"| —
+| 1.8%
+| 1.1%
+| 0.9%
+| style="background:#D5D5D5" | —
+|-
+| 7–13 March 2024
+| Median<ref name="Median March 2024">{{cite web |title=Korčok by vyhral prvé kolo, v druhom by ho však Pellegrini porazil (prezidentský prieskum) |url=https://domov.sme.sk/c/23296478/korcok-by-vyhral-prve-kolo-v-druhom-by-ho-vsak-pellegrini-porazil-prezidentsky-prieskum.html |website=domov.sme.sk |access-date=16 March 2024 |language=sk}}</ref>
+| style="background:#C0C0C0;" |'''35.7%'''
+| '''34.2%'''
+| 11.4%
+| 2.7%
+| 3.2%
+| 3.2%
+| 1.8%
+| 2.3%
+| 1.0%
+| 2.3%
+| 2.2%
+|-
+| 7–11 March 2024
+| Focus<ref name="Focus Mar 2024">{{cite web |last=Kiššová |first=Katarína |title=Exkluzívny prieskum: Prezidentské voľby by v oboch kolách vyhral Peter Pellegrini|url=https://tvnoviny.sk/domace/clanok/885228-exkluzivny-prieskum-prezidentske-volby-by-v-oboch-kolach-vyhral-peter-pellegrini |website=tvnoviny.sk |access-date=15 March 2024}}</ref>
+| '''33.1%'''
+| style="background:#FFB7B7;" |'''34.4%'''
+| 12.7%
+| 3.2%
+| 4.7%
+| 4.5%
+| 1.5%
+| 1.8%
+| 0.4%
+| 3.1%
+| 0.6%
+|-
+| 26–29 February 2024
+| Sanep<ref name="Sanep Feb 2024">{{cite web |title=Prieskum SANEP: Pellegrini naďalej vedie, zväčšuje svoj náskok pred Korčokom. Vo voľnom výbere by porazil aj Čaputovú |url=https://www.ta3.com/clanok/928039/prieskum-sanep-pellegrini-nadalej-vedie-zvacsuje-svoj-naskok-pred-korcokom-vo-volnom-vybere-by-porazil-aj-caputovu |website=ta3 |access-date=12 March 2024 |date=7 March 2024}}</ref>
+| '''32.7%'''
+| style="background:#FFB7B7;" |'''38.3%'''
+| 10.2%
+| 2.8%
+| 5.8%
+| 4.1%
+| 1.3%
+| 1.9%
+| 0.6%
+| 2.0%
+| 0.3%
+|-
+| 23–27 February 2024
+| Median<ref name="Median Feb 24">{{cite web |last=Tomečková |first=Nicol |title=Prvé kolo volieb by vyhral I. Korčok, v druhom by sa karta obrátila |url=https://spravy.rtvs.sk/2024/03/median-sk-pre-rtvs-v-prvom-kole-by-najviac-hlasov-ziskal-i-korcok-v-druhom-by-sa-karta-obratila/ |website=Správy RTVS |access-date=1 March 2024 |language=sk|date=1 March 2024}}</ref>
+| style="background:#C0C0C0;" |'''36.0%'''
+| '''32.7%'''
+| 11.2%
+| 2.7%
+| 4.9%
+| 3.2%
+| 2.0%
+| 2.1%
+| 1.1%
+| 2.2%
+| 1.9%
+|-
+| 16–21 February 2024
+| Ipsos<ref name="Ipsos Feb 24">{{cite web |title=Ďalší predvolebný PRIESKUM: Pellegrini si drží prvenstvo, jasný by bol aj výsledok druhého kola |url=https://www.topky.sk/cl/10/2694721/Dalsi-predvolebny-PRIESKUM--Pellegrini-si-drzi-prvenstvo--jasny-by-bol-aj-vysledok-druheho-kola |website=Topky.sk |access-date=26 February 2024 |language=sk |date=24 February 2024}}</ref>
+| '''36.3%'''
+| style="background:#FFB7B7;" |'''40.2%'''
+| 8.5%
+| 3.0%
+| 4.3%
+| 3.4%
+| 1.3%
+| 1.7%
+| style="background:#D5D5D5"| —
+| 1.1%
+| style="background:#D5D5D5" | —
+|-
+|  14–21 February 2024
+| Focus<ref name="Focus Feb 24">{{cite web |last=Plávalová |first=Barbora |title=Prieskum: Pellegrini by mal v druhom kole pred Korčokom pohodlný náskok. Čo vplýva na voličov? |url=https://domov.sme.sk/c/23287195/prieskum-prezidentske-volby-2024-pellegrini-korcok-druhe-kolo.html |website=SME|access-date=26 February 2024 |language=sk}}</ref>
+| '''34.0%'''
+| style="background:#FFB7B7;" |'''35.2%'''
+| 11%
+| 3.1%
+| 5.0%
+| 4.3%
+| 1.3%
+| 2.4%
+| 0.5%
+| 3.2%
+| style="background:#D5D5D5" | —
+|-
+| 14–18 February 2024
+|NMS<ref name="NMS 14-18 Feb">{{cite web |title=Prezidentský prieskum: Ani v druhom kole to Pellegrini nemá isté. Danka zatieňuje Harabin |url=https://domov.sme.sk/c/23284630/prezidentske-volby-2024-pellegrini-korcok-prieskum-nms.html |website=SME|access-date=20 February 2024 |language=sk}}</ref>
+| '''34.6%'''
+| style="background:#FFB7B7;" |'''35.8%'''
+| 10%
+| 2.2%
+| 6.6%
+| 4.8%
+| 1.1%
+| 2%
+| 1.5%
+| 1.3%
+| style="background:#D5D5D5" | —
+|-
+| 5–12 February 2024
+|AKO<ref name="AKO 5-12 Feb">{{cite web |last=Katuška |first=Michal |title=Prezidentský prieskum: Matovič je už v prvej štvorke. Súboj Korčoka s Pellegrinim je tesný
+|url=https://domov.sme.sk/c/23282939/prieskum-preferenicii-prezidentske-volby-februar-ako.html |website=SME |access-date=17 February 2024 |language=sk |date=15 February 2024}}</ref>
+| '''37.2%'''
+| style="background:#FFB7B7;" |'''39.0%'''
+| 8.1%
+| 2.4%
+| 4.8%
+| 3.0%
+| 1.9%
+| 0.9%
+| 0.6%
+| 2.1%
+| style="background:#D5D5D5" | —
+|}
+
+===Before nominations were closed===
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Ivan Korčok]]
+! [[Maroš Žilinka]]
+! [[Štefan Harabin]]
+! [[Peter Weiss (politician)|Peter Weiss]]
+! [[Robert Mistrík]]
+! [[Marian Kotleba]]
+! [[Ján Kubiš]]
+! [[Miriam Lexmann]]
+! [[Robert Fico]]
+! [[Ján Drgonec]]
+! [[Andrej Danko]]
+! [[Krisztián Forró]]
+! [[Ľudovít Ódor]]
+! [[Jozef Banáš]]
+! [[Milan Uhrík]]
+! [[Boris Kollár]]
+!style="width:150px;" rowspan="2"|Others
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Kotleba – People's Party Our Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Christian Democratic Movement (2021)}}; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Slovak National Party}}; width:40px;"|
+!style="background:{{party color|Alliance (Slovak political party)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Republic (Slovakia)}}; width:40px;"|
+!style="background:{{party color|We Are Family}}; width:40px;"|
+|-
+| 28 January 2024
+| Focus<ref name="Startitup 280124">{{cite web |last=Poloha |first=Natanael Leo |title=Aktuálny PRIESKUM: Pellegrini by v druhom kole Korčoka rozdrvil. Harabinovi stúpajú preferencie |url=https://www.startitup.sk/aktualny-prieskum-pellegrini-by-v-druhom-kole-korcoka-rozdrvil-harabinovi-stupaju-preferencie/ |website=Startitup.sk |access-date=17 February 2024 |language=sk |date=28 January 2024}}</ref>
+| style="background:#FFB7B7;" |'''38.1%'''
+| '''35.6%'''
+| style="background:#D5D5D5"| —
+| 10.9%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 4.9%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 3.3%
+| 2.3%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+|-
+| 22–25 January 2024
+|Ipsos<ref name="Ipsos 22-25 Jan">{{cite web |last=Mikušovič |first=Dušan |title=Ipsos: Súboj medzi Pellegrinim a Korčokom je tesný, druhé kolo môžu rozhodnúť Harabinovi voliči (+ kde berú kandidáti podporu) |url=https://dennikn.sk/3795701/ipsos-suboj-medzi-pellegrinim-a-korcokom-je-tesny-druhe-kolo-mozu-rozhodnut-harabinovi-volici-kde-beru-kandidati-podporu/ |website=Denník N |access-date=1 February 2024 |language=sk|date=26 January 2024}}</ref>
+| style="background:#FFB7B7;" |'''40.7%'''
+| '''38.2%'''
+| style="background:#D5D5D5"| —
+| 8.0%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 1.6%
+| 2.1%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 1.7%
+| 3.3%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 3.3%
+|-
+| 11–16 January 2024
+| AKO<ref name="AKO Jan 24">{{cite web |last=Kerekes |first=Daniel |title=Korčok mobilizuje a doťahuje sa na Pellegriniho. Danka by nevolili ani dve percentá voličov |url=https://dennikn.sk/3782132/korcok-mobilizuje-a-dotahuje-sa-na-pellegriniho-danka-by-nevolili-ani-dve-percenta-volicov/?ref=list |website=Denník N |access-date=18 January 2024 |date=18 January 2024}}</ref>
+| style="background:#FFB7B7;" |'''40.6%'''
+| '''37.7%'''
+| style="background:#D5D5D5"| —
+| 8.0%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 3.1%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 2.2%
+| style="background:#D5D5D5"| —
+| 2.4%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+|-
+| 16 January 2024
+| NMS<ref name="NMS Jan 24">{{cite web |last=Hajčáková |first=Daniela |title=Volebný model: Duel Pellegriniho s Korčokom môže byť omnoho tesnejší, ako sa zdalo |url=https://domov.sme.sk/c/23269062/prezidentske-volby-2024-pellegrini-korcok-prieskum-nms.html |website=Sme |access-date=16 January 2024 |date=16 January 2024}}</ref>
+| '''32.4%'''
+| style="background:#C0C0C0;" |'''33.0%'''
+| style="background:#D5D5D5"| —
+| 11.0%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 4.3%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 2.2%
+| 1.8%
+| 1.9%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 4.1%
+|-
+| 2 January 2024
+| SANEP<ref name="Sanep Jan 24">{{cite web |last=Belej |first=Martin |title=PRIESKUM: Kto bude naším novým prezidentom? Z vlády má šancu len jeden, veľkú časť hlasov ukradol kandidát z vonku |url=https://www.ta3.com/clanok/918007/prieskum-kto-bude-nasim-novym-prezidentom-z-vlady-ma-sancu-len-jeden-velku-cast-hlasov-ukradol-kandidat-z-vonku |website=ta3 |access-date=4 January 2024 |date=2 January 2024}}</ref>
+| style="background:#FFB7B7;" |'''43.9%'''
+| '''32.3%'''
+| style="background:#D5D5D5"| —
+| 9.8%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 9.9%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 3.5%
+| 0.6%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+|-
+| 13–18 December 2023
+| Ipsos<ref>{{cite web|title= Podpora Pellegriniho rastie, aj keď neohlásil prezidentskú kandidatúru. Teraz by ho Korčok neporazil
+|url= https://dennikn.sk/3741337/pellegriniho-potencial-v-prezidentskych-volbach-sa-blizi-k-50-percentam-teraz-by-ho-korcok-v-druhom-kole-neporazil/|website=dennikn.sk
+|date= 21 December 2023|access-date=21 December 2023|language=sk}}</ref>
+| style="background:#FFB7B7;"|'''25%'''
+| '''16%'''
+| style="background:#D5D5D5"|—
+|7%
+| style="background:#D5D5D5"|—
+| style="background:#D5D5D5"|—
+| style="background:#D5D5D5"|—
+|2%
+|2%
+| style="background:#D5D5D5"|—
+| style="background:#D5D5D5"|—
+| style="background:#D5D5D5"|—
+|2%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+|-
+| 13 November-17 December 2023
+| Median SK<ref>{{cite web
+|title=Prezidentský volebný model
+|url= https://www.median.sk/sk/
+|website=median.sk
+|language=sk
+|access-date=4 January 2023}}</ref>
+| style="background:#FFB7B7;"|'''30.3%'''
+| '''23.3%'''
+|2.1%
+| style="background:#D5D5D5"|—
+| style="background:#D5D5D5"|—
+|3.2%
+| style="background:#D5D5D5"|—
+| style="background:#D5D5D5"|—
+|2.5%
+|15.2%
+| style="background:#D5D5D5"|—
+| style="background:#D5D5D5"|—
+| style="background:#D5D5D5"|—
+|4.9%
+|5.5%
+|4.2%
+|3.7%
+|5.1%
+|-
+| 7–14 November 2023
+| AKO<ref>{{cite web |title=Prezidentský prieskum AKO: Pellegrini by zbieral hlasy aj medzi voličmi opozície, pred Korčokom vedie|url=https://dennikn.sk/3694096/prezidentsky-prieskum-ako-pellegrini-by-zbieral-hlasy-aj-medzi-volicmi-opozicie-pred-korcokom-vedie/ |website=Denník N |access-date=25 November 2023 |language=sk |date=23 November 2023}}</ref>
+| style="background:#FFB7B7;" |'''40.0%'''
+| '''30.4%'''
+| style="background:#D5D5D5"| —
+| 8.9%
+| style="background:#D5D5D5"| —
+| 3.6%
+| style="background:#D5D5D5"|—
+| 5.8%
+| 1.9%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+|9.5%
+|-
+| 10 November 2023
+| Ipsos<ref name="Ipsos 112023">{{cite web |last=Kern |first=Miro |title=Prieskum Ipsosu: Najväčšiu šancu vyhrať prezidentské voľby má Pellegrini, pred Korčokom má zatiaľ náskok |url=https://dennikn.sk/3669951/prieskum-ipsosu-najvacsiu-sancu-vyhrat-prezidentske-volby-ma-pellegrini-pred-korcokom-ma-zatial-naskok/ |website=Denník N |date=10 November 2023 |access-date=12 November 2023}}</ref>
+| style="background:#FFB7B7;" |'''19%'''
+| '''14%'''
+| 8%
+| 8%
+| style="background:#D5D5D5"| —
+| 3%
+| style="background:#D5D5D5"| —
+| 2%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+|-
+| July 2023
+| Ipsos<ref>{{cite web |last=Mikušovič |first=Dušan |title=Korčok po rozhodnutí prezidentky nekandidovať získava nových voličov. V druhom kole by porazil Fica, Pellegriniho nie |url=https://dennikn.sk/3502378/korcok-po-rozhodnuti-prezidentky-nekandidovat-ziskava-novych-volicov-v-druhom-kole-by-porazil-fica-pellegriniho-nie/|website=Denník N |access-date=4 August 2023 |language=sk |date=3 August 2023}}</ref>
+| '''12%'''
+|11%
+| 8%
+| 7%
+| style="background:#D5D5D5"| —
+| 3%
+| style="background:#D5D5D5"| —
+| 3%
+| 3%
+| style="background:#F0B2BA;" |'''13%'''
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 4%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+|-
+| 21–28 June 2023
+| Focus<ref>{{cite web |title=Exkluzívny PRIESKUM: Najväčšiu šancu stať sa novým prezidentom by mal Pellegrini |url=https://tvnoviny.sk/domace/clanok/847467-exkluzivny-prieskum-najvacsiu-sancu-stat-sa-novym-prezidentom-by-mal-pellegrini |website=tvnoviny.sk |access-date=6 July 2023 |language=sk |date=4 July 2023}}</ref>
+| style="background:#FFB7B7;" |'''13%'''
+| '''10%'''
+| 8%
+| 4%
+| 3%
+| 2%
+| 2%
+| 2%
+| 1%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+|}
+
+===Polls with Čaputová===
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Zuzana Čaputová]]
+! [[Peter Pellegrini]]
+! [[Robert Fico]]
+! [[Štefan Harabin]]
+! [[Milan Uhrík]]
+! [[Maroš Žilinka]]
+! [[Marian Kotleba]]
+! [[Maroš Šefčovič]]
+! [[Mikuláš Dzurinda]]
+! [[Iveta Radičová]]
+! [[Jozef Banáš]]
+! [[Eduard Chmelár]]
+! [[Andrej Kiska]]
+! [[Boris Kollár]]
+! [[Ivan Korčok]]
+! [[Miroslav Lajčák]]
+! [[Peter Weiss (politician)|Peter Weiss]]
+! [[Robert Mistrík]]
+!style="width:150px;" rowspan="2"|Others
+|-
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Republic (Slovakia)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Kotleba – People's Party Our Slovakia}}; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:#0057ac; width:40px;"|
+!style="background:#0057ac; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Socialisti.sk}}; width:40px;"|
+!style="background:{{party color|For the People (Slovakia)}}; width:40px;"|
+!style="background:{{party color|We Are Family (Slovakia)}}; width:40px;"|
+!style="background:#0968ac; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 26-29 February 2024
+| Sanep<ref name="Sanep Feb 2024"/>
+|  '''14%'''
+| style="background:#FFB7B7;" | '''20%'''
+| 4.0%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 9.0%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 22.0%
+|-
+| 14 March 2023
+| Ipsos<ref name="Ipsos1">{{cite web |last=Mikušovič |first=Dušan |title=Čaputová má šancu na znovuzvolenie, určite by ju volilo 30 % ľudí. Žilinka má podporu ako Harabin (prieskum Ipsosu) |url=https://dennikn.sk/3279391/caputova-ma-sancu-na-znovuzvolenie-urcite-by-ju-volilo-30-percent-ludi-zilinka-ma-podobnu-podporu-ako-harabin-prieskum-ipsosu/|website=Denník N |access-date=14 March 2023 |language=sk|date=14 March 2023}}</ref>
+| style="background:#D1F1FF" |'''30.0%'''
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| '''7.0%'''
+| style="background:#D5D5D5"| —
+| '''7.0%'''
+| 3.0%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 6.0%
+| style="background:#D5D5D5"| —
+| 3.0%
+| 2.0%
+| style="background:#D5D5D5"| —
+|-
+| 1–8 February 2023
+| Focus<ref name="Focus1">{{cite web |last=Mikušovič |first=Dušan |title=Čaputovú by chcelo za prezidentku 18 percent ľudí, s odstupom nasledujú Pellegrini a Fico |url=https://dennikn.sk/3267964/caputovu-by-chcelo-za-prezidentku-18-percent-ludi-s-odstupom-nasleduju-pellegrini-a-fico/ |website=Denník N |access-date=8 March 2023 |language=sk |date=5 March 2023}}</ref>
+| style="background:#D1F1FF" |'''18.3%'''
+| '''6.0%'''
+| 5.4%
+| 2.5%
+| 1.5%
+| 1.5%
+| 1.4%
+| 1.4%
+| 1.3%
+| 1.3%
+| 1.2%
+| 1.2%
+| 1.2%
+| 1.0%
+| 1.0%
+| 1.0%
+| style="background:#D5D5D5"| —
+| style="background:#D5D5D5"| —
+| 52.7%
+|}
+
+==Opinion polls for the second round==
+'''Diagram'''
+[[File:Opinion polling for the 2024 Presidential elections in Slovakia (2nd round).svg|thumb|800px|centre]]
+
+'''Pellegrini vs Korčok'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Ivan Korčok]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| '''6 April 2024'''
+|'''Second round election'''
+| style="background:#FFB7B7;" |'''53.1'''
+| 46.9
+|-
+| 6 April 2024<br> (Exit poll)
+| Median SK<ref>https://twitter.com/ForeignpolicyWB/status/1776705606671274235</ref>
+|48.9
+|style="background:#C0C0C0";" |'''51.1'''
+|-
+| 30 March–2 April 2024
+| Ipsos<ref>{{cite web |last=Muradajová |first=Alex |title=Prieskum IPSOS: Tesnejšie to medzi Korčokom a Pellegrinim ani nemôže byť |url=https://tvnoviny.sk/domace/clanok/888248-prieskum-ipsos-tesnejsie-to-medzi-korcokom-a-pellegrinim-ani-nemoze-byt |website=TV Noviny |access-date=3 April 2024|language=sk}}</ref>
+|49.9
+|style="background:#C0C0C0";" |'''50.1'''
+|-
+| 28 March–2 April 2024
+| NMS<ref name="NMS March-April 2024">{{cite web|last1=Katuška|first1=Michal|last2=Hajčáková|first2=Daniela|title=Finálový prieskum k prezidentským voľbám: Korčok si drží náskok, ale víťazstvo nemá isté|url=https://domov.sme.sk/c/23307429/prieskum-prezidentske-volby-2024-druhe-kolo-pellegrini-korcok.html|access-date=2 April 2024|date=2 April 2024|language=sk|website=SME}}</ref>
+|48.3
+|style="background:#C0C0C0";" | '''51.7'''
+|-
+| 28 March–2 April 2024
+| Focus<ref name="Focus March 2024">{{cite web |last=Muradajová |first=Alex |title=PRIESKUM: Prezidentom by sa stal Peter Pellegrini s mimoriadne tesným náskokom|url=https://tvnoviny.sk/domace/clanok/888170-prieskum-prezidentom-by-sa-stal-peter-pellegrini-s-mimoriadne-tesnym-naskokom|website=TV Noviny|access-date=2 April 2024|date=2 April 2024|language=sk}}</ref>
+| style="background:#FFB7B7;" | '''50.8'''
+|49.2
+|-
+| 28–31 March 2024
+| Median SK<ref name="2nd round">{{cite web |title=AKTUÁLNE Predvolebné prieskumy sú už takmer kompletné! Zverejnili ďalšie dva, tie výsledky musíte vidieť |url=https://www.topky.sk/cl/10/2725751/AKTUALNE-Predvolebne-prieskumy-su-uz-takmer-kompletne--Zverejnili-dalsie-dva--tie-vysledky-musite-vidiet |website=Topky.sk |access-date=3 April 2024 |language=sk |date=3 April 2024}}</ref>
+| style="background:#FFB7B7;" | '''51.1'''
+|48.9
+|-
+| 25–2 April 2024
+| SCIO<ref name="2nd round"/>
+|45.01
+|style="background:#C0C0C0";" | '''54.99'''
+|-
+| 23 March 2024
+| colspan="3"|''' 1st round of election'''
+|-
+| 16–19 March 2024
+| Ipsos<ref name="Ipsos March 2024"/>
+| style="background:#FFB7B7;" |'''54.5'''
+| 45.5
+|-
+| 13–18 March 2024
+| NMS<ref name="NMS March 2024"/>
+| style="background:#FFB7B7;" |'''50.9'''
+| 49.1
+|-
+| 11–17 March 2024
+| Sanep<ref name="Sanep March 2024"/>
+| style="background:#FFB7B7;" |'''54.9'''
+| 45.1
+|-
+| 12–16 March 2024
+| Ipsos<ref name="Ipsos March 2024"/>
+| style="background:#FFB7B7;" |'''53.4'''
+| 46.6
+|-
+| 7–13 March 2024
+| Median<ref name="Median March 2024"/>
+| style="background:#FFB7B7;" |'''52.9'''
+| 47.1
+|-
+| 7–11 March 2024
+| Focus<ref name="Focus Mar 2024"/>
+| style="background:#FFB7B7;" | '''56'''
+| 44
+|-
+| 26-29 February 2024
+| Sanep<ref name="Sanep Feb 2024"/>
+| style="background:#FFB7B7;" | '''54.1'''
+| 45.9
+|-
+| 23–27 February 2024
+| Median<ref name="Median Feb 24"/>
+| style="background:#FFB7B7;" | '''51.7'''
+| 48.3
+|-
+| 16–21 February 2024
+| Ipsos<ref name="Ipsos Feb 24"/>
+| style="background:#FFB7B7;" | '''53.8'''
+| 46.2
+|-
+|  14–21 February 2024
+| Focus<ref name="Focus Feb 24"/>
+| style="background:#FFB7B7;" | '''54.9'''
+| 45.1
+|-
+| 14–18 February 2024
+|NMS<ref name="NMS 14-18 Feb"/>
+| style="background:#FFB7B7;" | '''52.3'''
+| 47.7
+|-
+| 5–12 February 2024
+|AKO<ref name="AKO 5-12 Feb"/>
+| style="background:#FFB7B7;" | '''53.7'''
+| 46.3
+|-
+| 28 January 2024
+| Focus<ref name="Startitup 280124"/>
+| style="background:#FFB7B7;" | '''54.2'''
+| 45.8
+|-
+| 22–25 January 2024
+|Ipsos<ref name="Ipsos 22-25 Jan"/>
+| style="background:#FFB7B7;" | '''54.7'''
+| 45.3
+|-
+| 16 January 2024
+| NMS<ref name="NMS Jan 24"/>
+| style="background:#FFB7B7;" | '''51.5'''
+| 48.5
+|-
+| 2 January 2024
+| Sanep<ref name="Sanep Jan 24"/>
+| style="background:#FFB7B7;" | '''58.1'''
+| 41.9
+|-
+| 15–22 November 2023
+| Focus<ref name="Focus Nov 2023">{{cite web |last=Hajčáková |first=Daniela |title=Prieskum: V druhom kole by Pellegrini porazil Korčoka so 60-percentnou podporou |url=https://domov.sme.sk/c/23251886/prieskum-prezidentske-volby-2024-pellegrini-korcok.html |website=domov.sme.sk |access-date=17 February 2024 |language=sk}}</ref>
+| style="background:#FFB7B7;" | '''60'''
+|40
+|-
+| 13–18 December 2023
+| Ipsos<ref name="Ipsos 112023"/>
+| style="background:#FFB7B7;" | ''' 48'''
+|27
+|-
+| 10 November 2023
+| Ipsos<ref name="Ipsos 112023"/>
+| style="background:#FFB7B7;" | '''40'''
+| 26
+|-
+| 6–13 September 2023
+| Focus<ref name="Aktuality 170923"/>
+| style="background:#FFB7B7;" | '''58'''
+| 42
+|}
+
+===Hypothetical polling===
+The polls listed below include candidates who decided not to run, withdrawn from election or failed to advance to second round.
+
+'''Pellegrini vs Harabin'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Štefan Harabin]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 7–11 March 2024
+| Focus<ref name="Focus Mar 2024"/>
+| style="background:#FFB7B7;" | '''72.9'''
+| 27.1
+|-
+|  14–21 February 2024
+| Focus<ref name="Focus Feb 24"/>
+| style="background:#FFB7B7;" | '''76.1'''
+| 23.9
+|-
+| 14–18 February 2024
+|NMS<ref name="NMS 14-18 Feb Top">{{cite web |title=Veľký predvolebný PRIESKUM: Pellegrini stále vedie, črtá sa však najtesnejší súboj v histórii Slovenka |url=https://www.topky.sk/cl/10/2691639/Velky-predvolebny-PRIESKUM--Pellegrini-stale-vedie--crta-sa-vsak-najtesnejsi-suboj-v-historii-Slovenka |website=Topky.sk |access-date=20 February 2024 |language=sk |date=20 February 2024}}</ref>
+| style="background:#FFB7B7;" | '''71.0'''
+| 29.0
+|-
+| 5–12 February 2024
+|AKO<ref name="AKO 5-12 Feb"/>
+| style="background:#FFB7B7;" | '''68.6'''
+| 31.4
+|-
+| 15–22 November 2023
+| Focus<ref name="Focus Nov 2023"/>
+| style="background:#FFB7B7;" |'''84'''
+| 16
+|-
+| 10 November 2023
+| Ipsos<ref name="Ipsos 112023"/>
+| style="background:#FFB7B7;" |'''45'''
+| 13
+|}
+
+'''Korčok vs Harabin'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Ivan Korčok]]
+! [[Štefan Harabin]]
+|-
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 7–11 March 2024
+| Focus<ref name="Focus Mar 2024"/>
+| style="background:#C0C0C0;" | '''56.1'''
+| 43.9
+|-
+|  14–21 February 2024
+| Focus<ref name="Focus Feb 24"/>
+| style="background:#C0C0C0;" | '''62.8'''
+| 37.2
+|-
+| 14–18 February 2024
+|NMS<ref name="NMS 14-18 Feb Top"/>
+| style="background:#C0C0C0;" | '''59.8'''
+| 40.2
+|-
+| 5–12 February 2024
+|AKO<ref name="AKO 5-12 Feb"/>
+| style="background:#C0C0C0;" | '''63.1'''
+| 36.9
+|-
+| 15–22 November 2023
+| Focus<ref name="Focus Nov 2023"/>
+| style="background:#C0C0C0;" |'''67'''
+| 33
+|-
+| 6–13 September 2023
+| Focus<ref name="Aktuality 170923"/>
+| style="background:#C0C0C0;" |'''63'''
+| 37
+|}
+
+'''Pellegrini vs Kubiš'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Ján Kubiš]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+|  14–21 February 2024
+| Focus<ref name="Focus Feb 24"/>
+| style="background:#FFB7B7;" | '''71.2'''
+| 28.8
+|-
+| 15–22 November 2023
+| Focus<ref name="Focus Nov 2023"/>
+| style="background:#FFB7B7;" |'''74'''
+| 26
+|-
+| 10 November 2023
+| Ipsos<ref name="Ipsos 112023"/>
+| style="background:#FFB7B7;" |'''49'''
+| 19
+|}
+
+'''Korčok vs Kubiš'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Ivan Korčok]]
+! [[Ján Kubiš]]
+|-
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 5–12 February 2024
+| AKO<ref name="AKO 5-12 Feb"/>
+| style="background:#C0C0C0;" | '''64.3'''
+| 35.7
+|-
+| 15–22 November 2023
+| Focus<ref name="Focus Nov 2023"/>
+| style="background:#C0C0C0;" |'''62'''
+| 38
+|-
+| 6–13 September 2023
+| Focus<ref name="Aktuality 170923"/>
+| style="background:#C0C0C0;" | '''58'''
+| 42
+|}
+
+'''Kubiš vs Harabin'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Ján Kubiš]]
+! [[Štefan Harabin]]
+|-
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 15–22 November 2023
+| Focus<ref name="Focus Nov 2023"/>
+| style="background:#C0C0C0;" |'''67'''
+| 33
+|-
+| 6–13 September 2023
+| Focus<ref name="Aktuality 170923"/>
+| style="background:#C0C0C0;" | '''66'''
+| 34
+|}
+
+'''Pellegrini vs Matovič'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Igor Matovič]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Ordinary People and Independent Personalities}}; width:40px;"|
+|-
+| 16–21 February 2024
+| Ipsos<ref name="Ipsos Feb 24"/>
+| style="background:#FFB7B7;" | '''80.6'''
+| 19.4
+|}
+
+'''Pellegrini vs Danko'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Andrej Danko]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Slovak National Party}}; width:40px;"|
+|-
+| 16–21 February 2024
+| Ipsos<ref name="Ipsos Feb 24"/>
+| style="background:#FFB7B7;" | '''83.6'''
+| 16.4
+|}
+
+'''Pellegrini vs Kotleba'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Marian Kotleba]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Kotleba – People's Party Our Slovakia}}; width:40px;"|
+|-
+| 16–21 February 2024
+| Ipsos<ref name="Ipsos Feb 24"/>
+| style="background:#FFB7B7;" | '''88.5'''
+| 11.5
+|}
+
+'''Korčok vs Matovič'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Ivan Korčok]]
+! [[Igor Matovič]]
+|-
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Ordinary People and Independent Personalities}}; width:40px;"|
+|-
+| 16–21 February 2024
+| Ipsos<ref name="Ipsos Feb 24"/>
+| style="background:#C0C0C0;" | '''86.5'''
+| 13.5
+|}
+
+'''Korčok vs Danko'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Ivan Korčok]]
+! [[Andrej Danko]]
+|-
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Slovak National Party}}; width:40px;"|
+|-
+| 16–21 February 2024
+| Ipsos<ref name="Ipsos Feb 24"/>
+| style="background:#C0C0C0;" | '''66.9'''
+| 33.1
+|}
+
+'''Korčok vs Kotleba'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Ivan Korčok]]
+! [[Marian Kotleba]]
+|-
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Kotleba – People's Party Our Slovakia}}; width:40px;"|
+|-
+| 16–21 February 2024
+| Ipsos<ref name="Ipsos Feb 24"/>
+| style="background:#C0C0C0;" | '''79.9'''
+| 20.1
+|}
+
+'''Pellegrini vs Fico'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Robert Fico]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+|-
+| 6–13 September 2023
+| Focus<ref name="Aktuality 170923"/>
+| style="background:#FFB7B7;" | '''65'''
+| 35
+|}
+
+'''Pellegrini vs Mistrík'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Robert Mistrík]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 10 November 2023
+| Ipsos<ref name="Ipsos 112023"/>
+| style="background:#FFB7B7;" |'''42'''
+| 18
+|-
+| 6–13 September 2023
+| Focus<ref name="Aktuality 170923"/>
+| style="background:#FFB7B7;" | '''68'''
+| 32
+|}
+
+'''Pellegrini vs Žilinka'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Peter Pellegrini]]
+! [[Maroš Žilinka]]
+|-
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 10 November 2023
+| Ipsos<ref name="Ipsos 112023"/>
+| style="background:#FFB7B7;" |'''51'''
+| 18
+|}
+
+'''Korčok vs Fico'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Ivan Korčok]]
+! [[Robert Fico]]
+|-
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+|-
+| 6–13 September 2023
+| Focus<ref name="Aktuality 170923">{{cite web |title=Prezidentské voľby: Ivan Korčok by našiel podľa prieskumu svojho premožiteľa |url=https://www.aktuality.sk/clanok/QGfKZ8B/prezidentske-volby-ivan-korcok-by-nasiel-podla-prieskumu-svojho-premozitela/ |website=Aktuality.sk |access-date=23 September 2023 |language=sk |date=17 September 2023}}</ref>
+| style="background:#C0C0C0;" | '''50'''
+| style="background:#F0B2BA;" | '''50'''
+|}
+
+'''Čaputová vs Fico'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Zuzana Čaputová]]
+! [[Robert Fico]]
+|-
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+|-
+| 20 April 2023
+| Ipsos<ref name="Ipsos 200423">{{cite web |title=Čaputová by vo voľbách porazila Fica, Pellegriniho aj Harabina. Prieskum ukázal, ako by si s nimi poradila |url=https://news.refresher.sk/135274-Caputova-by-vo-volbach-porazila-Fica-Pellegriniho-aj-Harabina-Prieskum-ukazal-ako-by-si-s-nimi-poradila |website=news.refresher.sk |access-date=9 May 2023 |language=sk}}</ref>
+| style="background:#D1F1FF" |'''41'''
+| 27
+|}
+
+'''Čaputová vs Harabin'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Zuzana Čaputová]]
+! [[Štefan Harabin]]
+|-
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 20 April 2023
+| Ipsos<ref name="Ipsos 200423" />
+| style="background:#D1F1FF" |'''42'''
+| 21
+|}
+
+'''Čaputová vs Mistrík'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Zuzana Čaputová]]
+! [[Robert Mistrík]]
+|-
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 20 April 2023
+| Ipsos<ref name="Ipsos 200423" />
+| style="background:#D1F1FF" |'''36'''
+| 13
+|}
+
+'''Čaputová vs Pellegrini'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Zuzana Čaputová]]
+! [[Peter Pellegrini]]
+|-
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+|-
+| 20 April 2023
+| Ipsos<ref name="Ipsos 200423"/>
+| style="background:#D1F1FF" |'''37'''
+| 28
+|}
+
+'''Čaputová vs Weiss'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Zuzana Čaputová]]
+! [[Peter Weiss (politician)|Peter Weiss]]
+|-
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 20 April 2023
+| Ipsos<ref name="Ipsos 200423" />
+| style="background:#D1F1FF" |'''39'''
+| 16
+|}
+
+'''Čaputová vs Žilinka'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Zuzana Čaputová]]
+! [[Maroš Žilinka]]
+|-
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent (politician)}}; width:40px;"|
+|-
+| 20 April 2023
+| Ipsos<ref name="Ipsos 200423" />
+| style="background:#D1F1FF" |'''39'''
+| 21
+|}
+
+==Other polls==
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:14px;"
+|+
+! rowspan="3" |Polling<br>firm
+! rowspan="3" |Fieldwork<br>date
+! rowspan="3" |Sample<br>size
+! rowspan="3" |Question
+! colspan="4" |Answer
+! rowspan="3" |Lead
+|-
+!Certainly<br>yes
+!Maybe
+!Certainly<br>no
+!Don't know
+|-
+!style="background:#50e650;"|
+!style="background:#898e8c;"|
+!style="background:#e65050;"|
+!style="background:#898e8c;"|
+|-
+|Focus<ref>{{Cite web|title=Prieskum: Čaputovú by za prezidentku nevolila takmer polovica opýtaných |url=https://domov.sme.sk/c/22941452/caputova-prieskum-prezidentske-volby.html |access-date=2022-06-19 |website=domov.sme.sk |language=sk}}</ref>
+|25–31<br>May 2022
+|1,008
+|Would you vote for Zuzana Čaputová<br>in the presidential election?
+| 15%
+|31%
+| style="background:#f7c6c6;" | '''46%'''
+|8%
+| style="background:#e65050; color:white" | 15%
+|}
+
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:14px;"
+|+
+! rowspan="3" |Polling<br>firm
+! rowspan="3" |Fieldwork<br>date
+! rowspan="3" |Sample<br>size
+! rowspan="3" |Question
+! colspan="4" |Answer
+! rowspan="3" |Lead
+|-
+!Certainly<br>yes
+!Probably<br>yes
+!Probably<br>no
+!Certainly<br>no
+|-
+!style="background:#50e650;"|
+!style="background:#98e398;"|
+!style="background:#e8a7a7;"|
+!style="background:#e65050;"|
+|-
+|AKO<ref>{{Cite web|title=Exkluzívny prieskum pre HN: Čaputová by voľby vyhrala aj dnes. Jedna otázka odhalila jej slabinu|url=https://slovensko.hnonline.sk/14385236-exkluzivny-prieskum-pre-hn-caputova-by-volby-vyhrala-aj-dnes-jedna-otazka-odhalila-jej-slabinu|access-date=2022-01-23|website=slovensko.hnonline.sk|date=25 November 2021 |language=sk}}</ref>
+|20–23<br>Nov 2021
+|1,000
+|Would you vote for Zuzana Čaputová<br>in the presidential election?
+| style="background:#deffde;" | '''44.9%'''
+|15.9%
+|8.4%
+|30.8%
+| style="background:#50e650;" | 14.1%
+|}
+
+== References ==
+{{Reflist}}
+{{Future opinion polling}}
+
+[[Category:Opinion polling in Slovakia]]

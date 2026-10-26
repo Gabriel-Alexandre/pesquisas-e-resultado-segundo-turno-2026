@@ -1,15 +1,119 @@
-# Relatório: as pesquisas, as regras e o resultado do 2º turno de 2026
+# Relatório: as pesquisas, o histórico e a chance do que aconteceu no 2º turno de 2026
 
-Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`. Rodada 1 (26/10/2026). Todo número tem a fonte em [`docs/FONTES_DE_DADOS.md`](docs/FONTES_DE_DADOS.md) e o hash do arquivo de origem em `dados/MANIFESTO.json`.
+Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`. **Rodada 2 (26/10/2026)**: refeita pelo retorno do autor, com o histórico de erro das pesquisas no Brasil e em outros países, as viradas de 2º turno, os mesmos testes em todas as eleições de 2002 a 2022 e a chance calculada em pilares com os pesos dele. O que mudou da rodada 1 está em [`docs/RODADAS.md`](docs/RODADAS.md).
 
-## O que este relatório não consegue dizer
+## A resposta curta
 
-- **O voto é secreto.** "Para onde foram os votos do Cury, do Renan e do Caiado" é uma **estimativa** feita com o resultado de 5.571 municípios (inferência ecológica). Ela mostra o que é compatível com os números de cada lugar, não o caminho de cada eleitor, e tem faixa de incerteza larga (§6).
-- **Probabilidade de algo que já aconteceu** é a chance que os números davam **antes** da votação. Uma chance de 1 em 3 ou de 1 em 9 não diz se o resultado é legítimo ou não: diz o tamanho da surpresa.
-- **A apuração seção a seção, a pausa da noite e os registros das urnas** não são analisados aqui. Isso é o projeto do vídeo longo 16 (`investigacao-segundo-turno-2026`). Este projeto usa o resultado oficial final por país, estado e município.
-- **Governador e presidente** foram comparados pela **coligação** do governador eleito (tem o PT, tem o PL, ou nenhum dos dois), que é uma regra mecânica. Apoio declarado no 2º turno não foi levantado nesta rodada.
+**Antes da votação, a chance de o Lula vencer era de cerca de 39% (1 em 2,5).** Era a menos provável das duas, mas longe de impossível: um resultado desse tamanho acontece em quase 2 de cada 5 disputas parecidas. A chance de ele vencer **pela diferença que venceu** (3,57 pontos ou mais) era menor: perto de 20% pelas pesquisas, e nenhum dos 6 padrões do passado chega a ela.
 
-## 1. O resultado, em números
+## 1. Como a chance foi calculada
+
+Três pilares, cada um medindo a chance de um jeito diferente, com **os pesos que o autor escolheu para a projeção do vídeo longo 14** (pesquisas pesam mais porque são a medida mais direta e mais recente; o histórico pesa menos porque tem poucos casos de presidente; o crescimento pesa menos ainda porque depende de um modelo de transferência de votos, que é a parte mais frágil):
+
+| Pilar | Peso | O que mede | O que o histórico mostra | Chance do Lula |
+|---|---|---|---|---|
+| **Pesquisas** | 60% | a frente do Flávio na média da última pesquisa de cada instituto (1,61 pontos) contra o erro da média das pesquisas em 80 segundos turnos passados | em 30 dos 80, a média das pesquisas superestimou o líder por mais do que essa frente | **38%** |
+| **Histórico de viradas** | 25% | com que frequência o líder do 1º turno perdeu o 2º, quando a frente era parecida com a do Flávio (1,87 pontos; faixa de 1,5 ponto para cada lado) | 8 viradas em 17 disputas | **47%** |
+| **Crescimento** | 15% | o 1º turno de 2026 com os votos livres (outros candidatos, branco e nulo, abstenção) indo como foram em cada 2º turno de 2002 a 2022 | o Lula venceria em 2 dos 6 padrões | **33%** |
+
+**Conta:** 0,60 × 38% + 0,25 × 47% + 0,15 × 33% = **39,3%**.
+
+**Conferência pelo mercado:** a Polymarket dava 23,5% ao Lula no preço diário da véspera (série do projeto do vídeo 16; a imprensa registrou 79,6% para o Flávio na manhã da eleição). Nos 45 mercados de eleição em que o favorito tinha de 70% a 90%, o favorito perdeu 6. A mesma Polymarket deu o Lula como favorito no 1º turno (72%) e errou.
+
+**Quanto o número depende das escolhas:**
+
+| Variante | Chance do Lula | Em outras palavras |
+|---|---|---|
+| pesos do vídeo 14 (60, 25, 15) | 39% | 1 em 2,5 |
+| pesos iguais | 39% | 1 em 2,5 |
+| só pesquisas | 38% | 1 em 2,7 |
+| 60, 25, 15 com o mercado no lugar do crescimento | 38% | 1 em 2,6 |
+| pesquisas só do presidente no Brasil | 37% | 1 em 2,7 |
+| histórico só do presidente no Brasil (Laplace) | 30% | 1 em 3,3 |
+| pesquisas corrigidas pelo viés do Brasil (presidente, 2002 a 2022) | 53% | 1 em 1,9 |
+
+A variante mais desfavorável ao resultado usa só os 7 segundos turnos de presidente no Brasil para o histórico (0 viradas, pela regra de Laplace 1 em 9,0). Mesmo nela a chance fica perto de 1 em 3.
+
+### O erro de multiplicar as "coincidências"
+
+Uma conta que circula: as pesquisas erraram, o líder do 1º turno perdeu pela primeira vez, a regra de Minas quebrou e o favorito do mercado perdeu; multiplicando as chances de cada coisa (38% × 11% × 10% × 24%), dá **1 em 1.021**. A conta está errada porque as quatro coisas **são o mesmo fato** visto de quatro lugares: se o Lula vencesse, as pesquisas que davam Flávio errariam, o líder do 1º turno perderia, a regra de Minas quebraria e o favorito do mercado perderia, tudo junto, automaticamente. Multiplicar só vale para fatos independentes. A chance de todas acontecerem juntas é a chance de o Lula vencer: cerca de **1 em 2,5**.
+
+## 2. As pesquisas já erraram tanto assim?
+
+**O erro de 2026:** a média da última pesquisa de cada instituto (19 institutos) dava o Flávio 1,61 pontos à frente; a urna deu o Lula 3,57 à frente. A média superestimou a frente do Flávio em **5,2 pontos** (2,6 no voto de cada um). Nenhuma das 53 pesquisas chegou no número da urna; na última de cada instituto, 17 de 19 davam Flávio.
+
+### No Brasil, 2º turno de presidente
+
+| Eleição | Institutos | Frente do líder nas pesquisas | Frente dele na urna | Quanto a média superestimou o líder | O líder das pesquisas venceu? |
+|---|---|---|---|---|---|
+| 2002 | 1 | 28,0 | 22,5 | +5,5 | sim |
+| 2006 | 1 | 22,0 | 21,7 | +0,3 | sim |
+| 2010 | 4 | 12,9 | 12,1 | +0,8 | sim |
+| 2014 | 4 | 4,3 | 3,3 | +1,1 | sim |
+| 2018 | 7 | 14,1 | 10,3 | +3,8 | sim |
+| 2022 | 10 | 3,2 | 1,8 | +1,4 | sim |
+| **2026** | 19 | 1,6 | -3,6 | **+5,2** | **não** |
+
+O líder das pesquisas tinha vencido todos os segundos turnos de presidente desde 2002, e **em todos os 6 a média superestimou o líder** (em média 2,1 pontos na frente). Quem descontasse esse viés de sempre da frente de 1,61 pontos do Flávio já chegaria a uma disputa empatada, levemente inclinada para o Lula (a chance pelas pesquisas iria a 60%; com só 6 eleições, isso entra como variante, não como número principal). **O erro de 2026 é o segundo maior da série**; o maior foi o de 2002 (só o Datafolha tem a última pesquisa publicada com data), mas lá o Lula tinha 28 pontos de frente e o erro não mudou o vencedor. **Em 2026 o erro foi do mesmo tamanho, numa disputa em que a frente era de menos de 2 pontos.** É isso que fez a diferença: erros desse tamanho já aconteceram, mas nunca numa disputa tão apertada.
+
+### O lado do erro: menos à direita no 1º turno, mais no 2º
+
+Erro médio das últimas pesquisas no candidato contra o PT, em pontos (positivo: deram mais a ele do que a urna):
+
+| Eleição | 1º turno | 2º turno |
+|---|---|---|
+| 2014 | -5,6 | +1,9 |
+| 2018 | -1,3 | +0,8 |
+| 2022 | -1,0 | 0,0 |
+| **2026** | -1,9 | **+2,6** |
+
+No 1º turno as pesquisas deram menos ao candidato contra o PT nas quatro eleições; no 2º deram mais em 2014, 2018 e 2026. **A inversão de lado entre os turnos, que é apontada como sinal de algo estranho, já tinha acontecido em 2014 e 2018.**
+
+### Em outros países
+
+Na base de 41 segundos turnos presidenciais com pesquisas (Brasil e outros 35 no mundo, de 2010 a 2026, cada número conferido na fonte; `resultados/erro_media_pesquisas_runoffs.csv`), **o líder das pesquisas perdeu em 9** (22%). Em 10 delas a média superestimou o líder por mais do que em 2026, e em 15 o erro foi maior que o de 2026 para algum dos lados. Os maiores erros: Bolívia 2025 (+18,5), Romênia 2014 (+17,9), Equador 2025 (+13,0), Eslováquia 2024 (+8,2), Romênia 2025 (+7,5), Uruguai 2019 (+6,6), Chile 2013 (+5,9), Colômbia 2026 (+5,8), Equador 2021 (+5,7), Brasil 2002 (+5,5).
+
+| Onde o líder das pesquisas perdeu | Frente nas pesquisas | Frente dele na urna | Quanto a média superestimou o líder |
+|---|---|---|---|
+| Bolívia 2025 | 8,5 | -9,9 | +18,5 |
+| Romênia 2014 | 9,0 | -8,9 | +17,9 |
+| Equador 2025 | 1,7 | -11,3 | +13,0 |
+| Eslováquia 2024 | 2,0 | -6,2 | +8,2 |
+| Romênia 2025 | 0,3 | -7,2 | +7,5 |
+| Equador 2021 | 1,0 | -4,7 | +5,7 |
+| Polônia 2025 | 0,3 | -1,8 | +2,1 |
+| Peru 2021 | 1,7 | -0,3 | +2,0 |
+| Peru 2016 | 1,1 | -0,2 | +1,3 |
+
+**Leitura:** no Brasil, o erro de 2026 é grande; no mundo, é comum. O que pesa é a combinação de um erro de tamanho já visto com uma frente pequena. Em 2º turno de governador no Brasil (39 disputas de 2014 a 2022), o erro médio absoluto da média das pesquisas na frente do líder foi de 5,2 pontos.
+
+## 3. "Nunca houve virada": o que o histórico diz
+
+| Grupo | Segundos turnos | Viradas | Com frente de até 3 pontos e líder abaixo de 50% |
+|---|---|---|---|
+| Brasil governador | 92 | 25 | 10 em 18 |
+| Brasil presidente | 7 | 0 | 0 em 0 |
+
+Para presidente no Brasil, a regra "o líder do 1º turno vence" valia 7 de 7, **mas nenhuma dessas 7 eleições teve uma frente pequena**: a menor era de 5,23 pontos (2022), contra 1,87 em 2026. A regra nunca tinha sido testada numa disputa apertada. Quando a frente é parecida com a do Flávio, o líder perdeu 8 de 17 vezes. Disputas na faixa: governador PB 2010 (0,44 ponto); governador RO 2014 (0,44 ponto); governador RR 2002 (0,60 ponto, virou); governador PB 2006 (0,93 ponto); governador RN 2006 (0,97 ponto); governador AM 2018 (0,99 ponto); governador PA 1994 (1,00 ponto, virou); governador PA 2014 (1,38 ponto, virou); governador SC 2018 (1,40 ponto, virou); governador PB 2014 (1,40 ponto, virou); governador CE 2014 (1,40 ponto); governador MS 2022 (1,55 ponto, virou); governador RO 2022 (1,84 ponto); governador DF 2002 (2,11 pontos); governador DF 1994 (2,47 pontos, virou); governador RR 2010 (2,58 pontos, virou); governador PB 1994 (3,22 pontos).
+
+**Minas:** quem venceu Minas no 1º turno venceu a eleição 8 de 8 vezes (quebrou em 2026: Minas deu Flávio no 1º turno); quem venceu Minas no 2º turno venceu a eleição 6 de 6 (valeu: Minas deu Lula). Minas acerta porque é parecida com o Brasil; numa eleição decidida por 1 a 2 pontos, um estado parecido com o país pode cair de qualquer lado.
+
+## 4. O crescimento: os votos livres como em cada eleição passada
+
+O 1º turno de 2026 com quem votou em Lula e em Flávio repetindo o voto, e os votos livres indo como foram em cada 2º turno de 2002 a 2022 (modelo de transição por município, por região; `resultados/crescimento_pelos_padroes_passados.csv`):
+
+| Padrão de | Outros candidatos para PT e para o adversário | Branco e nulo para o PT | Abstenção para PT e para o adversário | Lula em 2026 |
+|---|---|---|---|---|
+| 2002 | 58% e 30% | 1% | 0,0% e 4,4% | **48,43%** |
+| 2006 | 48% e 23% | 51% | 0,0% e 0,0% | **51,34%** |
+| 2010 | 37% e 42% | 18% | 0,0% e 1,3% | **48,76%** |
+| 2014 | 34% e 56% | 38% | 0,0% e 1,5% | **48,70%** |
+| 2018 | 58% e 28% | 21% | 0,0% e 0,0% | **50,41%** |
+| 2022 | 37% e 41% | 0% | 0,2% e 3,4% | **47,61%** |
+
+O Lula venceria com o padrão de 2006 e com o de 2018, e perderia com os outros quatro. **Nenhum padrão do passado leva aos 51,79% que ele teve.** O que 2026 teve de diferente foi a abstenção: ela caiu 1,86 pontos entre os turnos, quando em 5 das 6 eleições anteriores tinha subido.
+
+## 5. O resultado, em números
 
 | | 1º turno (04/10) | 2º turno (25/10) | Diferença |
 |---|---|---|---|
@@ -19,158 +123,87 @@ Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`
 | Abstenção | 33.469.244 (21,08%) | 30.509.005 (19,22%) | -2.960.239 |
 | Brancos e nulos | 5.975.047 | 4.153.801 | -1.821.246 |
 
-**A conta fecha no voto.** O que os dois ganharam juntos (14.098.232) é exatamente o que saiu dos outros candidatos (9.316.747), da abstenção (2.960.239) e do branco e nulo (1.821.246). O Lula ficou com 73,6% desse saldo. A frente do Flávio no 1º turno era de 2.224.965 votos; a do Lula no 2º ficou em 4.430.191. A virada foi de 6,66 milhões de votos de diferença.
+A conta fecha no voto: o que os dois ganharam (14.098.232) é exatamente o que saiu dos outros candidatos, da abstenção e do branco e nulo. Só Minas virou de estado (para o Lula); o Lula subiu em todos os 27 estados, de 4,5 a 9,3 pontos; 211 municípios viraram para o Lula e 1 para o Flávio. Em 18 de 27 estados o governador eleito é da coligação do lado que venceu para presidente ali; no 2º turno de governador do mesmo dia houve 2 viradas em 6 disputas.
 
-Se todo voto novo (quem voltou a votar e quem deixou o branco e o nulo) tivesse ido para o Lula, ele ainda precisaria de **60,1%** dos votos dos outros candidatos. Ou seja: sem troca direta de voto do Flávio para o Lula, a maioria dos eleitores de Cury, Renan e Caiado votou Lula.
+**Abstenção, em cada eleição:**
 
-## 2. As pesquisas contra a urna
-
-Foram usadas as **53 pesquisas nacionais de 2º turno** de 05/10 a 24/10 que casaram com o registro no TSE **e** foram conferidas numa segunda fonte (lista em `resultados/pesquisas_2t.csv`, com o número do registro). Ficou fora da conta: Alfa de 22/10 (a amostra publicada não bate com a do registro).
-
-| Conjunto | Pesquisas | Lula na média | Erro médio no Lula | Davam Flávio | Davam Lula | A urna ficou dentro da margem |
+| Eleição | Abstenção no 1º turno | No 2º | Variação | Subida média do PT nos municípios (pontos) | Desvio entre municípios | Municípios em que o PT caiu |
 |---|---|---|---|---|---|---|
-| Todas | 53 | 48,91% | -2,9 | 48 | 4 (+1 empate) | 13 |
-| Última semana | 31 | 49,08% | -2,7 | 29 | 2 | 7 |
-| Véspera (campo até 23 e 24/10) | 12 | 49,33% | -2,5 | 11 | 1 | 3 |
-| **Última de cada instituto** | **19** | **49,19%** | **-2,6** | **17** | **2** | **6** |
+| 2002 | 17,73% | 20,45% | +2,72 | +14,8 | 10,50 | 57 |
+| 2006 | 16,73% | 18,97% | +2,24 | +12,2 | 4,26 | 6 |
+| 2010 | 18,07% | 21,44% | +3,38 | +8,9 | 6,30 | 704 |
+| 2014 | 19,29% | 21,01% | +1,71 | +10,1 | 6,95 | 465 |
+| 2018 | 20,19% | 21,17% | +0,97 | +15,3 | 6,96 | 3 |
+| 2022 | 20,79% | 20,43% | -0,36 | +2,6 | 1,61 | 634 |
+| 2026 | 20,84% | 18,99% | -1,85 | +6,6 | 1,71 | 4 |
 
-- **Nenhuma das 53 pesquisas deu ao Lula o que a urna deu** (51,79%). A mais perto foi a Vox Brasil (50,99%).
-- Na última de cada instituto, só **Vox Brasil** e **Colectta** davam o Lula à frente, e **as duas também ficaram abaixo da urna**.
-- O erro médio foi de **2,6 pontos** no Lula (o dobro, 5,2 pontos, na diferença entre os dois). Todos os institutos erraram para o mesmo lado.
-- A projeção do vídeo longo 14 dava Flávio 50,8%; a urna deu 48,21%: erro de 2,6 pontos, contra o erro médio de 1,8 que o próprio método teria tido no passado.
+O nível de 2026 no 2º turno (18,99% nos municípios do Brasil) é parecido com o de 2006; o incomum foi a **queda** entre os turnos. E a subida do Lula foi **a segunda mais uniforme da série** (desvio de 1,71 ponto entre municípios), depois da de 2022 (1,61).
 
-### A última pesquisa de cada instituto
+## 6. Para onde foram os votos de Cury, Renan e Caiado
 
-| Instituto | Fim do campo | Lula | Flávio | Erro no Lula | Registro no TSE |
-|---|---|---|---|---|---|
-| Vox Brasil | 22/10 | 50,6% | 49,4% | -1,2 | BR032592026 |
-| Colectta | 23/10 | 50,3% | 49,7% | -1,5 | BR056012026 |
-| Futura | 24/10 | 49,8% | 50,2% | -1,9 | BR097262026 |
-| Palver | 24/10 | 49,5% | 50,5% | -2,3 | BR017942026 |
-| PoderData | 24/10 | 49,5% | 50,5% | -2,3 | BR028282026 |
-| Datafolha | 24/10 | 49,5% | 50,5% | -2,3 | BR095402026 |
-| Ipespe | 22/10 | 49,5% | 50,5% | -2,3 | BR043502026 |
-| Nexus | 24/10 | 49,5% | 50,5% | -2,3 | BR082342026 |
-| Quaest | 24/10 | 49,5% | 50,5% | -2,3 | BR091582026 |
-| Indexa | 21/10 | 49,4% | 50,6% | -2,4 | BR023482026 |
-| MDA | 23/10 | 49,3% | 50,7% | -2,5 | BR021362026 |
-| AtlasIntel | 23/10 | 49,2% | 50,8% | -2,5 | BR063802026 |
-| Verita | 23/10 | 49,0% | 51,0% | -2,8 | BR060702026;BR031812026 |
-| Ideia | 19/10 | 48,9% | 51,1% | -2,9 | BR082512026 |
-| Instituto França | 23/10 | 48,6% | 51,4% | -3,2 | BR048632026 |
-| Alfa | 19/10 | 48,5% | 51,5% | -3,3 | BR008202026 |
-| Gerp | 24/10 | 48,4% | 51,6% | -3,4 | BR093272026 |
-| DataTrends | 21/10 | 47,9% | 52,1% | -3,9 | BR033652026 |
-| Real Time | 22/10 | 47,9% | 52,1% | -3,9 | BR096702026 |
+Três jeitos de medir, que não concordam inteiramente:
 
-### O erro trocou de lado entre os turnos, e isso já tinha acontecido
-
-Erro médio das últimas pesquisas de cada instituto, no candidato contra o PT, em pontos (positivo: a pesquisa deu mais a ele do que a urna):
-
-| Eleição | 1º turno | 2º turno |
-|---|---|---|
-| 2014 | -5,6 | +1,9 |
-| 2018 | -1,3 | +0,8 |
-| 2022 | -1,0 | 0,0 |
-| **2026** | -1,9 | **+2,6** |
-
-No 1º turno, as pesquisas deram **menos** ao candidato contra o PT nas quatro eleições. No 2º turno de 2014 e de 2018 deram **mais**; em 2022, quase nada. Em 2026 o padrão se repetiu, com o maior erro de 2º turno da série.
-
-## 3. As regras que "sempre valiam"
-
-| Regra | Histórico | 2026 |
-|---|---|---|
-| O líder do 1º turno de presidente venceu o 2º | 7 de 7 (1989 a 2022) | **quebrou**: o Flávio liderou o 1º turno e perdeu |
-| A menor frente de um líder do 1º turno | 5,23 pontos (2022) | 1,87 pontos, a menor da série |
-| Quem venceu Minas no 1º turno venceu a eleição | 8 de 8 (1994 a 2022) | **quebrou**: Minas deu Flávio no 1º turno |
-| Quem venceu Minas no 2º turno venceu a eleição | 6 de 6 (2002 a 2022) | valeu: Minas deu Lula no 2º turno |
-| Estados que sempre acertaram o vencedor no 1º turno | AM, AP, MG, TO | acertaram de novo: AM, AP |
-| Estados que sempre acertaram o vencedor no 2º turno | AM, MG | acertaram de novo: AM, MG |
-| Governador: o líder do 1º turno venceu o 2º | 67 de 92 (1994 a 2022) | 2 viradas em 6 disputas: RN, TO |
-| Governador com frente de até 3 pontos e líder abaixo de 50% | 10 viradas em 18 | sem caso no 2º turno de 2026 |
-
-Regra com 7 ou 8 casos quebra: pela regra de Laplace, uma regra que acertou 7 de 7 vezes ainda deixa 1 em 9,0 de chance de quebrar na próxima. E em governador, onde há 92 casos, o líder do 1º turno perdeu 25 vezes; com frente de até 3 pontos, perdeu 10 em 18. A frente do Flávio, 1,87 pontos, era a menor já vista num 1º turno de presidente.
-
-## 4. Quem venceu em cada lugar
-
-- **Estados:** o Lula venceu em 12 no 1º turno e em 13 no 2º. **Só Minas Gerais virou** (Flávio para Lula); nenhum estado foi do Lula para o Flávio.
-- **O Lula subiu em todos os 27 estados**, de 4,5 a 9,3 pontos. A subida foi parecida no país inteiro.
-- **Municípios:** 211 viraram do Flávio para o Lula e 1 do Lula para o Flávio (mais 2 que estavam empatados e foram para o Lula). O Lula ganhou votos em 5.491 dos 5.571 municípios; o Flávio, em 4.624, e **perdeu votos em 938**.
-- A maior cidade que virou foi o **Rio de Janeiro** (43,9% para 51,5% do Lula). As outras grandes: Osasco (SP), Ananindeua (PA), Macapá (AP), São Vicente (SP), Ribeirão Das Neves (MG).
-- O ganho do Lula veio de cidades de todo tamanho: até 20 mil eleitores: +1,78 milhões; 20 a 100 mil: +2,75 milhões; 100 a 500 mil: +2,68 milhões; mais de 500 mil: +3,13 milhões. Nas capitais, +2,75 milhões para o Lula e +1,03 milhões para o Flávio.
-- **Governador e presidente:** em **18 de 27** estados o governador eleito é de uma coligação do lado que venceu para presidente ali. Em 6, a coligação do governador não tinha nem o PT nem o PL. Os que ficaram de lados diferentes: Alagoas (Jhc, coligação do lado do Flávio; presidente: Lula); Amapá (Dr. Furlan, coligação do lado do Flávio; presidente: Lula); Pará (Dr. Daniel, coligação do lado do Flávio; presidente: Lula). Tabela: `resultados/governador_e_presidente.csv`.
-- **2º turno de governador no mesmo dia:** 2 viradas em 6 disputas (Rio Grande do Norte: Cadu De Lula passou Allyson; Tocantins: Vicentinho Júnior passou Professora Dorinha).
-
-## 5. Abstenção, branco e nulo
-
-| Eleição | Abstenção no 1º turno | No 2º turno | Variação (pontos) |
+| Eleitor de | Institutos com o cruzamento | O que as pesquisas diziam (Lula entre Lula e Flávio) | O que o resultado por município indica (modelo de transição) |
 |---|---|---|---|
-| 2002 | 17,74% | 20,47% | +2,73 |
-| 2006 | 16,75% | 18,99% | +2,24 |
-| 2010 | 18,12% | 21,50% | +3,38 |
-| 2014 | 19,39% | 21,10% | +1,71 |
-| 2018 | 20,33% | 21,30% | +0,97 |
-| 2022 | 20,95% | 20,58% | -0,36 |
-| **2026** | 21,08% | 19,22% | **-1,86** |
+| Augusto Cury | 5 | 53% (de 36 a 67) | 59% |
+| Renan Santos | 5 | 40% (de 31 a 50) | 53% |
+| Ronaldo Caiado | 5 | 38% (de 27 a 54) | 52% |
 
-Em cinco das seis eleições anteriores, **mais gente faltou** no 2º turno. Em 2026 a abstenção **caiu 1,86 pontos**: 2,96 milhões de pessoas a mais votando, a maior queda da série. Brancos e nulos caíram de 4,77% para 3,24% de quem votou. A abstenção **subiu** em 9 estados (AC, AM, AP, MA, PA, PI, RO, RR, TO), quase todos no Norte. Em 6 deles o Flávio teve menos votos no 2º turno do que no 1º (AC, AM, AP, MA, RR, TO).
+- **As pesquisas** (a última rodada de cada instituto com o cruzamento por voto no 1º turno, cada número conferido na fonte): os eleitores de Renan e de Caiado iam mais para o Flávio; os de Cury, um pouco mais para o Lula. Somando os três, o Flávio receberia cerca de 0,73 milhões a mais que o Lula. ⚠️ Cada grupo é cerca de 2% da amostra (uns 40 a 100 entrevistados), com margem de erro de 10 pontos ou mais.
+- **O resultado por município, modelo com restrição:** dividiram-se com um pouco mais para o Lula em cada um (faixa larga).
+- **O resultado por município, regressão das variações:** os outros candidatos meio a meio (45% e 46%).
 
-A queda da abstenção **não** se concentrou onde o Lula era mais forte: ela foi de 1,83 pontos no terço onde o Lula foi mais fraco; 1,99 pontos no terço do meio; 1,55 pontos no terço onde o Lula foi mais forte. Mas, dentro de cada município, onde a abstenção mais caiu o Lula mais subiu (correlação de 0,26).
+**Leitura:** o dado agregado não separa com precisão o eleitor de cada candidato. O que ele diz com segurança é a conta do saldo: se todo voto novo fosse do Lula, ele ainda precisaria de 60,1% dos votos dos outros. Isso está dentro do que aconteceu em 2002 e 2018 (veja abaixo), mas acima do que as pesquisas de 2026 indicavam. A diferença entre "o que as pesquisas diziam desses eleitores" e "o que o resultado exige" é um dos pontos que a lente F levanta, e é real. Se os eleitores dos outros foram como as pesquisas diziam, o Lula precisou de troca direta de voto (gente que votou Flávio no 1º turno e Lula no 2º). Isso tem precedente: em 2006, o Alckmin teve **menos votos no 2º turno do que no 1º** (2,43 milhões a menos, nos municípios do Brasil; conferido em `ferramentas/validacao-independente.py`).
 
-## 6. De onde vieram os votos (estimativa)
+| Eleição | Votos dos outros no 1º turno | Para o PT | Para o adversário | Branco, nulo ou faltou | Pela regressão (PT e adversário) |
+|---|---|---|---|---|---|
+| 2002 | 25,78 milhões | 58% | 30% | 12% | 70% e 20% |
+| 2006 | 9,36 milhões | 48% | 23% | 29% | 51% e 30% |
+| 2010 | 20,77 milhões | 37% | 42% | 20% | 43% e 40% |
+| 2014 | 25,82 milhões | 34% | 56% | 10% | 49% e 44% |
+| 2018 | 26,37 milhões | 58% | 28% | 15% | 83% e 16% |
+| 2022 | 9,86 milhões | 37% | 41% | 22% | 45% e 44% |
+| 2026 | 9,29 milhões | 47% | 40% | 13% | 45% e 46% |
 
-Modelo de transição com restrição (cada eleitor do 1º turno vai para algum lugar no 2º, e as proporções somam 100%), ajustado por região com os 5.571 municípios e somado no país; faixa de 90% por reamostragem de municípios. Arquivo: `resultados/transferencia_de_votos.csv`.
+## 7. A lente da fraude: cada alegação, na versão mais forte, testada
 
-| Eleitor do 1º turno | Lula | Flávio | Branco ou nulo | Faltou |
-|---|---|---|---|---|
-| Augusto Cury | 48% (39 a 62) | 33% (24 a 39) | 19% (12 a 23) | 0% (0 a 5) |
-| Renan Santos | 47% (36 a 55) | 41% (34 a 49) | 11% (7 a 17) | 1% (0 a 3) |
-| Ronaldo Caiado | 44% (37 a 50) | 42% (35 a 49) | 12% (9 a 17) | 2% (1 a 4) |
-| Zema e outros | 52% (32 a 67) | 43% (28 a 62) | 5% (1 a 9) | 0% (0 a 1) |
-| Branco ou nulo | 70% (66 a 73) | 0% (0 a 2) | 30% (27 a 33) | 0% (0 a 1) |
-| Faltou | 7% (6 a 8) | 1% (0 a 2) | 2% (2 a 3) | 90% (89 a 90) |
-| Lula | 99% (99 a 99) | 0% (0 a 0) | 0% (0 a 0) | 0% (0 a 1) |
-| Flávio | 0% (0 a 0) | 100% (99 a 100) | 0% (0 a 0) | 0% (0 a 1) |
+O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/alegacoes_fraude_2026.md`. Cada teste usa as eleições de 2002 a 2022, que ninguém contesta, como régua, e o mesmo teste para o Flávio como espelho.
 
-Lendo a tabela: os eleitores de Cury, Renan e Caiado se dividiram, com um pouco mais para o Lula em cada um, mas as faixas se cruzam (não dá para cravar que o Lula levou mais que o Flávio em nenhum dos três sozinho). Somados, a estimativa dá ao Lula cerca de 4,34 milhões vindos dos outros candidatos, 4,19 milhões de quem tinha votado branco ou nulo e 2,23 milhões de quem tinha faltado.
+| Alegação (versão mais forte) | O que precisaria aparecer no dado | O que o dado mostra | Régua de 2002 a 2022 |
+|---|---|---|---|
+| **(a) As pesquisas e o mercado erraram demais** | erro fora da distribuição histórica | erro de 5,2 pontos na frente: o 2º maior do Brasil, mas superado em 10 de 41 segundos turnos | o lado do erro (mais à direita no 2º turno) é o mesmo de 2014 e 2018 |
+| **(b) Nunca houve virada; Minas sempre acerta** | regra que vale também com frente pequena | as 7 eleições de presidente nunca tiveram frente pequena; com frente parecida, o líder perdeu 8 de 17 | Minas no 2º turno acertou de novo |
+| **(c) A abstenção caiu demais, "surgiram" votos** | eleitor novo indo quase todo para um lado; queda concentrada onde o Lula é forte | onde o comparecimento subiu, o eleitor a mais se dividiu 51% para o Lula e 45% para o Flávio; a queda da abstenção quase não acompanha a força do Lula (correlação -0,06) | queda entre os turnos inédita; o nível do 2º turno é parecido com o de 2006 |
+| **(c) Votos sem origem** | ganho que não cabe no que estava livre no município | 15.636 votos do Lula em 291 municípios (0,36% da frente); Flávio 228 | em 2006, numa eleição sem contestação, o PT teve 988.514 (4,8% da frente) |
+| **(d) A prorrogação até 19h decidiu** | votos depois das 17h da ordem da frente | sem nenhum voto do Lula em Salvador, Feira de Santana e Lauro de Freitas, ele ainda venceria por 2,95 milhões. Os logs contados por terceiros dão 35.521 votos depois das 17h no país (g1/TV Globo) | a campanha do Flávio também pediu prorrogação (SP, PR e SC) |
+| **(e) A pausa e a virada da noite** | curva que a ordem de chegada não explica | o Flávio liderou de 13,65% a 47,24% das seções (maior frente: 1,02 ponto); o Lula passou às 20:24 | em 2022 o Bolsonaro liderou até 68% das seções, com frente de até 4,0 pontos |
+| **(g) Comparecimento estranho** | municípios com comparecimento perto de 100% e voto quase todo num lado | nenhum município acima de 95% de comparecimento | 2014 teve 6 no 2º turno |
+| **Subida fora do padrão** | municípios em que a variação não segue a composição do 1º turno | 54 municípios fora de 4 desvios; a composição do 1º turno explica 80% da variação | 2022: 62 e 81% |
+| **(h) Exterior** | saldo do exterior da ordem da frente | saldo de 28.657 votos; sem o exterior, frente de 4,40 milhões. A subida do Lula no exterior (+6,3) foi quase igual à do Brasil (+6,6) | urnas fora do país, apuradas à parte |
+| **(f) Urna, código, logs, boletins** | divergência de assinatura, de RDV ou do teste de integridade | **não testado aqui** (é seção a seção: projeto do vídeo 16). O TSE publicou o teste de integridade sem divergência | |
 
-**Limites que pesam:** o modelo enxerga mal a troca direta de um candidato para o outro (ele tende a dar zero), e o número de "branco e nulo para o Lula" é o mais frágil, porque o branco e o nulo são pequenos em cada município. O modelo reproduz o 2º turno observado com diferença de 13.522 votos no Lula. Uma matriz única para o país inteiro dá números diferentes (`resultados/transferencia_matriz_unica_pais_pct.csv`), o que mostra quanto a estimativa depende do recorte. A pesquisa que perguntou "em quem votou no 1º turno" seria a segunda fonte, e ainda não foi coletada.
+**O que a lente F acerta, e fica de pé:** (1) a surpresa é real: nenhum dos três pilares dava o Lula como favorito; (2) todas as pesquisas erraram para o mesmo lado, e o erro do Brasil é o 2º maior desde 2002; (3) a queda da abstenção entre os turnos não tem precedente; (4) o que as pesquisas diziam dos eleitores de Renan e Caiado não combina bem com o que o resultado exige; (5) a parte seção a seção (logs, boletins, horário) não está neste projeto.
 
-## 7. A probabilidade, antes da votação
+## 8. A lente do resultado legítimo
 
-A média da última pesquisa de cada instituto dava ao Flávio uma frente de **1,61 pontos**. A pergunta é: com o que se sabia no sábado, qual era a chance de o Lula vencer?
+| Se foi legítimo, esperaria-se | O dado |
+|---|---|
+| uma chance real de virada antes da votação | 39% pelos três pilares |
+| erro de pesquisa já visto | erro do mesmo tamanho em 2002; maior em 10 de 41 segundos turnos pelo mundo |
+| votos fechando | fecham no voto |
+| subida espalhada | o Lula subiu nos 27 estados e em 5.491 de 5.571 municípios, com a segunda menor variação entre municípios da série |
+| eleitor novo dividido, sem lado único | 51% e 45% |
+| apuração com a forma de sempre | a mesma virada na contagem de 2022, mais cedo e menor |
 
-| Régua | Chance do Lula | Em outras palavras |
-|---|---|---|
-| o líder do 1º turno sempre venceu (Laplace) | 11% | 1 em 9,0 |
-| Polymarket na véspera | 19% | 1 em 5,3 |
-| pesquisas e erro histórico (só presidente) | 33% | 1 em 3,0 |
-| pesquisas e erro histórico (contagem) | 33% | 1 em 3,0 |
-| pesquisas e erro histórico (todas as disputas) | 39% | 1 em 2,6 |
-| governador com frente de até 3 pontos | 56% | mais de 1 em 2 |
+**O que a lente L não explica bem:** por que **nenhuma** das 53 pesquisas chegou no número; e por que a abstenção caiu tanto. A hipótese mais citada é o filtro de eleitor provável: no Datafolha da véspera, o eleitor de alta propensão a votar dava Flávio 52 a 48, e o de média e baixa, Lula 52 a 48; se mais gente de baixa propensão votou, o erro vai para o lado que aconteceu. Isso combina com a queda da abstenção, mas **não está provado**.
 
-- **Pesquisas e erro histórico:** em 42 segundos turnos de 2014 a 2022 (presidente e governador), a média das pesquisas errou a frente do líder com desvio de 7,3 pontos. Com esse erro, uma frente de 1,61 pontos vira em cerca de 1 de cada 3 eleições.
-- **Vitória do Lula por 3,57 pontos ou mais** (o que aconteceu): 22% pela mesma conta, ou 14% contando os casos do histórico.
-- **O histórico do 1º turno** (líder sempre venceu, 7 de 7) dá 1 em 9,0.
-- **A Polymarket** dava 19% ao Lula na véspera. Nos mercados de eleição em que o favorito tinha de 70% a 90%, o favorito perdeu 3 de 18 vezes. A mesma Polymarket deu o Lula como favorito no 1º turno (72%) e errou.
-- **Média das três réguas principais** (pesquisas com erro histórico, histórico do 1º turno e Polymarket): **23%**, ou 1 em 4,4.
+## 9. Juntando tudo
 
-## 8. As duas lentes
+**O dado sustenta mais a lente do resultado legítimo**, com estes graus de confiança:
+- **Alta confiança:** nenhum dos testes que este projeto consegue fazer com o resultado oficial por município mostra 2026 fora do padrão das eleições de 2002 a 2022, e os tetos de pior caso (prorrogação, exterior, votos sem origem) ficam muito abaixo da frente de 4,43 milhões.
+- **Média confiança:** a chance antes da votação era de cerca de 39%. O número muda alguns pontos conforme as escolhas (de 30% a 53% nas variantes), mas em nenhuma fica abaixo de 1 em 4.
+- **O que fica aberto:** o seção a seção (vídeo 16) e o porquê do erro das pesquisas.
 
-A leitura completa, com a versão mais forte de cada lado, está em [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). O que os testes mostram:
+## 10. Validação
 
-| Teste | Lula | Flávio |
-|---|---|---|
-| Municípios em que o ganho passou de tudo o que estava livre (votos dos outros + queda da abstenção + queda de branco e nulo) | 291 municípios, 15.636 votos | 2 municípios, 228 votos |
-| Municípios com comparecimento acima de 95% e 90% ou mais para um candidato, 1º turno | 0 | 0 |
-| O mesmo, 2º turno | 0 | 0 |
-
-Os 15.636 votos "sem origem visível" do Lula são **0,35%** da frente final. Eles cabem em troca direta de voto (gente que votou Flávio no 1º e Lula no 2º), que este teste não enxerga.
-
-## 9. Validação
-
-12 de 12 números centrais refeitos por outro caminho, direto dos arquivos do TSE e das capturas, sem usar o código da análise (`ferramentas/validacao-independente.py`, `resultados/validacao_independente.csv`). Os totais por UF somam o país e os municípios somam cada UF, nos dois turnos, com diferença zero (`ferramentas/derivar.py`).
-
-## 10. Gráficos
-
-`resultados/figuras/`, 1920x1080: de onde vieram os votos (g01), as pesquisas contra a urna (g02 e g03), o erro que troca de lado (g04), as regras (g05), os estados (g06), a abstenção (g07), a transferência estimada (g08), governador e presidente (g09), a probabilidade (g10) e os votos sem origem visível (g11).
+16 de 16 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.

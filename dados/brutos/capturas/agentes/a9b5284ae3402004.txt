@@ -1,0 +1,4823 @@
+{{Short description|none}}
+
+{{Use dmy dates|date=June 2025}}
+
+During the months leading up to the [[2025 Polish presidential election]] (whose first round occurred on 18 May, and whose second round will occur on 1 June), various organizations carry out [[opinion polling]] to gauge voters' intentions in [[Poland]]. Results of such polls are displayed in this article.
+
+The date range for these opinion polls are from the [[2020 Polish presidential election|previous presidential election]], held on {{date|2020-06-28|DMY}}, to the present day. The 2025 presidential election was held on {{date|2025-05-18|DMY}}, with the second round on {{date|2025-06-01|DMY}}.<ref>{{cite news |title=Marszałek Sejmu ogłosił datę wyborów prezydenckich |date={{date|2025-01-08|DMY}} |url=https://www.pap.pl/aktualnosci/marszalek-sejmu-oglosil-date-wyborow-prezydenckich |url-status=live |archive-url=https://archive.today/20250112003134/https://www.pap.pl/aktualnosci/marszalek-sejmu-oglosil-date-wyborow-prezydenckich |archive-date={{date|2025-01-12|DMY}} |access-date={{date|2025-01-13|DMY}} |work=[[Polish Press Agency|Polska Agencja Prasowa]] |trans-title=Marshal of the Sejm announced the presidential election day |language=pl}}</ref>
+
+== Polling aggregations ==
+The following table displays the most recent aggregations of polling results from different organisations.
+
+=== First round === 
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px; width=auto;"
+|-
+! rowspan="2" |Polling Aggregator/Link
+! rowspan="2" |Date
+! [[Rafał Trzaskowski|Trzaskowski]]<br />{{small|[[Civic Platform|PO]]}}
+! [[Karol Nawrocki|Nawrocki]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Sławomir Mentzen|Mentzen]]<br />{{small|[[Confederation Liberty and Independence|Confederation]]}}
+! [[Grzegorz Braun|Braun]]<br />{{small|[[Confederation of the Polish Crown|KKP]]}}
+! [[Szymon Hołownia|Hołownia]]<br />{{small|[[Poland 2050|PL2050]]}}
+! [[Adrian Zandberg|Zandberg]]<br />{{small|[[Together Party|Razem]]}}
+! [[Magdalena Biejat|Biejat]]<br />{{small|[[New Left (Poland)|NL]]}}
+! [[Krzysztof Stanowski (journalist)|Stanowski]]<br />{{small|[[Independent politician|ind.]]}}
+! [[Joanna Senyszyn|Senyszyn]]<br />{{small|[[Democratic Left Association|SLD]]}}
+! [[Marek Jakubiak|Jakubiak]]<br />{{small|[[Free Republicans|WR]]}}
+! rowspan="2" |Others / <br />don't know
+! rowspan="2" |Lead
+|-
+| style="background:{{party color|Civic Platform}};" |
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+| style="background:{{party color|Confederation of the Polish Crown}};" |
+| style="background:{{party color|Poland 2050}};" |
+| style="background:{{party color|Together Party}};" |
+| style="background:{{party color|New Left (Poland)}};" |
+| style="background:{{party color|Independent politician}};" |
+| style="background:{{party color|Democratic Left Association}};" |
+| style="background:{{party color|Free Republicans}};" |
+|- style="background:#EFEFEF; font-weight:bold;"
+| rowspan="26" | [https://ewybory.eu/wybory-prezydenckie-2025-polska/sondaze-prezydenckie-1-tura/ ewybory.eu]
+| {{small|Election result}}
+| style="background:#FDDCB8;" | 31.36
+| style="background:#C0DBFC;" | 29.54
+| 14.81
+| 6.34
+| 4.99
+| 4.86
+| 4.23
+| 1.24
+| 1.09
+| 0.77
+| 0.77
+| style="background:#F68F2D;" | 1.82
+|-
+| data-sort-value="2025-05-16" | 14–16 May 2025
+| style="background:#FDDCB8;" | '''31.6'''
+| style="background:#C0DBFC;" | 26.0
+| 12.3
+| 4.3
+| 6.5
+| 5.1
+| 5.4
+| 1.8
+| 1.4
+| 1.5
+| 4.1
+| style="background:#F68F2D;" | '''5.6'''
+|-
+| data-sort-value="2025-05-13" | 10–13 May 2025
+| style="background:#FDDCB8;" | '''32.3'''
+| style="background:#C0DBFC;" | 26.0
+| 12.1
+| 4.0
+| 6.5
+| 5.1
+| 5.4
+| 1.7
+| 1.4
+| 1.2
+| 3.1
+| style="background:#F68F2D;" | '''6.3'''
+|-
+| data-sort-value="2025-05-09" | 3–9 May 2025
+| style="background:#FDDCB8;" | '''32.0'''
+| style="background:#C0DBFC;" | 23.6
+| 13.6
+| 4.3
+| 7.3
+| 5.4
+| 5.9
+| 1.4
+| 1.0
+| 1.2
+| 4.3
+| style="background:#F68F2D;" | '''8.4'''
+|-
+| data-sort-value="2025-05-09" | 26 Apr–2 May 2025
+| style="background:#FDDCB8;" | '''32.6'''
+| style="background:#C0DBFC;" | 25.1
+| 13.1
+| 2.4
+| 7.0
+| 4.5
+| 4.9
+| 1.8
+| 0.7
+| 1.4
+| 6.5
+| style="background:#F68F2D;" | '''7.5'''
+|-
+| data-sort-value="2025-04-25" | 19–25 Apr 2025
+| style="background:#FDDCB8;" | '''32.0'''
+| style="background:#C0DBFC;" | 26.5
+| 13.4
+| 2.1
+| 5.8
+| 4.0
+| 4.9
+| 1.6
+| 1.2
+| 1.2
+| 7.3
+| style="background:#F68F2D;" | '''5.5'''
+|-
+| data-sort-value="2025-04-18" |10–16 Apr 2025
+| style="background:#FDDCB8;" | '''32.9'''
+| style="background:#C0DBFC;" | 24.9
+| 15.8
+| 2.6
+| 6.4
+| 3.8
+| 3.8
+| 1.7
+| 0.5
+| 1.1
+| 6.5
+| style="background:#F68F2D;" | '''8.0'''
+|-
+| data-sort-value="2025-04-11" | 5–11 Apr 2025
+| style="background:#FDDCB8;" | '''35.2'''
+| style="background:#C0DBFC;" | 24.2
+| 17.9
+| 3.1
+| 5.1
+| 3.1
+| 2.2
+| 1.2
+| 0.3
+| 0.6
+| 7.1
+| style="background:#F68F2D;" | '''11.0'''
+|-
+| data-sort-value="2025-04-04" | 29 Mar–4 Apr 2025
+| style="background:#FDDCB8;" | '''36.4'''
+| style="background:#C0DBFC;" | 22.2
+| 17.6
+| 2.1
+| 7.6
+| 2.7
+| 2.8
+| 0.6
+| 0.5
+| 0.5
+| 7.0
+| style="background:#F68F2D;" | '''14.2'''
+|-
+| data-sort-value="2025-03-28" | 22–28 Mar 2025
+| style="background:#FDDCB8;" | '''34.4'''
+| style="background:#C0DBFC;" | 23.7
+| 17.5
+| 1.1
+| 5.4
+| 1.9
+| 3.6
+| 0.0
+| 0.0
+| 1.4
+| 11.0
+| style="background:#F68F2D;" | '''10.7'''
+|-
+| data-sort-value="2025-03-21" | 15–21 Mar 2025
+| style="background:#FDDCB8;" | '''35.6'''
+| style="background:#C0DBFC;" | 23.1
+| 19.0
+| 1.5
+| 4.7
+| 2.6
+| 2.3
+| 2.1
+| 0.1
+| 0.9
+| 8.1
+| style="background:#F68F2D;" | '''12.5'''
+|-
+| data-sort-value="2025-03-14" | 8–14 Mar 2025
+| style="background:#FDDCB8;" | '''35.4'''
+| style="background:#C0DBFC;" | 23.0
+| 19.2
+| 1.9
+| 5.7
+| 2.3
+| 2.3
+| 1.5
+| 0.0
+| 0.7
+| 8.0
+| style="background:#F68F2D;" | '''12.4'''
+|-
+| data-sort-value="2025-03-07" | 1–7 Mar  2025
+| style="background:#FDDCB8;" | '''35.4'''
+| style="background:#C0DBFC;" | 22.7
+| 18.0
+| 1.9
+| 6.0
+| 2.7
+| 3.7
+| 1.2
+| 0.0
+| 1.1
+| 7.3
+| style="background:#F68F2D;" | '''12.7'''
+|-
+| data-sort-value="2025-02-28" | 22–28 Feb 2025
+| style="background:#FDDCB8;" | '''33.8'''
+| style="background:#C0DBFC;" | 22.7
+| 17.2
+| 1.0
+| 7.4
+| 1.6
+| 3.2
+| 0.0
+| 0.0
+| 2.2
+| 10.1
+| style="background:#F68F2D;" | '''11.1'''
+|-
+| data-sort-value="2025-02-21" | 15–21 Feb 2025
+| style="background:#FDDCB8;" | '''34.0'''
+| style="background:#C0DBFC;" | 24.9
+| 15.3
+| 2.1
+| 5.6
+| 2.0
+| 2.3
+| 0.0
+| 0.0
+| 1.2
+| 8.8
+| style="background:#F68F2D;" | '''8.1'''
+|-
+| data-sort-value="2025-02-14" | 8–14  Feb 2025
+| style="background:#FDDCB8;" | '''34.2'''
+| style="background:#C0DBFC;" | 24.0
+| 14.2
+| 1.5
+| 6.5
+| 1.9
+| 3.0
+| 0.0
+| 0.0
+| 2.1
+| 9.6
+| style="background:#F68F2D;" | '''10.2'''
+|-
+| data-sort-value="2025-02-07" | 1–7 Feb 2025
+| style="background:#FDDCB8;" | '''37.3'''
+| style="background:#C0DBFC;" | 23.9
+| 8.9
+| 1.7
+| 6.8
+| 1.1
+| 5.0
+| 0.0
+| 0.0
+| 1.2
+| 14.1
+| style="background:#F68F2D;" | '''13.4'''
+|-
+| data-sort-value="2025-01-31" | 25–31 Jan 2025
+| style="background:#FDDCB8;" | '''34.6'''
+| style="background:#C0DBFC;" | 24.5
+| 12.6
+| 1.6
+| 7.1
+| 1.5
+| 3.5
+| 0.0
+| 0.0
+| 1.4
+| 13.2
+| style="background:#F68F2D;" | '''10.1'''
+|-
+| data-sort-value="2025-01-24" | 18–24 Jan 2025
+| style="background:#FDDCB8;" | '''35.5'''
+| style="background:#C0DBFC;" | 25.2
+| 13.2
+| 2.7
+| 7.5
+| 1.5
+| 3.3
+| 0.0
+| 0.2
+| 1.3
+| 9.6
+| style="background:#F68F2D;" | '''10.3'''
+|-
+| data-sort-value="2025-01-17" | 11–17 Jan 2025
+| style="background:#FDDCB8;" | '''34.6'''
+| style="background:#C0DBFC;" | 25.5
+| 11.5
+| 0.0
+| 7.9
+| 1.8
+| 3.3
+| 0.0
+| 0.0
+| 1.6
+| 12.3
+| style="background:#F68F2D;" | '''9.1'''
+|-
+| data-sort-value="2025-01-10" | 4–10 Jan 2025
+| style="background:#FDDCB8;" | '''32.4'''
+| style="background:#C0DBFC;" | 26.8
+| 12.6
+| 0.0
+| 6.6
+| 1.2
+| 3.5
+| 0.0
+| 0.0
+| 1.7
+| 15.2
+| style="background:#F68F2D;" | '''5.6'''
+|-
+| data-sort-value="2024-12-27" | 21–27 Dec 2024
+| style="background:#FDDCB8;" | '''36.0'''
+| style="background:#C0DBFC;" | 27.5
+| 9.9
+| 0.0
+| 10.2
+| 0.0
+| 6.0
+| 0.0
+| 0.0
+| 1.5
+| 8.9
+| style="background:#F68F2D;" | '''8.5'''
+|-
+| data-sort-value="2024-12-20" | 14–20 Dec 2024
+| style="background:#FDDCB8;" | '''36.6'''
+| style="background:#C0DBFC;" | 24.7
+| 11.6
+| 0.0
+| 8.5
+| 0.0
+| 3.6
+| 0.0
+| 0.0
+| 1.9
+| 13.1
+| style="background:#F68F2D;" | '''11.9'''
+|-
+| data-sort-value="2024-12-13" | 7–13 Dec 2024
+| style="background:#FDDCB8;" | '''39.4'''
+| style="background:#C0DBFC;" | 29.5
+| 10.0
+| 0.0
+| 9.3
+| 0.0
+| 4.0
+| 0.0
+| 0.0
+| 1.6
+| 6.2
+| style="background:#F68F2D;" | '''9.9'''
+|-
+| data-sort-value="2024-12-06" | 30 Nov–6 Dec 2024
+| style="background:#FDDCB8;" | '''36.9'''
+| style="background:#C0DBFC;" | 30.3
+| 7.3
+| 0.0
+| 7.9
+| 0.0
+| 4.8
+| 0.0
+| 0.0
+| 0.5
+| 12.3
+| style="background:#F68F2D;" | '''6.6'''
+|-
+| data-sort-value="2024-11-29" | 23–29 Nov 2024
+| style="background:#FDDCB8;" | '''38.7'''
+| style="background:#C0DBFC;" | 21.1
+| 11.4
+| 0.0
+| 9.3
+| 0.0
+| 5.8
+| 0.0
+| 0.0
+| 2.5
+| 11.2
+| style="background:#F68F2D;" | '''17.6'''
+|}
+
+<!-- outdated politico link | [https://www.politico.eu/europe-poll-of-polls/poland/ Politico.eu]
+| data-sort-value="2025-05-15" | 15 May 2025
+| style="background:#C0DBFC;" | 26
+| style="background:#FDDCB8;" | '''31'''
+| 7
+| 6
+| 5
+| 12
+| 4
+| 2
+| 2
+| -
+| 5
+| style="background:{{party color|Civic Platform}};" | '''5'''
+|}
+-->
+
+=== Second round – Nawrocki v. Trzaskowski ===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px; width=auto;"
+|-
+! rowspan="2" |Polling Aggregator/Link
+! rowspan="2" |Date
+! [[Karol Nawrocki|Nawrocki]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br />{{small|[[Civic Platform|PO]]}}
+! rowspan="2" |Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|- style="background:#EFEFEF; font-weight:bold;"
+| rowspan="16" | [https://ewybory.eu/wybory-prezydenckie-2025-polska/sondaze-prezydenckie/ ewybory.eu]
+| {{small|Election result}}
+| style="background:#C0DBFC;" | 50.89
+| 49.11 
+| style="background:{{party color|Law and Justice}}; color:white;" | 1.78
+|-
+| data-sort-value="2025-05-30" | 24–30 May 2025
+| 49.7
+| style="background:#fbcc99;" | '''50.3'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''0.6'''
+|-
+| data-sort-value="2025-05-23" | 18–23 May 2025
+| style="background:#C0DBFC;" | '''50.0'''
+| style="background:#FDDCB8;" | '''50.0'''
+| '''Tie'''
+|-
+| data-sort-value="2025-05-16" | 10–16 May 2025
+| 46.1
+| style="background:#fbcc99;" | '''53.9'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''7.8'''
+|-
+| data-sort-value="2025-05-09" | 3–9 May 2025
+| 43.7
+| style="background:#fbcc99;" | '''56.3'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''12.6'''
+|-
+| data-sort-value="2025-05-02" | 26 Apr–2 May 2025
+| 44.4
+| style="background:#fbcc99;" | '''55.6'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''11.2'''
+
+|-
+| data-sort-value="2025-04-25" | 19–25 Apr 2025
+| 45.6
+| style="background:#fbcc99;" | '''54.4'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''8.8'''
+|-
+| data-sort-value="2025-04-18" | 12–18 Apr 2025
+| 45.9
+| style="background:#fbcc99;" | '''54.1'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''8.2'''
+|-
+| data-sort-value="2025-04-11" | 5–11 Apr 2025
+| 44.3
+| style="background:#fbcc99;" | '''55.7'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''11.4'''
+|-
+| data-sort-value="2025-04-04" | 29 Mar–4 Apr 2025
+| 40.8
+| style="background:#fbcc99;" | '''59.2'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''18.4'''
+|-
+| data-sort-value="2025-03-28" | 22–28 Mar 2025
+| 42.7
+| style="background:#fbcc99;" | '''57.3'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''14.6'''
+|-
+| data-sort-value="2025-03-21" | 15–21 Mar 2025
+| 42.3
+| style="background:#fbcc99;" | '''57.7'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''15.4'''
+|-
+| data-sort-value="2025-03-14" | 8–14 Mar 2025
+| 42.7
+| style="background:#fbcc99;" | '''57.3'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''14.6'''
+|-
+| data-sort-value="2025-03-01" | 1–7 Mar 2025
+| 44.1
+| style="background:#fbcc99;" | '''55.9'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''11.8'''
+|-
+| data-sort-value="2025-02-28" | 22–28 Feb 2025
+| 43.5
+| style="background:#fbcc99;" | '''56.5'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''13'''
+|-
+| data-sort-value="2025-02-21" | 15–21 Feb 2025
+| 44.1
+| style="background:#fbcc99;" | '''55.9'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''11.8'''
+|}
+
+====Daily average====
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px; width=auto;"
+|-
+! rowspan="2" |Polling Aggregator/Link
+! rowspan="2" |Date
+! [[Karol Nawrocki|Nawrocki]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br />{{small|[[Civic Platform|PO]]}}
+! rowspan="2" |Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|- style="background:#EFEFEF; font-weight:bold;"
+| rowspan="13" | [https://ewybory.eu/wybory-prezydenckie-2025-polska/sondaze-prezydenckie/ ewybory.eu]
+| {{small|Election result}}
+| style="background:#C0DBFC;" | 50.89
+| 49.11 
+| style="background:{{party color|Law and Justice}}; color:white;" | 1.78
+|-
+| data-sort-value="2025-05-30" | 30 May
+| style="background:#C0DBFC;" | '''50.1'''
+| 49.9
+| style="background:{{party color|Law and Justice}}; color:white;" |'''0.2'''
+|-
+| data-sort-value="2025-05-29" | 29 May
+| 49.8
+| style="background:#fbcc99;" | '''50.2'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''0.4'''
+|-
+| data-sort-value="2025-05-28" | 28 May
+| 49.7
+| style="background:#fbcc99;" | '''50.3'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''0.6'''
+|-
+| data-sort-value="2025-05-27" | 27 May
+| 49.9
+| style="background:#fbcc99;" | '''50.1'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''0.2'''
+|-
+| data-sort-value="2025-05-26" | 26 May
+| 49.4
+| style="background:#fbcc99;" | '''50.6'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''1.2'''
+|-
+| data-sort-value="2025-05-25" | 25 May
+| 49.3
+| style="background:#fbcc99;" | '''50.7'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''1.4'''
+|-
+| data-sort-value="2025-05-24" | 24 May
+| 49.7
+| style="background:#fbcc99;" | '''50.3'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''0.6'''
+|-
+| data-sort-value="2025-05-23" | 23 May
+| 49.7
+| style="background:#fbcc99;" | '''50.3'''
+| style="background:{{party color|Civic Platform}}; color:black;" | '''0.6'''
+|-
+| data-sort-value="2025-05-22" | 22 May
+| style="background:#C0DBFC;" | '''50.6'''
+| 49.4 
+| style="background:{{party color|Law and Justice}}; color:white;" | '''1.2'''
+|-
+| data-sort-value="2025-05-21" | 21 May
+| style="background:#C0DBFC;" | '''50.5'''
+| 49.5 
+| style="background:{{party color|Law and Justice}}; color:white;" | '''1'''
+|-
+| data-sort-value="2025-05-20" | 20 May
+| style="background:#C0DBFC;" | '''50.5'''
+| 49.5 
+| style="background:{{party color|Law and Justice}}; color:white;" | '''1'''
+|-
+| data-sort-value="2025-05-19" | 19 May
+| style="background:#C0DBFC;" | '''51.1'''
+| 48.9 
+| style="background:{{party color|Law and Justice}}; color:white;" | '''2.2'''
+|}
+
+== First round ==
+[[File:First Round Polish 2025 Presidential Polling.svg|centre|frameless|1000x1000px|LOESS curve for the 2025 Polish presidential election, first round.]]{{-}}
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px; width=auto;"
+|-
+! rowspan="2" |Polling firm/Link
+! rowspan="2" |Fieldwork<br />date
+! rowspan="2" |Sample<br />size
+! [[Karol Nawrocki|Nawrocki]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br />{{small|[[Civic Platform|PO]]}}
+! [[Szymon Hołownia|Hołownia]]<br />{{small|[[Poland 2050|PL2050]]}}
+! [[Magdalena Biejat|Biejat]]<br />{{small|[[New Left (Poland)|NL]]}}
+! [[Adrian Zandberg|Zandberg]]<br />{{small|[[Together Party|Razem]]}}
+! [[Sławomir Mentzen|Mentzen]]<br />{{small|[[Confederation Liberty and Independence|Confederation]]}}
+! [[Grzegorz Braun|Braun]]<br />{{small|[[Confederation of the Polish Crown|KKP]]}}
+! [[Marek Jakubiak|Jakubiak]]<br />{{small|[[Free Republicans|WR]]}}
+! [[Krzysztof Stanowski (journalist)|Stanowski]]<br />{{small|[[Independent politician|ind.]]}}
+! [[Marek Woch|Woch]]<br />{{small|[[Bezpartyjni Samorządowcy|BS]]}}
+! [[Joanna Senyszyn|Senyszyn]]<br />{{small|[[Democratic Left Association|SLD]]}}
+! [[Maciej Maciak|Maciak]]<br />{{small|[[Prosperity and Peace Movement|RDiP]]}}
+! [[Artur Bartoszewicz|Bartoszewicz]]<br />{{small|[[Independent politician|ind.]]}}
+! rowspan="2" |Others
+! rowspan="2" |Don't know
+! rowspan="2" |Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+| style="background:{{party color|Poland 2050}};" |
+| style="background:{{party color|New Left (Poland)}};" |
+| style="background:{{party color|Together Party}};" |
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+| style="background:{{party color|Confederation of the Polish Crown}};" |
+| style="background:{{party color|Free Republicans}};" |
+| style="background:{{party color|Independent politician}};" |
+| style="background:{{party color|Bezpartyjni Samorządowcy}};" |
+| style="background:{{party color|Democratic Left Association}};" |
+| style="background:{{party color|Prosperity and Peace Movement}};" |
+| style="background:{{party color|Independent politician}};" |
+|- style="background:#EFEFEF; font-weight:bold;"
+| [[2025 Polish presidential election|2025 presidential election]]<ref>{{cite web |title=Wybory Prezydenta Rzeczypospolitej Polskiej w 2025 r. |url=https://wybory.gov.pl/prezydent2025/pl/wynik/pl |date={{date|2025-05-18|DMY}} |access-date={{date|2025-05-19|DMY}} |website=[[National Electoral Commission (Poland)|Państwowa Komisja Wyborcza]] |trans-title=The Election of the President of the Republic of Poland 2025 |language=en,pl}}</ref>
+| {{small|Election result}}
+| 19,603,784
+| style="background:#C0DBFC;" | 29.54
+| style="background:#FDDCB8;" | 31.36
+| 4.99
+| 4.23
+| 4.86
+| 14.81
+| 6.34
+| 0.77
+| 1.24
+| 0.09
+| 1.09
+| 0.19
+| 0.49
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''1.82'''
+|- <!--style="background:#CDEACC"|
+| [https://wiadomosci.wp.pl/drugi-sondaz-late-poll-sa-dane-i-zmiany-z-badania-z-ogb-7158206108949184a OGB (2nd late poll) / TV Republika]{{fv|date=May 2025}}
+| 19 May 2025
+| –
+| style="background:#C0DBFC;" | 28.46
+| style="background:#FDDCB8;" | '''31.35'''
+| 5.04
+| 4.48
+| 5.10
+| 15.15
+| 6.65
+| 0.70
+| 1.10
+| 0.09
+| 1.21
+| 0.19
+| 0.48
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''2.89'''-->
+|- style="background:#CDEACC"|
+| [[Ipsos]] (2nd late poll) / [[Telewizja Polska|TVP]], [[TVN24]], [[Polsat News]]<ref>{{cite news |title=PKW podała wyniki z 99 proc. komisji; według late poll Trzaskowski z przewagą nad Nawrockim |date={{date|2025-05-19|DMY}} |url=https://polonia.tvp.pl/polityka/pkw-podala-wyniki-z-99-proc-komisji-wedlug-late-poll-trzaskowski-z-przewaga-nad-nawrockim,86784263 |url-status=live |archive-url=https://web.archive.org/web/20250522201331/https://polonia.tvp.pl/polityka/pkw-podala-wyniki-z-99-proc-komisji-wedlug-late-poll-trzaskowski-z-przewaga-nad-nawrockim,86784263 |archive-date={{date|2025-05-22|DMY}} |access-date={{date|2025-05-22|DMY}} |work=[[TVP Polonia]] |trans-title=PKW reported results from 99 percent of commissions; according to late poll, Trzaskowski with advantage over Nawrocki |language=pl}}</ref><ref>{{cite news |title=Wybory prezydenckie 2025. Rafał Trzaskowski komentuje. "Idziemy po zwycięstwo" |date={{date|2025-05-18|DMY}} |url=https://tvn24.pl/polska/wybory-prezydenckie-2025-rafal-trzaskowski-uzyskal-31-2-procent-glosow-wynik-late-poll-st8463102 |url-status=live |archive-url=https://web.archive.org/web/20250519010839/https://tvn24.pl/polska/wybory-prezydenckie-2025-rafal-trzaskowski-uzyskal-31-2-procent-glosow-wynik-late-poll-st8463102 |archive-date={{date|2025-05-19|DMY}} |access-date={{date|2025-05-22|DMY}} |work=[[TVN24]] |trans-title=Presidential election 2025. Rafał Trzaskowski comments. "We are going for victory" |language=pl}}</ref><ref>{{cite news |title=Wybory prezydenckie 2025. Najnowsze wyniki badania late poll |last1=Białczyk |first1=Piotr |date={{date|2025-05-19|DMY}} |url=https://www.polsatnews.pl/wiadomosc/2025-05-19/wybory-prezydenckie-2025-najnowsze-wyniki-badania-late-poll/ |url-status=live |archive-url=https://web.archive.org/web/20250520001422/https://www.polsatnews.pl/wiadomosc/2025-05-19/wybory-prezydenckie-2025-najnowsze-wyniki-badania-late-poll/ |archive-date={{date|2025-05-20|DMY}} |access-date={{date|2025-05-22|DMY}} |work=[[Polsat News]] |trans-title=Presidential election 2025. Newest late poll results |language=pl}}</ref>
+| 19 May 2025
+| –
+| style="background:#C0DBFC;" | 29.7
+| style="background:#FDDCB8;" | '''31.2'''
+| 4.9
+| 4.1
+| 4.8
+| 14.5
+| 6.3
+| 0.8
+| 1.3
+| 0.1
+| 1.4
+| 0.4
+| 0.5
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''1.5'''
+|- <!--style="background:#CDEACC"|
+| OGB (late poll) / [[Telewizja Republika|TV Republika]]<ref name="Buczkowski2025">{{cite news |title=Drugi sondaż late poll. Są dane i zmiany z badania z OGB: Według sondażowych wyników late poll z badania Ogólnopolskiej Grupy Badawczej dla TV Republika w I turze wyborów prezydenckich Rafał Trzaskowski uzyskał 31,85 proc. głosów, a Karol Nawrocki 28,3 proc. |last1=Buczkowski |first1=Paweł |date={{date|2025-05-19|DMY}} |url=https://wiadomosci.wp.pl/drugi-sondaz-late-poll-sa-dane-i-zmiany-z-badania-z-ogb-7158206108949184a |url-status=live |archive-url=https://web.archive.org/web/20250519023040/https://wiadomosci.wp.pl/drugi-sondaz-late-poll-sa-dane-i-zmiany-z-badania-z-ogb-7158206108949184a |archive-date={{date|2025-05-19|DMY}} |access-date={{date|2025-05-19|DMY}} |work=[[Wirtualna Polska]] |trans-title=Second late poll. There are data and changes from the survey from OGB: According to the late poll results from the Nationwide Research Group survey for TV Republika in the first round of the presidential election, Rafał Trzaskowski received 31.85 percent of the vote and Karol Nawrocki 28.3 percent. |language=pl}}</ref>
+| 19 May 2025
+| –
+| style="background:#C0DBFC;" | 28.30
+| style="background:#FDDCB8;" | '''31.85'''
+| 4.94
+| 4.27
+| 4.90
+| 15.28
+| 6.86
+| 0.68
+| 0.99
+| 0.9
+| 1.16
+| 0.20
+| 0.48
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''3.55'''-->
+|- style="background:#CDEACC"|
+| [[Ipsos]] (late poll) / [[Telewizja Polska|TVP]], [[TVN24]], [[Polsat News]]<ref>{{cite news |title=Sondaż late poll. Wyniki niemal identyczne jak w exit poll |last1=Głowacki |first1=Witold |date={{date|2025-05-19|DMY}} |url=https://oko.press/na-zywo/na-zywo-relacja/sondaz-late-poll-wyniki-niemal-identyczne-jak-w-exit-poll |url-status=live |archive-url=https://web.archive.org/web/20250519034219/https://oko.press/na-zywo/na-zywo-relacja/sondaz-late-poll-wyniki-niemal-identyczne-jak-w-exit-poll |archive-date={{date|2025-05-19|DMY}} |access-date={{date|2025-05-22|DMY}} |work=[[OKO.press]] |trans-title=Late poll. Results almost identical to exit poll |language=pl}}</ref>
+| 19 May 2025
+| –
+| style="background:#C0DBFC;" | 29.1
+| style="background:#FDDCB8;" | '''31.1'''
+| 4.9
+| 4.1
+| 5.2
+| 14.8
+| 6.3
+| 0.8
+| 1.3
+| 0.1
+| 1.4
+| 0.4
+| 0.5
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''2.0'''
+|- style="background:#EAFFEA"|
+| OGB ([[exit poll]]) / [[Telewizja Republika|TV Republika]]<ref>{{cite news |title=Poznaliśmy WYNIKI SONDAŻOWE I TURY |date={{date|2025-05-18|DMY}} |url=https://tvrepublika.pl/Polska/Wyniki-sondazowe-I-tury-wyborow-prezydenckich-w-Polsce/189121 |url-status=live |archive-url=https://web.archive.org/web/20250518203725/https://tvrepublika.pl/Polska/Wyniki-sondazowe-I-tury-wyborow-prezydenckich-w-Polsce/189121 |archive-date={{date|2025-05-18|DMY}} |access-date={{date|2025-05-18|DMY}} |work=[[Telewizja Republika]] |trans-title=We know the POLL RESULTS OF THE 1ST ROUND |language=pl}}</ref><ref>{{cite news |title=Tak sondaże fałszowały rzeczywistość! Poparcie dla Nawrockiego i Mentzena zaniżone nawet o kilka procent: O godzinie 21 zakończyło się głosowanie w pierwszej turze wyborów prezydenckich. Zaraz po tym Telewizja Republika zaprezentowała wyniki badania exit poll, które przeprowadziła dla niej sondażownia OGB. Pokazują one, jak bardzo w ostatnich dniach kampanii zaniżane było poparcie dla Karola Nawrockiego i Sławomira Mentzena w sondażach przedwyborczych. |last1=Święcicki |first1=Mateusz |date={{date|2025-05-18|DMY}} |url=https://niezalezna.pl/polityka/tak-sondaze-falszowaly-rzeczywistosc-poparcie-dla-nawrockiego-i-mentzena-zanizone-nawet-o-kilka-procent/543807 |url-status=live |archive-url=https://web.archive.org/web/20250518210152/https://niezalezna.pl/polityka/tak-sondaze-falszowaly-rzeczywistosc-poparcie-dla-nawrockiego-i-mentzena-zanizone-nawet-o-kilka-procent/543807 |archive-date={{date|2025-05-18|DMY}} |access-date={{date|2025-05-22|DMY}} |work=niezależna.pl |trans-title=This is how the polls falsified reality! Support for Nawrocki and Mentzen underestimated by up to a few per cent: At 9 p.m., voting in the first round of the presidential election ended. Immediately afterwards, Telewizja Republika presented the results of the exit poll conducted for it by the OGB pollster. They show how support for Karol Nawrocki and Sławomir Mentzen was underestimated in pre-election polls in the final days of the campaign. |language=pl}}</ref>
+| 18 May 2025
+| 92,108<ref name="OGB-ExitPoll">{{cite tweet |number=1924189374733758534 |user=OGB_PL |title=92108 ankiet zebraliśmy podczas badania Exit Poll, to największe badanie polityczne w Polsce w historii. Dla telewizji Republika pytaliśmy także o II turę, wybory do Sejmu, poparcia dla rządu[,] i o najważniejsze tematy kampanii. Dziękujemy za współpracę podczas badania |date=2025-05-18 |access-date=2025-05-19 |author=OGB |language=pl |archive-url=https://archive.today/20250520191714/https://x.com/OGB_PL/status/1924189374733758534 |archive-date=2025-05-20 |url-status=live |trans-title=92108 polls were collected during the Exit Poll, the largest political survey in Poland ever. For TV Republika we also asked about the second round, elections to the Sejm, support for the government, and the most important campaign themes. Thank you for your cooperation during the survey |df=dmy-all}}</ref>
+| style="background:#C0DBFC;" | 29.8
+| style="background:#FDDCB8;" | '''31.6'''
+| 4.7
+| 4.4
+| 6.0
+| 14.0
+| 5.4
+| 0.7
+| 1.3
+| 0.1
+| 1.3
+| 0.2
+| 0.5
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''1.8'''
+|- style="background:#EAFFEA"|
+| [[Ipsos]] ([[exit poll]]) / [[Telewizja Polska|TVP]], [[TVN24]], [[Polsat News]]<ref>{{cite news |title=Exit Poll: Trzaskowski z wyraźnym poparciem kobiet, Nawrocki silny wśród mężczyzn |date={{date|2025-05-18|DMY}} |url=https://warszawa.tvp.pl/86778359/exit-poll-trzaskowski-z-wyraznym-poparciem-kobiet-nawrocki-silny-wsrod-mezczyzn |url-status=live |archive-url=https://web.archive.org/web/20250521113546/https://warszawa.tvp.pl/86778359/exit-poll-trzaskowski-z-wyraznym-poparciem-kobiet-nawrocki-silny-wsrod-mezczyzn |archive-date={{date|2025-05-21|DMY}} |access-date={{date|2025-05-18|DMY}} |work=[[Telewizja Polska]] |trans-title=Exit Poll: Trzaskowski with clear support among women, Nawrocki strong among men |language=pl}}</ref><ref>{{cite news |title=Wybory prezydenckie 2025. Wyniki exit poll z godziny 21 |date={{date|2025-05-18|DMY}} |url=https://tvn24.pl/polska/wybory-prezydenckie-2025-wyniki-exit-poll-z-godz-21-st8467257 |url-status=live |archive-url=https://web.archive.org/web/20250518190252/https://tvn24.pl/polska/wybory-prezydenckie-2025-wyniki-exit-poll-z-godz-21-st8467257 |archive-date={{date|2025-05-18|DMY}} |access-date={{date|2025-05-18|DMY}} |work=[[TVN24]] |trans-title=Presidential election 2025. Exit poll results from 9 p.m. |language=pl}}</ref><ref>{{cite news |title=Wyniki wyborów prezydenckich 2025. Exit poll. Minimalna różnica w I turze |last1=Skrzypiński |first1=Dawid |date={{date|2025-05-18|DMY}} |url=https://www.polsatnews.pl/wiadomosc/2025-05-18/wyniki-wyborow-prezydenckich-2025-badanie-exit-poll-rafal-trzaskowski-blizej-palacu-prezydenckiego/ |url-status=live |archive-url=https://web.archive.org/web/20250518190705/https://www.polsatnews.pl/wiadomosc/2025-05-18/wyniki-wyborow-prezydenckich-2025-badanie-exit-poll-rafal-trzaskowski-blizej-palacu-prezydenckiego/ |archive-date={{date|2025-05-18|DMY}} |access-date={{date|2025-05-18|DMY}} |work=[[Polsat News]] |trans-title=Presidential election 2025 results. Exit poll. Minimal difference in the first round |language=pl}}</ref>
+| 18 May 2025
+| –
+| style="background:#C0DBFC;" | 29.1
+| style="background:#FDDCB8;" | '''30.8'''
+| 4.8
+| 4.1
+| 5.2
+| 15.4
+| 6.2
+| 0.8
+| 1.3
+| 0.1
+| 1.3
+| 0.4
+| 0.5
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''1.7'''
+|-
+| [https://stanpolityki.pl/sondaz-prezydencki-ogb-16-05-25/ OGB]
+| data-sort-value="2025-05-16" | 16 May 2025
+| 1,000
+| style="background:#C0DBFC;" | 28.68
+| style="background:#FDDCB8;" | '''32.89'''
+| 4.72
+| 4.30
+| 4.45
+| 14.21
+| 5.87
+| 1.73
+| 1.38
+| 0.05
+| 1.04
+| 0.26
+| 0.42
+| 
+| 1.00
+| style="background:{{party color|Civic Platform}};" | '''4.21'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-nowy-sondaz-st8462712 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-05-15" | 14–15 May 2025
+| 1,002
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''29'''
+| 7
+| 6
+| 7
+| 12
+| 4
+| 2
+| 2
+| 0
+| 2
+| 0
+| 1
+| 
+| 3
+| style="background:{{party color|Civic Platform}};" | '''4'''
+|-
+| [https://wydarzenia.interia.pl/wybory/prezydenckie/news-kampania-wyborcza-na-finiszu-najnowszy-sondaz-dla-polsat-new,nId,21808675 IBRiS / Polsat News]
+| data-sort-value="2025-05-15" | 13–15 May 2025
+| 1,000
+| style="background:#C0DBFC;" | 25.3
+| style="background:#FDDCB8;" | '''31.1'''
+| 6.2
+| 5.7
+| 4.6
+| 10.8
+| 3.5
+| 1.4
+| 1.5
+| 0.2
+| 1.9
+| 0.2
+| 0.4
+| 
+| 7.1
+| style="background:{{party color|Civic Platform}};" | '''5.8'''
+|-
+| [https://wiadomosci.wp.pl/ostatni-przed-cisza-wyborcza-mamy-najnowszy-sondaz-7157130038237728a United Surveys / WP.pl]
+| data-sort-value="2025-05-15" | 13–15 May 2025
+| 1,500
+| style="background:#C0DBFC;" | 26.6
+| style="background:#FDDCB8;" | '''31.5'''
+| 7.5
+| 6.7
+| 4.4
+| 11.7
+| 4.1
+| 2.0
+| 1.8
+| 
+| 2.4
+| 
+| 
+| 1.3
+| 
+| style="background:{{party color|Civic Platform}};" | '''4.9'''
+|-
+| [https://www.tvp.info/86737788/sondaz-rafal-trzaskowski-i-karol-nawrocki-w-drugiej-turze-wyborow-prezydenckich-2025 IPSOS / TVP Info]
+| data-sort-value="2025-05-15" | 13–15 May 2025
+| 1,000
+| style="background:#C0DBFC;" | 24
+| style="background:#FDDCB8;" | '''28'''
+| 6
+| 5
+| 6
+| 13
+| 5
+| 2
+| 2
+| 0
+| 1
+| 1
+| 1
+| 
+| 6
+| style="background:{{party color|Civic Platform}};" | '''4'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/ostatni-sondaz-prezydencki-trzaskowski-i-nawrocki-zyskuja-aa-FGXD-NSe9-BDoo.html Pollster / "SE.pl"]
+| data-sort-value="2025-05-15" | 13–15 May 2025
+| 1,697
+| style="background:#C0DBFC;" | 26.9
+| style="background:#FDDCB8;" | '''34.2'''
+| 6.4
+| 4.9
+| 5.4
+| 13.1
+| 4.3
+| 0.9
+| 1.7
+| 0.2
+| 1.2
+| 0.2
+| 0.6
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''7.3'''
+|-
+| [https://wpolityce.pl/polityka/729476-podium-bez-zmian-holownia-moze-jednak-odetchnac-sondaz Research Partner]
+| data-sort-value="2025-05-14" | 13–14 May 2025
+| 1,080
+| style="background:#C0DBFC;" | 24.8
+| style="background:#FDDCB8;" | '''32.4'''
+| 8.1
+| 5.6
+| 4.4
+| 11.8
+| 2.6
+| 0.9
+| 2.1
+| 
+| 1.0
+| 
+| 
+| 0.7
+| 5.5
+| style="background:{{party color|Civic Platform}};" | '''7.6'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-nawrocki-coraz-blizej-trzaskowskiego-sondaz-opinia24-dla-rmf,nId,7966146 Opinia24 / RMF FM]
+| data-sort-value="2025-05-14" | 12–14 May 2025
+| 1,003
+| style="background:#C0DBFC;" | 25.0
+| style="background:#FDDCB8;" | '''29.7'''
+| 6.1
+| 6.0
+| 5.5
+| 10.5
+| 5.4
+| 1.5
+| 1.7
+| 0.0
+| 1.3
+| 0.7
+| 0.5
+| 
+| 6.2
+| style="background:{{party color|Civic Platform}};" | '''4.7'''
+|-
+| [https://www.cbos.pl/PL/publikacje/flashe_tekst.php?nr=30/2025 CBOS]
+| data-sort-value="2025-05-14" | 5–14 May 2025
+| 2,081
+| style="background:#C0DBFC;" | 27.5
+| style="background:#FDDCB8;" | '''32.7'''
+| 6.2
+| 4.9
+| 5.7
+| 13.7
+| 4.4
+| 1.5
+| 0.9
+| 0.1
+| 1.6
+| 0.2
+| 0.5
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''5.2'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/wybory-prezydenckie-2025-mamy-najnowszy-sondaz-jest-mala-sensacja/b71wd7r IBRiS / Onet]
+| data-sort-value="2025-05-13" | 12–13 May 2025
+| 1,072
+| style="background:#C0DBFC;" | 26.4
+| style="background:#FDDCB8;" | '''32.6'''
+| 5.3
+| 6.0
+| 3.4
+| 10.8
+| 2.7
+| 1.0
+| 1.6
+| 0.2
+| 1.5
+| 0.2
+| 0.2
+| 
+| 8.0
+| style="background:{{party color|Civic Platform}};" | '''6.2'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/karol-nawrocki-poprawia-wynik-wiemy-kto-wygrywa-w-ii-turze-sondaz/4yfpqp5 IBRiS / "RZ"]
+| data-sort-value="2025-05-12" | 11–12 May 2025
+| 1,073
+| style="background:#C0DBFC;" | 25.2
+| style="background:#FDDCB8;" | '''32.3'''
+| 7.9
+| 5.5
+| 4.1
+| 11.2
+| 2.5
+| 0.9
+| 2.4
+| 0.1
+| 1.0
+| 0.0
+| 0.5
+| 
+| 6.4
+| style="background:{{party color|Civic Platform}};" | '''7.1'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/najnowszy-sondaz-prezydencki-spadaja-wyniki-dwoch-kandydatow/8dvrgbw IBRiS / Polskie Radio 24]
+| data-sort-value="2025-05-11" | 10–11 May 2025
+| 1,067
+| style="background:#C0DBFC;" | 23.6
+| style="background:#FDDCB8;" | '''31.5'''
+| 8.6
+| 6.3
+| 5.4
+| 12.6
+| 2.6
+| 1.1
+| 1.6
+| 0.0
+| 0.9
+| 0.4
+| 0.3
+| 
+| 5.1
+| style="background:{{party color|Civic Platform}};" | '''7.9'''
+|-
+| [https://ewybory.eu/wybory-prezydenckie-2025-polska/sonda-uliczna/ ewybory.eu]
+| data-sort-value="2025-05-11" | 22 Apr – 11 May 2025
+| 14,815
+| style="background:#C0DBFC;" | 30.16
+| style="background:#FDDCB8;" | '''33.24'''
+| 5.99
+| 3.60
+| 4.54
+| 13.36
+| 3.97
+| 1.09
+| 2.08
+| 0.13
+| 1.51
+| 0.08
+| 0.24
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''3.08'''
+|-
+| [https://twojsacz.pl/najnowszy-sondaz-prezydencki-ogb/ OGB]
+| data-sort-value="2025-05-10" | 7–10 May 2025
+| 1,000
+| style="background:#C0DBFC;" | 30.41
+| style="background:#FDDCB8;" | '''36.45'''
+| 4.20
+| 3.75
+| 4.78
+| 12.31
+| 3.66
+| 
+| 1.19
+| 
+| 1.58
+| 
+| 
+|
+| 
+| style="background:{{party color|Civic Platform}};" | 6.04
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-kto-wygra-w-drugiej-turze-nowy-sondaz-prezydencki-st8459403 IBRiS / "Polityka"]
+| data-sort-value="2025-05-10" | 7–10 May 2025
+| 2,000
+| style="background:#C0DBFC;" | 21.6
+| style="background:#FDDCB8;" | '''33.7'''
+| 7.1
+| 5.8
+| 5.6
+| 11.8
+| 3.4
+| 1.1
+| 1.2
+| 0.2
+| 1.2
+| 0.2
+| 0.8
+| 
+| 6.3
+| style="background:{{party color|Civic Platform}};" | '''12.1'''
+|-
+| [https://polityka.se.pl/wiadomosci/trzaskowski-wygrywa-nawrocki-nieznacznie-traci-mamy-najnowszy-sondaz-prezydencki-aa-DHv2-ugsn-Bjn3.html Pollster / "SE.pl"]
+| data-sort-value="2025-05-08" | 7–8 May 2025
+| 1,077
+| style="background:#C0DBFC;" | 22.70
+| style="background:#FDDCB8;" | '''32.26'''
+| 8.36
+| 5.52
+| 7.21
+| 13.58
+| 5.30
+| 0.89
+| 2.03
+| 
+| 1.42
+| 0.07
+| 0.66
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''9.56'''
+|-
+| [https://wiadomosci.wp.pl/wyniki-najnowszego-sondazu-nawrocki-traci-poparcie-7154626225343424a United Surveys / WP.pl]
+| data-sort-value="2025-05-07" | 7 May 2025
+| 1,000
+| style="background:#C0DBFC;" | 23.2
+| style="background:#FDDCB8;" | '''33.2'''
+| 7.5
+| 6.1
+| 3.7
+| 13.6
+| 3.5
+| 1.2
+| 1.6
+| 
+| 
+| 
+| 
+| 1.2
+| 5.2
+| style="background:{{party color|Civic Platform}};" | '''10.0'''
+|-
+| [https://tvn24.pl/polska/wybory-2025-nowy-sondaz-prezydencki-st8449129 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-05-07" | 6–7 May 2025
+| 1,012
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''31'''
+| 5
+| 6
+| 5
+| 14
+| 4
+| 3
+| 1
+| 0
+| 2
+| 0
+| 1
+| 
+| 2
+| style="background:{{party color|Civic Platform}};" | '''6'''
+|-
+| [https://www.bankier.pl/wiadomosc/Sondaz-dla-Newsweeka-Coraz-mniejsza-strata-Nawrockiego-8939503.html Opinia24 / "Newsweek"]
+| data-sort-value="2025-05-07" | 5–7 May 2025
+| 1,001
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''30'''
+| 7
+| 6
+| 5
+| 13
+| 4
+| 
+| 
+| 
+| 1
+| 
+| 
+| 
+| 5
+| style="background:{{party color|Civic Platform}};" | '''5'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-trzaskowski-zatrzymal-trend-7151718913379008a United Surveys / WP.pl]
+| data-sort-value="2025-04-29" | 28–29 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 24.7
+| style="background:#FDDCB8;" | '''31.6'''
+| 8.0
+| 5.6
+| 4.3
+| 12.8
+| 2.0
+| 1.5
+| 2.5
+| 
+| 
+| 
+| 
+| 1.0
+| 6.02
+| style="background:{{party color|Civic Platform}};" | '''6.9'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/pierwszy-sondaz-prezydencki-po-debacie-super-expressu-kto-zyskal-a-kto-stracil-aa-qfM6-68cb-U754.html Pollster / "SE.pl"] 
+| data-sort-value="2025-04-29" | 28–29 Apr 2025
+| 1,007
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''33'''
+| 7
+| 4
+| 6
+| 15
+| 4
+| 1
+| 2
+| 1
+| 1
+| 1
+| 1
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://wiadomosci.gazeta.pl/wiadomosci/7,143907,31890410,najnowszy-sondaz-prezydencki-trzaskowski-czy-nawrocki-mentzen.html IBRiS / Polskie Radio 24]
+| data-sort-value="2025-04-26" | 25–26 Apr 2025
+| 1,070
+| style="background:#C0DBFC;" | 25.6
+| style="background:#FDDCB8;" | '''33.2'''
+| 6.1
+| 5.1
+| 3.2
+| 11.5
+| 1.4
+| 1.6
+| 1.1
+| 0.0
+| 1.2
+| 0.0
+| 0.2
+| 
+| 9.8
+| style="background:{{party color|Civic Platform}};" | '''7.6'''
+|-
+| [https://www.cbos.pl/PL/publikacje/flashe_tekst.php?nr=26/2025 CBOS]
+| data-sort-value="2025-04-24" | 22–24 Apr 2025
+| 1,001
+| style="background:#C0DBFC;" | 27
+| style="background:#FDDCB8;" | '''31'''
+| 4
+| 4
+| 4
+| 16
+| 2
+| 1
+| 2
+| <0.5
+| 1
+| 0
+| 1
+| 
+| 7
+| style="background:{{party color|Civic Platform}};" | '''4'''
+|-
+| [https://tvn24.pl/fakty-artykuly/nowy-sondaz-kandydat-z-podium-z-najwiekszym-wzrostem-poparcia-st8429401 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-04-24" | Apr 2025
+| –
+| style="background:#C0DBFC;" | 26
+| style="background:#FDDCB8;" | '''32'''
+| 6
+| 4
+| 5
+| 15
+| 4
+| 1
+| 2
+| 
+| 1
+| 
+| 
+| 
+| 1
+| style="background:{{party color|Civic Platform}};" | '''6'''
+|-
+| [https://wiadomosci.wp.pl/trzaskowski-lapie-zadyszke-nawrocki-depcze-mu-po-pietach-7148898610174496a United Surveys / WP.pl]
+| data-sort-value="2025-04-19" | 17–19 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 27.6
+| style="background:#FDDCB8;" | '''31.7'''
+| 7.1
+| 6.4
+| 4.4
+| 11.3
+| 1.0
+| 1.3
+| 1.4
+| 0.0
+| 1.4
+| 0.2
+| 0.3
+| 
+| 5.9
+| style="background:{{party color|Civic Platform}};" | '''4.1'''
+|-
+| [https://tvrepublika.pl/Polityka/Trzaskowski-slabnie-Stracil-6-punktow-w-kolejnym-sondazu/186912 Pollster / TV Republika] 
+| data-sort-value="2025-04-17" | 17–18 Apr 2025
+| 1,007
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''33'''
+| 8
+| 3
+| 5
+| 15
+| 5
+| 1
+| 3
+| 
+| 
+| 
+| 
+| 2
+| 
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-sondaz-ibris-dla-polityki-kwiecien-2025-nawrocki-dogania-trzaskowskiego-st8425596 IBRiS / "Polityka"]
+| data-sort-value="2025-04-17" | 16–17 Apr 2025
+| 1,067
+| style="background:#C0DBFC;" | 24.9
+| style="background:#FDDCB8;" | '''30.4'''
+| 7.3
+| 4.3
+| 3.3
+| 12.9
+| 1.3
+| 0.9
+| 2.0
+| 
+| 0.9
+| 0.2
+| 0.4
+| 
+| 11.2
+| style="background:{{party color|Civic Platform}};" | '''5.5'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-04-18/miesiac-do-wyborow-najnowszy-sondaz-prezydencki/ IBRiS / Polsat News]
+| data-sort-value="2025-04-17" | 16–17 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 25.6
+| style="background:#FDDCB8;" | '''30.8'''
+| 6.6
+| 5.6
+| 3.6
+| 12.4
+| 1.3
+| 1.2
+| 1.3
+| 0.0
+| 1.0
+| 0.2
+| 0.4
+| 
+| 9.9
+| style="background:{{party color|Civic Platform}};" | '''5.2'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/nawrocki-pograza-mentzena-nieznacznie-traci-tez-trzaskowski-zobacz-najnowszy-sondaz-prezydencki-aa-fQJf-yTsu-ETJw.html Pollster / "SE.pl"]
+| data-sort-value="2025-04-16" | 15–16 Apr 2025
+| 1,003
+| style="background:#C0DBFC;" | 24
+| style="background:#FDDCB8;" | '''34'''
+| 8
+| 3
+| 5
+| 16
+| 4
+| 1
+| 3
+| 
+| 1
+| 
+| 1
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/nowy-sondaz-prezydencki-duze-problemy-slawomira-mentzena/chec3rs Opinia24]
+| data-sort-value="2025-04-16" | 14–16 Apr 2025
+| 1,002
+| style="background:#C0DBFC;" | 21.6
+| style="background:#FDDCB8;" | '''34.1'''
+| 6.1
+| 3.2
+| 4.3
+| 12.9
+| 3.0
+| 1.6
+| 2.4
+| 0.0
+| 0.6
+| 0.2
+| 0.5
+| 0.3
+| 9.3
+| style="background:{{party color|Civic Platform}};" | '''12.5'''
+|-
+| [https://www.tvp.info/86206905/sondaz-prezydencki-ipsos-dla-1930-i-tvp-info-kto-wejdzie-do-drugiej-tury-wyborow-walka-o-palac-prezydencki IPSOS / TVP Info]
+| data-sort-value="2025-04-16" | 14–16 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 22
+| style="background:#FDDCB8;" | '''28'''
+| 7
+| 4
+| 6
+| 15
+| 4
+| 1
+| 3
+| 
+| 1
+| 0
+| 1
+| 
+| 8
+| style="background:{{party color|Civic Platform}};" | '''6'''
+|-
+| [https://businessinsider.com.pl/wiadomosci/jest-nowy-sondaz-prezydencki-za-podium-sporo-sie-dzieje/09hcg6k OGB]
+| data-sort-value="" | 09–14 Apr 2025
+| 1,001
+| style="background:#C0DBFC;" | 29.56
+| style="background:#FDDCB8;" | '''35.53'''
+| 3.44
+| 1.87
+| 1.77
+| 20.43
+| 4.67
+| 
+| 1.19
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''5.97'''
+|-
+| [https://www.wnp.pl/polityka-i-sondaze/sondaze/kto-zyskal-a-kto-stracil-po-debatach-w-konskich-nowy-sondaz-daje-zaskakujaca-odpowiedz,1596.html Research Partner]
+| data-sort-value="2025-04-13" | 11–13 Apr 2025
+| 1,080
+| style="background:#C0DBFC;" | 22.7
+| style="background:#FDDCB8;" | '''34.8'''
+| 6.7
+| 3.4
+| 4.2
+| 15.8
+| 
+| 2.0
+| 
+| 
+| 
+| 
+| 
+| 3.9
+| 6.4
+| style="background:{{party color|Civic Platform}};" | '''12.1'''
+|-
+| [https://wiadomosci.wp.pl/rafal-trzaskowski-traci-przewage-w-najnowszym-sondazu-prezydenckim-dla-wp-7145694117604320a United Surveys / WP.pl]
+| data-sort-value="2025-04-12" | 12 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 25.5
+| style="background:#FDDCB8;" | '''33.5'''
+| 9.1
+| 6.3
+| 1.3
+| 13.4
+| 1.6
+| 
+| 1.1
+| 
+| 
+| 
+| 
+| 0.4
+| 7.8
+| style="background:{{party color|Civic Platform}};" | '''8.0'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-ten-sam-zwyciezca-w-pierwszej-i-drugiej-turze-najnowszy-sondaz-prezydencki-st8403278 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-04-09" | Apr 2025
+| –
+| style="background:#C0DBFC;" | 22
+| style="background:#FDDCB8;" | '''33'''
+| 5
+| 2
+| 5
+| 15
+| 4
+| 2
+| 1
+| 
+| 0
+| 
+| 1
+| 
+| 10
+| style="background:{{party color|Civic Platform}};" | '''11'''
+|-
+| [https://www.cbos.pl/PL/publikacje/flashe_tekst.php?nr=23/2025 CBOS]
+| data-sort-value="2025-04-09" | 7–9 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''33'''
+| 4
+| 2
+| 5
+| 17
+| 3
+| 1
+| 1
+| 0
+| <0.5
+| 
+| <0.5
+| 1
+| 7
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-wyborczy-zwrot-akcji-mentzen-traci-poparcie-sondaz-opinia24-,nId,7947412 Opinia24 / RMF FM]
+| data-sort-value="2025-04-09" | 7–9 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 20.1
+| style="background:#FDDCB8;" | '''31.5'''
+| 5.8
+| 1.5
+| 2.7
+| 14.7
+| 3.5
+| 1.0
+| 2.4
+| 0.0
+| 0.4
+| 0.2
+| 0.7
+| 1.1{{efn|{{ill|Romuald Starosielec|qid=Q125693728}} ([[Repair Poland Movement|RNP]]) – 0.0, [[Paweł Tanajno]] ([[Liberal Poland – Entrepreneurs' Strike|PL!SP]]) – 0.0}}
+| 14.5
+| style="background:{{party color|Civic Platform}};" | '''11.4'''
+|-
+| [https://wiadomosci.wp.pl/mamy-najnowszy-sondaz-trzaskowskiemu-rosnie-mentzen-depcze-nawrockiemu-po-pietach-7143571653811136a United Surveys / WP.pl]
+| data-sort-value="2025-04-06" | 4–6 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 20.1
+| style="background:#FDDCB8;" | '''38.3'''
+| 7.1
+| 2.7
+| 1.8
+| 18.8
+| 1.1
+| 
+| 1.6
+| 
+| 
+| 
+| 
+| 0.0
+| 8.5
+| style="background:{{party color|Civic Platform}};" | '''18.2'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/trzaskowski-nawrocki-czy-mentzen-wiemy-kto-na-dzis-wchodzi-do-ii-tury-sondaz-dla-radia-zet Opinia24 / ZET]
+| data-sort-value="2025-04-06" | 2–6 Apr 2025
+| 1,000
+| style="background:#C0DBFC;" | 23
+| style="background:#FDDCB8;" | '''36'''
+| 7
+| 3
+| 3
+| 15
+| 3
+| 1
+| 0
+| 
+| 
+| 
+| 1
+| 
+| 7
+| style="background:{{party color|Civic Platform}};" | '''13'''
+|-
+| [https://tvn24.pl/polska/najnowszy-sondaz-prezydencki-i-niepokojaca-frekwencja-st8399970 IBRiS / "Rz"]
+| data-sort-value="2025-04-05" | 4–5 Apr 2025
+| 1,068
+| style="background:#C0DBFC;" | 22.6
+| style="background:#FDDCB8;" | '''36.2'''
+| 8.3
+| 2.6
+| 2.1
+| 17.4
+| 2.1
+| 
+| 0.8
+| 
+| 0.6
+| 
+| 
+| 
+| 7.2
+| style="background:{{party color|Civic Platform}};" | '''13.6'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/mentzen-traci-na-aborcji-ekspert-komentuje-zmiany-w-sondazu-aa-TiCG-HTPy-fAtN.html Pollster / "SE.pl"]
+| data-sort-value="2025-04-01" | 31 Mar–1 Apr 2025
+| 1,007
+| style="background:#C0DBFC;" | 23
+| style="background:#FDDCB8;" | '''35'''
+| 8
+| 3
+| 4
+| 19
+| 3
+| 1
+| 
+| 0.26
+| 0.40
+| 0.42
+| 1.12
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''12'''
+|-
+| [https://businessinsider.com.pl/wiadomosci/mentzen-goni-nawrockiego-ale-kilka-punktow-mu-jeszcze-brakuje-sondaz/j0v10vx Research Partner / Business Insider]
+| data-sort-value="2025-03-24" | 21–24 Mar 2025
+| –
+| style="background:#C0DBFC;" | 22.2
+| style="background:#FDDCB8;" | '''35.5'''
+| 5.7
+| 2.9
+| 2.2
+| 17.0
+| 
+| 2.2
+| 
+| 
+| 
+| 
+| 
+| 3.5
+| 8.8
+| style="background:{{party color|Civic Platform}};" | '''13.3'''
+|-
+| [https://wiadomosci.wp.pl/wszyscy-na-podium-traca-jest-najnowszy-sondaz-prezydencki-7138610284968640a United Surveys / WP.pl]
+| data-sort-value="2025-03-23" | 21–23 Mar 2025
+| 1,000
+| style="background:#C0DBFC;" | 25.3
+| style="background:#FDDCB8;" | '''33.2'''
+| 5.0
+| 4.4
+| 1.5
+| 18.0
+| 2.3
+| 0.6
+| 
+| 
+| 
+| 
+| 
+| 0.9
+| 8.8
+| style="background:{{party color|Civic Platform}};" | '''7.9'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-nowy-sondaz-prezydencki-st8377912 Opinia24]
+| data-sort-value="2025-03-21" | 17–21 Mar 2025
+| 1,000
+| style="background:#C0DBFC;" | 20.4
+| style="background:#FDDCB8;" | '''36.3'''
+| 4.6
+| 2.3
+| 2.3
+| 18.0
+| 1.9
+| 0.8
+| 2.2
+| 
+| 
+| 
+| 
+| 2.2
+| 9.0
+| style="background:{{party color|Civic Platform}};" | '''15.9'''
+|-
+| [https://www.cbos.pl/PL/publikacje/flashe_tekst.php?nr=17/2025 CBOS]
+| data-sort-value="2025-03-20" | 17–20 Mar 2025
+| 1,003
+| style="background:#C0DBFC | 23
+| style="background:#FDDCB8;" | '''34'''
+| 4
+| 2
+| 3
+| 21
+| 2
+| 1
+| 2
+| 
+| 
+| 
+| 
+| 1
+| 7
+| style="background:{{party color|Civic Platform}};" | '''11'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-03-18/najnowszy-sondaz-prezydencki-dla-polsat-news-zacieta-walka-o-druga-ture/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2025-03-16" | 13–16 Mar 2025
+| 1,000
+| style="background:#C0DBFC;" | 25.9
+| style="background:#FDDCB8;" | '''36.4'''
+| 5.4
+| 2.6
+| 2.5
+| 18.1
+| 0.5
+| 0.9
+| 2.2
+| 
+| 
+| 
+| 
+| 
+| 5.4
+| style="background:{{party color|Civic Platform}};" | '''10.5'''
+|-
+| [https://www.tvp.info/85596646/najnowszy-sondaz-prezydencki-ipsos-14032025-rafal-trzaskowski-i-karol-nawrocki-sondazowe-wyniki-poparcia IPSOS / TVP Info]
+| data-sort-value="2025-03-13" | 11–13 Mar 2025
+| 1,000
+| style="background:#C0DBFC;" | 21
+| style="background:#FDDCB8;" | '''36'''
+| 6
+| 2
+| 3
+| 17
+| 2
+| 1
+| 2
+| 
+| 
+| 
+| 
+| 0
+| 9
+| style="background:{{party color|Civic Platform}};" | '''15'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-mentzen-dogania-nawrockiego-trzaskowski-z-poparciem-koalicja,nId,7931397#crp_state=1 Opinia24 / RMF FM]
+| data-sort-value="2025-03-13" | 10–13 Mar 2025
+| 1,000
+| style="background:#C0DBFC;" | 19.5
+| style="background:#FDDCB8;" | '''32.0'''
+| 5.7
+| 1.8
+| 1.2
+| 18.9
+| 3.0
+| 0.6
+| 1.4
+| 0.0
+| 0.2
+| 
+| 
+| 1.5{{efn|[[Piotr Szumlewicz]] (ind.) – 0.0}}
+| 14.3
+| style="background:{{party color|Civic Platform}};" | '''12.5'''
+|-
+| [https://wpolityce.pl/polityka/723518-tylko-u-nas-social-changes-nawrocki-drugi Social Changes / wPolsce24]
+| data-sort-value="2025-03-10" | 8–10 Mar 2025
+| –
+| style="background:#C0DBFC;" | 23
+| style="background:#FDDCB8;" | '''35'''
+| 7
+| 3
+| 2
+| 16
+| 4
+| 2
+| 1
+| 
+| 
+| 
+| 
+| 7
+| 7
+| style="background:{{party color|Civic Platform}};" | '''12'''
+|-
+| [https://www.moreincommon.pl/nasze-projekty/raport-prezydencki-2025 Opinia24 / More in Common]
+| data-sort-value="2025-03-10" | 4–10 Mar 2025
+| 1,148
+| style="background:#C0DBFC;" | 23
+| style="background:#FDDCB8;" | '''38'''
+| 7
+| 3
+| 1
+| 18
+| 3
+| 
+| 1
+| 
+| 
+| 
+| 
+| 1
+| 5
+| style="background:{{party color|Civic Platform}};" | '''15'''
+|-
+| [https://wiadomosci.wp.pl/kto-wygra-wybory-w-wyscigu-liczy-sie-tylko-trzech-kandydatow-7133681984494528a United Surveys / WP.pl]
+| data-sort-value="2025-03-09" | 7–9 Mar 2025
+| 1,000
+| style="background:#C0DBFC;" | 27.1
+| style="background:#FDDCB8;" | '''35.9'''
+| 3.6
+| 2.1
+| 3.1
+| 19.4
+| 1.1
+| 0.9
+| 
+| 
+| 
+| 
+| 
+| 0.0
+| 6.8
+| style="background:{{party color|Civic Platform}};" | '''8.8'''
+|-
+| [https://polityka.se.pl/wiadomosci/mentzen-wyprzedzil-nawrockiego-zobacz-koniecznie-najnowszy-sondaz-prezydencki-aa-exyQ-ZC6P-MDEp.html Pollster / "SE.pl"]
+| data-sort-value="2025-03-09" | 7–9 Mar 2025
+| 1,015
+| 21
+| style="background:#FDDCB8;" | '''37'''
+| 8
+| 3
+| 2
+| style="background:#C0C3FC;" | 22
+| 3
+| 
+| 2
+| 
+| 
+| 
+| 
+| 2
+| 
+| style="background:{{party color|Civic Platform}};" | '''15'''
+|-
+| [https://www.cbos.pl/PL/publikacje/flashe_tekst.php?nr=13/2025 CBOS]
+| data-sort-value="2025-03-06" | 3–6 Mar 2025
+| 1,000
+| style="background:#C0DBFC;" | 23
+| style="background:#FDDCB8;" | '''35'''
+| 5
+| 2
+| 3
+| 21
+| 2
+| 1
+| 1
+| 
+| 
+| 
+| 
+| 0
+| 7
+| style="background:{{party color|Civic Platform}};" | '''12'''
+|-
+| [https://businessinsider.com.pl/wiadomosci/nowy-sondaz-prezydencki-impet-mentzena-wyhamowany/cre3gj3 IBRiS / "Polityka"]
+| data-sort-value="2025-03-05" | 4–5 Mar 2025
+| 1,000
+| style="background:#C0DBFC;" | 22.3
+| style="background:#FDDCB8;" | '''35.7'''
+| 6.9
+| 5.3
+| 2.4
+| 15.0
+| 1.7
+| 1.2
+| 1.4
+| 
+| 
+| 
+| 
+| 
+| 9.1
+| style="background:{{party color|Civic Platform}};" | '''13.4'''
+|-
+| [https://www.wprost.pl/kraj/11945383/sondaz-alarm-w-pis-ie-mentzen-przed-nawrockim-ekspert-studzi-emocje SW Research / Wprost]
+| data-sort-value="2025-02-26" | 25–26 Feb 2025
+| 809
+| 16.5
+| style="background:#FDDCB8;" | '''33.6'''
+| 7.9
+| 1.8
+| 2.6
+| style="background:#C0C3FC;" | 18.9
+| 2.9
+| 2.2
+| 2.8
+| 
+| 
+| 
+| 
+| 1.0
+| 9.9
+| style="background:{{party color|Civic Platform}};" | '''14.7'''
+|-
+| [https://www.wprost.pl/kraj/11943568/sondaz-trzaskowski-kontra-nawrocki-i-mentzen-wyniki-ii-tury.html Research Partner / Wprost]
+| data-sort-value="2025-02-24" | 21–24 Feb 2025
+| 1,050
+| style="background:#C0DBFC;" | 24.7
+| style="background:#FDDCB8;" | '''33.7'''
+| 7.2
+| 3.0
+| 1.4
+| 16.8
+| 
+| 1.8
+| 
+| 
+| 
+| 
+| 
+| 
+| 8.2
+| style="background:{{party color|Civic Platform}};" | '''9.0'''
+|-
+| [https://wiadomosci.wp.pl/trzaskowski-pierwszy-ale-traci-mentzen-rosnie-w-sile-mamy-nowy-sondaz-7128771222932256a United Surveys / WP.pl]
+| data-sort-value="2025-02-24" | 21–24 Feb 2025
+| 1,000
+| style="background:#C0DBFC;" | 25.7
+| style="background:#FDDCB8;" | '''34.1'''
+| 7.1
+| 4.4
+| 1.0
+| 16.2
+| 0.6
+| 2.7
+| 1.6
+| 
+| 0.0
+| 
+| 
+| 0.0{{efn|[[Piotr Szumlewicz]] (ind.) – 0.0}}
+| 6.5
+| style="background:{{party color|Civic Platform}};" | '''8.4'''
+|-
+| [https://wydarzenia.interia.pl/wybory/prezydenckie/news-nowy-sondaz-prezydencki-zestawiono-dwa-badania-zaskakujace-e,nId,21322297 Ipsos / Liberté!]
+| data-sort-value="2025-02-21" | 19–21 Feb 2025
+| 1,000
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''32'''
+| 6
+| 2
+| 3
+| 15
+| 2
+| 1
+| 3
+| 
+| 
+| 
+| 
+| 1
+| 8
+| style="background:{{party color|Civic Platform}};" | '''7'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-02-24/jeden-kandydat-wyraznie-zyskuje-najnowszy-sondaz-dla-wydarzen-polsatu/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2025-02-21" | 19–21 Feb 2025
+| 1,000
+| style="background:#C0DBFC;" | 26.5
+| style="background:#FDDCB8;" | '''35.2'''
+| 6.2
+| 3.3
+| 1.4
+| 15.7
+| 0.4
+| 1.0
+| 0.5
+| 
+| 
+| 
+| 
+| 
+| 9.9
+| style="background:{{party color|Civic Platform}};" | '''8.7'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-kto-wygra-najnowszy-sondaz-st8320739 Opinia24]
+| data-sort-value="2025-02-21" | 17–21 Feb 2025
+| 1,001
+| style="background:#C0DBFC;" | 24.1
+| style="background:#FDDCB8;" | '''34.9'''
+| 4.2
+| 2
+| 2.7
+| 13.6
+| 2.1
+| 1.7
+| 1.3
+| 
+| 
+| 
+| 
+| 2.7
+| 10.8
+| style="background:{{party color|Civic Platform}};" | '''10.8'''
+|-
+| [https://www.cbos.pl/PL/publikacje/flashe_tekst.php?nr=9/2025 CBOS]
+| data-sort-value="2025-02-20" | 17–20 Feb 2025
+| 1,002
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''34'''
+| 5
+| 2
+| 2
+| 17
+| 3
+| 1
+| 3
+| 0
+| 0
+| 0
+| 
+| 0{{efn|[[Piotr Szumlewicz]] (ind.), [[Dawid Jackiewicz]] (ind.), {{ill|Dominika Jasińska|qid=Q132156357}} (ind.), [[Wiesław Lewicki (Normal Country)|Wiesław Lewicki]] ([[Normal Country|NK]]), {{ill|Wojciech Papis|qid=Q131920983}} ({{ill|Nonpartisians|lt=B|qid=Q134528772}}), [[Aldona Skirgiełło]] ([[Self-Defence of the Republic of Poland|SRP]]), {{ill|Romuald Starosielec|qid=Q125693728}} ([[Repair Poland Movement|RNP]]), [[Paweł Tanajno]] ([[Liberal Poland – Entrepreneurs' Strike|PL!SP]]), [[Krzysztof Tołwiński]] ([[Front (Polish party)|Front]]) – 0}}
+| 7
+| style="background:{{party color|Civic Platform}};" | '''9'''
+|-
+| [https://www.tvp.info/85169943/kto-wygra-wybory-prezydenckie-2025-sondaz-ipsos-luty-2025-rafal-trzaskowski-wygrywa-z-karolem-nawrockim IPSOS / TVP Info]
+| data-sort-value="2025-02-18" | 17–18 Feb 2025
+| 651
+| style="background:#C0DBFC;" | 24
+| style="background:#FDDCB8;" | '''33'''
+| 7
+| 2
+| 2
+| 15
+| 3
+| 1
+| 3
+| 
+| 
+| 
+| 
+| 0
+| 9
+| style="background:{{party color|Civic Platform}};" | '''9'''
+|-
+| [https://wpolsce24.tv/nasze-programy/wiadomosci-wpolsce24/wiadomosci-wpolsce24-pelne-wydanie-z-14-lutego-2025-r,18091 Social Changes / wPolsce24]
+| data-sort-value="2025-02-14" | Feb 2025
+| –
+| style="background:#C0DBFC;" | 24
+| style="background:#FDDCB8;" | '''38'''
+| 8
+| 6
+| 1
+| 11
+| 1
+| 1
+| 3
+| 
+| 
+| 
+| 
+| 1
+| 6
+| style="background:{{party color|Civic Platform}};" | '''14'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-mentzen-mocno-w-gore-liderem-nadal-trzaskowski-sondaz-opinia,nId,7913036#crp_state=1 Opinia24 / RMF FM]
+| data-sort-value="2025-02-13" | 10–13 Feb 2025
+| 1,000
+| style="background:#C0DBFC;" | 21.7
+| style="background:#FDDCB8;" | '''30.9'''
+| 4.7
+| 2.1
+| 2.0
+| 16.8
+| 
+| 2.8
+| 1.6
+| 0.0
+| 0.5
+| 
+| 
+| 3.0{{efn|[[Piotr Szumlewicz]] (ind.) – 0.2}}
+| 14.0
+| style="background:{{party color|Civic Platform}};" | '''9.2'''
+|-
+| [https://polityka.se.pl/wiadomosci/spada-trzaskowskiemu-i-nawrockiemu-mamy-najnowszy-sondaz-prezydencki-aa-Ygeq-zmth-PBak.html#google_vignette Pollster / "SE.pl"]
+| data-sort-value="2025-02-10" | 8–10 Feb 2025
+| 1,077
+| style="background:#C0DBFC;" | 25
+| style="background:#FDDCB8;" | '''35'''
+| 8
+| 2
+| 2
+| 16
+| 3
+| 2
+| 5
+| 
+| 
+| 
+| 
+| 2
+| 
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://wiadomosci.wp.pl/jak-zaglosuja-polacy-mamy-najnowszy-sondaz-prezydencki-7123746906409760a United Surveys / WP.pl]
+| data-sort-value="2025-02-09" | 7–9 Feb 2025
+| 1,000
+| style="background:#C0DBFC;" | 25.3
+| style="background:#FDDCB8;" | '''36.7'''
+| 6.6
+| 5.0
+| 1.7
+| 9.8
+| 1.5
+| 1.6
+| 2.9
+| 
+| 
+| 
+| 
+| 0.5
+| 8.4
+| style="background:{{party color|Civic Platform}};" | '''11.4'''
+|-
+| [https://wiadomosci.onet.pl/tylko-w-onecie/sondaz-prezydencki-dla-onetu-jeden-kandydat-z-wyrazna-przewaga/18ncrnr IBRiS / Onet]
+| data-sort-value="2025-02-02" | 31 Jan–2 Feb 2025
+| 1,068
+| style="background:#C0DBFC;" | 23.9
+| style="background:#FDDCB8;" | '''37.3'''
+| 6.8
+| 5.0
+| 1.1
+| 8.9
+| 1.7
+| 1.2
+| 3.0
+| 
+| 
+| 
+| 
+| 
+| 11.0
+| style="background:{{party color|Civic Platform}};" | '''13.4'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/trzaskowski-na-czele-stanowski-nad-braunem-i-biejat-najnowszy-sondaz-prezydencki Opinia24 / ZET]
+| data-sort-value="2025-01-29" | 23–29 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 24
+| style="background:#FDDCB8;" | '''32'''
+| 7
+| 3
+| 2
+| 15
+| 3
+| 1
+| 4
+| 0
+| 0
+| 
+| 
+| 1{{efn|[[Piotr Szumlewicz]] (ind.) – 0}}
+| 7
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://mmponline.pl/medium/news/wybory-prezydenckie-zanim-wybierzemy-prezydenta-1403498 Research Partner]
+| data-sort-value="2025-01-27" | 24–27 Jan 2025
+| 1,060
+| style="background:#C0DBFC;" | 24.6
+| style="background:#FDDCB8;" | '''34.1'''
+| 8.3
+| 2.1
+| 1.2
+| 13.1
+| 
+| 1.9
+| 
+| 
+| 
+| 
+| 
+| 4.4
+| 10.3
+| style="background:{{party color|Civic Platform}};" | '''9.5'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-wp-sprawa-nie-jest-rozstrzygnieta-7118839195556640a United Surveys / WP.pl]
+| data-sort-value="2025-01-26" | 24–26 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 25.0
+| style="background:#FDDCB8;" | '''37.8'''
+| 6.0
+| 5.6
+| 1.2
+| 9.7
+| 2.0
+| 1.4
+| 2.9
+| 0.0
+| 0.1
+| 0.0
+| 
+| 0.2{{efn|[[Piotr Szumlewicz]] (ind.) – 0.2, [[Katarzyna Cichos]] (ind.) – 0.0, [[Wiesław Lewicki (Normal Country)|Wiesław Lewicki]] ([[Normal Country|NK]]) – 0.0}}
+| 8.1
+| style="background:{{party color|Civic Platform}};" | '''12.8'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-najnowszy-sondaz-opinia24-st8279646 Opinia24]
+| data-sort-value="2025-01-24" | 20–24 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 22.1
+| style="background:#FDDCB8;" | '''35.3'''
+| 6.8
+| 2.2
+| 1.5
+| 13.2
+| 2.9
+| 0.9
+| 0.2
+| 
+| 
+| 
+| 
+| 2.2{{efn|[[Piotr Szumlewicz]] (ind.) – 0.0}}
+| 12.7
+| style="background:{{party color|Civic Platform}};" | '''13.2'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-sondaz-prezydencki-polityki-st8282480 IBRiS / Polityka]
+| data-sort-value="2025-01-24" | 17–24 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 27.1
+| style="background:#FDDCB8;" | '''38.9'''
+| 6.4
+| 4.2
+| 0.9
+| 8.9
+| 1.4
+| 1.2
+| 2.5
+| 
+| 
+| 
+| 
+| 
+| 8.5
+| style="background:{{party color|Civic Platform}};" | '''11.8'''
+|-
+| [https://www.wnp.pl/polityka-i-sondaze/sondaze/mocna-pozycja-mentzena-na-sondazowym-podium-trzaskowski-nie-moze-spac-spokojnie,1548.html OGB]
+| data-sort-value="2025-01-23" | 21–23 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 31.73
+| style="background:#FDDCB8;" | '''35.51'''
+| 5.35
+| 3.14
+| 0.52
+| 15.68
+| 3.37
+| 2.13
+| 2.57
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''3.78'''
+|-
+| [https://www.wprost.pl/kraj/11912367/sondaz-trzaskowski-przed-nawrockim-dwucyfrowy-wynik-mentzena.html SW Research / Wprost]
+| data-sort-value="2025-01-21" | 20–21 Jan 2025
+| –
+| style="background:#C0DBFC;" | 17.0
+| style="background:#FDDCB8;" | '''32.9'''
+| 6.9
+| 3.4
+| 2.7
+| 13.1
+| 2.2
+| 1.1
+| 
+| 0.1
+| 1.1
+| 
+| 
+| 1.8{{efn|[[Piotr Szumlewicz]] (ind.) – 0.9, [[Katarzyna Cichos]] (ind.) – 0.9}}
+| 17.7
+| style="background:{{party color|Civic Platform}};" | '''15.9'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-01-20/wyrazna-przewaga-jednego-z-kandydatow-najnowszy-sondaz-dla-wydarzen-polsatu/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2025-01-19" | 16–19 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 28.9
+| style="background:#FDDCB8;" | '''35.0'''
+| 8.9
+| 5.0
+| 0.7
+| 11.5
+| 2.2
+| 1.3
+| 
+| 0.0
+| 
+| 
+| 
+| 0.0{{efn|[[Piotr Szumlewicz]] (ind.) – 0.0}}
+| 6.4
+| style="background:{{party color|Civic Platform}};" | '''6.1'''
+|-
+| [https://polityka.se.pl/wiadomosci/trzaskowski-deklasuje-rywali-nowy-sondaz-prezydencki-zaskakuje-aa-CMxQ-87Pa-dL8T.html Pollster / "SE.pl"]
+| data-sort-value="2025-01-18" | 17–18 Jan 2025
+| 1,004
+| style="background:#C0DBFC;" | 27
+| style="background:#FDDCB8;" | '''37'''
+| 11
+| 3
+| 2
+| 14
+| 3
+| 1
+| 
+| 1
+| 
+| 
+| 
+| 1{{efn|[[Piotr Szumlewicz]] (ind.) – 1}}
+| 
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://www.tvp.info/84562741/wybory-prezydenckie-2025-sondaz-dla-1930-i-tvp-info-trzaskowski-przed-nawrockim-kandydaci-glosowanie-termin-sondaz-prezydencki-2025-r IPSOS / TVP Info]
+| data-sort-value="2025-01-16" | 14–16 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 22
+| style="background:#FDDCB8;" | '''32'''
+| 9
+| 2
+| 2
+| 10
+| 
+| 2
+| 
+| 0
+| 
+| 
+| 
+| 3{{efn|[[Katarzyna Cichos]] (ind.) – 2, [[Piotr Szumlewicz]] (ind.) – 1}}
+| 15
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://wiadomosci.wp.pl/przewaga-trzaskowskiego-topnieje-w-oczach-najnowszy-sondaz-wp-7113876328004320a United Surveys / WP.pl]
+| data-sort-value="2025-01-12" | 10–12 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 29.0
+| style="background:#FDDCB8;" | '''34.2'''
+| 6.7
+| 4.6
+| 1.5
+| 13.0
+| 
+| 1.2
+| 
+| 0.0
+| 
+| 
+| 
+| 0.2{{efn|[[Piotr Szumlewicz]] (ind.) – 0.2}}
+| 9.6
+| style="background:{{party color|Civic Platform}};" | '''5.2'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-tapniecie-w-wynikach-trzaskowskiego-mentzen-rosnie-sondaz-op,nId,7889969#crp_state=1 Opinia24 / RMF FM]
+| data-sort-value="2025-01-09" | 7–9 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 22.6
+| style="background:#FDDCB8;" | '''29.8'''
+| 7.2
+| 3.9
+| 0.4
+| 13.2
+| 
+| 1.4
+| 
+| 0.5
+| 
+| 
+| 
+| 5.6{{efn|[[Piotr Szumlewicz]] (ind.) – 1.0}}
+| 15.6
+| style="background:{{party color|Civic Platform}};" | '''7.2'''
+|-
+| [https://www.cbos.pl/PL/publikacje/flashe_tekst.php?nr=2/2025 CBOS]
+| data-sort-value="2025-01-08" | 7–8 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | 31
+| style="background:#FDDCB8;" | '''35'''
+| 6
+| 3
+| 2
+| 12
+| 
+| 2
+| 
+| 0
+| 
+| 
+| 
+| 1{{efn|[[Piotr Szumlewicz]] (ind.) – 0}}
+| 7
+| style="background:{{party color|Civic Platform}};" | '''4'''
+|-
+| [https://wiadomosci.wp.pl/trzaskowski-i-nawrocki-nieznacznie-traca-poparcie-najnowszy-sondaz-prezydencki-7107384768891616a United Surveys / WP.pl]
+| data-sort-value="2024-12-22" | 20–22 Dec 2024
+| 1,000
+| style="background:#C0DBFC;" | 28.8
+| style="background:#FDDCB8;" | '''36.2'''
+| 10.2
+| 5.8
+| 
+| 10.1
+| 
+| 1.3
+| 
+| 
+| 
+| 
+| 
+| 
+| 7.6
+| style="background:{{party color|Civic Platform}};" | '''7.4'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2024-12-23/najnowszy-sondaz-dla-wydarzen-polsatu-zacieta-walka-o-palac-prezydencki/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2024-12-21" | 19–21 Dec 2024
+| 1,000
+| style="background:#C0DBFC;" | 26.2
+| style="background:#FDDCB8;" | '''35.7'''
+| 10.1
+| 6.1
+| 
+| 9.6
+| 
+| 1.6
+| 
+| 
+| 
+| 
+| 
+| 0.0{{efn|[[Piotr Szumlewicz]] (ind.) – 0.0}}
+| 10.8
+| style="background:{{party color|Civic Platform}};" | '''9.5'''
+|-
+| [https://www.tvp.info/84117579/wybory-prezydenckie-sondaz-prezydencki-dla-tvp-rafal-trzaskowski-karol-nawrocki-slawomir-mentzen-szymon-holownia-magdalena-biejat-marek-jakubiak-jakie-maja-poparcie IPSOS / TVP Info]
+| data-sort-value="2024-12-18" | 17–18 Dec 2024
+| –
+| style="background:#C0DBFC;" | 22
+| style="background:#FDDCB8;" | '''35'''
+| 8
+| 5
+| 
+| 14
+| 
+| 3
+| 
+| 0
+| 
+| 
+| 
+| 1{{efn|{{ill|Romuald Starosielec|qid=Q125693728}} ([[Repair Poland Movement|RNP]]) – 0}}
+| 12
+| style="background:{{party color|Civic Platform}};" | '''13'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-kto-wygra-wybory-prezydenckie-w-polsce-sondaz-opinia24-dla-r,nId,7876021#crp_state=1 Opinia24 / RMF FM]
+| data-sort-value="2024-12-16" | Dec 2024
+| 1,000
+| style="background:#C0DBFC;" | 23.3
+| style="background:#FDDCB8;" | '''38.6'''
+| 7.4
+| 2.6
+| 
+| 10.7
+| 
+| 1.3
+| 
+| 
+| 
+| 
+| 
+| 6.6
+| 9.5
+| style="background:{{party color|Civic Platform}};" | '''15.3'''
+|-
+| [https://polityka.se.pl/wiadomosci/trzaskowski-zdecydowanie-przed-nawrockim-w-pierwszej-turze-zobacz-najnowszy-sondaz-aa-jcok-Eo3v-rigT.html Pollster / "SE.pl"]
+| data-sort-value="2024-12-11" | 10–11 Dec 2024
+| 1,005
+| style="background:#C0DBFC;" | 28.70
+| style="background:#FDDCB8;" | '''41.96'''
+| 10.67
+| 3.26
+| 
+| 12.68
+| 
+| 2.73
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''13.26'''
+|-
+| [https://wiadomosci.wp.pl/karol-nawrocki-goni-rafala-trzaskowskiego-najnowszy-sondaz-7101507539294880a United Surveys / WP.pl]
+| data-sort-value="2024-12-08" | 6–8 Dec 2024
+| 1,000
+| style="background:#C0DBFC;" | 30.3
+| style="background:#FDDCB8;" | '''36.9'''
+| 7.9
+| 4.8
+| 
+| 7.3
+| 
+| 0.5
+| 
+| 
+| 
+| 
+| 
+| 
+| 12.3
+| style="background:{{party color|Civic Platform}};" | '''6.6'''
+|-
+| [https://www.wprost.pl/kraj/11873142/wybory-prezydenckie-2025-zacieta-walka-o-drugie-miejsce-sondaz-dla-wprost.html SW Research / Wprost]
+| data-sort-value="2024-11-29" | Nov 2024
+| –
+| style="background:#C0DBFC;" | 13.1
+| style="background:#FDDCB8;" | '''38.6'''
+| 8.5
+| 
+| 
+| 11.8
+| 
+| 3.7
+| 
+| 
+| 
+| 
+| 
+| 
+| 24.2
+| style="background:{{party color|Civic Platform}};" | '''25.5'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-sondaz-w-pierwszej-turze-zwycieza-trzaskowski-za-nim-nawrocki-w-drugiej-wygrywa-trzaskowski-st8195277 Opinia24 / TVN24]
+| data-sort-value="2024-11-25" | Nov 2024
+| –
+| style="background:#C0DBFC;" | 26
+| style="background:#FDDCB8;" | '''41'''
+| 9
+| 
+| 
+| 12
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 8
+| 4
+| style="background:{{party color|Civic Platform}};" | '''15'''
+|}
+
+=== Hypothetical polling ===
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling before confirmed candidates|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px; width=auto;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" style="width:100px;" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br />size
+! [[Mariusz Błaszczak|Błaszczak]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Tobiasz Bocheński|Bocheński]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Przemysław Czarnek|Czarnek]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Patryk Jaki|Jaki]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Mateusz Morawiecki|Morawiecki]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Karol Nawrocki|Nawrocki]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Elżbieta Witek|Witek]]<br />{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Radosław Sikorski|Sikorski]]<br />{{small|[[Civic Platform|PO]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br />{{small|[[Civic Platform|PO]]}}
+! [[Donald Tusk|Tusk]]<br />{{small|[[Civic Platform|PO]]}}
+! [[Szymon Hołownia|Hołownia]]<br />{{small|[[Poland 2050|PL2050]]}}
+! [[Władysław Kosiniak-Kamysz|Kosiniak-Kamysz]]<br />{{small|[[Polish People's Party|PSL]]}}
+! [[Robert Biedroń|Biedroń]]<br />{{small|[[New Left (Poland)|NL]]}}
+! [[Agnieszka Dziemianowicz-Bąk|Dziemianowicz-Bąk]]<br />{{small|[[New Left (Poland)|NL]]}}
+! [[Magdalena Biejat|Biejat]]<br />{{small|[[Together Party|Razem]]/[[New Left (Poland)|NL]]}}
+! [[Adrian Zandberg|Zandberg]]<br />{{small|[[Together Party|Razem]]}}
+! [[Krzysztof Bosak|Bosak]]<br />{{small|[[Confederation Liberty and Independence|Confederation]]}}
+! [[Sławomir Mentzen|Mentzen]]<br />{{small|[[Confederation Liberty and Independence|Confederation]]}}
+! [[Marek Jakubiak|Jakubiak]]<br />{{small|[[Free Republicans|WR]]}}
+! rowspan="2" | Others
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+| style="background:{{party color|Civic Platform}};" |
+| style="background:{{party color|Civic Platform}};" |
+| style="background:{{party color|Poland 2050}};" |
+| style="background:{{party color|Polish People's Party}};" |
+| style="background:{{party color|New Left (Poland)}};" |
+| style="background:{{party color|New Left (Poland)}};" |
+| style="background:{{party color|New Left (Poland)}};" |
+| style="background:{{party color|Together Party}};" |
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+| style="background:{{party color|Free Republicans}};" |
+|-
+| [https://polityka.se.pl/wiadomosci/sondaz-prezydencki-trzaskowski-kontra-nawrocki-ale-to-kandydat-z-trzeciego-miejsca-rozda-karty-aa-97Uj-xvKk-Qhii.html Pollster / "SE.pl"]
+| data-sort-value="2024-11-26" | 25–26 Nov 2024
+| 1,015
+|
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 21
+|
+|
+| style="background:#FDDCB8;" | '''35'''
+|
+| 10
+|
+| colspan="2" | 4
+|
+|
+|
+| 11
+| 4
+|
+| 15
+| style="background:{{party color|Civic Platform}};" | '''14'''
+|-
+| [https://wiadomosci.wp.pl/rafal-trzaskowski-kontra-karol-nawrocki-mamy-najnowszy-sondaz-prezydencki-7096466150836800a United Surveys / WP.pl]
+| data-sort-value="2024-11-24" | 22–24 Nov 2024
+| 1,000
+|
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 24.5
+|
+|
+| style="background:#FDDCB8;" | '''40.4'''
+|
+| 9.2
+|
+|
+| 7.5
+|
+|
+|
+| 10.7
+| 2.2
+|
+| 5.5
+| style="background:{{party color|Civic Platform}};" | '''15.9'''
+|-
+| rowspan="2" | [https://wiadomosci.wp.pl/rafal-trzaskowski-kontra-radoslaw-sikorski-mamy-najnowszy-sondaz-prezydencki-7095048000330304a United Surveys / WP.pl]
+| rowspan="2" data-sort-value="2024-11-21" | 21 Nov 2024
+| rowspan="2" | 1,000
+| colspan="7" style="background:#C0DBFC;" | 27.8
+|
+| style="background:#FDDCB8;" | '''35.8'''
+|
+| 10.9
+|
+|
+| 5.1
+|
+|
+|
+| 9.9
+|
+|
+| 10.5
+| style="background:{{party color|Civic Platform}};" | '''8.0'''
+|-
+| colspan="7" style="background:#C0DBFC;" | 28.9
+| style="background:#FDDCB8;" | '''32.3'''
+|
+|
+| 12.0
+|
+|
+| 6.7
+|
+|
+|
+| 9.8
+|
+|
+| 10.3
+| style="background:{{party color|Civic Platform}};" | '''3.4'''
+|-
+| rowspan="2" | [https://wiadomosci.wp.pl/walcza-o-nominacje-kto-sobie-lepiej-poradzi-w-wyborach-najnowsze-sondaze-7091874886138848a United Surveys / WP.pl]
+| rowspan="2" data-sort-value="2024-11-10" | 8–10 Nov 2024
+| rowspan="2" | 1,000
+|
+|
+| style="background:#C0DBFC;" | 27.2
+|
+|
+|
+|
+|
+| style="background:#FDDCB8;" | '''34.8'''
+|
+| 10.6
+|
+|
+| 6.5
+|
+|
+|
+| 10.7
+| 2.2
+|
+| 8.0
+| style="background:{{party color|Civic Platform}};" | '''7.6'''
+|-
+|
+|
+| style="background:#C0DBFC;" | 27.5
+|
+|
+|
+|
+| style="background:#FDDCB8;" | '''29.4'''
+|
+|
+| 10.5
+|
+|
+| 8.5
+|
+|
+|
+| 11.5
+| 2.0
+|
+| 10.6
+| style="background:{{party color|Civic Platform}};" | '''1.9'''
+|-
+| rowspan="2" | [https://wiadomosci.wp.pl/dwa-sondaze-prezydenckie-fatalne-wiesci-dla-sikorskiego-7084126078106176a United Surveys / WP.pl]
+| rowspan="2" data-sort-value="2024-10-13" | 11–13 Oct 2024
+| rowspan="2" | 1,000
+|
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 26.6
+|
+|
+| style="background:#FDDCB8;" | '''39.4'''
+|
+| 11.4
+|
+|
+| 5.9
+|
+|
+|
+| 9.3
+|
+|
+| 7.4
+| style="background:{{party color|Civic Platform}};" | '''12.8'''
+|-
+|
+|
+|
+|
+|
+| style="background:#C0DBFC;" | '''26.0'''
+|
+| style="background:#FDDCB8;" | 25.5
+|
+|
+| 15.1
+|
+|
+| 8.5
+|
+|
+|
+| 13.0
+|
+|
+| 11.9
+| style="background:{{party color|Law and Justice}}; color:white;" | '''0.5'''
+|-
+| [https://www.rp.pl/polityka/art41296671-nowy-sondaz-prezydencki-dla-rzeczpospolitej-jest-jeden-faworyt-w-rywalizacji-o-palac-prezydencki IBRiS / Rzeczpospolita]
+| data-sort-value="2024-10-12" | 11–12 Oct 2024
+| 1,071
+|
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 22.2
+|
+|
+| style="background:#FDDCB8;" | '''34.2'''
+|
+| 10.2
+|
+|
+| 7.7
+|
+|
+|
+| 8.6
+|
+| 3.7{{efn|[[Paulina Matysiak]] ([[Together Party|Razem]]) – 3.7}}
+| 13.4
+| style="background:{{party color|Civic Platform}};" | '''12.0'''
+|-
+| rowspan="3" | [https://wiadomosci.onet.pl/kraj/sondaz-prezydencki-slaby-wynik-faworyta-kaczynskiego/kys430v IBRiS / Onet]
+| rowspan="3" data-sort-value="2024-09-10" | 10 Sep 2024
+| rowspan="3" | 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 26.4
+|
+|
+|
+| style="background:#FDDCB8;" | '''33.0'''
+|
+| 8.8
+|
+|
+|
+| 4.9
+|
+|
+| 8.4
+|
+| 4.1{{efn|[[Jacek Siewiera]] (ind.) – 4.1}}
+| 14.3
+| style="background:{{party color|Civic Platform}};" | '''6.6'''
+|-
+| style="background:#C0DBFC;" | 23.8
+|
+|
+|
+|
+|
+|
+|
+| style="background:#FDDCB8;" | '''32.9'''
+|
+| 8.6
+|
+|
+|
+| 4.9
+|
+|
+| 8.1
+|
+| 7.6{{efn| [[Jacek Siewiera]] (ind.) – 7.6}}
+| 14.0
+| style="background:{{party color|Civic Platform}};" | '''9.1'''
+|-
+| 
+| 
+| 
+|
+| 
+| style="background:#C0DBFC;" | 17.2
+| 
+| 
+| style="background:#FDDCB8;" | '''34.8'''
+| 
+| 8.8
+| 
+| 
+| 
+| 4.9
+|
+|
+| 9.2
+| 
+| 7.3{{efn|[[Jacek Siewiera]] (ind.) – 7.3}}
+| 17.7
+| style="background:{{party color|Civic Platform}};" | '''17.6'''
+|-
+| [https://wiadomosci.wp.pl/pis-bez-szans-na-wygrana-mamy-nowy-sondaz-patowa-sytuacja-7057903753874016a United Surveys / WP.pl]
+| data-sort-value="2024-07-28" | 26–28 Jul 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 27.6
+|
+|
+|
+| style="background:#FDDCB8;" | '''32.4'''
+|
+| 11.2
+|
+|
+| 7.9
+|
+|
+| 15.6
+|
+|
+|
+| 5.3
+| style="background:{{party color|Civic Platform}};" | '''4.8'''
+|-
+| [https://www.rmf24.pl/fakty/polska/news-kto-powinien-byc-prezydentem-sondaz,nId,7747725#crp_state=1 United Surveys / DGP, RMF]
+| data-sort-value="2024-07-28" | 26–28 Jul 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 29.3
+|
+|
+|
+| style="background:#FDDCB8;" | '''34.8'''
+|
+| 10.1
+|
+|
+| 8.4
+|
+|
+|
+| 7.9
+|
+| 2.0
+| 7.4
+| style="background:{{party color|Civic Platform}};" | '''5.5'''
+|-
+| rowspan="2" | [https://dorzeczy.pl/kraj/607911/kto-wygralby-i-ture-wyborow-prezydenckich-znamy-wyniki.html IPSOS / DoRzeczy.pl]
+| rowspan="2" data-sort-value="2024-07-03" | 1–3 Jul 2024
+| rowspan="2" | 1,000
+|
+|
+|
+| style="background:#C0DBFC;" | 27
+|
+|
+|
+|
+| style="background:#FDDCB8;" | '''33'''
+|
+| 11
+| 7
+|
+|
+|
+|
+|
+| 13
+|
+|
+| 9
+| style="background:{{party color|Civic Platform}}; color:black;" | '''6'''
+|-
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 28
+|
+|
+|
+| style="background:#FDDCB8;" | '''32'''
+|
+| 11
+| 6
+|
+|
+|
+|
+|
+| 15
+|
+|
+| 8
+| style="background:{{party color|Civic Platform}};" | '''4'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-to-nie-bedzie-taka-bulka-z-maslem-7037355349228288a United Surveys / WP.pl]
+| data-sort-value="2024-06-09" | 7–9 Jun 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 24.8
+|
+|
+|
+| style="background:#FDDCB8;" | '''29.2'''
+|
+| 13.6
+|
+|
+| 2.6
+|
+|
+| 6.6
+|
+|
+| 7.1{{efn|[[Dorota Gawryluk]] (ind.) – 7.1}}
+| 16.1
+| style="background:{{party color|Civic Platform}};" | '''4.4'''
+|-
+| [https://wiadomosci.wp.pl/sondaz-prezydencki-wp-gawryluk-moze-sporo-namieszac-7033440419015424a United Surveys / WP.pl]
+| data-sort-value="2024-05-26" | 24–26 May 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 25.6
+|
+|
+|
+| style="background:#FDDCB8;" | '''29.2'''
+|
+| 10.2
+|
+|
+| 3.4
+|
+|
+| 7.9
+|
+|
+| 8.2{{efn|[[Dorota Gawryluk]] (ind.) – 8.2}}
+| 15.5
+| style="background:{{party color|Civic Platform}};" | '''3.6'''
+|-
+| [https://wiadomosci.wp.pl/kto-zastapi-andrzeja-dude-wyborcy-prawa-i-sprawiedliwosci-sa-zmobilizowani-7027781690133472a United Surveys / WP.pl]
+| data-sort-value="2024-05-12" | 10–12 May 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 25.5
+|
+|
+|
+| style="background:#FDDCB8;" | '''29.6'''
+|
+| 13.8
+|
+|
+| 4.4
+|
+|
+| 9.3
+|
+|
+|
+| 17.4
+| style="background:{{party color|Civic Platform}};" | '''4.1'''
+|-
+| [https://wiadomosci.wp.pl/kto-zastapi-dude-jest-nowy-sondaz-prezydencki-7015082114554784a United Surveys / WP.pl]
+| data-sort-value="2024-04-07" | 6–7 Apr 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 22.4
+|
+|
+|
+| style="background:#FDDCB8;" | '''29.0'''
+|
+| 17.1
+|
+| 3.3
+|
+|
+|
+| 3.8
+| 4.7
+|
+| 8.6{{efn|[[Beata Szydło]] ([[Law and Justice (Poland)|PiS]]) – 8.6}}
+| 11.2
+| style="background:{{party color|Civic Platform}};" | '''6.6'''
+|-
+| [https://oko.press/sondaz-prezydencki-holownia-przegrywa-ale IPSOS / OKO.press, TOK FM]
+| data-sort-value="2024-02-26" | 22–26 Feb 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 25
+|
+|
+|
+| style="background:#FDDCB8;" | '''26'''
+|
+| 16
+|
+|
+| 4
+|
+|
+| 10
+|
+|
+| 3{{efn|[[Krzysztof Stanowski (journalist)|Krzysztof Stanowski]] (ind.) – 3}}
+| 9
+| style="background:{{party color|Civic Platform}};" | '''1'''
+|-
+| [https://wiadomosci.wp.pl/kto-zastapi-andrzeja-dude-pis-bedzie-musial-sie-bardzo-mocno-starac-7000946658474528a United Surveys / WP.pl]
+| data-sort-value="2024-02-25" | 23–25 Feb 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 25.9
+|
+|
+|
+| style="background:#FDDCB8;" | '''30.8'''
+|
+| 23.1
+|
+| 4.5
+|
+|
+|
+| 8.0
+|
+|
+|
+| 7.7
+| style="background:{{party color|Civic Platform}};" | '''4.9'''
+|-
+| [https://polityka.se.pl/wiadomosci/sensacyjny-sondaz-prezydencki-bez-kandydata-pis-w-drugiej-turze-eksperci-przewiduja-dekompozycje-zjednoczonej-prawicy-aa-Ph3e-aCZL-VTGk.html Pollster / SE.pl]
+| data-sort-value="2024-02-11" | 11 Feb 2024
+| 1,060
+|
+|
+|
+|
+| 20.92
+|
+|
+|
+| style="background:#FDDCB8;" | '''32.53'''
+|
+| style="background:#FCDE83;" | 25.21
+| 5.45
+|
+|
+|
+| 2.65
+| 7.66
+|
+|
+| 5.58{{efn|[[Dorota Gawryluk]] (ind.) – 1.89, [[Krzysztof Stanowski (journalist)|Krzysztof Stanowski]] (ind.) – 1.11}}
+|
+| style="background:{{party color|Civic Platform}};" | '''7.32'''
+|-
+| [https://wiadomosci.wp.pl/nowy-sondaz-prezydencki-trzej-politycy-z-niemal-rownym-poparciem-6995232810166848a United Surveys / WP.pl]
+| data-sort-value="2024-02-11" | 10–11 Feb 2024
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 24.3
+|
+|
+|
+| 22.2
+|
+| style="background:#FCDE83;" | '''24.8'''
+|
+| 1.3
+|
+|
+|
+| 1.9
+| 6.5
+|
+| 9.0{{efn|[[Beata Szydło]] ([[Law and Justice (Poland)|PiS]]) – 9.0}}
+| 10.0
+| style="background:{{party color|Poland 2050}};" | '''0.5'''
+|-
+| [https://wiadomosci.radiozet.pl/polska/polityka/sondaz-ibris-dla-radia-zet-stanowski-i-gawryluk-na-szarym-koncu IBRiS / Radio Zet]
+| data-sort-value="2024-02-10" | 9–10 Feb 2024
+| 1,070
+|
+| 16.1
+|
+|
+|
+|
+|
+|
+| style="background:#FDDCB8;" | '''28.3'''
+|
+| style="background:#FCDE83;" | 24.0
+|
+|
+|
+|
+|
+|
+|
+|
+| 5.2{{efn|[[Krzysztof Stanowski (journalist)|Krzysztof Stanowski]] (ind.) – 3.2, [[Dorota Gawryluk]] (ind.) – 0.2 }}
+| 26.4
+| style="background:{{party color|Civic Platform}};" | '''4.3'''
+|-
+| [https://wiadomosci.onet.pl/kraj/szymon-holownia-wkracza-do-gry-o-prezydenture-niespotykany-remis-w-sondazu/rd779el IBRiS / Onet]
+| data-sort-value="2024-01-27" | 26–27 Jan 2024
+| 1,070
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 24.9
+|
+|
+|
+| style="background:#FDDCB8;" | '''25.8'''
+|
+| 24.6
+| 4.3
+| 3.5
+|
+|
+|
+| 8.0
+|
+|
+|
+| 8.9
+| style="background:{{party color|Civic Platform}};" | '''0.9'''
+|-
+| [https://www.wnp.pl/parlamentarny/sondaze/trzaskowski-pokonal-holownie-w-sondazu-prezydenckim,1369.html Pollster / SE.pl]
+| data-sort-value="2023-12-17" | 17 Dec 2023
+| 1,033
+| colspan="7" style="background:#C0DBFC;" | 27
+|
+| style="background:#FDDCB8;" | '''30'''
+|
+| 20
+|
+|
+|
+|
+|
+|
+|
+|
+| 5
+| 18
+| style="background:{{party color|Civic Platform}};" | '''3'''
+|-
+| [https://www.rp.pl/polityka/art39590351-sondaz-kto-powinien-walczyc-o-prezydenture-w-2025-roku-wygrywa-nie-wiem United Surveys / DGP, RMF]
+| data-sort-value="2023-12-10" | 8–10 Dec 2023
+| 1,000
+| 2.6
+|
+|
+|
+| 9.9
+|
+| 1.2
+|
+| style="background:#FDDCB8;" | '''24.5'''
+| 0.9
+| style="background:#fcde83;" | 11.9
+| 1.2
+|
+|
+|
+| 2.7
+| 2.2
+| 1.6
+|
+| 33.1{{efn| [[Adam Bodnar]] (ind.) – 1.4, [[Kacper Płażyński]] ([[Law and Justice (Poland)|PiS]]) – 1.3, [[Jarosław Kaczyński]] ([[Law and Justice (Poland)|PiS]]) – 1.3}}
+| 6.6
+| style="background:{{party color|Civic Platform}};" | '''12.6'''
+|-
+| rowspan="2" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-sondaz-ibris-trzaskowski-neutralizuje-holownie/8xglpfn IBRiS / Onet]
+| rowspan="2" data-sort-value="2023-11-25" | 24–25 Nov 2023
+| rowspan="2" | –
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 29.9
+|
+|
+|
+| style="background:#FDDCB8;" | '''34.6'''
+|
+| 11.7
+| 6.3
+|
+|
+|
+|
+|
+| 7.2
+|
+| 1.5{{efn|[[Joanna Scheuring-Wielgus]] ([[New Left (Poland)|NL]]) – 1.5}}
+| 8.9
+| style="background:{{party color|Civic Platform}};" | '''4.7'''
+|-
+|
+|
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 21.4
+|
+|
+| style="background:#FDDCB8;" | '''25.6'''
+| 16.7
+| 8.6
+|
+| 8.0
+|
+|
+|
+| 8.0
+|
+|
+| 11.7
+| style="background:{{party color|Civic Platform}};" | '''4.2'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-holownia-bedzie-problemem-dla-pis-6968728867650048a United Surveys / WP.pl]
+| data-sort-value="2023-11-19" | 17–19 Nov 2023
+| 1,000
+|
+|
+|
+|
+| style="background:#C0DBFC;" | 19.0
+|
+|
+|
+| style="background:#FDDCB8;" | '''33.8'''
+|
+| 13.4
+|
+| 4.5
+|
+|
+|
+| 8.3
+|
+|
+| 18.3{{efn|[[Beata Szydło]] ([[Law and Justice (Poland)|PiS]]) – 7.7}}
+| 2.7
+| style="background:{{party color|Civic Platform}};" | '''14.8'''
+|}
+{{hidden end}}
+
+== Second round ==
+[[File:Head-to-Head Polish 2025 Presidential Polling.svg|centre|frameless|1000x1000px|LOESS curve for the 2025 Polish presidential election, second round.]]{{-}}
+
+[[File:Opinion polling for the 2025 Polish presidential election - second round.svg|centre|frameless|1000x1000px]]{{-}}
+
+=== Nawrocki v. Trzaskowski ===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Karol Nawrocki|Nawrocki]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Abstain
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|- style="background:#EFEFEF; font-weight:bold;"
+| [[2025 Polish presidential election|2025 presidential election]]<ref>{{cite web |title=Wybory Prezydenta Rzeczypospolitej Polskiej w 2025 r. |url=https://wybory.gov.pl/prezydent2025/pl/2/wynik/pl |date={{date|2025-06-01|DMY}} |access-date={{date|2025-06-02|DMY}} |website=[[National Electoral Commission (Poland)|Państwowa Komisja Wyborcza]] |trans-title=The Election of the President of the Republic of Poland 2025 |language=en,pl}}</ref>
+| {{small|Election result}}
+| 20,844,163
+| style="background:#C0DBFC;" | 50.89
+| 49.11
+| 
+| 
+| style="background:{{party color|Law and Justice}}; color:white;" | 1.78
+|- style="background:#CDEACC" |
+|[[Ipsos]] (2nd [[Exit poll|late poll]]) / [[Telewizja Polska|TVP]], [[TVN24]], [[Polsat News]]<ref name="KowalskaSzczerbiakZagnerŻelazińska2025">{{cite news |title=Oficjalne dane PKW: Karol Nawrocki wygrywa wybory prezydenckie w Polsce |last1=Kowalska |first1=Anna S. |last2=Szczerbiak |first2=Agata |last3=Zagner |first3=Agnieszka |last4=Żelazińska |first4=Aleksandra |date={{date|2025-06-02|DMY}} |url=https://www.polityka.pl/tygodnikpolityka/kraj/2302461,1,oficjalne-dane-pkw-karol-nawrocki-wygrywa-wybory-prezydenckie-w-polsce.read |url-status=live |archive-url=https://web.archive.org/web/20250602070850/https://www.polityka.pl/tygodnikpolityka/kraj/2302461,1,oficjalne-dane-pkw-karol-nawrocki-wygrywa-wybory-prezydenckie-w-polsce.read |archive-date={{date|2025-06-02|DMY}} |access-date={{date|2025-06-02|DMY}} |work=[[Polityka]] |trans-title=Official PKW data: Karol Nawrocki wins Polish presidential election |language=pl}}</ref>
+|2 June 2025
+| –
+| style="background:#C0DBFC;" |'''51'''
+|49
+|
+|
+| style="background:{{party color|Law and Justice}}; color:white;" |'''2'''
+|-style="background:#cdeacc"|
+|[[Ipsos]] ([[Exit poll|late poll]]) / [[Telewizja Polska|TVP]], [[TVN24]], [[Polsat News]]<ref name="KowalskaSzczerbiakZagnerŻelazińska2025" />
+|1 June 2025
+| –
+| style="background:#C0DBFC;" |'''50.7'''
+|49.3
+|
+|
+| style="background:{{party color|Law and Justice}}; color:white;" |'''1.4'''
+|-style="background:#EAFFEA"|
+| OGB ([[exit poll]]) / [[Telewizja Republika|TV Republika]]<ref>{{cite news |title=Rafał Trzaskowski 50,17 proc., Karol Nawrocki 49,83 proc. w II turze wyborów - exit poll OGB |date={{date|2025-06-01|DMY}} |url=https://biznes.pap.pl/wiadomosci/gospodarka/rafal-trzaskowski-5017-proc-karol-nawrocki-4983-proc-w-ii-turze-wyborow-exit |url-status=live |archive-url=https://web.archive.org/web/20250602065940/https://biznes.pap.pl/wiadomosci/gospodarka/rafal-trzaskowski-5017-proc-karol-nawrocki-4983-proc-w-ii-turze-wyborow-exit |archive-date={{date|2025-06-02|DMY}} |access-date={{date|2025-06-02|DMY}} |work=Biznes [[Polish Press Agency|PAP]] |trans-title=Rafał Trzaskowski 50.17%, Karol Nawrocki 49.83% in second round of elections - OGB exit poll |language=pl}}</ref>
+| data-sort-value="2025-06-01" | 1 June 2025
+| 100,567
+| 49.83
+| style="background:#FDDCB8;" | '''50.17'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''0.34'''
+|-style="background:#EAFFEA"|
+| [[Ipsos]] ([[exit poll]]) / [[Telewizja Polska|TVP]], [[TVN24]], [[Polsat News]]<ref>{{cite news |title=Trzaskowski kontra Nawrocki. Wyniki badania exit poll |date={{date|2025-06-01|DMY}} |url=https://www.tvp.info/87034640/wyniki-wyborow-prezydenckich-2025-exit-poll-o-2100-kto-wygral-wybory-prezydenckie-w-polsce-wynik-rafala-trzaskowskiego-i-karola-nawrockiego-ilu-polakow-glosowalo-w-wyborach |url-status=live |archive-url=https://web.archive.org/web/20250601190856/https://www.tvp.info/87034640/wyniki-wyborow-prezydenckich-2025-exit-poll-o-2100-kto-wygral-wybory-prezydenckie-w-polsce-wynik-rafala-trzaskowskiego-i-karola-nawrockiego-ilu-polakow-glosowalo-w-wyborach |archive-date={{date|2025-06-01|DMY}} |access-date={{date|2025-06-02|DMY}} |work=[[TVP Info]] |trans-title=Trzaskowski versus Nawrocki. Results of the exit poll |language=pl}}</ref><ref>{{cite news |title=Wybory prezydenckie 2025. Kto wygrywa w sondażu exit poll? Wyniki |date={{date|2025-06-01|DMY}} |url=https://tvn24.pl/polska/wyniki-wyborow-prezydenckich-2025-sondaz-exit-poll-z-godziny-21-st8490891 |url-status=live |archive-url=https://web.archive.org/web/20250601190152/https://tvn24.pl/polska/wyniki-wyborow-prezydenckich-2025-sondaz-exit-poll-z-godziny-21-st8490891 |archive-date={{date|2025-06-01|DMY}} |access-date={{date|2025-06-02|DMY}} |work=[[TVN24]] |trans-title=2025 presidential election. Who wins in the exit poll? Results |language=pl}}</ref><ref>{{cite news |title=Wyniki exit poll. Tak głosowali mieszkańcy miast i wsi |last1=Białczyk |first1=Piotr |date={{date|2025-06-01|DMY}} |url=https://www.polsatnews.pl/wiadomosc/2025-06-01/wyniki-exit-poll-tak-glosowali-mieszkancy-miast-i-wsi/ |url-status=live |archive-url=https://web.archive.org/web/20250602072724/https://www.polsatnews.pl/wiadomosc/2025-06-01/wyniki-exit-poll-tak-glosowali-mieszkancy-miast-i-wsi/ |archive-date={{date|2025-06-02|DMY}} |access-date={{date|2025-06-02|DMY}} |work=[[Polsat News]] |trans-title=Exit poll results. That's how residents of cities and villages voted |language=pl}}</ref>
+| data-sort-value="2025-06-01" | 1 June 2025
+| –
+| 49.7
+| style="background:#FDDCB8;" | '''50.3'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''0.6'''
+|-
+| [https://www.atlasintel.org/poll/poland-national-2025-05-30 AtlasIntel]
+| data-sort-value="2025-05-30" | 27–30 May 2025
+| 2,596
+| 47.4
+| style="background:#FDDCB8;" | '''47.6'''
+| 1.4
+| 0.9
+| style="background:{{party color|Civic Platform}};" | '''0.2'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-nawrocki-prowadzi-trzaskowski-tuz-za-nim-7162338350127840a United Surveys / WP.pl]
+| data-sort-value="2025-05-30" | 25–30 May 2025
+| 1,800
+| style="background:#C0DBFC;" | '''47.7'''
+| 47.3
+| 5
+|
+| style="background:{{party color|Law and Justice}}; color:white;" | '''0.4'''
+|-
+| rowspan="3" | Social Changes / [[Radio Wnet|wnet.fm]]<ref>{{cite news |title=Sondaż dla Radia Wnet: frekwencja rozstrzygnie wynik wyborów |date={{date|2025-05-30|DMY}} |url=https://wnet.fm/2025/05/30/sondaz-dla-radia-wnet-frekwencja-zdecyduje-o-zwyciestwie-kandydata/ |url-status=live |archive-url=https://web.archive.org/web/20250530211049/https://wnet.fm/2025/05/30/sondaz-dla-radia-wnet-frekwencja-zdecyduje-o-zwyciestwie-kandydata/ |archive-date={{date|2025-05-30|DMY}} |access-date={{date|2025-05-30|DMY}} |work=[[Radio Wnet]] |trans-title=Radio Wnet poll: turnout will determine the outcome of the election |language=pl}}</ref><br />Top to bottom:<br />75%, 71%, 64% turnout scenarios
+| rowspan="3" data-sort-value="2025-05-29" | 28–29 May 2025
+| rowspan="3" | 1,060
+| style="background:#C0DBFC;" | '''50.9'''
+| 49.1
+| 
+|
+| style="background:{{party color|Law and Justice}}; color:white;" | '''1.8'''
+|-
+| 49.95
+| style="background:#FDDCB8;" | '''50.05'''
+| 
+|
+| style="background:{{party color|Civic Platform}};" | '''0.10'''
+|-
+| style="background:#C0DBFC;" | '''50.5'''
+| 49.5
+| 
+|
+| style="background:{{party color|Law and Justice}}; color:white;" | '''1.0'''
+|-
+| [https://wiadomosci.wp.pl/to-on-jest-blizszy-wygranej-mamy-najnowszy-sondaz-7162069976799968a OGB / “WP.pl”]
+| data-sort-value="2025-05-29" | 28–29 May 2025
+| 1,000
+| style="background:#C0DBFC;" | '''50.63'''
+| 49.37
+| 
+| 
+| style="background:{{party color|Law and Justice}}; color:white;" | '''1.26'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/takie-poparcie-naprawde-maja-nawrocki-i-trzaskowski-piorunujace-wyniki-sondazu-aa-G4Hs-jXGk-aEKS.html Pollster / “SE.pl”]
+| data-sort-value="2025-05-29" | 28–29 May 2025
+| 1,039
+| 45.60
+| style="background:#FDDCB8;" | '''47.97'''
+| 6.43
+| 
+| style="background:{{party color|Civic Platform}};" | '''2.37'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-05-30/minimalna-roznica-miedzy-kandydatami-najnowszy-sondaz-dla-polsat-news/ IBRiS / Polsat News]
+| data-sort-value="2025-05-29" | 27–29 May 2025
+| 1,000
+| 48.1
+| style="background:#FDDCB8;" | '''49.1'''
+| 2.8
+|
+| style="background:{{party color|Civic Platform}};" | '''1'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-nowy-sondaz-prezydencki-przed-druga-tura-rafal-trzaskowski-czy-karol-nawrocki-st8485917 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-05-29" | 27–29 May 2025
+| 1,500
+| 46.3
+| style="background:#FDDCB8;" | '''47.4'''
+| 3.6
+| 
+| style="background:{{party color|Civic Platform}};" | '''1.1'''
+|-
+| [https://www.tvp.info/86983170/wybory-2025-sondaz-dla-1930-rafal-trzaskowski-z-nieznaczna-przewaga-nad-karolem-nawrockim-jaka-bedzie-frekwencja IPSOS / "19:30" TVP Info]
+| data-sort-value="2025-05-29" | 26–29 May 2025
+| 1,000
+| 48
+| style="background:#FDDCB8;" | '''49'''
+| 3
+| 
+| style="background:{{party color|Civic Platform}};" | '''1'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/jest-najnowszy-sondaz-prezydencki-ten-kandydat-to-dla-polakow-mniejsze-zlo Research Partner / ARIADNA]
+| data-sort-value="2025-05-28" | 27–28 May 2025
+| 1,080
+| style="background:#C0DBFC;" | '''46.1'''
+| 45.8
+| 8.1
+| 
+| style="background:{{party color|Law and Justice}}; color:white;" | '''0.3'''
+|-
+| [https://oko.press/sondaz-ipsos-dla-oko-press-remis-ze-wskazaniem-na-trzaskowskiego IPSOS / “OKO.press”]
+| data-sort-value="2025-05-28" | 27–28 May 2025
+| 1,000
+| 47
+| style="background:#FDDCB8;" | '''48'''
+| 5
+| 
+| style="background:{{party color|Civic Platform}};" | '''1'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/nowy-sondaz-przed-ii-tura-trzaskowski-czy-nawrocki-minimalna-roznica/8y7ybe5 IBRiS / Onet]
+| data-sort-value="2025-05-28" | 26–28 May 2025
+| 1,090
+| 46.0
+| style="background:#FDDCB8;" | '''47.7'''
+| 6.3
+|
+| style="background:{{party color|Civic Platform}};" | '''1.7'''
+|-
+| [https://www.cbos.pl/PL/publikacje/flashe_tekst.php?nr=33/2025 CBOS]
+| data-sort-value="2025-05-28" | 26–28 May 2025
+| 1,000
+| 49.7
+| style="background:#fbcc99;" | '''50.3'''
+| 
+|
+| style="background:{{party color|Civic Platform}};" | '''0.6'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-kto-wygra-druga-ture-wyborow-najnowszy-sondaz-prezydencki-opinia24-st8482930 Opinia24 / RMF FM]
+| data-sort-value="2025-05-27" | 25–27 May 2025
+| 1,000
+| 45.9
+| style="background:#FDDCB8;" | '''47.5'''
+| 6.6
+| 
+| style="background:{{party color|Civic Platform}};" | '''1.6'''
+|-
+| [https://wiadomosci.wp.pl/finisz-kampanii-prezydenckiej-mamy-najnowszy-sondaz-7161259137686464a United Surveys / “WP.pl”]
+| data-sort-value="2025-05-26" | 25–26 May 2025
+| 1,000
+| 45.0
+| style="background:#FDDCB8;" | '''47.4'''
+| 7.6
+| 
+| style="background:{{party color|Civic Platform}};" | '''2.4'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/zdecydowanie-nie-zaglosuje-jakie-emocje-budza-trzaskowski-i-nawrocki-sondaz-dla-radia-zet Opinia24 / Radio ZET]
+| data-sort-value="2025-05-25" | 23–26 May 2025
+| 1,021
+| 48
+| style="background:#fbcc99;" | '''51'''
+| 1
+| 
+| style="background:{{party color|Civic Platform}};" | '''3'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-najnowszy-sondaz-przed-druga-tura-st8480586 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-05-26" | May 2025
+| –
+| 46
+| style="background:#FDDCB8;" | '''47'''
+| 5
+| 
+| style="background:{{party color|Civic Platform}};" | '''1'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/najnowszy-sondaz-prezydencki-nie-zostawia-zludzen-trzaskowski-wygrywa-aa-ZarP-2m4i-gegd.html Pollster / “SE.pl”]
+| data-sort-value="2025-05-25" | 25 May 2025
+| 1,011
+| 43.61
+| style="background:#FDDCB8;" | '''45.7'''
+| 10.69
+| 
+| style="background:{{party color|Civic Platform}};" | '''2.09'''
+|-
+| [https://polskieradio24.pl/artykul/3528488,trzaskowski-czy-nawrocki-najnowszy-sondaz-prezydencki-dla-polskiego-radia-24 IBRiS / Polskie Radio 24]
+| data-sort-value="2025-05-25" | 25 May 2025
+| 1,070
+| 44.9
+| style="background:#FDDCB8;" | '''45.7'''
+| 9.4
+| 
+| style="background:{{party color|Civic Platform}};" | '''0.8'''
+|-
+|[https://dorzeczy.pl/sondaz/731826/sondaz-przed-druga-tura-nawrocki-wygrywa-z-trzaskowskim.html OGB]
+|22–24 May 2025
+|800
+| style="background:#C0DBFC;" |'''48'''
+|45.5
+|6.5
+|
+| style="background:{{party color|Law and Justice}}; color:white;" | '''2.5'''
+|-
+| [https://www.tvp.info/86864662/wybory-prezydenckie-2025-najnowszy-sondaz-wyborczy-przed-druga-tura-glosowania-druga-tura-wyborow-termin-zasad-rafal-trzaskowski-i-karol-nawrocki-kto-wygra-wybory IPSOS / "19:30" TVP Info]
+| data-sort-value="2025-05-22" | 20–22 May 2025
+| 1,000
+| style="background:#C0DBFC;" | '''47'''
+| style="background:#FDDCB8;" | '''47'''
+| 6
+| 
+| '''Tie'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-trzaskowski-czy-nawrocki-nowy-sondaz-opinia24-przed-decyduja,nId,7970650 Opinia24]
+| data-sort-value="2025-05-21" | 19–21 May 2025
+| 624
+| style="background:#C0DBFC;" | '''47'''
+| 45
+| 8
+| 
+| style="background:{{party color|Law and Justice (Poland)}}; color:white;" | '''2'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-sondaz-kto-wygra-w-drugiej-turze-st8467433 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-05-18" | 18 May 2025
+| –
+| 44
+| style="background:#FDDCB8;" | '''46'''
+| colspan="2" | 10
+| style="background:{{party color|Civic Platform}};" | '''2'''
+|- style="background:#EAFFEA"|
+| OGB (1st round [[exit poll]]) / [[Telewizja Republika|TV Republika]]<ref>{{cite news |title=Prognoza wyników II tury. Jest jedna niewiadoma! |date={{date|2025-05-18|DMY}} |url=https://tvrepublika.pl/Swiat/Telewizja-Republika-zaprezentowala-prognoze-wynikow-II-tury-wyborow/189126 |url-status=live |archive-url=https://web.archive.org/web/20250518232621/https://tvrepublika.pl/Swiat/Telewizja-Republika-zaprezentowala-prognoze-wynikow-II-tury-wyborow/189126 |archive-date={{date|2025-05-18|DMY}} |access-date={{date|2025-05-18|DMY}} |work=[[Telewizja Republika]] |trans-title=Second round result forecast. There is one unknown! |language=pl}}</ref>
+| data-sort-value="2025-05-18" | 18 May 2025
+| 92,108<ref name="OGB-ExitPoll" />
+| 38.0
+| style="background:#FDDCB8;" | '''47.2'''
+| colspan="2" | 14.8
+| style="background:{{party color|Civic Platform}};" | '''9.2'''
+|-
+| [https://polskieradio24.pl/artykul/3526215,trzaskowski-czy-nawrocki-nowy-sondaz-prezydencki-przed-druga-tura OGB]
+| data-sort-value="2025-05-16" | 16 May 2025
+| 800
+| style="background:#C0DBFC;" | '''51.5'''
+| 48.5
+| 
+|
+| style="background:{{party color|Law and Justice (Poland)}}; color:white;"  | '''3'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-nowy-sondaz-st8462712 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-05-15" | 14–15 May 2025
+| 1,002
+| 45
+| style="background:#FDDCB8;" | '''48'''
+| colspan="2" | 7
+| style="background:{{party color|Civic Platform}};" | '''3'''
+|-
+|[https://www.tvp.info/86737788/sondaz-rafal-trzaskowski-i-karol-nawrocki-w-drugiej-turze-wyborow-prezydenckich-2025 IPSOS / TVP Info]
+| data-sort-value="2025-05-15" | 13–15 May 2025
+| 1,000
+| 45
+| style="background:#FDDCB8;" | '''49'''
+| 6
+| 
+| style="background:{{party color|Civic Platform}};" | '''4'''
+|-
+| [https://wydarzenia.interia.pl/wybory/prezydenckie/news-kampania-wyborcza-na-finiszu-najnowszy-sondaz-dla-polsat-new,nId,21808675 IBRiS / Polsat News]
+| data-sort-value="2025-05-15" | 13–15 May 2025
+| 1,000
+| 37.6
+| style="background:#fbcc99;" | '''50.2'''
+| 5.4
+| 6.8
+| style="background:{{party color|Civic Platform}};" | '''12.6'''
+|-
+|[https://businessinsider.com.pl/wiadomosci/nawrocki-goni-trzaskowskiego-jest-nowy-sondaz-prezydencki-przed-cisza-wyborcza/5r76bl7 United Surveys / “WP.pl”]
+| data-sort-value="2025-05-15" | 13–15 May 2025
+| 1,500
+| 43.8
+| style="background:#fbcc99;" | '''56.2'''
+| 
+|
+| style="background:{{party color|Civic Platform}};" | '''12.4'''
+|-
+| [https://atlasintel.org/poll/poland-national-15-05-2025 AtlasIntel]
+| data-sort-value="2025-05-14" | 11–14 May 2025
+| 1,827
+| 45.2
+| style="background:#FDDCB8;" | '''46.5'''
+| colspan="2" | 8.3
+| style="background:{{party color|Civic Platform}};" | '''1.3'''
+|-
+| [https://www.rmf24.pl/newsamp-nawrocki-coraz-blizej-trzaskowskiego-sondaz-opinia24-dla-rmf,nId,7966146 Opinia24 / RMF FM]
+| data-sort-value="2025-05-14" | 12–14 May 2025
+| 1,003
+| 44.4
+| style="background:#FDDCB8;" | '''48.5'''
+| 7.1
+| 
+| style="background:{{party color|Civic Platform}};" | '''4.1'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/sondaz-przed-ii-tura-wyborow-trzaskowski-blisko-wygranej-nawrocki-traci-dystans/fxe495x IBRiS / Onet]
+| data-sort-value="2025-05-13" | 12–13 May 2025
+| 1,072
+| 36.3
+| style="background:#fbcc99;" | '''53.9'''
+| 5.3
+| 4.6
+| style="background:{{party color|Civic Platform}};" | '''17.6'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/karol-nawrocki-poprawia-wynik-wiemy-kto-wygrywa-w-ii-turze-sondaz/4yfpqp5 IBRiS / "RZ"]
+| data-sort-value="2025-05-12" | 11–12 May 2025
+| 1,073
+| 38.4
+| style="background:#fbcc99;" | '''53.9'''
+| colspan="2" | 7.7
+| style="background:{{party color|Civic Platform}};" | '''15.5'''
+|-
+| [https://ewybory.eu/wybory-prezydenckie-2025-polska/sonda-uliczna/2-tura/ ewybory.eu]
+| data-sort-value="2025-05-11" | 22 Apr–11 May 2025
+| 14,815
+| 45.43
+| style="background:#FDDCB8;" | '''48.64'''
+| 5.93
+| 
+| style="background:{{party color|Civic Platform}};" | '''3.21'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/najnowszy-sondaz-prezydencki-spadaja-wyniki-dwoch-kandydatow/8dvrgbw IBRiS / Polskie Radio 24]
+| data-sort-value="2025-05-11" | 10–11 May 2025
+| 1,067
+| 36.6
+| style="background:#fbcc99;" | '''55.6'''
+| 3.1
+| 4.7
+| style="background:{{party color|Civic Platform}};" | '''19.0'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-kto-wygra-w-drugiej-turze-nowy-sondaz-prezydencki-st8459403 IBRiS / "Polityka"]
+| data-sort-value="2025-05-10" | 7–10 May 2025
+| 2,000
+| 37.7
+| style="background:#fbcc99;" | '''54.5'''
+| colspan="2" | 7.8
+| style="background:{{party color|Civic Platform}};" | '''16.8'''
+|-
+| [https://www.rp.pl/polityka/art42260241-karol-nawrocki-czy-slawomir-mentzen-kto-ma-wieksze-szanse-z-rafalem-trzaskowskim-w-drugiej-turze-wyniki-sondazu Pollster / “SE.pl”]
+| data-sort-value="2025-05-08" | 7-8 May 2025
+| 1,077
+| 45
+| style="background:#fbcc99;" | '''55'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://wiadomosci.wp.pl/wyniki-najnowszego-sondazu-nawrocki-traci-poparcie-7154626225343424a United Surveys / WP.pl]
+| data-sort-value="2025-05-07" | 7 May 2025
+| 1,000
+| 39.1
+| style="background:#fbcc99;" | '''57.7'''
+| 3.2
+| 
+| style="background:{{party color|Civic Platform}};" | '''18.6'''
+|-
+| [https://tvn24.pl/polska/wybory-2025-nowy-sondaz-prezydencki-st8449129 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-05-07" | 6–7 May 2025
+| 1,012
+| 41
+| style="background:#fbcc99;" | '''50'''
+| 9
+| 
+| style="background:{{party color|Civic Platform}};" | '''9'''
+|-
+| [https://www.bankier.pl/wiadomosc/Sondaz-dla-Newsweeka-Coraz-mniejsza-strata-Nawrockiego-8939503.html Opinia24 / "Newsweek"]
+| data-sort-value="2025-05-07" | 5–7 May 2025
+| 1,001
+| 45
+| style="background:#fbcc99;" | '''53'''
+| 2
+| 
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-trzaskowski-zatrzymal-trend-7151718913379008a United Surveys / WP.pl]
+| data-sort-value="2025-04-29" | 28–29 Apr 2025
+| 1,000
+| 39.5
+| style="background:#fbcc99;" | '''53.3'''
+| 7.2
+| 
+| style="background:{{party color|Civic Platform}};" | '''13.8'''
+|-
+| [https://www.wnp.pl/polityka-i-sondaze/sondaze/kto-ma-najwieksze-szanse-na-prezydenture-czolowka-trzyma-sie-mocno,1614.html Pollster / "SE.pl"] 
+| data-sort-value="2025-04-29" | 28–29 Apr 2025
+| 1,007
+| 46
+| style="background:#fbcc99;" | '''54'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://tvn24.pl/fakty-artykuly/nowy-sondaz-kandydat-z-podium-z-najwiekszym-wzrostem-poparcia-st8429401 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-04-24" | Apr 2025
+| –
+| 45
+| style="background:#fbcc99;" | '''51'''
+| 4
+| 
+| style="background:{{party color|Civic Platform}};" | '''6'''
+|-
+| [https://wiadomosci.wp.pl/trzaskowski-lapie-zadyszke-nawrocki-depcze-mu-po-pietach-7148898610174496a United Surveys / WP.pl]
+| data-sort-value="2025-04-19" | 17–19 Apr 2025
+| 1,000
+| 40.2
+| style="background:#fbcc99;" | '''50.5'''
+| 9.3
+| 
+| style="background:{{party color|Civic Platform}};" | '''10.3'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-04-18/miesiac-do-wyborow-najnowszy-sondaz-prezydencki/ IBRiS / Polsat News] 
+| data-sort-value="2025-04-17" | 16–17 Apr 2025
+| 1,000
+| 40.9
+| style="background:#FDDCB8;" | '''48.1'''
+| 5.4
+| 5.6
+| style="background:{{party color|Civic Platform}};" | '''7.2'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/trzaskowski-najblizej-palacu-zobacz-jak-moze-wygladac-druga-tura-wyborow-mamy-najswiezsze-badania-aa-wf7E-MHA4-csFG.html Pollster / “SE.pl”]
+| data-sort-value="2025-04-16" | 15–16 Apr 2025
+| 1,003
+| 45
+| style="background:#fbcc99;" | '''55'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-nowy-sondaz-kandydat-z-podium-traci-najwiecej-st8416526 Opinia24]
+| data-sort-value="2025-04-16" | 14–16 Apr 2025
+| 1,002
+| 41.6
+| style="background:#fbcc99;" | '''52.4'''
+| 6
+| 
+| style="background:{{party color|Civic Platform}};" | '''10.8'''
+|-
+| [https://www.tvp.info/86206905/sondaz-prezydencki-ipsos-dla-1930-i-tvp-info-kto-wejdzie-do-drugiej-tury-wyborow-walka-o-palac-prezydencki IPSOS / TVP Info]
+| data-sort-value="2025-04-16;" | 14–16 Apr 2025
+| 1,000
+| 43
+| style="background:#fbcc99;" | '''50'''
+| 7
+| 
+| style="background:{{party color|Civic Platform}};" | '''7'''
+|-
+| [https://wiadomosci.wp.pl/sensacyjny-sondaz-prezydencki-remis-w-drugiej-turze-7147015049976320a OGB]
+| data-sort-value="2025-04-16;" | 9–14 Apr 2025
+| 1,001
+| 49.3
+| style="background:#fbcc99;" | '''50.7'''
+|
+| 
+| style="background:{{party color|Civic Platform}};" | '''1.4'''
+|-
+| [https://wiadomosci.wp.pl/rafal-trzaskowski-traci-przewage-w-najnowszym-sondazu-prezydenckim-dla-wp-7145694117604320a United Surveys / WP.pl]
+| data-sort-value="2025-04-12" | 12 Apr 2025
+| 1,000
+| 38.0
+| style="background:#fbcc99;" | '''55.7'''
+| 6.3
+| 
+| style="background:{{party color|Civic Platform}};" | '''17.7'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-ten-sam-zwyciezca-w-pierwszej-i-drugiej-turze-najnowszy-sondaz-prezydencki-st8403278 Opinia24 / "Fakty" TVN, TVN24]
+| data-sort-value="2025-04-09" | Apr 2025
+| –
+| 38
+| style="background:#FDDCB8;" | '''44'''
+| 18
+| 
+| style="background:{{party color|Civic Platform}};" | '''6'''
+|-
+| [https://www.pap.pl/aktualnosci/najnowszy-sondaz-kto-wygrywa-w-ii-turze-wyborow CBOS]
+| data-sort-value="2025-04-09;" | 7–9 Apr 2025
+| 1,000
+| 44
+| style="background:#fbcc99;" | '''52'''
+| 4
+| 
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-wyborczy-zwrot-akcji-mentzen-traci-poparcie-sondaz-opinia24-,nId,7947412 Opinia24 / RMF FM]
+| data-sort-value="2025-04-09" | 7–9 Apr 2025
+| 1,000
+| 35.1
+| style="background:#FDDCB8;" | '''42.5'''
+| 10.5
+| 11.9
+| style="background:{{party color|Civic Platform}};" | '''7.4'''
+|-
+| [https://wiadomosci.wp.pl/mamy-najnowszy-sondaz-trzaskowskiemu-rosnie-mentzen-depcze-nawrockiemu-po-pietach-7143571653811136a United Surveys / WP.pl]
+| data-sort-value="2025-04-06 | 4–6 Apr 2025
+| 1,000
+| 33.6
+| style="background:#fbcc99;" | '''56.1'''
+| 10.3
+| 
+| style="background:{{party color|Civic Platform}};" | '''22.5'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/trzaskowski-vs-nawrocki-mentzen-vs-trzaskowski-wiemy-kto-wygrywa-ii-ture Opinia24 / ZET]
+| data-sort-value="2025-04-06 | 2–6 Apr 2025
+| 1,000
+| 42
+| style="background:#fbcc99;" | '''52'''
+| 6
+| 
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/trzaskowski-w-drugiej-turze-wygrywa-z-nawrockim-i-mentzenem-zobacz-najnowszy-sondaz-aa-Cntw-BK2p-SVrD.html Pollster / "SE.pl"]
+| data-sort-value="2025-04-01" | 31 Mar – 1 Apr 2025
+| 1,007
+| 43
+| style="background:#fbcc99;" | '''57'''
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''14'''
+|-
+| [https://wiadomosci.wp.pl/wszyscy-na-podium-traca-jest-najnowszy-sondaz-prezydencki-7138610284968640a United Surveys / WP.pl]
+| data-sort-value="2025-03-23" | 21–23 Mar 2025
+| 1,000
+| 38.9
+| style="background:#fbcc99;" | '''52.2'''
+| 8.9
+| 
+| style="background:{{party color|Civic Platform}};" | '''13.3'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-nowy-sondaz-prezydencki-st8377912 Opinia24]
+| data-sort-value="2025-03-21" | 17–21 Mar 2025
+| 1,000
+| 37.6
+| style="background:#fbcc99;" | '''52.4'''
+| 10.0
+| 
+| style="background:{{party color|Civic Platform}};" | '''14.8'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-03-18/najnowszy-sondaz-prezydencki-dla-polsat-news-zacieta-walka-o-druga-ture/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2025-03-16" | 13–16 Mar 2025
+| 1,000
+| 37.9
+| style="background:#fbcc99;" | '''50.8'''
+| colspan="2" | 11.3
+| style="background:{{party color|Civic Platform}};" | '''12.9'''
+|-
+| [https://www.tvp.info/85596646/najnowszy-sondaz-prezydencki-ipsos-14032025-rafal-trzaskowski-i-karol-nawrocki-sondazowe-wyniki-poparcia IPSOS / TVP Info]
+| data-sort-value="2025-03-13" | 11–13 Mar 2025
+| 1,000
+| 39
+| style="background:#fbcc99;" | '''52'''
+| 8
+| 
+| style="background:{{party color|Civic Platform}};" | '''13'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-mentzen-dogania-nawrockiego-trzaskowski-z-poparciem-koalicja,nId,7931397#crp_state=1 Opinia24 / RMF FM]
+| data-sort-value="2025-03-13" | 10–13 Mar 2025
+| 1,000
+| 36.2
+| style="background:#fbcc99;" | '''52.1'''
+| 11.7
+| 
+| style="background:{{party color|Civic Platform}};" | '''15.9'''
+|-
+| [https://wiadomosci.wp.pl/kto-wygra-wybory-w-wyscigu-liczy-sie-tylko-trzech-kandydatow-7133681984494528a United Surveys / WP.pl]
+| data-sort-value="2025-03-09" | 7–9 Mar 2025
+| 1,000
+| 40.8
+| style="background:#fbcc99;" | '''51.7'''
+| 7.5
+| 
+| style="background:{{party color|Civic Platform}};" | '''10.9'''
+|-
+| [https://www.wprost.pl/kraj/11943568/sondaz-trzaskowski-kontra-nawrocki-i-mentzen-wyniki-ii-tury.html Research Partner / Wprost]
+| data-sort-value="2025-02-24" | 21–24 Feb 2025
+| 1,050
+| 39
+| style="background:#FDDCB8;" | '''48'''
+| 
+| 13.1
+| style="background:{{party color|Civic Platform}};" | '''9'''
+|-
+| [https://wiadomosci.wp.pl/trzaskowski-pierwszy-ale-traci-mentzen-rosnie-w-sile-mamy-nowy-sondaz-7128771222932256a United Surveys / WP.pl]
+| data-sort-value="2025-02-24" | 21–24 Feb 2025
+| 1,000
+| 41.9
+| style="background:#fbcc99;"| '''52.8'''
+| 5.3
+| 
+| style="background:{{party color|Civic Platform}};" | '''10.9'''
+|-
+| [https://wydarzenia.interia.pl/wybory/prezydenckie/news-nowy-sondaz-prezydencki-zestawiono-dwa-badania-zaskakujace-e,nId,21322297 Ipsos / Liberté!]
+| data-sort-value="2025-02-21" | 19–21 Feb 2025
+| 1,000
+| 40
+| style="background:#FDDCB8;" | '''47'''
+| 10
+| 
+| style="background:{{party color|Civic Platform}};" | '''7'''
+|-
+| [https://www.tvp.info/85169943/kto-wygra-wybory-prezydenckie-2025-sondaz-ipsos-luty-2025-rafal-trzaskowski-wygrywa-z-karolem-nawrockim IPSOS / TVP Info]
+| data-sort-value="2025-02-18" | 17–18 Feb 2025
+| 651
+| 40
+| style="background:#FDDCB8;" | '''49'''
+| 10
+| 
+| style="background:{{party color|Civic Platform}};" | '''9'''
+|-
+| [https://wpolsce24.tv/nasze-programy/wiadomosci-wpolsce24/wiadomosci-wpolsce24-pelne-wydanie-z-14-lutego-2025-r,18091 Social Changes / wPolsce24]
+| data-sort-value="2025-02-14" | Feb 2025
+| –
+| 36
+| style="background:#fbcc99;"| '''50'''
+| 10
+| 4
+| style="background:{{party color|Civic Platform}};" | '''14'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-mentzen-mocno-w-gore-liderem-nadal-trzaskowski-sondaz-opinia,nId,7913036#crp_state=1 Opinia24 / RMF FM]
+| data-sort-value="2025-02-13" | 10–13 Feb 2025
+| 1,000
+| 37.3
+| style="background:#fbcc99;"| '''50.6'''
+| 12.1
+| 
+| style="background:{{party color|Civic Platform}};" | '''13.3'''
+|-
+| [https://wiadomosci.wp.pl/jak-zaglosuja-polacy-mamy-najnowszy-sondaz-prezydencki-7123746906409760a United Surveys / WP.pl]
+| data-sort-value="2025-02–09" | 7–9 Feb 2025
+| 1,000
+| 37.3
+| style="background:#fbcc99;"| '''51.3'''
+| 6.3
+| 5.1
+| style="background:{{party color|Civic Platform}};" | '''14.0'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/to-slawomir-mentzen-ma-najwieksze-szanse-z-rafalem-trzaskowskim-w-ii-turze-sondaz-radia-zet Opinia24 / ZET]
+| data-sort-value="2025-01-29" | 23–29 Jan 2025
+| 1,000
+| 44
+| style="background:#fbcc99;"| '''56'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''12'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-wp-sprawa-nie-jest-rozstrzygnieta-7118839195556640a United Surveys / WP.pl]
+| data-sort-value="2025-01-26" | 24–26 Jan 2025
+| 1,000
+| 39.9
+| style="background:#FDDCB8;"| '''49.6'''
+| 10.5
+| 
+| style="background:{{party color|Civic Platform}};" | '''9.7'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-najnowszy-sondaz-opinia24-st8279646 Opinia24]
+| data-sort-value="2025-01-24" | 20–24 Jan 2025
+| 1,000
+| 35.2
+| style="background:#fbcc99;"| '''52.4'''
+| 12.4
+| 
+| style="background:{{party color|Civic Platform}};" | '''17.2'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-nawrocki-przed-trzaskowskim-w-ii-turze-zaskakujace-wyniki-so,nId,7900120 OGB]
+| data-sort-value="2025-01-23" | 21–23 Jan 2025
+| 1,000
+| style="background:#C0DBFC;" | '''50.6'''
+| 49.4
+| 
+| 
+| style="background:{{party color|Law and Justice}}; color:white;" | '''1.2'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-01-20/wyrazna-przewaga-jednego-z-kandydatow-najnowszy-sondaz-dla-wydarzen-polsatu/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2025-01-19" | 16–19 Jan 2025
+| 1,000
+| 37.5
+| style="background:#FDDCB8;"| '''48.2'''
+| 6.4
+| 7.8
+| style="background:{{party color|Civic Platform}};" | '''10.7'''
+|-
+| [https://polityka.se.pl/wiadomosci/holownia-wygrywa-z-nawrockim-a-nawrocki-z-mentzenem-mamy-wyniki-sondazow-dotyczacych-drugiej-tury-wyborow-aa-Y7dT-H6YC-HpzX.html Pollster / "SE.pl"]
+| data-sort-value="2025-01-18" | 17–18 Jan 2025
+| 1,004
+| 46
+| style="background:#fbcc99;"| '''54'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://www.tvp.info/84562741/wybory-prezydenckie-2025-sondaz-dla-1930-i-tvp-info-trzaskowski-przed-nawrockim-kandydaci-glosowanie-termin-sondaz-prezydencki-2025-r IPSOS / TVP Info]
+| data-sort-value="2025-01-16" | 14–16 Jan 2025
+| 1,000
+| 29
+| style="background:#FDDCB8;"| '''42'''
+| 16
+| 9
+| style="background:{{party color|Civic Platform}};" | '''13'''
+|-
+| [https://wiadomosci.wp.pl/przewaga-trzaskowskiego-topnieje-w-oczach-najnowszy-sondaz-wp-7113876328004320a United Surveys / WP.pl]
+| data-sort-value="2025-01-12" | 10–12 Jan 2025
+| 1,000
+| 44.5
+| style="background:#fbcc99;"| '''50.3'''
+| 5.2
+| 
+| style="background:{{party color|Civic Platform}};" | '''5.8'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-tapniecie-w-wynikach-trzaskowskiego-mentzen-rosnie-sondaz-op,nId,7889969#crp_state=1 Opinia24 / RMF FM]
+| data-sort-value="2025-01-09" | 7–9 Jan 2025
+| 1,000
+| 38.7
+| style="background:#FDDCB8;"| '''47.9'''
+| 13.3
+| 
+| style="background:{{party color|Civic Platform}};" | '''9.2'''
+|-
+| [https://wiadomosci.wp.pl/trzaskowski-i-nawrocki-nieznacznie-traca-poparcie-najnowszy-sondaz-prezydencki-7107384768891616a United Surveys / WP.pl]
+| data-sort-value="2024-12-22" | 20–22 Dec 2024
+| 1,000
+| 35.9
+| style="background:#fbcc99;"| '''56.2'''
+| 6.5
+| 1.4
+| style="background:{{party color|Civic Platform}};" | '''20.3'''
+|-
+| [https://www.tvp.info/84117579/wybory-prezydenckie-sondaz-prezydencki-dla-tvp-rafal-trzaskowski-karol-nawrocki-slawomir-mentzen-szymon-holownia-magdalena-biejat-marek-jakubiak-jakie-maja-poparcie IPSOS / TVP Info]
+| data-sort-value="2024-12-18" | 17–18 Dec 2024
+| –
+| 34
+| style="background:#FDDCB8;"| '''42'''
+| 12
+| 12
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-kto-wygra-wybory-prezydenckie-w-polsce-sondaz-opinia24-dla-r,nId,7876021#crp_state=1 Opinia24 / RMF FM]
+| data-sort-value="2024-12-16" | Dec 2024
+| 1,000
+| 34.1
+| style="background:#FDDCB8;"| '''48.9'''
+| 17.0
+| 
+| style="background:{{party color|Civic Platform}};" | '''14.8'''
+|-
+| [https://wiadomosci.wp.pl/karol-nawrocki-goni-rafala-trzaskowskiego-najnowszy-sondaz-7101507539294880a United Surveys / WP.pl]
+| data-sort-value="2024-12-08" | 6–8 Dec 2024
+| 1,000
+| 41.2
+| style="background:#fbcc99;"| '''50.3'''
+| 6.1
+| 2.4
+| style="background:{{party color|Civic Platform}};" | '''9.1'''
+|-
+| [https://polityka.se.pl/wiadomosci/zle-wiesci-dla-pis-karol-nawrocki-przegrywa-wybory-w-drugiej-turze-nawet-z-holownia-aa-QoqL-Wgxj-bDNJ.html Pollster / "SE.pl"]
+| data-sort-value="2024-11-26" | 25–26 Nov 2024
+| 1,015
+| 42
+| style="background:#fbcc99;"| '''58'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''16'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-sondaz-w-pierwszej-turze-zwycieza-trzaskowski-za-nim-nawrocki-w-drugiej-wygrywa-trzaskowski-st8195277 Opinia24 / TVN24]
+| data-sort-value="2024-11-25" | Nov 2024
+| –
+| 41
+| style="background:#fbcc99;"| '''52'''
+| colspan="2" | 7
+| style="background:{{party color|Civic Platform}};" | '''11'''
+|-
+| [https://wiadomosci.wp.pl/rafal-trzaskowski-kontra-karol-nawrocki-mamy-najnowszy-sondaz-prezydencki-7096466150836800a United Surveys / WP.pl]
+| data-sort-value="2024-11-24" | 22–24 Nov 2024
+| 1,000
+| 33.7
+| style="background:#fbcc99;"| '''55.9'''
+| 6.8
+| 3.6
+| style="background:{{party color|Civic Platform}};" | '''22.2'''
+|-
+| [https://www.rp.pl/polityka/art41493911-trzaskowski-z-duza-przewaga-nad-nawrockim-w-ii-turze-wyborow-prezydenckich IBRiS / "Rz"]
+| data-sort-value="2024-11-23" | 22–23 Nov 2024
+| 1,068
+| 26.2
+| style="background:#FDDCB8;"| '''49.7'''
+| 12.3
+| 11.8
+| style="background:{{party color|Civic Platform}};" | '''23.5'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2024-11-12/kto-najblizej-prezydentury-najnowszy-sondaz-dla-wydarzen-polsatu/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2024-11-09" | 7–9 Nov 2024
+| 1,000
+| 36.4
+| style="background:#FDDCB8;"| '''49.99'''
+| 13.8
+| 
+| style="background:{{party color|Civic Platform}};" | '''13.61'''
+|-
+| [https://wiadomosci.wp.pl/trzy-warianty-ii-tury-wyborow-prezydenckich-mamy-wyniki-sondazu-7088708015729376a United Surveys / WP.pl]
+| data-sort-value="2024-10-27" | 25–27 Oct 2024
+| 1,000
+| 37.6
+| style="background:#fbcc99;"| '''55.8'''
+| 6.6
+| 
+| style="background:{{party color|Civic Platform}};" | '''18.2'''
+|}
+
+=== Hypothetical polling ===
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+=== Mentzen v. Trzaskowski ===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Sławomir Mentzen|Mentzen]]<br/>{{small|[[Confederation Liberty and Independence|Confederation]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Abstain
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://www.rmf24.pl/newsamp-nawrocki-coraz-blizej-trzaskowskiego-sondaz-opinia24-dla-rmf,nId,7966146 Opinia24 / RMF FM]
+| data-sort-value="2025-05-14" | 12–14 May 2025
+| 1,003
+| 42.9
+| style="background:#fbcc99;" | '''51.7'''
+| 5.4
+| 
+| style="background:{{party color|Civic Platform}};" | '''8.8'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/sondaz-przed-ii-tura-wyborow-trzaskowski-blisko-wygranej-nawrocki-traci-dystans/fxe495x IBRiS / Onet]
+| data-sort-value="2025-05-13" | 12–13 May 2025
+| 1,072
+| 34.3
+| style="background:#fbcc99;" | '''53.1'''
+| 5.9
+| 6.7
+| style="background:{{party color|Civic Platform}};" | '''18.8'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/karol-nawrocki-poprawia-wynik-wiemy-kto-wygrywa-w-ii-turze-sondaz/4yfpqp5 IBRiS / "RZ"]
+| data-sort-value="2025-05-12" | 11–12 May 2025
+| 1,073
+| 33.3
+| style="background:#fbcc99;" | '''53.5'''
+| colspan="2" | 13.2
+| style="background:{{party color|Civic Platform}};" | '''20.2'''
+|-
+| [https://wiadomosci.onet.pl/wybory/wybory-prezydenckie/najnowszy-sondaz-prezydencki-spadaja-wyniki-dwoch-kandydatow/8dvrgbw IBRiS / Polskie Radio 24]
+| data-sort-value="2025-05-11" | 10–11 May 2025
+| 1,067
+| 31.7
+| style="background:#fbcc99;" | '''55.5'''
+| 6.0
+| 6.8
+| style="background:{{party color|Civic Platform}};" | '''23.8'''
+|-
+| [https://www.wnp.pl/polityka-i-sondaze/sondaze/kto-ma-najwieksze-szanse-na-prezydenture-czolowka-trzyma-sie-mocno,1614.html Pollster / "SE.pl"] 
+| data-sort-value="2025-04-29" | 28–29 Apr 2025
+| 1,007
+| 43
+| style="background:#fbcc99;" | '''57'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''14'''
+|-
+| [https://wiadomosci.wp.pl/trzaskowski-lapie-zadyszke-nawrocki-depcze-mu-po-pietach-7148898610174496a United Surveys / WP.pl]
+| data-sort-value="2025-04-19" | 17–19 Apr 2025
+| 1,000
+| 42.8
+| style="background:#fbcc99;" | '''52.6'''
+| 4.6
+| 
+| style="background:{{party color|Civic Platform}};" | '''9.8'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-04-18/miesiac-do-wyborow-najnowszy-sondaz-prezydencki/ IBRiS / Polsat News] 
+| data-sort-value="2025-04-17" | 16–17 Apr 2025
+| 1,000
+| 34.0
+| style="background:#FDDCB8;" | '''48.6'''
+| colspan="2" | 17.4
+| style="background:{{party color|Civic Platform}};" | '''14.6'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/trzaskowski-najblizej-palacu-zobacz-jak-moze-wygladac-druga-tura-wyborow-mamy-najswiezsze-badania-aa-wf7E-MHA4-csFG.html Pollster / “SE.pl”]
+| data-sort-value="2025-04-16" | 15–16 Apr 2025
+| 1,003
+| 45
+| style="background:#fbcc99;" | '''54'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://wiadomosci.wp.pl/rafal-trzaskowski-traci-przewage-w-najnowszym-sondazu-prezydenckim-dla-wp-7145694117604320a United Surveys / WP.pl]
+| data-sort-value="2025-04-12" | 12 Apr 2025
+| 1,000
+| 33.7
+| style="background:#fbcc99;" | '''56.5'''
+| 9.8
+| 
+| style="background:{{party color|Civic Platform}};" | '''22.8'''
+|-
+| [https://www.pap.pl/aktualnosci/najnowszy-sondaz-kto-wygrywa-w-ii-turze-wyborow CBOS]
+| data-sort-value="2025-04-09;" | 7–9 Apr 2025
+| 1,000
+| 47
+| style="background:#fbcc99;" | '''51'''
+| 3
+|
+| style="background:{{party color|Civic Platform}};" | '''4'''
+|-
+| [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie-2025/news-wyborczy-zwrot-akcji-mentzen-traci-poparcie-sondaz-opinia24-,nId,7947412 Opinia24 / RMF FM]
+| data-sort-value="2025-04-09" | 7–9 Apr 2025
+| 1,000
+| 33.2
+| style="background:#FDDCB8;" | '''43.2'''
+| 9.4
+| 14.2
+| style="background:{{party color|Civic Platform}};" | '''10.0'''
+|-
+| [https://wiadomosci.wp.pl/mamy-najnowszy-sondaz-trzaskowskiemu-rosnie-mentzen-depcze-nawrockiemu-po-pietach-7143571653811136a United Surveys / WP.pl]
+| data-sort-value="2025-04-06 | 4–6 Apr 2025
+| 1,000
+| 38.5
+| style="background:#fbcc99;" | '''52.9'''
+| 8.6
+| 
+| style="background:{{party color|Civic Platform}};" | '''14.4'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/trzaskowski-vs-nawrocki-mentzen-vs-trzaskowski-wiemy-kto-wygrywa-ii-ture Opinia24 / ZET]
+| data-sort-value="2025-04-06" | 2–6 Apr 2025
+| 1,000
+| 43
+| style="background:#fbcc99;" | '''50'''
+| 7
+| 
+| style="background:{{party color|Civic Platform}};" | '''7'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/trzaskowski-w-drugiej-turze-wygrywa-z-nawrockim-i-mentzenem-zobacz-najnowszy-sondaz-aa-Cntw-BK2p-SVrD.html Pollster / "SE.pl"]
+| data-sort-value="2025-04-01" | 31 Mar – 1 Apr 2025
+| 1,007
+| 45
+| style="background:#fbcc99;" | '''55'''
+|
+|
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://wiadomosci.wp.pl/wszyscy-na-podium-traca-jest-najnowszy-sondaz-prezydencki-7138610284968640a United Surveys / WP.pl]
+| data-sort-value="2025-03-23" | 21–23 Mar 2025
+| 1,000
+| 40.8
+| style="background:#fbcc99;" | '''52.6'''
+| 6.6
+| 
+| style="background:{{party color|Civic Platform}};" | '''11.8'''
+|-
+| [https://tvn24.pl/polska/wybory-prezydenckie-2025-nowy-sondaz-prezydencki-st8377912 Opinia24]
+| data-sort-value="2025-03-21" | 17–21 Mar 2025
+| 1,000
+| 42.1
+| style="background:#fbcc99;" | '''50.6'''
+| colspan="2" | 7.3
+| style="background:{{party color|Civic Platform}};" | '''8.5'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2025-03-18/najnowszy-sondaz-prezydencki-dla-polsat-news-zacieta-walka-o-druga-ture/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2025-03-16" | 13–16 Mar 2025
+| 1,000
+| 37.3
+| style="background:#FDDCB8;" | '''47.4'''
+| colspan="2" | 15.3
+| style="background:{{party color|Civic Platform}};" | '''10.1'''
+|-
+| [https://www.wprost.pl/kraj/11943568/sondaz-trzaskowski-kontra-nawrocki-i-mentzen-wyniki-ii-tury.html Research Partner / Wprost]
+| data-sort-value="2025-02-24" | 21-24 Feb 2025
+| 1,050
+| 38.9
+| style="background:#FDDCB8;" | '''46.9'''
+|
+| 14.2
+| style="background:{{party color|Civic Platform}};" | '''8.0'''
+|-
+| [https://wiadomosci.wp.pl/mentzen-ma-szanse-z-trzaskowskim-mamy-sondaz-7130037966473728a SW Research / Wprost]
+| data-sort-value="2025-02-24" | 21–24 Feb 2025
+| 1,000
+| 40.1
+| style="background:#FDDCB8;" | '''46.9'''
+| 7.0
+| 6.0
+| style="background:{{party color|Civic Platform}};" | '''6.8'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/to-slawomir-mentzen-ma-najwieksze-szanse-z-rafalem-trzaskowskim-w-ii-turze-sondaz-radia-zet Opinia24 / ZET]
+| data-sort-value="2025-01-29" | 23–29 Jan 2025
+| 1,000
+| 46
+| style="background:#fbcc99;"| '''54'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''8'''
+|-
+| [https://polityka.se.pl/wiadomosci/holownia-wygrywa-z-nawrockim-a-nawrocki-z-mentzenem-mamy-wyniki-sondazow-dotyczacych-drugiej-tury-wyborow-aa-Y7dT-H6YC-HpzX.html Pollster / "SE.pl"]
+| data-sort-value="2025-01-18" | 17–18 Jan 2025
+| 1,004
+| 43
+| style="background:#fbcc99;"| '''57'''
+| 
+| 
+| style="background:{{party color|Civic Platform}};" | '''14'''
+|}
+
+=== Hołownia v. Mentzen ===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Szymon Hołownia|Hołownia]]<br/>{{small|[[Poland 2050|PL2050]]}}
+! [[Sławomir Mentzen|Mentzen]]<br/>{{small|[[Confederation Liberty and Independence|Confederation]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Poland 2050}};" |
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/to-slawomir-mentzen-ma-najwieksze-szanse-z-rafalem-trzaskowskim-w-ii-turze-sondaz-radia-zet Opinia24 / ZET]
+| data-sort-value="2025-01-29" | 23–29 Jan 2025
+| 1,000
+| style="background:#FCDE83;"| '''54'''
+| 46
+| 
+| style="background:{{party color|Poland 2050}};" | '''8'''
+|}
+
+=== Hołownia v. Nawrocki ===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Szymon Hołownia|Hołownia]]<br/>{{small|[[Poland 2050|PL2050]]}}
+! [[Karol Nawrocki|Nawrocki]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Poland 2050}};" |
+| style="background:{{party color|Law and Justice (Poland)}};" |
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/to-slawomir-mentzen-ma-najwieksze-szanse-z-rafalem-trzaskowskim-w-ii-turze-sondaz-radia-zet Opinia24 / ZET]
+| data-sort-value="2025-01-29" | 23–29 Jan 2025
+| 1,000
+| style="background:#FCDE83;"| '''56'''
+| 44
+| 
+| style="background:{{party color|Poland 2050}};" | '''12'''
+|-
+| [https://polityka.se.pl/wiadomosci/holownia-wygrywa-z-nawrockim-a-nawrocki-z-mentzenem-mamy-wyniki-sondazow-dotyczacych-drugiej-tury-wyborow-aa-Y7dT-H6YC-HpzX.html Pollster / "SE.pl"]
+| data-sort-value="2025-01-18" | 17–18 Jan 2025
+| 1,004
+| style="background:#FCDE83;"| '''54'''
+| 46
+| 
+| style="background:{{party color|Poland 2050}};" | '''8'''
+|-
+| [https://polityka.se.pl/wiadomosci/zle-wiesci-dla-pis-karol-nawrocki-przegrywa-wybory-w-drugiej-turze-nawet-z-holownia-aa-QoqL-Wgxj-bDNJ.html Pollster / "SE.pl"]
+| data-sort-value="2024-11-26" | 25–26 Nov 2024
+| 1,015
+| style="background:#FCDE83;"| '''58'''
+| 42
+| 
+| style="background:{{party color|Poland 2050}};" | '''16'''
+|}
+
+=== Hołownia v. Trzaskowski ===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Szymon Hołownia|Hołownia]]<br/>{{small|[[Poland 2050|PL2050]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Poland 2050}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://www.wnp.pl/polityka-i-sondaze/sondaze/kto-ma-najwieksze-szanse-na-prezydenture-czolowka-trzyma-sie-mocno,1614.html Pollster / "SE.pl"] 
+| data-sort-value="2025-04-29" | 28–29 Apr 2025
+| 1,007
+| 37
+| style="background:#fbcc99;" | '''63'''
+| 
+| style="background:{{party color|Civic Platform}};" | '''26'''
+|-
+| [https://www.se.pl/wybory/prezydenckie/trzaskowski-najblizej-palacu-zobacz-jak-moze-wygladac-druga-tura-wyborow-mamy-najswiezsze-badania-aa-wf7E-MHA4-csFG.html Pollster / “SE.pl”]
+| data-sort-value="2025-04-16" | 15–16 Apr 2025
+| 1,003
+| 38
+| style="background:#fbcc99;" | '''62'''
+| 
+| style="background:{{party color|Civic Platform}};" | '''24'''
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/to-slawomir-mentzen-ma-najwieksze-szanse-z-rafalem-trzaskowskim-w-ii-turze-sondaz-radia-zet Opinia24 / ZET]
+| data-sort-value="2025-01-29" | 23–29 Jan 2025
+| 1,000
+| 35
+| style="background:#fbcc99;"| '''65'''
+| 
+| style="background:{{party color|Civic Platform}};" | '''30'''
+|-
+| [https://polityka.se.pl/wiadomosci/holownia-wygrywa-z-nawrockim-a-nawrocki-z-mentzenem-mamy-wyniki-sondazow-dotyczacych-drugiej-tury-wyborow-aa-Y7dT-H6YC-HpzX.html Pollster / "SE.pl"]
+| data-sort-value="2025-01-18" | 17–18 Jan 2025
+| 1,004
+| 34
+| style="background:#fbcc99;"| '''66'''
+| 
+| style="background:{{party color|Civic Platform}};" | '''32'''
+|-
+| [https://polityka.se.pl/wiadomosci/zle-wiesci-dla-pis-karol-nawrocki-przegrywa-wybory-w-drugiej-turze-nawet-z-holownia-aa-QoqL-Wgxj-bDNJ.html Pollster / "SE.pl"]
+| data-sort-value="2024-11-26" | 25–26 Nov 2024
+| 1,015
+| 33
+| style="background:#fbcc99;"| '''67'''
+| 
+| style="background:{{party color|Civic Platform}};" | '''34'''
+|-
+| [https://wiadomosci.wp.pl/trzy-warianty-ii-tury-wyborow-prezydenckich-mamy-wyniki-sondazu-7088708015729376a United Surveys / WP.pl]
+| data-sort-value="2024-10-27" | 25–27 Oct 2024
+| 1,000
+| 29.5
+| style="background:#fbcc99;"| '''51.6'''
+| 18.9
+| style="background:{{party color|Civic Platform}};" | '''22.1'''
+|}
+
+=== Mentzen v. Nawrocki ===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Sławomir Mentzen|Mentzen]]<br/>{{small|[[Confederation Liberty and Independence|Confederation]]}}
+! [[Karol Nawrocki|Nawrocki]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+| style="background:{{party color|Law and Justice (Poland)}};" |
+|-
+| [https://wiadomosci.radiozet.pl/raporty-specjalne/wybory-prezydenckie-w-polsce-2025/to-slawomir-mentzen-ma-najwieksze-szanse-z-rafalem-trzaskowskim-w-ii-turze-sondaz-radia-zet Opinia24 / ZET]
+| data-sort-value="2025-01-29" | 23–29 Jan 2025
+| 1,000
+| 47
+| style="background:#809fff;"| '''53'''
+| 
+| style="background:{{party color|Law and Justice (Poland)}}; color:white;" | '''6'''
+|-
+| [https://polityka.se.pl/wiadomosci/holownia-wygrywa-z-nawrockim-a-nawrocki-z-mentzenem-mamy-wyniki-sondazow-dotyczacych-drugiej-tury-wyborow-aa-Y7dT-H6YC-HpzX.html Pollster / "SE.pl"]
+| data-sort-value="2025-01-18" | 17–18 Jan 2025
+| 1,004
+| 47
+| style="background:#809fff;"| '''53'''
+| 
+| style="background:{{party color|Law and Justice (Poland)}}; color:white;" | '''6'''
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling with different PiS candidate|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+
+==== Czarnek v. Trzaskowski ====
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Przemysław Czarnek|Czarnek]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://www.polsatnews.pl/wiadomosc/2024-11-12/kto-najblizej-prezydentury-najnowszy-sondaz-dla-wydarzen-polsatu/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2024-11-09" | 7–9 Nov 2024
+| 1,000
+| 35.2
+| style="background:#fbcc99;"| '''50.9'''
+| 15.9
+| style="background:{{party color|Civic Platform}};" | '''15.7'''
+|}
+
+==== Jaki v. Trzaskowski ====
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Patryk Jaki|Jaki]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://dorzeczy.pl/kraj/607914/patryk-jaki-czy-mateusz-morawiecki-ciekawe-wyniki-sondazu.html IPSOS / DoRzeczy.pl]
+| data-sort-value="2024-07-03" | 1–3 Jul 2024
+| 1,000
+| 39
+| style="background:#FDDCB8;"| '''49'''
+| 12
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|}
+
+==== Morawiecki v. Trzaskowski ====
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Mateusz Morawiecki|Morawiecki]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://dorzeczy.pl/kraj/607914/patryk-jaki-czy-mateusz-morawiecki-ciekawe-wyniki-sondazu.html IPSOS / DoRzeczy.pl]
+| data-sort-value="2024-07-03" | 1–3 Jul 2024
+| 1,000
+| 38
+| style="background:#FDDCB8;"| '''48'''
+| 14
+| style="background:{{party color|Civic Platform}};" | '''10'''
+|-
+| [https://polityka.se.pl/wiadomosci/trzaskowski-miazdzy-rywali-mamy-najnowszy-sondaz-dotyczacy-wyborow-prezydenckich-aa-V4Fm-7rar-R3UR.html Pollster]
+| data-sort-value="2024-06-15" | 15 Jun 2024
+| –
+| 38
+| style="background:#fbcc99;"| '''62'''
+| 
+| style="background:{{party color|Civic Platform}};" | '''24'''
+|}
+
+==== PiS candidate v. Trzaskowski ====
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! <br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://wiadomosci.wp.pl/rafal-trzaskowski-kontra-radoslaw-sikorski-mamy-najnowszy-sondaz-prezydencki-7095048000330304a United Surveys / WP.pl]
+| data-sort-value="2024-11-21" | 21 Nov 2024
+| 1,000
+| 39.2
+| style="background:#fbcc99;"| '''58.5'''
+| 2.3
+| style="background:{{party color|Civic Platform}};" | '''19.3'''
+|-
+| [https://wiadomosci.wp.pl/sondaze-rozgrzewaja-koalicje-znamy-szczegoly-badania-zamowionego-przez-ko-7086597190798016a IPSOS / PO]
+| data-sort-value="2024-07-03" | 3 Jul 2024
+| –
+| 36
+| style="background:#fbcc99;"| '''53'''
+| 8
+| style="background:{{party color|Civic Platform}};" | '''17'''
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling with Radosław Sikorski as KO candidate|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+
+==== Nawrocki v. Sikorski ====
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Karol Nawrocki|Nawrocki]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Radosław Sikorski|Sikorski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://www.polsatnews.pl/wiadomosc/2024-11-12/kto-najblizej-prezydentury-najnowszy-sondaz-dla-wydarzen-polsatu/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2024-11-09" | 7–9 Nov 2024
+| 1,000
+| 36.3
+| style="background:#FDDCB8;"| '''46.7'''
+| 16.9
+| style="background:{{party color|Civic Platform}};" | '''10.4'''
+|-
+| [https://wiadomosci.wp.pl/trzy-warianty-ii-tury-wyborow-prezydenckich-mamy-wyniki-sondazu-7088708015729376a United Surveys / WP.pl]
+| data-sort-value="2024-10-27" | 25–27 Oct 2024
+| 1,000
+| 38.3
+| style="background:#fbcc99;"| '''54.1'''
+| 7.6
+| style="background:{{party color|Civic Platform}};" | '''15.8'''
+|}
+
+==== Czarnek v. Sikorski ====
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Przemysław Czarnek|Czarnek]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Radosław Sikorski|Sikorski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://www.polsatnews.pl/wiadomosc/2024-11-12/kto-najblizej-prezydentury-najnowszy-sondaz-dla-wydarzen-polsatu/ IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2024-11-09" | 7–9 Nov 2024
+| 1,000
+| 35.3
+| style="background:#FDDCB8;"| '''46.5'''
+| 18.3
+| style="background:{{party color|Civic Platform}};" | '''11.2'''
+|}
+
+==== PiS candidate v. Sikorski ====
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! <br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Radosław Sikorski|Sikorski]]<br/>{{small|[[Civic Platform|PO]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+|-
+| [https://wiadomosci.wp.pl/rafal-trzaskowski-kontra-radoslaw-sikorski-mamy-najnowszy-sondaz-prezydencki-7095048000330304a United Surveys / WP.pl]
+| data-sort-value="2024-11-21" | 21 Nov 2024
+| 1,000
+| 42.4
+| style="background:#fbcc99;"| '''54.9'''
+| 2.7
+| style="background:{{party color|Civic Platform}};" | '''12.5'''
+|}
+{{hidden end}}
+
+==Campaign policy proposal polls==
+
+=== Proposed restriction on the 800+ programme for Ukrainian immigrants===
+{| class="wikitable collapsible sortable" style="text-align:center; font-size:85%; line-height:14px"
+|-
+! style="width:125px;" rowspan="2"| Date(s)<br>conducted
+! rowspan="2" style="width:180px;" | Polling firm/Link
+! style="width:60px;" rowspan="2"| Sample size
+! class="unsortable" style="width:80px;"| Approve
+! class="unsortable" style="width:80px;"| Disapprove
+! class="unsortable" style="width:80px;" rowspan="2"| Don't know/Neutral
+! class="unsortable" style="width:20px;" rowspan="2"| Net approval
+|-
+! class="unsortable" style="background:green;width:60px;"|
+! class="unsortable" style="background:red;width:60px;"|
+|-
+| data-sort-value="2025-01-25" | 24-25 Jan 2025
+| IBRiS / “[[Rzeczpospolita (newspaper)|Rzeczpospolita]]”<ref>{{cite news |title=Trzaskowski postuluje ograniczenia w 800 plus dla Ukraińców. Oto co sądzą Polacy [SONDAŻ] |date={{date|2025-01-28|DMY}} |url=https://businessinsider.com.pl/wiadomosci/trzaskowski-postuluje-ograniczenie-800-plus-dla-ukraincow-oto-co-sadza-polacy-sondaz/3bywrty |url-status=live |archive-url=https://web.archive.org/web/20250129003258/https://businessinsider.com.pl/wiadomosci/trzaskowski-postuluje-ograniczenie-800-plus-dla-ukraincow-oto-co-sadza-polacy-sondaz/3bywrty |archive-date={{date|2025-01-29|DMY}} |access-date={{date|2025-01-29|DMY}} |work=[[Business Insider|BUSINESS INSIDER]] |trans-title=Trzaskowski calls for restrictions on 800 plus for Ukrainians. Here's what Poles think [POLL] |language=pl |agency=[[Polish Press Agency|Polska Agencja Prasowa]]}}</ref>
+| 1,071
+| {{yes|'''88'''}}
+| 8.8
+| 5.6
+| style="background:green;color:white;" | '''79.2'''
+|}
+
+=== Proposal of sending Polish soldiers to Ukraine===
+{| class="wikitable collapsible sortable" style="text-align:center; font-size:85%; line-height:14px"
+|-
+! style="width:125px;" rowspan="2"| Date(s)<br>conducted
+! rowspan="2" style="width:180px;" | Polling firm/Link
+! style="width:60px;" rowspan="2"| Sample size
+! class="unsortable" style="width:80px;"| Approve
+! class="unsortable" style="width:80px;"| Disapprove
+! class="unsortable" style="width:80px;" rowspan="2"| Don't know/Neutral
+! class="unsortable" style="width:20px;" rowspan="2"| Net approval
+|-
+! class="unsortable" style="background:green;width:60px;"|
+! class="unsortable" style="background:red;width:60px;"|
+|-
+| data-sort-value="2025-03-09" | 7–9 Mar 2025
+| Pollster / "[[Super Express (newspaper)|SE.pl]]"<ref>{{cite news |title=Polscy żołnierze na Ukrainie? Najnowszy sondaż nie pozostawia złudzeń |last1=Sieńkowski |first1=Dawid |date={{date|2025-03-26|DMY}} |url=https://dorzeczy.pl/sondaz/707202/polscy-zolnierze-na-ukrainie-sondaz-nie-pozostawia-zludzen.html |url-status=live |archive-url=https://web.archive.org/web/20250326075941/https://dorzeczy.pl/sondaz/707202/polscy-zolnierze-na-ukrainie-sondaz-nie-pozostawia-zludzen.html |archive-date={{date|2025-03-26|DMY}} |access-date={{date|2025-03-26|DMY}} |work=[[Do Rzeczy]] |trans-title=Polish soldiers in Ukraine? The latest poll leaves no illusions |language=pl}}</ref>
+| 1,015
+| 26
+| {{no|'''62'''}}
+| 12
+| style="background:red;color:white;" | '''-36'''
+|}
+
+== See also ==
+* [[2025 Polish presidential election]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://ewybory.eu/wybory-prezydenckie-2025-polska/sondaze-prezydenckie/ ewybory.eu {{mdash}} List of all polls]
+* [https://www.wnp.pl/polityka-i-sondaze/sondaze/ wnp.pl {{mdash}} List of all polls]
+
+{{Future opinion polling}}
+{{Opinion polling for Polish elections|state=expanded}}
+
+[[Category:Opinion polling in Poland|2025]]

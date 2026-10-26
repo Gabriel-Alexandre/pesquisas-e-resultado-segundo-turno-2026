@@ -1,0 +1,2085 @@
+Encuestas de intención de voto respecto de las [[elecciones presidenciales de Argentina de 2015]].
+
+Tanto para las elecciones primarias como para las generales se han realizado numerosas encuestas de intención de voto:
+
+== Gráfico ==
+=== Promedio por mes ===
+[[File:Encuestas de intencion de voto presidenciales Argentina 2015.jpg|thumb|left|1000px|Evolución de estimaciones de voto en Argentina desde abril de 2014 hasta noviembre de 2015.]]
+{{clear}}
+=== Todas las encuestas ===
+
+{{gráfico
+|width=1000
+|height=500
+|xAxisTitle=Fecha
+|yAxisTitle=Porcentaje
+|legend=Candidatos
+|showSymbols=1
+|interpolate=bundle
+|type=line
+|xType=date
+|yAxisMin=0
+|xGrid=1
+|yGrid=1
+|vannotatonslabel=Definición de candidatos, Primarias, Generales
+|vannotatonsline=2015/06/20, 2015/08/09, 2015/10/27
+|x= 2014/04/29, 2014/06/10, 2014/06/10, 2014/07/27, 2014/08/13, 2014/09/27, 2014/10/09, 2014/10/09, 2014/10/09, 2014/10/09, 2014/10/09, 2014/10/27, 2014/12/28, 2014/12/28, 2014/12/28, 2014/12/28, 2014/12/28, 2014/12/28, 2015/02/01, 2015/02/03, 2015/02/08, 2015/02/24, 2015/02/24, 2015/02/17, 2015/02/22, 2015/03/16, 2015/03/17, 2015/03/20, 2015/03/21, 2015/03/21, 2015/03/21, 2015/03/24, 2015/03/27, 2015/03/27, 2015/03/27, 2015/03/28, 2015/03/28, 2015/03/29, 2015/04/17, 2015/04/19, 2015/04/19, 2015/05/08, 2015/05/14, 2015/05/28, 2015/06/03, 2015/06/05, 2015/06/17, 2015/06/17, 2015/06/22, 2015/06/25, 2015/06/29, 2015/06/29, 2015/07/02, 2015/07/07, 2015/07/10, 2015/07/10, 2015/07/10, 2015/07/17, 2015/07/17, 2015/07/22, 2015/07/31, 2015/08/02, 2015/08/04, 2015/08/04, 2015/08/07, 2015/08/07, 2015/08/07, 2015/08/18, 2015/08/18, 2015/08/30, 2015/08/30, 2015/09/09, 2015/09/19, 2015/09/19, 2015/09/20, 2015/09/20, 2015/09/21, 2015/09/21, 2015/09/25, 2015/10/02, 2015/10/04, 2015/10/04, 2015/10/04, 2015/10/05, 2015/10/06, 2015/10/07, 2015/10/07, 2015/10/09, 2015/10/10, 2015/10/13, 2015/10/13, 2015/10/14, 2015/10/15, 2015/10/16, 2015/10/17, 2015/10/17, 2015/10/18, 2015/10/21, 2015/10/28, 2015/10/28, 2015/10/29, 2015/10/30, 2015/11/01, 2015/11/01, 2015/11/05, 2015/11/06, 2015/11/07, 2015/11/08, 2015/11/08, 2015/11/10, 2015/11/10, 2015/11/11, 2015/11/12, 2015/11/13, 2015/11/13, 2015/11/13, 2015/11/14, 2015/11/16, 2015/11/18, 2015/11/18, 2015/11/19
+|y1Title=M. Macri |y1= 15.92, 13.64, 17.49, 23.4, 21, 28.4, 18.8, 19, 23.64, 22.6, 21.5, 24.4, 21.3, 23.7, 21.2, 24.8, 22, 21.2, 20.7, 27.9, 23.1, 20.7, 23.2, 23.1, 28, 35.8, 31.2, 30.3, 28.8, 22, 25, 25.3, 26.4, 24, 22, 23.9, 27.2, 27.6, 25, 24.5, 27.3, 28.9, 26.1, 26.8, 23.8, 24, 19, 21, 33.1, 22.3, 26.9, 26.9, 27, 25.5, 24.8, 27.8, 31, 26.5, 30.1, 33.1, 26.6, 26.1, 27, 26.6, 26, 26.2, 24.8, 32.9, 32.5, 28.6, 31.2, 29.4, 27.5, 26.7, 25.1, 28.1, 29.5, 31.1, 29.2, 27.5, 30.9, 27.9, 30.5, 30, 25.3, 26.2, 28.8, 30.5, 25.8, 29.2, 25.1, 26.8, 28.2, 26.9, 27.9, 28.7, 26.3, 29.2, 45.6, 50, 47.8, 50.3, 46.7, 51.2, 51.8, 51.6, 44.2, 40.24, 45.72, 48.7, 54, 43.56, 52, 51.2, 49, 53.8, 42.55, 47.02, 47, 54.4, 56.1
+|y2Title=D. Scioli |y2= 17.95, 11.04, 17.57, 22.9, 22, 19.4, 20.1, 22, 23.67, 24.7, 23.1, 26.1, 23.6, 24.7, 26, 26.7, 30, 27.1, 18.7, 23.6, 25.1, 21.3, 27.9, 22.7, 26, 30.7, 19, 36.4, 29.5, 25, 31, 21.8, 23.1, 30, 33, 13.2, 21.6, 31, 36, 24.5, 33.4, 32.4, 32, 37.4, 27.2, 30, 29, 34, 40.8, 37, 35, 35.1, 36.9, 39.1, 36.7, 39.4, 41.3, 31.3, 38.9, 37.8, 35.9, 37.6, 36.1, 36.7, 35.9, 37.9, 37.4, 39.8, 40.2, 38.3, 39.3, 40.6, 39.8, 37.9, 32.5, 42.6, 40.8, 41.2, 41.6, 37.2, 39.4, 38.6, 41.3, 41, 35.4, 37.1, 38.4, 41.3, 40.9, 38.3, 34.3, 39.9, 42, 39.1, 38.8, 40.3, 37.9, 40.1, 41.5, 45.5, 37.2, 39.7, 39.4, 39.9, 43.6, 40.3, 40.4, 47.04, 54.28, 40.2, 46, 41.79, 43.7, 41.1, 42.1, 46.2, 45.55, 45.98, 39.3, 45.6, 43.6
+|y3Title=S. Massa |y3= 24.77, 16.77, 23.25, 28.6, 21, 19.4, 25.6, 15.6, 28.81, 29.3, 22.3, 22.9, 26.1, 17.2, 22.7, 20.4, 31, 29, 28, 18.8, 30.8, 25.7, 28.3, 27.9, 24, 15.6, 15.4, 22.1, 14.6, 19, 21, 20.8, 24.2, 25, 24, 19.6, 21.4, 25, 12, 17.6, 20.1, 16.8, 20.2, 24.5, 17.2, 14, 17, 20, 18, 16.3, 9.8, 9.8, 12.1, 12.3, 14.6, 16.3, 12.5, 14, 16.2, 14.8, 15.4, 13.5, 12, 14.1, 13.6, 14.9, 13.4, 17, 17, 16.3, 18.3, 18.1, 23.1, 24.2, 13.4, 19, 20.1, 19.9, 20.2, 22.5, 18.5, 21.5, 20.6, 20, 26.3, 20.1, 20.5, 20.6, 23.3, 21, 17.1, 23.9, 22.9, 20.2, 22.6, 20.1, 20.4, 21.6, , , , , , , , , , , , , , , , , , , , , , , 
+|colors=gold,#009CDE,#3C3C3C
+}}
+
+== Después de definición de candidatos ==
+=== Segunda vuelta ===
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|-
+!rowspan=2|Fecha
+!rowspan=2|Encuestadora
+![[Daniel Scioli|Scioli]]<br/>{{small|[[Frente para la Victoria|FPV]]}}
+![[Mauricio Macri|Macri]]<br/>{{small|[[Cambiemos]]}}
+![[Sergio Massa|Massa]]<br/>{{small|[[Unidos por una Nueva Alternativa|UNA]]}}
+!rowspan=2|Blanco
+!rowspan=2|Indecisos
+|-
+| bgcolor={{Color político|Frente para la Victoria}}|
+| bgcolor={{Color político|Cambiemos}}|
+| bgcolor={{Color político|Unidos por una Nueva Alternativa}}|
+|-
+| colspan=10 style="background:#A0A0A0"|
+|- style="background:#EFEFEF;"
+|'''22 de noviembre de 2015'''
+|'''Segunda Vuelta'''
+|48,66
+|bgcolor=khaki|'''51,34'''
+| —
+| 2,46
+| —
+|-
+| colspan=10 style="background:#A0A0A0"|
+|-
+| 19 de noviembre de 2015
+| González y Valladares<ref name="Perfil1911">{{cita web|url= http://www.perfil.com/politica/Lanata-divulgo-las-ultimas-encuestas-y-todas-muestran-a-un-claro-ganador-20151119-0051.html|título= Lanata divulgó las últimas encuestas y todas muestran a un claro ganador|sitioweb= Perfil |fecha= 19 de noviembre de 2015}}</ref>
+| 43,6
+| bgcolor=khaki|'''56,1'''
+| —
+| —
+| —
+|-
+| rowspan=2|18 de noviembre de 2015
+| rowspan=2|Elypsis<ref name="bloomberg181115">{{cita noticia |título= Poll That Called Argentina First Round Sees Macri Runoff Victory |url= http://www.bloomberg.com/news/articles/2015-11-18/poll-that-called-argentina-first-round-sees-macri-runoff-victory |periódico= Bloomberg |fecha= 18 de noviembre de 2015 }}</ref>
+| 39,3
+| bgcolor=khaki|'''47'''
+| —
+| —
+| 11
+|-
+| 45,6
+| bgcolor=khaki|'''54,4'''
+| —
+| —
+| —
+|-
+| 10 al 16 de noviembre de 2015
+| Quorus<ref name="diagonales181115">{{Cita noticia |título=Una encuesta da empate técnico para el balotaje |url=https://www.treslineas.com.ar/encuesta-empate-tecnico-para-balotaje-n-1344049.html |fecha=19 de noviembre de 2015 |periódico=Tres Líneas}}</ref>
+| 45,98
+| bgcolor=khaki|'''47,02'''
+| —
+| 7
+| —
+|-
+| 14 de noviembre de 2015
+| [[Universidad Nacional de General San Martín|Universidad Nacional de San Martín]]<ref name="mañana151113">{{cita noticia |título=ENCUESTA UNSAM SOBRE INTENCIÓN DE VOTO |url=http://noticias.unsam.edu.ar/2015/11/14/encuesta-unsam-sobre-intencion-de-voto/ |periódico= Noticias UNSAM |fecha= 14 de noviembre de 2015 }}</ref>
+| bgcolor=lightblue|'''45,55'''
+| 42,55
+| —
+| 4,6
+| 7,41
+|-
+| rowspan=2|31 de octubre al 13 de noviembre de 2015
+| rowspan=2|Giacobbe & Asociados<ref name="reuters14112015">{{cita noticia |título= Opositor Macri lidera intención de voto para balotaje presidencial en Argentina: encuestas |url= http://lta.reuters.com/article/topNews/idLTAKCN0T30UL20151115 |agencia= Reuters|fecha= 14 de noviembre de 2015}}</ref>
+| 42,1
+| bgcolor=khaki|'''49'''
+| —
+| —
+| —
+|-
+| 46,2
+| bgcolor=khaki|'''53,8'''
+| —
+| —
+| —
+|-
+| rowspan=2|12 al 13 de noviembre de 2015
+| rowspan=2|González y Valladares<ref name="elintransigente14112015">{{Cita web |url=http://www.elintransigente.com/argentina/2015/11/14/ballottage-encuesta-sobre-intencion-voto-puntos-ventaja-mauricio-macri-sobre-daniel-scioli-352865.html |título=Ballottage: encuesta sobre intención de voto le da 10 puntos de ventaja a Mauricio Macri sobre Daniel Scioli |fecha=14 de noviembre de 2015 |sitioweb=El Intransigente |urlarchivo=http://www.elintransigente.com/argentina/2015/11/14/ballottage-encuesta-sobre-intencion-voto-puntos-ventaja-mauricio-macri-sobre-daniel-scioli-352865.html |fechaarchivo=16 de noviembre de 2015}}</ref>
+| 41,1
+| bgcolor=khaki|'''51,2'''
+| —
+| 3,2
+| 4,5
+|-
+| 44,5
+| bgcolor=khaki|'''55,5'''
+| —
+| —
+| —
+|-
+| 9 al 12 de noviembre de 2015
+| Management & Fit<ref name="Clarin13112015">{{cita noticia |título= En el tramo final, Macri consolidó su ventaja sobre Scioli |url= http://www.clarin.com/politica/Elecciones_2015-Daniel_Scioli-Mauricio_Macri-encuesta-intencion_de_voto-balotaje_0_1466853967.html |periódico= Clarín |fecha= 13 de noviembre de 2015 }}</ref>
+| 43,7
+| bgcolor=khaki|'''52'''
+| —
+| 4,3
+| —
+|-
+| 10 al 11 de noviembre de 2015
+| FUNDITRA<ref name="cronista151112"/>
+| 41,79
+| bgcolor=khaki|'''43,56'''
+| —
+| 4,96
+| 9,69
+|-
+| 10 de noviembre de 2015
+| Raúl Aragón & Asociados<ref name="cronista151110">{{cita noticia |título= Encuesta: Macri le lleva 8 puntos a Scioli, pero el debate puede cambiar los números |url= http://www.cronista.com/elecciones2015/Encuesta-Macri-le-lleva-8-puntos-a-Scioli-pero-el-debate-puede-cambiar-los-numeros-20151110-0090.html|periódico= El Cronista |fecha= 10 de noviembre de 2015}}</ref>
+| 46
+| bgcolor=khaki|'''54'''
+| —
+| —
+| —
+|-
+| 9 al 10 de noviembre de 2015
+| Poliarquía<ref name="LaNacion11112015">{{cita noticia |título= Macri consolida su ventaja sobre Scioli en la recta final hacia el ballottage |url= http://www.lanacion.com.ar/1844379-macri-consolida-su-ventaja-sobre-scioli-en-la-recta-final-hacia-el-ballottage |periódico= La Nación |fecha= 11 de noviembre de 2015 }}</ref>
+| 40,2
+| bgcolor=khaki|'''48,7'''
+| —
+| 4,7
+| 6,4
+|-
+| rowspan=2|27 de octubre al 8 de noviembre de 2015
+| rowspan=2|[[Universidad Nacional de General San Martín|Universidad Nacional de San Martín]]<ref name="cronista151112">{{cita noticia |título= Seis encuestas: tres ven una clara ventaja de Macri, pero otras tres ilusionan al sciolismo |url= http://www.cronista.com/elecciones2015/Seis-encuestas-tres-ven-una-clara-ventaja-de-Macri-pero-otras-tres-ilusionan-al-sciolismo-20151112-0089.html |periódico= El Cronista |fecha= 12 de noviembre de 2015}}</ref>
+| bgcolor=lightblue|'''47,04'''
+| 40,24
+| —
+| —
+| —
+|-
+| bgcolor=lightblue|'''54,28'''
+| 45,72
+| —
+| —
+| —
+|-
+| rowspan=2|4 al 7 de noviembre de 2015
+| rowspan=2|Hugo Haime y Asociados<ref name="Pagina151111"/><ref name="cronista151112"/>
+| 40,4
+| bgcolor=khaki|'''44,2'''
+| —
+| 4,3
+| 11,1
+|-
+| 43,8
+| bgcolor=khaki|'''49,2'''
+| —
+| —
+| —
+|-
+| rowspan=2|5 al 6 de noviembre de 2015
+| rowspan=2|González y Valladares<ref name="cronista151109">{{cita noticia |título= Encuesta: para González y Valladares gana Macri por doce puntos, 56% a 44% |url= http://www.cronista.com/elecciones2015/Encuesta-para-Gonzalez-y-Valladares-gana-Macri-por-doce-puntos-56-a-44-20151109-0097.html |periódico= El Cronista |fecha= 9 de noviembre de 2015 }}</ref>
+| 40,3
+| bgcolor=khaki|'''51,6'''
+| —
+| 3,8
+| 4,3
+|-
+| 43,9
+| bgcolor=khaki|'''56,1'''
+| —
+| —
+| —
+|-
+| 1 al 5 de noviembre de 2015
+| Management & Fit<ref name="Clarin151108">{{cita noticia |título= Encuesta: a dos semanas del balotaje, Macri le saca ventaja a Scioli |url= http://www.clarin.com/politica/Elecciones_2015-Mauricio_Macri-Daniel_Scioli-encuesta-balotaje_0_1463853605.html |periódico= Clarín |fecha= 8 de noviembre de 2015 }}</ref>
+| 43,6
+| bgcolor=khaki|'''51,8'''
+| —
+| 4,5
+| —
+|-
+| 31 de octubre al 1 de noviembre de 2015
+| Ipsos<ref name="Clarin151109">{{cita noticia |título= Las últimas encuestas para el balotaje: Macri 3 vs. Scioli 0 |url= http://www.clarin.com/politica/Elecciones_2015-Mauricio_Macri-Daniel_Scioli-encuestas_0_1464453808.html |periódico= Clarín|fecha= 9 de noviembre de 2015 }}</ref>
+| 39,9
+| bgcolor=khaki|'''51,2'''
+| —
+| 2,5
+| 5,4
+|-
+| 1 de noviembre de 2015
+| Hugo Haime y Asociados<ref name="Pagina151111">{{cita noticia |título= Se achica la distancia |url= http://www.pagina12.com.ar/diario/elpais/1-285909-2015-11-11.html |periódico= Página/12 |fecha= 11 de noviembre de 2015 }}</ref>
+| 39,4
+| bgcolor=khaki|'''46,7'''
+| —
+| 3,8
+| 10,1
+|-
+|rowspan=2|28 al 30 de octubre de 2015
+|rowspan=2|Polldata<ref name="Cronista151031">{{cita noticia |título= Nueva encuesta da ventaja a Macri de 10 puntos sobre Scioli |url= http://www.cronista.com/elecciones2015/Nueva-encuesta-da-ventaja-a-Macri-de-10-puntos-sobre-Scioli-20151031-0014.html |periódico= El Cronista |fecha= 31 de octubre de 2015}}</ref><ref name="Perfil0311">{{cita web|url= http://www.perfil.com/politica/Nueva-encuesta-da-ganador-a-Macri-sobre-Scioli-20151103-0052.html|título= Nueva encuesta da ganador a Macri sobre Scioli |periódico= Perfil |fecha= 3 de noviembre de 2015}}</ref>
+| 39,7
+| bgcolor=khaki|'''50,3'''
+| —
+| 5,7
+| 4,3
+|-
+| 44,1
+| bgcolor=khaki|'''55,9'''
+| —
+| —
+| —
+|-
+|rowspan=2|29 de octubre de 2015
+|rowspan=2|Elypsis<ref name="El Cronista">{{Cita web |url=http://www.cronista.com/elecciones2015/Una-nueva-encuesta-da-ventaja-a-Macri-y-muestra-como-se-reparten-los-votantes-de-Massa-20151028-0104.html |título=Una nueva encuesta da ventaja a Macri y muestra cómo se reparten los votantes de Massa |fecha=28 de octubre de 2015 |sitioweb=El Cronista}}</ref>
+| 37,2
+| bgcolor=khaki|'''47,8'''
+| —
+| 5,5
+| 9,5
+|-
+| 43,7
+| bgcolor=khaki|'''56,3'''
+| —
+| —
+| —
+|-
+|rowspan=2|28 de octubre de 2015
+|rowspan=2|González y Valladares<ref name="Perfil2710">{{cita web|url= http://www.perfil.com/politica/La-primera-encuesta-da-ganador-a-Macri-sobre-Scioli-20151027-0057.html|título= La primera encuesta da ganador a Macri sobre Scioli|sitioweb= Perfil |fecha= 28 de octubre de 2015}}</ref>
+| 41,5
+| bgcolor=khaki|'''45,6'''
+| —
+| —
+| —
+|-
+| 45,5
+| bgcolor=khaki|'''50'''
+| —
+| —
+| —
+|-
+| colspan=7 style="background:#A0A0A0"|
+|- style="background:#EFEFEF;"
+|'''25 de octubre de 2015'''
+|'''Elecciones Generales'''
+|bgcolor=lightblue|'''37,08'''
+|bgcolor=khaki|'''34,15'''
+|21,39
+|3,32
+| —
+|-
+| colspan=7 style="background:#A0A0A0"|
+|-
+|21 de septiembre al 4 de octubre de 2015
+|Elypsis<ref name="destape1009">{{cita noticia |título= Encuestas 2015: Una consultora de buenos vínculos con el PRO asegura que gana Scioli |url= http://www.eldestapeweb.com/encuestas-2015-una-consultora-buenos-vinculos-el-pro-asegura-que-gana-scioli-n10935 |sitioweb= El Destape Web |fecha= 9 de octubre de 2015}}</ref>
+| bgcolor=lightblue|'''52,5'''
+| 47,5
+| —
+| —
+| —
+|-
+| rowspan=2|28 de septiembre al 2 de octubre de 2015
+| rowspan=2|Polldata<ref name="cronista1003">{{cita web|url= http://www.cronista.com/elecciones2015/Nueva-encuesta-vaticina-un-ballotage-de-resultado-incierto-20151003-0009.html |título= Nueva encuesta vaticina un ballotage de resultado incierto |sitioweb= El Cronista |fecha= 3 de octubre de 2015}}</ref>
+| bgcolor=lightblue|'''42,2'''
+| 40,3
+| —
+| —
+| —
+|-
+| 36,9
+| —
+| bgcolor=Silver|'''43,9'''
+| —
+| —
+|-
+|24 de septiembre de 2015
+|Elypsis<ref name="apertura0924" />
+| bgcolor=lightblue|'''52,7'''
+| 47,3
+| —
+| —
+| —
+|-
+| rowspan=2|20 de septiembre de 2015
+| rowspan=2| Ipsos-Mora y Araujo<ref name="infobae0920">{{cita web|url= http://www.infobae.com/2015/09/20/1756695-encuesta-sergio-massa-le-ganaria-el-ballottage-daniel-scioli-pero-mauricio-macri-no |título= Encuesta: Sergio Massa le ganaría el ballottage a Daniel Scioli, pero Mauricio Macri no |sitioweb= Infobae |fecha= 20 de septiembre de 2015}}</ref>
+| bgcolor=lightblue|'''47,1'''
+| 42,3
+| —
+| 4,4
+| 4,5
+|-
+| 43,4
+| —
+| bgcolor=Silver|'''44,6'''
+| 4,8
+| 4,5
+|-
+|7 al 20 de septiembre de 2015
+|Elypsis<ref name="destape1009"/>
+| bgcolor=lightblue|'''54,6'''
+| 45,4
+| —
+| —
+| —
+|-
+| rowspan=2|16 al 19 de septiembre de 2015
+| rowspan=2|González y Valladares<ref name="capital0922">{{cita web|url= https://www.lacapital.com.ar/politica/encuesta-anticipa-ballotage-y-dice-que-massa-corre-ventaja-vencer-scioli-n468948.html |título= Encuesta anticipa ballotage y dice que Massa corre con ventaja para vencer a Scioli |sitioweb= La Capital |fecha= 22 de septiembre de 2015}}</ref>
+| bgcolor=lightblue|'''51,2'''
+| 48,8
+| —
+| —
+| —
+|-
+| 46,8
+| —
+| bgcolor=Silver|'''53,2'''
+| —
+| —
+|-
+|24 de agosto al 6 de septiembre de 2015
+|Elypsis<ref name="destape1009"/>
+| bgcolor=lightblue|'''50,9'''
+| 49,1
+| —
+| —
+| —
+|-
+| colspan=7 style="background:#A0A0A0"|
+|- style="background:#EFEFEF;"
+|'''9 de agosto de 2015'''
+|'''Elecciones Primarias'''
+| bgcolor=lightblue|'''38,67'''
+| bgcolor=khaki|'''24,49'''
+| bgcolor=silver|'''14,33'''
+|6,12
+| —
+|-
+| colspan=7 style="background:#A0A0A0"|
+|-
+| 2 al 10 de julio de 2015
+| Hugo Haime & Asociados<ref name="Un sondeo para el FpV"/>
+| bgcolor=lightblue|'''50,7'''
+| 40,9
+| —
+| —
+| —
+|-
+| rowspan=3|20 al 28 de marzo de 2015
+| rowspan=3|Raúl Aragón & Asociados<ref name="Por primera vez Macri gana"/>
+| 40,4
+| —
+| bgcolor=silver|'''43,5'''
+| 10,7
+| 5,4
+|-
+| 40,4
+| bgcolor=khaki|'''45,1'''
+| —
+| 8,9
+| 5
+|-
+| —
+| bgcolor=khaki|'''41,6'''
+| 39,6
+| 14,2
+| 4,6
+|-
+| rowspan=2|21 de marzo de 2015
+| rowspan=2|Poliarquía<ref name="Scioli lidera la intención de voto"/>
+| bgcolor=lightblue|'''51'''
+| 40
+| —
+| 7
+| 2
+|-
+| bgcolor=lightblue|'''45'''
+| —
+| bgcolor=silver|'''45'''
+| 7
+| 3
+|-
+| rowspan=3|24 de febrero de 2015
+| rowspan=3|IPSOS<ref name="un nuevo sondeo sitúa a Massa"/>
+| 38,4
+| —
+| bgcolor=silver|'''50,5'''
+| 5
+| 6
+|-
+| bgcolor=lightblue|'''44,7'''
+| 43,3
+| —
+| 6
+| 6
+|-
+| —
+| 34,8
+| bgcolor=silver|'''48,4'''
+| 8
+| 9
+|-
+| rowspan=3|27 de septiembre de 2014
+| rowspan=3|Giacobbe & Asociados<ref name="crece la intención de voto de Macri"/>
+| 29,2
+| —
+| bgcolor=silver|'''35,5'''
+| 22,1
+| 13,2
+|-
+| 27,7
+| bgcolor=khaki|'''38,4'''
+| —
+| 18,6
+| 15,3
+|-
+| —
+| bgcolor=khaki|'''35,6'''
+| 29,8
+| 23,7
+| 10,9
+|-
+| rowspan=3|30 de mayo al 7 de junio de 2014
+| rowspan=3|Raúl Aragón & Asociados<ref name="Massa sigue primero"/>
+| 36,6
+| —
+| bgcolor=silver|'''56,8'''
+| —
+| —
+|-
+| 45,2
+| bgcolor=khaki|'''48,9'''
+| —
+| —
+| —
+|-
+| —
+| 43,5
+| bgcolor=silver|'''49,1'''
+| —
+| —
+|}
+
+=== Elecciones Generales ===
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|-
+!rowspan=2|Fecha
+!rowspan=2|Encuestadora
+![[Daniel Scioli|Scioli]]<br/>{{small|[[Frente para la Victoria|FPV]]}}
+![[Mauricio Macri|Macri]]<br/>{{small|[[Cambiemos]]}}
+![[Sergio Massa|Massa]]<br/>{{small|[[Unidos por una Nueva Alternativa|UNA]]}}
+![[Margarita Stolbizer|Stolbizer]]<br/>{{small|[[Progresistas (coalición en Argentina)|Progresistas]]}}
+![[Nicolás del Caño|del Caño]]<br/>{{small|[[Frente de Izquierda y de los Trabajadores|FIT]]}}
+![[Adolfo Rodríguez Saá|Rodríguez Saá]]<br/>{{small|[[Compromiso Federal|CF]]}}
+!rowspan=2|Blanco
+!rowspan=2|Indecisos
+|-
+| bgcolor={{Color político|Frente para la Victoria}}|
+| bgcolor={{Color político|Cambiemos}}|
+| bgcolor={{Color político|Unidos por una Nueva Alternativa}}|
+| bgcolor={{Color político|Progresistas}}|
+| bgcolor={{Color político|Frente de Izquierda y de los Trabajadores}}|
+| bgcolor={{Color político|Alianza Compromiso Federal}}|
+|-
+| colspan=10 style="background:#A0A0A0"|
+|- style="background:#EFEFEF;"
+|'''25 de octubre de 2015'''
+|'''Elecciones Generales'''
+|bgcolor=#cfc|'''37,08'''
+|bgcolor=#cfc|'''34,15'''
+|21,39
+|2,51
+|3,23
+|1,64
+|3,32
+| —
+|-
+| colspan=10 style="background:#A0A0A0"|
+|-
+|21 de octubre de 2015
+|Ricardo Rouvier & Asociados<ref name="Republica1021">{{Cita noticia |título=Dos encuestas dan ganador a Scioli en elecciones de Argentina |url=https://www.republica.com.uy/dos-encuestas/ |fecha=21 de octubre de 2015 |periódico=Diario La República}}</ref>
+| bgcolor=lightblue|'''40,1'''
+| 29,2
+| 21,6
+| —
+| —
+| —
+| —
+| —
+|-
+| rowspan=2|18 de octubre de 2015
+| rowspan=2|CEOP<ref name="Pagina1018">{{Cita web |url=http://www.pagina12.com.ar/diario/elpais/1-284121-2015-10-18.html |título=El FpV sigue al frente en el último tramo |apellido=Kollmann |nombre=Raúl |fecha=18 de octubre de 2015 |sitioweb=Página/12}}</ref>
+| bgcolor=lightblue|'''37,9'''
+| 26,3
+| 20,4
+| 4,1
+| 3,5
+| 1
+| 1,9
+| 4,9
+|-
+| bgcolor=lightblue|'''40,7'''
+| 28,2
+| 21,9
+| 4,4
+| 3,8
+| 1,1
+| —
+| —
+|-
+|17 de octubre de 2015
+|Giacobbe & Asociados<ref>{{Cita web |url=http://www.eldestapeweb.com/a-una-semana-los-comicios-scioli-amplia-su-ventaja-macri-n11180 |título=A una semana de los comicios, Scioli amplía su ventaja sobre Macri |fecha=17 de octubre de 2015 |sitioweb=El Destape Web}}</ref>
+| bgcolor=lightblue|'''40,3'''
+| 28,7
+| 20,1
+| 4,7
+| 4,4
+| 1,8
+| —
+| —
+|-
+|10 al 17 de octubre de 2015
+|Raúl Aragón & Asociados<ref name="Tiempo1022">{{cita noticia |nombre= |apellidos= |coautores= |título= Elecciones: última encuesta de Aragón |url= http://www.tiempodesanjuan.com/politica/2015/10/22/elecciones-ultima-encuesta-aragon-108627.html |periódico= Tiempo de San Juan |fecha= 22 de octubre de 2015 }}</ref>
+| bgcolor=lightblue|'''38,8'''
+| 27,9
+| 22,6
+| 5,1
+| 3,5
+| 2,1
+| —
+| —
+|-
+|16 de octubre de 2015
+|Circuitos<ref name="Recado1017">{{Cita noticia |título=Últimas encuestas, qué indican los guarismos |url=https://www.latecla.info/5/71154-ultimas-encuestas-qu-indican-los-guarismos |fecha=16 de octubre de 2015 |periódico=La Tecla}}</ref>
+| bgcolor=lightblue|'''39,1'''
+| 26,9
+| 20,2
+| 3,6
+| 4,9
+| 1,2
+| —
+| —
+|-
+|8 al 15 de octubre de 2015
+|Ipsos-Mora y Araujo<ref name="Perfil1018">{{Cita noticia |título=Scioli ganaría en primera vuelta, vence a Macri en ballottage, pero no a Massa |url=https://www.perfil.com/noticias/politica/scioli-ganaria-en-primera-vuelta-vence-a-macri-en-ballottage-pero-no-a-massa-20151017-0163.phtml |fecha=18 de octubre de 2015 |periódico=Perfil}}</ref>
+| bgcolor=lightblue|'''42'''
+| 28,2
+| 22,9
+| 3,4
+| 2,6
+| 0,9
+| —
+| —
+|-
+|14 de octubre de 2015
+|Raúl Aragón & Asociados<ref name="Rioja1012">{{Cita web |url=https://www.perfil.com/noticias/politica/Encuestas-en-la-recta-final-Scioli-y-Macri-al-limite-del-balotaje-20151014-0028.phtml |título=Encuestas en la recta final: Scioli y Macri al límite del balotaje |fecha=14 de octubre de 2015 |sitioweb=Perfil}}</ref>
+| bgcolor=lightblue|'''39,9'''
+| 26,8
+| 23,9
+| 4,8
+| 3,1
+| 1,5
+| —
+| —
+|-
+| rowspan=2|8 al 13 de octubre de 2015
+| rowspan=2|Management & Fit<ref>{{Cita web |url=https://www.clarin.com/politica/encuesta-management_-_fit-perspectiva-balotaje_0_SyBTY-tDmg.html |título=Scioli no llega al 40% y sigue la perspectiva de balotaje |fecha=17 de octubre de 2015 |sitioweb=Clarín }}</ref>
+| bgcolor=lightblue|'''38,3'''
+| 29,2
+| 21
+| 4,8
+| 2
+| 2,9
+| 1,8
+| 13,9
+|-
+| bgcolor=lightblue|'''34,3'''
+| 25,1
+| 17,1
+| 3,9
+| 1,8
+| 2,3
+| 1,2
+| —
+|-
+|7 al 10 de octubre de 2015
+|Consultora Dicen<ref name="Pagina018">{{Cita noticia |título=¿Qué dicen las últimas encuestas? |url=http://www.politicargentina.com/notas/201510/8989-que-dicen-las-ultimas-encuestas.html |fecha=15 de octubre de 2015 |periódico=Política Argentina}}</ref>
+| bgcolor=lightblue|'''40,9'''
+| 25,8
+| 23,3
+| 2,9
+| 5,6
+| 1,5
+| —
+| —
+|-
+|9 de octubre de 2015
+|Ricardo Rouvier & Asociados<ref>{{Cita web |url=http://www.eltribuno.info/las-encuestas-divididas-torno-un-balotaje-n623760 |título=Las encuestas, divididas en torno a un balotaje |fecha=9 de octubre de 2015 |sitioweb=El Tribuno}}</ref>
+| bgcolor=lightblue|'''41,3'''
+| 30,5
+| 20,6
+| —
+| —
+| —
+| —
+| —
+|-
+|25 de septiembre al 7 de octubre de 2015
+|OPSM<ref>{{Cita web |url=https://www.cronista.com/elecciones2015/Las-encuestas-coinciden-en-pronosticar-escenario-al-limite-del-ballottage-20151013-0048.html |título=Las encuestas coinciden en pronosticar escenario al límite del ballottage |fecha=13 de octubre de 2015 |sitioweb=El Cronista}}</ref>
+| bgcolor=lightblue|'''38,4'''
+| 28,8
+| 20,5
+| 4,1
+| 2,3
+| 2
+| —
+| —
+|-
+|2 al 7 de octubre de 2015
+|Poliarquía<ref name="Sol1011">{{Cita web |url=https://www.lanacion.com.ar/politica/scioli-mantiene-una-amplia-ventaja-pero-no-lograria-evitar-el-ballottage-nid1835600/ |título=Encuesta de Poliarquía Consultores. Scioli mantiene una amplia ventaja pero no lograría evitar el ballottage |fecha=11 de octubre de 2015 |sitioweb=La Nación}}</ref>
+| bgcolor=lightblue|'''37,1'''
+| 26,2
+| 20,1
+| 3,8
+| 3,3
+| 1,9
+| 2
+| 5,6
+|-
+|6 de octubre de 2015
+|González y Valladares<ref>{{Cita web |url=http://www.cronista.com/economiapolitica/Encuesta-mas-de-un-20-de-los-votantes-de-Scioli-tiene-dudas-tras-su-ausencia-en-el-debate-20151006-0068.html |título=Encuesta: más de un 20% de los votantes de Scioli tiene dudas tras su ausencia en el debate |fecha=6 de octubre de 2015 |sitioweb=El Cronista}}</ref>
+| bgcolor=lightblue|'''35,4'''
+| 25,3
+| 26,3
+| 7
+| 3,9
+| 2
+| —
+| —
+|-
+|5 de octubre de 2015
+|Julio Aurelio<ref name="Ambito1005">{{Cita web |url=https://www.ambito.com/edicion-impresa/malon-encuestas-y-pases-20-dias-las-elecciones-n3910324 |título=Malón de encuestas y pases a 20 días de las elecciones |fecha=5 de octubre de 2015 |sitioweb=Ámbito Financiero}}</ref>
+| bgcolor=lightblue|'''41'''
+| 30
+| 20
+| —
+| —
+| —
+| —
+| —
+|-
+|4 de octubre de 2015
+|Ricardo Rouvier & Asociados<ref>{{Cita web |url=http://www.diariodemocracia.com/notas/2015/10/4/encuestas-ganador-scioli-primera-vuelta-116112.asp |título=Encuestas dan ganador a Scioli en primera vuelta |fecha=4 de octubre de 2015 |sitioweb=Diario Democracia}}</ref>
+| bgcolor=lightblue|'''41,3'''
+| 30,5
+| 20,6
+| —
+| —
+| —
+| —
+| —
+|-
+|4 de octubre de 2015
+|Management & Fit<ref>{{Cita web |url=http://www.eldestapeweb.com/encuestas-2015-scioli-se-afirma-el-primer-lugar-y-macri-no-detiene-su-caida-n10753 |título=Scioli se afirma en primer lugar y Macri no detiene su caída |fecha=4 de octubre de 2015 |sitioweb=El Destape Web}}</ref>
+| bgcolor=lightblue|'''38,6'''
+| 27,9
+| 21,5
+| 6
+| 2,2
+| 2,2
+| —
+| —
+|-
+| 21 de septiembre al 4 de octubre de 2015
+| Elypsis<ref name="destape1009"/>
+| bgcolor=lightblue|'''39,4'''
+| 30,9
+| 18,5
+| 5,4
+| colspan=2|6,2
+| —
+| —
+|-
+| 28 de septiembre al 2 de octubre de 2015
+| Polldata<ref name="cronista1003"/>
+| bgcolor=lightblue|'''37,2'''
+| 27,5
+| 22,5
+| 4
+| 2,8
+| 1,8
+| —
+| 4,5
+|-
+| 25 de septiembre de 2015
+|CEOP<ref>{{Cita web |url=http://www.pagina12.com.ar/diario/elpais/1-282462-2015-09-25.html |título=Una brecha que se estira por arriba del diez por ciento |fecha=25 de septiembre de 2015 |sitioweb=Página/12}}</ref>
+| bgcolor=lightblue|'''41,6'''
+| 29,2
+| 20,2
+| 4,3
+| 2,7
+| 2
+| —
+| —
+|-
+| 21 de septiembre de 2015
+|Ricardo Rouvier & Asociados<ref>{{Cita web |url=https://www.infonews.com/politica/el-pro-y-un-fin-semana-el-olvido-n206379 |título=El PRO y un fin de semana para el olvido |fecha=21 de septiembre de 2015 |sitioweb=INFOnews}}</ref>
+| bgcolor=lightblue|'''41,2'''
+| 31,1
+| 19,9
+| —
+| —
+| —
+| —
+| —
+|-
+| 21 de septiembre de 2015
+|Poliarquía<ref>{{Cita web |url=http://www.cronista.com/elecciones2015/Segun-la-consultora-Poliarquia-Scioli-crecio-Macri-se-estanco-y-Massa-se-mantuvo-firme-20150921-0079.html |título=Según la consultora Poliarquía, Scioli creció, Macri se estancó y Massa se mantuvo firme |fecha=21 de septiembre de 2015 |sitioweb=El Cronista}}</ref>
+| bgcolor=lightblue|'''40,8'''
+| 29,5
+| 20,1
+| —
+| —
+| —
+| —
+| —
+|-
+| 20 de septiembre de 2015
+|Ipsos<ref>{{Cita web |url=http://www.eldestapeweb.com/encuestas-2015-macri-mas-cerca-del-tercer-lugar-massa-que-del-primer-puesto-scioli-n10216 |título=Encuestas 2015: Macri, más cerca del tercer lugar de Massa que del primer puesto de Scioli |fecha=20 de septiembre de 2015 |sitioweb=El Destape Web}}</ref>
+| bgcolor=lightblue|'''42,6'''
+| 28,1
+| 19
+| —
+| —
+| —
+| —
+| —
+|-
+| rowspan=2|24 de agosto al 20 de septiembre de 2015
+| rowspan=2|Elypsis<ref name="Clarin0924"/><ref name="apertura0924">{{Cita web |url=http://f1.apertura.com/contenidos/2015/09/24/noticia_0001.html |título=Según una encuesta, hay balotaje y ahí la victoria será para Scioli |fecha=24 de septiembre de 2015 |sitioweb=Apertura Negocios}}</ref>
+| bgcolor=lightblue|'''32,5'''
+| 25,1
+| 13,4
+| 3,5
+| colspan=2|4,2
+| 5
+| 17
+|-
+| bgcolor=lightblue|'''39,7'''
+| 31,1
+| 18,2
+| 4,9
+| colspan=2|6,2
+| —
+| —
+|-
+| 16 al 19 de septiembre de 2015
+| González y Valladares<ref name="capital0922"/>
+| bgcolor=lightblue|'''37,9'''
+| 26,7
+| 24,2
+| 5,7
+| 3,2
+| 2,3
+| —
+| —
+|-
+|14 al 19 de septiembre de 2015
+|Raúl Aragón & Asociados<ref name="Clarin0924">{{cita noticia |nombre=Eduardo |apellidos=Paladini |coautores= |título= Otras dos encuestas le dan más incertidumbre a la elección presidencial |url= http://www.clarin.com/politica/Elecciones_2015-encuestas-Scioli-Macri-Massa_0_1436856471.html |periódico= Clarín |fecha= 24 de septiembre de 2015 }}</ref>
+| bgcolor=lightblue|'''39,8'''
+| 27,5
+| 23,1
+| 4,6
+| 3,1
+| 1,9
+| —
+| —
+|-
+| 8 al 9 de septiembre de 2015
+| Aresco<ref>{{Cita web |url=http://www.pagina12.com.ar/diario/elpais/1-281947-2015-09-18.html |título=La fórmula del FPV estira su ventaja |fecha=18 de septiembre de 2015 |sitioweb=Página/12}}</ref>
+| bgcolor=lightblue|'''40,6'''
+| 29,4
+| 18,1
+| 5,4
+| 3,6
+| 2,8
+| —
+| —
+|-
+| 30 de agosto de 2015
+|Managment & Fit<ref>{{Cita web |url=http://www.clarin.com/elecciones_2015/encuesta-elecciones_2015-presidenciables_0_1421857856.html |título=Scioli mantiene la ventaja sobre Macri de cara a octubre |fecha=30 de agosto de 2015 |sitioweb=Clarín}}</ref>
+| bgcolor=lightblue|'''39,3'''
+| 31,2
+| 18,3
+| 4,4
+| 2,2
+| 2,7
+| 1,3
+| —
+|-
+| rowspan=2|30 de agosto de 2015
+| rowspan=2|Aresco<ref name=":2">{{Cita web |url=http://www.pagina12.com.ar/diario/elpais/1-280524-2015-08-30.html |título=Una diferencia que ya supera los diez puntos |fecha=30 de agosto de 2015 |sitioweb=Página/12}}</ref>
+| bgcolor=lightblue|'''38,3'''
+| 28,6
+| 16,3
+| 3,8
+| 4,2
+| 3,3
+| 2,8
+| 2,6
+|-
+| bgcolor=lightblue|'''40,5'''
+| 30,3
+| 17,2
+| 4
+| 4,4
+| 3,5
+| —
+| —
+|-
+| 18 de agosto de 2015
+| Aresco & Julio Aurelio<ref name=":1"/>
+| bgcolor=lightblue|'''40,2'''
+| 32,5
+| 17
+| 4
+| —
+| —
+| —
+| —
+|-
+| 18 de agosto de 2015
+| OPSM<ref name=":1">{{Cita web |url=http://www.elancasti.com.ar/politica-economia/2015/8/18/conocieron-primeras-encuestas-luego-paso-270071.html |título=Se conocieron las dos primeras encuestas luego de las PASO |fecha=18 de agosto de 2015 |sitioweb=El Ancasti de Catamarca}}</ref>
+| bgcolor=lightblue|'''39,8'''
+| 32,9
+| 17
+| 4,5
+| —
+| —
+| —
+| —
+|}
+
+=== Elecciones Primarias ===
+
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|-
+!rowspan=2|Fecha
+!rowspan=2|Encuestadora
+![[Daniel Scioli|Scioli]]<br/>{{small|[[Frente para la Victoria|FPV]]}}
+![[Mauricio Macri|Macri]]<br/>{{small|[[Cambiemos]]}}
+![[Ernesto Sanz|Sanz]]<br/>{{small|[[Cambiemos]]}}
+![[Elisa Carrió|Carrió]]<br/>{{small|[[Cambiemos]]}}
+![[Sergio Massa|Massa]]<br/>{{small|[[Unidos por una Nueva Alternativa|UNA]]}}
+![[José Manuel de la Sota|de la Sota]]<br/>{{small|[[Unidos por una Nueva Alternativa|UNA]]}}
+![[Margarita Stolbizer|Stolbizer]]<br/>{{small|[[Progresistas (coalición en Argentina)|Progresistas]]}}
+![[Nicolás del Caño|del Caño]]<br/>{{small|[[Frente de Izquierda y de los Trabajadores|FIT]]}}
+![[Jorge Altamira|Altamira]]<br/>{{small|[[Frente de Izquierda y de los Trabajadores|FIT]]}}
+![[Adolfo Rodríguez Saá|Rodríguez Saá]]<br/>{{small|[[Compromiso Federal|CF]]}}
+!rowspan=2|Otros
+!rowspan=2|Blanco
+!rowspan=2|Indecisos
+|-
+| bgcolor={{Color político|Frente para la Victoria}}|
+| colspan=3 bgcolor={{Color político|Cambiemos}}|
+| colspan=2 bgcolor={{Color político|Unidos por una Nueva Alternativa}}|
+| bgcolor={{Color político|Progresistas}}|
+| colspan=2 bgcolor={{Color político|Frente de Izquierda y de los Trabajadores}}|
+| bgcolor={{Color político|Alianza Compromiso Federal}}|
+|-
+| colspan=15 style="background:#A0A0A0"|
+|- style="background:#EFEFEF;"
+|'''9 de agosto de 2015'''
+|'''Elecciones Primarias'''
+|bgcolor=#cfc|'''38,67'''
+|bgcolor=#cfc|'''24,49'''
+|3,34
+|2,28
+|bgcolor=#cfc|'''14,33'''
+|6,25
+|bgcolor=#cfc|'''3,47'''
+|bgcolor=#cfc|'''1,67'''
+|1,58
+|bgcolor=#cfc|'''2,09'''
+|1,83
+|6,12
+| —
+|-
+| colspan=15 style="background:#A0A0A0"|
+|-
+|7 de agosto de 2015
+|CEOP<ref name=":0" />
+| bgcolor=lightblue|'''37,4'''
+| 24,8
+| 3,1
+| 1,7
+| 13,4
+| 6
+| 4,3<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| —<!-- Saa -->
+| 4<!-- Otros -->
+| 1,8<!-- Blanco -->
+| 3,5<!-- Indecisos -->
+|-
+|7 de agosto de 2015
+|Hugo Haime & Asociados<ref name=":0">{{Cita web |url=http://www.pagina12.com.ar/diario/elpais/1-278866-2015-08-07.html |título=Los últimos números antes de la veda |fecha=7 de agosto de 2015 |sitioweb=Página/12}}</ref>
+| bgcolor=lightblue|'''37,9'''
+| 26,2
+| 2,6
+| 2,5
+| 14,9
+| 6,4
+| 4,5<!-- Stolbizer -->
+| 1,0<!-- del Caño -->
+| 1,4<!-- Altamira -->
+| 2<!-- Saa -->
+| 0,6<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|7 de agosto de 2015
+|OPSM<ref>{{Cita web |url=http://www.gustavosylvestre.com/politica/numeros-de-la-encuesta-de-la-consultora-opsm-de-enrique-zuleta-puceiro/ |título=Números de la encuesta de la consultora OPSM, de Enrique Zuleta Puceiro |fecha=7 de agosto de 2015 |sitioweb=www.gustavosylvestre.com}}</ref>
+| bgcolor=lightblue|'''35,9'''
+| 26
+| 3
+| 2,5
+| 13,6
+| 5,8
+| 6,8<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|rowspan=2|30 de julio al 4 de agosto de 2015
+|rowspan=2|Query<ref>{{Cita web |url=http://andytow.com/blog/borra/data/QueryArgentina_agosto_I.xlsx |título=Encuesta Query |fechaacceso=8 de agosto de 2015 |sitioweb=Blog de Andy Tow |formato=XLSX}}</ref>
+| bgcolor=lightblue|'''36,7'''
+| 26,6
+| 2,6
+| 1,5
+| 14,1
+| 5,2
+| 3,3<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 1,3<!-- Altamira -->
+| 1,4<!-- Saa -->
+| 0,7<!-- Otros -->
+| 3,1<!-- Blanco -->
+| 3,6<!-- Indecisos -->
+|-
+| bgcolor=lightblue|'''38,9'''
+| 28,7
+| 2,7
+| 1,5
+| 15,6
+| 5,5
+| 3,5<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 1,4<!-- Altamira -->
+| 1,5<!-- Saa -->
+| 0,7<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|29 de julio al 4 de agosto de 2015
+|Management & Fit<ref>{{Cita web |url=http://www.clarin.com/politica/Elecciones_2015-Sergio_Massa-Mauricio_Macri-Daniel_Scioli-encuestas-Cambiemos-Management_-_Fit_0_1408059199.html |título=Según una encuesta, Scioli le lleva 5% de intención de voto al frente Cambiemos |fecha=7 de agosto de 2015 |sitioweb=Clarín}}</ref>
+| bgcolor=lightblue|'''36,1'''
+| 27
+| 1,8
+| 2,1
+| 12
+| 6,8
+| 5,1<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 1,6<!-- Altamira -->
+| 2,1<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|2 de agosto de 2015
+|Poliarquía<ref name="LaNacionJulio15">{{Cita web |url=http://www.lanacion.com.ar/1815608-el-frente-para-la-victoria-supera-a-cambiemos-y-la-pelea-es-por-la-diferencia |título=El Frente para la Victoria supera a Cambiemos y la pelea es por la diferencia |fecha=2 de agosto de 2015 |sitioweb=La Nación}}</ref>
+| bgcolor=lightblue|'''37,6'''
+| 26,1
+| 2,1
+| 2,5
+| 13,5
+| 4,6
+| 3,3<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| 1,8<!-- Saa -->
+| 2,2<!-- Otros -->
+| colspan=2|6,3
+|-
+|31 de julio de 2015
+|IPSOS<ref>{{Cita web |url=http://www.perfil.com/politica/Scioli-se-impone-a-Macri-pero-la-suma-de-votos-de-Cambiemos-acorta-la-distancia-20150731-0092.html |título=Scioli se impone a Macri pero la suma de votos de Cambiemos acorta la distancia |fecha=1 de agosto de 2015 |sitioweb=Perfil}}</ref>
+| bgcolor=lightblue|'''35,9'''
+| 26,6
+| 1,4
+| 1,1
+| 15,4
+| 6,6
+| 3,9<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|22 de julio de 2015
+|Giacobbe & Asociados<ref>{{Cita web |url=http://www.argnoticias.com/politica/item/33893-la-imagen-de-cristina-creci%C3%B3-15-puntos |título=Encuesta: “Encuesta: Imagen de Cristina creció 15 puntos” |fecha=22 de julio de 2015 |sitioweb=arg noticias |urlarchivo=https://web.archive.org/web/20160304140234/http://www.argnoticias.com/politica/item/33893-la-imagen-de-cristina-creci%C3%B3-15-puntos |fechaarchivo=4 de marzo de 2016}}</ref>
+| bgcolor=lightblue|'''37,8'''
+| 33,1
+| —
+| —
+| 14,8
+| —
+| 3,8<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 2,6<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| 7,9<!-- Indecisos -->
+|-
+| rowspan=2|10 al 17 de julio de 2015
+| rowspan=2|Raúl Aragón<ref name="Destape150723">{{Cita web |url=http://www.eldestapeweb.com/encuesta-scioli-suma-mas-puntos-que-macri-carrio-y-sanz-juntos-n8093 |título=Encuesta: Scioli suma más puntos que Macri, Carrió y Sanz juntos |fecha=23 de julio de 2015 |sitioweb=El Destape Web}}</ref>
+| bgcolor=lightblue|'''31,3'''
+| 26,5
+| 1,9
+| 2
+| 14
+| 5,4
+| 3,7<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 2,5<!-- Altamira -->
+| —<!-- Saa -->
+| 1,4<!-- Otros -->
+| 0,7<!-- Blanco -->
+| 10,5<!-- Indecisos -->
+|-
+| bgcolor=lightblue|'''38,9'''
+| 30,1
+| —
+| —
+| 16,2
+| —
+| 4,9<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 1,9<!-- Altamira -->
+| —<!-- Saa -->
+| 1,1<!-- Otros -->
+| —<!-- Blanco -->
+| 6,9<!-- Indecisos -->
+|-
+| rowspan=2|2 al 10 de julio de 2015
+| rowspan=2|Hugo Haime & Asociados<ref name="Un sondeo para el FpV">{{Cita web |url=https://www.pagina12.com.ar/diario/elpais/1-277194-2015-07-16.html |título=Un sondeo para el FpV |fecha=16 de julio de 2015 |sitioweb=Página/12}}</ref>
+| bgcolor=lightblue|'''39,4'''
+| 27,8
+| 1,3
+| 1,4
+| colspan=2|16,3
+| —<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+| bgcolor=lightblue|'''41,3'''
+| 31
+| —
+| —
+| 12,5
+| —
+| —<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|10 de julio de 2015
+|Ricardo Rouvier & Asociados<ref>{{Cita web |url=http://www.eldestapeweb.com/elecciones-2015-scioli-saca-diez-puntos-macri-y-lidera-la-intencion-voto-n7625 |título=Scioli saca diez puntos a Macri y lidera la intención de voto |fecha=10 de julio de 2015 |sitioweb=El Destape Web}}</ref>
+| bgcolor=lightblue|'''36,7'''
+| 24,8
+| 0,9
+| 2,2
+| 14,6
+| 1,6
+| 4,4<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 2,2<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|7 de julio de 2015
+|Aresco & Julio Aurelio<ref>{{Cita web |url=http://www.pagina12.com.ar/diario/elpais/1-276555-2015-07-07.html |título=Los primeros números sobre las PASO |fecha=7 de julio de 2015 |sitioweb=Página/12}}</ref>
+| bgcolor=lightblue|'''39,1'''
+| 25,5
+| 3,6
+| 2,9
+| 12,3
+| 6,7
+| 3,8<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 3,5<!-- Altamira -->
+| —<!-- Saa -->
+| 2,9<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|2 de julio de 2015
+|Management & Fit<ref>{{Cita web |url=http://www.lanacion.com.ar/1806749-macri-en-estado-de-alerta |título=Macri, en estado de alerta |fecha=2 de julio de 2015 |sitioweb=La Nación}}</ref>
+| bgcolor=lightblue|'''36,9'''
+| 27
+| 3,2
+| 2,9
+| 12,1
+| 5,7
+| 5,8<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|16 al 29 de junio de 2015
+|Ricardo Rouvier & Asociados<ref name="IProf.300615">{{Cita web |url=http://www.iprofesional.com/notas/214832-Encuesta-de-Rouvier-y-Asociados-Scioli-35-Macri-26-y-Massa-9 |título=Encuesta de Rouvier y Asociados: Scioli 35%, Macri 26% y Massa 9% |fecha=30 de junio de 2015 |sitioweb=iProfesional}}</ref>
+| bgcolor=lightblue|'''35,1'''
+| 26,9
+| 3,1
+| 2,1
+| 9,8
+| 6,2
+| 4,7<!-- Stolbizer -->
+| 2<!-- del Caño -->
+| 1,6<!-- Altamira -->
+| 2,2<!-- Saa -->
+| 0,2<!-- Otros -->
+| 1,9<!-- Blanco -->
+| 4,2<!-- Indecisos -->
+|-
+|29 de junio de 2015
+|Ricardo Rouvier & Asociados<ref>{{Cita web |url=http://www.eldestapeweb.com/elecciones-2015-scioli-zannini-8-puntos-arriba-macri-michetti-n7211 |título=Elecciones 2015: Scioli-Zannini 8 puntos arriba de Macri-Michetti |fecha=29 de junio de 2015 |sitioweb=El Destape Web}}</ref>
+| bgcolor=lightblue|'''35'''
+| 26,9
+| 3,1
+| —
+| 9,8
+| 6,2
+| 4,7<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|25 de junio de 2015
+|Ibarómetro<ref name="LN190516">{{Cita web |url=http://tiempo.infonews.com/nota/155922/el-40-se-inclina-por-el-fpv |título=El 40% se inclina por el FPV |fecha=25 de junio de 2015 |sitioweb=Tiempo Argentino |urlarchivo=https://web.archive.org/web/20150728103127/http://tiempo.infonews.com/nota/155922/el-40-se-inclina-por-el-fpv |fechaarchivo=28 de julio de 2015}}</ref>
+| bgcolor=lightblue|'''37'''
+| 22,3
+| 2,8
+| 2,9
+| 16,3
+| 3,4
+| 4,2<!-- Stolbizer -->
+| —<!-- del Caño -->
+| 2,9<!-- Altamira -->
+| —<!-- Saa -->
+| 2,3<!-- Otros -->
+| —<!-- Blanco -->
+| 5,8<!-- Indecisos -->
+|-
+|22 de junio de 2015
+|Raúl Aragón<ref>{{Cita web |url=http://www.eldestapeweb.com/encuestas-presidenciales-2015-quien-ganara-n7004 |título=Encuestas presidenciales 2015: ¿quién ganará? |fecha=22 de junio de 2015 |sitioweb=El Destape Web}}</ref>
+| bgcolor=lightblue|'''40,8'''
+| 33,1
+| —
+| —
+| 18
+| —
+| —<!-- Stolbizer -->
+| —<!-- del Caño -->
+| —<!-- Altamira -->
+| —<!-- Saa -->
+| —<!-- Otros -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|}
+
+== Antes de definición de candidatos ==
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|-
+!Fecha
+!Encuestadora
+![[Sergio Massa|Massa]]
+![[Mauricio Macri|Macri]]
+![[Daniel Scioli|Scioli]]
+![[José Manuel de la Sota|de la Sota]]
+![[Jorge Altamira|Altamira]]
+![[Elisa Carrió|Carrió]]
+![[Ernesto Sanz|Sanz]]
+![[Margarita Stolbizer|Stolbizer]]
+![[Julio Cobos|Cobos]]
+![[Hermes Binner|Binner]]
+![[Florencio Randazzo|Randazzo]]
+!Otros
+!Blanco
+!Indecisos
+|-
+| rowspan=2|13 al 17 de junio de 2015
+| rowspan=2|Bendixen<ref>{{Cita web |url=https://www.iprofesional.com/notas/214146-Scioli-34-Macri-21-y-Massa-20-segn-una-encuesta-privada |título=Scioli 34%, Macri 21% y Massa 20%, según una encuesta privada |fecha=19 de junio de 2015 |sitioweb=iProfesional}}</ref>
+| 17
+| 19
+| bgcolor=lightblue|'''29'''
+| 5
+| 2
+| 2
+| —
+| 2
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| 10<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+| 20
+| 21
+| bgcolor=lightblue|'''34'''
+| —
+| 2
+| —
+| —
+| 3
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| 20<!-- Indecisos -->
+|-
+|29 de mayo al 5 de junio de 2015
+|CEIS<ref>{{Cita web |url=http://www.cronista.com/elecciones2015/Otra-encuesta-confirma-la-ventaja-de-Scioli-pero-con-un-alto-porcentaje-de-indecisos-20150608-0105.html |título=Otra encuesta confirma la ventaja de Scioli, pero con un alto porcentaje de indecisos |fecha=8 de junio de 2015 |sitioweb=El Cronista}}</ref>
+| 14
+| 24
+| bgcolor=lightblue|'''30'''
+| —
+| 2
+| —
+| —
+| 7
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| 23<!-- Indecisos -->
+|-
+|3 de junio de 2015
+|Aresco<ref>{{cita web|url=https://www.elpatagonico.com/segun-una-encuesta-el-kirchnerismo-esta-cerca-ganar-primera-vuelta-n781688|título= Según una encuesta, el kirchnerismo está cerca de ganar en primera vuelta |sitioweb=El Patagónico|fecha=3 de junio de 2015}}</ref>
+| 17,2
+| 23,8
+| bgcolor=lightblue|'''27,2'''
+| 6,8
+| 3,7
+| 3,3
+| 3,6
+| 4,2
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| 10,3<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|28 de mayo de 2015
+|Hugo Jaime & Asociados<ref>{{cita web|url=http://www.eldestapeweb.com/elecciones-presidenciales-2015-encuestas-scioli-saca-casi-12-puntos-macri-n6267|título= Encuestas: Scioli saca casi 12 puntos a Macri |sitioweb=El Destape Web |fecha=28 de mayo de 2015}}</ref>
+| 24,5
+| 26,8
+| bgcolor=lightblue|'''37,4'''
+| —
+| —
+| —
+| —
+| 4,2
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|14 de mayo de 2015
+|Raúl Aragón<ref>{{cita web|url=http://www.eldestapeweb.com/guerra-encuestas-scioli-lidera-una-primera-vuelta-el-32-n5801|título= Guerra de encuestas: Scioli lidera una primera vuelta con el 32% |sitioweb=El Destape Web|fecha=14 de mayo de 2015}}</ref>
+| 20,2
+| 26,1
+| bgcolor=lightblue|'''32'''
+| —
+| 3,7
+| —
+| —
+| 3,7
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| 12,3<!-- Indecisos -->
+|-
+|27 de abril al 8 de mayo de 2015
+|Ricardo Rouvier & Asociados<ref>{{cita web|url=https://www.latecla.info/68588-encuesta-scioli-cuatro-arriba-de-macri|título= Encuesta: Scioli, cuatro arriba de Macri|sitioweb=La Tecla|fecha=12 de mayo de 2015}}</ref>
+| 16,8
+| 28,9
+| bgcolor=lightblue|'''32,4'''
+| —
+| —
+| —
+| —
+| 6,5
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| 4,9<!-- Blanco -->
+| 6,8<!-- Indecisos -->
+|-
+| rowspan=2|19 de abril de 2015
+| rowspan=2|Poliarquía<ref name="LN190515">{{cita web |url=http://www.lanacion.com.ar/1785787-scioli-supera-a-macri-por-casi-6-puntos-y-massa-se-retrasa |título=Scioli supera a Macri por casi 6 puntos y Massa se retrasa |fecha=19 de abril de 2015|sitioweb= La Nación}}</ref>
+| 17,6
+| bgcolor=khaki|'''24,5'''
+| bgcolor=lightblue|'''24,5'''
+| —
+| 2,9
+| 2,7
+| 2
+| 3,7
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| 12,5<!-- Randazzo -->
+| 2,6<!-- Otro -->
+| 1,2<!-- Blanco -->
+| 4,6<!-- Indecisos -->
+|-
+| 20,1
+| 27,3
+| bgcolor=lightblue|'''33,4'''
+| —
+| 2,3
+| —
+| —
+| 6,4
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| 10,5<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|16 al 17 de abril de 2015
+|FUNDITRA<ref>{{cita web|url=https://www.latecla.info/68508-encuesta-scioli-36-macri-25-massa-12|título= Encuesta: Scioli 36; Macri 25; Massa 12|sitioweb=La Tecla|fecha=6 de mayo de 2015}}</ref>
+| 12
+| 25
+| bgcolor=lightblue|'''36'''
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|29 de marzo de 2015
+|González y Valladares<ref name="Scioli y Macri se alejan de Massa"/>
+| 25
+| 27,6
+| bgcolor=lightblue|'''31'''
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+| rowspan=2|20 al 28 de marzo de 2015
+| rowspan=2|Raúl Aragón & Asociados<ref name="Por primera vez Macri gana">{{Cita web |url=http://www.lapoliticaonline.com/nota/87405/ |título=Por primera vez Macri gana en todos los escenarios de ballotage |fecha=4 de marzo de 2015 |sitioweb=LaPolíticaOnline}}</ref>
+| 19,6
+| bgcolor=khaki|'''23,9'''
+| 13,2
+| 3,4
+| 2
+| 3,3
+| 1,1
+| —
+| 5,7<!-- Cobos -->
+| 4,8<!-- Binner -->
+| 8,3<!-- Randazzo -->
+| 1,9<!-- Otro -->
+| 1,1<!-- Blanco -->
+| 11,7<!-- Indecisos -->
+|-
+| 21,4
+| bgcolor=khaki|'''27,2'''
+| 21,6
+| 8,6
+| 3,5
+| —
+| —
+| —
+| 5,9<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| 1,5<!-- Otro -->
+| —<!-- Blanco -->
+| 10,3<!-- Indecisos -->
+|-
+|27 de marzo de 2015
+|IPSOS<ref name="En la guerra de encuestas"/>
+| 24
+| 22
+| bgcolor=lightblue|'''33'''
+| —
+| 4
+| —
+| —
+| —
+| 7<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| 3<!-- Blanco -->
+| 6<!-- Indecisos -->
+|-
+|27 de marzo de 2015
+|Carlos Fara<ref name="En la guerra de encuestas"/>
+| 25
+| 24
+| bgcolor=lightblue|'''30'''
+| —
+| 4
+| —
+| —
+| 3
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| 3<!-- Otro -->
+| colspan=2|8
+|-
+|27 de marzo de 2015
+|Polldata<ref name="En la guerra de encuestas">{{cita web|url=https://www.cronista.com/elecciones2015/En-la-guerra-de-encuestas-Scioli-Massa-y-Macri-pelean-por-entrar-al-ballotage-20150327-0045.html|título=En la guerra de encuestas Scioli, Massa y Macri pelean por entrar al ballotage |sitioweb=Cronista |fecha=27 de marzo de 2015}}</ref>
+| 24,2
+| bgcolor=khaki|'''26,4'''
+| 23,1
+| —
+| 3,3
+| —
+| —
+| 5,1
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| 6,7<!-- Otro -->
+| —<!-- Blanco -->
+| 11,2<!-- Indecisos -->
+|-
+|24 de marzo de 2015
+|Instituto Promocional Argentino<ref>{{Cita web |url=http://www.radiobrisas.com/2015/03/24/palumbo-las-encuestas-nos-dicen-que-macri-y-baragiola-son-los-mejores-posicionados |título=Encuesta: Palumbo: Las encuestas nos dicen que Macri y Baragiola son los mejores posicionados |fecha=24 de marzo de 2015 |sitioweb=Radio Brisas |urlarchivo=https://web.archive.org/web/20150402012759/http://www.radiobrisas.com/2015/03/24/palumbo-las-encuestas-nos-dicen-que-macri-y-baragiola-son-los-mejores-posicionados |fechaarchivo=2 de abril de 2015}}</ref>
+| 20,8
+| bgcolor=khaki|'''25,3'''
+| 21,8
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| 13,6<!-- Otro -->
+| —<!-- Blanco -->
+| 19,2<!-- Indecisos -->
+|-
+| rowspan=2|21 de marzo de 2015
+| rowspan=2|Poliarquía<ref name="Scioli lidera la intención de voto">{{Cita web |url=http://www.infobae.com/2015/03/21/1717443-encuesta-scioli-lidera-la-intencion-voto-la-primera-vuelta |título=Encuesta: Scioli lidera la intención de voto para la primera vuelta |fecha=21 de marzo de 2015 |sitioweb=Infobae}}</ref>
+| 19
+| 22
+| bgcolor=lightblue|'''25'''
+| 4
+| 2
+| —
+| 1
+| —
+| 6<!-- Cobos -->
+| 3<!-- Binner -->
+| 10<!-- Randazzo -->
+| 1<!-- Otro -->
+| 2<!-- Blanco -->
+| 3<!-- Indecisos -->
+|-
+| 21
+| 25
+| bgcolor=lightblue|'''31'''
+| —
+| 3
+| —
+| —
+| —
+| 7<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| 3<!-- Blanco -->
+| 10<!-- Indecisos -->
+|-
+|21 de marzo de 2015
+|Management & Fit<ref name="Scioli y Macri se alejan de Massa">{{cita web|url=http://www.iprofesional.com/notas/208944-Elecciones-2015-Scioli-y-Macri-se-alejan-de-Massa-y-se-acercan-al-ballotage|título=Elecciones 2015: Scioli y Macri se alejan de Massa y se acercan al ballotage|sitioweb=iProfesional|fecha=29 de marzo de 2015}}</ref><ref name="En la guerra de encuestas"/>
+| 14,6
+| 28,8
+| bgcolor=lightblue|'''29,5'''
+| —
+| 3
+| —
+| —
+| 4
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| 2,3<!-- Otro -->
+| 2,4<!-- Blanco -->
+| 15,4<!-- Indecisos -->
+|-
+|14 al 20 de marzo de 2015
+|Aresco<ref>{{cita web|url=https://www.latecla.info/68419-encuesta-scioli-364-macri-303-massa-221|título=Encuesta: Scioli 36,4, Macri 30,3, Massa 22,1|sitioweb=La Tecla |fecha=30 de abril de 2015}}</ref>
+| 22,1
+| 30,3
+| bgcolor=lightblue|'''36,4'''
+| —
+| 4,5
+| —
+| —
+| 6,7
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|17 de marzo de 2015
+|Giacobbe & Asociados<ref>{{cita web|url=http://www.iprofesional.com/notas/208253-Una-encuesta-privada-ubica-a-Macri-al-frente-de-la-carrera-electoral|título=Encuesta: Macri se despega de sus rivales en la carrera presidencial|sitioweb=iProfesional|fecha=17 de marzo de 2015}}</ref>
+| 15,4
+| bgcolor=khaki|'''31,2'''
+| 19
+| —
+| 3
+| —
+| —
+| —
+| —<!-- Cobos -->
+| 4,5<!-- Binner -->
+| —<!-- Randazzo -->
+| 10,4<!-- Otro -->
+| —<!-- Blanco -->
+| 16,5<!-- Indecisos -->
+|-
+|16 de marzo de 2015
+|OPSM<ref>{{Cita web |url=https://www.latecla.info/67775-Nota?nota_id=67775 |título=Encuesta: Macri 35,8% y Scioli 30,7% |fecha=16 de marzo de 2015 |sitioweb=La Tecla}}</ref>
+| 15,6
+| bgcolor=khaki|'''35,8'''
+| 30,7
+| —
+| 3,5
+| —
+| —
+| 5,2
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| 2<!-- Otro -->
+| 4,3<!-- Blanco -->
+| 2,5<!-- Indecisos -->
+|-
+|22 de febrero de 2015
+|Poliarquía<ref name="arriba de Scioli y Massa"/>
+| 24
+| bgcolor=khaki|'''28'''
+| 26
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|17 de febrero de 2015
+|Polldata<ref>{{Cita web |url=http://www.zonanortediario.com.ar/despachos.asp?cod_des=39161&ID_Seccion=166 |título=Para Polldata, gana Massa |fecha=17 de febrero de 2015 |sitioweb=Zona Norte Diario |urlarchivo=https://web.archive.org/web/20150222070441/http://www.zonanortediario.com.ar/despachos.asp?cod_des=39161&ID_Seccion=166 |fechaarchivo=22 de febrero de 2015}}</ref>
+| bgcolor=silver|'''27,9'''
+| 23,1
+| 22,7
+| —
+| 2,3
+| —
+| —
+| —
+| 7,5<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| 4,3<!-- Otro -->
+| 2,3<!-- Blanco -->
+| 10,2<!-- Indecisos -->
+|-
+| rowspan=2|24 de febrero de 2015
+| rowspan=2|IPSOS<ref name="un nuevo sondeo sitúa a Massa">{{Cita web |url=http://www.infobae.com/2015/02/24/1628810-guerra-encuestas-un-nuevo-sondeo-situa-massa-como-el-candidato-mayor-intencion-voto |título=Guerra de encuestas: un nuevo sondeo sitúa a Massa como el candidato con mayor intención de voto |fecha=24 de febrero de 2015 |sitioweb=Infobae |urlarchivo=https://web.archive.org/web/20150224171826/http://www.infobae.com/2015/02/24/1628810-guerra-encuestas-un-nuevo-sondeo-situa-massa-como-el-candidato-mayor-intencion-voto |fechaarchivo=24 de febrero de 2015}}</ref>
+| bgcolor=silver|'''25,7'''
+| 20,7
+| 21,3
+| 2,2
+| 1,4
+| 3,2
+| 0,3
+| —
+| 4,9<!-- Cobos -->
+| 4,6<!-- Binner -->
+| 4,7<!-- Randazzo -->
+| 3,1<!-- Otro -->
+| 1,9<!-- Blanco -->
+| 4,4<!-- Indecisos -->
+|-
+| bgcolor=silver|'''28,3'''
+| 23,2
+| 27,9
+| —
+| 4
+| —
+| —
+| —
+| 7<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| 2,9<!-- Blanco -->
+| 5,2<!-- Indecisos -->
+|-
+|8 de febrero de 2015
+|González y Valladares<ref>{{cita web|url=http://www.lapoliticaonline.com/nota/86806/| título= Encuesta: Massa primero a 5 de Scioli y 7 de Macri | sitioweb=La Política Online|fecha=8 de febrero de 2015}}</ref>
+| bgcolor=silver|'''30,8'''
+| 23,1
+| 25,1
+| —
+| —
+| —
+| —
+| —
+| 10,6<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|28 de enero al 3 de febrero de 2015
+|Management & Fit<ref name="arriba de Scioli y Massa">{{Cita web |url=http://www.lapoliticaonline.com/nota/87131/ |título=Dos encuestas lo dan a Macri arriba de Scioli y Massa por primera vez |fecha=22 de febrero de 2015 |sitioweb=La Política Online}}</ref>
+| 18,8
+| bgcolor=khaki|'''27,9'''
+| 23,6
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|1 de febrero de 2015
+|Carlos Fara<ref>{{cita web|url=http://www.infobae.com/2015/02/01/1624188-una-encuesta-revelo-que-massa-le-sacaria-8-y-10-puntos-macri-y-scioli|título=Una encuesta reveló que Massa le sacaría entre 8 y 10 puntos a Macri y a Scioli|sitioweb=Infobae|fecha=1 de febrero de 2015}}</ref>
+| bgcolor=silver|'''28'''
+| 20,7
+| 18,7
+| 0,9
+| 2,1
+| 1,7
+| 0,9
+| —
+| 1,1<!-- Cobos -->
+| 3<!-- Binner -->
+| 5,8<!-- Randazzo -->
+| 4,3<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|28 de diciembre de 2014
+|González y Valladares<ref>{{cita web|url=http://www.infobae.com/2014/12/28/1617702-si-hoy-fueran-las-elecciones-massa-y-scioli-llegarian-al-balotaje|título=Si hoy fueran las elecciones, Massa y Scioli llegarían al balotaje|sitioweb=Infobae|fecha=28 de diciembre de 2014}}</ref>
+| bgcolor=silver|'''29'''
+| 21,2
+| 27,1
+| —
+| —
+| —
+| —
+| —
+| 11,3<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+| 28 de diciembre de 2014
+| IPSOS<ref name="alinear los planetas"/>
+| bgcolor=silver|'''31'''
+| 22
+| 30
+| —
+| —
+| —
+| —
+| —
+| 4<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+| rowspan=2|28 de diciembre de 2014
+| rowspan=2|OPSM<ref name="alinear los planetas"/>
+| 22,7
+| 21,2
+| bgcolor=lightblue|'''26'''
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| 11,2<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+| 20,4
+| 24,8
+| bgcolor=lightblue|'''26,7'''
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|28 de diciembre de 2014
+|Management & Fit<ref name="alinear los planetas"/>
+| 17,2
+| 23,7
+| bgcolor=lightblue|'''24,7'''
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|28 de diciembre de 2014
+|Raúl Aragón & Asociados<ref name="alinear los planetas">{{Cita web |url=http://www.clarin.com/politica/Macri-pueden-alinear-planetas_0_1274872760.html |título=A Macri se le pueden alinear los planetas |fecha=28 de diciembre de 2014 |sitioweb=Clarín}}</ref>
+| bgcolor=silver|'''26,1'''
+| 21,3
+| 23,6
+| —
+| —
+| —
+| —
+| —
+| —<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+|27 de octubre de 2014
+| Aresco<ref>{{Cita web |url=https://www.lacapital.com.ar/politica/a-un-ano-las-elecciones-presidenciales-daniel-scioli-lidera-las-encuestas-n448168.html |título=A un año de las elecciones presidenciales, Daniel Scioli lidera las encuestas |fecha=27 de octubre de 2014 |sitioweb=La Capital}}</ref>
+| 22,9
+| 24,4
+| bgcolor=lightblue|'''26,1'''
+| —
+| 4,8
+| —
+| —
+| —
+| 10,2<!-- Cobos -->
+| —<!-- Binner -->
+| —<!-- Randazzo -->
+| —<!-- Otro -->
+| —<!-- Blanco -->
+| 11,6<!-- Indecisos -->
+|-
+|9 de octubre de 2014
+|[[Crónica (diario argentino)|Crónica]]<ref name="últimas e increíbles encuestas"/>
+| 22,3
+| 21,5
+| bgcolor=lightblue|'''23,1'''
+| —
+| —
+| —
+| —
+| —
+| 9,1
+| —
+| —
+| —
+| —
+| —
+|-
+|9 de octubre de 2014
+|González y Valladares<ref name="últimas e increíbles encuestas"/>
+| bgcolor=silver|'''29,3'''
+| 22,6
+| 24,7
+| —
+| —
+| —
+| —
+| —
+| 12,3
+| —
+| —
+| —
+| —
+| —
+|-
+|9 de octubre de 2014
+|Raúl Aragón & Asociados<ref name="últimas e increíbles encuestas"/>
+| bgcolor=silver|'''28,81'''
+| 23,64
+| 23,67
+| —
+| —
+| —
+| —
+| —
+| —
+| 13,34
+| —
+| —
+| —
+| —
+|-
+|9 de octubre de 2014
+|Funedutra<ref name="últimas e increíbles encuestas"/>
+| 15,6
+| 19
+| bgcolor=lightblue|'''22'''
+| —
+| —
+| —
+| —
+| —
+| —
+| 5,9
+| —
+| —
+| —
+| —
+|-
+|9 de octubre de 2014
+|Polldata<ref name="últimas e increíbles encuestas"/>
+| bgcolor=silver|'''25,6'''
+| 18,8
+| 20,1
+| —
+| —
+| —
+| —
+| —
+| 8,8
+| —
+| —
+| —
+| —
+| —
+|-
+|27 de septiembre de 2014
+|Giacobbe & Asociados<ref name="crece la intención de voto de Macri">{{Cita web |url=http://www.infobae.com/2014/09/27/1597896-encuesta-crece-la-intencion-voto-macri-y-se-impondria-una-segunda-vuelta |título=Encuesta: crece la intención de voto de Macri y se impondría en una segunda vuelta |fecha=27 de septiembre de 2014 |sitioweb=Infobae}}</ref><ref name="últimas e increíbles encuestas">{{Cita web |url=http://www.clarin.com/politica/encuestas-electorales-increibles_0_1226877630.html |título=Las últimas e increíbles encuestas electorales |fecha=9 de octubre de 2014 |sitioweb=Clarín}}</ref>
+| 19,4
+| bgcolor=khaki|'''28,4'''
+| 19,4
+| —
+| 3,6
+| —
+| —
+| —
+| —
+| 9,8
+| —
+| 19,4
+| —
+| —
+|-
+|13 de agosto de 2014
+|Poliarquía<ref>{{cita web|título=El análisis. Incógnitas de la oposición|url=http://www.lanacion.com.ar/1718141-incognitas-de-la-oposicion|sitioweb=La Nación|fecha=13 de agosto de 2014}}</ref>
+| 21
+| 21
+| bgcolor=lightblue|'''22'''
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+|27 de julio de 2014
+|González y Valladares<ref>{{cita web|título=Massa baja pero sigue al frente, Scioli se frena y Macri le pisa los talones |url=http://www.perfil.com/politica/Massa-baja-pero-sigue-al-frente-Scioli-se-frena-y-Macri-le-pisa-los-talones-20140727-0011.html|sitioweb=Perfil |fecha=27 de julio de 2014}}</ref>
+| bgcolor=silver|'''28,6'''
+| 23,4
+| 22,9
+| —
+| —
+| —
+| —
+| —
+| 17,3
+| —
+| —
+| —
+| —
+| —
+|-
+| rowspan=2|10 de junio de 2014
+| rowspan=2|Raúl Aragón & Asociados<ref name="Massa sigue primero">{{Cita web |url=http://www.infobae.com/2014/06/10/1571722-massa-sigue-primero-mientras-se-polariza-la-interna-kirchnerista-scioli-y-randazzo |título=Massa sigue primero mientras se polariza la interna kirchnerista entre Scioli y Randazzo |fecha=10 de junio de 2014 |sitioweb=Infobae}}</ref>
+| bgcolor=silver|'''16,77'''
+| 13,64
+| 11,04
+| 7,25
+| —
+| —
+| —
+| —
+| 10,93<!-- Cobos -->
+| 8,77<!-- Binner -->
+| 9,42<!-- Randazzo -->
+| 9,31<!-- Otro -->
+| —<!-- Blanco -->
+| —<!-- Indecisos -->
+|-
+| bgcolor=silver|'''23,25'''
+| 17,49
+| 17,57
+| —
+| —
+| —
+| —
+| —
+| 14,43
+| —
+| —
+| —
+| —
+| —
+|-
+|29 de abril de 2014
+|Raúl Aragón & Asociados<ref>{{cita web|url=http://www.infobae.com/2014/04/29/1560574-encuesta-massa-sigue-primero-pero-los-numeros-ilusionan-quienes-piden-un-frente-unen-pro|título=Encuesta: Massa sigue primero, pero los números ilusionan a quienes piden un frente UNEN-PRO|sitioweb=Infobae|fecha=29 de abril de 2014}}</ref>
+| bgcolor=silver|'''24,77'''
+| 15,92
+| 17,95
+| —
+| —
+| —
+| —
+| —
+| 10,08<!-- Cobos -->
+| 10,06<!-- Binner -->
+| —<!-- Randazzo -->
+| 2,10<!-- Otro -->
+| 2,26<!-- Blanco -->
+| 16,86<!-- Indecisos -->
+|-
+!Fecha
+!Encuestadora
+![[Sergio Massa|Massa]]
+![[Mauricio Macri|Macri]]
+![[Daniel Scioli|Scioli]]
+![[José Manuel de la Sota|de la Sota]]
+![[Jorge Altamira|Altamira]]
+![[Elisa Carrió|Carrió]]
+![[Ernesto Sanz|Sanz]]
+![[Margarita Stolbizer|Stolbizer]]
+![[Julio Cobos|Cobos]]
+![[Hermes Binner|Binner]]
+![[Florencio Randazzo|Randazzo]]
+!Otros
+!Blanco
+!Indecisos
+|}
+
+== Véase también ==
+* [[Elecciones presidenciales de Argentina de 2015]]
+* [[Política de la Nación Argentina]]
+* [[Elecciones al Parlasur de Argentina de 2015]]
+* [[Elecciones primarias de Argentina de 2015]]
+* [[Elecciones legislativas de Argentina de 2015]]
+* [[Elecciones provinciales de Argentina de 2015]]
+* [[Ley 26.571]]
+* [[Elecciones en Argentina]]
+* [[Debate presidencial de Argentina 2015]]
+
+==Referencias==
+
+{{listaref|3}}
+
+{{Control de autoridades}}
+[[Categoría:Elecciones en Argentina en 2015| ]]
+[[Categoría:Encuestas en Argentina]]
+[[Categoría:Encuestas en 2015]]

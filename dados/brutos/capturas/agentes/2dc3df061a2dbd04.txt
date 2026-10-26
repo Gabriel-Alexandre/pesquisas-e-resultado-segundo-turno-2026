@@ -1,0 +1,4592 @@
+En el sistema electoral peruano, para que un candidato sea proclamado ganador debe obtener más del 50 % de votos válidos. En caso ningún candidato logre ese porcentaje en la primera vuelta electoral, los dos candidatos más votados participan en una segunda vuelta o balotaje.
+
+En el período previo a las próximas [[Elecciones generales de Perú de 2016|elecciones presidenciales peruanas]], diversas organizaciones realizan sondeos de opinión para medir la intención de voto en [[Perú]] en el periodo anterior. Los resultados de dichas encuestas se muestran en este artículo. El rango de fechas para estas encuestas de opinión es desde el balotaje de las [[Elecciones generales de Perú de 2011|elecciones presidenciales anteriores]], celebrado el 5 de junio de 2011, hasta la actualidad.
+
+Las estimaciones de intención de voto se refieren principalmente a una elección hipotética del [[Presidente del Perú|Presidente de la República]]. Las encuestas de intención y los simulacros de votación se enumeran en orden cronológico inverso, mostrando los más recientes primero y utilizando las fechas en las que se realizó el trabajo de campo de la encuesta en lugar de la fecha de publicación. Cuando se desconocen las fechas del trabajo de campo, en su lugar se da la fecha de publicación.
+
+La ley electoral peruana prohíbe la difusión de encuestas en la semana previa al día del [[sufragio]] electoral. Las fechas programadas para las elecciones presidenciales peruanas son el 10 de abril (primera vuelta) y el 5 de junio (balotaje) de 2016.
+
+== Balotaje ==
+=== Sumario gráfico ===
+{{wide image|SondeosBalotajeEleccionesGeneralesPerú2016.png|1000px|Líneas de tendencia de los sondeos de intención de voto para el balotaje de las elecciones presidenciales de Perú de 2016, cada línea corresponde a un partido político.}}
+
+;{{small|Leyenda:}}
+{{leyenda|#FFEAEA|Sondeo realizado en el periodo de prohibición legal de la difusión de sondeos de intención de voto.|borde=#AAAAAA}}
+
+=== Intención de voto ===
+La siguiente tabla enumera las estimaciones ponderadas (sin incluir votos en blanco y nulos) de la intención de voto.
+
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:180px;" rowspan="2"| Encuestadora/Medio
+! style="width:70px;" rowspan="2"| Fecha
+! style="width:60px;" rowspan="2"| Muestra
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]</small><br />[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:27px;" rowspan="2"| <small>{{abreviatura|Dif.|Diferencia}}
+|-
+! style="background:#E2007A"|
+! style="background:#FF8000"|
+|-
+| colspan="6" style="background:#A0A0A0"|
+|- style="background-color:#EFEFEF;"
+| '''[[Elecciones generales de Perú de 2016|Elecciones generales de 2016]]''' (balotaje)
+| 5 jun 2016
+| —
+| style="background:#FFCBE6"| '''50.1'''
+| 49.9
+| style="background:#E2007A"| {{color|white|0.2}}
+|-
+| colspan="6" style="background:#A0A0A0"|
+|- style="height:38px; background:#EAFFEA"
+| Ipsos Perú/América<ref>{{cita web |url=http://www.ipsos.pe/sites/default/files/opinion_data/ConteoRapido_050616.pdf |título=Informe - Conteo rápido |fechaacceso= |apellido= |nombre= |fecha=5 de junio de 2016 |sitioweb=ipsos.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20170325181809/http://www.ipsos.pe/sites/default/files/opinion_data/ConteoRapido_050616.pdf |fechaarchivo=25 de marzo de 2017 }}</ref>{{refn|group=lower-alpha|name=conteo|[[Conteo rápido]]}}
+| 5 jun 2016
+| 1610 mesas
+| style="background:#FFCBE6"| '''50.5'''
+| 49.5
+| style="background:#E2007A"| {{color|white|1.0}}
+|- style="height:38px; background:#EAFFEA"
+| GfK/Latina<ref>{{cita web |url=https://larepublica.pe/politica/773690-conteo-rapido-gfk-ppk-venceria-keiko-fujimori-por-x/ |título=Conteo rápido GfK: PPK vencería a Keiko Fujimori con un 50,8% |fechaacceso= |apellido= |nombre= |fecha=5 de junio de 2016 |sitioweb=larepublica.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=conteo}}
+| 5 jun 2016
+| ?
+| style="background:#FFCBE6"| '''50.8'''
+| 49.2
+| style="background:#E2007A"| {{color|white|1.6}}
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú/América<ref>{{cita web |url=https://elcomercio.pe/politica/elecciones/flash-electoral-boca-urna-ipsos-sale-400-pm-segunda-vuelta-keiko-fujimori-ppk-noticia-1906942/ |título=Flash electoral Ipsos: PPK tiene 50,4% y Keiko Fujimori 49,6% |fechaacceso= |apellido= |nombre= |fecha=5 de junio de 2016 |sitioweb=elcomercio.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=boca|[[Boca de urna]]}}
+| 5 jun 2016
+| ?
+| style="background:#FFCBE6"| '''50.4'''
+| 49.6
+| style="background:#E2007A"| {{color|white|0.8}}
+|- style="height:38px; background:#FFEAEA"
+| GfK/Latina<ref name=urna>{{cita web |url=https://larepublica.pe/politica/774245-flash-electoral-boca-de-urna-de-gfk-ipsos-y-cpi-entre-ppk-y-keiko-fujimori/ |título=Flash electoral a boca de urna de GfK, Ipsos y CPI revelan empate técnico entre PPK y Keiko Fujimori |fechaacceso= |apellido= |nombre= |fecha=5 de junio de 2016 |sitioweb=larepublica.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=boca}}
+| 5 jun 2016
+| ?
+| style="background:#FFCBE6"| '''51.2'''
+| 48.8
+| style="background:#E2007A"| {{color|white|2.4}}
+|- style="height:38px; background:#FFEAEA"
+| CPI/ATV<ref name=urna/>{{refn|group=lower-alpha|name=boca}}
+| 5 jun 2016
+| ?
+| 48.9
+| style="background:#FFD9B4"| '''51.1'''
+| style="background:#FF8000"| {{color|white|2.2}}
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú<ref name=balotaje-ipsossim5>{{cita web |url=http://www.ipsos.pe/sites/default/files/opinion_data/SimulacroConfidencial040616.pdf |título=Simulacro confidencial al 4 de junio de 2016 |fechaacceso= |apellido= |nombre= |fecha=4 de junio de 2016 |sitioweb=ipsos.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20170326042209/http://www.ipsos.pe/sites/default/files/opinion_data/SimulacroConfidencial040616.pdf |fechaarchivo=26 de marzo de 2017 }}</ref>
+| 4 jun 2016
+| 7260
+| style="background:#FFCBE6"| '''50.4'''
+| 49.6
+| style="background:#E2007A"| {{color|white|0.8}}
+|- style="height:38px; background:#FFEAEA"
+| GfK<ref>{{cita web |url=https://www.prensa.com/mundo/Fujimori-Kuczynski-llegan-empatados-final_0_4498800202.html |título=Keiko Fujimori y Pedro Kuczynski llegan empatados a las elecciones de hoy |fechaacceso= |apellido= |nombre= |fecha=5 de junio de 2016 |sitioweb=prensa.com|idioma= |cita= }}</ref>
+| 4 jun 2016
+| 11000
+| style="background:#FFCBE6"| '''51.1'''
+| 48.9
+| style="background:#E2007A"| {{color|white|2.2}}
+|- style="background:#FFEAEA"
+| GfK<ref name=balotaje-gfksim3>{{cita web |url=https://www.dw.com/es/keiko-mantiene-empate-t%C3%A9cnico-con-kuczynski/a-19305581 |título=Keiko mantiene empate técnico con Kuczynski |fechaacceso= |apellido= |nombre= |fecha=3 de junio de 2016 |sitioweb=dw.com |idioma= |cita= }}</ref>
+| 1–2 jun 2016
+| 1816
+| 49.7
+| style="background:#FFD9B4"| '''50.3'''
+| style="background:#FF8000"| {{color|white|0.6}}
+|- style="background:#FFEAEA"
+| Datum Internacional<ref name=balotaje-datumf>{{cita web |url=https://www.ultimahora.com/fujimori-mantiene-la-ventaja-kuczynski-peru-n996693.html |título=Fujimori mantiene la ventaja sobre Kuczynski en Perú |fechaacceso= |apellido= |nombre= |fecha= 3 de junio de 2016 |sitioweb=ultimahora.com |idioma= |cita= }}</ref>
+| 31 may–1 jun 2016
+| 2008
+| 47.9
+| style="background:#FFD9B4"| '''52.1'''
+| style="background:#FF8000"| {{color|white|4.2}}
+|- style="background:#FFEAEA"
+| CPI<ref name=balotaje-gfksim3/>
+| 31 may–1 jun 2016
+| 1815
+| 48.4
+| style="background:#FFD9B4"| '''51.6'''
+| style="background:#FF8000"| {{color|white|3.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim4>{{cita web |url=http://www.ipsos.pe/sites/default/files/opinion_data/Opinion_Data_Mayo_IV_2016.pdf |título=La favorita |fechaacceso= |apellido= |nombre= |fecha=29 de mayo de 2016 |sitioweb=ipsos.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20170325182913/http://www.ipsos.pe/sites/default/files/opinion_data/Opinion%20Data%20Mayo%20IV%202016.pdf |fechaarchivo=25 de marzo de 2017 }}</ref>
+| 26–27 may 2016
+| 1815
+| 46.9
+| style="background:#FFD9B4"| '''53.1'''
+| style="background:#FF8000"| {{color|white|6.2}}
+|-
+| CPI/Exitosa<ref name=balotaje-cpisim5>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201605_05.pdf |título=Simulacro de Votación - Intención de voto por candidatos para Presidente del Perú - Perú Urbano y Rural (26 al 27 mayo 2016) |fechaacceso= |apellido= |nombre= |fecha=24 de mayo de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 26–27 may 2016
+| 1882
+| 45.2
+| style="background:#FFD9B4"| '''54.8'''
+| style="background:#FF8000"| {{color|white|9.6}}
+|-
+| GfK/La República<ref name=balotaje-gfksim2>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_Opinio__n_Mayo_2016_1.pdf |título=GfK Opinión - Estudio de opinión pública nacional-urbano rural (Mayo - 2016) |fechaacceso= |apellido= |nombre= |fecha=25 de mayo de 2016 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160630134105/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_Opinio__n_Mayo_2016_1.pdf |fechaarchivo=30 de junio de 2016 }}</ref>
+| 23–25 may 2016
+| 1508
+| 47.8
+| style="background:#FFD9B4"| '''52.2'''
+| style="background:#FF8000"| {{color|white|4.4}}
+|-
+| Datum/Perú 21/Gestión<ref name=balotaje-datumsim2>{{cita web |url=http://www.datum.com.pe/pdf/PULS05162.pdf |título=Simulacro de Votación Presidencial
+2° vuelta electoral (Mayo 2016) |fechaacceso= |apellido= |nombre= |fecha=27 de mayo de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160624192631/http://www.datum.com.pe/pdf/PULS05162.pdf |fechaarchivo=24 de junio de 2016 }}</ref>
+| 23–25 may 2016
+| 1979
+| 47.1
+| style="background:#FFD9B4"| '''52.9'''
+| style="background:#FF8000"| {{color|white|5.8}}
+|-
+| CPI/Exitosa<ref name=balotaje-cpisim4>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201605_04.pdf |título=Simulacro de Votación - Intención de voto por candidatos para Presidente del Perú - Perú Urbano y Rural (23 al 24 mayo 2016) |fechaacceso= |apellido= |nombre= |fecha=24 de mayo de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 23–24 may 2016
+| 1882
+| 45.8
+| style="background:#FFD9B4"| '''54.2'''
+| style="background:#FF8000"| {{color|white|8.4}}
+|-
+| Ipsos Perú/América<ref name=balotaje-ipsossim3>{{cita web |url=http://www.ipsos.pe/sites/default/files/opinion_data/Opinion_Data_Mayo_III_2016.pdf |título=Keiko toma la delantera |fechaacceso= |apellido= |nombre= |fecha=22 de mayo de 2016 |sitioweb=ipsos.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20170326063528/http://www.ipsos.pe/sites/default/files/opinion_data/Opinion%20Data%20Mayo%20III%202016.pdf |fechaarchivo=26 de marzo de 2017 }}</ref>
+| 19–20 may 2016
+| 1803
+| 47.4
+| style="background:#FFD9B4"| '''52.6'''
+| style="background:#FF8000"| {{color|white|5.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim2>{{cita web |url=https://www.ipsos.com/sites/default/files/import_destination/news_and_polls/documents/Opinion_Data_Mayo_II_2016.pdf |título=El empate continúa  |fechaacceso= |apellido= |nombre= |fecha=16 de mayo de 2016 |sitioweb=ipsos.com |idioma= |cita= |urlarchivo= |fechaarchivo= }}</ref>
+| 11–13 may 2016
+| 1784
+| 49.8
+| style="background:#FFD9B4"| '''50.2'''
+| style="background:#FF8000"| {{color|white|0.4}}
+|-
+| CPI/Exitosa<ref name=balotaje-cpisim3>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201605_02.pdf |título=Simulacro de Votación - Intención de voto por candidatos para Presidente del Perú - Perú Urbano y Rural (9 al 11 mayo 2016) |fechaacceso= |apellido= |nombre= |fecha=11 de mayo de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 9–11 may 2016
+| 1882
+| 46.7
+| style="background:#FFD9B4"| '''53.3'''
+| style="background:#FF8000"| {{color|white|6.6}}
+|-
+| Datum/Perú 21/Gestión<ref name=balotaje-datumsim1>{{cita web |url=http://www.datum.com.pe/pdf/PULS0516.pdf |título=Simulacro de Votación Presidencial
+2° vuelta electoral (Mayo 2016) |fechaacceso= |apellido= |nombre= |fecha=12 de mayo de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160602090326/http://www.datum.com.pe/pdf/PULS0516.pdf |fechaarchivo=30 de junio de 2016 }}</ref>
+| 6–10 may 2016
+| 1200
+| style="background:#FFCBE6"| '''50.0'''
+| style="background:#FFD9B4"| '''50.0'''
+| style="background:#999999"| {{color|white|—}}
+|-
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim1>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-05/6182816_INF_V2_09May16%28OD%29.pdf |título=Avanza Keiko |fechaacceso= |apellido= |nombre= |fecha=9 de mayo de 2016 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 4–6 may 2016
+| 1755
+| 48.6
+| style="background:#FFD9B4"| '''51.4'''
+| style="background:#FF8000"| {{color|white|2.8}}
+|-
+| CPI/Correo<ref name=balotaje-cpisim2>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201604_03.pdf |título=Simulacro de Votación - Intención de voto por candidatos para Presidente del Perú - Perú Urbano y Rural (26 al 27 abril 2016) |fechaacceso= |apellido= |nombre= |fecha=27 de abril de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 26–27 abr 2016
+| 1800
+| 48.6
+| style="background:#FFD9B4"| '''51.4'''
+| style="background:#FF8000"| {{color|white|2.8}}
+|-
+| GfK/La República<ref name=balotaje-gfksim1>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Abril_2016_-_Intencion_de_voto.pdf |título=GfK Opinión - Estudio de opinión pública nacional-urbano rural (Abril - 2016) |fechaacceso= |apellido= |nombre= |fecha=27 de abril de 2016 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160601080316/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Abril_2016_-_Intencion_de_voto.pdf |fechaarchivo=1 de junio de 2016 }}</ref>
+| 24–27 abr 2016
+| 1554
+| style="background:#FFCBE6"| '''50.1'''
+| 49.9
+| style="background:#E2007A"| {{color|white|0.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-22abr/>{{refn|group=lower-alpha|name=proyección}}
+| 20–22 abr 2016
+| 1771
+| style="background:#FFCBE6"| '''52.4'''
+| 47.6
+| style="background:#E2007A"| {{color|white|4.8}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-18abr/>{{refn|group=lower-alpha|name=proyección}}
+| 15–18 abr 2016
+| 1200
+| style="background:#FFCBE6"| '''50.4'''
+| 49.6
+| style="background:#E2007A"| {{color|white|0.8}}
+|-
+| CPI/Exitosa<ref name=sim-cpi1>{{cita web |url=https://rpp.pe/politica/elecciones/cpi-436-votaria-por-keiko-fujimori-y-415-por-ppk-en-segunda-vuelta-noticia-954969 |título=CPI: 43.6% votaría por Keiko Fujimori y 41.5% por PPK en segunda vuelta |fechaacceso= |apellido= |nombre= |fecha=19 de abril de 2016 |sitioweb=rpp.pe |idioma= |cita= }}</ref>
+| 15–17 abr 2016
+| 1800
+| 48.8
+| style="background:#FFD9B4"| '''51.2'''
+| style="background:#FF8000"| {{color|white|2.4}}
+|-
+| Ipsos Perú/América<ref name=ipsos-15abr/>{{refn|group=lower-alpha|name=proyección}}
+| 13–15 abr 2016
+| 1822
+| style="background:#FFCBE6"| '''52.4'''
+| 47.6
+| style="background:#E2007A"| {{color|white|4.8}}
+|-
+| colspan="6" style="background:#A0A0A0"|
+|- style="height:38px; background:#EFEFEF;"
+| colspan="6" | '''[[Elecciones generales de Perú de 2016|Elecciones generales de 2016]]''' (primera vuelta, 10 de abril de 2016)
+|-
+| colspan="6" style="background:#A0A0A0"|
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú<ref name=ipsos-simf/>{{refn|group=lower-alpha|name=proyección}}
+| 7 abr 2016
+| ?
+| style="background:#FFCBE6"| '''54.2'''
+| 45.8
+| style="background:#E2007A"| {{color|white|8.4}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim3>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-04/OpinionData030416.pdf |título=La arremetida de Verónika Mendoza |apellido= |nombre= |fecha=3 de abril de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FFCBE6"| '''51.2'''
+| 48.8
+| style="background:#E2007A"| {{color|white|2.4}}
+|-
+| CPI/Correo<ref name=cpi-sim2/>{{refn|group=lower-alpha|name=proyección}}
+| 30 mar–1 abr 2016
+| 1800
+| 46.6
+| style="background:#FFD9B4"| '''53.4'''
+| style="background:#FF8000"| {{color|white|6.8}}
+|-
+| GfK/La República<ref name=Gfk-sim/>{{refn|group=lower-alpha|name=proyección}}
+| 28–30 mar 2016
+| 1828
+| 48.0
+| style="background:#FFD9B4"| '''52.0'''
+| style="background:#FF8000"| {{color|white|4.0}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>{{refn|group=lower-alpha|name=proyección}}
+| 28–30 mar 2016
+| 1511
+| 49.9
+| style="background:#FFD9B4"| '''50.1'''
+| style="background:#FF8000"| {{color|white|0.2}}
+|-
+| CPI/Exitosa<ref name=cpi-sim1/>{{refn|group=lower-alpha|name=proyección}}
+| 25–27 mar 2016
+| 11355
+| style="background:#FFCBE6"| '''50.9'''
+| 49.1
+| style="background:#E2007A"| {{color|white|1.8}}
+|-
+| Ipsos Perú/América<ref name=ipsos-sim2/>{{refn|group=lower-alpha|name=proyección}}
+| 22–24 mar 2016
+| 1791
+| style="background:#FFCBE6"| '''52.5'''
+| 47.5
+| style="background:#E2007A"| {{color|white|5.0}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim2/>{{refn|group=lower-alpha|name=proyección}}
+| 17–20 mar 2016
+| 1200
+| style="background:#FFCBE6"| '''53.0'''
+| 47.0
+| style="background:#E2007A"| {{color|white|6.0}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim1/>{{refn|group=lower-alpha|name=proyección}}
+| 15–17 mar 2016
+| 1792
+| style="background:#FFCBE6"| '''51.2'''
+| 48.8
+| style="background:#E2007A"| {{color|white|2.4}}
+|-
+| CPI/Exitosa<ref name=cpi-mar16/>{{refn|group=lower-alpha|name=proyección}}
+| 13–16 mar 2016
+| 1650
+| 47.6
+| style="background:#FFD9B4"| '''52.4'''
+| style="background:#FF8000"| {{color|white|4.8}}
+|-
+| GfK/La República<ref name=gfk-mar2/>{{refn|group=lower-alpha|name=proyección}}
+| 11–15 mar 2016
+| 1611
+| 49.3
+| style="background:#FFD9B4"| '''50.7'''
+| style="background:#FF8000"| {{color|white|1.4}}
+|-
+| Ipsos Perú/El Comercio<ref name=PPK/>{{refn|group=lower-alpha|name=proyección}}
+| 5–10 mar 2016
+| 1230
+| style="background:#FFCBE6"| '''50.6'''
+| 49.4
+| style="background:#E2007A"| {{color|white|1.2}}
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16/>{{refn|group=lower-alpha|name=proyección}}
+| 4–7 mar 2016
+| 1200
+| 42.6
+| style="background:#FFD9B4"| '''57.4'''
+| style="background:#FF8000"| {{color|white|14.8}}
+|-
+| GfK/La República<ref name=GfK-mar1/>{{refn|group=lower-alpha|name=proyección}}
+| 27 feb–1 mar 2016
+| 1552
+| 38.2
+| style="background:#FFD9B4"| '''61.8'''
+| style="background:#FF8000"| {{color|white|23.6}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-feb16/>{{refn|group=lower-alpha|name=proyección}}
+| 13–18 feb 2016
+| 1815
+| 47.0
+| style="background:#FFD9B4"| '''53.0'''
+| style="background:#FF8000"| {{color|white|6.0}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-feb16/>{{refn|group=lower-alpha|name=proyección}}
+| 5–8 feb 2016
+| 1200
+| 46.2
+| style="background:#FFD9B4"| '''53.8'''
+| style="background:#FF8000"| {{color|white|7.6}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-ene16/>{{refn|group=lower-alpha|name=proyección}}
+| 12–14 ene 2016
+| 1836
+| 44.7
+| style="background:#FFD9B4"| '''55.3'''
+| style="background:#FF8000"| {{color|white|10.6}}
+|-
+| CPI/Correo<ref name=cpi-ene16/>{{refn|group=lower-alpha|name=proyección}}
+| 9–12 ene 2016
+| 1500
+| 40.1
+| style="background:#FFD9B4"| '''59.9'''
+| style="background:#FF8000"| {{color|white|19.8}}
+|-
+| CPI/Correo<ref name=cpi-dic15/>{{refn|group=lower-alpha|name=proyección}}
+| 7–10 dic 2015
+| 1450
+| 43.8
+| style="background:#FFD9B4"| '''56.2'''
+| style="background:#FF8000"| {{color|white|12.4}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic15/>{{refn|group=lower-alpha|name=proyección}}
+| 5–10 dic 2015
+| 1846
+| 43.7
+| style="background:#FFD9B4"| '''56.3'''
+| style="background:#FF8000"| {{color|white|12.6}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-nov15/>{{refn|group=lower-alpha|name=proyección}}
+| 7–13 nov 2015
+| 1835
+| 41.2
+| style="background:#FFD9B4"| '''58.8'''
+| style="background:#FF8000"| {{color|white|17.6}}
+|-
+| CPI/Correo<ref name=cpi-nov15/>{{refn|group=lower-alpha|name=proyección}}
+| 1–5 nov 2015
+| 1450
+| 42.7
+| style="background:#FFD9B4"| '''57.3'''
+| style="background:#FF8000"| {{color|white|14.6}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>{{refn|group=lower-alpha|name=proyección}}
+| 29 oct–4 nov 2015
+| 1200
+| 43.8
+| style="background:#FFD9B4"| '''56.3'''
+| style="background:#FF8000"| {{color|white|12.5}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-oct15/>{{refn|group=lower-alpha|name=proyección}}
+| 9–14 oct 2015
+| 1808
+| 40.0
+| style="background:#FFD9B4"| '''60.0'''
+| style="background:#FF8000"| {{color|white|20.0}}
+|-
+| CPI/Correo<ref name=cpi-ago15/>{{refn|group=lower-alpha|name=proyección}}
+| 23–28 ago 2015
+| 1200
+| 42.6
+| style="background:#FFD9B4"| '''57.4'''
+| style="background:#FF8000"| {{color|white|14.8}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-jul15/>{{refn|group=lower-alpha|name=proyección}}
+| 11–16 jul 2015
+| 1839
+| 42.2
+| style="background:#FFD9B4"| '''57.8'''
+| style="background:#FF8000"| {{color|white|15.6}}
+|-
+| CPI/RPP<ref name=cpi-jun15/>{{refn|group=lower-alpha|name=proyección}}
+| 22–27 jun 2015
+| 1200
+| 45.2
+| style="background:#FFD9B4"| '''54.8'''
+| style="background:#FF8000"| {{color|white|9.6}}
+|-
+| CPI/RPP<ref name=cpi-may15/>{{refn|group=lower-alpha|name=proyección}}
+| 13–17 may 2015
+| 1450
+| 40.9
+| style="background:#FFD9B4"| '''59.1'''
+| style="background:#FF8000"| {{color|white|18.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-abr15/>{{refn|group=lower-alpha|name=proyección}}
+| 11–17 abr 2015
+| 1807
+| 42.7
+| style="background:#FFD9B4"| '''57.3'''
+| style="background:#FF8000"| {{color|white|14.6}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum1-mar15/>{{refn|group=lower-alpha|name=proyección|Indecisos y/o abstencionistas excluidos.}}
+| 27 feb–3 mar 2015
+| 1200
+| 44.2
+| style="background:#FFD9B4"| '''55.8'''
+| style="background:#FF8000"| {{color|white|11.6}}
+|-
+|}
+
+=== Preferencias de voto ===
+La siguiente tabla enumera las preferencias de voto en bruto (incluyendo blancos, viciados y sin respuesta) y no ponderadas.
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:90%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:180px;" rowspan="2"| Encuestadora/Medio
+! style="width:70px;" rowspan="2"| Fecha
+! style="width:60px;" rowspan="2"| Muestra
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]</small><br />[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:40px;" rowspan="2"| <small>{{Abreviatura|B/V|Blanco/viciado/ninguno/no iría a votar}}
+! style="width:40px;" rowspan="2"| <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+! style="width:27px;" rowspan="2"| <small>{{abreviatura|Dif.|Diferencia}}
+|-
+! style="background:#E2007A"|
+! style="background:#FF8000"|
+|-
+| colspan="8" style="background:#A0A0A0"|
+|- style="background-color:#EFEFEF;"
+| '''[[Elecciones generales de Perú de 2016|Elecciones generales de 2016]]''' (balotaje)
+| 5 jun 2016
+| —
+| style="background:#FFCBE6"| '''46.9'''
+| 46.6
+| 6.5
+| –
+| style="background:#E2007A"| {{color|white|0.3}}
+|-
+| colspan="8" style="background:#A0A0A0"|
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú<ref name=balotaje-ipsossim5/>{{refn|group=lower-alpha|name=simulacro}}
+| 4 jun 2016
+| 7260
+| style="background:#FFCBE6"| '''45.5'''
+| 44.7
+| 9.8
+| –
+| style="background:#E2007A"| {{color|white|0.8}}
+|- style="background:#FFEAEA"
+| GfK<ref name=balotaje-gfksim3/>{{refn|group=lower-alpha|name=simulacro}}
+| 1–2 jun 2016
+| 1816
+| 44.5
+| style="background:#FFD9B4"| '''45.0'''
+| 10.5
+| –
+| style="background:#FF8000"| {{color|white|0.5}}
+|- style="background:#FFEAEA"
+| Datum Internacional<ref name=balotaje-datumf/>{{refn|group=lower-alpha|name=simulacro}}
+| 31 may–1 jun 2016
+| 2008
+| 42.6
+| style="background:#FFD9B4"| '''46.3'''
+| 11.1
+| –
+| style="background:#FF8000"| {{color|white|3.7}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim4/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 26–27 may 2016
+| 1815
+| 40.6
+| style="background:#FFD9B4"| '''45.9'''
+| 13.5
+| –
+| style="background:#FF8000"| {{color|white|5.3}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim4/>
+| 1812
+| 38
+| style="background:#FFD9B4"| '''43'''
+| 12
+| 7
+| style="background:#FF8000"| {{color|white|5}}
+|-
+| CPI/Exitosa<ref name=balotaje-cpisim5/>{{refn|group=lower-alpha|name=simulacro}}
+| 26–27 may 2016
+| 1882
+| 38.3
+| style="background:#FFD9B4"| '''46.5'''
+| 15.2
+| –
+| style="background:#FF8000"| {{color|white|8.2}}
+|- style="height:38px;"
+| GfK/La República<ref name=balotaje-gfksim2/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 23–25 may 2016
+| rowspan=2| 1508
+| 41.6
+| style="background:#FFD9B4"| '''45.4'''
+| 13.0
+| –
+| style="background:#FF8000"| {{color|white|3.8}}
+|- style="height:38px;"
+| GfK/La República<ref name=balotaje-gfksim2/>
+| 40.8
+| style="background:#FFD9B4"| '''45.7'''
+| 9.6
+| 3.9
+| style="background:#FF8000"| {{color|white|4.9}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref name=balotaje-datumsim2/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 23–25 may 2016
+| 1979
+| 40.7
+| style="background:#FFD9B4"| '''45.6'''
+| 13.7
+| –
+| style="background:#FF8000"| {{color|white|4.9}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref name=balotaje-datumsim2/>
+| 1964
+| 39.8
+| style="background:#FFD9B4"| '''45.1'''
+| 12.4
+| 2.7
+| style="background:#FF8000"| {{color|white|5.3}}
+|-
+| CPI/Exitosa<ref name=balotaje-cpisim4/>{{refn|group=lower-alpha|name=simulacro}}
+| 23–24 may 2016
+| 1882
+| 38.9
+| style="background:#FFD9B4"| '''46.0'''
+| 15.1
+| –
+| style="background:#FF8000"| {{color|white|7.1}}
+|- 
+| Ipsos Perú/América<ref name=balotaje-ipsossim3/>{{refn|group=lower-alpha|name=simulacro}}
+| 19–20 may 2016
+| 1803
+| 41.6
+| style="background:#FFD9B4"| '''46.1'''
+| 12.3
+| –
+| style="background:#FF8000"| {{color|white|4.5}}
+|- 
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim3/>
+| 19–20 may 2016
+| 1823
+| 38
+| style="background:#FFD9B4"| '''41'''
+| 14
+| 7
+| style="background:#FF8000"| {{color|white|3}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim2/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 11–13 may 2016
+| 1784
+| 43.8
+| style="background:#FFD9B4"| '''44.1'''
+| 12.1
+| –
+| style="background:#FF8000"| {{color|white|0.3}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim2/>
+| 1805
+| style="background:#FFCBE6"| '''42'''
+| 41
+| 12
+| 5
+| style="background:#E2007A"| {{color|white|1}}
+|-
+| CPI/Exitosa<ref name=balotaje-cpisim3/>{{refn|group=lower-alpha|name=simulacro}}
+| 9–11 may 2016
+| 1882
+| 40.2
+| style="background:#FFD9B4"| '''45.8'''
+| 14.0
+| –
+| style="background:#FF8000"| {{color|white|5.6}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref name=balotaje-datumsim1/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 6–10 may 2016
+| rowspan=2| 1200
+| style="background:#FFCBE6"| '''42.3'''
+| style="background:#FFD9B4"| '''42.3'''
+| 15.4
+| –
+| style="background:#999999"| {{color|white|—}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref name=balotaje-datumsim1/>
+| 40.6
+| style="background:#FFD9B4"| '''41.9'''
+| 12.2
+| 4.3
+| style="background:#FF8000"| {{color|white|1.3}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim1/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 4–6 may 2016
+| 1755
+| 41.0
+| style="background:#FFD9B4"| '''43.4'''
+| 15.6
+| –
+| style="background:#FF8000"| {{color|white|2.4}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=balotaje-ipsossim1/>
+| 1813
+| 39
+| style="background:#FFD9B4"| '''42'''
+| 14
+| 5
+| style="background:#FF8000"| {{color|white|3}}
+|-
+| CPI/Correo<ref name=balotaje-cpisim2/>{{refn|group=lower-alpha|name=simulacro}}
+| 26–27 abr 2016
+| 1800
+| 40.1
+| style="background:#FFD9B4"| '''42.3'''
+| 17.6
+| –
+| style="background:#FF8000"| {{color|white|2.2}}
+|- style="height:38px;"
+| GfK/La República<ref name=balotaje-gfksim1/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 24–27 abr 2016
+| rowspan=2| 1554
+| style="background:#FFCBE6"| '''43.3'''
+| 43.1
+| 13.6
+| –
+| style="background:#E2007A"| {{color|white|0.2}}
+|- style="height:38px;"
+| GfK/La República<ref name=balotaje-gfksim1/>
+| style="background:#FFCBE6"| '''43.1'''
+| 42.6
+| 10.5
+| 3.8
+| style="background:#E2007A"| {{color|white|0.5}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-22abr>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-04/Opinion%20Data%2025%2004%2016.pdf |título=Ligera ventaja de PPK |fechaacceso= |apellido= |nombre= |fecha=25 de abril de 2016 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 20–22 abr 2016
+| 1771
+| style="background:#FFCBE6"| '''43'''
+| 39
+| 13
+| 5
+| style="background:#E2007A"| {{color|white|4}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-18abr>{{cita web |url=https://rpp.pe/politica/elecciones/datum-noticia-956070 |título=Datum: 41.1% votaría por PPK y 40.4% por Keiko Fujimori en segunda vuelta |fechaacceso= |apellido= |nombre= |fecha=22 de abril de 2016 |sitioweb=rpp.pe |idioma= |cita= }}</ref>
+| 15–18 abr 2016
+| 1200
+| style="background:#FFCBE6"| '''41.1'''
+| 40.4
+| 8.6
+| 9.9
+| style="background:#E2007A"| {{color|white|0.7}}
+|-
+| CPI/Exitosa<ref name=sim-cpi1/>{{refn|group=lower-alpha|name=simulacro|Simulacro de votación.}}
+| 15–17 abr 2016
+| 1800
+| 41.5
+| style="background:#FFD9B4"| '''43.6'''
+| 14.9
+| –
+| style="background:#FF8000"| {{color|white|2.1}}
+|-
+| Ipsos Perú/América<ref name=ipsos-15abr>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-04/Opinion%20Data%20Abril%202016.pdf |título=Balance y liquidación de la primera vuelta |fechaacceso= |apellido= |nombre= |fecha=19 de abril de 2016 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 13–15 abr 2016
+| 1822
+| style="background:#FFCBE6"| '''44'''
+| 40
+| 10
+| 6
+| style="background:#E2007A"| {{color|white|4}}
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú<ref name=ipsos-simf/>
+| 7 abr 2016
+| ?
+| style="background:#FFCBE6"| '''45'''
+| 38
+| colspan=2| 17
+| style="background:#E2007A"| {{color|white|7}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim3/>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FFCBE6"| '''43'''
+| 41
+| colspan=2 |16
+| style="background:#E2007A"| {{color|white|2}}
+|-
+| CPI/Correo<ref name=cpi-sim2/>
+| 30 mar–1 abr 2016
+| 1800
+| 38.0
+| style="background:#FFD9B4"| '''43.5'''
+| 15.1
+| 3.4
+| style="background:#FF8000"| {{color|white|5.5}}
+|-
+| GfK/La República<ref name=Gfk-sim/>
+| 28–30 mar 2016
+| 1828
+| 37.8
+| style="background:#FFD9B4"| '''41.0'''
+| 17.6
+| 3.6
+| style="background:#FF8000"| {{color|white|3.2}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>
+| 28–30 mar 2016
+| 1511
+| 40.5
+| style="background:#FFD9B4"| '''40.6'''
+| 14.7
+| 4.2
+| style="background:#FF8000"| {{color|white|0.1}}
+|-
+| CPI/Exitosa<ref name=cpi-sim1/>
+| 25–27 mar 2016
+| 11355
+| style="background:#FFCBE6"| '''41.7'''
+| 40.2
+| 14.3
+| 3.8
+| style="background:#E2007A"| {{color|white|1.5}}
+|-
+| Ipsos Perú/América<ref name=ipsos-sim2/>
+| 22–24 mar 2016
+| 1791
+| style="background:#FFCBE6"| '''42'''
+| 38
+| colspan=2 |20
+| style="background:#E2007A"| {{color|white|4}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim2/>
+| 17–20 mar 2016
+| 1200
+| style="background:#FFCBE6"| '''43.6'''
+| 38.6
+| 13.3
+| 4.4
+| style="background:#E2007A"| {{color|white|5.0}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim1/>
+| 15–17 mar 2016
+| 1792
+| style="background:#FFCBE6"| '''43'''
+| 41
+| 12
+| 4
+| style="background:#E2007A"| {{color|white|2}}
+|-
+| CPI/Exitosa<ref name=cpi-mar16/>
+| 13–16 mar 2016
+| 1650
+| 39.4
+| style="background:#FFD9B4"| '''43.3'''
+| 13.9
+| 3.4
+| style="background:#FF8000"| {{color|white|3.9}}
+|-
+| GfK/La República<ref name=gfk-mar2/>
+| 11–15 mar 2016
+| 1611
+| 38.8
+| style="background:#FFD9B4"| '''39.9'''
+| 16.2
+| 5.1
+| style="background:#FF8000"| {{color|white|1.1}}
+|-
+| Ipsos Perú/El Comercio<ref name=PPK/>
+| 5–10 mar 2016
+| 1230
+| style="background:#FFCBE6"| '''40'''
+| 39
+| colspan=2| 21
+| style="background:#E2007A"| {{color|white|1}}
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16/>
+| 4–7 mar 2016
+| 1200
+| 34.1
+| style="background:#FFD9B4"| '''46.0'''
+| 16.6
+| 3.3
+| style="background:#FF8000"| {{color|white|11.9}}
+|-
+| GfK/La República<ref name=GfK-mar1/>
+| 27 feb–1 mar 2016
+| 1552
+| 27.8
+| style="background:#FFD9B4"| '''45.0'''
+| 20.0
+| 7.2
+| style="background:#FF8000"| {{color|white|17.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-feb16/>
+| 13–18 feb 2016
+| 1815
+| 39
+| style="background:#FFD9B4"| '''44'''
+| 13
+| 4
+| style="background:#FF8000"| {{color|white|5}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-feb16/>
+| 5–8 feb 2016
+| 1200
+| 37.3
+| style="background:#FFD9B4"| '''43.4'''
+| 13.3
+| 6.0
+| style="background:#FF8000"| {{color|white|6.1}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-ene16/>
+| 12–14 ene 2016
+| 1836
+| 38
+| style="background:#FFD9B4"| '''47'''
+| 10
+| 5
+| style="background:#FF8000"| {{color|white|9}}
+|-
+| CPI/Correo<ref name=cpi-ene16/>
+| 9–12 ene 2016
+| 1500
+| 30.4
+| style="background:#FFD9B4"| '''45.5'''
+| 21.9
+| 2.2
+| style="background:#FF8000"| {{color|white|15.1}}
+|-
+| CPI/Correo<ref name=cpi-dic15/>
+| 7–10 dic 2015
+| 1450
+| 35.0
+| style="background:#FFD9B4"| '''44.9'''
+| 17.7
+| 2.4
+| style="background:#FF8000"| {{color|white|9.9}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic15/>
+| 5–10 dic 2015
+| 1846
+| 38
+| style="background:#FFD9B4"| '''49'''
+| 10
+| 3
+| style="background:#FF8000"| {{color|white|11}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-nov15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-11/6201115_INF_V4_16Nov15%28OD%29.pdf |título=El Underdog del Norte |fechaacceso= |apellido= |nombre= |fecha= 16 de noviembre de 2015 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 7–13 nov 2015
+| 1835
+| 35
+| style="background:#FFD9B4"| '''50'''
+| 10
+| 5
+| style="background:#FF8000"| {{color|white|15}}
+|-
+| CPI/Correo<ref name=cpi-nov15/>
+| 1–5 nov 2015
+| 1450
+| 32.1
+| style="background:#FFD9B4"| '''43.0'''
+| 21.7
+| 3.2
+| style="background:#FF8000"| {{color|white|10.9}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| 35
+| style="background:#FFD9B4"| '''45'''
+| colspan=2| 20
+| style="background:#FF8000"| {{color|white|10}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-oct15/>
+| 9–14 oct 2015
+| 1808
+| 34
+| style="background:#FFD9B4"| '''51'''
+| 10
+| 5
+| style="background:#FF8000"| {{color|white|17}}
+|-
+| CPI/Correo<ref name=cpi-ago15/>
+| 23–28 ago 2015
+| 1200
+| 33.0
+| style="background:#FFD9B4"| '''44.5'''
+| 20.3
+| 2.2
+| style="background:#FF8000"| {{color|white|11.5}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-jul15/>
+| 11–16 jul 2015
+| 1839
+| 35
+| style="background:#FFD9B4"| '''48'''
+| 13
+| 4
+| style="background:#FF8000"| {{color|white|13}}
+|-
+| CPI/RPP<ref name=cpi-jun15/>
+| 22–27 jun 2015
+| 1200
+| 35.0
+| style="background:#FFD9B4"| '''42.5'''
+| 19.5
+| 3.0
+| style="background:#FF8000"| {{color|white|7.5}}
+|-
+| CPI/RPP<ref name=cpi-may15/>
+| 13–17 may 2015
+| 1450
+| 31.3
+| style="background:#FFD9B4"| '''45.3'''
+| 20.8
+| 2.6
+| style="background:#FF8000"| {{color|white|14.0}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-abr15/>
+| 11–17 abr 2015
+| 1807
+| 32
+| style="background:#FFD9B4"| '''43'''
+| 18
+| 7
+| style="background:#FF8000"| {{color|white|11}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum1-mar15/>
+| 27 feb–3 mar 2015
+| 1200
+| 34
+| style="background:#FFD9B4"| '''43'''
+| colspan=2| 23
+| style="background:#FF8000"| {{color|white|9}}
+|-
+|}
+
+=== Posibles escenarios ===
+<center>
+<div style="float:center; clear:right; height: 250px; width: 625px; overflow: auto; background-color: #FFFAF2; font-size: 100%; margin: 12px; border-style: solid; border-width: thin;">
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]</small><br />[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Verónika Mendoza]]</small><br />[[File:Logo-frente-amplio.svg|20px|link=Frente Amplio (Perú)]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>
+| 28–30 mar 2016
+| 1511
+| style="background:#E2007A; color:white" | '''45'''
+| 34
+| colspan=2| 21
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]</small><br />[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Alfredo Barnechea]]</small><br />[[File:Acción Popular.png|20px|link=Acción Popular]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>
+| 28–30 mar 2016
+| 1511
+| style="background:#E2007A; color:white" | '''45'''
+| 29
+| colspan=2| 26
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]</small><br />[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Alan García]]</small><br />[[File:Logo Alianza Popular 2016.jpg|20px|link=Alianza Popular (Perú)]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-nov15/>
+| 7–13 nov 2015
+| 1835
+| style="background:#E2007A; color:white" | '''51'''
+| 23
+| 18
+| 8
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| style="background:#E2007A; color:white" | '''53'''
+| 16
+| colspan=2| 31
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-oct15/>
+| 9–14 oct 2015
+| 1808
+| style="background:#E2007A; color:white" | '''52'''
+| 23
+| 17
+| 8
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-jul15/>
+| 11–16 jul 2015
+| 1839
+| style="background:#E2007A; color:white" | '''49'''
+| 23
+| 22
+| 6
+|-
+| Datum/Perú 21/Gestión<ref name=datum-jul2015/>
+| 3–7 jul 2015
+| 1200
+| style="background:#E2007A; color:white" | '''44'''
+| 16
+| colspan=2| 40
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-abr15/>
+| 11–17 abr 2015
+| 1807
+| style="background:#E2007A; color:white" | '''44'''
+| 23
+| 26
+| 7
+|-
+| Datum/Perú 21/Gestión<ref name=datum1-mar15/>
+| 27 feb–3 mar 2015
+| 1200
+| style="background:#E2007A; color:white" | '''46'''
+| 22
+| colspan=2| 32
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]</small><br />[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:55px;" | <small>[[Alejandro Toledo]]</small><br />[[File:Logo del partido Perú Posible.png|20px|link=Perú Posible]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| style="background:#E2007A; color:white" | '''53'''
+| 13
+| colspan=2| 34
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]</small><br />[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:55px;" | <small>[[César Acuña]]</small><br />[[File:Alianza para el Progreso Peru.svg|20px|link=Alianza para el Progreso del Perú]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic15/>
+| 5–10 dic 2015
+| 1846
+| style="background:#E2007A; color:white" | '''44'''
+| 35
+| 15
+| 6
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| style="background:#E2007A; color:white" | '''45'''
+| 23
+| colspan=2| 32
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:50px;" | <small>[[Verónika Mendoza]]</small><br />[[File:Logo-frente-amplio.svg|20px|link=Frente Amplio (Perú)]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú<ref name=ipsos-simf/>
+| 7 abr 2016
+| ?
+| style="background:#FF8000; color:white" | '''43'''
+| 42
+| colspan=2| 15
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim3/>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FF8000; color:white" | '''45'''
+| 39
+| colspan=2| 16
+|-
+| CPI/Correo<ref name=cpi-sim2/>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FF8000; color:white" | '''47.4'''
+| 32.8
+| 15.8
+| 4.0
+|-
+| GfK/La República<ref name=Gfk-sim/>
+| 28–30 mar 2016
+| 1828
+| style="background:#FF8000; color:white" | '''42'''
+| 37
+| 16
+| 5
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>
+| 28–30 mar 2016
+| 1511
+| style="background:#FF8000; color:white" | '''46'''
+| 36
+| colspan=2| 18
+|-
+| CPI/Exitosa<ref name=cpi-sim1/>
+| 25–27 mar 2016
+| 11355
+| style="background:#FF8000; color:white" | '''44.1'''
+| 36.4
+| 16.0
+| 3.5
+|-
+| Ipsos Perú/América<ref name=ipsos-sim2/>
+| 22–24 mar 2016
+| 1791
+| style="background:#FF8000; color:white" | '''42'''
+| 37
+| colspan=2| 21
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim2/>
+| 17–20 mar 2016
+| 1200
+| style="background:#FF8000; color:white" | '''43'''
+| 35
+| colspan=2| 22
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim1/>
+| 15–17 mar 2016
+| 1792
+| style="background:#FF8000; color:white" | '''42'''
+| 40
+| 14
+| 4
+|-
+| CPI/Exitosa<ref name=cpi-mar16/>
+| 13–16 mar 2016
+| 1650
+| style="background:#FF8000; color:white" | '''46.4'''
+| 33.4
+| 16.5
+| 3.7
+|-
+| GfK/La República<ref name=gfk-mar2/>
+| 11–15 mar 2016
+| 1611
+| style="background:#FF8000; color:white" | '''44'''
+| 31
+| 19
+| 6
+|-
+| Ipsos Perú/El Comercio<ref name=PPK/>
+| 5–10 mar 2016
+| 1230
+| style="background:#FF8000; color:white" | '''43'''
+| 38
+| 15
+| 4
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16/>
+| 4–7 mar 2016
+| 1200
+| style="background:#FF8000; color:white" | '''50'''
+| 26
+| colspan=2| 24
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:50px;" | <small>[[Alfredo Barnechea]]</small><br />[[File:Acción Popular.png|20px|link=Acción Popular]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim3/>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FF8000; color:white" | '''45'''
+| 38
+| colspan=2| 17
+|-
+| CPI/Correo<ref name=cpi-sim2/>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FF8000; color:white" | '''47.9'''
+| 33.2
+| 14.4
+| 4.5
+|-
+| GfK/La República<ref name=Gfk-sim/>
+| 28–30 mar 2016
+| 1828
+| style="background:#FF8000; color:white" | '''42'''
+| 35
+| 19
+| 4
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>
+| 28–30 mar 2016
+| 1511
+| style="background:#FF8000; color:white" | '''44'''
+| 37
+| colspan=2| 19
+|-
+| CPI/Exitosa<ref name=cpi-sim1/>
+| 25–27 mar 2016
+| 11355
+| style="background:#FF8000; color:white" | '''43.6'''
+| 39.1
+| 14.2
+| 3.1
+|-
+| Ipsos Perú/América<ref name=ipsos-sim2/>
+| 22–24 mar 2016
+| 1791
+| style="background:#FF8000; color:white" | '''42'''
+| 39
+| colspan=2| 19
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim2/>
+| 17–20 mar 2016
+| 1200
+| style="background:#FF8000; color:white" | '''42'''
+| 41
+| colspan=2| 17
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim1/>
+| 15–17 mar 2016
+| 1792
+| style="background:#FF8000; color:white" | '''41'''
+| 40
+| 14
+| 5
+|-
+| CPI/Exitosa<ref name=cpi-mar16/>
+| 13–16 mar 2016
+| 1650
+| style="background:#FF8000; color:white" | '''45.7'''
+| 36.5
+| 13.7
+| 4.1
+|-
+| GfK/La República<ref name=gfk-mar2/>
+| 11–15 mar 2016
+| 1611
+| style="background:#FF8000; color:white" | '''44'''
+| 32
+| 18
+| 6
+|-
+| Ipsos Perú/El Comercio<ref name=PPK/>
+| 5–10 mar 2016
+| 1230
+| style="background:#FF8000; color:white" | '''42'''
+| 40
+| 14
+| 4
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16/>
+| 4–7 mar 2016
+| 1200
+| style="background:#FF8000; color:white" | '''49'''
+| 30
+| colspan=2| 21
+|-
+| GfK/La República<ref name=GfK-mar1/>
+| 27 feb–1 mar 2016
+| 1552
+| style="background:#FF8000; color:white" | '''48'''
+| 23
+| 23
+| 6
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:50px;" | <small>[[Alan García]]</small><br />[[File:Logo Alianza Popular 2016.jpg|20px|link=Alianza Popular (Perú)]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim3/>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FF8000; color:white" | '''50'''
+| 32
+| colspan=2| 18
+|-
+| CPI/Correo<ref name=cpi-sim2/>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FF8000; color:white" | '''50.5'''
+| 14.7
+| 30.3
+| 4.5
+|-
+| GfK/La República<ref name=Gfk-sim/>
+| 28–30 mar 2016
+| 1828
+| style="background:#FF8000; color:white" | '''45'''
+| 14
+| 37
+| 4
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>
+| 28–30 mar 2016
+| 1511
+| style="background:#FF8000; color:white" | '''50'''
+| 14
+| colspan=2| 36
+|-
+| CPI/Exitosa<ref name=cpi-sim1/>
+| 25–27 mar 2016
+| 11355
+| style="background:#FF8000; color:white" | '''46.8'''
+| 16.2
+| 33.2
+| 3.8
+|-
+| Ipsos Perú/América<ref name=ipsos-sim2/>
+| 22–24 mar 2016
+| 1791
+| style="background:#FF8000; color:white" | '''45'''
+| 16
+| colspan=2| 39
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim2/>
+| 17–20 mar 2016
+| 1200
+| style="background:#FF8000; color:white" | '''47'''
+| 16
+| colspan=2| 37
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim1/>
+| 15–17 mar 2016
+| 1792
+| style="background:#FF8000; color:white" | '''47'''
+| 19
+| 29
+| 5
+|-
+| CPI/Exitosa<ref name=cpi-mar16/>
+| 13–16 mar 2016
+| 1650
+| style="background:#FF8000; color:white" | '''48.8'''
+| 16.4
+| 30.4
+| 4.4
+|-
+| GfK/La República<ref name=gfk-mar2/>
+| 11–15 mar 2016
+| 1611
+| style="background:#FF8000; color:white" | '''48'''
+| 13
+| 34
+| 5
+|-
+| Ipsos Perú/El Comercio<ref name=PPK/>
+| 5–10 mar 2016
+| 1230
+| style="background:#FF8000; color:white" | '''48'''
+| 21
+| 26
+| 5
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16/>
+| 4–7 mar 2016
+| 1200
+| style="background:#FF8000; color:white" | '''50'''
+| 16
+| colspan=2| 34
+|-
+| GfK/La República<ref name=GfK-mar1/>
+| 27 feb–1 mar 2016
+| 1552
+| style="background:#FF8000; color:white" | '''50'''
+| 13
+| 32
+| 5
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-feb16/>
+| 13–18 feb 2016
+| 1815
+| style="background:#FF8000; color:white" | '''52'''
+| 17
+| 26
+| 5
+|-
+| Datum/Perú 21/Gestión<ref name=datum-feb16/>
+| 5–8 feb 2016
+| 1200
+| style="background:#FF8000; color:white" | '''51'''
+| 16
+| colspan=2| 33
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-ene16/>
+| 12–14 ene 2016
+| 1836
+| style="background:#FF8000; color:white" | '''56'''
+| 21
+| 18
+| 5
+|-
+| CPI/Correo<ref name=cpi-ene16/>
+| 9–12 ene 2016
+| 1500
+| style="background:#FF8000; color:white" | '''45.5'''
+| 30.4
+| 21.9
+| 2.2
+|-
+| CPI/Correo<ref name=cpi-dic15/>
+| 7–10 dic 2015
+| 1450
+| style="background:#FF8000; color:white" | '''49.0'''
+| 19.5
+| 28.5
+| 3.0
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic15/>
+| 5–10 dic 2015
+| 1846
+| style="background:#FF8000; color:white" | '''59'''
+| 18
+| 19
+| 4
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-nov15/>
+| 7–13 nov 2015
+| 1835
+| style="background:#FF8000; color:white" | '''57'''
+| 20
+| 18
+| 5
+|-
+| CPI/Correo<ref name=cpi-nov15/>
+| 1–5 nov 2015
+| 1450
+| style="background:#FF8000; color:white" | '''46.0'''
+| 17.1
+| 33.6
+| 3.3
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| style="background:#FF8000; color:white" | '''53'''
+| 16
+| colspan=2| 31
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-oct15/>
+| 9–14 oct 2015
+| 1808
+| style="background:#FF8000; color:white" | '''59'''
+| 18
+| 17
+| 6
+|-
+| CPI/Correo<ref name=cpi-ago15/>
+| 23–28 ago 2015
+| 1200
+| style="background:#FF8000; color:white" | '''48.3'''
+| 18.7
+| 31.2
+| 1.8
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-jul15/>
+| 11–16 jul 2015
+| 1839
+| style="background:#FF8000; color:white" | '''53'''
+| 21
+| 21
+| 5
+|-
+| Datum/Perú 21/Gestión<ref name=datum-jul2015/>
+| 3–7 jul 2015
+| 1200
+| style="background:#FF8000; color:white" | '''47'''
+| 17
+| colspan=2| 36
+|-
+| CPI/RPP<ref name=cpi-jun15/>
+| 22–27 jun 2015
+| 1200
+| style="background:#FF8000; color:white" | '''47.4'''
+| 21.1
+| 28.2
+| 3.2
+|-
+| CPI/RPP<ref name=cpi-may15/>
+| 13–17 may 2015
+| 1450
+| style="background:#FF8000; color:white" | '''46.6'''
+| 20.2
+| 29.8
+| 3.3
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-abr15/>
+| 11–17 abr 2015
+| 1807
+| style="background:#FF8000; color:white" | '''48'''
+| 21
+| 24
+| 7
+|-
+| Datum/Perú 21/Gestión<ref name=datum1-mar15/>
+| 27 feb–3 mar 2015
+| 1200
+| style="background:#FF8000; color:white" | '''49'''
+| 21
+| colspan=2| 30
+|-
+| CPI/Correo<ref name=cpi-feb15/>
+| 2–6 feb 2015
+| 1450
+| style="background:#FF8000; color:white" | '''50.8'''
+| 18.8
+| 27.4
+| 3.0
+|-
+| CPI/Correo<ref name=cpi-jun14/>
+| 12–17 jun 2014
+| 1450
+| style="background:#FF8000; color:white" | '''49.6'''
+| 17.5
+| 30.3
+| 2.6
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:55px;" | <small>[[Alejandro Toledo]]</small><br />[[File:Logo del partido Perú Posible.png|20px|link=Perú Posible]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| style="background:#FF8000; color:white" | '''55'''
+| 16
+| colspan=2| 29
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:55px;" | <small>[[Julio Guzmán]]</small><br /><small>[[Todos por el Perú|TPP]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16/>
+| 4–7 mar 2016
+| 1200
+| style="background:#FF8000; color:white" | '''46'''
+| 34
+| colspan=2| 20
+|-
+| GfK/La República<ref name=GfK-mar1/>
+| 27 feb–1 mar 2016
+| 1552
+| style="background:#FF8000; color:white" | '''44'''
+| 34
+| 15
+| 7
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-feb16/>
+| 13–18 feb 2016
+| 1815
+| style="background:#FF8000; color:white" | '''45'''
+| 43
+| 9
+| 3
+|-
+| Datum/Perú 21/Gestión<ref name=datum-feb16/>
+| 5–8 feb 2016
+| 1200
+| style="background:#FF8000; color:white" | '''42'''
+| 41
+| colspan=2| 17
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:55px;" | <small>[[César Acuña]]</small><br />[[File:Alianza para el Progreso Peru.svg|20px|link=Alianza para el Progreso del Perú]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16/>
+| 4–7 mar 2016
+| 1200
+| style="background:#FF8000; color:white" | '''51'''
+| 17
+| colspan=2| 32
+|-
+| GfK/La República<ref name=GfK-mar1/>
+| 27 feb–1 mar 2016
+| 1552
+| style="background:#FF8000; color:white" | '''49'''
+| 16
+| 29
+| 6
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-feb16/>
+| 13–18 feb 2016
+| 1815
+| style="background:#FF8000; color:white" | '''48'''
+| 28
+| 20
+| 4
+|-
+| Datum/Perú 21/Gestión<ref name=datum-feb16/>
+| 5–8 feb 2016
+| 1200
+| style="background:#FF8000; color:white" | '''48'''
+| 22
+| colspan=2| 30
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-ene16/>
+| 12–14 ene 2016
+| 1836
+| style="background:#FF8000; color:white" | '''50'''
+| 33
+| 12
+| 5
+|-
+| CPI/Correo<ref name=cpi-ene16/>
+| 9–12 ene 2016
+| 1500
+| style="background:#FF8000; color:white" | '''44.5'''
+| 30.3
+| 22.7
+| 2.5
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic15/>
+| 5–10 dic 2015
+| 1846
+| style="background:#FF8000; color:white" | '''51'''
+| 33
+| 12
+| 4
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| style="background:#FF8000; color:white" | '''49'''
+| 23
+| colspan=2| 28
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Verónika Mendoza]]</small><br />[[File:Logo-frente-amplio.svg|20px|link=Frente Amplio (Perú)]]
+! style="width:50px;" | <small>[[Alfredo Barnechea]]</small><br />[[File:Acción Popular.png|20px|link=Acción Popular]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>
+| 28–30 mar 2016
+| 1511
+| style="background:#006400; color:white" | '''39'''
+| 31
+| colspan=2| 30
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Alan García]]</small><br />[[File:Logo Alianza Popular 2016.jpg|20px|link=Alianza Popular (Perú)]]
+! style="width:55px;" | <small>[[Alejandro Toledo]]</small><br />[[File:Logo del partido Perú Posible.png|20px|link=Perú Posible]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| 20
+| style="background:#80FF00; color:white" | '''24'''
+| colspan=2| 56
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:50px;" | <small>[[Alan García]]</small><br />[[File:Logo Alianza Popular 2016.jpg|20px|link=Alianza Popular (Perú)]]
+! style="width:55px;" | <small>[[César Acuña]]</small><br />[[File:Alianza para el Progreso Peru.svg|20px|link=Alianza para el Progreso del Perú]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic15/>
+| 5–10 dic 2015
+| 1846
+| 22
+| style="background:#1E5BA8; color:white" | '''51'''
+| 21
+| 6
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| 18
+| style="background:#1E5BA8; color:white" | '''37'''
+| colspan=2| 45
+|-
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:175px;"| Encuestadora/Medio
+! style="width:60px;"| Fecha
+! style="width:50px;" | Muestra
+! style="width:55px;" | <small>[[Alejandro Toledo]]</small><br />[[File:Logo del partido Perú Posible.png|20px|link=Perú Posible]]
+! style="width:55px;" | <small>[[César Acuña]]</small><br />[[File:Alianza para el Progreso Peru.svg|20px|link=Alianza para el Progreso del Perú]]
+! style="width:50px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:50px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15/>
+| 29 oct–4 nov 2015
+| 1200
+| 17
+| style="background:#1E5BA8; color:white" | '''40'''
+| colspan=2| 43
+|-
+|}
+</div>
+</center>
+
+== Primera vuelta ==
+=== Sumario gráfico ===
+{{wide image|SondeosEleccionesGeneralesPerú2016.png|1000px|Líneas de tendencia de los sondeos de intención de voto para la primera vuelta de las elecciones presidenciales de Perú de 2016, cada línea corresponde a un partido político.}}
+
+;{{small|Leyenda:}}
+{{leyenda|#FFEAEA|Sondeo realizado en el periodo de prohibición legal de la difusión de sondeos de intención de voto.|borde=#AAAAAA}}
+
+=== Intención de voto ===
+La siguiente tabla enumera las estimaciones ponderadas (sin incluir votos en blanco y nulos) de la intención de voto.
+
+{| class="wikitable mw-datatable collapsible" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:200px;" rowspan="2"| Encuestadora/Medio
+! style="width:72px;" rowspan="2"| Fecha
+! style="width:60px;" rowspan="2"| Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]<br>[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]<br>[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Verónika Mendoza]]<br>[[File:Logo-frente-amplio.svg|20px|link=Frente Amplio (Perú)]]
+! style="width:50px;" | <small>[[Alfredo Barnechea]]<br>[[File:Acción Popular.png|20px|link=Acción Popular]]
+! style="width:50px;" | <small>[[Alan García]]<br>[[File:Logo Alianza Popular 2016.jpg|20px|link=Alianza Popular (Perú)]]
+! style="width:50px;" | <small>[[Gregorio Santos]]<br>[[File:Democracia Directa house-only logo.svg|20px|link=Democracia Directa (Perú)]]
+! style="width:50px;" | <small>[[Fernando Olivera]]<br>[[File:Frente Independiente Moralizador.jpg|20px|link=Frente Esperanza]]
+! style="width:50px;" | <small>[[Alejandro Toledo]]<br>[[File:Logo del partido Perú Posible.png|20px|link=Perú Posible]]
+! style="width:50px;" | <small>[[Julio Guzmán]]<br>[[File:Todos por el Perú (logo).svg|20px|link=Todos por el Perú]]
+! style="width:50px;" | <small>[[César Acuña]]<br>[[File:Alianza para el Progreso Peru.svg|20px|link=Alianza para el Progreso del Perú]]
+! style="width:30px;" rowspan="2"| <small>{{abreviatura|Dif.|Diferencia}}
+|-
+! style="background:#FF8000"|
+! style="background:#E2007A"|
+! style="background:#006400"|
+! style="background:#000000"|
+! style="background:#FF0000"|
+! style="background:#FFFF01"|
+! style="background:#8C004B"|
+! style="background:#80FF00"|
+! style="background:#934399"|
+! style="background:#1155CC"|
+|-
+| colspan="17" style="background:#A0A0A0"|
+|- style="background-color:#EFEFEF;"
+| '''[[Elecciones generales de Perú de 2016|Elecciones generales de 2016]]''' (primera vuelta)
+| 10 abr 2016
+| —
+| style="background:#FFD9B4"| '''39.9'''
+| 21.1
+| 18.7
+| 7.0
+| 5.8
+| 4.0
+| 1.3
+| 1.3
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|18.8}}
+|-
+| colspan="17" style="background:#A0A0A0"|
+|- style="height:38px; background:#EAFFEA"
+| Ipsos Perú/América<ref>{{cita web |url=https://www.americatv.com.pe/noticias/actualidad/flash-electoral-mira-aqui-resultados-boca-urna-n226760 |título=Elecciones 2016: los resultados por conteo rápido al 100%, según Ipsos Perú |fechaacceso= |apellido= |nombre= |fecha=10 de abril de 2016 |sitioweb=americatv.com.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=conteo}}
+| 10 abr 2016
+| ?
+| style="background:#FFD9B4"| '''39.6'''
+| 21.5
+| 18.7
+| 7.1
+| 5.7
+| 4.0
+| 1.3
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|18.1}}
+|- style="height:38px; background:#EAFFEA"
+| GfK/Latina<ref>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/country_one_pager/PE/documents/Resultados_GfK_en_elecciones_2016_1era_vuelta_vF.pdf |título=Elecciones GfK 2016 |fechaacceso= |apellido= |nombre= |fecha=10 de abril de 2016 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160601080322/http://www.gfk.com/fileadmin/user_upload/country_one_pager/PE/documents/Resultados_GfK_en_elecciones_2016_1era_vuelta_vF.pdf |fechaarchivo=1 de junio de 2016 }}</ref>{{refn|group=lower-alpha|name=conteo}}
+| 10 abr 2016
+| ?
+| style="background:#FFD9B4"| '''39.3'''
+| 21.3
+| 18.7
+| 7.2
+| 5.8
+| 4.1
+| 1.4
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|18.0}}
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú/América<ref>{{cita web |url=https://elcomercio.pe/politica/elecciones/flash-electoral-ipsos-keiko-378-ppk-209-y-mendoza-203-noticia-1893186/?ref=portada_archivo&ft=flujo_archivo_2016-04-10&e=foto_5 |título=Flash electoral Ipsos: Keiko 37,8%, PPK 20,9% y Mendoza 20,3% |fechaacceso= |apellido= |nombre= |fecha=10 de abril de 2016 |sitioweb=elcomercio.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160425063956/https://elcomercio.pe/politica/elecciones/flash-electoral-ipsos-keiko-378-ppk-209-y-mendoza-203-noticia-1893186/?ref=portada_archivo&ft=flujo_archivo_2016-04-10&e=foto_5 |fechaarchivo=25 de abril de 2016 }}</ref>{{refn|group=lower-alpha|name=boca}}
+| 10 abr 2016
+| ?
+| style="background:#FFD9B4"| '''37.8'''
+| 20.9
+| 20.3
+| 7.6
+| 5.8
+| 3.8
+| –
+| 1.4
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|16.9}}
+|- style="height:38px; background:#FFEAEA"
+| GfK/Latina<ref>{{cita web |url=https://elcomercio.pe/politica/elecciones/keiko-fujimori-391-ppk-197-y-188-mendoza-segun-gfk-noticia-1893207/?ref=portada_archivo&ft=flujo_archivo_2016-04-10&e=foto_4 |título=Keiko Fujimori 39,1%, PPK 19,7% y 18,8% Mendoza, según GFK |fechaacceso= |apellido= |nombre= |fecha=10 de abril de 2016 |sitioweb=elcomercio.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=boca}}
+| 10 abr 2016
+| ?
+| style="background:#FFD9B4"| '''39.9'''
+| 20.6
+| 20.3
+| 7.0
+| 5.5
+| 4.0
+| –
+| 1.3
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|19.3}}
+|- style="height:38px; background:#FFEAEA"
+| CPI/ATV<ref>{{cita web |url=https://elcomercio.pe/politica/elecciones/cpi-keiko-fujimori-391-ppk-197-veronika-mendoza-188-noticia-1893197/ |título=CPI: Keiko Fujimori 39,1%, PPK 19,7%, Verónika Mendoza 18,8% |fechaacceso= |apellido= |nombre= |fecha=10 de abril de 2016 |sitioweb=elcomercio.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=boca}}
+| 10 abr 2016
+| ?
+| style="background:#FFD9B4"| '''39.1'''
+| 19.7
+| 18.8
+| 8.6
+| 6.6
+| 3.1
+| 1.4
+| 1.4
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|19.4}}
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú<ref>{{cita web |url=https://www.reuters.com/article/world/ipsos-peru-poll-sees-fujimori-in-runoff-for-presidency-idUSKCN0X700H/ |título=Ipsos Peru poll sees Fujimori in runoff for presidency |fechaacceso= |apellido= |nombre= |fecha=9 de abril de 2016 |sitioweb=reuters.com |idioma= |cita= }}</ref>
+| 9 abr 2016
+| 7240
+| style="background:#FFD9B4"| '''35.8'''
+| 21.0
+| 20.1
+| 8.4
+| 6.4
+| 3.3
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|14.8}}
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú<ref name=ipsos-simf>{{cita web |url=https://www.reuters.com/article/us-peru-election-ipsos-idUSKCN0X501V |título=Peru's Mendoza seen tied with Fujimori in run-off scenario |fechaacceso= |apellido= |nombre= |fecha=7 de abril de 2016 |sitioweb=reuters.com |idioma= |cita= }}</ref>
+| 7 abr 2016
+| ?
+| style="background:#FFD9B4"| '''37.0'''
+| 20.3
+| 20.1
+| 8.4
+| 5.3
+| 3.4
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|16.7}}
+|- style="height:38px; background:#FFEAEA"
+| CPI<ref>{{cita web |url=https://ca.news.yahoo.com/poll-shows-perus-fujimori-winning-sunday-vote-facing-191522443--business.html |título=Poll shows Peru's Fujimori winning Sunday vote but facing runoff |fechaacceso= |apellido= |nombre= |fecha=9 de abril de 2016 |sitioweb=yahoo.com |idioma= |cita= }}</ref>
+| 7 abr 2016
+| 3250
+| style="background:#FFD9B4"| '''38.2'''
+| 19.9
+| 18.9
+| –
+| –
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|18.3}}
+|- style="height:38px; background:#FFEAEA"
+| style="background:#FFEAEA"| GfK<ref name=gfksimf>{{cita web |url=https://www.reuters.com/article/elecciones-peru-sondeo-idLTAKCN0X527Q |título=Fujimori sigue encabezando carrera por la presidencia peruana: sondeo |fechaacceso= |apellido= |nombre= |fecha=8 de abril de 2016 |sitioweb=reuters.com |idioma= |cita= }}</ref>
+| 6 abr 2016
+| 1800
+| style="background:#FFD9B4"| '''40.7'''
+| 20.8
+| 16.5
+| 7.7
+| 5.9
+| 4.1
+| 1.6
+| 2.0
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|19.9}}
+|- style="height:38px; background:#FFEAEA"
+| Datum Internacional<ref name=datum-simf-p>{{cita web |url=http://lta.reuters.com/article/domesticNews/idLTAKCN0X42GB?pageNumber=2&virtualBrandChannel=0 |título=Fujimori sigue favorita, crece pugna por quien iría a balotaje para presidencia Perú: fuentes |fechaacceso= |apellido= |nombre= |fecha=8 de abril de 2016 |sitioweb=reuters.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160514061346/http://lta.reuters.com/article/domesticNews/idLTAKCN0X42GB?pageNumber=2&virtualBrandChannel=0 |fechaarchivo=14 de mayo de 2016 }}</ref>
+| 4–6 abr 2016
+| 1978
+| style="background:#FFD9B4"| '''43.0'''
+| 18.0
+| 18.5
+| –
+| –
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|24.5}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim3/>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FFD9B4"| '''40.8'''
+| 19.9
+| 18.4
+| 9.4
+| 6.3
+| 2.2
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|20.9}}
+|-
+| CPI/Correo<ref name=cpi-sim2>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201603_04.pdf |título=Intención de voto por candidatos para Presidente del Perú y por listas para el Congreso de la República - Perú Urbano y Rural (30 marzo al 1 abril 2016) |fechaacceso= |apellido= |nombre= |fecha=1 de abril de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FFD9B4"| '''43.1'''
+| 17.8
+| 15.8
+| 9.6
+| 7.2
+| 3.8
+| –
+| 1.3
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|25.3}}
+|-
+| GfK/La República<ref name=Gfk-sim>{{cita web |url=https://cdn2.hubspot.net/hubfs/2405078/cms-pdfs/fileadmin/user_upload/dyna_content/pe/gfk_op_marzo_ii_2016_-_intencion_de_voto_4.pdf |título=Estudio de opinión pública nacional - urbano rural (Marzo II - 2016) |apellido= |nombre= |fecha=30 de marzo de 2016 |sitioweb=cdn2.hubspot.net |idioma= |cita= }}</ref>
+| 28–30 mar 2016
+| 1828
+| style="background:#FFD9B4"| '''42.1'''
+| 17.1
+| 17.0
+| 11.4
+| 6.8
+| 3.5
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|25.0}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim3>{{cita web |url=http://www.datum.com.pe/pdf/PUS03162.pdf |título=Simulacro de Votación Presidencial - Abril 2016 |fechaacceso= |apellido= |nombre= |fecha=1 de abril de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160417071742/http://www.datum.com.pe/pdf/PUS03162.pdf |fechaarchivo=17 de abril de 2016 }}</ref>
+| 28–30 mar 2016
+| 1511
+| style="background:#FFD9B4"| '''42.1'''
+| 18.6
+| 17.3
+| 10.9
+| 4.0
+| 2.4
+| 1.0
+| 1.1
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|23.5}}
+|-
+| Vox Populi/ATV<ref name=vox-29mar>{{cita web |url=http://www.voxpopuli.pe/pdf/2016-03%20Peru%20INFORME%20FINAL.pdf |título=Encuesta Nacional Urbana y Rural sobre intención de voto |apellido= |nombre= |fecha=29 de marzo de 2016 |sitioweb= voxpopuli.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 25–29 mar 2016
+| 1308
+| style="background:#FFD9B4"| '''41.2'''
+| 18.6
+| 13.6
+| 17.0
+| 7.4
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|22.6}}
+|-
+| CPI/Exitosa<ref name=cpi-sim1>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201603_03.pdf |título=Intención de voto por candidatos para Presidente del Perú y por listas para el Congreso de la República - Perú Urbano y Rural (25 al 27 marzo 2016) |fechaacceso= |apellido= |nombre= |fecha=27 de marzo de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 25–27 mar 2016
+| 11355
+| style="background:#FFD9B4"| '''41.9'''
+| 18.2
+| 13.2
+| 13.7
+| 7.3
+| 2.2
+| –
+| 1.2
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|23.7}}
+|-
+| Ipsos Perú/América<ref name=ipsos-sim2>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-03/Opinion%20Data%2028Marzo%202016.pdf |título=Fujimori y PPK defienden sus posiciones |apellido= |nombre= |fecha=28 de marzo de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>
+| 22–24 mar 2016
+| 1791
+| style="background:#FFD9B4"| '''38.9'''
+| 19.3
+| 14.6
+| 13.4
+| 7.4
+| 1.2
+| –
+| 2.4
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|19.6}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim2>{{cita web |url=http://www.datum.com.pe/pdf/SIM03216.pdf |título=Simulacro de Votación Presidencial - Marzo 2016 |fechaacceso= |apellido= |nombre= |fecha=22 de marzo de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160401193751/http://www.datum.com.pe/pdf/SIM03216.pdf |fechaarchivo=1 de abril de 2016 }}</ref>
+| 17–20 mar 2016
+| 1200
+| style="background:#FFD9B4"| '''40.6'''
+| 20.4
+| 12.4
+| 16.1
+| 4.9
+| 1.6
+| 0.8
+| 1.0
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|20.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-sim1>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-03/Opinion%20Data%20Marzo%20II%202016.pdf |título=Avanzan Barnechea y Mendoza |apellido= |nombre= |fecha=21 de marzo de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>
+| 15–17 mar 2016
+| 1792
+| style="background:#FFD9B4"| '''38.3'''
+| 18.7
+| 14.1
+| 14.6
+| 8.7
+| 1.1
+| 0.8
+| 1.4
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|19.6}}
+|-
+| CPI/Exitosa<ref name=cpi-mar16>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201603_01.pdf |título=Intención de voto por candidatos para Presidente del Perú y por listas para el Congreso de la República y Evaluación de la Gestión Presidencial  (13 al 16 marzo 2016) |apellido= |nombre= |fecha=16 de marzo de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 13–16 mar 2016
+| 1650
+| style="background:#FFD9B4"| '''43.8'''
+| 17.8
+| 10.8
+| 13.6
+| 7.6
+| 2.4
+| –
+| 1.6
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|26.0}}
+|-
+| GfK/La República<ref name=gfk-mar2>{{cita web |url=https://cdn2.hubspot.net/hubfs/2405078/cms-pdfs/fileadmin/user_upload/dyna_content/pe/gfk_op_marzo_2016_-_intencion_de_voto_medios.pdf |título=Estudio de opinión pública nacional - urbano rural (Marzo - 2016) |apellido= |nombre= |fecha=15 de marzo de 2016 |sitioweb=cdn2.hubspot.net |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 11–15 mar 2016
+| 1611
+| style="background:#FFD9B4"| '''42.4'''
+| 19.9
+| 9.4
+| 14.8
+| 7.3
+| 2.0
+| –
+| 2.3
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|22.3}}
+|-
+| Vox Populi/ATV<ref name=vox-14mar>{{cita web |url=http://www.voxpopuli.pe/pdf/2016-03%20Peru%20INFORME%20FINAL_17.pdf |título=Intención de voto y análisis preelectoral en el Perú Urbano y Rural |apellido= |nombre= |fecha=14 de marzo de 2016 |sitioweb= voxpopuli.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 11–14 mar 2016
+| 1200
+| style="background:#FFD9B4"| '''45.8'''
+| 13.9
+| 11.1
+| 16.7
+| 8.3
+| –
+| –
+| 1.4
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|29.1}}
+|-
+| Ipsos Perú/El Comercio<ref name=PPK>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-03/Opinion%20Data%20Marzo%202016.pdf |título=El momento de PPK |apellido= |nombre= |fecha=14 de marzo de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 5–10 mar 2016
+| 1851
+| style="background:#FFD9B4"| '''41.0'''
+| 17.9
+| 11.5
+| 11.5
+| 7.7
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión|Julio Guzmán y César Acuña fueron excluidos del proceso electoral por el [[Jurado Nacional de Elecciones]] (9 de marzo de 2016).}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| style="background:#FF8000"| {{color|white|23.1}}
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16>{{cita web |url=http://cde.peru21.pe/doc/0/0/3/5/7/357971.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Marzo - 2016) |apellido= |nombre= |fecha=10 de marzo de 2016 |sitioweb=peru21.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 4–7 mar 2016
+| 1200
+| style="background:#FFD9B4"| '''38.4'''
+| 11.6
+| 5.8
+| 8.1
+| 7.0
+| 0.9
+| 0.1
+| 0.9
+| 19.8
+| 4.7
+| style="background:#FF8000"| {{color|white|18.6}}
+|-
+| GfK/La República<ref name=GfK-mar1>{{cita web |url=https://cdn2.hubspot.net/hubfs/2405078/cms-pdfs/fileadmin/user_upload/dyna_content/pe/gfk_op_febrero_2016_-_gobierno_y_lima_6.pdf |título=Estudio de opinión pública nacional - urbano rural (Febrero - 2016) |apellido= |nombre= |fecha=1 de marzo de 2016 |sitioweb=cdn2.hubspot.net |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 27 feb–1 mar 2016
+| 1552
+| style="background:#FFD9B4"| '''43.7'''
+| 8.7
+| 4.7
+| 6.4
+| 5.4
+| 1.4
+| –
+| 2.0
+| 21.0
+| 4.5
+| style="background:#FF8000"| {{color|white|22.7}}
+|-
+| CPI/Exitosa<ref name=cpi-23feb>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201602_02.pdf |título=Intención de voto por
+candidatos para Presidente del Perú y por listas para el Congreso de la República - Perú Urbano y Rural (19 al 23 Febrero 2016) |apellido= |nombre= |fecha=23 de febrero de 2016 |sitioweb= cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 19–23 feb 2016
+| 1650
+| style="background:#FFD9B4"| '''39.0'''
+| 7.9
+| 4.7
+| 4.4
+| 7.4
+| 2.0
+| –
+| 2.1
+| 21.2
+| 8.4
+| style="background:#FF8000"| {{color|white|17.8}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-feb16>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-02/Opinion%20Data%20Febrero%202016.pdf |título=Fujimori vs. Guzmán |apellido= |nombre= |fecha=22 de febrero de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 13–18 feb 2016
+| 1815
+| style="background:#FFD9B4"| '''36.1'''
+| 10.8
+| 4.8
+| 4.8
+| 6.0
+| –
+| –
+| 2.4
+| 21.7
+| 7.2
+| style="background:#FF8000"| {{color|white|14.4}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-sim1>{{cita web |url=http://www.datum.com.pe/pdf/SIM10216.pdf |título=Simulacro de Votación Presidencial - Febrero 2016 |fechaacceso= |apellido= |nombre= |fecha=10 de febrero de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160221223754/http://www.datum.com.pe/pdf/SIM10216.pdf |fechaarchivo=21 de febrero de 2016 }}</ref>
+| 5–8 feb 2016
+| 1206
+| style="background:#FFD9B4"| '''39.0'''
+| 13.0
+| 3.0
+| 3.0
+| 5.0
+| 1.0
+| –
+| 2.0
+| 20.0
+| 9.0
+| style="background:#FF8000"| {{color|white|19.0}}
+|-
+| GfK/La República<ref name=gfk-26ene>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Enero_2016_-_Gobierno_y_Lima.pdf |título=Estudio de opinión pública nacional - urbano rural (Enero - 2016) |apellido= |nombre= |fecha=26 de enero de 2016 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160320112941/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Enero_2016_-_Gobierno_y_Lima.pdf |fechaarchivo=20 de marzo de 2016 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 22–26 ene 2016
+| 1563
+| style="background:#FFD9B4"| '''41.8'''
+| 12.2
+| 2.4
+| –
+| 8.3
+| –
+| –
+| 3.5
+| 13.4
+| 12.8
+| style="background:#FF8000"| {{color|white|28.4}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-ene16>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-01/Opinion%20Data%20Enero%202016.pdf |título=Se dio la largada |apellido= |nombre= |fecha=18 de enero de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 12–14 ene 2016
+| 1836
+| style="background:#FFD9B4"| '''38.4'''
+| 15.1
+| 2.3
+| –
+| 9.3
+| –
+| –
+| 3.5
+| 5.8
+| 15.1
+| style="background:#FF8000"| {{color|white|23.3}}
+|-
+| CPI/Correo<ref name=cpi-ene16>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201601_01.pdf |título=Estudio de Opinión Pública: Evaluación de la Gestión Presidencial y Elecciones Presidenciales 2016 (9 a 12 de enero de 2016) |apellido= |nombre= |fecha=12 de enero de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 9–12 ene 2016
+| 1500
+| style="background:#FFD9B4"| '''36.6'''
+| 14.9
+| 2.6
+| –
+| 8.2
+| –
+| –
+| 3.6
+| 5.7
+| 17.3
+| style="background:#FF8000"| {{color|white|19.3}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-11ene>{{cita web |url=http://www.datum.com.pe/pdf/PUL0116.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Enero - 2016) |apellido= |nombre= |fecha=15 de enero de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160207190102/http://www.datum.com.pe/pdf/PUL0116.pdf |fechaarchivo=7 de febrero de 2016 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 8–11 ene 2016
+| 1200
+| style="background:#FFD9B4"| '''43.2'''
+| 17.3
+| 2.5
+| 0.2
+| 7.4
+| 1.0
+| 0.5
+| 3.7
+| 4.9
+| 12.3
+| style="background:#FF8000"| {{color|white|25.9}}
+|-
+| GfK/La República<ref name=gfk-15dic>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Diciembre_2015_-_Gobierno_y_Lima.pdf |título=Estudio de opinión pública nacional - urbano rural (Diciembre - 2015) |apellido= |nombre= |fecha=15 de diciembre de 2015 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20151222091533/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Diciembre_2015_-_Gobierno_y_Lima.pdf |fechaarchivo=22 de diciembre de 2015 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 10–15 dic 2015
+| 1267
+| style="background:#FFD9B4"| '''46.9'''
+| 17.2
+| 3.1
+| –
+| 7.8
+| –
+| –
+| 4.7
+| 3.1
+| 12.5
+| style="background:#FF8000"| {{color|white|29.7}}
+|-
+| CPI/Correo<ref name=cpi-dic15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201512_01.pdf |título=Estudio de Opinión Pública: Evaluación de la Gestión Presidencial y Elecciones Presidenciales 2016 (7 a 10 de diciembre de 2015) |apellido= |nombre= |fecha=10 de diciembre de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 7–10 dic 2015
+| 1450
+| style="background:#FFD9B4"| '''38.8'''
+| 20.6
+| 2.8
+| –
+| 9.6
+| –
+| –
+| 5.6
+| –
+| 14.2
+| style="background:#FF8000"| {{color|white|18.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-12/6201215_INF_V5_14Dic15%28OD%29.pdf |título=El turno de Keiko |apellido= |nombre= |fecha=14 de diciembre de 2015 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 5–10 dic 2015
+| 1846
+| style="background:#FFD9B4"| '''39.3'''
+| 19.0
+| 2.4
+| 1.2
+| 9.5
+| –
+| –
+| 6.0
+| –
+| 15.5
+| style="background:#FF8000"| {{color|white|20.3}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-2dic>{{cita web |url=http://www.datum.com.pe/pdf/PUL1215.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Diciembre - 2015) |apellido= |nombre= |fecha=7 de diciembre de 2015 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20151222110107/http://www.datum.com.pe/pdf/PUL1215.pdf |fechaarchivo=22 de diciembre de 2015 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 27 nov–2 dic 2015
+| 1200
+| style="background:#FFD9B4"| '''45.5'''
+| 18.2
+| 2.6
+| –
+| 9.1
+| –
+| –
+| 5.2
+| 0.5
+| 15.6
+| style="background:#FF8000"| {{color|white|27.3}}
+|-
+| GfK/La República<ref name=gfk-24nov>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Noviembre_2015_-_Gobierno_y_Lima_v4.pdf |título=Estudio de opinión pública nacional - urbano rural (Noviembre - 2015) |apellido= |nombre= |fecha=24 de noviembre de 2015 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160105150228/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Noviembre_2015_-_Gobierno_y_Lima_v4.pdf |fechaarchivo=5 de enero de 2016 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 20–24 nov 2015
+| 1365
+| style="background:#FFD9B4"| '''50.0'''
+| 14.1
+| 1.6
+| –
+| 9.4
+| –
+| –
+| 4.7
+| 1.6
+| 10.9
+| style="background:#FF8000"| {{color|white|35.9}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-nov15/>{{refn|group=lower-alpha|name=proyección}}
+| 7–13 nov 2015
+| 1835
+| style="background:#FFD9B4"| '''41.0'''
+| 19.3
+| 2.4
+| 1.2
+| 10.8
+| –
+| –
+| 6.0
+| –
+| 12.0
+| style="background:#FF8000"| {{color|white|21.7}}
+|-
+| CPI/Correo<ref name=cpi-nov15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201511_01.pdf |título=Estudio de Opinión Pública: evaluación de la gestión presidencial y elecciones presidenciales 2016 - Perú Urbano (1 al 5 de noviembre de 2015) |fechaacceso= |apellido= |nombre= |fecha=5 de noviembre de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 1–5 nov 2015
+| 1450
+| style="background:#FFD9B4"| '''40.0'''
+| 20.4
+| 2.9
+| 1.3
+| 9.3
+| –
+| –
+| 5.0
+| –
+| 11.7
+| style="background:#FF8000"| {{color|white|19.6}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15>{{cita web |url=http://www.datum.com.pe/pdf/PUL1115.pdf |título=Encuesta de Opinión Pública a Nivel Nacional - Noviembre 2015 |fechaacceso= |apellido= |nombre= |fecha=9 de noviembre de 2015 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20151222130542/http://www.datum.com.pe/pdf/PUL1115.pdf |fechaarchivo=22 de diciembre de 2015 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 29 oct–4 nov 2015
+| 1200
+| style="background:#FFD9B4"| '''44.3'''
+| 24.1
+| 1.3
+| –
+| 8.9
+| –
+| –
+| 6.3
+| 0.4
+| 11.4
+| style="background:#FF8000"| {{color|white|20.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-oct15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-10/6201015_INF_V4_19oct15%28OD%29.pdf |título=Se mueve el Cuarto Lugar |apellido= |nombre= |fecha=19 de octubre de 2015 |sitioweb= ipsos.pe |idioma= |cita= |urlarchivo= |fechaarchivo= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 9–14 oct 2015
+| 1808
+| style="background:#FFD9B4"| '''41.7'''
+| 16.7
+| –
+| –
+| 10.7
+| –
+| –
+| 6.0
+| –
+| 7.1
+| style="background:#FF8000"| {{color|white|25.0}}
+|-
+| CPI/Correo<ref name=cpi-9oct>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201510_01.pdf |título=Estudio de Opinión Pública: evaluación de la gestión presidencial y elecciones presidenciales 2016 - Perú Urbano (5 al 9 de octubre de 2015) |fechaacceso= |apellido= |nombre= |fecha=9 de octubre de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 5–9 oct 2015
+| 1450
+| style="background:#FFD9B4"| '''39.8'''
+| 19.1
+| 2.3
+| –
+| 9.4
+| –
+| –
+| 6.4
+| –
+| 4.0
+| style="background:#FF8000"| {{color|white|20.7}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-5oct>{{cita web |url=https://gestion2.e3.pe/doc/0/0/1/1/5/115076.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Octubre 2015) |fechaacceso= |apellido= |nombre= |fecha=12 de octubre de 2015 |sitioweb=gestion.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 1–5 oct 2015
+| 1200
+| style="background:#FFD9B4"| '''46.8'''
+| 22.8
+| –
+| –
+| 10.1
+| 1.3
+| –
+| 6.3
+| –
+| 5.1
+| style="background:#FF8000"| {{color|white|24.0}}
+|-
+| GfK/La República<ref name=gfk-23sep>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Septiembre_2015-_Gobierno_y_Lima_2.pdf |título=GfK Opinión - Estudio de opinión pública nacional-urbano rural (Septiembre - 2015) |fechaacceso= |apellido= |nombre= |fecha=23 de septiembre de 2015 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160105123617/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Septiembre_2015-_Gobierno_y_Lima_2.pdf |fechaarchivo=5 de enero de 2016 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 19–23 sep 2015
+| 1305
+| style="background:#FFD9B4"| '''49.3'''
+| 17.4
+| 0.7
+| –
+| 8.7
+| –
+| –
+| 5.8
+| 0.3
+| 4.3
+| style="background:#FF8000"| {{color|white|31.9}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |url=https://cde.peru21.pe/doc/0/0/3/2/1/321961.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Setiembre 2015) |fechaacceso= |apellido= |nombre= |fecha=11 de septiembre de 2015 |sitioweb=peru21.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 4–7 sep 2015
+| 1200
+| style="background:#FFD9B4"| '''45.6'''
+| 20.3
+| 1.3
+| –
+| 8.9
+| –
+| –
+| 6.3
+| 0.8
+| 5.1
+| style="background:#FF8000"| {{color|white|25.3}}
+|-
+| CPI/Correo<ref name=cpi-ago15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201509_01.pdf |título=Estudio de Opinión Pública: evaluación de la gestión presidencial y elecciones presidenciales 2016 - Perú Urbano (23 al 28 de agosto de 2015) |fechaacceso= |apellido= |nombre= |fecha=28 de agosto de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 23–28 ago 2015
+| 1200
+| style="background:#FFD9B4"| '''40.0'''
+| 17.2
+| –
+| –
+| 9.4
+| –
+| –
+| 6.8
+| –
+| 4.2
+| style="background:#FF8000"| {{color|white|22.8}}
+|-
+| GfK/La República<ref name=gfk-26ago>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Agosto_2015_Gobierno_y_Lima_3.pdf |título=GfK Opinión - Estudio de opinión pública nacional-urbano rural (Agosto - 2015) |fechaacceso= |apellido= |nombre= |fecha=26 de agosto de 2015 |sitioweb= |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160105125215/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Agosto_2015_Gobierno_y_Lima_3.pdf |fechaarchivo=5 de enero de 2016 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 22–26 ago 2015
+| 1318
+| style="background:#FFD9B4"| '''46.4'''
+| 18.8
+| 1.4
+| –
+| 8.7
+| 0.9
+| –
+| 5.8
+| 0.9
+| 4.3
+| style="background:#FF8000"| {{color|white|27.6}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-4ago>{{cita web |url=https://peru21.pe/politica/pulso-peru-keiko-fujimori-lidera-intencion-voto-elecciones-2016-191695-noticia/ |título=Pulso Perú: Keiko Fujimori lidera intención de voto para elecciones de 2016 |fechaacceso= |apellido= |nombre= |fecha=10 de agosto de 2015 |sitioweb=peru21.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 1–4 ago 2015
+| 1200
+| style="background:#FFD9B4"| '''45.9'''
+| 23.0
+| –
+| –
+| 8.1
+| –
+| –
+| 4.1
+| –
+| 5.4
+| style="background:#FF8000"| {{color|white|22.9}}
+|-
+| GfK/La República<ref name=gfk-23jul>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Julio_2015_Gobierno_y_Lima_4.pdf |título=GfK Opinión - Estudio de opinión pública nacional-urbano rural (Julio - 2015) |fechaacceso= |apellido= |nombre= |fecha=23 de julio de 2015 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160105142717/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Julio_2015_Gobierno_y_Lima_4.pdf |fechaarchivo=5 de enero de 2016 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 18–23 jul 2015
+| 1319
+| style="background:#FFD9B4"| '''44.3'''
+| 17.1
+| –
+| –
+| 11.4
+| 1.4
+| –
+| 5.7
+| 0.9
+| 4.3
+| style="background:#FF8000"| {{color|white|27.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-jul15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-07/6200715_INF_V2_20Jul15%28OD%29.pdf |título=El contendor de Keiko |fechaacceso= |apellido= |nombre= |fecha=20 de julio de 2015 |sitioweb=ipsos.com |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 11–16 jul 2015
+| 1839
+| style="background:#FFD9B4"| '''37.9'''
+| 17.2
+| –
+| –
+| 12.6
+| –
+| –
+| 9.2
+| –
+| 4.6
+| style="background:#FF8000"| {{color|white|20.7}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-jul2015>{{cita web |título=Encuesta de Opinión Pública a Nivel Nacional - Julio 2015 |url=http://www.datum.com.pe/pdf/PUL0715.pdf |fecha=10 de julio de 2015 |sitioweb=datum.com.pe |urlarchivo=https://web.archive.org/web/20151015104225/http://www.datum.com.pe/pdf/PUL0715.pdf |fechaarchivo=15 de octubre de 2015 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 3–7 jul 2015
+| 1200
+| style="background:#FFD9B4"| '''43.4'''
+| 22.4
+| –
+| –
+| 11.8
+| 2.6
+| –
+| 6.6
+| –
+| 3.9
+| style="background:#FF8000"| {{color|white|21.0}}
+|-
+| CPI/RPP<ref name=cpi-jun15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201507_03.pdf |título=Estudio de Opinión Pública: sobre las elecciones presidenciales 2016 - Perú Urbano (22 al 27 de junio de 2015) |fechaacceso= |apellido= |nombre= |fecha=27 de junio de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 22–27 jun 2015
+| 1200
+| style="background:#FFD9B4"| '''36.0'''
+| 17.5
+| –
+| –
+| 10.8
+| –
+| –
+| 9.9
+| –
+| 5.2
+| style="background:#FF8000"| {{color|white|18.5}}
+|-
+| GfK/La República<ref name=gfk-23jun>{{cita web |url=http://larepublica.pe/impresa/en-portada/11241-aprobacion-del-presidente-humala-cae-seis-puntos-en-un-mes-paso-de-16-10 |título=Aprobación del presidente Ollanta Humala cae seis puntos en un mes: pasó de 16% a 10% |fechaacceso=1|apellido= |nombre= |fecha=28 de junio de 2015 |sitioweb=larepublica.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20150702003024/http://larepublica.pe/impresa/en-portada/11241-aprobacion-del-presidente-humala-cae-seis-puntos-en-un-mes-paso-de-16-10 |fechaarchivo=2 de julio de 2015 }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 20–23 jun 2015
+| 1242
+| style="background:#FFD9B4"| '''40.5'''
+| 18.9
+| –
+| –
+| 13.5
+| –
+| –
+| 4.1
+| –
+| 2.7
+| style="background:#FF8000"| {{color|white|21.6}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-9jun>{{cita web |url=https://gestion.pe/peru/politica/cae-respaldo-posibles-candidatos-2016-aumentan-indecisos-92513-noticia/ |título=Cae respaldo a posibles candidatos del 2016 y aumentan los indecisos |fechaacceso= |apellido= |nombre= |fecha=15 de junio de 2015 |sitioweb=gestion.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 5–9 jun 2015
+| 1200
+| style="background:#FFD9B4"| '''45.2'''
+| 20.5
+| –
+| –
+| 9.6
+| –
+| –
+| 6.8
+| –
+| 4.1
+| style="background:#FF8000"| {{color|white|24.7}}
+|-
+| CPI/RPP<ref name=cpi-may15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201505_01.pdf |título=Estudio de Opinión Pública: evaluación de la gestión presidencial y elecciones presidenciales 2016 - Perú Urbano (13 al 17 de mayo de 2015) |fechaacceso= |apellido= |nombre= |fecha=17 de mayo de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 13–17 may 2015
+| 1450
+| style="background:#FFD9B4"| '''38.4'''
+| 16.5
+| –
+| –
+| 12.2
+| –
+| –
+| 6.4
+| –
+| 5.3
+| style="background:#FF8000"| {{color|white|21.9}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-11may>{{cita web |url=https://gestion.pe/peru/politica/crece-desaprobacion-baja-intencion-voto-alan-garcia-89511-noticia/ |título=Crece la desaprobación y baja la intención de voto de Alan García |fechaacceso= |apellido= |nombre= |fecha=11 de mayo de 2015 |sitioweb=gestion.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 8–11 may 2015
+| 1200
+| style="background:#FFD9B4"| '''42.2'''
+| 21.7
+| –
+| –
+| 10.8
+| –
+| –
+| 7.2
+| 1.2
+| 3.6
+| style="background:#FF8000"| {{color|white|20.5}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-abr15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-04/6200415_INF_V2_20Abr15%28OD%29.pdf |título=Voto de confianza |fechaacceso= |apellido= |nombre= |fecha=20 de abril de 2015 |sitioweb=ipsos.com |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 11–17 abr 2015
+| 1807
+| style="background:#FFD9B4"| '''37.6'''
+| 16.5
+| –
+| –
+| 12.9
+| –
+| –
+| 8.2
+| –
+| 3.5
+| style="background:#FF8000"| {{color|white|21.1}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum2-mar15>{{cita web |url=https://gestion.pe/peru/politica/julio-guzman-voceado-outsider-2016-obtiene-0-2-encuesta-pulso-peru-84143-noticia/ |título=Julio Guzmán, el voceado outsider del 2016, solo obtiene 0.2% en encuesta de Pulso Perú |fechaacceso= |apellido= |nombre= |fecha=6 de abril de 2015 |sitioweb=gestion.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 27–30 mar 2015
+| 1200
+| style="background:#FFD9B4"| '''42.5'''
+| 18.8
+| –
+| –
+| 13.8
+| –
+| –
+| 6.3
+| –
+| 3.8
+| style="background:#FF8000"| {{color|white|23.7}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum1-mar15>{{cita web |url=https://cde.3.elcomercio.pe/doc/0/1/0/7/4/1074115.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Marzo 2015) |fechaacceso= |apellido= |nombre= |fecha= 9 de marzo de 2015 |sitioweb=elcomercio.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 27 feb–3 mar 2015
+| 1200
+| style="background:#FFD9B4"| '''41.3'''
+| 18.8
+| –
+| –
+| 11.3
+| –
+| –
+| 6.3
+| –
+| 3.8
+| style="background:#FF8000"| {{color|white|22.5}}
+|-
+| CPI/Correo<ref name=cpi-feb15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201502_02.pdf |título=Estudio de Opinión Pública para evaluar la gestión presidencial, instituciones públicas e intención de voto presidencial - Perú Urbano (2 al 6 de febrero de 2015) |fechaacceso= |apellido= |nombre= |fecha=6 de febrero de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 2–6 feb 2015
+| 1450
+| style="background:#FFD9B4"| '''36.4'''
+| 19.0
+| –
+| –
+| 10.2
+| –
+| –
+| 7.8
+| –
+| 6.2
+| style="background:#FF8000"| {{color|white|17.4}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-16ene>{{cita web |título=¿Cuántos peruanos apoyan el régimen laboral juvenil? |url=https://gestion.pe/peru/politica/peruanos-apoyan-regimen-laboral-juvenil-151579-noticia/?foto=15 |fecha=16 de enero de 2015 |sitioweb=gestion.pe }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 9–13 ene 2015
+| 1200
+| style="background:#FFD9B4"| '''39.7'''
+| 21.8
+| –
+| –
+| 14.1
+| –
+| –
+| 7.7
+| –
+| 3.8
+| style="background:#FF8000"| {{color|white|17.9}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-11dic>{{cita web |url=https://elcomercio.pe/politica/actualidad/keiko-fujimori-lidera-intencion-voto-elecciones-2016-382109-noticia/ |título=Keiko Fujimori lidera intención de voto para elecciones de 2016 |fechaacceso= |apellido= |nombre= |fecha=14 de diciembre de 2014 |sitioweb=elcomercio.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 6–11 dic 2014
+| 1531
+| style="background:#FFD9B4"| '''40.7'''
+| 17.3
+| –
+| –
+| 14.8
+| –
+| –
+| 7.4
+| –
+| 4.9
+| style="background:#FF8000"| {{color|white|23.4}}
+|-
+| CPI/Correo<ref name=cpi-16nov>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201411_01.pdf |título=Estudio de Opinión Pública para evaluar la gestión presidencial, intención de voto presidencial y gestión de la alcadesa de Lima - Perú Urbano (12 al 16 de noviembre de 2014) |fechaacceso= |apellido= |nombre= |fecha=16 de noviembre de 2014 |sitioweb=cpi.pe |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 12–16 nov 2014
+| 1450
+| style="background:#FFD9B4"| '''41.8'''
+| 17.1
+| –
+| –
+| 11.1
+| –
+| –
+| 6.1
+| –
+| 6.4
+| style="background:#FF8000"| {{color|white|24.7}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-14oct>{{cita web |título=Keiko Fujimori lidera preferencias en voto presidencial para el 2016 |url=https://gestion.pe/peru/politica/keiko-fujimori-lidera-preferencias-voto-presidencial-2016-77410-noticia/ |fecha=17 de octubre de 2014 |sitioweb=gestion.pe }}</ref>{{refn|group=lower-alpha|name=proyección}}
+| 11–14 oct 2014
+| 1284
+| style="background:#FFD9B4"| '''41.3'''
+| 22.7
+| –
+| –
+| 12.0
+| –
+| –
+| 8.0
+| –
+| 5.3
+| style="background:#FF8000"| {{color|white|18.6}}
+|-
+|}
+
+=== Preferencias de voto ===
+La siguiente tabla enumera las preferencias de voto en bruto (incluyendo blancos, viciados y sin respuesta) y no ponderadas.
+
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:200px;" rowspan="2"| Encuestadora/Medio
+! style="width:72px;" rowspan="2"| Fecha
+! style="width:60px;" rowspan="2"| Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]<br>[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]<br>[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Verónika Mendoza]]<br>[[File:Logo-frente-amplio.svg|20px|link=Frente Amplio (Perú)]]
+! style="width:50px;" | <small>[[Alfredo Barnechea]]<br>[[File:Acción Popular.png|20px|link=Acción Popular]]
+! style="width:50px;" | <small>[[Alan García]]<br>[[File:Logo Alianza Popular 2016.jpg|20px|link=Alianza Popular (Perú)]]
+! style="width:50px;" | <small>[[Gregorio Santos]]<br>[[File:Democracia Directa house-only logo.svg|20px|link=Democracia Directa (Perú)]]
+! style="width:50px;" | <small>[[Fernando Olivera]]<br>[[File:Frente Independiente Moralizador.jpg|20px|link=Frente Esperanza]]
+! style="width:50px;" | <small>[[Alejandro Toledo]]<br>[[File:Logo del partido Perú Posible.png|20px|link=Perú Posible]]
+! style="width:50px;" | <small>[[Julio Guzmán]]<br>[[File:Todos por el Perú (logo).svg|20px|link=Todos por el Perú]]
+! style="width:50px;" | <small>[[César Acuña]]<br>[[File:Alianza para el Progreso Peru.svg|20px|link=Alianza para el Progreso del Perú]]
+! style="width:40px;" rowspan="2"| <small>Otros
+! style="width:40px;" rowspan="2"| <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:40px;" rowspan="2"| <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+! style="width:30px;" rowspan="2"| <small>{{abreviatura|Dif.|Diferencia}}
+|-
+! style="background:#FF8000"|
+! style="background:#E2007A"|
+! style="background:#006400"|
+! style="background:#000000"|
+! style="background:#FF0000"|
+! style="background:#FFFF01"|
+! style="background:#8C004B"|
+! style="background:#80FF00"|
+! style="background:#934399"|
+! style="background:#1155CC"|
+|-
+| colspan="17" style="background:#A0A0A0"|
+|- style="background-color:#EFEFEF;"
+| '''[[Elecciones generales de Perú de 2016|Elecciones generales de 2016]]''' (primera vuelta)
+| 10 abr 2016
+| —
+| style="background:#FFD9B4"| '''32.6'''
+| 17.2
+| 15.3
+| 5.7
+| 4.8
+| 3.3
+| 1.1
+| 1.1
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 0.8
+| 18.1
+| –
+| style="background:#FF8000"| {{color|white|15.4}}
+|-
+| colspan="17" style="background:#A0A0A0"|
+|- style="height:38px; background:#FFEAEA"
+| Ipsos Perú<ref name=ipsos-simf/>{{refn|group=lower-alpha|name=simulacro}}
+| 7 abr 2016
+| ?
+| style="background:#FFD9B4"| '''31.5'''
+| 17.0
+| 16.8
+| –
+| –
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| –
+| –
+| –
+| style="background:#FF8000"| {{color|white|14.5}}
+|- style="height:38px; background:#FFEAEA"
+| CPI<ref>{{cita web |url=https://apnews.com/article/76235a0a325d41a0a600e95c6af3b32b |título=Perú: Fujimori primera y empate en segundo lugar |fechaacceso= |apellido= |nombre= |fecha=8 de abril de 2016 |sitioweb=apnews.com |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=simulacro}}
+| 7 abr 2016
+| 3250
+| style="background:#FFD9B4"| '''33.6'''
+| 16.8
+| 16.2
+| –
+| –
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| –
+| –
+| –
+| style="background:#FF8000"| {{color|white|16.8}}
+|- style="height:38px; background:#FFEAEA"
+| GfK<ref name=gfksimf/>{{refn|group=lower-alpha|name=simulacro}}
+| 6 abr 2016
+| 1800
+| style="background:#FFD9B4"| '''34.0'''
+| 17.3
+| 13.8
+| –
+| –
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| –
+| –
+| –
+| style="background:#FF8000"| {{color|white|16.7}}
+|- style="height:38px; background:#FFEAEA"
+| Datum Internacional<ref name=datum-simf>{{cita web |url=https://elpais.com/internacional/2016/04/09/america/1460156992_168953.html |título=Las últimas encuestas dan un empate técnico para el segundo puesto en Perú |fechaacceso= |apellido= |nombre= |fecha=9 de abril de 2016 |sitioweb=elpais.com |idioma= |cita= }}</ref>{{refn|group=lower-alpha|name=simulacro}}
+| 4–6 abr 2016
+| 1978
+| style="background:#FFD9B4"| '''35.4'''
+| 14.8
+| 15.3
+| –
+| –
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| –
+| –
+| –
+| style="background:#FF8000"| {{color|white|20.1}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=ipsos-sim3/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 30 mar–1 abr 2016
+| rowspan=2| 1800
+| style="background:#FFD9B4"| '''34.4'''
+| 16.8
+| 15.5
+| 8.0
+| 5.3
+| 1.9
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 2.6
+| 15.5
+| –
+| style="background:#FF8000"| {{color|white|17.6}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=ipsos-sim3/>
+| style="background:#FFD9B4"| '''33'''
+| 16
+| 15
+| 8
+| 5
+| 2
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 3
+| 10
+| 8
+| style="background:#FF8000"| {{color|white|17}}
+|-
+| CPI/Correo<ref name=cpi-sim2/>{{refn|group=lower-alpha|name=simulacro}}
+| 30 mar–1 abr 2016
+| 1800
+| style="background:#FFD9B4"| '''37.3'''
+| 15.4
+| 13.7
+| 8.3
+| 6.2
+| 3.2
+| –
+| 1.1
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.2
+| 13.5
+| –
+| style="background:#FF8000"| {{color|white|21.9}}
+|- style="height:38px;"
+| GfK/La República<ref name=Gfk-sim/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 28–30 mar 2016
+| rowspan=2| 1828
+| style="background:#FFD9B4"| '''37.1'''
+| 15.1
+| 15.0
+| 10.1
+| 5.9
+| 3.1
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.8
+| 11.9
+| –
+| style="background:#FF8000"| {{color|white|22.0}}
+|- style="height:38px;"
+| GfK/La República<ref name=Gfk-sim>{{cita web |url=https://cdn2.hubspot.net/hubfs/2405078/cms-pdfs/fileadmin/user_upload/dyna_content/pe/gfk_op_marzo_ii_2016_-_intencion_de_voto_4.pdf |título=Estudio de opinión pública nacional - urbano rural (Marzo II - 2016) |apellido= |nombre= |fecha=30 de marzo de 2016 |sitioweb=cdn2.hubspot.net |idioma= |cita= }}</ref>
+| style="background:#FFD9B4"| '''35.0'''
+| 16.1
+| 14.0
+| 9.7
+| 5.5
+| 2.7
+| 0.7
+| 0.2
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 0.3
+| 9.9
+| 5.9
+| style="background:#FF8000"| {{color|white|18.9}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref name=datum-sim3/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 28–30 mar 2016
+| 1511
+| style="background:#FFD9B4"| '''36.1'''
+| 16.0
+| 14.8
+| 9.3
+| 3.4
+| 2.1
+| 0.9
+| 0.9
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 2.3
+| 14.2
+| –
+| style="background:#FF8000"| {{color|white|20.1}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref>{{cita web |url=http://www.datum.com.pe/pdf/PUL03162.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Abril - 2016) |apellido= |nombre= |fecha=1 de abril de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160417105140/http://www.datum.com.pe/pdf/PUL03162.pdf |fechaarchivo=17 de abril de 2016 }}</ref>
+| 1200
+| style="background:#FFD9B4"| '''36'''
+| 17
+| 15
+| 10
+| 4
+| 2
+| 0.4
+| 0.9
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.7
+| 4
+| 9
+| style="background:#FF8000"| {{color|white|19}}
+|-
+| Vox Populi/ATV<ref>{{cita web |url=http://www.voxpopuli.pe/pdf/2016-03%20Peru%20INFORME%20FINAL.pdf |título=Encuesta Nacional Urbana y Rural sobre intención de voto |apellido= |nombre= |fecha=29 de marzo de 2016 |sitioweb= voxpopuli.pe |idioma= |cita= }}</ref>
+| 25–29 mar 2016
+| 1308
+| style="background:#FFD9B4"| '''31.2'''
+| 14.1
+| 10.3
+| 12.9
+| 5.6
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.8
+| 10.6
+| 13.6
+| style="background:#FF8000"| {{color|white|17.1}}
+|-
+| CPI/Exitosa<ref name=cpi-sim1/>{{refn|group=lower-alpha|name=simulacro}}
+| 25–27 mar 2016
+| 11355
+| style="background:#FFD9B4"| '''34.6'''
+| 15.0
+| 10.9
+| 11.3
+| 6.0
+| 1.8
+| –
+| 1.0
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.9
+| 17.5
+| –
+| style="background:#FF8000"| {{color|white|19.6}}
+|- style="height:38px;"
+| Ipsos Perú/América<ref name=ipsos-sim2/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 22–24 mar 2016
+| rowspan=2| 1791
+| style="background:#FFD9B4"| '''32.1'''
+| 16.0
+| 12.1
+| 11.1
+| 6.2
+| 1.0
+| –
+| 2.0
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 2.4
+| 17.1
+| –
+| style="background:#FF8000"| {{color|white|16.1}}
+|- style="height:38px;"
+| Ipsos Perú/América<ref name=ipsos-sim2/>
+| style="background:#FFD9B4"| '''32'''
+| 16
+| 12
+| 11
+| 6
+| 1
+| –
+| 2
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 2
+| 9
+| 9
+| style="background:#FF8000"| {{color|white|16}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref name=datum-sim2/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 17–20 mar 2016
+| rowspan=2| 1200
+| style="background:#FFD9B4"| '''34.4'''
+| 17.3
+| 10.5
+| 13.7
+| 4.2
+| 1.3
+| 0.7
+| 0.8
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.8
+| 15.3
+| –
+| style="background:#FF8000"| {{color|white|17.1}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref>{{cita web |url=http://www.datum.com.pe/pdf/PUL03216.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Marzo - 2016) |apellido= |nombre= |fecha=22 de marzo de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160407033041/http://www.datum.com.pe/pdf/PUL03216.pdf |fechaarchivo=7 de abril de 2016 }}</ref>
+| style="background:#FFD9B4"| '''36'''
+| 18
+| 12
+| 14
+| 4
+| 1
+| 0.3
+| 0.9
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.8
+| 8
+| 4
+| style="background:#FF8000"| {{color|white|18}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=ipsos-sim1/>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 15–17 mar 2016
+| rowspan=2| 1792
+| style="background:#FFD9B4"| '''30.8'''
+| 15.1
+| 11.3
+| 11.7
+| 7.0
+| 0.9
+| 0.6
+| 1.1
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.9
+| 19.6
+| –
+| style="background:#FF8000"| {{color|white|15.7}}
+|- style="height:38px;"
+| Ipsos Perú/El Comercio<ref name=ipsos-sim1>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-03/Opinion%20Data%20Marzo%20II%202016.pdf |título=Avanzan Barnechea y Mendoza |apellido= |nombre= |fecha=21 de marzo de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>
+| style="background:#FFD9B4"| '''31'''
+| 15
+| 12
+| 12
+| 6
+| 2
+| –
+| 1
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 2
+| 9
+| 10
+| style="background:#FF8000"| {{color|white|16}}
+|-
+| CPI/Exitosa<ref name=cpi-mar16>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201603_01.pdf |título=Intención de voto por candidatos para Presidente del Perú y por listas para el Congreso de la República y Evaluación de la Gestión Presidencial  (13 al 16 marzo 2016) |apellido= |nombre= |fecha=16 de marzo de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 13–16 mar 2016
+| 1650
+| style="background:#FFD9B4"| '''37.6'''
+| 15.3
+| 9.3
+| 11.7
+| 6.5
+| 2.1
+| –
+| 1.4
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 2.0
+| 9.8
+| 4.3
+| style="background:#FF8000"| {{color|white|22.3}}
+|-
+| GfK/La República<ref name=gfk-mar2>{{cita web |url=https://cdn2.hubspot.net/hubfs/2405078/cms-pdfs/fileadmin/user_upload/dyna_content/pe/gfk_op_marzo_2016_-_intencion_de_voto_medios.pdf |título=Estudio de opinión pública nacional - urbano rural (Marzo - 2016) |apellido= |nombre= |fecha=15 de marzo de 2016 |sitioweb=cdn2.hubspot.net |idioma= |cita= }}</ref>
+| 11–15 mar 2016
+| 1611
+| style="background:#FFD9B4"| '''33.8'''
+| 15.9
+| 7.5
+| 11.8
+| 5.8
+| 1.6
+| –
+| 1.8
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 1.5
+| 9.3
+| 11.0
+| style="background:#FF8000"| {{color|white|17.9}}
+|-
+| Vox Populi/ATV<ref>{{cita web |url=http://www.voxpopuli.pe/pdf/2016-03%20Peru%20INFORME%20FINAL_17.pdf |título=Intención de voto y análisis preelectoral en el Perú Urbano y Rural |apellido= |nombre= |fecha=14 de marzo de 2016 |sitioweb= voxpopuli.pe |idioma= |cita= }}</ref>
+| 11–14 mar 2016
+| 1200
+| style="background:#FFD9B4"| '''33'''
+| 10
+| 8
+| 12
+| 6
+| –
+| –
+| 1
+| {{refn|group=lower-alpha|name=exclusión}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 2
+| 9
+| 19
+| style="background:#FF8000"| {{color|white|21}}
+|-
+| Ipsos Perú/El Comercio<ref name=PPK/>
+| 5–10 mar 2016
+| 1851
+| style="background:#FFD9B4"| '''32'''
+| 14
+| 9
+| 9
+| 6
+| –
+| –
+| –
+| {{refn|group=lower-alpha|name=exclusión|Julio Guzmán y César Acuña fueron excluidos del proceso electoral por el [[Jurado Nacional de Elecciones]] (9 de marzo de 2016).}}
+| {{refn|group=lower-alpha|name=exclusión}}
+| 8
+| 12
+| 10
+| style="background:#FF8000"| {{color|white|18}}
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16>{{cita web |url=http://cde.peru21.pe/doc/0/0/3/5/7/357971.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Marzo - 2016) |apellido= |nombre= |fecha=10 de marzo de 2016 |sitioweb=peru21.pe |idioma= |cita= }}</ref>
+| 4–7 mar 2016
+| 1200
+| style="background:#FFD9B4"| '''33'''
+| 10
+| 5
+| 7
+| 6
+| 0.8
+| 0.1
+| 0.8
+| 17
+| 4
+| 2.3
+| 4
+| 10
+| style="background:#FF8000"| {{color|white|16}}
+|-
+| GfK/La República<ref name=GfK-mar1/>
+| 27 feb–1 mar 2016
+| 1552
+| style="background:#FFD9B4"| '''34.6'''
+| 6.9
+| 3.7
+| 5.1
+| 4.3
+| 1.1
+| –
+| 1.6
+| 16.6
+| 3.6
+| 1.7
+| 8.4
+| 12.4
+| style="background:#FF8000"| {{color|white|18.0}}
+|-
+| CPI/Exitosa<ref>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201602_02.pdf |título=Intención de voto por
+candidatos para Presidente del Perú y por listas para el Congreso de la República - Perú Urbano y Rural (19 al 23 Febrero 2016) |apellido= |nombre= |fecha=23 de febrero de 2016 |sitioweb= cpi.pe |idioma= |cita= }}</ref>
+| 19–23 feb 2016
+| 1650
+| style="background:#FFD9B4"| '''33.7'''
+| 6.8
+| 4.1
+| 3.8
+| 6.4
+| 1.7
+| –
+| 1.8
+| 18.3
+| 7.3
+| 2.5
+| 9.2
+| 4.4
+| style="background:#FF8000"| {{color|white|15.4}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-feb16>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-02/Opinion%20Data%20Febrero%202016.pdf |título=Fujimori vs. Guzmán |apellido= |nombre= |fecha=22 de febrero de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>
+| 13–18 feb 2016
+| 1815
+| style="background:#FFD9B4"| '''30'''
+| 9
+| 4
+| 4
+| 5
+| –
+| –
+| 2
+| 18
+| 6
+| 5
+| 8
+| 9
+| style="background:#FF8000"| {{color|white|12}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref name=datum-sim1>{{cita web |url=http://www.datum.com.pe/pdf/SIM10216.pdf |título=Simulacro de Votación Presidencial - Febrero 2016 |fechaacceso= |apellido= |nombre= |fecha=10 de febrero de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160221223754/http://www.datum.com.pe/pdf/SIM10216.pdf |fechaarchivo=21 de febrero de 2016 }}</ref>{{refn|group=lower-alpha|name=simulacro}}
+| rowspan=2| 5–8 feb 2016
+| rowspan=2| 1206
+| style="background:#FFD9B4"| '''31'''
+| 11
+| 2
+| 3
+| 4
+| 1
+| –
+| 2
+| 16
+| 7
+| 4
+| 19
+| –
+| style="background:#FF8000"| {{color|white|15}}
+|- style="height:38px;"
+| Datum/Perú 21/Gestión<ref name=datum-feb16>{{cita web |url=http://www.datum.com.pe/pdf/PUL0216.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Febrero - 2016) |apellido= |nombre= |fecha=12 de febrero de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160714005114/http://www.datum.com.pe/pdf/PUL0216.pdf |fechaarchivo=14 de julio de 2016 }}</ref>
+| style="background:#FFD9B4"| '''35'''
+| 11
+| 2
+| 3
+| 4
+| 0.8
+| 0.2
+| 2
+| 17
+| 8
+| 3
+| 4
+| 10
+| style="background:#FF8000"| {{color|white|18}}
+|-
+| GfK/La República<ref>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Enero_2016_-_Gobierno_y_Lima.pdf |título=Estudio de opinión pública nacional - urbano rural (Enero - 2016) |apellido= |nombre= |fecha=26 de enero de 2016 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160320112941/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Enero_2016_-_Gobierno_y_Lima.pdf |fechaarchivo=20 de marzo de 2016 }}</ref>
+| 22–26 ene 2016
+| 1563
+| style="background:#FFD9B4"| '''32.6'''
+| 9.5
+| 1.9
+| –
+| 6.5
+| –
+| –
+| 2.7
+| 10.4
+| 10.0
+| 4.3
+| 9.5
+| 12.6
+| style="background:#FF8000"| {{color|white|22.2}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-ene16>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-01/Opinion%20Data%20Enero%202016.pdf |título=Se dio la largada |apellido= |nombre= |fecha=18 de enero de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>
+| 12–14 ene 2016
+| 1836
+| style="background:#FFD9B4"| '''33'''
+| 13
+| 2
+| –
+| 8
+| –
+| –
+| 3
+| 5
+| 13
+| 9
+| 6
+| 8
+| style="background:#FF8000"| {{color|white|20}}
+|-
+| CPI/Correo<ref name=cpi-ene16>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201601_01.pdf |título=Estudio de Opinión Pública: Evaluación de la Gestión Presidencial y Elecciones Presidenciales 2016 (9 a 12 de enero de 2016) |apellido= |nombre= |fecha=12 de enero de 2016 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 9–12 ene 2016
+| 1500
+| style="background:#FFD9B4"| '''32.1'''
+| 13.1
+| 2.3
+| –
+| 7.2
+| –
+| –
+| 3.2
+| 5.0
+| 15.2
+| 9.7
+| 9.1
+| 3.1
+| style="background:#FF8000"| {{color|white|16.9}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |url=http://www.datum.com.pe/pdf/PUL0116.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Enero - 2016) |apellido= |nombre= |fecha=15 de enero de 2016 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160207190102/http://www.datum.com.pe/pdf/PUL0116.pdf |fechaarchivo=7 de febrero de 2016 }}</ref>
+| 8–11 ene 2016
+| 1200
+| style="background:#FFD9B4"| '''35'''
+| 14
+| 2
+| 0.2
+| 6
+| 0.8
+| 0.4
+| 3
+| 4
+| 10
+| 5.6
+| 4
+| 15
+| style="background:#FF8000"| {{color|white|21}}
+|-
+| GfK/La República<ref>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Diciembre_2015_-_Gobierno_y_Lima.pdf |título=Estudio de opinión pública nacional - urbano rural (Diciembre - 2015) |apellido= |nombre= |fecha=15 de diciembre de 2015 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20151222091533/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Diciembre_2015_-_Gobierno_y_Lima.pdf |fechaarchivo=22 de diciembre de 2015 }}</ref>
+| 10–15 dic 2015
+| 1267
+| style="background:#FFD9B4"| '''30'''
+| 11
+| 2
+| –
+| 5
+| –
+| –
+| 3
+| 2
+| 8
+| 3
+| 17
+| 19
+| style="background:#FF8000"| {{color|white|19}}
+|-
+| CPI/Correo<ref name=cpi-dic15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201512_01.pdf |título=Estudio de Opinión Pública: Evaluación de la Gestión Presidencial y Elecciones Presidenciales 2016 (7 a 10 de diciembre de 2015) |apellido= |nombre= |fecha=10 de diciembre de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 7–10 dic 2015
+| 1450
+| style="background:#FFD9B4"| '''33.1'''
+| 17.6
+| 2.4
+| –
+| 8.2
+| –
+| –
+| 4.8
+| –
+| 12.1
+| 7.1
+| 10.6
+| 4.1
+| style="background:#FF8000"| {{color|white|15.5}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-12/6201215_INF_V5_14Dic15%28OD%29.pdf |título=El turno de Keiko |apellido= |nombre= |fecha=14 de diciembre de 2015 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>
+| 5–10 dic 2015
+| 1846
+| style="background:#FFD9B4"| '''33'''
+| 16
+| 2
+| 1
+| 8
+| –
+| –
+| 5
+| –
+| 13
+| 6
+| 9
+| 7
+| style="background:#FF8000"| {{color|white|17}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |url=http://www.datum.com.pe/pdf/PUL1215.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Diciembre - 2015) |apellido= |nombre= |fecha=7 de diciembre de 2015 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20151222110107/http://www.datum.com.pe/pdf/PUL1215.pdf |fechaarchivo=22 de diciembre de 2015 }}</ref>
+| 27 nov–2 dic 2015
+| 1200
+| style="background:#FFD9B4"| '''35'''
+| 14
+| 2
+| –
+| 7
+| –
+| –
+| 4
+| 0.4
+| 12
+| 2.6
+| 17
+| 6
+| style="background:#FF8000"| {{color|white|21}}
+|-
+| GfK/La República<ref>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Noviembre_2015_-_Gobierno_y_Lima_v4.pdf |título=Estudio de opinión pública nacional - urbano rural (Noviembre - 2015) |apellido= |nombre= |fecha=24 de noviembre de 2015 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160105150228/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Noviembre_2015_-_Gobierno_y_Lima_v4.pdf |fechaarchivo=5 de enero de 2016 }}</ref>
+| 20–24 nov 2015
+| 1365
+| style="background:#FFD9B4"| '''32'''
+| 9
+| 1
+| –
+| 6
+| –
+| –
+| 3
+| 1
+| 7
+| 5
+| 19
+| 17
+| style="background:#FF8000"| {{color|white|23}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-nov15/>
+| 7–13 nov 2015
+| 1835
+| style="background:#FFD9B4"| '''34'''
+| 16
+| 2
+| 1
+| 9
+| –
+| –
+| 5
+| –
+| 10
+| 6
+| 9
+| 8
+| style="background:#FF8000"| {{color|white|18}}
+|-
+| CPI/Correo<ref name=cpi-nov15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201511_01.pdf |título=Estudio de Opinión Pública: evaluación de la gestión presidencial y elecciones presidenciales 2016 - Perú Urbano (1 al 5 de noviembre de 2015) |fechaacceso= |apellido= |nombre= |fecha=5 de noviembre de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 1–5 nov 2015
+| 1450
+| style="background:#FFD9B4"| '''33.5'''
+| 17.1
+| 2.4
+| 1.1
+| 7.8
+| –
+| –
+| 4.2
+| –
+| 9.8
+| 7.8
+| 11.7
+| 4.6
+| style="background:#FF8000"| {{color|white|16.4}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov15>{{cita web |url=http://www.datum.com.pe/pdf/PUL1115.pdf |título=Encuesta de Opinión Pública a Nivel Nacional - Noviembre 2015 |fechaacceso= |apellido= |nombre= |fecha=9 de noviembre de 2015 |sitioweb=datum.com.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20151222130542/http://www.datum.com.pe/pdf/PUL1115.pdf |fechaarchivo=22 de diciembre de 2015 }}</ref>
+| 29 oct–4 nov 2015
+| 1200
+| style="background:#FFD9B4"| '''35'''
+| 19
+| 1
+| –
+| 7
+| –
+| –
+| 5
+| 0.3
+| 9
+| 2.7
+| 13
+| 8
+| style="background:#FF8000"| {{color|white|16}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-oct15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-10/6201015_INF_V4_19oct15%28OD%29.pdf |título=Se mueve el Cuarto Lugar |apellido= |nombre= |fecha=19 de octubre de 2015 |sitioweb= ipsos.pe |idioma= |cita= |urlarchivo= |fechaarchivo= }}</ref>
+| 9–14 oct 2015
+| 1808
+| style="background:#FFD9B4"| '''35'''
+| 14
+| –
+| –
+| 9
+| –
+| –
+| 5
+| –
+| 6
+| 15
+| 9
+| 7
+| style="background:#FF8000"| {{color|white|21}}
+|-
+| CPI/Correo<ref>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201510_01.pdf |título=Estudio de Opinión Pública: evaluación de la gestión presidencial y elecciones presidenciales 2016 - Perú Urbano (5 al 9 de octubre de 2015) |fechaacceso= |apellido= |nombre= |fecha=9 de octubre de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 5–9 oct 2015
+| 1450
+| style="background:#FFD9B4"| '''32.9'''
+| 15.8
+| 1.9
+| –
+| 7.8
+| –
+| –
+| 5.3
+| –
+| 3.3
+| 15.7
+| 11.6
+| 5.7
+| style="background:#FF8000"| {{color|white|17.1}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |url=https://gestion2.e3.pe/doc/0/0/1/1/5/115076.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Octubre 2015) |fechaacceso= |apellido= |nombre= |fecha=12 de octubre de 2015 |sitioweb=gestion.pe |idioma= |cita= }}</ref>
+| 1–5 oct 2015
+| 1200
+| style="background:#FFD9B4"| '''37'''
+| 18
+| –
+| –
+| 8
+| 1
+| –
+| 5
+| –
+| 4
+| 6
+| 13
+| 8
+| style="background:#FF8000"| {{color|white|19}}
+|-
+| GfK/La República<ref>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Septiembre_2015-_Gobierno_y_Lima_2.pdf |título=GfK Opinión - Estudio de opinión pública nacional-urbano rural (Septiembre - 2015) |fechaacceso= |apellido= |nombre= |fecha=23 de septiembre de 2015 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160105123617/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Septiembre_2015-_Gobierno_y_Lima_2.pdf |fechaarchivo=5 de enero de 2016 }}</ref>
+| 19–23 sep 2015
+| 1305
+| style="background:#FFD9B4"| '''34'''
+| 12
+| 0.5
+| –
+| 6
+| –
+| –
+| 4
+| 0.2
+| 3
+| 9.3
+| 17
+| 14
+| style="background:#FF8000"| {{color|white|22}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |url=https://cde.peru21.pe/doc/0/0/3/2/1/321961.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Setiembre 2015) |fechaacceso= |apellido= |nombre= |fecha=11 de septiembre de 2015 |sitioweb=peru21.pe |idioma= |cita= }}</ref>
+| 4–7 sep 2015
+| 1200
+| style="background:#FFD9B4"| '''36'''
+| 16
+| 1
+| –
+| 7
+| –
+| –
+| 5
+| 0.6
+| 4
+| 9.4
+| 5
+| 16
+| style="background:#FF8000"| {{color|white|20}}
+|-
+| CPI/Correo<ref name=cpi-ago15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201509_01.pdf |título=Estudio de Opinión Pública: evaluación de la gestión presidencial y elecciones presidenciales 2016 - Perú Urbano (23 al 28 de agosto de 2015) |fechaacceso= |apellido= |nombre= |fecha=28 de agosto de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 23–28 ago 2015
+| 1200
+| style="background:#FFD9B4"| '''34.2'''
+| 14.7
+| –
+| –
+| 8.0
+| –
+| –
+| 5.8
+| –
+| 3.6
+| 19.1
+| 10.8
+| 3.8
+| style="background:#FF8000"| {{color|white|19.5}}
+|-
+| GfK/La República<ref>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Agosto_2015_Gobierno_y_Lima_3.pdf |título=GfK Opinión - Estudio de opinión pública nacional-urbano rural (Agosto - 2015) |fechaacceso= |apellido= |nombre= |fecha=26 de agosto de 2015 |sitioweb= |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160105125215/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Agosto_2015_Gobierno_y_Lima_3.pdf |fechaarchivo=5 de enero de 2016 }}</ref>
+| 22–26 ago 2015
+| 1318
+| style="background:#FFD9B4"| '''32'''
+| 13
+| 1
+| –
+| 6
+| 0.6
+| –
+| 4
+| 0.6
+| 3
+| 8.8
+| 19
+| 12
+| style="background:#FF8000"| {{color|white|19}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |url=https://peru21.pe/politica/pulso-peru-keiko-fujimori-lidera-intencion-voto-elecciones-2016-191695-noticia/ |título=Pulso Perú: Keiko Fujimori lidera intención de voto para elecciones de 2016 |fechaacceso= |apellido= |nombre= |fecha=10 de agosto de 2015 |sitioweb=peru21.pe |idioma= |cita= }}</ref>
+| 1–4 ago 2015
+| 1200
+| style="background:#FFD9B4"| '''34'''
+| 17
+| –
+| –
+| 6
+| –
+| –
+| 3
+| –
+| 4
+| 10
+| 6
+| 20
+| style="background:#FF8000"| {{color|white|17}}
+|-
+| GfK/La República<ref>{{cita web |url=http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Julio_2015_Gobierno_y_Lima_4.pdf |título=GfK Opinión - Estudio de opinión pública nacional-urbano rural (Julio - 2015) |fechaacceso= |apellido= |nombre= |fecha=23 de julio de 2015 |sitioweb=gfk.com |idioma= |cita= |urlarchivo=https://web.archive.org/web/20160105142717/http://www.gfk.com/fileadmin/user_upload/dyna_content/PE/GfK_OP_Julio_2015_Gobierno_y_Lima_4.pdf |fechaarchivo=5 de enero de 2016 }}</ref>
+| 18–23 jul 2015
+| 1319
+| style="background:#FFD9B4"| '''31'''
+| 12
+| –
+| –
+| 8
+| 1
+| –
+| 4
+| 0.6
+| 3
+| 10.4
+| 17
+| 13
+| style="background:#FF8000"| {{color|white|19}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-jul15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-07/6200715_INF_V2_20Jul15%28OD%29.pdf |título=El contendor de Keiko |fechaacceso= |apellido= |nombre= |fecha=20 de julio de 2015 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 11–16 jul 2015
+| 1839
+| style="background:#FFD9B4"| '''33'''
+| 15
+| –
+| –
+| 11
+| –
+| –
+| 8
+| –
+| 4
+| 16
+| 8
+| 5
+| style="background:#FF8000"| {{color|white|18}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-jul2015>{{cita web |título=Encuesta de Opinión Pública a Nivel Nacional - Julio 2015 |url=http://www.datum.com.pe/pdf/PUL0715.pdf |fecha=10 de julio de 2015 |sitioweb=datum.com.pe |urlarchivo=https://web.archive.org/web/20151015104225/http://www.datum.com.pe/pdf/PUL0715.pdf |fechaarchivo=15 de octubre de 2015 }}</ref>
+| 3–7 jul 2015
+| 1200
+| style="background:#FFD9B4"| '''33'''
+| 17
+| –
+| –
+| 9
+| 2
+| –
+| 5
+| –
+| 3
+| 7
+| 4
+| 20
+| style="background:#FF8000"| {{color|white|16}}
+|-
+| CPI/RPP<ref name=cpi-jun15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201507_03.pdf |título=Estudio de Opinión Pública: sobre las elecciones presidenciales 2016 - Perú Urbano (22 al 27 de junio de 2015) |fechaacceso= |apellido= |nombre= |fecha=27 de junio de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 22–27 jun 2015
+| 1200
+| style="background:#FFD9B4"| '''31.7'''
+| 15.4
+| –
+| –
+| 9.5
+| –
+| –
+| 8.7
+| –
+| 4.6
+| 18.2
+| 8.4
+| 3.5
+| style="background:#FF8000"| {{color|white|16.3}}
+|-
+| GfK/La República<ref>{{cita web |url=http://larepublica.pe/impresa/en-portada/11241-aprobacion-del-presidente-humala-cae-seis-puntos-en-un-mes-paso-de-16-10 |título=Aprobación del presidente Ollanta Humala cae seis puntos en un mes: pasó de 16% a 10% |fechaacceso=1|apellido= |nombre= |fecha=28 de junio de 2015 |sitioweb=larepublica.pe |idioma= |cita= |urlarchivo=https://web.archive.org/web/20150702003024/http://larepublica.pe/impresa/en-portada/11241-aprobacion-del-presidente-humala-cae-seis-puntos-en-un-mes-paso-de-16-10 |fechaarchivo=2 de julio de 2015 }}</ref>
+| 20–23 jun 2015
+| 1242
+| style="background:#FFD9B4"| '''30'''
+| 14
+| –
+| –
+| 10
+| –
+| –
+| 3
+| –
+| 2
+| 15
+| 17
+| 9
+| style="background:#FF8000"| {{color|white|16}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |url=https://gestion.pe/peru/politica/cae-respaldo-posibles-candidatos-2016-aumentan-indecisos-92513-noticia/ |título=Cae respaldo a posibles candidatos del 2016 y aumentan los indecisos |fechaacceso= |apellido= |nombre= |fecha=15 de junio de 2015 |sitioweb=gestion.pe |idioma= |cita= }}</ref>
+| 5–9 jun 2015
+| 1200
+| style="background:#FFD9B4"| '''33'''
+| 15
+| –
+| –
+| 7
+| –
+| –
+| 5
+| –
+| 3
+| 10
+| 5
+| 22
+| style="background:#FF8000"| {{color|white|18}}
+|-
+| CPI/RPP<ref name=cpi-may15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201505_01.pdf |título=Estudio de Opinión Pública: evaluación de la gestión presidencial y elecciones presidenciales 2016 - Perú Urbano (13 al 17 de mayo de 2015) |fechaacceso= |apellido= |nombre= |fecha=17 de mayo de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 13–17 may 2015
+| 1450
+| style="background:#FFD9B4"| '''33.1'''
+| 14.2
+| –
+| –
+| 10.5
+| –
+| –
+| 5.5
+| –
+| 4.6
+| 18.2
+| 10.4
+| 3.5
+| style="background:#FF8000"| {{color|white|18.9}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |url=https://gestion.pe/peru/politica/crece-desaprobacion-baja-intencion-voto-alan-garcia-89511-noticia/ |título=Crece la desaprobación y baja la intención de voto de Alan García |fechaacceso= |apellido= |nombre= |fecha=11 de mayo de 2015 |sitioweb=gestion.pe |idioma= |cita= }}</ref>
+| 8–11 may 2015
+| 1200
+| style="background:#FFD9B4"| '''35'''
+| 18
+| –
+| –
+| 9
+| –
+| –
+| 6
+| 1
+| 3
+| 11
+| 5
+| 12
+| style="background:#FF8000"| {{color|white|17}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-abr15>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2015-04/6200415_INF_V2_20Abr15%28OD%29.pdf |título=Voto de confianza |fechaacceso= |apellido= |nombre= |fecha=20 de abril de 2015 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 11–17 abr 2015
+| 1807
+| style="background:#FFD9B4"| '''32'''
+| 14
+| –
+| –
+| 11
+| –
+| –
+| 7
+| –
+| 3
+| 18
+| 7
+| 8
+| style="background:#FF8000"| {{color|white|18}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum2-mar15>{{cita web |url=https://gestion.pe/peru/politica/julio-guzman-voceado-outsider-2016-obtiene-0-2-encuesta-pulso-peru-84143-noticia/ |título=Julio Guzmán, el voceado outsider del 2016, solo obtiene 0.2% en encuesta de Pulso Perú |fechaacceso= |apellido= |nombre= |fecha=6 de abril de 2015 |sitioweb=gestion.pe |idioma= |cita= }}</ref>
+| 27–30 mar 2015
+| 1200
+| style="background:#FFD9B4"| '''34'''
+| 15
+| –
+| –
+| 11
+| –
+| –
+| 5
+| –
+| 3
+| 12
+| 5
+| 15
+| style="background:#FF8000"| {{color|white|19}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum1-mar15>{{cita web |url=https://cde.3.elcomercio.pe/doc/0/1/0/7/4/1074115.pdf |título=Encuesta de Opinión Pública a Nivel Nacional (Marzo 2015) |fechaacceso= |apellido= |nombre= |fecha= 9 de marzo de 2015 |sitioweb=elcomercio.pe |idioma= |cita= }}</ref>
+| 27 feb–3 mar 2015
+| 1200
+| style="background:#FFD9B4"| '''33'''
+| 15
+| –
+| –
+| 9
+| –
+| –
+| 5
+| –
+| 3
+| 15
+| 5
+| 15
+| style="background:#FF8000"| {{color|white|18}}
+|-
+| CPI/Correo<ref name=cpi-feb15>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/opnac201502_02.pdf |título=Estudio de Opinión Pública para evaluar la gestión presidencial, instituciones públicas e intención de voto presidencial - Perú Urbano (2 al 6 de febrero de 2015) |fechaacceso= |apellido= |nombre= |fecha=6 de febrero de 2015 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 2–6 feb 2015
+| 1450
+| style="background:#FFD9B4"| '''28.8'''
+| 15.0
+| –
+| –
+| 8.1
+| –
+| –
+| 6.2
+| –
+| 4.9
+| 16.1
+| 15.0
+| 5.9
+| style="background:#FF8000"| {{color|white|13.8}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |título=¿Cuántos peruanos apoyan el régimen laboral juvenil? |url=https://gestion.pe/peru/politica/peruanos-apoyan-regimen-laboral-juvenil-151579-noticia/?foto=15 |fecha=16 de enero de 2015 |sitioweb=gestion.pe }}</ref>
+| 16 ene 2015
+| 1200
+| style="background:#FFD9B4"| '''31'''
+| 17
+| –
+| –
+| 11
+| –
+| –
+| 6
+| –
+| 3
+| 10
+| 4
+| 18
+| style="background:#FF8000"| {{color|white|14}}
+|-
+| Ipsos Perú/El Comercio<ref>{{cita web |url=https://elcomercio.pe/politica/actualidad/keiko-fujimori-lidera-intencion-voto-elecciones-2016-382109-noticia/ |título=Keiko Fujimori lidera intención de voto para elecciones de 2016 |fechaacceso= |apellido= |nombre= |fecha=14 de diciembre de 2014 |sitioweb=elcomercio.pe |idioma= |cita= }}</ref>
+| 6–11 dic 2014
+| 1531
+| style="background:#FFD9B4"| '''33'''
+| 14
+| –
+| –
+| 12
+| –
+| –
+| 6
+| –
+| 4
+| 12
+| 12
+| 7
+| style="background:#FF8000"| {{color|white|19}}
+|-
+| CPI/Correo<ref>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201411_01.pdf |título=Estudio de Opinión Pública para evaluar la gestión presidencial, intención de voto presidencial y gestión de la alcadesa de Lima - Perú Urbano (12 al 16 de noviembre de 2014) |fechaacceso= |apellido= |nombre= |fecha=16 de noviembre de 2014 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 12–16 nov 2014
+| 1450
+| style="background:#FFD9B4"| '''35.5'''
+| 14.5
+| –
+| –
+| 9.4
+| –
+| –
+| 5.2
+| –
+| 5.4
+| 15.0
+| 9.9
+| 5.1
+| style="background:#FF8000"| {{color|white|21.0}}
+|-
+| Datum/Perú 21/Gestión<ref>{{cita web |título=Keiko Fujimori lidera preferencias en voto presidencial para el 2016 |url=https://gestion.pe/peru/politica/keiko-fujimori-lidera-preferencias-voto-presidencial-2016-77410-noticia/ |fecha=17 de octubre de 2014 |sitioweb=gestion.pe }}</ref>
+| 11–14 oct 2014
+| 1284
+| style="background:#FFD9B4"| '''31'''
+| 17
+| –
+| –
+| 9
+| –
+| –
+| 6
+| –
+| 4
+| 8
+| 4
+| 21
+| style="background:#FF8000"| {{color|white|14}}
+|-
+| CPI/Correo<ref>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201408_01.pdf |título=Estudio de Opinión Pública para evaluar la gestión presidencial e intención de voto presidencial - Perú Urbano (16 al 21 de agosto de 2014) |fechaacceso= |apellido= |nombre= |fecha=21 de agosto de 2014 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 16–21 ago 2014
+| 1450
+| style="background:#FFD9B4"| '''31.8'''
+| 11.6
+| 1.7
+| –
+| 6.6
+| –
+| –
+| 4.7
+| –
+| 5.2
+| 9.9
+| 20.6
+| 7.9
+| style="background:#FF8000"| {{color|white|20.2}}
+|-
+| CPI/Correo<ref name=cpi-jun14/>
+| 12–17 jun 2014
+| 1450
+| style="background:#FFD9B4"| '''33.6'''
+| 15.7
+| 1.3
+| –
+| 8.0
+| –
+| –
+| 4.9
+| –
+| 3.8
+| 8.8
+| 19.3
+| 4.6
+| style="background:#FF8000"| {{color|white|17.9}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-may14>{{cita web |título=Intención de voto de Nadine Heredia duplica a la de Alan García en encuesta presidencial |url=https://gestion.pe/peru/politica/intencion-voto-nadine-heredia-duplica-alan-garcia-encuesta-presidencial-59661-noticia/ |fecha=11 de mayo de 2014 |sitioweb=gestion.pe }}</ref>
+| 2–7 may 2014
+| 1290
+| style="background:#FFD9B4"| '''30'''
+| 22
+| –
+| –
+| 8
+| –
+| –
+| 6
+| –
+| 5
+| 2
+| 17
+| 10
+| style="background:#FF8000"| {{color|white|8}}
+|-
+| Ipsos Perú/El Comercio<ref>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2014-04/OD%20abril_VFF.pdf |título=Perspectivas electorales y preocupaciones ciudadanas |fechaacceso= |apellido= |nombre= |fecha=21 de abril de 2014 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 13–16 abr 2014
+| 1216
+| style="background:#FFD9B4"| '''26'''
+| 15
+| –
+| –
+| 10
+| –
+| –
+| 7
+| –
+| 3
+| 22
+| 10
+| 7
+| style="background:#FF8000"| {{color|white|11}}
+|-
+| CPI/Correo<ref name=cpi-abr14/>
+| 29 mar–2 abr 2014
+| 1450
+| style="background:#FFD9B4"| '''32.5'''
+| 15.9
+| –
+| –
+| 10.1
+| –
+| –
+| 4.0
+| –
+| 4.9
+| 12.4
+| 18.8
+| 1.4
+| style="background:#FF8000"| {{color|white|16.6}}
+|-
+| CPI/Correo<ref name=cpi-feb14/>
+| 1–5 feb 2014
+| 1450
+| style="background:#FFD9B4"| '''29.2'''
+| 10.9
+| –
+| –
+| 12.1
+| –
+| –
+| 5.6
+| –
+| 4.0
+| 21.5
+| 13.3
+| 3.4
+| style="background:#FF8000"| {{color|white|17.1}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic13/>
+| 11–12 dic 2013
+| 1663
+| style="background:#FFD9B4"| '''30'''
+| 17
+| –
+| –
+| 10
+| 1
+| –
+| 5
+| –
+| 4
+| 12
+| 14
+| 10
+| style="background:#FF8000"| {{color|white|13}}
+|-
+| CPI/Correo<ref>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201312_02.pdf |título=Estudio de Opinión Pública para evaluar intención de voto presidencial, personajes públicos y congresistas de la República - Perú Urbano (26 de noviembre al 1 de diciembre de 2013) |fechaacceso= |apellido= |nombre= |fecha=1 de diciembre de 2013 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 26 nov–1 dic 2013
+| 1450
+| style="background:#FFD9B4"| '''27.8'''
+| 13.0
+| –
+| –
+| 8.0
+| –
+| –
+| 3.0
+| –
+| 2.9
+| 26.5
+| 14.9
+| 3.9
+| style="background:#FF8000"| {{color|white|14.8}}
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov13/>
+| 1–5 nov 2013
+| 1202
+| style="background:#FFD9B4"| '''35'''
+| 19
+| –
+| –
+| 8
+| –
+| –
+| 6
+| –
+| 4
+| 6
+| 11
+| 11
+| style="background:#FF8000"| {{color|white|16}}
+|-
+| CPI/Correo<ref>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201308_02.pdf |título=Estudio de Opinión Pública para evaluar la gestión presidencial, instituciones públicas, intención de voto presidencial y otros temas de interés nacional - Perú Urbano (29 de octubre al 3 de noviembre de 2013) |fechaacceso= |apellido= |nombre= |fecha=3 de noviembre de 2013 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 29 oct–3 nov 2013
+| 1450
+| style="background:#FFD9B4"| '''31.9'''
+| 14.1
+| –
+| –
+| 7.4
+| –
+| –
+| 2.4
+| –
+| 3.9
+| 20.5
+| 14.8
+| 5.0
+| style="background:#FF8000"| {{color|white|17.8}}
+|-
+| CPI/Correo<ref>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201308_02.pdf |título=Estudio de Opinión Pública para evaluar la situación económica, intención de voto presidencial y otros temas de interés nacional - Perú Urbano (26 al 31 de agosto de 2013) |fechaacceso= |apellido= |nombre= |fecha=31 de agosto de 2013 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 26–31 ago 2013
+| 1450
+| style="background:#FFD9B4"| '''31.1'''
+| 13.6
+| –
+| –
+| 7.8
+| –
+| –
+| 4.5
+| –
+| 3.1
+| 19.3
+| 17.2
+| 3.4
+| style="background:#FF8000"| {{color|white|17.5}}
+|-
+| Ipsos Perú/El Comercio<ref>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2013-07/Opinion_Data_julio_2013.pdf |título=La crisis de la “repartija” |fechaacceso= |apellido= |nombre= |fecha=22 de julio de 2013 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 17–19 jul 2013
+| 1660
+| style="background:#FFD9B4"| '''24'''
+| 13
+| –
+| –
+| 8
+| 1
+| –
+| 5
+| –
+| 2
+| 29
+| 10
+| 8
+| style="background:#FF8000"| {{color|white|11}}
+|-
+| CPI/Correo<ref>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201307_02.pdf |título=Estudio de Opinión Pública para evaluar instituciones públicas, medios de comunicación y otros temas de interés nacional - Perú Urbano (10 al 14 de julio de 2013) |fechaacceso= |apellido= |nombre= |fecha=14 de julio de 2013 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 10–14 jul 2013
+| 1450
+| style="background:#FFD9B4"| '''27.2'''
+| 15.2
+| –
+| –
+| 4.9
+| –
+| –
+| 4.0
+| –
+| 2.6
+| 16.9
+| 27.5
+| 1.7
+| style="background:#FF8000"| {{color|white|12.0}}
+|-
+| CPI/Correo<ref name=cpi-may13/>
+| 25–30 may 2013
+| 1450
+| style="background:#FFD9B4"| '''32.6'''
+| 16.5
+| –
+| –
+| 6.3
+| 1.0
+| –
+| 8.1
+| –
+| 1.2
+| 16.2
+| 11.5
+| 6.6
+| style="background:#FF8000"| {{color|white|16.1}}
+|-
+| CPI/Correo<ref name=cpi-ene13/>
+| 2–6 ene 2013
+| 1450
+| style="background:#FFD9B4"| '''25.8'''
+| 15.1
+| –
+| –
+| 6.1
+| 1.3
+| –
+| 10.9
+| –
+| 3.7
+| 13.5
+| 19.7
+| 3.9
+| style="background:#FF8000"| {{color|white|10.7}}
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic12/>
+| 12–14 dic 2012
+| 1636
+| style="background:#FFD9B4"| '''29'''
+| 16
+| –
+| –
+| 10
+| 1
+| –
+| 15
+| –
+| 2
+| 7
+| 11
+| 9
+| style="background:#FF8000"| {{color|white|13}}
+|-
+|}
+
+=== Escenarios alternativos ===
+==== Participación de Julio Guzmán y César Acuña ====
+<center>
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:200px;" | Encuestadora/Medio
+! style="width:72px;" | Fecha
+! style="width:60px;" | Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]<br>[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:50px;" | <small>[[Julio Guzmán]]<br>[[File:Todos por el Perú (logo).svg|20px|link=Todos por el Perú]]
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]<br>[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Alfredo Barnechea]]<br>[[File:Acción Popular.png|20px|link=Acción Popular]]
+! style="width:50px;" | <small>[[Alan García]]<br>[[File:Logo Alianza Popular 2016.jpg|20px|link=Alianza Popular (Perú)]]
+! style="width:50px;" | <small>[[Verónika Mendoza]]<br>[[File:Logo-frente-amplio.svg|20px|link=Frente Amplio (Perú)]]
+! style="width:50px;" | <small>[[César Acuña]]<br>[[File:Alianza para el Progreso Peru.svg|20px|link=Alianza para el Progreso del Perú]]
+! style="width:40px;" | <small>Otros
+! style="width:40px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:40px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Ipsos Perú/El Comercio<ref name=PPK>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2016-03/Opinion%20Data%20Marzo%202016.pdf |título=El momento de PPK |apellido= |nombre= |fecha=14 de marzo de 2016 |sitioweb= ipsos.pe |idioma= |cita= }}</ref>
+| 5–10 mar 2016
+| 1851
+| style="background:lightgreen"|'''31'''
+| style="background:lightblue"|16
+| style="background:#fceca2" |9
+| 7
+| 6
+| 5
+| 3
+| colspan="3"|23
+|-
+|}</center>
+
+==== Exclusión de Julio Guzmán y César Acuña ====
+<center>
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:200px;" | Encuestadora/Medio
+! style="width:72px;" | Fecha
+! style="width:60px;" | Muestra
+! style="width:50px;" | <small>[[Keiko Fujimori]]<br>[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:50px;" | <small>[[Pedro Pablo Kuczynski]]<br>[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:50px;" | <small>[[Alfredo Barnechea]]<br>[[File:Acción Popular.png|20px|link=Acción Popular]]
+! style="width:50px;" | <small>[[Verónika Mendoza]]<br>[[File:Logo-frente-amplio.svg|20px|link=Frente Amplio (Perú)]]
+! style="width:50px;" | <small>[[Alan García]]<br>[[File:Logo Alianza Popular 2016.jpg|20px|link=Alianza Popular (Perú)]]
+! style="width:50px;" | <small>[[Gregorio Santos]]<br>[[File:Democracia Directa house-only logo.svg|20px|link=Democracia Directa (Perú)]]
+! style="width:50px;" | <small>[[Fernando Olivera]]<br>[[File:Frente Independiente Moralizador.jpg|20px|link=Frente Esperanza]]
+! style="width:50px;" | <small>[[Alejandro Toledo]]<br>[[File:Logo del partido Perú Posible.png|20px|link=Perú Posible]]
+! style="width:40px;" | <small>Otros
+! style="width:40px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:40px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| Datum/Perú 21/Gestión<ref name=Datum-mar16/>
+| 4–7 mar 2016
+| 1200
+| style="background:lightgreen"|'''37'''
+| style="background:lightblue"|14
+| style="background:#fceca2" |9
+| 8
+| 7
+| 1.2
+| 0.3
+| 1
+| 4.5
+| 6
+| 12
+|-
+| GfK/La República<ref name=GfK-mar1>{{cita web |url=https://cdn2.hubspot.net/hubfs/2405078/cms-pdfs/fileadmin/user_upload/dyna_content/pe/gfk_op_febrero_2016_-_gobierno_y_lima_6.pdf |título=Estudio de opinión pública nacional - urbano rural (Febrero - 2016) |apellido= |nombre= |fecha=1 de marzo de 2016 |sitioweb=cdn2.hubspot.net |idioma= |cita= }}</ref>
+| 27 feb–1 mar 2016
+| 1552
+| style="background:lightgreen"|'''37.7'''
+| style="background:lightblue"|10.1
+| style="background:#fceca2" |6.7
+| 5.6
+| 4.5
+| 1.2
+| 1.7
+| –
+| –
+| 13.1
+| 17.2
+|-
+|}</center>
+
+==== Candidatura de Nadine Heredia ====
+<center>
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:165px;"| Encuestadora/Medio
+! style="width:60px;" | Fecha
+! style="width:55px;" | Muestra
+! style="width:55px;" | <small>[[Keiko Fujimori]]</small><br />[[File:Fuerza popular.svg|20px|link=Fuerza Popular]]
+! style="width:55px;" | <small>[[Nadine Heredia]]</small><br />[[File:Logo - Partido Nacionalista Peruano.svg|20px|link=Partido Nacionalista Peruano]]
+! style="width:55px;" | <small>[[Pedro Pablo Kuczynski]]</small><br />[[File:Peruanos Por el Kambio.png|20px|link=Peruanos Por el Kambio]]
+! style="width:55px;" | <small>[[Alan García]]</small><br />[[File:APRA Peru logo.svg|20px|link=Partido Aprista Peruano]]
+! style="width:55px;" | <small>[[Alejandro Toledo]]</small><br />[[File:Logo del partido Perú Posible.png|20px|link=Perú Posible]]
+! style="width:55px;" | <small>[[César Acuña]]</small><br />[[File:Alianza para el Progreso Peru.svg|20px|link=Alianza para el Progreso del Perú]]
+! style="width:55px;" | <small>[[Gregorio Santos]]</small><br/>[[File:Democracia Directa house-only logo.svg|20px|link=Democracia Directa (Perú)]]
+! style="width:40px;" | <small>Otros
+! style="width:40px;" | <small>{{Abreviatura|B/V|Blanco/viciado}}
+! style="width:40px;" | <small>{{Abreviatura|NS/NO|No sabe/no opina}}
+|-
+| CPI/Correo<ref name=cpi-jun14>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201406_01.pdf |título=Estudio de Opinión Pública para evaluar la gestión presidencial, instituciones públicas, intención de voto y personajes políticos - Perú Urbano (12 al 17 de junio de 2014) |fechaacceso= |apellido= |nombre= |fecha=17 de junio de 2014 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 12–17 jun 2014
+| 1450
+| style="background:lightgreen"| '''31.6'''
+| style="background:#fceca2" | 9.2
+| style="background:lightblue"| 14.5
+| 7.4
+| 3.9
+| 3.3
+| –
+| 9.1
+| 17.4
+| 3.6
+|-
+| Datum/Perú 21/Gestión<ref name=datum-may14/>
+| 2–7 may 2014
+| 1290
+| style="background:lightgreen"| '''27'''
+| style="background:#fceca2" | 13
+| style="background:lightblue"| 20
+| 7
+| 4
+| 4
+| –
+| colspan=3|21
+|-
+| CPI/Correo<ref name=cpi-abr14>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201404_02.pdf |título=Estudio de Opinión Pública para evaluar intención de voto presidencial y desempeño público de los personajes políticos - Perú Urbano (29 de marzo al 2 de abril de 2014) |fechaacceso= |apellido= |nombre= |fecha=2 de abril de 2014 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 29 mar–2 abr 2014
+| 1450
+| style="background:lightgreen"| '''31.5'''
+| 7.1
+| style="background:lightblue"| 14.6
+| style="background:#fceca2" | 9.5
+| 3.2
+| 4.0
+| –
+| 11.3
+| 17.6
+| 1.2
+|-
+| CPI/Correo<ref name=cpi-feb14>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201402_02.pdf |título=Estudio de Opinión Pública para evaluar intención de voto presidencial y personajes públicos - Perú Urbano (1 al 5 de febrero de 2014) |fechaacceso= |apellido= |nombre= |fecha=5 de febrero de 2014 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 1–5 feb 2014
+| 1450
+| style="background:lightgreen"| '''26.4'''
+| style="background:lightblue"| 16.1
+| 11.1
+| style="background:#fceca2" | 10.3
+| 4.5
+| 3.0
+| –
+| 11.4
+| 14.7
+| 2.5
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic13>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2013-12/Rumbo_al_2016.pdf |título=Rumbo al 2016 |fechaacceso= |apellido= |nombre= |fecha=15 de diciembre de 2013 |sitioweb=ipsos.com |idioma= |cita= }}/</ref>
+| 11–12 dic 2013
+| 1663
+| style="background:lightgreen"| '''27'''
+| style="background:lightblue"| 13
+| style="background:#fceca2" | 12
+| 8
+| 3
+| 3
+| 1
+| 18
+| 9
+| 6
+|-
+| Datum/Perú 21/Gestión<ref name=datum-nov13>{{cita web |url=https://gestion.pe/peru/politica/datum-keiko-fujimori-encabeza-preferencia-presidente-2016-52406-noticia/?ref=gesr |título=Datum: Keiko Fujimori encabeza preferencia para ser presidente en el 2016 |fechaacceso= |apellido= |nombre= |fecha=10 de noviembre de 2013 |sitioweb=gestion.pe |idioma= |cita= }}/</ref>
+| 1–5 nov 2013
+| 1202
+| style="background:lightgreen"| '''32'''
+| style="background:#fceca2" | 14
+| style="background:lightblue"| 16
+| 7
+| 4
+| 3
+| –
+| 6
+| 8
+| 10
+|-
+| CPI/Correo<ref name=cpi-may13>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNAC201306_01.pdf |título=Evaluación de Opinión Pública para evaluar la gestión presidencial y otros temas de interés nacional - Perú Urbano (25 al 30 de mayo de 2013) |fechaacceso= |apellido= |nombre= |fecha=30 de mayo de 2013 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 25–30 may 2013
+| 1450
+| style="background:lightgreen"| '''25.9'''
+| style="background:lightblue"| 20.9
+| style="background:#fceca2" | 14.2
+| 5.9
+| 6.3
+| 1.2
+| 0.7
+| 10.3
+| 8.7
+| 5.9
+|-
+| CPI/Correo<ref name=cpi-ene13>{{cita web |url=http://cpi.pe/images/upload/paginaweb/archivo/23/OPNA201301_02.pdf |título=Evaluación del Desempeño de la Primera Dama, Nadine Heredia, Instituciones Públicas y Elecciones Presidenciales 2016 (02 al 06 de enero de 2013) |fechaacceso= |apellido= |nombre= |fecha=6 de enero de 2013 |sitioweb=cpi.pe |idioma= |cita= }}</ref>
+| 2–6 ene 2013
+| 1450
+| style="background:lightgreen"| '''22.5'''
+| style="background:lightblue"| 21.7
+| style="background:#fceca2" | 13.1
+| 5.2
+| 8.1
+| 2.4
+| 1.0
+| 7.6
+| 15.4
+| 3.0
+|-
+| Ipsos Perú/El Comercio<ref name=ipsos-dic12>{{cita web |url=https://www.ipsos.com/sites/default/files/publication/2012-12/OD_Diciembre_2012.pdf |título=Elecciones, Revocatoria y La Haya |fechaacceso= |apellido= |nombre= |fecha=17 de diciembre de 2012 |sitioweb=ipsos.com |idioma= |cita= }}</ref>
+| 12–14 dic 2012
+| 1636
+| style="background:lightgreen"| '''25'''
+| style="background:lightblue"| 15
+| 10
+| 8
+| style="background:#fceca2" | 11
+| 2
+| 1
+| 17
+| 6
+| 5
+|-
+|}</center>
+
+== Véase también ==
+* [[Anexo:Sondeos de intención de voto para las elecciones parlamentarias de Perú de 2016]]
+* [[Anexo:Sondeos de intención de voto para las elecciones presidenciales de Perú de 2011]]
+* [[Anexo:Sondeos de intención de voto para las elecciones presidenciales de Perú de 2021]]
+
+== Notas ==
+{{listaref|group=lower-alpha}}
+
+== Referencias ==
+{{listaref|3}}
+
+{{Control de autoridades}}
+[[Categoría:Elecciones generales de Perú de 2016| *]]
+[[Categoría:Anexos:Elecciones]]
+[[Categoría:Encuestas en Perú]]
+[[Categoría:Encuestas en 2016]]

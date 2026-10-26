@@ -1,0 +1,1908 @@
+{{short description|none}}
+In the run up to the [[2022 Costa Rican general election|Costa Rican general election]] scheduled to take place in 2022, various organisations carry out [[opinion polling]] to gauge voting intention in the country. Results of such polls are displayed in this article. The date range for these opinion polls are from the [[2018 Costa Rican general election|previous general election]], held in 2018, to the present day.
+
+==Presidential election==
+=== First round ===
+====Graphic summary====
+{{Graph:Chart
+|width=720
+|height=300
+|hannotatonslabel=40% first round threshold
+|hannotatonsline=0.4
+|xAxisTitle=Fieldwork dates (Polling firm)
+|xAxisAngle=-40
+|legend=Party (Candidate)
+|yAxisMin=0
+|yAxisMax=0.45
+|yAxisFormat=%
+|xGrid=1
+|yGrid=5
+|showsymbols=1
+|symbolsShape=dot
+|interpolate=bundle
+|x=10-13 Mar 2021 (OPol),Apr 2021 (Enfoques),May 2021 (Enfoques),Jun 2021 (Enfoques),1-4 Jul 2021 (OPol),10-15 Jul 2021 (Enfoques),28-31 Jul 2021 (Demoscopia),31 Jul-2 Aug 2021 (OPol),23-27 Aug 2021 (CIEP-UCR),1-4 Sep 2021 (OPol),17-24 Sep 2021 (Demoscopia),28 Sep-1 Oct 2021 (OPol),21 Oct-2 Nov 2021 (CIEP-UCR),3-10 Nov 2021 (Demoscopia),17-19 Nov 2021 (CIEP-UCR),1-20 Nov 2021 (Idespo-UNA),3-7 Dec 2021 (Demoscopia),3-9 Dec 2021 (Enfoques),6-10 Dec 2021 (CIEP-UCR),16-19 Dec 2021 (OPol),3-8 Jan 2022 (Idespo-UNA),10-14 Jan 2022 (Demoscopia),12-14 Jan 2022 (OPol),Jan 2022 (Índice S.A.),12-14 Jan 2022 (CIEP-UCR),14-18 Jan 2022 (Enfoques),7-20 Jan 2022 (Ulatina),19-20 Jan 2022 (CIEP-UCR),25-27 Jan 2022 (OPol),27 Jan-1 Feb 2022 (CIEP-UCR),29 Jan-1 Feb 2022 (Demoscopia),1-2 Feb 2022 (OPol)
+|y1Title=PLN (Figueres)
+|y1=0.1270,0.1500,0.1400,0.1600,0.1530,0.1100,0.2220,0.1790,0.1700,0.1830,0.2680,0.1620,0.1900,0.2200,0.1300,0.1880,0.1820,0.1700,0.1720,0.1595,0.1490,0.1980,0.1820,0.2300,0.1680,0.1700,0.2020,0.1500,0.1890,0.1700,0.2020,0.1870
+|y2Title=PUSC (Saborío)
+|y2=0.0510,0.0700,0.0500,0.0500,0.0010,0.1300,0.1400,0.1380,0.0600,0.1100,0.0750,0.1030,0.0800,0.1020,0.1000,0.0750,0.1650,0.1600,0.1510,0.1414,0.1330,0.1540,0.1580,0.2200,0.1310,0.1900,0.1650,0.1370,0.1530,0.1290,0.1100,0.1490
+|y3Title=PNR (Alvarado)
+|y3=0.2300,0.1700,0.1300,0.1400,0.1610,0.1400,0.1160,0.2000,0.0400,0.1910,0.0710,0.1830,0.0500,0.0920,0.0400,0.0680,0.1330,0.1300,0.0690,0.1448,0.1110,0.1190,0.1810,0.2300,0.0850,0.2000,0.1080,0.1060,0.1830,0.1030,0.0800,0.1690
+|y4Title=FA (Villalta)
+|y4=0.0970,0.1000,0.0900,0.0700,0.1220,0.0800,0.1160,0.0880,0.0200,0.0500,0.0440,0.0390,0.0400,0.0940,0.0600,0.0380,0.0730,0.1000,0.0680,0.0348,0.0380,0.0580,0.0490,0.0800,0.0590,0.0700,0.0720,0.0760,0.0440,0.0760,0.0660,0.0420
+|y5Title=PSD (Chaves)
+|y5=,0.0100,0.0100,0.0200,0.0120,0.0200,,,0.0200,0.0210,0.0250,0.0250,0.0300,0.0420,0.0400,0.0320,0.0900,0.0400,0.0620,0.0351,0.0330,0.1100,0.0450,0.0300,0.0540,0.0500,0.1140,0.0580,0.0720,0.0820,0.1180,0.0730
+|y6Title=CRJ (Araya)
+|y6=0.1650,0.1300,0.0800,,0.1010,0.1000,0.0380,0.1870,0.0200,0.1330,0.0440,0.1530,0.0200,0.0420,0.0100,0.0280,,0.0220,0.0120,0.0277,0.0060,0.0120,0.0190,0.0200,0.0150,0.0300,,0.0070,0.0160,0.0110,0.0130,0.0110
+|y7Title=PFN (Moya)
+|y7=,,,,,,,,0.0100,,,0.0200,0.0060,,0.0030,0.0020,,0.0400,0.0040,0.0104,0.0020,0.0120,0.0130,,0.0020,0.0200,,0.0020,0.0060,0.0020,,0.0060
+|y8Title=PLP (Feinzaig)
+|y8=0.0170,0.0100,0.0000,0.0100,,0.0100,,0.0020,0.0100,0.0000,0.0180,0.0070,0.0100,0.0260,0.0100,0.0100,,0.0220,0.0170,0.0094,0.0100,0.0160,0.0110,,0.0080,0.0200,0.0330,0.0250,0.0340,0.0570,0.0500,0.0410
+|y9Title=PAC (Ramos)
+|y9=0.0150,,,,,,0.0880,0.0043,0.0400,0.0100,0.0670,0.0090,0.0200,0.0200,0.0100,0.0090,,0.0120,0.0050,0.0094,0.0050,0.0100,0.0110,,0.0060,0.0100,,0.0030,0.0070,0.0100,0.0060,0.0060
+|y10Title=PUCD (Morales)
+|y10=,,,,,,,,,,,,,,0.0020,0.0010,,,,0.0060,,,0.0050,,0.0000,,,0.0010,0.0020,0.0000,,0.0020
+|y11Title=PRSC (Hernández)
+|y11=,,,,,,,0.0620,0.0030,0.0230,,0.0190,0.0070,,0.0060,,,,0.0030,0.0077,0.0030,,0.0110,,0.0010,0.0100,,0.0010,0.0070,0.0040,,0.0050
+|y12Title=PRN (Cruickshank)
+|y12=0.0210,,,,0.0010,,,0.0130,0.0030,0.0000,,,0.0050,,0.0040,0.0030,,,0.0030,0.0074,0.0010,,0.0100,,0.0050,0.0100,,0.0030,0.0110,0.0020,,0.0080
+|y13Title=UP (Díaz)
+|y13=0.0240,,,,,,,0.0280,,0.0150,,0.0060,0.0020,,0.0000,0.0010,,,0.0010,0.0094,,,0.0090,,0.0040,0.0200,,0.0010,0.0080,0.0040,,0.0060
+|y14Title=PNP (Piza)
+|y14=,0.0600,0.0500,0.0400,0.0100,0.0500,,0.0210,0.0030,0.0210,,0.0190,0.0000,,0.0000,0.0010,,,0.0020,0.0080,0.0020,,0.0050,,0.0000,0.0200,,0.0010,0.0010,0.0020,,0.0020
+|y15Title=PASE (López)
+|y15=,,,,,,,,,,,,,,,0.0010,,,0.0010,0.0070,,,0.0090,,0.0000,,,0.0010,0.0110,0.0020,,0.0100
+|y16Title=ADC (Rivera)
+|y16=,,,,,,,,,,,,0.0020,,,0.0010,,,,0.0027,0.0010,,0.0020,,0.0000,,,0.0030,0.0020,0.0020,,0.0020
+|y17Title=UL (Malavassi)
+|y17=,,,0.0200,,,,0.0160,0.0030,0.0000,,,0.0070,,0.0020,,,,0.0030,0.0023,0.0020,,0.0020,,0.0010,,,0.0000,0.0030,0.0020,,0.0020
+|y18Title=JSC (Quesada)
+|y18=,,,,,,,,,,,,,,0.0020,0.0010,,,,0.0017,0.0010,,0.0040,,0.0000,,,0.0000,0.0030,0.0000,,0.0030
+|y19Title=PNG (Mena)
+|y19=0.0180,,,,0.0010,,,0.0090,0.0030,0.0000,,,0.0050,,,0.0010,,,0.0020,0.0013,0.0010,,0.0030,,0.0000,,,0.0010,0.0040,0.0000,,0.0040
+|y20Title=PEN (Campos)
+|y20=,,,,,,,,,,,,,,,,,,0.0010,0.0023,,,0.0030,,0.0000,,,0.0030,0.0020,0.0000,,0.0010
+|y21Title=ML (Cordero)
+|y21=,,,,,,,,0.0030,,,,0.0020,,,0.0010,,,0.0010,0.0017,,,0.0020,,0.0000,,,0.0010,0.0000,0.0010,,0.0010
+|y22Title=MSDC (Jiménez)
+|y22=,,,,,,,,,,,,,,,,,,,0.0010,,,0.0000,,,,,,0.0000,,,0.0000
+|y23Title=PIN (Muñoz)
+|y23=,,,,,,,,,,,,,,,0.0010,,,,0.0010,,,0.0020,,,,,,0.0010,,,0.0020
+|y24Title=PU (Chinchilla)
+|y24=,,,,,,,,,,,,,,,0.0010,,,,0.0010,0.0010,,0.0010,,,,,,0.0010,,,0.0010
+|y25Title=PT (Vega)
+|y25=,,,,,,,,,,,,,,,,,,,0.0003,,,0.0010,,,,,0.0010,0.0010,0.0010,,0.0010
+|colors=#008024,#0454A3,#87CEFA,#FFEF00,#36d42c,#02b2e3,#361f67,#FF7300,#FFD700,#97989a,#BC141A,#0059CF,#8806CE,#9428bc,#4682B4,#483D8B,#00008B,#009600,#0070B8,#ff1e44,#DC143C,#000030,#122562,#ce0000,#ce0000
+}}
+
+==== Table of values ====
+'''{{legend|ffd800|First position in poll}}'''
+{{legend|c0c0c0|Second position in poll}}
+
+<div style="overflow:auto;">
+{| class="wikitable" style="width:100%"
+!rowspan=2|Fieldwork dates
+!rowspan=2|Polling firm
+![[File:Bandera Partido Accesibilidad sin Exclusión Costa Rica.svg|border|40px|link=Accessibility without Exclusion]]<br />[[Accessibility without Exclusion|PASE]]<br />{{small|[[Óscar López (Costa Rican politician)|López]]}}
+![[File:Bandera Partido Acción Ciudadana Costa Rica.svg|border|40px|link=Citizens' Action Party (Costa Rica)]]<br />[[Citizens' Action Party (Costa Rica)|PAC]]<br />{{small|[[Welmer Ramos González|Ramos]]}}
+![[File:Bandera Partido Alianza Demócrata Cristiana Costa Rica.svg|border|40px|link=Christian Democratic Alliance (Costa Rica)]]<br />[[Christian Democratic Alliance (Costa Rica)|ADC]]<br />{{small|Rivera}}
+![[File:Bandera Partido Costa Rica Justa.svg|border|40px|link=A Just Costa Rica]]<br />[[A Just Costa Rica|CRJ]]<br />{{small|[[Rolando Araya Monge|Araya]]}}
+![[File:Bandera Partido Encuentro Nacional.svg|border|40px|link=]]<br />PEN<br />{{small|Campos}}
+![[File:Flag of Frente Amplio (Costa Rica) 2013.svg|border|40px|link=Broad Front (Costa Rica)]]<br />[[Broad Front (Costa Rica)|FA]]<br />{{small|[[José María Villalta Florez-Estrada|Villalta]]}}
+![[File:Bandera Partido Fuerza Nacional Costa Rica.svg|border|40px|link=]]<br />PFN<br />{{small|Moya}}
+![[File:Bandera Partido Integración Nacional Costa Rica.svg|border|40px|link=National Integration Party (Costa Rica)]]<br />[[National Integration Party (Costa Rica)|PIN]]<br />{{small|Muñoz}}
+![[File:Bandera Partido Justicia Social Costarricense Costa Rica.svg|border|40px|link=]]<br />JSC<br />{{small|[[Carmen Quesada Santamaría|Quesada]]}}
+![[File:Bandera de Partido Liberación Nacional.svg|border|40px|link=National Liberation Party (Costa Rica)]]<br />[[National Liberation Party (Costa Rica)|PLN]]<br />{{small|[[José María Figueres|Figueres]]}}
+![[File:Bandera Partido Liberal Progresista Plus Costa Rica.svg|border|40px|link=Liberal Progressive Party (Costa Rica)]]<br />[[Liberal Progressive Party (Costa Rica)|PLP]]<br />{{small|Feinzaig}}
+![[File:Bandera del Movimiento Libertario.svg|border|40px|link=Libertarian Movement (Costa Rica)]]<br />[[Libertarian Movement (Costa Rica)|ML]]<br />{{small|Cordero}}
+![[File:Bandera Partido Movimiento Social Demócrata Costarricense.svg|border|40px|link=]]<br />MSDC<br />{{small|Jiménez}}
+![[File:Bandera Partido Nuestro Pueblo Costa Rica.svg|border|40px|link=]]<br />PNP<br />{{small|[[Rodolfo Piza Rocafort|Piza]]}}
+![[File:Bandera Partido Nueva Generación Costa Rica.svg|border|40px|link=New Generation Party (Costa Rica)]]<br />[[New Generation Party (Costa Rica)|PNG]]<br />{{small|Mena}}
+![[File:Bandera Partido Nueva República Costa Rica.svg|border|40px|link=New Republic Party (Costa Rica)]]<br />[[New Republic Party (Costa Rica)|PNR]]<br />{{small|[[Fabricio Alvarado Muñoz|Alvarado]]}}
+![[File:Bandera Partido Progreso Social Democrático Costa Rica.svg|border|40px|link=Social Democratic Progress Party]]<br />[[Social Democratic Progress Party|PSD]]<br />{{small|[[Rodrigo Chaves Robles|Chaves]]}}
+![[File:Bandera Pueblo Unido Costa Rica.svg|border|40px|link=United People (Costa Rica)]]<br />[[United People (Costa Rica)|PU]]<br />{{small|Chinchilla}}
+![[File:Bandera Partido Republicano Social Cristiano Costa Rica.svg|border|40px|link=Social Christian Republican Party]]<br />[[Social Christian Republican Party|PRSC]]<br />{{small|Hernández}}
+![[File:Bandera Partido Restauración Nacional Costa Rica 2022.svg|border|40px|link=National Restoration Party (Costa Rica)]]<br />[[National Restoration Party (Costa Rica)|PRN]]<br />{{small|Cruickshank}}
+![[File:Bandera Partido de los Trabajadores Costa Rica.svg|border|40px|link=Workers' Party (Costa Rica)]]<br />[[Workers' Party (Costa Rica)|PT]]<br /><span style="font-size:small">Vega</span>
+![[File:Bandera del Partido Unidad Social Cristiana.svg|border|40px|link=Social Christian Unity Party]]<br />[[Social Christian Unity Party|PUSC]]<br />{{small|[[Lineth Saborío Chaverri|Saborío]]}}
+! <br />[[United We Can (Costa Rica)|UP]]<br />{{small|Díaz}}
+![[File:Bandera Partido Unión Costarricense Democrática.svg|border|40px|link=]]<br />PUCD<br />{{small|Morales}}
+![[File:Bandera Partido Unión Liberal Costa Rica.svg|border|40px|link=]]<br />UL<br />{{small|Malavassi}}
+!rowspan=2 style="background-color:#000000;color:#ffffff"|Blank, null, others, undecided
+|-
+!style="background-color:#4682B4|
+!style="background-color:#FFD700|
+!style="background-color:#483D8B|
+!style="background-color:#02b2e3|
+!style="background-color:#ff1e44|
+!style="background-color:#FFEF00|
+!style="background-color:#361f67|
+!style="background-color:#122562|
+!style="background-color:#009600|
+!style="background-color:#008024|
+!style="background-color:#FF7300|
+!style="background-color:#DC143C|
+!style="background-color:#000030|
+!style="background-color:#9428bc|
+!style="background-color:#0070B8|
+!style="background-color:#87CEFA|
+!style="background-color:#36d42c|
+!style="background-color:#ce0000|
+!style="background-color:#BC141A|
+!style="background-color:#0059CF|
+!style="background-color:#ce0000|
+!style="background-color:#0454A3|
+!style="background-color:#8806CE|
+!style="background-color:#97989a|
+!style="background-color:#00008B|
+|-
+|{{nowrap|1-2 Feb 2022}}
+|OPol<ref>{{cite news |last1=Muñoz |first1=Mauricio |title=ENCUESTA: Figueres estaría cerca de segunda ronda, Fabricio Alvarado o Lineth Saborío serían su rival |url=https://www.elmundo.cr/costa-rica/encuesta-figueres-estaria-cerca-de-segunda-ronda-fabricio-alvarado-o-lineth-saborio-serian-su-rival/ |access-date=3 February 2022 |work=elmundo.cr |date=2 February 2022 |language=es}}</ref>
+|style="text-align:right"|{{formatnum:1.00}}
+|style="text-align:right"|{{formatnum:0.60}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:1.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:4.20}}
+|style="text-align:right"|{{formatnum:0.60}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.70}}'''
+|style="text-align:right"|{{formatnum:4.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.40}}
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.90}}
+|style="text-align:right"|{{formatnum:7.30}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.50}}
+|style="text-align:right"|{{formatnum:0.80}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:14.90}}
+|style="text-align:right"|{{formatnum:0.60}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:26.70}}
+|-
+|{{nowrap|29 Jan-1 Feb 2022}}
+|Demoscopia<ref>{{cite news |last1=Gómez |first1=Tomás |title=Encuesta Demoscopía: Figueres lidera, Chaves y Lineth disputan 2° lugar junto a Fabricio que reduce su apoyo |url=https://observador.cr/encuesta-demoscopia-figueres-lidera-chaves-y-lineth-disputan-2-lugar-junto-a-fabricio-que-reduce-su-apoyo/ |access-date=3 February 2022 |work=El Observador |date=3 February 2022 |language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:0.60}}
+|
+|style="text-align:right"|{{formatnum:1.30}}
+|
+|style="text-align:right"|{{formatnum:6.60}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:20.20}}'''
+|style="text-align:right"|{{formatnum:5.00}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:8.00}}
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:11.80}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:11.00}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:35.30}}
+|-
+|{{nowrap|27 Jan-1 Feb 2022}}
+|CIEP-UCR<ref>{{cite web |title=INFORME DE RESULTADOS DE LA ENCUESTA CIEP-UCR |url=https://ciep.ucr.ac.cr/wp-content/uploads/2022/02/INFORME-DE-RESULTADOS-DE-LA-ENCUESTA-CIEP-UCR-ENERO-3-2022.html |website=CIEP |publisher=UCR |access-date=3 February 2022}}</ref>
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:1.00}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:1.10}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:7.60}}
+|style="text-align:right"|{{formatnum:0.20}}
+|
+|style="text-align:right"|{{formatnum:0.00}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.00}}'''
+|style="text-align:right"|{{formatnum:5.70}}
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:10.30}}
+|style="text-align:right"|{{formatnum:8.20}}
+|
+|style="text-align:right"|{{formatnum:0.40}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:12.90}}
+|style="text-align:right"|{{formatnum:0.40}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:2.30}}
+|-
+|{{nowrap|25-27 Jan 2022}}
+|OPol<ref>{{cite news |last1=Gutiérrez |first1=María José |title=Encuesta: José María Figueres y Fabricio Alvarado se mantiene a la cabeza de las preferencias electorales |url=https://www.elmundo.cr/elecciones-2022/encuesta-jose-maria-figueres-y-fabricio-alvarado-se-mantiene-a-la-cabeza-de-las-preferencias-electorales/ |access-date=3 February 2022 |work=elmundo.cr |date=28 January 2022 |language=es}}</ref>
+|style="text-align:right"|{{formatnum:1.10}}
+|style="text-align:right"|{{formatnum:0.70}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:1.60}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:4.40}}
+|style="text-align:right"|{{formatnum:0.60}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.90}}'''
+|style="text-align:right"|{{formatnum:3.40}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.40}}
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:18.30}}
+|style="text-align:right"|{{formatnum:7.20}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.70}}
+|style="text-align:right"|{{formatnum:1.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:15.30}}
+|style="text-align:right"|{{formatnum:0.80}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:23.90}}
+|-
+|{{nowrap|19-20 Jan 2022}}
+|CIEP-UCR<ref>{{cite web |title=INFORME DE RESULTADOS DE LA ENCUESTA CIEP-UCR |url=https://ciep.ucr.ac.cr/wp-content/uploads/2022/01/INFORME-DE-RESULTADOS-DE-LA-ENCUESTA-CIEP-UCR-ENERO-2-2022.html |website=CIEP |publisher=UCR |access-date=3 February 2022 |language=es}}</ref>
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:0.70}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:7.60}}
+|style="text-align:right"|{{formatnum:0.20}}
+|
+|style="text-align:right"|{{formatnum:0.00}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:15.00}}'''
+|style="text-align:right"|{{formatnum:2.50}}
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:10.60}}
+|style="text-align:right"|{{formatnum:5.80}}
+|
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:13.70}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:42.00}}
+|-
+|{{nowrap|7-20 Jan 2022}}
+|Ulatina<ref>{{cite web |title=El Centro de Opinión de ULatina realiza encuesta sobre el Proceso Político Electoral de Costa Rica |url=https://www.ulatina.ac.cr/area-de-investigacion/articulos/centro-opinion-ulatina-realiza-encuesta-sobre-proceso-politico-electoral |website=ULatina |access-date=3 February 2022|language=es}}</ref>
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.20}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:20.20}}'''
+|style="text-align:right"|{{formatnum:3.30}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:10.80}}
+|style="text-align:right"|{{formatnum:11.40}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.50}}
+|
+|
+|
+|
+|-
+|{{nowrap|14-18 Jan 2022}}
+|Enfoques<ref>{{cite news |last1=Hidalgo |first1=Kristin |title=Cuando ven lista de candidatos, votantes favorecen a Fabricio Alvarado en encuesta |url=https://www.ameliarueda.com/nota/con-lista-candidatos-fabricio-alvarado-lidera-voto-noticias-costa-rica |access-date=3 February 2022 |work=AmeliaRueda.com |date=21 January 2022 |language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|style="text-align:right"|{{formatnum:3.00}}
+|
+|style="text-align:right"|{{formatnum:7.00}}
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|
+|style="text-align:right"|{{formatnum:17.00}}
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:20.00}}'''
+|style="text-align:right"|{{formatnum:5.00}}
+|
+|style="text-align:right"|{{formatnum:1.00}}
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:19.00}}
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|
+|style="text-align:right"|{{formatnum:18.00}}
+|-
+|{{nowrap|12-14 Jan 2022}}
+|CIEP-UCR<ref>{{cite web |title=INFORME DE RESULTADOS DE LA ENCUESTA CIEP-UCR |url=https://ciep.ucr.ac.cr/wp-content/uploads/2022/01/Informe-de-resultados-CIEP-SEMANARIO-RADIOS-UCR-Enero-2022.html |website=CIEP |publisher=UCR |access-date=3 February 2022 |language=es}}</ref>
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.60}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:1.50}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:5.90}}
+|style="text-align:right"|{{formatnum:0.20}}
+|
+|style="text-align:right"|{{formatnum:0.00}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:16.80}}'''
+|style="text-align:right"|{{formatnum:0.80}}
+|style="text-align:right"|{{formatnum:0.00}}
+|
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:8.50}}
+|style="text-align:right"|{{formatnum:5.40}}
+|
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.50}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:13.10}}
+|style="text-align:right"|{{formatnum:0.40}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:46.90}}
+|-
+|{{nowrap|Jan 2022}}
+|Índice S.A.<ref>{{cite news |last1=Chinchilla Carvajal |first1=Aarón |title=Fabricio, Figueres y Lineth empatados en primera ronda |url=https://www.diarioextra.com/Noticia/detalle/468190/fabricio-figueres-y-lineth-empatados-en-primera-ronda |access-date=3 February 2022 |work=Diario Extra |date=18 January 2022 |language=es}}</ref>
+|
+|
+|
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|style="text-align:right"|{{formatnum:8.00}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:23.00}}'''
+|
+|
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:23.00}}'''
+|style="text-align:right"|{{formatnum:3.00}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:22.00}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:19.00}}
+|-
+|{{nowrap|12-14 Jan 2022}}
+|OPol<ref>{{cite news |last1=Gutiérrez |first1=María José |title=ENCUESTA: Figueres y Fabricio Alvarado a la cabeza en intención de voto a tres semanas de elecciones |url=https://www.elmundo.cr/costa-rica/encuesta-figueres-y-fabricio-alvarado-a-la-cabeza-en-intencion-de-voto-a-tres-semanas-de-elecciones/ |access-date=3 February 2022 |work=elmundo.cr |date=15 January 2022 |language=es}}</ref>
+|style="text-align:right"|{{formatnum:0.90}}
+|style="text-align:right"|{{formatnum:1.10}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:1.90}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:4.90}}
+|style="text-align:right"|{{formatnum:1.30}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.40}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.20}}'''
+|style="text-align:right"|{{formatnum:1.10}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.50}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:18.10}}
+|style="text-align:right"|{{formatnum:4.50}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:1.10}}
+|style="text-align:right"|{{formatnum:1.00}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:15.80}}
+|style="text-align:right"|{{formatnum:0.90}}
+|style="text-align:right"|{{formatnum:0.50}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:26.50}}
+|-
+|{{nowrap|10-14 Jan 2022}}
+|Demoscopia<ref>{{cite news |last1=Gómez |first1=Tomás |title=Encuesta: Lineth, Fabricio y Rodrigo Chaves en pugna por segundo lugar, Figueres sigue a la cabeza |url=https://observador.cr/encuesta-lineth-fabricio-y-rodrigo-chaves-en-pugna-por-segundo-lugar-figueres-sigue-a-la-cabeza/ |access-date=3 February 2022 |work=El Observador |date=16 January 2022 |language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|style="text-align:right"|{{formatnum:1.20}}
+|
+|style="text-align:right"|{{formatnum:5.80}}
+|style="text-align:right"|{{formatnum:1.20}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:19.80}}'''
+|style="text-align:right"|{{formatnum:1.60}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:11.90}}
+|style="text-align:right"|{{formatnum:11.00}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.40}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:31.10}}
+|-
+|{{nowrap|3-8 Jan 2022}}
+|IDESPO-UNA<ref>{{cite web |title=Encuesta. Cultura Política e Intención de Voto en las Elecciones Nacionales 2022 |url=https://repositorio.una.ac.cr/bitstream/handle/11056/22390/encuesta_cultura_politica_e_intencion_de_voto_en_las_elecciones_nacionales_2022.pdf?sequence=1&isAllowed=y |website=IDESPO |publisher=UNA|access-date=3 February 2022}}</ref>
+|
+|style="text-align:right"|{{formatnum:0.50}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.60}}
+|
+|style="text-align:right"|{{formatnum:3.80}}
+|style="text-align:right"|{{formatnum:0.20}}
+|
+|style="text-align:right"|{{formatnum:0.10}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:14.90}}'''
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:11.10}}
+|style="text-align:right"|{{formatnum:3.30}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:13.30}}
+|
+|
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:50.50}}
+|-
+|{{nowrap|16-19 Dec 2021}}
+|OPol<ref>{{cite news |last1=Gutiérrez |first1=María José |title=Triple empate entre Figueres, Alvarado y Saborío de cara a las elecciones 2022 |url=https://www.elmundo.cr/elecciones-2022/triple-empate-entre-figueres-alvarado-y-saborio-de-cara-a-las-elecciones-2022/ |access-date=20 December 2021 |work=elmundo.cr |date=20 December 2021 |language=spanish}}</ref>
+|style="text-align:right"|{{formatnum:0.70}}
+|style="text-align:right"|{{formatnum:0.94}}
+|style="text-align:right"|{{formatnum:0.27}}
+|style="text-align:right"|{{formatnum:2.77}}
+|style="text-align:right"|{{formatnum:0.23}}
+|style="text-align:right"|{{formatnum:3.48}}
+|style="text-align:right"|{{formatnum:1.04}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.17}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:15.95}}'''
+|style="text-align:right"|{{formatnum:0.94}}
+|style="text-align:right"|{{formatnum:0.17}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.80}}
+|style="text-align:right"|{{formatnum:0.13}}
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:14.48}}
+|style="text-align:right"|{{formatnum:3.51}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.77}}
+|style="text-align:right"|{{formatnum:0.74}}
+|style="text-align:right"|{{formatnum:0.03}}
+|style="text-align:right"|{{formatnum:14.14}}
+|style="text-align:right"|{{formatnum:0.94}}
+|style="text-align:right"|{{formatnum:0.60}}
+|style="text-align:right"|{{formatnum:0.23}}
+|style="text-align:right"|{{formatnum:36.68}}
+|-
+|{{nowrap|6-10 Dec 2021}}
+|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/wp-content/uploads/2021/12/INFORME-DE-RESULTADOS-DE-LA-ENCUESTA-CIEP-UCR-DICIEMBRE-2021.html |title=INFORME DE RESULTADOS DE LA ENCUESTA CIEP-UCR |accessdate=14 December 2021|date=14 December 2021|work=CIEP|language=es}}</ref>
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.50}}
+|
+|style="text-align:right"|{{formatnum:1.20}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:6.80}}
+|style="text-align:right"|{{formatnum:0.40}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.20}}'''
+|style="text-align:right"|{{formatnum:1.70}}
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:6.90}}
+|style="text-align:right"|{{formatnum:6.20}}
+|
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:0.30}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:42.30}}
+|-
+|{{nowrap|3-9 Dec 2021}}
+|Enfoques<ref>{{cite news|url=https://www.vozyvoto.org/nota/empate-tecnico-candidatos-pln-pusc-nueva-republica-encuesta-costa-rica|title=Empate técnico entre candidatos del PLN, PUSC y Nueva República en nueva encuesta|accessdate=13 December 2021|date=13 December 2021|work=AmeliaRuida.com VozYVoto.org|last1=Fallas M.|first1=Gustavo|language=es}}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|
+|style="text-align:right"|{{formatnum:1.20}}
+|
+|style="text-align:right"|{{formatnum:2.20}}
+|
+|style="text-align:right"|{{formatnum:10.00}}
+|style="text-align:right"|{{formatnum:4.00}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.00}}'''
+|style="text-align:right"|{{formatnum:2.20}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:13.00}}
+|style="text-align:right"|{{formatnum:4.00}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.00}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:52.00}}
+|-
+|{{nowrap|3-7 Dec 2021}}
+|Demoscopia<ref>{{cite news|url=https://observador.cr/encuesta-figueres-lineth-y-fabricio-en-empate-tecnico-a-2-meses-de-las-elecciones/|title=Encuesta Figueres, Lineth y Fabricio en empate técnico a 2 meses de las elecciones|accessdate=12 December 2021|date=12 December 2021|work=El Observador|first1=Paula|last1=Ruiz|language=es}}</ref>
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.30}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.20}}'''
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:13.30}}
+|style="text-align:right"|{{formatnum:9.00}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.50}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:30.20}}
+|-
+|{{nowrap|1-20 Nov 2021}}
+|IDESPO-UNA<ref>{{cite web|url=https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2021/12/INFORME-Migracion-cultura-politica-e-intencion-de-voto-2022.pdf|title=Migración, Cultura Política e Intención de voto en las elecciones nacionales 2022|accessdate=10 December 2021|website=www.unacomunica.una.ac.cr|language=es}}</ref>
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.90}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:2.80}}
+|
+|style="text-align:right"|{{formatnum:3.80}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.80}}'''
+|style="text-align:right"|{{formatnum:1.00}}
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:6.80}}
+|style="text-align:right"|{{formatnum:3.20}}
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="text-align:right"|{{formatnum:0.30}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:7.50}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="text-align:right"|{{formatnum:2.10}}
+|-
+|{{nowrap|17-19 Nov 2021}}
+|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/estudio-de-opinion-publica-noviembre-2021/|title=ESTUDIO DE OPINIÓN 24 November 2021|accessdate=24 November 2021|website=ciep.ucr.ac.cr|date=24 November 2021 |language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|style="text-align:right"|{{formatnum:6.00}}
+|style="text-align:right"|{{formatnum:0.30}}
+|
+|style="text-align:right"|{{formatnum:0.20}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:13.00}}'''
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|
+|style="text-align:right"|{{formatnum:0.00}}
+|
+|style="text-align:right"|{{formatnum:4.00}}
+|style="text-align:right"|{{formatnum:4.00}}
+|
+|style="text-align:right"|{{formatnum:0.60}}
+|style="text-align:right"|{{formatnum:0.40}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:10.00}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:58.00}}
+|-
+|{{nowrap|3-10 Nov 2021}}
+|Demoscopia<ref name="obs" />
+|
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|style="text-align:right"|{{formatnum:4.20}}
+|
+|style="text-align:right"|{{formatnum:9.40}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:22.00}}'''
+|style="text-align:right"|{{formatnum:2.60}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:9.20}}
+|style="text-align:right"|{{formatnum:4.20}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:10.20}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:33.20}}
+|-
+|{{nowrap|21 Oct-2 Nov 2021}}
+|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/estudio-de-opinion-publica-octubre-2021/|title=ESTUDIO DE OPINIÓN 3 November 2021|accessdate=3 November 2021|website=ciep.ucr.ac.cr|date=3 November 2021 |language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:2.00}}
+|style="text-align:right"|{{formatnum:0.20}}
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|style="text-align:right"|{{formatnum:4.00}}
+|style="text-align:right"|{{formatnum:0.60}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:19.00}}'''
+|style="text-align:right"|{{formatnum:1.00}}
+|style="text-align:right"|{{formatnum:0.20}}
+|
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:0.50}}
+|style="text-align:right"|{{formatnum:5.00}}
+|style="text-align:right"|{{formatnum:3.00}}
+|
+|style="text-align:right"|{{formatnum:0.70}}
+|style="text-align:right"|{{formatnum:0.50}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:8.00}}
+|style="text-align:right"|{{formatnum:0.20}}
+|
+|style="text-align:right"|{{formatnum:0.70}}
+|style="text-align:right"|{{formatnum:51.00}}
+|-
+|{{nowrap|28 Sep-1 Oct 2021}}
+|OPol<ref>{{cite web|url=https://www.larepublica.net/news/fabricio-alvarado-jose-maria-figueres-rolando-araya-y-lineth-saborio-parten-como-favoritos-en-carrera-presidencial|title=Fabricio Alvarado, José María Figueres, Rolando Araya y Lineth Saborío parten como favoritos|accessdate=6 October 2021|website=www.larepublica.net|language=es}}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|
+|style="text-align:right"|{{formatnum:0.90}}
+|
+|style="text-align:right"|{{formatnum:15.30}}
+|
+|style="text-align:right"|{{formatnum:3.90}}
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.20}}
+|style="text-align:right"|{{formatnum:0.70}}
+|
+|
+|style="text-align:right"|{{formatnum:1.90}}
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.30}}'''
+|style="text-align:right"|{{formatnum:2.50}}
+|
+|style="text-align:right"|{{formatnum:1.90}}
+|
+|
+|style="text-align:right"|{{formatnum:10.30}}
+|style="text-align:right"|{{formatnum:0.60}}
+|
+|
+|style="text-align:right"|{{formatnum:22.80}}
+|-
+|{{nowrap|17-24 Sep 2021}}
+|Demoscopia<ref>{{cite news|last1=Gómez|first1=Tomás|title=Encuesta Figueres arranca campaña como el candidato favorito con un 26,8% y a la vez el más rechazado|url=https://observador.cr/encuesta-figueres-arranca-campana-como-el-candidato-favorito-con-un-268-y-a-la-vez-el-mas-rechazado/|accessdate=4 October 2021|work=Observador|date=3 October 2021|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:6.70}}
+|
+|style="text-align:right"|{{formatnum:4.40}}
+|
+|style="text-align:right"|{{formatnum:4.40}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:26.80}}'''
+|style="text-align:right"|{{formatnum:1.80}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.10}}
+|style="text-align:right"|{{formatnum:2.50}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:7.50}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:38.00}}
+|-
+|{{nowrap|1-4 Sep 2021}}
+|OPol<ref>{{cite news|title=Fabricio Alvarado y José María Figueres irían a la segunda ronda|url=https://www.larepublica.net/news/fabricio-alvarado-y-jose-maria-figueres-irian-a-la-segunda-ronda|accessdate=7 September 2021|work=Republica|date=7 September 2021|language=es}}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|style="text-align:right"|{{formatnum:13.30}}
+|
+|style="text-align:right"|{{formatnum:5.00}}
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:18.30}}
+|style="text-align:right"|{{formatnum:0.00}}
+|
+|
+|style="text-align:right"|{{formatnum:2.10}}
+|style="text-align:right"|{{formatnum:0.00}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:19.10}}'''
+|style="text-align:right"|{{formatnum:2.10}}
+|
+|style="text-align:right"|{{formatnum:2.30}}
+|style="text-align:right"|{{formatnum:0.00}}
+|
+|style="text-align:right"|{{formatnum:11.00}}
+|style="text-align:right"|{{formatnum:1.50}}
+|
+|style="text-align:right"|{{formatnum:0.00}}
+|style="text-align:right"|{{formatnum:20.40}}
+|-
+|{{nowrap|23-27 Aug 2021}}
+|CIEP-UCR<ref>{{cite news|title=Encuesta CIEP-UCR: Competencia electoral hacia 2022 arranca con más indecisos que nunca|url=https://semanariouniversidad.com/pais/encuesta-ciep-ucr-competencia-electoral-hacia-2022-arranca-con-mas-indecisos-que-nunca/|accessdate=1 September 2021|work=Semanario|date=2021|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:4.00}}
+|
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|style="text-align:right"|{{formatnum:2.00}}
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.00}}'''
+|style="text-align:right"|{{formatnum:1.00}}
+|style="text-align:right"|{{formatnum:0.30}}
+|
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:4.00}}
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:0.30}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:6.00}}
+|
+|
+|style="text-align:right"|{{formatnum:0.30}}
+|style="text-align:right"|{{formatnum:57.00}}
+|-
+|{{nowrap|31 Jul-2 Aug 2021}}
+|OPol<ref>https://www.diarioextra.com/news/detalle/456488/fabricio-araya-y-figueres-lideran-intenci-n-de-voto {{Dead link|date=February 2022| fix-attempted=yes}}</ref>
+|
+|style="text-align:right"|{{formatnum:0.43}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:18.70}}
+|
+|style="text-align:right"|{{formatnum:8.80}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:17.90}}
+|style="text-align:right"|{{formatnum:0.20}}
+|
+|
+|style="text-align:right"|{{formatnum:2.10}}
+|style="text-align:right"|{{formatnum:0.90}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:20.00}}'''
+|
+|
+|style="text-align:right"|{{formatnum:6.20}}
+|style="text-align:right"|{{formatnum:1.30}}
+|
+|style="text-align:right"|{{formatnum:13.80}}
+|style="text-align:right"|{{formatnum:2.80}}
+|
+|style="text-align:right"|{{formatnum:1.60}}
+|
+|-
+|{{nowrap|28-31 Jul 2021}}
+|Demoscopia<ref name="obs">{{cite news|last1=Solano|first1=Hermes|title=Figueres, Lineth, Villalta y Fabricio lideran intención de voto a tres meses de elecciones|url=https://observador.cr/encuesta-figueres-lineth-villalta-y-fabricio-lideran-intencion-de-voto-a-tres-meses-de-elecciones/|accessdate=17 November 2021|work=Observador|date=3 November 2021|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:8.80}}
+|
+|style="text-align:right"|{{formatnum:3.80}}
+|
+|style="text-align:right"|{{formatnum:11.60}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:22.20}}'''
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:11.60}}
+|
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:14.00}}
+|
+|
+|
+|
+|-
+|{{nowrap|10-15 Jul 2021}}
+|Enfoques<ref>{{cite news|title=ENCUESTA: Fabricio Alvarado y Rolando Araya encabezan intención de voto 2022|url=https://www.elmundo.cr/elecciones-2022/encuesta-fabricio-alvarado-y-rolando-araya-encabezan-intencion-de-voto-2022/|accessdate=21 July 2021|work=Mundo|language=es}}</ref><ref name=enf>{{cite news|title=Anticuerpos contra Figueres siguen en aumento y preferencia PLN disminuye según estudio|url=https://www.culturacr.net/anticuerpos-contra-figueres-siguen-en-aumento-y-preferencia-pln-disminuye-segun-estudio/|accessdate=21 July 2021|work=CulturaCR|language=es}}</ref>
+|
+|
+|
+|style="text-align:right"|{{formatnum:10.00}}
+|
+|style="text-align:right"|{{formatnum:8.00}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:11.00}}
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|
+|style="text-align:right"|{{formatnum:5.00}}
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:14.00}}'''
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:13.00}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:1.00}}
+|-
+|{{nowrap|1-4 Jul 2021}}
+|OPol<ref>{{cite news|title=Fabricio Alvarado, José María Figueres y Lineth Saborío lideran intención de voto|url=https://www.larepublica.net/news/fabricio-alvarado-jose-maria-figueres-y-lineth-saborio-lideran-intencion-de-voto|accessdate=21 July 2021|work=La República|language=es}}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news|title=ENCUESTA: Alvarado, Figueres, Saborío y Araya encabezan intención de voto hacia el 2022|url=https://www.elmundo.cr/elecciones-2022/encuesta-alvarado-figueres-saborio-y-araya-encabezan-intencion-de-voto-hacia-el-2022/|accessdate=21 July 2021|work=Mundo|language=es}}</ref>
+|
+|
+|
+|style="text-align:right"|{{formatnum:10.10}}
+|
+|style="text-align:right"|{{formatnum:12.20}}
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.30}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:1.00}}
+|style="text-align:right"|{{formatnum:0.10}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:16.10}}'''
+|style="text-align:right"|{{formatnum:1.20}}
+|
+|
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|style="text-align:right"|{{formatnum:0.10}}
+|
+|
+|
+|
+|-
+|{{nowrap|Jun 2021}}
+|Enfoques<ref name=enf />
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.00}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:16.00}}'''
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|
+|style="text-align:right"|{{formatnum:4.00}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:14.00}}
+|style="text-align:right"|{{formatnum:2.00}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:5.00}}
+|
+|
+|style="text-align:right"|{{formatnum:2.00}}
+|style="text-align:right"|{{formatnum:3.00}}
+|-
+|{{nowrap|May 2021}}
+|Enfoques<ref name=enf />
+|
+|
+|
+|style="text-align:right"|{{formatnum:8.00}}
+|
+|style="text-align:right"|{{formatnum:9.00}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:14.00}}'''
+|style="text-align:right"|{{formatnum:0.00}}
+|
+|
+|style="text-align:right"|{{formatnum:5.00}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:13.00}}
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:5.00}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:2.00}}
+|-
+|{{nowrap|Apr 2021}}
+|Enfoques<ref name=enf />
+|
+|
+|
+|style="text-align:right"|{{formatnum:13.00}}
+|
+|style="text-align:right"|{{formatnum:10.00}}
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.00}}
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|
+|style="text-align:right"|{{formatnum:6.00}}
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.00}}'''
+|style="text-align:right"|{{formatnum:1.00}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.00}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:3.00}}
+|-
+|{{nowrap|10-13 Mar 2021}}
+|OPol<ref>{{cite news|last1=Quirós Navarro|first1=Bharley|title=Ticos con opinión positiva de mayoría de candidatos|url=https://www.diarioextra.com/news/detalle/444639/ticos-con-opini-n-positiva-de-mayor-a-de-candidatos|accessdate=22 March 2021|work=Diario Extra|date=15 March 2021|language=es}}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|
+|style="text-align:right"|{{formatnum:1.50}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.50}}
+|
+|style="text-align:right"|{{formatnum:9.70}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:12.70}}
+|style="text-align:right"|{{formatnum:1.70}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:1.80}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:23.00}}'''
+|
+|
+|
+|style="text-align:right"|{{formatnum:2.10}}
+|
+|style="text-align:right"|{{formatnum:5.10}}
+|style="text-align:right"|{{formatnum:2.40}}
+|
+|
+|
+|}
+</div>
+
+=== Second round ===
+====Graphic summary====
+{{Graph:Chart
+|width=720
+|height=300
+|hannotatonslabel=
+|hannotatonsline=0.4
+|xAxisTitle=Fieldwork dates (Polling firm)
+|xAxisAngle=-40
+|legend=Party (Candidate)
+|yAxisMin=0
+|yAxisMax=
+|yAxisFormat=%
+|xGrid=1
+|yGrid=5
+|showsymbols=1
+|symbolsShape=dot
+|interpolate=bundle
+|x=8-11 Feb (OPol),14-19 Feb (Idespo-UNA),22-24 Feb (CIEP-UCR),25 Feb-1 Mar (Enfoques),26 Feb-2 Mar (Demoscopia),28 Feb-4 Mar (Idespo-UNA),3-5 Mar (Opol),8-12 Mar (Enfoques),15-16 Mar (Demoscopia),13-18 Mar (Opol),13-19 Mar (Idespo-UNA),18-21 Mar (CIEP-UCR),21-23 Mar (Demoscopia),22-25 Mar (Opol),23-27 Mar (Enfoques),24-28 Mar (CIEP-UCR)
+|y1Title=PLN (Figueres)
+|y1=.33,.32,.30,.32,.37,.32,.30,.30,.40,.31,.38,.36,.32,.33,.38
+|y2Title=PSD (Chaves)
+|y2=.49,.45,.42,.45,.39,.44,.49,.52,.38,.49,.43,.32,.50,.45,.42
+|colors=#008024,#36d42c,
+}}
+
+==== Table of values ====
+'''{{legend|ffd800|First position in poll}}'''
+<div style="width:1024px; overflow:auto;">
+{| class="wikitable" style="font-size:100%"
+!rowspan=2|Fieldwork dates
+!rowspan=2|Polling firm
+![[File:Bandera Partido Progreso Social Democrático Costa Rica.svg|border|40px|link=Social Democratic Progress Party]]<br />[[Social Democratic Progress Party|PSD]]<br />[[Rodrigo Chaves Robles|Chaves]]
+![[File:Bandera de Partido Liberación Nacional.svg|border|40px|link=National Liberation Party (Costa Rica)]]<br />[[National Liberation Party (Costa Rica)|PLN]]<br />[[José María Figueres|Figueres]]
+!rowspan=2 style="background-color:gray;color:#ffffff"|Blank,<br /> null, <br />undecided.
+|-
+!style="background-color:#39d430|
+!style="background-color:#008024|
+|-
+|-
+|8-11 February 2022
+|OPol<ref>{{cite news |title=Encuesta: Rodrigo Chaves inicia con ventaja sobre Figueres camino a segunda ronda|url=https://www.elmundo.cr/costa-rica/encuesta-rodrigo-chaves-inicia-con-ventaja-sobre-figueres-camino-a-segunda-ronda/|last=Gutiérrez|first=María José|page=Elmundo.cr|date=11 February 2022|access-date=11 February 2022}}</ref>
+|style="background:#ffd800"|49,5%
+|33,1%
+|17,4%
+|-
+|14-19 February 2022
+|IDESPO-UNA<ref>{{cite news |title=Encuesta IDESPO: Chaves supera por 12,4% a José María Figueres|url=https://www.elmundo.cr/costa-rica/encuesta-idespo-chaves-supera-por-124-a-jose-maria-figueres/|last=Gutierrez|first=Maria|agency=Mundo|date=3 March 2022|access-date=3 March 2022}}</ref>
+|style="background:#ffd800"|45.6%
+|32.5%
+|18%
+|-
+|22-24 February 2022
+|CIEP-UCR<ref>{{cite news |title=Encuesta CIEP-UCR: 46,5% de votantes apoya a Rodrigo Chaves y 36% a Figueres|url=https://semanariouniversidad.com/pais/encuesta-ciep-ucr-46-de-votantes-apoya-a-rodrigo-chaves-y-36-a-figueres/|last=Murillo|first=Álvaro|agency=[[Semanario Universidad]]|date=1 March 2022|access-date=2 March 2022}}</ref>
+|style="background:#ffd800"|42.7%
+|30.3%
+|20%
+|-
+|25 February-1 March 2022
+|Enfoques<ref>{{cite news |title=Nueva encuesta da ventaja a Rodrigo Chaves|url=https://columbia.co.cr/nueva-encuesta-da-ventaja-a-rodrigo-chaves-y-destaca-voto-en-contra-a-figueres/|last=Arroyo|first=Allan|date=3 March 2022|access-date=3 March 2022}}</ref>
+|style="background:#ffd800"|45.6%
+|32.5%
+|18%
+|-
+|26 February-2 March 2022
+|Demoscopía<ref>{{cite news |title=#BalotajeCR: Demoscopía reporta resultados diferentes a las dos encuestas de las universidades (CIEP e Idespo)|url=https://www.culturacr.net/balotajecr-demoscopia-reporta-resultados-diferentes-al-dos-encuestas-de-las-universidades-ciep-e-idespo/?fbclid=IwAR1Uys-hMBpKfQ9f17fXi087nLPONVy8wZje2bgKp9crjEw7-BrgrheiVqA|agency=Cultura CR|date=3 March 2022|access-date=4 March 2022}}</ref>
+|style="background:#ffd800"|39.9%
+|37.1%
+|11.9%
+|-
+|28 February-4 March 2022
+|IDESPO-UNA<ref>{{cite news |title=Encuesta Enfoques: Rodrigo Chaves aumenta ventaja y supera por más de 20% a Figueres|url=https://www.elmundo.cr/elecciones-2022/encuesta-idespo-chaves-444-y-figueres-325/|last=Gutiérrez|first=María José|page=Elmundo.cr|date=15 March 2022|access-date=15 March 2022}}</ref>
+|style="background:#ffd800"|44.4%
+|32.5%
+|16.2%
+|-
+|3-5 March 2022
+|Opol<ref>{{cite news |title=Encuesta IDESPO: Chaves 44,4% y Figueres 32,5%|url=https://www.elmundo.cr/costa-rica/encuesta-rodrigo-chaves-aumenta-levemente-ventaja-sobre-jose-maria-figueres/|last=Gutiérrez|first=María José|page=Elmundo.cr|date=6 March 2022|access-date=6 March 2022}}</ref>
+|style="background:#ffd800"|49.5%
+|30.6%
+|19.9%
+|-
+|8-12 March 2022
+|Enfoques<ref>{{cite news |title=Encuesta Enfoques: Rodrigo Chaves aumenta ventaja y supera por más de 20% a Figueres|url=https://www.elmundo.cr/costa-rica/encuesta-enfoques-rodrigo-chaves-aumenta-ventaja-y-supera-por-mas-de-20-a-figueres/|last=Gutiérrez|first=María José|page=Elmundo.cr|date=14 March 2022|access-date=14 March 2022}}</ref>
+|style="background:#ffd800"|52%
+|30.9%
+|14.5%
+|-
+|15-16 March 2022
+|Demoscopia<ref>{{cite news |title=Demoscopía una encuesta que pone a Figueres adelante|url=https://www.elmundo.cr/costa-rica/demoscopia-una-encuesta-que-pone-a-figueres-adelante/|last=Maria José|first=Gutiérrez|agency=Mundo|date=17 March 2022|access-date=18 March 2022}}</ref>
+|38%
+|style="background:#ffd800"|40%
+|11%
+|-
+|14-18 March 2022
+|Opol<ref>{{cite news |title=Encuesta Opol: Rodrigo Chaves 49,6%, José María Figueres 31%|url=https://columbia.co.cr/encuesta-opol-rodrigo-chaves-496-jose-maria-figueres-31/?fbclid=IwAR1_ujhkB6GDIVzzMYfnR-qyXHrLo0pYJrUk5jfsQkP8BgG0TrK8npWL2UE|last=Ugarte|first=Oscar|agency=Monumental|date=18 March 2022|access-date=19 March 2022}}</ref>
+|style="background:#ffd800"|39.6%
+|31%
+|
+|-
+|14-19 March 2022
+|IDESPO-UNA<ref>{{cite news |title=Encuesta IDESPO: Chaves 41,2% y Figueres 33,3%|url=https://www.elmundo.cr/costa-rica/encuesta-idespo-chaves-412-y-figueres-333/|last=Gutierrez|first=Maria|agency=Mundo|date=29 March 2022|access-date=29 March 2022}}</ref>
+|style="background:#ffd800"|41.2% 
+|33.3% 
+|18.8% 
+|-
+|18-21 March 2022 
+|CIEP-UCR<ref>{{cite news |title=Encuesta del CIEP: Chaves y Figueres en empate técnico|url=https://www.nacion.com/el-pais/politica/encuesta-del-ciep-chaves-y-figueres-en-empate/FWGDF5VVLNHE5CARY6DM5T6VL4/story/|last=Campos|first=Michelle|agency=La Nación|date=22 March 2022|access-date=23 March 2022}}</ref>
+|style="background:#ffd800"|43.3%
+|38.1%
+|16.15%
+|-
+|21-23 March 2022
+|Demoscopia<ref>{{cite web | url=https://www.culturacr.net/demoscopia-vuelve-a-dar-mejor-resultado-a-figueres-sobre-chaves-pero-en-empate-tecnico/?fbclid=IwAR0z7o1SbncYzfeo2GkkMCoMga1nqUQJZUd-eUi7tdbTXIkOfIyTeF0YSZ4 | title=Demoscopía vuelve a dar mejor resultado a Figueres sobre Chaves pero en empate técnico - Culturacr.net | date=23 March 2022 }}</ref>
+|32.4%
+|style="background:#ffd800"|36%
+|15%
+|-
+|22-25 March 2022
+|Opol<ref>{{cite web | url=https://www.elmundo.cr/costa-rica/encuesta-opol-rodrigo-chaves-supera-ampliamente-a-jose-maria-figueres/?fbclid=IwAR2xuC7lWjdhdz_wfXHEBmzzzUaZ6-q7vD-TZWzkxPuReIRjob4dATEFW8E | title=ENCUESTA OPol: Rodrigo Chaves supera ampliamente a José María Figueres | date=26 March 2022 }}</ref>
+|style="background:#ffd800"|50.2% 
+|32.6% 
+|21.4% 
+|-
+|23-27 March 2022
+|Enfoques<ref>{{cite news |title=Encuesta Enfoques: Rodrigo Chaves 45%, José María Figueres 33,7%|url=https://www.elmundo.cr/costa-rica/encuesta-enfoques-rodrigo-chaves-45-jose-maria-figueres-337/|last=Gutiérrez|first=María José|page=Elmundo.cr|date=29 March 2022|access-date=29 March 2022}}</ref>
+|style="background:#ffd800"|45%
+|33.7%
+|16.2% 
+|-
+|24-28 March 2022
+|CIEP-UCR<ref>{{cite news |title=Encuesta del CIEP: Disminuye margen de empate entre Chaves y Figueres|url=https://www.nacion.com/el-pais/politica/encuesta-del-ciep-disminuye-margen-de-empate-entre/DHH3JBXGRJEXHHCZ5MVYB6CQQA/story/|agency=La Nación|date=30 March 2022|access-date=30 March 2022}}</ref>
+|style="background:#ffd800"|41.4% 
+|38% 
+|18.1% 
+|}
+</div>
+
+==Presidential primaries==
+===National Liberation Party===
+{{Main|2021 National Liberation Party presidential primary}}
+{{Graph:Chart 
+ | width=600
+ | height=400
+ | xType= date
+ | xAxisTitle=
+ | yAxisTitle=% Support
+ | xAxisAngle = -40
+ | yAxisMin = 0
+ | legend=Candidates
+ | interpolate = bundle
+ | size = 50
+| xAxisFormat = %e-%-m-%Y
+ | type=line
+ | xGrid=
+ | x= 2021/04/16, 2021/04/20, 2021/04/21, 2021/04/21, 2021/04/29, 2021/04/30, 2021/05/03, 2021/05/06, 2021/05/06, 2021/05/08, 2021/05/13, 2021/05/14, 2021/05/14, 2021/05/15, 2021/05/20, 2021/05/21, 2021/05/27, 2021/05/28, 2021/05/28, 2021/06/3, 2021/06/4, 2021/06/4, 2021/06/5
+|y1Title=Figueres
+|y1=27,24,38,46,36,26,38
+|y2Title=Araya
+|y2=17,18,17,21,28,24,26
+|y3Title=Thompson
+|y3=,12,17,12,10,10,15
+|y4Title=Benavides
+|y4=6,10,6,6,13,11,13
+|y5Title=Alpízar
+|y5=,6,5,3,4,9,6
+|colors=#009A79,#00554E,#7E9F2E,#00FA9A,#ADFF2F,
+ | showSymbols = 1
+ | yGrid = true
+ | linewidth = 2.0
+}}
+
+{| class="wikitable" style="text-align:center; font-size:100%; line-height:16px"
+|- style="height:42px;"
+! rowspan=2 class="unsortable" |Date
+! rowspan=2 | Polling firm
+! Alpízar
+! [[Rolando Araya|Araya]]   
+! Benavides
+! [[José María Figueres|Figueres]]
+! Thompson
+|-
+|bgcolor=#ADFF2F|
+|bgcolor=#00554E|
+|bgcolor=#00FA9A|
+|bgcolor=#009A79|
+|bgcolor=#7E9F2E|
+|-
+|10–13 March
+|OPol<ref name=opol2>{{cite news|last1=Quirós Navarro|first1=Bharley|title=Ticos con opinión positiva de mayoría de candidatos|url=https://www.diarioextra.com/Noticia/detalle/444639/ticos-con-opini-n-positiva-de-mayor-a-de-candidatos|accessdate=22 March 2021|publisher=[[Diario Extra (Costa Rica)|Diario Extra]]|date=15 March 2021}}</ref>
+|
+| 17.9%
+| 6.7%
+|align="center" style="background:#009A79"|27.6%
+|
+|-
+|15–21 April
+|Borge y Asociados<ref>{{cite web|url=https://www.diarioextra.com/Noticia/detalle/448282/cerrada-lucha-en-convenci-n-del-pln|title=Diario Extra - Cerrada lucha en convención del PLN|accessdate=2021-04-26|last=www.diarioextra.com|website=www.diarioextra.com|language=ES}}</ref>
+|6.5%
+|18.3%
+|10,8%
+|align="center" style="background:#009A79"|24.3%
+|12,2%
+|-
+|14–18 May
+|Demoscopia<ref>{{cite news|last1=Gómez|first1=Tomás|title=ENCUESTA {{!}} Figueres encabeza elección del PLN con 38,5%; Araya y Thompson empatan segundo lugar con 17,9%|url=https://observador.cr/encuesta-figueres-encabeza-eleccion-del-pln-con-38-araya-y-thompson-empatan-segundo-lugar-con-179/|accessdate=6 June 2021|publisher=El Observador|date=23 May 2021}}</ref>
+|5%
+|17%
+|6%
+|align="center" style="background:#009A79"|38%
+|12%
+|-
+|22–27 May
+|Enfoque <ref>{{cite news|last1=Hidalgo|first1=Kristin|title=Support de Araya y Thompson crece entre PLN, pero está lejos de Figueres, según encuesta|url=https://www.ameliarueda.com/nota/crece-apoyo-araya-thompson-pln-convencion-noticias-costa-rica|accessdate=2 June 2021|publisher=Amelia Rueda|date=May 31, 2021 |time=03:08 PM}}</ref>
+|3%
+|21%
+|6%
+|align="center" style="background:#009A79"|46%
+|12%
+|-
+|27–30 May
+|OPol<ref>{{cite news|last1=Pérez|first1=Wendy|title=ENCUESTA: Figueres y Araya encabezan Support en PLN|url=https://www.elmundo.cr/elecciones-2022/encuesta-figueres-y-araya-encabezan-intencion-de-voto-en-pln/|accessdate=6 June 2021|publisher=El Mundo|date=31 May 2021}}</ref>
+|4%
+|28%
+|13%
+|align="center" style="background:#009A79"|36%
+|10%
+|-
+|4–5 June
+|OPol<ref>{{cite news|last1=Perez|first1=Wendy|title=Figueres y Araya llegan empatados a definir candidato PLN|url=https://www.elmundo.cr/elecciones-2022/figueres-y-araya-llegan-empatados-a-definir-candidato-pln/|accessdate=6 June 2021|publisher=El Mundo|date=5 June 2021}}</ref>
+|9%
+|24%
+|11%
+|align="center" style="background:#009A79"|26%
+|10%
+|-
+|6 June
+|'''Result'''
+|6.05%
+|26.30%
+|13.44%
+|align="center" style="background:#009A79"|35.79%
+|15.38%
+|}
+
+===Social Christian Unity Party===
+{{Main|2021 Social Christian Unity Party presidential primary}}
+{{Graph:Chart
+ | width=600
+ | height=400
+ | xType= date
+ | xAxisTitle=
+ | yAxisTitle=% Support
+ | xAxisAngle = -40
+ | yAxisMin = 0
+ | legend=Candidates
+ | interpolate = bundle
+ | size = 50
+| xAxisFormat = %e-%-m-%Y
+ | type=line
+ | xGrid=
+ | x= 2021/03/13, 2021/04/01, 2021/04/11, 2021/05/27, 2021/06/16, 2021/06/26, 2021/06/27,
+|y1Title=Saborío
+|y1=5,35,35,36,58,41,56
+|y2Title=Muñoz
+|y2=8,39,18,17,28,28,19
+|y3Title=Masís
+|y3=1,7,10,9,14,13,25
+|colors=#191970,#1E90FF,#0000CD,
+ | showSymbols = 1
+ | yGrid = true
+ | linewidth = 2.0
+}}
+{| class="wikitable" style="text-align:center; font-size:100%; line-height:16px"
+|- style="height:42px;"
+! rowspan=2 class="unsortable" |Date
+! rowspan=2| Polling firm
+! Masís
+! [[Pedro Muñoz Fonseca|Muñoz]]   
+! Saborío
+|-
+|bgcolor=#0000CD|
+|bgcolor=#1E90FF|
+|bgcolor=#191970|
+|-
+|<span style="display: none;"></span>10–13 March
+|OPol<ref name=opol2 />
+|1%
+|align="center" style="background:#1E90FF; |8%
+|5%
+|-
+|<span style="display: none;"></span>April
+|Enfoques<ref>{{cite news|last1=Arrieta|first1=Esteban|title=Guerra de encuestas en el PUSC, juzgue usted ¿a quién creer?|url=https://www.larepublica.net/noticia/guerra-de-encuestas-en-e-pusc-juzgue-usted-a-quien-creer|accessdate=6 June 2021|publisher=La República|date=26 May 2021 |time=11:36 am}}</ref>
+|10%
+|18%
+|align="center" style="background:#191970; color:white;"|35%
+|-
+|<span style="display: none;"></span>5–11 April
+|OPol<ref>{{cite news|last1=Arrieta|first1=Esteban|title=Pedro Muñoz aventaja en el PUSC, Lineth Saborío le sigue de cerca|url=https://www.larepublica.net/noticia/pedro-munoz-aventaja-en-el-pusc-lineth-saborio-le-sigue-de-cerca|accessdate=6 June 2021|publisher=La República|date=13 May 2021|time= 03:00 pm}}</ref>
+|7%
+|align="center" style="background:#1E90FF; "|39%
+|35%
+|-
+|<span style="display: none;"></span>22–27 May
+|Enfoques<ref name=cult>{{cite news|last1=Redacción|title=Rolando Araya estaría en tendencia muy cerca de Figueres según encuesta de Enfoques|url=https://www.culturacr.net/rolando-araya-estaria-en-tendencia-muy-cerca-de-figueres-segun-encuesta-de-enfoques/|accessdate=6 June 2021|publisher=Cultura CR|date=31 May 2021}}</ref>
+|9%
+|17%
+|align="center" style="background:#191970; color:white;"|36%
+|-
+|<span style="display: none;"></span>11–16 June
+|Enfoques<ref>{{cite news|last1=González|first1=Armando|title=Lineth-saborio-ganaria-por-muy-amplio-margen-la-convencion-pusc-segun-estudio|url=https://revistadcr.com/lineth-saborio-ganaria-por-muy-amplio-margen-la-convencion-pusc-segun-estudio/?fbclid=IwAR24aObM8JFK-uBhMJnssH0EWBY7hclrOr2CncN77LsNvG42W9iaLx3pqX4|accessdate=24 June 2021|publisher=La Revista|date=23 June 2021|archive-date=24 June 2021|archive-url=https://web.archive.org/web/20210624212346/https://revistadcr.com/lineth-saborio-ganaria-por-muy-amplio-margen-la-convencion-pusc-segun-estudio/?fbclid=IwAR24aObM8JFK-uBhMJnssH0EWBY7hclrOr2CncN77LsNvG42W9iaLx3pqX4|url-status=dead}}</ref>
+|14%
+|28%
+|align="center" style="background:#191970; color:white;"|58%
+|-
+|<span style="display: none;"></span>23–25 June
+|OPol<ref>{{cite news |last1=Gutierrez |first1=Maria |title=ENCUESTA: Lineth Saborío toma ventaja en recta final de convención PUSC |url=https://www.elmundo.cr/elecciones-2022/encuesta-lineth-saborio-toma-ventaja-en-recta-final-de-convencion-pusc/ |access-date=26 June 2021 |agency=Mundo |date=26 June 2021}}</ref>
+|13%
+|28%
+|align="center" style="background:#191970; color:white;"|41%
+|-
+|<span style="display: none;"></span>27 June
+|'''Results'''
+|25%
+|19%
+|align="center" style="background:#191970; color:white;"|56%
+|}
+
+===Citizens' Action Party===
+{{Main|2021 Citizens' Action Party presidential primary}}
+{{Graph:Chart
+ | width=600
+ | height=400
+ | xType= date
+ | xAxisTitle=
+ | yAxisTitle=% Support
+ | xAxisAngle = -40
+ | yAxisMin = 0
+ | legend=Candidates
+ | interpolate = bundle
+ | size = 50
+| xAxisFormat = %e-%-m-%Y
+ | type=line
+ | xGrid=
+ | x= 2021/03/01, 2021/04/01, 2021/05/27, 2021/06/16,
+|y1Title=Hidalgo
+|y1=26,31,28,41
+|y2Title=Ramos
+|y2=6,6,9,14
+|y3Title=Solano
+|y3=2,8,,9
+|y4Title=González
+|y4=,,,23
+|colors=#BE0032,#CC0000,#820000,#FF4500
+ | showSymbols = 1
+ | yGrid = true
+ | linewidth = 2.0
+}}
+{| class="wikitable" style="text-align:center; font-size:100%; line-height:16px"
+|- style="height:42px;"
+! rowspan=2 class="unsortable" |Date
+! rowspan=2| Polling firm
+! Hidalgo
+! [[Marcia González Aguiluz|González]]  
+! [[Welmer Ramos González|Ramos]]
+! [[Hernán Solano Venegas|Solano]]
+! Zamora
+|-
+|bgcolor=#BE0032|
+|bgcolor=#FF4500|
+|bgcolor=#CC0000|
+|bgcolor=#820000|
+|bgcolor=pink|
+|-
+|March
+|Enfoques<ref name=cr>{{cite web|title=Podcast 11: Encuestas de opinión y su verdadera utilidad|url=https://www.culturacr.net/ce22/|work=CulturaCR|date=10 March 2021|accessdate=6 June 2021}}</ref>
+|2align="center" style="background:#BE0032; color:white;"|26%
+|
+|6%
+|2%
+|13%
+|-
+|April
+|Enfoques<ref name=cr />
+|2align="center" style="background:#BE0032; color:white;"|31%
+|
+|6%
+|8%
+|8%
+|-
+|21–27 May
+|Enfoques<ref name=cult />
+|2align="center" style="background:#BE0032; color:white;"|28%
+|
+|9%
+|
+|
+|-
+|11–16 June
+|Enfoques<ref>{{cite news|last1=Ugarte|first1=Oscar|title=Estudio de opinión da ventaja a Lineth Saborío en convención de PUSC|url=https://www.columbia.co.cr/noticias/32554-estudio-de-opinion-da-ventaja-a-lineth-saborio-en-convencion-de-pusc|accessdate=24 June 2021|publisher=www.columbia.co.cr|date=23 June 2021}}</ref>
+|2align="center" style="background:#BE0032; color:white;"|41%
+|23%
+|14%
+|9%
+|14%
+|-
+|22 August
+|'''Result'''
+|47%
+|1.5%
+|2align="center" style="background:#CC0000; color:white;"|48%
+|3%
+|}
+
+==Legislative election==
+
+=== Graphic summary ===
+{{col-begin}}
+{{col-break}}
+
+===="None" option included====
+{{Graph:Chart 
+| width=420
+| height=280
+| xType= date
+| xAxisTitle=
+| xAxisAngle = -40
+| yAxisTitle = % support
+| legend=
+| interpolate = bundle
+|hannotatonslabel=4% minimal to have parliamentary representation
+|hannotatonsline=4
+|xGrid=1
+|yGrid=1
+|x=2018/02/04, 2019/05/31, 2020/04/30, 2020/09/31, 2020/12/31, 2021/01/31, 2021/01/08, 2021/02/13, 2021/03/13, 2021/03/31, 2021/04/30, 2021/05/27, 2021/06/30, 2021/06/22, 2021/07/31, 2021/07/31, 2021/09/24
+|y1Title=PLN
+|y1=19.5, 21.8, 28, 26, 26, 27, 19.5, 20.9, 20.9, 14.3, 19, 21, 19, 26.4, 15, 26, 26.2
+|y2Title=PRN
+|y2=18.2, 3, 3, 4, 6, 6, 1.8, , 1, 0.7, 2, 1, 1, 1.5, , 1.4, 1.4
+|y3Title=PAC
+|y3=16.3, 10, 15, 4, 6, 3, 5.7, 7.5, 7, 1.9, 6, 4, 3, 12.3, 4, 8.8, 8.2
+|y4Title=PUSC
+|y4=14.6, 6, 4, 9, 6, 8, 9.6, 5.7, 10, 6.2, 5, 4, 6, 6.3, 7, 10, 6
+|y5Title=FA
+|y5=4, 1, 1, 4, 3, 2, 3.1, , 2, 0.4, 1, 1, 1, 4.3, 1, 3.8, 2.2
+|y6Title=PNR
+|y6=, , 1, 1, 2, 2, 0.9, 3.3, 1, 1.7, 1, 1, 2, 4.2, 1, 4.6, 2.1 
+|y7Title=None
+|y7=0, 57, 48, 52, 45, 41, 55.5, 57.4, 45, 72.4, 61, 63, 64, 37.2, 66, 37.2, 39.9
+|colors=#008024,#0059CF,#FFC700,#0454A3,#FFEE78,#6495ed,#808080
+| showSymbols = 1
+| linewidth = 2.0
+}}
+{{col-break}}
+
+===="None" option excluded====
+{{Graph:Chart 
+| width=420
+| height=280
+| xType= date
+| xAxisTitle=
+| xAxisAngle = -40
+| yAxisTitle = % support
+| legend=
+| interpolate = bundle
+|xGrid=1
+|yGrid=1
+|hannotatonslabel=4% minimal to have parliamentary representation
+|hannotatonsline=4
+|x=2018/02/04, 2019/05/31, 2020/04/30, 2020/09/31, 2020/12/31, 2021/01/31, 2021/01/08, 2021/02/13, 2021/03/13, 2021/03/31, 2021/04/30, 2021/05/27, 2021/06/30, 2021/06/22, 2021/07/31, 2021/07/31, 2021/09/24
+|y1Title=PLN
+|y1=19.5, 21.8, 28, 26, 26, 27, 19.5, 20.9, 20.9, 14.3, 19, 21, 19, 26.4, 15, 26, 26.2
+|y2Title=PRN
+|y2=18.2, 3, 3, 4, 6, 6, 1.8, , 1, 0.7, 2, 1, 1, 1.5, , 1.4, 1.4
+|y3Title=PAC
+|y3=16.3, 10, 15, 4, 6, 3, 5.7, 7.5, 7, 1.9, 6, 4, 3, 12.3, 4, 8.8, 8.2
+|y4Title=PUSC
+|y4=14.6, 6, 4, 9, 6, 8, 9.6, 5.7, 10, 6.2, 5, 4, 6, 6.3, 7, 10, 6
+|y5Title=FA
+|y5=4, 1, 1, 4, 3, 2, 3.1, , 2, 0.4, 1, 1, 1, 4.3, 1, 3.8, 2.2
+|y6Title=PNR
+|y6=, , 1, 1, 2, 2, 0.9, 3.3, 1, 1.7, 1, 1, 2, 4.2, 1, 4.6, 2.1 
+|colors=#008024,#0059CF,#FFC700,#0454A3,#FFEE78,#6495ed
+| showSymbols = 1
+| linewidth = 2.0
+}}
+{{col-end}}
+
+=== 2021 ===
+{| class="wikitable mw-collapsible" style="text-align:center; font-size:90%; line-height:16px"
+!style="width:100px;" rowspan="2" class="unsortable" |Fieldwork Date
+!style="width:100px;" rowspan="2" | Polling firm
+!style="width:30px;" |[[File:Bandera de Partido Liberación Nacional.svg|20px|link=Partido Liberación Nacional]]<br />[[Partido Liberación Nacional|PLN]]
+!style="width:30px;" |[[File:Bandera Partido Restauración Nacional Costa Rica.svg|20px|link=Restauración Nacional (Costa Rica)]]<br />[[National Restoration Party (Costa Rica)|PRN]]
+!style="width:30px;" |[[File:Bandera Partido Acción Ciudadana Costa Rica.svg|20px|link=Citizens' Action Party (Costa Rica)]]<br />[[Citizens' Action Party (Costa Rica)|PAC]]
+!style="width:30px;" |[[File:Bandera del Partido Unidad Social Cristiana.svg|20px|link=Partido Unidad Social Cristiana]]<br />[[Partido Unidad Social Cristiana|PUSC]]
+!style="width:30px;" |[[File:Bandera Partido Integración Nacional Costa Rica.svg|20px|link=Partido Integración Nacional]]<br />[[Partido Integración Nacional|PIN]]
+!style="width:30px;" |[[File:Bandera Partido Republicano Social Cristiano Costa Rica.svg|20px|link=Partido Republicano Social Cristiano]]<br />[[Partido Republicano Social Cristiano|PRSC]]
+!style="width:30px;" |[[File:Flag of Frente Amplio (Costa Rica) 2013.svg|20px|link=Frente Amplio (Costa Rica)]]<br />[[Frente Amplio (Costa Rica)|FA]]
+!style="width:30px;" |[[File:Bandera Partido Nueva Generación Costa Rica.svg|20px|link=Partido Nueva Generación]]<br />[[Partido Nueva Generación|PNG]]
+!style="width:30px;" |[[File:Bandera Partido Nueva República Costa Rica.svg|20px|link=Partido Nueva República]]<br />[[Partido Nueva República|PNR]]
+!Other
+!None
+!style="width:60px;" rowspan="2" |N/A
+! rowspan="2" |<br />Lead
+|-
+| bgcolor="{{party color|National Liberation Party (Costa Rica)}}" |
+| bgcolor="{{party color|National Restoration Party (Costa Rica)}}" |
+| bgcolor="{{party color|Citizens' Action Party (Costa Rica)}}" |
+| bgcolor="{{party color|Social Christian Unity Party}}" |
+| bgcolor="{{party color|National Integration Party (Costa Rica)}}" |
+| bgcolor="{{party color|Social Christian Republican Party}}" |
+| bgcolor="{{party color|Broad Front (Costa Rica)}}" |
+| bgcolor="{{party color|New Generation Party (Costa Rica)}}" |
+| bgcolor="{{party color|New Republic Party (Costa Rica)}}" |
+| style="color:inherit;background:#dddddd" |
+| bgcolor="#808080" |
+|-
+|17–24 September
+|Demoscopía<ref>{{Cite web|last=Gómez|first=Tomás|date=2021-10-05|title=Encuesta {{!}} Rodrigo Arias divide por igual opiniones positivas y negativas sobre su candidatura a diputado|url=https://observador.cr/encuesta-rodrigo-arias-divide-por-igual-opiniones-positivas-y-negativas-sobre-su-candidatura-a-diputado/|access-date=2021-12-26|website=El Observador CR|language=es-CR}}</ref>
+|style="background:#66B27B"|'''26.2'''
+|1.4
+|style="background:#FFF3CC"|8.2
+|6
+|0.5
+|–
+|2.2
+|–
+|2.1
+|4.3
+|39.9
+|9.2
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|18
+|-
+|28–31 July
+|Demoscopía<ref name="herm">{{cite news|last1=Solano|first1=Hermes|date=5 August 2021|title=Figueres recibe menos apoyo que el PLN, Lineth Saborío y Fabricio Alvarado superan a sus partidos|agency=Observador|url=https://observador.cr/encuesta-figueres-recibe-menos-apoyo-que-el-pln-lineth-saborio-y-fabricio-alvarado-superan-a-sus-partidos/?fbclid=IwAR1qjehWfLDogSKa0jKS6YT2nG6ASwJEhuV1HBntGJVFLmH0JeoqDY4FXng|accessdate=13 August 2021}}</ref>
+|style="background:#66B27B"|'''26'''
+|1.4
+|8.8
+|style="background:#CCDCEC"|10
+|–
+|–
+|3.8
+|–
+|4.6
+|1.2
+|37.2
+|6.2
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|16
+|-
+|10–15 July
+|Enfoque<ref name=":0">{{Cite web|date=2021-07-20|title=Anticuerpos contra Figueres siguen en aumento y preferencia PLN disminuye según estudio|url=https://www.culturacr.net/anticuerpos-contra-figueres-siguen-en-aumento-y-preferencia-pln-disminuye-segun-estudio/|access-date=2021-12-11|website=CulturaCR Costa Rica|language=es-CR}}</ref>
+|style="background:#66B27B;"|'''15'''
+|–
+|4
+|style="background:#CCDCEC"|7
+|–
+|–
+|1
+|–
+|1
+|2
+|66
+|4
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|8
+|-
+|18–22 June
+|Demoscopía<ref name="ru">{{cite news|last1=Ruiz|first1=Paula|date=28 June 2021|title=Encuesta PLN es el partido con más simpatizantes pero el PAC muestra crecimiento|agency=Observador|url=https://observador.cr/encuesta-pln-es-el-partido-con-mas-simpatizantes-pero-el-pac-muestra-crecimiento/?fbclid=IwAR1QYVjJDLKLdWfCWD5NthwNYY_0OnKUrTsx51rhCUYmTW_qCEt9gFeym60|accessdate=30 June 2021}}</ref>
+|style="background:#66B27B;"|'''26.4'''
+|1.5
+|style="background:#FFF3CC"|12.3
+|6.3
+|0.2
+|–
+|4.3
+|–
+|4.2
+|1.3
+|37.2
+|6.0
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|14.1
+|-
+|June
+|Enfoque<ref name=":0" />
+|style="background:#66B27B;"|'''19'''
+|1
+|3
+|style="background:#CCDCEC"|6
+|–
+|–
+|1
+|–
+|2
+|1
+|64
+|3
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|13
+|-
+|22–27 May
+|Enfoque<ref name=":0" />
+|style="background:#66B27B;"|'''21'''
+| 1
+|style="background:#FFF3CC"|4
+|style="background:#CCDCEC"|4
+|–
+|–
+| 1
+|–
+|1
+|2
+|63
+| 3
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|17
+|-
+|April
+|Enfoque<ref name=":0" />
+|style="background:#66B27B;"|'''19'''
+|2
+|style="background:#FFF3CC"|6
+|5
+|–
+|–
+|1
+|–
+|1
+|3
+|61
+|2
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|13
+|-
+|10–13 March
+|OPol<ref>{{cite news|last1=Quirós Navarro|first1=Bharley|date=15 March 2021|title=Ticos con opinión positiva de mayoría de candidatos|agency=[[Diario Extra (Costa Rica)|Diario Extra]]|url=https://www.diarioextra.com/Noticia/detalle/444639/ticos-con-opini-n-positiva-de-mayor-a-de-candidatos|accessdate=22 March 2021}}</ref>
+|style="background:#66B27B;"|'''14.3'''
+|0.7
+|1.9
+|style="background:#CCDCEC"|6.2
+|0.1
+|0.1
+|0.4
+|–
+|1.7
+|–
+|72.4
+|–
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|8.1
+|-
+|March
+|Enfoque<ref name=":0" />
+|style="background:#66B27B;"|'''29'''
+|1
+|7
+|style="background:#CCDCEC"|10
+|–
+|–
+|2
+|–
+|1
+|1
+|45
+|4
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|19
+|-
+|January 15 – February 13
+|Borge y Asociados<ref>{{cite news|last1=Fallas|first1=Gustavo|date=18 February 2021|title=A menos de un año para las elecciones, mayoría de costarricenses no sabe por quién votar|agency=[[Amelia Rueda]]|url=https://www.ameliarueda.com/nota/mayoria-de-costarricenses-no-sabe-por-quien-votar-elecciones-costa-rica|accessdate=18 February 2021}}</ref>
+|style="background:#66B27B;"|'''20.9'''
+|–
+|style="background:#FFF3CC"|7.5
+|5.7
+|–
+|–
+|–
+|–
+|3.3
+|–
+|57.4
+|–
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|13.4
+|-
+|<span style="display: none;">02021-01-6</span>6–8 January
+|OPol<ref>{{cite news|last1=Molina Mesén|first1=Richard|title=A casi un año de las elecciones está es la opinión política de los ticos|url=https://elguardian.cr/a-casi-un-ano-de-las-elecciones-esta-es-la-opinion-politica-de-los-ticos/|accessdate=12 January 2021|work=ElGuardian.cr}}</ref>
+|style="background:#66B27B;"|'''19.5'''
+| 1.8
+| 5.7
+|style="background:#CCDCEC"|9.6
+| 0.6
+| 0.5
+| 3.1
+| 0.1
+| 0.9
+|–
+| 55.5
+| 2.4
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|9.9
+|-
+|January
+|Enfoque<ref name=":0" />
+|style="background:#66B27B;"|'''27'''
+|6
+|3
+|style="background:#CCDCEC"|8
+|–
+|–
+|2
+|–
+|2
+|2
+|41
+|10
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|19
+|-
+! colspan="2" |[[2018 Costa Rican general election|2018 general election]]
+!style="background:#66B27B;"|19.5
+!style="background:#CCDDF5;"|18.2
+!16.3
+!14.6
+!7.7
+!4.2
+!4.0
+!2.2
+!–
+!13.3
+!–
+!–
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|1.3
+|}
+
+=== Before 2021 ===
+{| class="wikitable mw-collapsible" style="text-align:center; font-size:90%; line-height:16px"
+!style="width:100px;" rowspan="2" class="unsortable" |Fieldwork Date
+!style="width:100px;" rowspan="2" | Polling firm
+!style="width:30px;" |[[File:Bandera de Partido Liberación Nacional.svg|20px|link=Partido Liberación Nacional]]<br />[[Partido Liberación Nacional|PLN]]
+!style="width:30px;" |[[File:Bandera Partido Restauración Nacional Costa Rica.svg|20px|link=Restauración Nacional (Costa Rica)]]<br />[[National Restoration Party (Costa Rica)|PRN]]
+!style="width:30px;" |[[File:Bandera Partido Acción Ciudadana Costa Rica.svg|20px|link=Citizens' Action Party (Costa Rica)]]<br />[[Citizens' Action Party (Costa Rica)|PAC]]
+!style="width:30px;" |[[File:Bandera del Partido Unidad Social Cristiana.svg|20px|link=Partido Unidad Social Cristiana]]<br />[[Partido Unidad Social Cristiana|PUSC]]
+!style="width:30px;" |[[File:Bandera Partido Integración Nacional Costa Rica.svg|20px|link=Partido Integración Nacional]]<br />[[Partido Integración Nacional|PIN]]
+!style="width:30px;" |[[File:Bandera Partido Republicano Social Cristiano Costa Rica.svg|20px|link=Partido Republicano Social Cristiano]]<br />[[Partido Republicano Social Cristiano|PRSC]]
+!style="width:30px;" |[[File:Flag of Frente Amplio (Costa Rica) 2013.svg|20px|link=Frente Amplio (Costa Rica)]]<br />[[Frente Amplio (Costa Rica)|FA]]
+!style="width:30px;" |[[File:Bandera Partido Nueva Generación Costa Rica.svg|20px|link=Partido Nueva Generación]]<br />[[Partido Nueva Generación|PNG]]
+!style="width:30px;" |[[File:Bandera Partido Nueva República Costa Rica.svg|20px|link=Partido Nueva República]]<br />[[Partido Nueva República|PNR]]
+!Other
+!None
+!style="width:60px;" rowspan="2" |N/A
+! rowspan="2" |<br />Lead
+|-
+| bgcolor="{{party color|National Liberation Party (Costa Rica)}}" |
+| bgcolor="{{party color|National Restoration Party (Costa Rica)}}" |
+| bgcolor="{{party color|Citizens' Action Party (Costa Rica)}}" |
+| bgcolor="{{party color|Social Christian Unity Party}}" |
+| bgcolor="{{party color|National Integration Party (Costa Rica)}}" |
+| bgcolor="{{party color|Social Christian Republican Party}}" |
+| bgcolor="{{party color|Broad Front (Costa Rica)}}" |
+| bgcolor="{{party color|New Generation Party (Costa Rica)}}" |
+| bgcolor="{{party color|New Republic Party (Costa Rica)}}" |
+| style="color:inherit;background:#dddddd" |
+| bgcolor="#808080" |
+|-
+|December 2020
+|Enfoque<ref name=":0" />
+|style="background:#66B27B;"|'''26'''
+|style="background:#CCDDF5;"|6
+|style="background:#FFF3CC"|6
+|style="background:#CCDCEC"|6
+|–
+|–
+|3
+|–
+|2
+|2
+|45
+|6
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|20
+|-
+|September 2020
+|Enfoque<ref name=":0" />
+|style="background:#66B27B;"|'''26'''
+|4
+|4
+|style="background:#CCDCEC"|9
+|–
+|–
+|4
+|–
+|1
+|2
+|42
+|8
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|17
+|-
+|April 2020
+|Enfoque<ref name=":0" />
+|style="background:#66B27B;"|'''28'''
+|3
+|style="background:#FFF3CC"|15
+|4
+|–
+|–
+|1
+|–
+|1
+|1
+|48
+|0
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|13
+|-
+|May 2019
+|CID Gallup<ref>{{cite news|last1=Quirós Navarro|first1=Bharley|title=PLN retoma fuerza entre electores|work=Diario Extra|url=https://www.diarioextra.com/Noticia/detalle/390280/pln-retoma-fuerza-entre-electores-|accessdate=12 January 2021}}</ref>
+|style="background:#66B27B;"|'''21'''
+|3
+|style="background:#FFF3CC"|10
+|6
+|–
+|–
+|1
+|–
+|–
+|–
+|57
+|–
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|11
+|-
+! colspan="2" |[[2018 Costa Rican general election|2018 general election]]
+!style="background:#66B27B;"|19.5
+!style="background:#CCDDF5;"|18.2
+!16.3
+!14.6
+!7.7
+!4.2
+!4.0
+!2.2
+!–
+!13.3
+!–
+!–
+!style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|1.3
+|}
+
+==References==
+{{notelist}}
+{{reflist}}
+
+[[Category:Opinion polling in Costa Rica|2022]]

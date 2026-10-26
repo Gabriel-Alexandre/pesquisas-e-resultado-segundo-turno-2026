@@ -23,8 +23,10 @@ COPIAR = {
     "previsao-segundo-turno-2026": [
         "resultados/abstencao_historica.csv", "resultados/transferencia_historica.csv", "resultados/h_regras_por_uf.csv",
         "resultados/institutos_erros.csv", "resultados/institutos_ranking.csv", "resultados/RESUMO.json",
-        "resultados/teste_do_passado.csv", "resultados/p_pesquisas_usadas.csv"],
+        "resultados/teste_do_passado.csv", "resultados/p_pesquisas_usadas.csv",
+        "dados/derivados/mun_votos.parquet", "dados/derivados/mun_detalhe.parquet"],
     "presidente-primeiro-turno-2026": ["resultados/b6_erro_por_instituto_e_rodada.csv"],
+    "apuracao-eleicoes-2026": ["resultados/p7_margem_2022_por_pct_de_secoes.csv"],
 }
 
 

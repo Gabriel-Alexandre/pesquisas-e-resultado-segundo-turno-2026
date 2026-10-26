@@ -1,5 +1,418 @@
 {
  "arquivos": {
+  "dados/brutos/capturas/agentes/051ae802e0515184.txt": {
+   "bytes": 55804,
+   "hora": "2026-10-26T15:08:49+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014_Colombian_presidential_election",
+   "sha256": "a50914c85c56e9ea8a8ffc73398e4e498b7818eda4ce5bb69762d55fe04b57d7"
+  },
+  "dados/brutos/capturas/agentes/0858408601852746.txt": {
+   "bytes": 71072,
+   "hora": "2026-10-26T15:08:53+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Colombian_presidential_election",
+   "sha256": "0a07675ef4f830206e0ef13c04949b6444014f32d1331fa8e416e7c0df4b5bac"
+  },
+  "dados/brutos/capturas/agentes/0e526a541325bd57.txt": {
+   "bytes": 69585,
+   "hora": "2026-10-26T14:59:35+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidente-8-outubro.ghtml",
+   "sha256": "faf6a589e6536366a8a8069336f5ba038c6778205aba5627657d0cea0edaa3d3"
+  },
+  "dados/brutos/capturas/agentes/1556c961aea2776e.txt": {
+   "bytes": 106649,
+   "hora": "2026-10-26T15:09:07+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election",
+   "sha256": "6e640cf719e06d74ada35ac6b2a5fa9fa8c3b000daabf3620955164e447e1a07"
+  },
+  "dados/brutos/capturas/agentes/17b7218493ef5a48.txt": {
+   "bytes": 23009,
+   "hora": "2026-10-26T14:59:55+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www.correiobraziliense.com.br/politica/2022/10/5043124-datafolha-bolsonaro-herda-mais-votos-de-ciro-do-que-lula-os-de-tebet-se-dividem.html",
+   "sha256": "0dd827080f8f67a299d176a33339b6aede5b365ce8ff7cfa4177321d93763d9e"
+  },
+  "dados/brutos/capturas/agentes/19acaabeb876357d.txt": {
+   "bytes": 54124,
+   "hora": "2026-10-26T15:09:06+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election",
+   "sha256": "aee7127131dc07862ee63906d095574190b4ac34fcf8ca907a9640568575759f"
+  },
+  "dados/brutos/capturas/agentes/27c32f46fb0aac33.txt": {
+   "bytes": 369927,
+   "hora": "2026-10-26T15:08:01+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1363121499",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
+   "sha256": "04b4d8d42890e0428c12498857acfaf24a53a90dd0baf6d8526ac1d26f8d3af2"
+  },
+  "dados/brutos/capturas/agentes/29170e1b726ce98b.txt": {
+   "bytes": 7703,
+   "hora": "2026-10-26T14:59:47+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://viva.com.br/politica/palver-flavio-bolsonaro-tem-50-e-lula-49-em-empate-tecnico-no-2-turno.html",
+   "sha256": "fcb76c69600a8175ad3c790ef4250185619b5ed500124c92a0eb3ece3db0eb06"
+  },
+  "dados/brutos/capturas/agentes/2dc3df061a2dbd04.txt": {
+   "bytes": 159233,
+   "hora": "2026-10-26T15:08:58+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://es.wikipedia.org/wiki/Anexo:Sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Per%C3%BA_de_2016",
+   "sha256": "78ee5b466e65585583713c6257feafae5a85c6c21d128cd1a37977c0adc18254"
+  },
+  "dados/brutos/capturas/agentes/2f78e6ef5eca5bd0.txt": {
+   "bytes": 142887,
+   "hora": "2026-10-26T15:08:47+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Chilean_presidential_election",
+   "sha256": "381f01f2b2659ed0aecd061208e38a01b11c0d7395ec3b6a53947afd5cabdcbf"
+  },
+  "dados/brutos/capturas/agentes/3167262727d7275a.txt": {
+   "bytes": 61337,
+   "hora": "2026-10-26T15:08:13+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1374897475",
+   "origem": "https://en.wikipedia.org/wiki/2019_Slovak_presidential_election",
+   "sha256": "19fe5a8dd2648aa4cfd275b248eb54dd9e2256da948b84b9f245c3e336554004"
+  },
+  "dados/brutos/capturas/agentes/31bfd8678e48a131.txt": {
+   "bytes": 55764,
+   "hora": "2026-10-26T15:08:44+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Chilean_general_election",
+   "sha256": "791f59a05886f40eea587833c29445e38d3ad5c8c14c7dc72025376f459fe608"
+  },
+  "dados/brutos/capturas/agentes/34943ea94b6dd098.txt": {
+   "bytes": 33258,
+   "hora": "2026-10-26T15:09:16+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Guatemala_de_2019",
+   "sha256": "140d14c10c187a02455dd51e824fe6f909b23edd402159e47c7b9379eb35d224"
+  },
+  "dados/brutos/capturas/agentes/34bcd4dbce38ef86.txt": {
+   "bytes": 150739,
+   "hora": "2026-10-26T15:09:02+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Peruvian_general_election",
+   "sha256": "02b71fa1f6527faf22d20c0c63487b9cb7d776a739f758b78d06485faf93692d"
+  },
+  "dados/brutos/capturas/agentes/3c2ee226abfb9605.txt": {
+   "bytes": 34516,
+   "hora": "2026-10-26T15:09:11+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election",
+   "sha256": "30c923fc5e34f26907177f6da810dd80f7ae612b87cf319e5fccba39cf23fd9c"
+  },
+  "dados/brutos/capturas/agentes/445cb7abf95d32ce.txt": {
+   "bytes": 139925,
+   "hora": "2026-10-26T15:08:12+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1343397794",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Portuguese_presidential_election",
+   "sha256": "3aa7873dc08db8f0ed7654f224296ae8f881e84bebef42c6890fc636c2a81e98"
+  },
+  "dados/brutos/capturas/agentes/5090ae248c33e2a2.txt": {
+   "bytes": 57664,
+   "hora": "2026-10-26T15:08:42+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2013_Chilean_general_election",
+   "sha256": "c031ac8172fbea6f33c01f765b64d6a1605bb4cfc92e8b1f8d7e3e09b6791a56"
+  },
+  "dados/brutos/capturas/agentes/537962415b1e0502.txt": {
+   "bytes": 287337,
+   "hora": "2026-10-26T15:08:38+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election",
+   "sha256": "72f50c6de96bbdeacd2371f99d581a9d426fb0bbfc662ce4d6d945f9176d627e"
+  },
+  "dados/brutos/capturas/agentes/5aa1189f9757f768.txt": {
+   "bytes": 125843,
+   "hora": "2026-10-26T15:08:46+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Chilean_presidential_election",
+   "sha256": "94e0df4c82922cb5a9f027ae497a28a6b25c4622f5ea3e11fd19a587fc3ca97e"
+  },
+  "dados/brutos/capturas/agentes/5b07573d03fad2d9.txt": {
+   "bytes": 107012,
+   "hora": "2026-10-26T15:08:35+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014_Brazilian_general_election",
+   "sha256": "8cfcfc22fda1fd958b5a0cd130013e5361fea733d7b9a2e9887a7e28d9d49f02"
+  },
+  "dados/brutos/capturas/agentes/5fe0f19953b79e41.txt": {
+   "bytes": 93129,
+   "hora": "2026-10-26T15:08:52+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2018_Colombian_presidential_election",
+   "sha256": "15db6a83596a064b87ad6b390ac5e3b7477d25bb442437641bdb3a1f5108878b"
+  },
+  "dados/brutos/capturas/agentes/615222718129eef5.txt": {
+   "bytes": 6379,
+   "hora": "2026-10-26T14:59:56+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www.diariodocentrodomundo.com.br/essencial/a-cada-10-eleitores-de-tebet-e-ciro-4-votarao-em-lula-diz-datafolha/",
+   "sha256": "84ecd0d124e31435e8cb3960388029273a3c4c0b514f2c9da6aafcc3f50eb29f"
+  },
+  "dados/brutos/capturas/agentes/63fb47aeed07882f.txt": {
+   "bytes": 64327,
+   "hora": "2026-10-26T15:08:39+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Argentina_de_2015",
+   "sha256": "32171f89a8a597dffd2879380d1e9bcf8d6ab07e9e391cb3ba2a6d812d7de3b0"
+  },
+  "dados/brutos/capturas/agentes/64e135c9779ed77c.txt": {
+   "bytes": 89210,
+   "hora": "2026-10-26T15:09:12+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Uruguay_de_2014",
+   "sha256": "1ef002ec517851a320467377ffb869894204bf60fe27b4ff37dc4a723b806bc2"
+  },
+  "dados/brutos/capturas/agentes/66b63733cdc5abb0.txt": {
+   "bytes": 269987,
+   "hora": "2026-10-26T15:08:08+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1364377936",
+   "origem": "https://en.wikipedia.org/wiki/2019_Romanian_presidential_election",
+   "sha256": "cb01c891fdea61bb3fa881e059b857161fc43cfc6137696f77e69574bb4b28a2"
+  },
+  "dados/brutos/capturas/agentes/67c38a536ba5a4f2.txt": {
+   "bytes": 128214,
+   "hora": "2026-10-26T15:08:07+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1369060194",
+   "origem": "https://en.wikipedia.org/wiki/2014_Romanian_presidential_election",
+   "sha256": "8b7ad5489490b3ae2b26085ff7db2f70312df3c756b5d58398f950ac66ca5ae9"
+  },
+  "dados/brutos/capturas/agentes/6df854f17319b882.txt": {
+   "bytes": 6330,
+   "hora": "2026-10-26T14:59:45+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://penoticias.com.br/blog/nova-pesquisa-btg-nexus-mostra-para-onde-vao-os-votos-de-cury-caiado-renan-e-zema-no-segundo-turno/",
+   "sha256": "e3de6ee8ce77a2d895261a0b36021f3df19a2719cf4f721c643e5fb1271ad309"
+  },
+  "dados/brutos/capturas/agentes/6f79c1c2f979beb3.txt": {
+   "bytes": 107420,
+   "hora": "2026-10-26T15:08:59+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Peruvian_general_election",
+   "sha256": "38d4de8365479324151100e24b80b8afb016e62ff000912ab41c3de66c9c832c"
+  },
+  "dados/brutos/capturas/agentes/71ba629acbeef304.txt": {
+   "bytes": 23919,
+   "hora": "2026-10-26T14:59:53+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://brazileconomy.com.br/eleicoes-2026/2026/10/lula-tem-503-dos-votos-validos-e-flavio-497-aponta-pesquisa-brazil-economycolectta/",
+   "sha256": "3566c06f1eadf9ca1d2cf6c658f34f8782f5978fbe61f63186b93d7f6bf47c96"
+  },
+  "dados/brutos/capturas/agentes/72205db85754c082.txt": {
+   "bytes": 102964,
+   "hora": "2026-10-26T15:09:08+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2023_Ecuadorian_general_election",
+   "sha256": "e911ec3bba24a6125806658e84e70aa79366837b5471b6e58ad399e519d0cafb"
+  },
+  "dados/brutos/capturas/agentes/74c9ca8d11ea2cca.txt": {
+   "bytes": 72511,
+   "hora": "2026-10-26T14:59:36+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-lula-empatam-com-50-dos-votos-validos-cada.shtml",
+   "sha256": "09b9a06864009c3566ff82dc27266d2f50787c79a9d87b603b835b0bd2dcad0d"
+  },
+  "dados/brutos/capturas/agentes/7559d6ecbf74a2df.txt": {
+   "bytes": 29352,
+   "hora": "2026-10-26T15:09:21+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Bolivia_de_2025",
+   "sha256": "a3dce14884973b748845b265e9014a8af1ca08b3ccf4b06956eeaeb00310ea88"
+  },
+  "dados/brutos/capturas/agentes/7cf75a12249846c3.txt": {
+   "bytes": 72939,
+   "hora": "2026-10-26T14:59:30+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-presidente-14-outubro.ghtml",
+   "sha256": "236bbde78c78916b4c389028d1aa219dee9712d53686b86ac38a6bedc0823c30"
+  },
+  "dados/brutos/capturas/agentes/813123a210fcb792.txt": {
+   "bytes": 35687,
+   "hora": "2026-10-26T14:59:46+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://veja.abril.com.br/politica/a-nova-pesquisa-btg-nexus-sobre-a-disputa-flavio-x-lula-a-ultima-antes-do-segundo-turno/",
+   "sha256": "a0f17e6dbdd25adbfd56c9881585cac0c85b4ee0d5b8b42be245e0bdd248f101"
+  },
+  "dados/brutos/capturas/agentes/88fb88a35c6187af.txt": {
+   "bytes": 45737,
+   "hora": "2026-10-26T14:59:42+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://jovempan.com.br/politica/para-quem-vao-os-votos-de-cury-renan-santos-e-caiado-no-2o-turno-veja-o-poderdata/",
+   "sha256": "98efe03e657493641e7bf1f993658ba9dcabefb4842d8d700a48d0fbf075dc2f"
+  },
+  "dados/brutos/capturas/agentes/8f1e5a3ec7a8f634.txt": {
+   "bytes": 11538,
+   "hora": "2026-10-26T14:59:41+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www.bloomberglinea.com.br/brasil/flavio-bolsonaro-tem-508-dos-votos-validos-contra-492-de-lula-aponta-atlasintel/",
+   "sha256": "49627b8bdc06534cde8672b2b099ac62cc8468642d24f0f337ef8ebc4b8ab864"
+  },
+  "dados/brutos/capturas/agentes/90ac957d502fedd9.txt": {
+   "bytes": 198219,
+   "hora": "2026-10-26T15:09:14+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2024",
+   "sha256": "a92dc96a1072288d8bea98ed25e8a28d89d3f01b8fe18de28282a4d5265d246e"
+  },
+  "dados/brutos/capturas/agentes/9a0915f19773c025.txt": {
+   "bytes": 156278,
+   "hora": "2026-10-26T15:08:41+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Argentine_general_election",
+   "sha256": "adabeff33f5d4380234373d99c79d672e066fae510edccc79a23c3eeac26bee8"
+  },
+  "dados/brutos/capturas/agentes/a6b9c74a1686bdb1.txt": {
+   "bytes": 68260,
+   "hora": "2026-10-26T14:59:40+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www.infomoney.com.br/politica/atlasintel-para-onde-foram-os-votos-de-caiado-renan-zema-e-cury-no-2o-turno/",
+   "sha256": "f71cb0a2e1b3480024b3938fd6432fdbcf7964ae1d0afb7587eff92bd0272efb"
+  },
+  "dados/brutos/capturas/agentes/a70f4a8a1ffeb45e.txt": {
+   "bytes": 396571,
+   "hora": "2026-10-26T15:09:19+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
+   "sha256": "408227d390fb6c9f049652f01eab4596983db8f0708a8ed2055d3d3197a0e745"
+  },
+  "dados/brutos/capturas/agentes/a974bcf5dca9c55b.txt": {
+   "bytes": 300857,
+   "hora": "2026-10-26T15:08:36+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Brazilian_presidential_election",
+   "sha256": "7f1bef5a6f5d22d42e18db93e5f8b55896f200421949efe2bcac24e2ca55f1f6"
+  },
+  "dados/brutos/capturas/agentes/a9b5284ae3402004.txt": {
+   "bytes": 148641,
+   "hora": "2026-10-26T15:08:05+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1328916009",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Polish_presidential_election",
+   "sha256": "06d63bf55b7de012320efe6d6c2b86ef3dd159195d3499c09edd8536e4e65ccd"
+  },
+  "dados/brutos/capturas/agentes/aa0ad3452f501456.txt": {
+   "bytes": 35507,
+   "hora": "2026-10-26T15:07:42+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "http://media.folha.uol.com.br/datafolha/2018/04/27/4c6893d510a761911d2dddfe97b4a41d.pdf",
+   "sha256": "56131ad7a28bef0a572d339474a12e8d03916a0f8424477d74048219a418612f"
+  },
+  "dados/brutos/capturas/agentes/ade38db46e2c8f22.txt": {
+   "bytes": 178615,
+   "hora": "2026-10-26T15:09:17+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2023_Guatemalan_general_election",
+   "sha256": "dfd0ab487ca9dcce58c0aa78542c5257c7e7af404c0fe968fbf8f1c62d627113"
+  },
+  "dados/brutos/capturas/agentes/ae7ca0ec3c92d76b.txt": {
+   "bytes": 167753,
+   "hora": "2026-10-26T15:08:54+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2026_Colombian_presidential_election",
+   "sha256": "605691afd1bd4bf631e851cbcdd223ef49c1180d143a71e00a7bedac4a6aa3a5"
+  },
+  "dados/brutos/capturas/agentes/cf42021a51db3784.txt": {
+   "bytes": 158260,
+   "hora": "2026-10-26T15:08:04+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1380193388",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election",
+   "sha256": "48f8c0380e74899a3da00e7d68273bdd4db2658a232a3355aac581c5c09d3411"
+  },
+  "dados/brutos/capturas/agentes/d2689887c21f2150.txt": {
+   "bytes": 26716,
+   "hora": "2026-10-26T14:59:31+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www.dgabc.com.br/Noticia/4353964/quaest-48-dos-eleitores-de-augusto-cury-migram-para-lula-e-33-para-flavio",
+   "sha256": "7ecae6acbbff25dd74bc2aa2601f4ff6e6e92cbc6e1468ceba23749e737eb6fa"
+  },
+  "dados/brutos/capturas/agentes/dc77c0164ed9dfb1.txt": {
+   "bytes": 28794,
+   "hora": "2026-10-26T15:07:44+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "http://media.folha.uol.com.br/datafolha/2013/05/02/intvoto_pres_28102006.pdf",
+   "sha256": "ea04727ec2b770faf516658dc11fc3202caf68249ff9dd5f4ae8084403c90387"
+  },
+  "dados/brutos/capturas/agentes/dd783820c98c903a.txt": {
+   "bytes": 9412,
+   "hora": "2026-10-26T14:59:33+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www.spacemoney.com.br/politica/quaest-transferencia-votos-lula-flavio-segundo-turno",
+   "sha256": "e0b6ae0cf9d6ddfb96e04839e29d5b26113392e6476f3771d9fae6d7dcb52bb9"
+  },
+  "dados/brutos/capturas/agentes/df1a41283bb80a47.txt": {
+   "bytes": 317886,
+   "hora": "2026-10-26T15:08:10+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1379809836",
+   "origem": "https://en.wikipedia.org/wiki/2025_Romanian_presidential_election",
+   "sha256": "b6fc3dd901d79421162bd193556266ce7da82d2d022d65cc63dd57395aa052fb"
+  },
+  "dados/brutos/capturas/agentes/e0ec6747de9b6692.txt": {
+   "bytes": 46933,
+   "hora": "2026-10-26T15:08:14+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1371608700",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Slovak_presidential_election",
+   "sha256": "69e080b66ed0b4b84b31be5cb02d58c0de156638af80951b3149e5877e96b0b6"
+  },
+  "dados/brutos/capturas/agentes/e2147c51858300aa.txt": {
+   "bytes": 15128,
+   "hora": "2026-10-26T14:59:57+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www.cartacapital.com.br/politica/a-migracao-dos-votos-de-tebet-e-ciro-no-2o-turno-segundo-a-quaest/",
+   "sha256": "e932b946049f84430b2ef5bc2304b955cee8bd7d8137c8103fa910b07ffb6b57"
+  },
+  "dados/brutos/capturas/agentes/e354cf70f53bc414.txt": {
+   "bytes": 30483,
+   "hora": "2026-10-26T15:09:13+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2019",
+   "sha256": "92eeed7e497eb9991e19b4f46e2b3b85b46f09a9dce1103bef864594869f56c3"
+  },
+  "dados/brutos/capturas/agentes/e46438496e44db22.txt": {
+   "bytes": 9730,
+   "hora": "2026-10-26T14:59:38+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://exame.com/brasil/pesquisa-datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos/",
+   "sha256": "0c9b0d3447d474b6f20821f760689b0bbbe6d1123e7b26882b58c21dd42fa934"
+  },
+  "dados/brutos/capturas/agentes/e4647438bed7e6f7.txt": {
+   "bytes": 42888,
+   "hora": "2026-10-26T15:08:34+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2010_Brazilian_presidential_election",
+   "sha256": "5bf9bc4d6acc30bde75dbc511013775b18aeb1445c5a11810418f5c85a34f759"
+  },
+  "dados/brutos/capturas/agentes/e87a964819b3e9ca.txt": {
+   "bytes": 79800,
+   "hora": "2026-10-26T15:09:23+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Costa_Rican_general_election",
+   "sha256": "f694058cec63ee1bbed2c95af4b249668e29cc87a8497c43c92e30430e9a824d"
+  },
+  "dados/brutos/capturas/agentes/eb741393f877225b.txt": {
+   "bytes": 95816,
+   "hora": "2026-10-26T15:07:43+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "http://media.folha.uol.com.br/datafolha/2013/05/02/intvoto_pres_26102002.pdf",
+   "sha256": "7ee0efd2ae95215c545d45d37d9f72bfcdf6f369898111a9cad2a1c439c1f9df"
+  },
+  "dados/brutos/capturas/agentes/f58246038b369099.txt": {
+   "bytes": 54294,
+   "hora": "2026-10-26T15:08:02+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid 1359444757",
+   "origem": "https://en.wikipedia.org/wiki/2015_Polish_presidential_election",
+   "sha256": "de8deedf3fe8e72aa1895a70a1c2fbd6d8d57ec20d373485356ce954945ae124"
+  },
+  "dados/brutos/capturas/agentes/faf14672083629a0.txt": {
+   "bytes": 6739,
+   "hora": "2026-10-26T14:59:37+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid ",
+   "origem": "https://www.cnnbrasil.com.br/eleicoes/datafolha-flavio-tem-51-dos-votos-validos-lula-49/",
+   "sha256": "b55ece13459c6e2c5b509f7614225d6f9c9c66de07edc191f71e585bd9fa9bf5"
+  },
   "dados/brutos/capturas/pesquisas/0bc8a436204660e2.txt": {
    "bytes": 5096,
    "hora": "2026-10-26T13:25:12+00:00",
@@ -81648,138 +82061,173 @@
    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6260/dados/to/to-c0003-e006260-u.json",
    "sha256": "6629b897507db1a4f2f861831fd26425e2b00cd2bcdb2701f57b4283db3e0bf5"
   },
+  "dados/copias/apuracao-eleicoes-2026/p7_margem_2022_por_pct_de_secoes.csv": {
+   "bytes": 1118,
+   "hora": "2026-10-26T13:52:14+00:00",
+   "nota": "cópia de projeto anterior do canal",
+   "origem": "apuracao-eleicoes-2026@b595664:resultados/p7_margem_2022_por_pct_de_secoes.csv",
+   "sha256": "d966a106a5eca0879afc1df6639ba8378823fd46e04e88b176b5e188a9672fc5"
+  },
   "dados/copias/investigacao-segundo-turno-2026/d5_curva_noite.csv": {
    "bytes": 22240,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:resultados/d5_curva_noite.csv",
    "sha256": "983557aa491f7c3752f30d3395b5c38f56c864f9f89df844abec6ec43af95e5f"
   },
   "dados/copias/investigacao-segundo-turno-2026/historico_turnos.csv": {
    "bytes": 187352,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:dados/derivados/historico_turnos.csv",
    "sha256": "3d1bc75c04719005e8525e5b0f6efc2f7931a6c8352b288b53d72b2a9d719dbe"
   },
   "dados/copias/investigacao-segundo-turno-2026/p3_disputas.csv": {
    "bytes": 1979,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:resultados/p3_disputas.csv",
    "sha256": "1b1d7c187048781bb0c12cb8c99dc386a474d3de8a1a156e1b326c6b84c96b5b"
   },
   "dados/copias/investigacao-segundo-turno-2026/p_historico.json": {
    "bytes": 4068,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:resultados/p_historico.json",
    "sha256": "e55f19bb6b98b615facb3519afe844052f6b4b9c4e3df7e40ecfdabfc9827d8f"
   },
   "dados/copias/investigacao-segundo-turno-2026/p_segundos_turnos.csv": {
    "bytes": 9093,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:resultados/p_segundos_turnos.csv",
    "sha256": "8d7e291493e4d83ae27e9de07842a3885d7e975e9744dd8cd3075243bc354a48"
   },
   "dados/copias/investigacao-segundo-turno-2026/pindograma-late-polls-2012-2018.csv": {
    "bytes": 7995180,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:dados/copias/pindograma-late-polls-2012-2018.csv",
    "sha256": "72d54509b2fbcfa470ca3e563ee60b85499bf6457f9da97ebed428f7e167f669"
   },
   "dados/copias/investigacao-segundo-turno-2026/pindograma-late-polls-2022.csv": {
    "bytes": 5130562,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:dados/copias/pindograma-late-polls-2022.csv",
    "sha256": "422b8f56488ba5d24f3a1e198908dc58d719ba4b5e6fb5103d53dafd8912df19"
   },
   "dados/copias/investigacao-segundo-turno-2026/polymarket_eventos.csv": {
-   "bytes": 331369,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "bytes": 332160,
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:dados/derivados/polymarket_eventos.csv",
-   "sha256": "7776f0fb93511ccabaa002310d7f28f2b1c86e2bd0509f390a6aa879446aa4c0"
+   "sha256": "a47327ddd0686e03d33aa3ecf17204c34895d6eefc0013f385d7db5c460110b0"
   },
   "dados/copias/investigacao-segundo-turno-2026/polymarket_favoritos.csv": {
-   "bytes": 10436,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "bytes": 28780,
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:dados/derivados/polymarket_favoritos.csv",
-   "sha256": "6054666dc30edded712faaeec2c464ae7622436efd67b55082351ef2fc138174"
+   "sha256": "06e9a50c7d5ab0a2cb7d89bbdaca8ac7586f05820e8d45365511106364c3f531"
   },
   "dados/copias/investigacao-segundo-turno-2026/presidente_1989.csv": {
    "bytes": 137,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "investigacao-segundo-turno-2026@f9b00df:dados/manuais/presidente_1989.csv",
    "sha256": "c43438c7fd4169b0a1b527d627a4aedeeba459e9e1679c18142305c332cc62c7"
   },
   "dados/copias/presidente-primeiro-turno-2026/b6_erro_por_instituto_e_rodada.csv": {
    "bytes": 5530,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "presidente-primeiro-turno-2026@0b3e3c8:resultados/b6_erro_por_instituto_e_rodada.csv",
    "sha256": "9f276c07b70b41a0faf100165a9110afffb8f7ab24da3b3a51095f5dbb573ff0"
   },
   "dados/copias/previsao-segundo-turno-2026/RESUMO.json": {
    "bytes": 6846,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "previsao-segundo-turno-2026@a0d1853:resultados/RESUMO.json",
    "sha256": "bd2db5faaabc032d8ecda0052aece9af52d191c3a9d7f6c2e0226b1aabb58cd0"
   },
   "dados/copias/previsao-segundo-turno-2026/abstencao_historica.csv": {
    "bytes": 437,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "previsao-segundo-turno-2026@a0d1853:resultados/abstencao_historica.csv",
    "sha256": "2cee8212d056d877236e5eaecff3453a83bdbc5b4366c827b7a74a9fd9261e34"
   },
   "dados/copias/previsao-segundo-turno-2026/h_regras_por_uf.csv": {
    "bytes": 751,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "previsao-segundo-turno-2026@a0d1853:resultados/h_regras_por_uf.csv",
    "sha256": "371961ce7b5b542c78dc4f772d4ec736e0b0d8594a0ea4585e3999edb9ebc8d6"
   },
   "dados/copias/previsao-segundo-turno-2026/institutos_erros.csv": {
    "bytes": 3214,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "previsao-segundo-turno-2026@a0d1853:resultados/institutos_erros.csv",
    "sha256": "ef3f03e251d333475479269fbf6386afa6d603730926812ea5f88809aedc2e7c"
   },
   "dados/copias/previsao-segundo-turno-2026/institutos_ranking.csv": {
    "bytes": 881,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "previsao-segundo-turno-2026@a0d1853:resultados/institutos_ranking.csv",
    "sha256": "a247571e90c5135655a463561a50eddec6670f1a29fbba46ff5e3e33cbf6706b"
   },
+  "dados/copias/previsao-segundo-turno-2026/mun_detalhe.parquet": {
+   "bytes": 1368651,
+   "hora": "2026-10-26T13:52:14+00:00",
+   "nota": "cópia de projeto anterior do canal",
+   "origem": "previsao-segundo-turno-2026@a0d1853:dados/derivados/mun_detalhe.parquet",
+   "sha256": "569089019ddb70a2e6fa85e76d6f45db5080c6ec1701ad996795532153e53ea4"
+  },
+  "dados/copias/previsao-segundo-turno-2026/mun_votos.parquet": {
+   "bytes": 1342352,
+   "hora": "2026-10-26T13:52:14+00:00",
+   "nota": "cópia de projeto anterior do canal",
+   "origem": "previsao-segundo-turno-2026@a0d1853:dados/derivados/mun_votos.parquet",
+   "sha256": "dda58adb28c1f48c3e0f0e6abf91ff6adfe8f6bebd1c17fcf38519641e7675eb"
+  },
   "dados/copias/previsao-segundo-turno-2026/p_pesquisas_usadas.csv": {
    "bytes": 4185,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "previsao-segundo-turno-2026@a0d1853:resultados/p_pesquisas_usadas.csv",
    "sha256": "e0caa223faecf89561d4fc736e01ea0508bd420b1e34b2a0cd0d6e8037d71896"
   },
   "dados/copias/previsao-segundo-turno-2026/teste_do_passado.csv": {
    "bytes": 428,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "previsao-segundo-turno-2026@a0d1853:resultados/teste_do_passado.csv",
    "sha256": "5ffa6dc90f6f37e009868b055ef4688881b311f671406630fa8ab892028f2ddd"
   },
   "dados/copias/previsao-segundo-turno-2026/transferencia_historica.csv": {
    "bytes": 326,
-   "hora": "2026-10-26T13:27:28+00:00",
+   "hora": "2026-10-26T13:52:14+00:00",
    "nota": "cópia de projeto anterior do canal",
    "origem": "previsao-segundo-turno-2026@a0d1853:resultados/transferencia_historica.csv",
    "sha256": "0aa62f65d8968b42817a9e5dc81339b98773a097088a599a2fc6caa0ecd6e4a6"
+  },
+  "dados/derivados/cruzamento_voto_1t_conferido.csv": {
+   "bytes": 16044,
+   "hora": "2026-10-26T15:09:24+00:00",
+   "nota": "",
+   "origem": "ferramentas/conferir-agentes.py sobre dados/agentes/cruzamento_voto_1t.csv",
+   "sha256": "c8014c38820b6cd09d5758536dcf6585b6f8f8b7efbdf0eae39b8637b4d5cb8e"
+  },
+  "dados/derivados/erros_pesquisas_conferidos.csv": {
+   "bytes": 33829,
+   "hora": "2026-10-26T15:09:24+00:00",
+   "nota": "",
+   "origem": "ferramentas/conferir-agentes.py sobre dados/agentes/erros_pesquisas_runoffs.csv",
+   "sha256": "6d6f8c61131770c55aca8249e035bd191858aa704f231692d3afa035262b55da"
   },
   "dados/derivados/governador.csv": {
    "bytes": 18730,

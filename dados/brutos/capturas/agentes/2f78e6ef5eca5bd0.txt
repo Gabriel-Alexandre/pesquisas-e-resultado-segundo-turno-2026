@@ -1,0 +1,4368 @@
+{{Short description|none}}
+<!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{Use dmy dates|date=October 2025}}
+
+In the run-up to the [[2025 Chilean general election|2025 Chilean presidential election]], opinion polls are conducted to assess the intention to vote in Chile during the presidential term of [[Gabriel Boric]]. The date range for these opinion polls runs from the first measurement in October 2022, to the day the election is held, 16 November 2025.
+
+Various polls are listed below in reverse chronological order (with the most recent polls first). The order considers the last day of the sampling and only when that period is not known, the date of publication of the poll is shown.
+
+== Second round ==
+[[File:Encuestas elección presidencial de Chile 2025, segunda vuelta (2022-2025).svg|center|thumb|724x724px|Opinion polls for the second round of the 2025 Chilean presidential election. Each point represents a poll, each line is a local regression that represents the two candidates.]]
+
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Pollster
+! rowspan="3" |Date
+![[File:Live_Especial_Mujeres_Comité_Político,_Ministra_Jannette_Jara_(cropped).jpg|70x70px]]
+![[File:José Antonio Kast en 2025 (cropped).jpg|70x70px]]
+! rowspan="3" |Would not vote
+! rowspan="3" |{{Abbreviation|DK/NR|Don't know / No reply}}
+|-
+! width="75px" |[[Jeannette Jara|Jara]]<br><small>[[Unidad por Chile|UpCh]]</small>
+! width="75px" |[[José Antonio Kast|Kast]]<br><small>[[Change for Chile|CpCh]]</small>
+|-
+! style="background:#FF8080" |
+! style="background:#31446C" |
+|-
+|LCN<ref name="LCN-08Dec2025">{{Cite web |url=https://x.com/ChilePortadas/status/1998200262713033037 |title=@ChilePortadas: 📊 Encuesta La Cosa Nostra {{!}} 08 Dic 🗳 Kast aventaja a Jara por casi 20 puntos según La Cosa Nostra, a una semana de la elección presidencial 🇨🇱 🟦 Kast:   59,7%  ✅ 🟥 Jara:    40,3% |publisher=ChilePortadas |date=2025-12-11}}</ref>
+|8 Dec 2025
+|40.3%
+| bgcolor="#CAD5E9" |'''59.7%'''
+|colspan="2" |—
+|-
+|Panel Ciudadano<ref name="PD-5Dec2025">{{Cite web |url=https://x.com/NathalyLarsen/status/1997104543939637584  |title=@NathalyLarsen: 58/42 con sólo 14% de No sabe/No responde, anula o no vota, en encuesta |publisher=NathalyLarsen|date=2025-12-06}}</ref><ref name="PD-5Dec2025part2">{{Cite web |url=https://x.com/RepublicanoCh/status/1997076510201536755  |title=@RepublicanoCh: 📊 Encuesta #PanelCiudadano 5/12 • en base a 100 🔵 KAST.........58% (-2) ✅ 🔴 JARA.........42% (+2) #Elecciones2025CL 🗳 |publisher=RepublicanoCh|date=2025-12-06}}</ref>
+|5 Dec 2025
+|36%
+| bgcolor="#CAD5E9" |'''50%'''
+|colspan="2" |14%
+|-
+|Cadem<ref name="Cadem-7Dec2025">{{Cite web |url=https://x.com/memerluzo/status/1997802328217604491  |title=@Memerluzo: Todo igual, todo en orden, pero La Fuerza del Cambio llega el domingo con Kast Presidente #Cadem
+ |publisher=Memerluzo|date=2025-12-07}}</ref>
+|3-5 Dec 2025
+|36%
+| bgcolor="#CAD5E9" |'''47%'''
+|colspan="2" |17%
+|-
+! colspan="12" |Start of the two-week [[Election silence|polling silence]] period (30 November 2025)
+|-
+|Encuesta Nacional<ref name="EN-30Nov2025">{{Cite web |url=https://x.com/EncuestasChil10/status/1995191606199103871/photo/1  |title=@EncuestasChil10: 🚨 Encuesta #EncuestaNacional: Elección Presidencial - Segunda Vuelta 🇨🇱 🔵 José Antonio Kast: 61% 🔴 Jeannette Jara: 39% #EncuestaNacional |publisher=EncuestasChil10 |date=2025-11-30}}</ref>
+|30 Nov 2025
+|39%
+| bgcolor="#CAD5E9" |'''61%'''
+|colspan="2" |—
+|-
+|Cadem<ref name="Cadem-29Nov2025">{{Cite web
+ |url=https://cadem.cl/estudios/kast-58-mantiene-ventaja-de-16-puntos-de-ventaja-sobre-jara-42-a-dos-semanas-de-la-segunda-vuelta/
+ |title=Kast (58%) maintains a 16-point lead over Jara (42%) two weeks before the second round
+ |publisher=Cadem
+ |date=2025-11-29}}</ref>
+|29 Nov 2025
+|34%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |20%
+|-
+|Activa<ref name="Activa-29Nov2025">{{Cite web
+ |url=https://www.ex-ante.cl/pulso-ciudadano-y-segunda-vuelta-kast-589-aventaja-por-casi-18-puntos-a-jara-lea-aqui-la-encuesta/
+ |title=Pulso Ciudadano y segunda vuelta: Kast (58,9%) aventaja por casi 18 puntos a Jara (Lea aquí la encuesta)
+ |publisher=Ex-Ante
+ |date=2025-11-29}}</ref>
+|29 Nov 2025
+|31.6%
+| bgcolor="#CAD5E9" |'''45.2%'''
+|17.7%
+|5.5%
+|-
+|Panel Ciudadano<ref name="Panel-29Nov2025">{{Cite web
+ |url=https://panelciudadano.cl/wp-content/uploads/2025/11/PanelCiudadano_UDD_2vuelta-28nov.pdf
+ |title=Un 16% estaría pensando en anular su voto o no sufragar en la segunda vuelta.
+ |publisher=Panel Ciudadano
+ |date=2025-11-28}}</ref>
+|28 Nov 2025
+|34%
+| bgcolor="#CAD5E9" |'''50%'''
+| colspan="2" |16%
+|-
+|Criteria<ref name="Criteria-27Nov2025">{{Cite web
+ |url=https://www.criteria.cl/site/wp-content/uploads/2025/11/Agenda_Criteria_27_de_Noviembre_2025.pdf
+ |title=Criteria Agenda November 27, 2025
+ |publisher=Criteria
+ |date=2025-11-27}}</ref>
+|27 Nov 2025
+|35%
+| bgcolor="#CAD5E9" |'''51%'''
+|colspan="2" |14%
+|-
+|Data Influye<ref>{{Cite web
+ |url=https://cdn.atlasintel.org/9de4faed-bd00-4b22-add9-08d16e214c5e.pdf
+ |title=PRESIDENCIAL, GOBIERNO, ECONOMÍA Y TENDENCIAS
+ |publisher=Tú Influyes
+ |date=2025-11-28}}</ref>
+|22-27 Nov 2025
+|34%
+| bgcolor="#CAD5E9" |'''59%'''
+|3%
+|14%
+|-
+|Atlas Intel<ref>{{Cite web
+ |url=https://cdn.atlasintel.org/9de4faed-bd00-4b22-add9-08d16e214c5e.pdf
+ |title=Intención de voto - 2ª vuelta
+ |publisher=Atlas Intel
+ |date=2025-11-28}}</ref>
+|22-26 Nov 2025
+|35%
+| bgcolor="#CAD5E9" |'''56.9%'''
+|colspan="2" |8.1%
+|-
+|Gallup Marketing & Asesoría<ref name="Gallup-27Nov2025">{{Cite web
+ |url=https://x.com/EncuestasChil10/status/1994217958411805133/photo/1
+ |title=EncuestasChil10: Resultados Gallup Marketing & Asesoría (20-26 Nov 2025)
+ |publisher= Gallup Marketing & Asesoría
+ |date=2025-11-26}}</ref>
+|20-26 Nov 2025
+|38%
+| bgcolor="#CAD5E9" |'''59%'''
+|colspan="2" |3%
+|-
+|Pew Research Center<ref name="Pew-27Nov2025">{{Cite web
+ |url=https://x.com/picotsuhusband/status/1994255306428211275?s=20
+ |title=@picotsuhusband: NIGHTS OF FIRE
+ |publisher=@picotsuhusband
+ |date=2025-11-26}}</ref>
+|19-26 Nov 2025
+|40.4%
+| bgcolor="#CAD5E9" |'''59.6%'''
+|colspan="2" |—
+|-
+|CB<ref name="CB-24Nov2025">{{Cite web
+ |url=https://drive.google.com/uc?export=download&id=1NGl06o5a0FG10AGSi3LBw0EEBVphqccM
+ |title=Elecciones 2o vuelta Chile - ENCUESTA NACIONAL, CB, NOV. 2025 - 18 a 23 DE NOVIEMBRE - 3021 CASOS - 1.8% M.E - 95% NIVEL DE CONFIANZA
+ |publisher=CB
+ |date=2025-11-25}}</ref>
+|18-23 Nov 2025
+|36.7%
+| bgcolor="#CAD5E9" |'''50.9%'''
+|colspan="2" |12.4%
+|-
+|Criteria<ref name="Criteria-23Nov2025">{{Cite web
+|url=https://www.criteria.cl/site/wp-content/uploads/2025/11/Agenda_Criteria_23_Noviembre_2025_iFwh5.pdf
+ |title=Agenda Criteria – Encuesta 23 Noviembre 2025
+ |publisher=Criteria
+ |date=2025-11-23}}</ref>
+|23 Nov 2025
+|36%
+| bgcolor="#CAD5E9" |'''50%'''
+| colspan="2" |14%
+|-
+|Cadem<ref name="Cadem-21Nov2025">{{Cite web
+|url=https://cadem.cl/estudios/kast-58-mantiene-ventaja-de-16-puntos-de-ventaja-sobre-jara-42-a-dos-semanas-de-la-segunda-vuelta/
+ |title=Kast (58%) maintains a 16-point lead over Jara (42%) two weeks before the second round
+ |publisher=Cadem
+ |date=2025-11-29}}</ref>
+|21 Nov 2025
+|34%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |20%
+|-
+|Panel Ciudadano<ref name="PC-21Nov2025">{{Cite web
+ |url=https://panelciudadano.cl/wp-content/uploads/2025/11/PanelCiudadano_UDD_2vuelta-21nov.pdf
+ |title=Panel Ciudadano – Encuesta 21 Nov 2025
+ |publisher=Panel Ciudadano/UDD
+ |date=2025-11-17}}</ref>
+|21 Nov 2025
+|35%
+| bgcolor="#CAD5E9" |'''50%'''
+|colspan="2" |15%
+|-
+|ICSO-UDP<ref name="Cadem-26Nov2025">{{Cite web|url=https://icso.udp.cl/cms/wp-content/uploads/2025/11/Encuesta-ICSO-UDP-Noviembre-.pdf
+ |title=ICSO UDP Survey November 2025, Social Climate Series: The climate before the lockdown
+ |publisher=ICSO-UDP 
+ |date=2025-11-26}}</ref>
+|18-21 Nov 2025
+|34%
+| bgcolor="#CAD5E9" |'''44%'''
+|11%
+|11%
+|-
+|Panel Ciudadano<ref name="PC-21Nov2025">{{Cite web
+ |url=https://panelciudadano.cl/wp-content/uploads/2025/11/PanelCiudadano_UDD_2vuelta-21nov.pdf
+ |title=Panel Ciudadano – Encuesta 21 Nov 2025
+ |publisher=Panel Ciudadano/UDD
+ |date=2025-11-17}}</ref>
+|21 Nov 2025
+|35%
+| bgcolor="#CAD5E9" |'''50%'''
+|colspan="2" |15%
+|-
+|Black & White<ref>{{cite web|date=2025-11-21 |format=PDF |title=Pulso presidencial: Kast sacaría un 56% frente a un 35% de Jara en la segunda vuelta |url=https://www.emol.com/noticias/Nacional/2025/11/21/1183777/resultados-encuesta-bw.html |website=Emol}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|18–20 Nov 2025
+|35%
+| bgcolor="#CAD5E9" |'''56%'''
+|colspan="2"|9%
+|-
+|Gallup Marketing & Asesoría<ref name="Gallup-Nov19-2025">{{Cite web
+ |url=https://x.com/picotsuhusband/status/1992631417097081234?t=6U2DRBs1vAGaiDds9yeXzA&s=19
+ |title=EncuestasChil10: Resultados Gallup Marketing & Asesoría (17–19 Nov 2025)
+ |publisher=EncuestasChil10
+ |date=2025-11-19}}</ref>
+|17–19 Nov 2025
+|39%
+| bgcolor="#CAD5E9" |'''55%'''
+|colspan="2" |6%
+|-
+|Pew Research Center<ref name="Pew-Nov19-2025">{{Cite web
+ |url=https://x.com/EncuestasChil10/status/1991194294418366962?t=m3bzH4lZ6fzRmCFI0q2XyA&s=91837273
+ |title=EncuestasChil10: Resultados Pew Research Center (17–18 Nov 2025)
+ |publisher=EncuestasChil10
+ |date=2025-11-19}}</ref>
+|17–18 Nov 2025
+|38.3%
+| bgcolor="#CAD5E9" |'''61.7%'''
+| colspan="2" |—
+|-
+|Panel Ciudadano<ref name="PC-21Nov2025">{{Cite web
+ |url=https://panelciudadano.cl/wp-content/uploads/2025/11/PanelCiudadano_UDD_2vuelta-21nov.pdf
+ |title=Panel Ciudadano – Encuesta 21 Nov 2025
+ |publisher=Panel Ciudadano/UDD
+ |date=2025-11-17}}</ref>
+|17 Nov 2025
+|34%
+| bgcolor="#CAD5E9" |'''54%'''
+|colspan="2" |12%
+|-
+! colspan="12" | First round (16 November 2025)
+|-
+|Cadem
+|13–14 Nov 2025
+|35%
+| bgcolor="#CAD5E9" |'''46%'''
+|colspan="2" |19%
+|-
+|Cadem
+|10–12 Nov 2025
+|34%
+| bgcolor="#CAD5E9" |'''44%'''
+|colspan="2" |22%
+|-
+|Panel Ciudadano
+|6–7 Nov 2025
+|33%
+| bgcolor="#CAD5E9" |'''47%'''
+|colspan="2" |20%
+|-
+|Cadem
+|5–7 Nov 2025
+|36%
+| bgcolor="#CAD5E9" |'''47%'''
+|colspan="2" |17%
+|-
+|Panel Ciudadano<ref name="PC-30-31Oct2025">{{Cite web
+ |url=https://panelciudadano.udd.cl/files/2025/11/PanelCiudadano_UDD_Presidencial31Oct.pdf
+ |title=Panel Ciudadano: Encuesta 30–31 Oct 2025
+ |publisher=Panel Ciudadano/UDD
+ |date=2025-10-31}}</ref>
+|30–31 Oct 2025
+|32%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |22%
+|-
+|Atlas Intel<ref name="AI-25-30Oct2025">{{Cite web
+ |url=https://atlasintel.org/poll/latam-pulse-chile-october-2025-10-24
+ |title=Atlas Intel / Latam Pulse: Chile 25–30 Oct 2025
+ |publisher=Atlas Intel
+ |date=2025-10-24}}</ref>
+|25–30 Oct 2025
+|40%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |14%
+|-
+|Criteria<ref name="Criteria-27-29Oct2025">{{Cite web
+ |url=https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2025_M4.pdf
+ |title=Agenda Criteria – Encuesta 27–29 Oct 2025
+ |publisher=Criteria
+ |date=2025-10-29}}</ref>
+|27–29 Oct 2025
+|33%
+| bgcolor="#CAD5E9" |'''51%'''
+| colspan="2" |16%
+|-
+|LCN<ref name="LCN-19-28Oct2025">{{Cite web
+ |url=https://www.encuestaslcn.cl/assets/pdfs/2025-10-30-encuesta-octubre-2025.pdf
+ |title=LCN: Encuesta 19–28 Oct 2025
+ |publisher=LCN
+ |date=2025-10-30}}</ref>
+|19–28 Oct 2025
+|44%
+| bgcolor="#CAD5E9" |'''56%'''
+| colspan="2" |—
+|-
+|Cadem<ref name="Cadem-22-24Oct2025">{{Cite web
+ |url=https://cadem.cl/wp-content/uploads/2025/10/Track-PP-615-Octubre-S4-VF.pdf
+ |title=Cadem Plaza Pública: 22–24 Oct 2025
+ |publisher=Cadem
+ |date=2025-10-24}}</ref>
+|22–24 Oct 2025
+|36%
+| bgcolor="#CAD5E9" |'''48%'''
+| colspan="2" |16%
+|-
+|Panel Ciudadano<ref name="PC-22-24Oct2025">{{Cite web
+ |url=https://panelciudadano.cl/wp-content/uploads/2025/10/PanelCiudadano_UDD_Presidencial24oct.pdf
+ |title=Panel Ciudadano: Encuesta 22–24 Oct 2025
+ |publisher=Panel Ciudadano/UDD
+ |date=2025-10-24}}</ref>
+|22–24 Oct 2025
+|32%
+| bgcolor="#CAD5E9" |'''48%'''
+| colspan="2" |20%
+|-
+|Criteria<ref name="Criteria-21-23Oct2025">{{Cite web
+ |url=https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2025_M3.pdf
+ |title=Agenda Criteria – Encuesta 21–23 Oct 2025
+ |publisher=Criteria
+ |date=2025-10-23}}</ref>
+|21–23 Oct 2025
+|35%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |19%
+|-
+|Feedback<ref name="Feedback-18-22Oct2025">{{Cite web
+ |url=https://www.df.cl/economia-y-politica/politica/encuesta-feedback-confirma-liderazgo-de-jara-en-primera-vuelta-y-triunfo-de
+ |title=Diario Financiero: Encuesta Feedback 18–22 Oct 2025
+ |publisher=Diario Financiero
+ |date=2025-10-23}}</ref>
+|18–22 Oct 2025
+|34%
+| bgcolor="#CAD5E9" |'''56%'''
+| colspan="2" |10%
+|-
+|Atlas Intel<ref name="AI-15-19Oct2025">{{Cite web
+ |url=https://atlasintel.org/poll/latam-pulse-chile-october-2025-10-19
+ |title=Atlas Intel / Latam Pulse: Chile 15–19 Oct 2025
+ |publisher=Atlas Intel
+ |date=2025-10-19}}</ref>
+|15–19 Oct 2025
+|39%
+| bgcolor="#CAD5E9" |'''47%'''
+| colspan="2" |14%
+|-
+|Panel Ciudadano<ref name="PC-16-17Oct2025">{{Cite web
+ |url=https://panelciudadano.cl/encuesta-panel-ciudadano-udd-kast-y-jara-mantienen-liderazgo-en-primera-vuelta
+ |title=Panel Ciudadano: Encuesta 16–17 Oct 2025
+ |publisher=Panel Ciudadano/UDD
+ |date=2025-10-18}}</ref>
+|16–17 Oct 2025
+|33%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |21%
+|-
+|Activa<ref name="Activa-15-17Oct2025">{{Cite web
+ |url=https://chile.activasite.com/estudios/pulso-ciudadano-99
+ |title=Activa – Pulso Ciudadano 15–17 Oct 2025
+ |publisher=Activa
+ |date=2025-10-17}}</ref>
+|15–17 Oct 2025
+|34.0%
+| bgcolor="#CAD5E9" |'''42.0%'''
+|16.1%
+|7.8%
+|-
+|Cadem
+|15–17 Oct 2025
+|33%
+| bgcolor="#CAD5E9" |'''49%'''
+| colspan="2" |18%
+|-
+|Criteria
+|14–17 Oct 2025
+|36%
+| bgcolor="#CAD5E9" |'''48%'''
+|16%
+|—
+|-
+|CEP
+|22 Sep–17 Oct 2025
+|33%
+| bgcolor="#CAD5E9" |'''41%'''
+|11%
+|16%
+|-
+|LCN
+|3–13 Oct 2025
+|44%
+| bgcolor="#CAD5E9" |'''56%'''
+| colspan="2" |—
+|-
+|Panel Ciudadano
+|9–10 Oct 2025
+|31%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |23%
+|-
+|Cadem
+|8–10 Oct 2025
+|36%
+| bgcolor="#CAD5E9" |'''47%'''
+| colspan="2" |17%
+|-
+|Criteria
+|7–9 Oct 2025
+|33%
+| bgcolor="#CAD5E9" |'''46%'''
+|21%
+|—
+|-
+|Signos Analytics
+|25 Sep–4 Oct 2025
+|35.9%
+| bgcolor="#CAD5E9" |'''44.0%'''
+|7.2%
+|12.9%
+|-
+|Panel Ciudadano
+|2–3 Oct 2025
+|32%
+| bgcolor="#CAD5E9" |'''49%'''
+| colspan="2" |19%
+|-
+|Criteria
+|30 Sep–2 Oct 2025
+|36%
+| bgcolor="#CAD5E9" |'''47%'''
+|17%
+|—
+|-
+|Panel Ciudadano
+|25–26 Sep 2025
+|31%
+| bgcolor="#CAD5E9" |'''47%'''
+| colspan="2" |22%
+|-
+|LCN
+|17–26 Sep 2025
+|46.0%
+| bgcolor="#CAD5E9" |'''54.0%'''
+| colspan="2" |—
+|-
+|Criteria
+|23–25 Sep 2025
+|35%
+| bgcolor="#CAD5E9" |'''44%'''
+|21%
+|—
+|-
+|Panel Ciudadano
+|18–19 Sep 2025
+|31%
+| bgcolor="#CAD5E9" |'''47%'''
+| colspan="2" |22%
+|-
+|Criteria
+|15–17 Sep 2025
+|35%
+| bgcolor="#CAD5E9" |'''46%'''
+|19%
+|—
+|-
+|Panel Ciudadano
+|11–12 Sep 2025
+|33%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |21%
+|-
+|Cadem
+|10–12 Sep 2025
+|32%
+| bgcolor="#CAD5E9" |'''43%'''
+| colspan="2" |25%
+|-
+|LCN
+|2–12 Sep 2025
+|43.7%
+| bgcolor="#CAD5E9" |'''55.8%'''
+| colspan="2" |—
+|-
+|Criteria
+|11 Sep 2025
+|35%
+| bgcolor="#CAD5E9" |'''46%'''
+|19%
+|—
+|-
+|Panel Ciudadano
+|4–5 Sep 2025
+|30%
+| bgcolor="#CAD5E9" |'''48%'''
+| colspan="2" |22%
+|-
+|Cadem
+|3–5 Sep 2025
+|32%
+| bgcolor="#CAD5E9" |'''42%'''
+| colspan="2" |26%
+|-
+|Criteria
+|2–4 Sep 2025
+|36%
+| bgcolor="#CAD5E9" |'''45%'''
+|19%
+|—
+|-
+|Panel Ciudadano
+|28–29 Aug 2025
+|31%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |23%
+|-
+|Activa
+|26–29 Aug 2025
+|32.9%
+| bgcolor="#CAD5E9" |'''37.4%'''
+|19.9%
+|9.8%
+|-
+|LCN
+|16–28 Aug 2025
+|43.7%
+| bgcolor="#CAD5E9" |'''56.4%'''
+| colspan="2" |—
+|-
+|Criteria
+|26–28 Aug 2025
+|33%
+| bgcolor="#CAD5E9" |'''47%'''
+|20%
+|—
+|-
+|Panel Ciudadano
+|21–22 Aug 2025
+|31%
+| bgcolor="#CAD5E9" |'''50%'''
+| colspan="2" |19%
+|-
+|Cadem
+|20–22 Aug 2025
+|31%
+| bgcolor="#CAD5E9" |'''44%'''
+| colspan="2" |25%
+|-
+|Criteria
+|19–21 Aug 2025
+|32%
+| bgcolor="#CAD5E9" |'''50%'''
+|18%
+|—
+|-
+|Activa
+|14–15 Aug 2025
+|31.9%
+| bgcolor="#CAD5E9" |'''40.8%'''
+|3.7%
+|23.6%
+|-
+|Panel Ciudadano
+|14–15 Aug 2025
+|32%
+| bgcolor="#CAD5E9" |'''48%'''
+| colspan="2" |20%
+|-
+|Criteria
+|12–14 Aug 2025
+|35%
+| bgcolor="#CAD5E9" |'''47%'''
+| colspan="2" |18%
+|-
+|LCN
+|1–10 Aug 2025
+|46.5%
+| bgcolor="#CAD5E9" |'''53.5%'''
+| colspan="2" |—
+|-
+|Panel Ciudadano
+|7–8 Aug 2025
+|32%
+| bgcolor="#CAD5E9" |'''50%'''
+| colspan="2" |18%
+|-
+|Cadem
+|6–8 Aug 2025
+|34%
+| bgcolor="#CAD5E9" |'''48%'''
+| colspan="2" |18%
+|-
+|Data Influye
+|30 Jul–3 Aug 2025
+|34%
+| bgcolor="#CAD5E9" |'''41%'''
+| colspan="2" |24%
+|-
+|Cadem
+|30 Jul–1 Aug 2025
+|37%
+| bgcolor="#CAD5E9" |'''49%'''
+| colspan="2" |14%
+|-
+|Activa
+|30 Jul–1 Aug 2025
+|33.5%
+| bgcolor="#CAD5E9" |'''41.1%'''
+|4.8%
+|20.5%
+|-
+|Panel Ciudadano
+|30–31 Jul 2025
+|33%
+| bgcolor="#CAD5E9" |'''49%'''
+| colspan="2" |18%
+|-
+|Criteria
+|29–31 Jul 2025
+|34%
+| bgcolor="#CAD5E9" |'''45%'''
+| colspan="2" |21%
+|-
+|LCN
+|12–21 Jul 2025
+|45.8%
+| bgcolor="#CAD5E9" |'''54.2%'''
+| colspan="2" |—
+|-
+|Criteria
+|15–17 Jul 2025
+|34%
+| bgcolor="#CAD5E9" |'''47%'''
+| colspan="2" |19%
+|-
+|Cadem
+|9–11 Jul 2025
+|36%
+| bgcolor="#CAD5E9" |'''47%'''
+| colspan="2" |17%
+|-
+|Data Influye
+|1–6 Jul 2025
+|43.7%
+| bgcolor="#CAD5E9" |'''43.9%'''
+| colspan="2" |12.4%
+|-
+|Criteria
+|1–3 Jul 2025
+|35%
+| bgcolor="#CAD5E9" |'''42%'''
+| colspan="2" |23%
+|-
+|Panel Ciudadano
+|29–30 Jun 2025
+|34%
+| bgcolor="#CAD5E9" |'''46%'''
+| colspan="2" |20%
+|-
+|Cadem
+|25–27 Jun 2025
+|30%
+| bgcolor="#CAD5E9" |'''50%'''
+|11%
+|9%
+|-
+|LCN
+|13–21 Jun 2025
+|46.2%
+| bgcolor="#CAD5E9" |'''53.8%'''
+| colspan="2" |—
+|-
+|Cadem
+|7–9 May 2025
+|30%
+| bgcolor="#CAD5E9" |'''45%'''
+|0%
+|25%
+
+|}
+
+== First round ==
+=== Official candidates ===
+<!--{{#chart:Opinion polling for the 2025 Chilean presidential election (1).chart}}-->
+{{wide image|Encuestas elección presidencial de Chile 2025, primera vuelta (2022-2025).svg|1000px|Opinion polls for the first round of the 2025 Chilean presidential election. Each point represents a poll, each line is a local regression and represents one of the officially registered candidates.}}
+
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Polling firm
+! rowspan="3" |Date
+![[File:Live_Especial_Mujeres_Comité_Político,_Ministra_Jannette_Jara_(cropped).jpg|70x70px]]
+![[File:José Antonio Kast en 2025 (cropped).jpg|70x70px]]
+![[File:Evelyn-Matthei (cropped).jpg|70x70px]]
+![[File:Johannes Kaiser (BCN) (cropped).jpg|70x70px]]
+![[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|70x70px]]
+![[File:Marco Enríquez-Ominami 2018 (4x3).jpg|70x70px]]
+![[File:Harold Mayne-Nicholls (cropped).jpg|70x70px]]
+![[File:Eduardo Artés 2021 - 7 de octubre (cropped).jpg|70x70px]]
+! rowspan="3" |{{Abbr|Other|Another candidate}}
+! rowspan="3" |{{Abbr|DK/NA|None, don't know or no answer}}
+|-
+![[Jeannette Jara|Jara]]<br><small>[[Unidad por Chile|UpCh]]</small>
+![[José Antonio Kast|Kast]]<br><small>[[Republican Party of Chile|PRCh]]</small>
+![[Evelyn Matthei|Matthei]]<br><small>[[Chile Vamos|ChGU]]</small>
+![[Johannes Kaiser (Chilean politician)|Kaiser]]<br><small>[[National Libertarian Party|PNL]]</small>
+![[Franco Parisi|Parisi]]<br><small>[[Party of the People (Chile)|PDG]]</small>
+![[Marco Enríquez-Ominami|Ominami]]<br /><small>[[Independent (politics)|Ind.]]</small>
+![[Harold Mayne-Nicholls|Mayne-&nbsp;Nicholls]]<br /><small>[[Independent (politics)|Ind.]]</small>
+![[Eduardo Artés|Artés]]<br /><small>[[Independent (politics)|Ind.]]</small>
+|-
+| bgcolor="{{Party color|Unidad por Chile}}" |
+| bgcolor="{{Party color|Republican Party of Chile}}" |
+| bgcolor="{{party color|Chile Vamos}}" |
+| bgcolor="#F28500" |
+| bgcolor="#181644" |
+| bgcolor="#E02385" |
+| bgcolor="#C1DAE1" |
+| bgcolor="#CC0000" |
+|-
+! colspan="12" |Start of the two-week [[Election silence|polling silence]] period (2 November 2025)
+|-
+|Panel Ciudadano<ref>{{Cite web |date=1 November 2025 |title=Última encuesta Panel Ciudadano-UDD previo a la veda: Kaiser alcanza a Matthei, mientras Kast se mantiene a la baja |url=https://panelciudadano.cl/wp-content/uploads/2025/11/PanelCiudadano_UDD_Presidencial31oct.pdf |access-date=15 November 2025 |website=Panel Ciudadano |language=es}}</ref>
+|30–31 Oct 2025
+| bgcolor="#FFDFDF" |'''26%'''
+|21%
+|14%
+|14%
+|10%
+|1%
+|3%
+|1%
+|5%
+|5%
+|-
+|Activa<ref>{{cite web|date=1 November 2025 |title=Pulso Ciudadano de Activa {{!}} Primera vuelta presidencial noviembre 2025 |url=https://static.emol.cl/emol50/documentos/archivos/2025/11/01/file_20251101190243.pdf |website=Activa Research |publisher=Emol |access-date=15 November 2025 |language=es}}</ref>
+|28–31 Oct 2025
+| bgcolor="#FFDFDF" |'''24.9%'''
+|16.9%
+|11.2%
+|12.2%
+|14.0%
+|1.9%
+|3.4%
+|0.6%
+|6.2%
+|8.7%
+|-
+|Atlas Intel<ref>{{Cite web |title=Encuesta Atlas - Elecciones Chile 2025 |url=https://cdn.atlasintel.org/cfb9e7ee-312e-4b1e-aacb-7fb3579ab546.pdf |work=Atlas Intel |date=31 October 2025 |access-date=15 November 2025}}</ref>
+|25–30 Oct 2025
+| bgcolor="#FFDFDF" |'''33.2%'''
+|16.8%
+|13.9%
+|16.8%
+|14.2%
+|1.0%
+|1.9%
+|0.1%
+|2.0%
+|0.2%
+|-
+|Black & White<ref>{{cite web|date=31 October 2025 |format=PDF |title=Última B&W antes de la veda: Jara (30%) sigue primera y Kaiser (20%) ya es tercero y se acerca a Kast (23%) |url=https://www.emol.com/noticias/Nacional/2025/10/31/1181943/encuesta-black-white-veda-jara.html |website=Emol}}</ref>
+|28–29 Oct 2025
+| bgcolor="#FFDFDF" |'''30%'''
+|23%
+|17%
+|20%
+|7%
+|1%
+|3%
+|1%
+| colspan="2" |—
+|-
+|Criteria<ref>{{cite web|date=30 October 2025 |title=Agenda Criteria 5° Medición Octubre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_30_Octubre_2025.pdf |website=Criteria Research}}</ref>
+|27–29 Oct 2025
+| bgcolor="#FFDFDF" |'''27%'''
+|23%
+|14%
+|15%
+|9%
+|2%
+|3%
+|1%
+|—
+|6%
+|-
+|Data Influye<ref>{{cite web|date=31 October 2025 |format=PDF |title=Voto parlamentario, presidencial, gobierno, economía y tendencias |url=https://www.paneltuinfluyes.com/e/octubre-2025? |website=Tú Influyes}}</ref>
+|23–29 Oct 2025
+| bgcolor="#FFDFDF" |'''27%'''
+|20%
+|11%
+|13%
+|9%
+|2%
+|3%
+|1%
+|7%
+|7%
+|-
+|LCN<ref>{{cite web|date=30 October 2025 |title=35ª Encuesta LCN — Segunda quincena de octubre 2025 |url=https://www.encuestaslcn.cl/assets/pdfs/2025-10-30-encuesta-octubre-2025.pdf |website=encuestaslcn.cl}}</ref>
+|17–28 Oct 2025
+| bgcolor="#FFDFDF" |'''33.5%'''
+|17.7%
+|19.3%
+|19.3%
+|4.5%
+|0.7%
+|4.3%
+|0%
+| colspan="2" |—
+|-
+! colspan="12" |Second presidential debate (26 October 2025)
+|-
+|Cadem<ref>{{cite web|date=26 October 2025 |title=Plaza Pública Cadem. Cuarta semana de octubre - N°615 |url=https://cadem.cl/wp-content/uploads/2025/10/Track-PP-615-Octubre-S4-VF.pdf |website=Cadem |archive-date=14 November 2025 |archive-url=https://web.archive.org/web/20251114163223/https://cadem.cl/wp-content/uploads/2025/10/Track-PP-615-Octubre-S4-VF.pdf}}</ref>
+|22–24 Oct 2025
+| bgcolor="#FFDFDF" |'''27%'''
+|20%
+|13%
+|14%
+|11%
+|1%
+|4%
+|1%
+| colspan="2" |9%
+|-
+|Panel Ciudadano<ref>{{Cite web |date=25 October 2025 |title=Kast continua con tendencia a la baja y sube Parisi. Kaiser sigue en un sostenido ascenso. |url=https://panelciudadano.cl/wp-content/uploads/2025/10/PanelCiudadano_UDD_Presidencial24oct.pdf |access-date=14 November 2025 |website=Panel Ciudadano |language=es}}</ref>
+|22–24 Oct 2025
+| bgcolor="#FFDFDF" |'''25%'''
+|22%
+|16%
+|13%
+|11%
+|1%
+|2%
+|1%
+|5%
+|4%
+|-
+|Criteria<ref>{{cite web|date=26 October 2025 |title=Agenda Criteria 4° Medición Octubre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2025_M4.pdf |website=Criteria Research}}</ref>
+|21–23 Oct 2025
+| bgcolor="#FFDFDF" |'''28%'''
+|23%
+|13%
+|13%
+|9%
+|2%
+|4%
+|1%
+|—
+|7%
+|-
+|Black & White<ref>{{cite web|date=23 October 2025 |format=PDF |title=Jara (29%), Kast (25%) y Matthei (19%) mantienen primeros lugares: Kaiser está a solo un punto del tercer puesto |url=https://www.emol.com/noticias/Nacional/2025/10/24/1181281/black-white-pulso-presidencial-candidatos.html |website=Emol}}</ref>
+|21–22 Oct 2025
+| bgcolor="#FFDFDF" |'''29%'''
+|25%
+|19%
+|18%
+|6%
+|0%
+|3%
+|0%
+| colspan="2" |—
+|-
+|ICSO-UDP<ref>{{cite web|date=28 October 2025 |title=Encuesta ICSO UDP Octubre 2025, Serie Clima Social. Capítulo 6. ¿Da lo mismo quién gobierne? |url=https://icso.udp.cl/cms/wp-content/uploads/2025/10/Encuesta-ICSO-UDP-Octubre-.pdf |website=UDP}}</ref>
+|17–21 Oct 2025
+| bgcolor="#FFDFDF" |'''26%'''
+|24%
+|14%
+|10%
+|9%
+|1%
+|2%
+|0%
+|—
+|14%
+|-
+|Atlas Intel<ref>{{Cite web |title=Latam Pulse: Chile {{!}} October 2025 |url=https://cdn.atlasintel.org/7c04c300-234a-4899-abe5-55f7bbc0efd7.pdf |work=Atlas Intel |date=24 October 2025 |access-date=14 November 2025}}</ref>
+|15–19 Oct 2025
+| bgcolor="#FFDFDF" |'''32.7%'''
+|20.1%
+|13.8%
+|13.4%
+|13.2%
+|0.7%
+|2.1%
+|1.0%
+|2.7%
+|0.4%
+|-
+|Panel Ciudadano<ref>{{Cite web |date=18 October 2025 |title=Johannes Kaiser sube tres puntos y se acerca Evelyn Matthei |url=https://panelciudadano.cl/wp-content/uploads/2025/10/PanelCiudadano_UDD_Presidencial17-oct.pdf |access-date=14 November 2025 |website=Panel Ciudadano |language=es}}</ref>
+|16–17 Oct 2025
+| bgcolor="#FFDFDF" |'''24%'''
+|23%
+|16%
+|13%
+|9%
+|1%
+|2%
+|1%
+|5%
+|6%
+|-
+|Activa<ref>{{cite web|date=19 October 2025 |title=Pulso Ciudadano de Activa Research, octubre 2025, segunda quincena - N°112 |url=https://chile.activasite.com/wp-content/uploads/2025/10/252283_PULSO_CIUDADANO_OCTUBRE_Q1_1019_v3-MEDIOS-_compressed_compressed-1_compressed.pdf |website=Activa Research}}</ref>
+|15–17 Oct 2025
+| bgcolor="#FFDFDF" |'''25.4%'''
+|18.7%
+|12.6%
+|8.9%
+|10.4%
+|3.0%
+|2.1%
+|0.6%
+|9.8%
+|8.5%
+|-
+|Cadem<ref>{{cite web|date=19 October 2025 |title=Plaza Pública Cadem. Tercera semana de octubre - N°614 |url=https://cadem.cl/wp-content/uploads/2025/10/Track-PP-614-Octubre-S3-VF.pdf |website=Cadem |archive-date=14 November 2025 |archive-url=https://web.archive.org/web/20251114144059/https://cadem.cl/wp-content/uploads/2025/10/Track-PP-614-Octubre-S3-VF.pdf}}</ref>
+|15–17 Oct 2025
+| bgcolor="#FFDFDF" |'''26%'''
+|22%
+|14%
+|12%
+|11%
+|1%
+|4%
+|1%
+| colspan="2" |9%
+|-
+|Criteria<ref>{{cite web|date=19 October 2025 |title=Agenda Criteria 3° Medición Octubre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2025_M3.pdf |website=Criteria Research}}</ref>
+|14–17 Oct 2025
+| bgcolor="#FFDFDF" |'''29%'''
+|24%
+|15%
+|12%
+|9%
+|1%
+|3%
+|0%
+|—
+|7%
+|-
+|Black & White<ref>{{cite web|date=17 October 2025 |format=PDF |title=Pulso presidencial: Jara (30%) cae y Kast (27%) y Matthei (18%) suben a un mes de la primera vuelta |url=https://www.emol.com/noticias/Nacional/2025/10/17/1180636/black-white-pulso-presidencial-octubre.html |website=Emol}}</ref>
+|14–15 Oct 2025
+| bgcolor="#FFDFDF" |'''30%'''
+|27%
+|18%
+|16%
+|4%
+|0%
+|3%
+|1%
+| colspan="2" |—
+|-
+|LCN<ref>{{cite web|date=15 October 2025 |title=34ª Encuesta LCN — Primera quincena de octubre 2025 |url=https://www.encuestaslcn.cl/assets/pdfs/2025-10-15-encuesta-34.pdf |website=encuestaslcn.cl}}</ref>
+|3–13 Oct 2025
+| bgcolor="#FFDFDF" |'''36.0%'''
+|20.7%
+|18.3%
+|16.7%
+|2.3%
+|0.7%
+|4.7%
+|0.7%
+| colspan="2" |—
+|-
+|Panel Ciudadano<ref>{{Cite web |date=2025-10-10 |title=Encuesta Panel Ciudadano-UDD: Kast y Jara mantienen liderazgo en primera vuelta |url=https://panelciudadano.cl/wp-content/uploads/2025/10/PanelCiudadano_UDD_Presidencial10-oct.pdf |access-date=2025-11-14 |website=Panel Ciudadano |language=es}}</ref>
+|9–10 Oct 2025
+|24%
+| bgcolor="#CAD5E9" |'''25%'''
+|17%
+|10%
+|8%
+|1%
+|3%
+|1%
+|6%
+|5%
+|-
+|Criteria<ref>{{cite web|date=12 October 2025 |title=Agenda Criteria 2° Medición Octubre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2025_M2.pdf |website=Criteria Research}}</ref>
+|7–9 Oct 2025
+| bgcolor="#FFDFDF" |'''26%'''
+| bgcolor="#CAD5E9" |'''26%'''
+|17%
+|10%
+|8%
+|1%
+|3%
+|1%
+|—
+|8%
+|-
+|Black & White<ref>{{cite web|date=10 October 2025 |format=PDF |title=Pulso presidencial: Jara (31%) sube 3 puntos y Kast (25%) y Matthei (17%) caen 2 de cara a la primera vuelta |url=https://www.emol.com/noticias/Nacional/2025/10/10/1179999/pulso-presidencial-jara-kast-matthei.html |website=Emol}}</ref>
+|7–8 Oct 2025
+| bgcolor="#FFDFDF" |'''31%'''
+|25%
+|17%
+|14%
+|7%
+|1%
+|4%
+|1%
+| colspan="2" |—
+|-
+|Signos Analytics<ref>{{Cite web |date=2025-10-07 |title=Encuesta Signos: Jara se impone en mujeres y jóvenes a Kast, mientras Matthei casi duplica a Parisi |url=https://www.elmostrador.cl/noticias/pais/2025/10/07/encuesta-signos-jara-se-impone-en-mujeres-y-jovenes-a-kast-mientras-matthei-casi-duplica-a-parisi/ |access-date=2025-10-10 |website=El Mostrador |language=es}}</ref>
+|25 Sep–4 Oct 2025
+| bgcolor="#FFDFDF" |'''28.3%'''
+|24.2%
+|13.8%
+|8.1%
+|8.8%
+|2%
+|1.7%
+|0.5%
+|2.3%
+|10.2%
+|-
+|Panel Ciudadano<ref>{{Cite web |last=Ciudadano |first=Panel |date=2025-10-04 |title=Jara pasa a liderar carrera presidencial, pero no remonta en escenarios de segunda vuelta. Encuesta Panel Ciudadano-UDD. |url=https://panelciudadano.cl/jara-pasa-a-liderar-carrera-presidencial-pero-no-remonta-en-escenarios-de-segunda-vuelta-encuesta-panel-ciudadano-udd/ |access-date=2025-10-10 |website=Panel Ciudadano |language=es}}</ref>
+|2–3 Oct 2025
+| bgcolor="#FFDFDF" |'''27%'''
+|25%
+|16%
+|11%
+|8%
+|1%
+|2%
+|1%
+|5%
+|4%
+|-
+|Cadem<ref name=":86">{{cite web|date=5 October 2025 |title=Plaza Pública Cadem. Primera semana de octubre - N°612 |url=https://cadem.cl/wp-content/uploads/2025/10/Track-PP-612-Octubre-S1-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|1–3 Oct 2025
+| bgcolor="#FFDFDF" |'''27%'''
+|23%
+|15%
+|11%
+|10%
+|1%
+|4%
+|0%
+| colspan="2" |9%
+|-
+|Criteria<ref name=":85">{{cite web|date=5 October 2025 |title=Agenda Criteria 1° Medición Octubre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2025_M1.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|30 Sep–2 Oct 2025
+| bgcolor="#FFDFDF" |'''27%'''
+|26%
+|17%
+|10%
+|8%
+|1%
+|4%
+|1%
+|—
+|6%
+|-
+|Studio Público<ref>{{Cite web |last=González |first=Antonio |date=2025-10-01 |title=Studio Público: Jara amplía ventaja sobre Kast e irrumpe Kaiser dejando en el cuarto puesto a Matthei |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/10/01/studio-publico-jara-amplia-ventaja-sobre-kast-e-irrumpe-kaiser-dejando-en-el-cuarto-puesto-a-matthei.shtml |access-date=2025-10-10 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>
+|26–30 Sep 2025
+| bgcolor="#FFDFDF" |'''37.5%'''
+|23.9%
+|11.9%
+|14.7%
+|5.1%
+|0.8%
+|3.1%
+|0%
+|1.1%
+|1.9%
+|-
+|Panel Ciudadano<ref name=":79">{{cite web|date=27 September 2025 |title=Kast y Jara se mantienen en los primeros lugares, pero candidata oficialista sigue sin remontar en eventual balotaje |url=https://panelciudadano.cl/wp-content/uploads/2025/09/PanelCiudadano_UDD_Presidencial26sept.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|25–26 Sep 2025
+| bgcolor="#FFDFDF" |'''25%'''
+| bgcolor="#CAD5E9" |'''25%'''
+|16%
+|10%
+|9%
+|2%
+|3%
+|0%
+|5%
+|5%
+|-
+|Cadem<ref>{{cite web|date=28 September 2025 |title=Plaza Pública Cadem. Tercera semana de septiembre - N°611 |url=https://cadem.cl/wp-content/uploads/2025/09/Track-PP-611-Septiembre-S4-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|24–26 Sep 2025
+| bgcolor="#FFDFDF" |'''26%'''
+|23%
+|17%
+|11%
+|9%
+|1%
+|5%
+|0%
+| colspan="2" |8%
+|-
+|Activa<ref name=":81">{{cite web|date=28 September 2025 |title=Pulso Ciudadano Septiembre 2025 |url=https://media-front.elmostrador.cl/2025/09/file_20250928102727.pdf |website=elmostrador.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|23–26 Sep 2025
+| bgcolor="#FFDFDF" |'''23.9%'''
+|17.8%
+|11.7%
+|10.1%
+|11.8%
+|1.4%
+|2.8%
+|0.7%
+|11.3%
+|8.5%
+|-
+|Data Influye<ref>{{cite web|date=30 September 2025 |format=PDF |title=Debates presidenciales y redes sociales, gobierno, economía y tendencias |url=https://www.paneltuinfluyes.com/e/septiembre-2025? |website=Tú Influyes}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|22–26 Sep 2025
+| bgcolor="#FFDFDF" |'''27%'''
+|26%
+|15%
+|8%
+|7%
+|1%
+|5%
+|1%
+|6%
+|4%
+|-
+|La Cosa Nostra<ref name=":83">{{cite web|date=1 October 2025 |title=33ª Encuesta LCN — Segunda quincena de septiembre 2025 |url=https://www.encuestaslcn.cl/assets/pdfs/2025-10-01-encuesta-33.pdf |website=encuestaslcn.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|17–26 Sep 2025
+| bgcolor="#FFDFDF" |'''37.7%'''
+|22.2%
+|18.2%
+|13.8%
+|2.8%
+|1.0%
+|4.0%
+|0.7%
+| colspan="2" |—
+|-
+|Criteria<ref name=":82">{{cite web|date=28 September 2025 |title=Agenda Criteria 4° Medición Septiembre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Septiembre_2025_M4.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|23–25 Sep 2025
+| bgcolor="#FFDFDF" |'''30%'''
+|24%
+|14%
+|10%
+|9%
+|2%
+|3%
+|1%
+|—
+|7%
+|-
+|ICSO-UDP<ref>{{cite web|date=2 October 2025 |title=Encuesta ICSO UDP Septiembre 2025, Serie Clima Social. Capítulo 5. Privilegios e impunidad |url=https://icso.udp.cl/cms/wp-content/uploads/2025/10/Encuesta-ICSO-UDP-Privilegio-e-Impunidad.pdf |website=UDP}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|22–25 Sep 2025
+| bgcolor="#FFDFDF" |'''27.0%'''
+|24.6%
+|12.2%
+|9.6%
+|9.6%
+|1.1%
+|4.8%
+|0.5%
+|—
+|10.6%
+|-
+|Black & White<ref name=":80">{{cite web|date=28 September 2025 |format=PDF |title=Pulso presidencial: Posiciones se mantienen con Jara (30%) liderando la primera vuelta seguida por Kast (26%) |url=https://www.emol.com/noticias/Nacional/2025/09/26/1178787/pulso-presidencial-posiciones-se-mantienen.html |website=Emol}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|23–24 Sep 2025
+| bgcolor="#FFDFDF" |'''30%'''
+|26%
+|19%
+|11%
+|6%
+|1%
+|4%
+|1%
+| colspan="2" |3%
+|-
+|Data Veritas<ref>{{cite web|date=2025-09-30 |title=La encuesta propia que mandaron a hacer los libertarios para medir la carrera a La Moneda: Johannes Kaiser también figura en cuarto lugar |url=https://www.theclinic.cl/2025/09/30/la-encuesta-propia-que-mandaron-a-hacer-los-libertarios-para-medir-la-carrera-a-la-moneda-johannes-kaiser-tambien-figura-en-cuarto-lugar |website=The Clinic}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|17–20 Sep 2025
+| bgcolor="#FFDFDF" |'''32.4%'''
+|22.2%
+|17.1%
+|15.2%
+|7.5%
+|0.1%
+|3.2%
+|0.5%
+|1.9%
+|—
+|-
+|Panel Ciudadano<ref name=":78">{{cite web|date=20 September 2025 |title=Candidatos mantienen apoyos en primera vuelta y Matthei aumenta ventaja sobre Jara en eventual balotaje |url=https://panelciudadano.cl/wp-content/uploads/2025/09/PanelCiudadano_UDD_Presidenciales-19sept.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|18–19 Sep 2025
+|23%
+| bgcolor="#CAD5E9" |'''25%'''
+|17%
+|9%
+|10%
+|1%
+|4%
+|1%
+|5%
+|5%
+|-
+|Cadem<ref>{{cite web|date=21 September 2025 |title=Plaza Pública Cadem. Tercera semana de septiembre - N°610 |url=https://cadem.cl/wp-content/uploads/2025/09/Track-PP-610-Septiembre-S3-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|17 Sep 2025
+| bgcolor="#FFDFDF" |'''26%'''
+|24%
+|16%
+|9%
+|11%
+|1%
+|5%
+|1%
+| colspan="2" |7%
+|-
+|Black & White<ref>{{cite web|access-date=2025-09-19 |date=2025-09-19 |first=El Mercurio |language=es |last=S.A.P |title=B&W: Kast (26%) cae seis puntos y es sobrepasado por Jara (29%) mientras Matthei (20%) arremete en el tercer lugar |url=https://www.emol.com/noticias/Nacional/2025/09/19/1178176/black-white-kast-jara-presidenciales.html |website=Emol}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|16–17 Sep 2025
+| bgcolor="#FFDFDF" |'''28.9%'''
+|25.9%
+|19.7%
+|12.2%
+|4.3%
+|0.7%
+|5.5%
+|0.9%
+|0.6%
+|1.5%
+|-
+|Criteria<ref name=":77">{{cite web|date=20 September 2025 |title=Agenda Criteria 3° Medición Septiembre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Septiembre_2025_M3.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|15–17 Sep 2025
+| bgcolor="#FFDFDF" |'''29%'''
+|25%
+|16%
+|10%
+|8%
+|1%
+|3%
+|1%
+|—
+|7%
+|-
+|Panel Ciudadano<ref name=":64">{{cite web|date=13 September 2025 |title=Panel Ciudadano UDD tras debate: Kast cae tres puntos e iguala con Jara, mientras que suben Kaiser y Mayne-Nicholls |url=https://panelciudadano.cl/wp-content/uploads/2025/09/Presidencial-12-Sep-El-Mercurio.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|11–12 Sep 2025
+| bgcolor="#FFDFDF" |'''24%'''
+| bgcolor="#CAD5E9" |'''24%'''
+|16%
+|10%
+|9%
+|2%
+|4%
+|1%
+|5%
+|5%
+|-
+|Criteria<ref name=":65">{{cite web|date=14 September 2025 |title=Agenda Criteria 2° Medición Septiembre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Septiembre_2025_M2.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|11 Sep 2025
+| bgcolor="#FFDFDF" |'''29%'''
+|27%
+|13%
+|10%
+|7%
+|2%
+|3%
+|1%
+|—
+|8%
+|-
+|Atlas Intel<ref>{{Cite web |title=Latam Pulse: Chile {{!}} September 2025 |url=https://cdn.atlasintel.org/944bba51-1bdd-4366-aab4-8de618233fa5.pdf |work=Atlas Intel |date=17 September 2025 |access-date=14 November 2025}}</ref>
+|10–14 Sep 2025
+| bgcolor="#FFDFDF" |'''38.9%'''
+|24.7%
+|11.8%
+|9.0%
+|14.5%
+|—
+|—
+|—
+|0%
+|1.2%
+|-
+|Cadem<ref name=":66">{{cite web|date=14 September 2025 |title=Plaza Pública Cadem. Segunda semana de septiembre - N°609 |url=https://cadem.cl/wp-content/uploads/2025/09/Track-PP-609-Septiembre-S2-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|10–12 Sep 2025
+| bgcolor="#FFDFDF" |'''26%'''
+|25%
+|18%
+|8%
+|11%
+|1%
+|3%
+|1%
+| colspan="2" |7%
+|-
+|Black & White<ref>{{cite web|access-date=2025-09-12 |date=2025-09-12 |first=El Mercurio |language=es |last=S.A.P |title=B&W: Jara (26%) cae seis puntos y la mayoría (37%) cree que tuvo el peor desempeño del debate |url=https://www.emol.com/noticias/Nacional/2025/09/12/1177640/black-white-debate-presidencial-candidatos.html |website=Emol}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|10–11 Sep 2025
+|25.7%
+| bgcolor="#CAD5E9" |'''31.6%'''
+|17.9%
+|8.7%
+|7.1%
+|0.9%
+|4.0%
+|0.9%
+|1.5%
+|1.8%
+|-
+|Signos Analytics<ref>{{cite web|date=15 September 2025 |title=Encuesta quincenal signos |url=https://g5noticias.cl/wp-content/uploads/2025/09/Encuesta-Signos-Nacional-15-de-septiembre-de-2025.pdf |website=g5noticias.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|9–14 Sep 2025
+| bgcolor="#FFDFDF" |'''28.3%'''
+|25.4%
+|13.8%
+|6.8%
+|9%
+|1.5%
+|1.2%
+|0.3%
+|2.5%
+|11.2%
+|-
+|LCN<ref name=":70">{{cite web|date=15 September 2025 |title=32ª Encuesta LCN — Primera quincena de septiembre 2025 |url=https://www.encuestaslcn.cl/assets/pdfs/2025-09-15-encuesta-32.pdf |website=encuestaslcn.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|2–12 Sep 2025
+| bgcolor="#FFDFDF" |'''36.2%'''
+|24.7%
+|20.2%
+|11.8%
+|2.2%
+|1.2%
+|3.2%
+|0.7%
+| colspan="2" |—
+|-
+! colspan="12" |First presidential debate (10 September 2025)
+|-
+|Panel Ciudadano<ref name=":61">{{cite web|access-date=2025-09-06 |date=2025-09-06 |title=Matthei repunta y Kast mantiene ventaja pese a polémicas de bots y "Chao Préstamo". |url=https://panelciudadano.cl/wp-content/uploads/2025/09/PanelCiudadano_UDD-Presidencial-05sept.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|4–5 Sep 2025
+|24%
+| bgcolor="#CAD5E9" |'''27%'''
+|18%
+|6%
+|10%
+|2%
+|2%
+|1%
+|10%
+|—
+|-
+|Cadem<ref name=":62">{{cite web|date=7 September 2025 |title=Plaza Pública Cadem. Primera semana de septiembre - N°608 |url=https://cadem.cl/wp-content/uploads/2025/09/Track-PP-608-Septiembre-S1-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|3–5 Sep 2025
+| bgcolor="#FFDFDF" |'''28%'''
+|26%
+|16%
+|8%
+|11%
+|1%
+|2%
+|1%
+| colspan="2" |7%
+|-
+|Criteria<ref name=":63">{{cite web|date=7 September 2025 |title=Agenda Criteria 1° Medición Septiembre 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Septiembre_2025_M1.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|2–4 Sep 2025
+| bgcolor="#FFDFDF" |'''29%'''
+|27%
+|17%
+|9%
+|7%
+|1%
+|2%
+|0%
+|—
+|8%
+|-
+|Black & White<ref>{{cite web|access-date=2025-09-06 |date=2025-09-05 |first=El Mercurio |language=es |last=S.A.P |title=Pulso presidencial: Matthei (18%) sube 3 puntos, Kast (28%) vuelve a caer y Jara (32%) mantiene liderazgo |url=https://www.emol.com/noticias/Nacional/2025/09/05/1176968/pulso-presidencial-matthei-kast-encuesta.html |website=Emol}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|2–3 Sep 2025
+| bgcolor="#FFDFDF" |'''31.9%'''
+|27.9%
+|18.2%
+|9.6%
+|5.1%
+|1.6%
+|1.8%
+|0.6%
+|1.2%
+|2.2%
+|-
+|Data Influye<ref>{{cite web|date=3 September 2025 |format=PDF |title=Economía, gobierno, presidencial y tendencias |url=https://www.paneltuinfluyes.com/e/agosto-2025? |website=Tú influyes}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|27–31 Aug 2025
+| bgcolor="#FFDFDF" |'''27%'''
+|22%
+|13%
+|6%
+|6%
+|2%
+|2%
+|1%
+|9%
+|13%
+|-
+|Panel Ciudadano<ref name=":57">{{cite web|title=Intención de Voto Presidencial |url=https://panelciudadano.cl/wp-content/uploads/2025/08/PanelCiudadano_UDD_Presidencial-29-ago.pdf |website=Panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|28–29 Aug 2025
+|24%
+| bgcolor="#CAD5E9" |'''28%'''
+|14%
+|7%
+|10%
+|2%
+|2%
+|0%
+|5%
+|8%
+|-
+|Cadem<ref>{{cite web|date=31 August 2025 |title=Plaza Pública Cadem. Quinta semana de agosto - N°607 |url=https://cadem.cl/wp-content/uploads/2025/08/Track-PP-607-Agosto-S5-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|27–29 Aug 2025
+|26%
+| bgcolor="#CAD5E9" |'''27%'''
+|14%
+|8%
+|11%
+|3%
+|2%
+|0%
+| colspan="2" |9%
+|-
+| rowspan="2" |Activa<ref name=":58">{{cite web|date=1 September 2025 |title=Pulso Ciudadano de Activa Research, agosto 2025, segunda quincena - N°110 |url=https://chile.activasite.com/wp-content/uploads/2025/09/251005_PULSO_CIUDADANO_AGOSTO_Q2_0831_V2.pdf |website=Activa Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+| rowspan="2" |26–29 Aug 2025
+| bgcolor="#FFDFDF" |'''32.2%'''
+|25.4%
+|17.1%
+|7.2%
+|11,1%
+|3.4%
+|1.6%
+|2.0%
+| colspan="2" |—
+|-
+| bgcolor="#FFDFDF" |'''24.6%'''
+|19.4%
+|13.1%
+|5.5%
+|8.5%
+|2.6%
+|1.2%
+|1.5%
+|10.5%
+|13.1%
+|-
+|LCN<ref>{{Cite web |title="31ª Encuesta LCN — Segunda quincena de agosto 2025" |url=https://encuestaslcn.cl/assets/pdfs/2025-08-30-encuesta-31.pdf}}</ref>
+|16–28 Aug 2025
+| bgcolor="#FFDFDF" |'''36.0%'''
+|25.2%
+|17.3%
+|11.8%
+|4.3%
+|1.3%
+|3.5%
+|0.5%
+| colspan="2" |—
+|-
+|Criteria<ref name=":60">{{cite web|date=31 August 2025 |title=Agenda Criteria 4° Medición Agosto 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Agosto_2025_M4.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|26–28 Aug 2025
+|27%
+| bgcolor="#CAD5E9" |'''28%'''
+|14%
+|8%
+|9%
+|2%
+|2%
+|1%
+| colspan="2" |9%
+|-
+|Black & White<ref>{{Cite web |last=S.A.P |first=El Mercurio |date=2025-08-29 |title=Pulso presidencial: Jara (32%) pasa a la delantera en primera vuelta y Kast (30%) cae 5 puntos respecto a la semana pasada |url=https://www.emol.com/noticias/Nacional/2025/08/29/1176308/pulso-presidencial-jara-kast-black.html |access-date=2025-10-10 |website=Emol |language=es}}</ref>
+|26–27 Aug 2025
+| bgcolor="#FFDFDF" |'''32.0%'''
+|29.9%
+|14.7%
+|10.8%
+|4,.5%
+|1.7%
+|1.9%
+|0.9%
+|2.0%
+|1.0%
+|-
+|Atlas Intel<ref>{{Cite web |title="AGOSTO 2025 LATAM PULSE CHILE" |url=https://cdn.atlasintel.org/59845656-50c0-4508-b5fb-30f0c16577f0.pdf}}</ref>
+|20–25 Aug 2025
+| bgcolor="#FFDFDF" |'''33.2%'''
+|21.6%
+|18.7%
+|9.2%
+|15.8%
+|—
+|—
+|—
+| colspan="2" |1.5%
+|-
+|Panel Ciudadano<ref name=":53">{{cite web|date=23 August 2025 |title=Intención de voto presidencial |url=https://panelciudadano.cl/wp-content/uploads/2025/08/PanelCiudadano_UDD_Presidenciales22ago.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|21–22 Aug 2025
+|25%
+| bgcolor="#CAD5E9" |'''28%'''
+|14%
+|8%
+|9%
+|2%
+|1%
+|1%
+|6%
+|6%
+|-
+|Cadem<ref name=":55">{{cite web|date=24 August 2025 |title=Plaza Pública Cadem. Cuarta semana de agosto - N°606 |url=https://cadem.cl/wp-content/uploads/2025/08/Track-PP-606-Agosto-S4-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|20–22 Aug 2025
+|27%
+| bgcolor="#CAD5E9" |'''28%'''
+|14%
+|7%
+|11%
+|1%
+|1%
+|1%
+| colspan="2" |9%
+|-
+|Criteria<ref name=":54">{{cite web|date=24 August 2025 |title=Agenda Criteria 3° Medición Agosto 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Agosto_2025_M3.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|19–21 Aug 2025
+|28%
+| bgcolor="#CAD5E9" |'''30%'''
+|14%
+|8%
+|8%
+|2%
+|2%
+|1%
+|—
+|7%
+|-
+|Black & White<ref>{{Cite web |last=S.A.P |first=El Mercurio |date=2025-08-22 |title=Kast (35%) sube 6 puntos y desplaza a Jara (30%) que cae 5: El termómetro de la presidencial y la parlamentaria |url=https://www.emol.com/noticias/Nacional/2025/08/22/1175652/black-white-encuesta-kast-jara.html |access-date=2025-10-10 |website=Emol |language=Spanish}}</ref>
+|19–20 Aug 2025
+|30%
+| bgcolor="#CAD5E9" |'''35%'''
+|14%
+|11%
+|5%
+|0%
+|2%
+|0%
+|2%
+|1%
+|}
+
+=== Opinion polls before candidate registration ===
+Potential candidates are arranged on the left-right axis according to the coalition or party they belong to, with independents, who are outside any coalition, to the right of the table. The highest percentage for each survey is shown shaded and in bold.
+
+==== After the Unity for Chile primary ====
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Polling firm
+! rowspan="3" |Date
+! rowspan="3" |Sample size
+! rowspan="3" |Margin of error
+![[File:Live_Especial_Mujeres_Comité_Político,_Ministra_Jannette_Jara_(cropped).jpg|70x70px]]
+![[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|70x70px]]
+![[File:Evelyn-Matthei (cropped).jpg|70x70px]]
+![[File:José Antonio Kast en 2025 (cropped).jpg|70x70px]]
+![[File:Johannes Kaiser (BCN) (cropped).jpg|70x70px]]
+! rowspan="3" |{{Abbr|Other|Another candidate}}
+! rowspan="3" |{{Abbr|DK/NA|None, don't know or no answer}}
+|-
+![[Jeannette Jara|Jara]]<br /><small>[[Unidad por Chile|UPCh]]</small>
+![[Franco Parisi|Parisi]]<br /><small>[[Party of the People (Chile)|PDG]]</small>
+![[Evelyn Matthei|Matthei]]<br /><small>[[Independent Democratic Union|UDI]]</small>
+![[José Antonio Kast|Kast]]<br /><small>[[Republican Party (Chile, 2019)|PLR]]</small>
+![[Johannes Kaiser (Chilean politician)|Kaiser]]<br /><small>[[National Libertarian Party|PNL]]</small>
+|-
+| bgcolor="{{party color|Unidad por Chile}}" |
+| bgcolor="#181644" |
+| bgcolor="#000080" |
+| bgcolor="#31446C" |
+| bgcolor="#F28500" |
+|-
+|Data Influye<ref name=":35">{{cite web|date=9 July 2025 |format=PDF |title=Carrera presidencial, gobierno, economía y tendencias |url=https://www.paneltuinfluyes.com/e/junio-2025? |website=Tú Influyes}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|1–6 Jul 2025
+|1.094
+|±2.9%
+| bgcolor="#FFDFDF" |'''39%'''
+|5%
+|15%
+|23%
+|7%
+| colspan="2" |7%
+|-
+|Cadem<ref>{{cite web|date=6 July 2025 |title=Plaza Pública Cadem. Primera semana de julio - N°599 |url=https://cadem.cl/wp-content/uploads/2025/07/Track-PP-599-Julio-S1.-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|2–4 Jul 2025
+|703
+|±3.7%
+| bgcolor="#FFDFDF" |'''26%'''
+|10%
+|18%
+|22%
+|6%
+|—
+|10%
+|-
+|Criteria<ref name=":34">{{cite web|date=6 July 2025 |title=Agenda Criteria Julio 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Julio_2025_M1.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|1–3 Jul 2025
+|1,002
+|N.A.
+| bgcolor="#FFDFDF" |'''31%'''
+|9%
+|18%
+|22%
+|8%
+|—
+| colspan="2" |9%
+|-
+|B&W<ref>{{Cite web |last=S.A.P |first=El Mercurio |date=2025-07-04 |title=B&W: Jara se impondría en primera vuelta (39%) y Matthei ganaría en cualquier escenario si pasa al balotaje |url=https://www.emol.com/noticias/Nacional/2025/07/04/1171130/encuesta-presidencial-blacj-and-white.html |access-date=2025-07-05 |website=Emol |language=Spanish}}</ref>
+|1-2 Jul 2025
+|929
+|±3.2%
+| bgcolor="#FFDFDF" | '''39%'''
+|5%
+|18%
+|25%
+|9%
+| colspan="2" |4%
+|-
+|Activa<ref>{{Cite web |title=Pulso Ciudadano |url=https://chile.activasite.com/estudios/pulso-ciudadano-94/ |access-date=2025-07-03 |website=Somos Activa}}</ref>
+|30 Jun-1 Jul 2025
+|1,006
+|±3.1%
+| bgcolor="#FFDFDF" | '''33.8%'''
+|8.9%
+|16.8%
+|17.3%
+|4.3%
+|colspan="2" |15.3%
+|-
+|Panel Ciudadano<ref>{{Cite web |last=Ciudadano |first=Panel |date=2025-07-02 |title=Jara arriba, Parisi sólido y Mayne-Nicholls apareciendo: así quedó la nueva torta presidencial. |url=https://panelciudadano.cl/jara-arriba-parisi-solido-y-mayne-nicholls-apareciendo-asi-quedo-la-nueva-torta-presidencial/ |access-date=2025-07-04 |website=Panel Ciudadano |language=es}}</ref>
+|29-30 Jun 2025
+|3,873
+|±2%
+| bgcolor="#FFDFDF" | '''26%'''
+|7%
+|19%
+|23%
+|9%
+|11%
+|5%
+|-
+|Atlas Intel<ref>{{cite web |title=Latam Pulse Chile. Junio 2025 |url=https://atlasintel.org/latam-pulse-chile-junio-2025.pdf |website=AtlasIntel |date=8 July 2025 |language=Spanish }}</ref>
+|27–30 Jun 2025
+|3,869
+|±2%
+| bgcolor="#FFDFDF" | '''38%'''
+|15.2%
+|18.5%
+|20.2%
+|5.8%
+| colspan="2" |2.4%
+|}
+
+==== After the official announcement of candidates ====<!--{{#chart:Opinion polling for the 2025 Chilean presidential election.chart}}-->
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Polling firm
+! rowspan="3" |Date
+![[File:Live_Especial_Mujeres_Comité_Político,_Ministra_Jannette_Jara_(cropped).jpg|70x70px]]
+![[File:Gonzalo Winter Etcheberry.jpg|70x70px]]
+![[File:MARCO_ENRÍQUEZ-OMINAMI_foto_campaña_2022.jpg|70x70px]]
+![[File:Jaime_Mulet_Martínez.jpg|70x70px]]
+![[File:Vocería Ministra Camila Vallejo junto a las ministras Carolina Tohá, Ana Lya Uriarte y Marcela Ríos (cropped).jpg|70x70px]]
+![[File:Alberto_Undurraga_Vicuña_(2022).jpg|70x70px]]
+![[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|70x70px]]
+![[File:Evelyn-Matthei (cropped).jpg|70x70px]]
+![[File:Francesca Muñoz.jpg|70x70px]]
+![[File:José Antonio Kast en 2025 (cropped).jpg|70x70px]]
+![[File:Johannes Kaiser (BCN) (cropped).jpg|70x70px]]
+![[File:Rodolfo Carter, alcalde de La Florida durante una reunión (cropped).jpg|70x70px]]
+![[File:Thellusson-Mayne Nicholls cropped.jpg|63x63px]]
+! rowspan="3" |{{Abbr|Other|Another candidate}}
+! rowspan="3" |{{Abbr|DK/NA|None, don't know or no answer}}
+|-
+![[Jeannette Jara|Jara]]<br /><small>[[Communist Party of Chile|PC]]</small>
+![[Gonzalo Winter|Winter]]<br /><small>[[Frente Amplio (Chilean political party)|FA]]</small>
+![[Marco Enríquez-Ominami|ME-O]]<br /><small>[[Independent (politics)|Ind.]]</small>
+![[Jaime Mulet|Mulet]]<br /><small>[[Social Green Regionalist Federation|FRVS]]</small>
+![[Carolina Tohá|Tohá]]<br /><small>[[Party for Democracy (Chile)|PPD]]</small>
+![[Alberto Undurraga|Undurraga]]<br /><small>[[Christian Democratic Party (Chile)|PDC]]</small>
+![[Franco Parisi|Parisi]]<br /><small>[[Party of the People (Chile)|PDG]]</small>
+![[Evelyn Matthei|Matthei]]<br /><small>[[Independent Democratic Union|UDI]]</small>
+![[Francesca Muñoz|Muñoz]]<br /><small>[[Christian Social Party (Chile)|PSC]]</small>
+![[José Antonio Kast|Kast]]<br /><small>[[Republican Party (Chile, 2019)|PLR]]</small>
+![[Johannes Kaiser (Chilean politician)|Kaiser]]<br /><small>[[National Libertarian Party|PNL]]</small>
+![[Rodolfo Carter|Carter]]<br /><small>[[Independent (politics)|Ind.]]</small>
+![[Harold Mayne-Nicholls|Mayne-Nicholls]]<br /><small>[[Independent (politics)|Ind.]]</small>
+|-
+| bgcolor="#8B0000" |
+| bgcolor="#2FA8E0" |
+| bgcolor="#8B8B8B" |
+| bgcolor="green" |
+| bgcolor="#ffbf00" |
+| bgcolor="#1E90FF" |
+| bgcolor="#181644" |
+| bgcolor="#000080" |
+| bgcolor="#0096BA" |
+| bgcolor="#31446C" |
+| bgcolor="#F28500" |
+| bgcolor="#8B8B8B" |
+| bgcolor="#8B8B8B" |
+|-
+|Cadem<ref>{{Cite web| title=Insight CHILE | url=https://cadem.cl/wp-content/uploads/2025/06/Track-PP-598-Junio-S4.-VF.pdf | archive-url=https://web.archive.org/web/20250630011952/https://cadem.cl/wp-content/uploads/2025/06/Track-PP-598-Junio-S4.-VF.pdf | archive-date=2025-06-30}}</ref>
+|25–27 Jun 2025
+|16%
+|2%
+|—
+|—
+|4%
+|—
+|10%
+|10%
+|—
+| bgcolor="#CAD5E9" |'''24%'''
+|4%
+|—
+|—
+|4%
+|26%
+|-
+|-
+|Cadem{{citation needed|date=November 2025}}
+|17–19 Jun 2025
+|13%
+|4%
+|—
+|—
+|6%
+|—
+|7%
+|12%
+|—
+| bgcolor="#CAD5E9" |'''19%'''
+|6%
+|—
+|—
+|4%
+|29%
+|-
+|Cadem{{citation needed|date=November 2025}}
+|11–13 Jun 2025
+|13%
+|4%
+|—
+|—
+|6%
+|—
+|5%
+|14%
+|—
+| bgcolor="#CAD5E9" |'''18%'''
+|5%
+|—
+|—
+|5%
+|30%
+|-
+|Cadem<ref>{{cite web|date=8 June 2025 |title=Plaza Pública Cadem. Primera semana de junio - N°595 |url=https://cadem.cl/wp-content/uploads/2025/06/Track-PP-594-Mayo-S5-VF-1.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|4–6 Jun 2025
+|8%
+|5%
+|—
+|—
+|7%
+|—
+|5%
+|16%
+|—
+| bgcolor="#CAD5E9" |'''17%'''
+|7%
+|—
+|—
+|3%
+|32%
+|-
+|ICSO-UDP<ref>{{Cite web| title=Los cuidados: ternuras y cansancios | language=es | trans-title=Care: tenderness and tiredness | url=https://media-front.elmostrador.cl/2025/06/Encuesta-ICSO-UDP-junio-V8.pdf | archive-url=https://web.archive.org/web/20250612150502/https://media-front.elmostrador.cl/2025/06/Encuesta-ICSO-UDP-junio-V8.pdf | archive-date=2025-06-12}}</ref>
+|30 May–4 Jun 2025
+|7.3%
+|5.5%
+|2.7%
+|0.5%
+|7.8%
+|—
+|5.7%
+| bgcolor="#BFBFDF" |'''22.8%'''
+|1%
+|22.6%
+|8.1%
+|—
+|1.8%
+|—
+|15%
+|-
+|Criteria{{citation needed|date=November 2025}}
+|2–4 Jun 2025
+|7%
+|5%
+|—
+|—
+|8%
+|—
+|4%
+| bgcolor="#BFBFDF" |'''24%'''
+|—
+|20%
+|8%
+|—
+|—
+|10%
+|14%
+|-
+|Data Influye<ref>{{cite web|date=4 June 2025 |format=PDF |title=Temor en Chile. primarias y presidencial, gobierno, economía y tendencias |url=https://datainfluye.cl/mayo-2025 |website=Tú Influyes}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|28 May–1 Jun 2025
+|11%
+|6%
+|2%
+|—
+|12%
+|—
+|3%
+| bgcolor="#BFBFDF" |'''17%'''
+|—
+|16%
+|9%
+|—
+|—
+|8%
+|17%
+|-
+|Activa<ref>{{cite web|date=2 June 2025 |title=Pulso Ciudadano de Activa Research, mayo 2025, segunda quincena - N°106 |url=https://chile.activasite.com/wp-content/uploads/2025/06/251002_PULSO_CIUDADANO_MAYO_2025_0530_V2.pdf |website=Activa Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|28–30 May 2025
+|7.4%
+|3.6%
+|—
+|—
+|6.4%
+|—
+|5.8%
+| bgcolor="#BFBFDF" |'''21.5%'''
+|—
+|17.5%
+|7.4%
+|—
+|—
+|17.3%
+|13.1%
+|-
+|Cadem<ref>{{cite web|date=1 June 2025 |title=Plaza Pública Cadem. Quinta semana de mayo - N°594 |url=https://cadem.cl/wp-content/uploads/2025/06/Track-PP-594-Mayo-S5-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|28–30 May 2025
+|7%
+|3%
+|—
+|—
+|8%
+|—
+|6%
+| bgcolor="#BFBFDF" |'''19%'''
+|—
+|16%
+|7%
+|—
+|—
+|3%
+|31%
+|-
+|Atlas Intel<ref>{{cite web|date=30 May 2025 |format=PDF |title=Latam Pulse Chile. Mayo 2025 |url=https://www.atlasintel.org/poll/latam-pulse-chile-may-2025-2025-05-30 |website=Atlas Intel}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|21–26 May 2025
+|9.9%
+|11%
+|—
+|—
+| bgcolor="#FFE8BF" |'''16.7%'''
+|—
+|12.1%
+|16.6
+|—
+|15,6%
+|11.2%
+|—
+|—
+| colspan="2" |6.9%
+|-
+|Cadem<ref>{{cite web|date=25 May 2025 |title=Plaza Pública Cadem. Cuarta semana de mayo - N°593 |url=https://cadem.cl/wp-content/uploads/2025/05/Track-PP-593-Mayo-S4-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|22–23 May 2025
+|5%
+|5%
+|—
+|—
+|10%
+|—
+|4%
+| bgcolor="#BFBFDF" |'''17%'''
+|—
+|16%
+|6%
+|—
+|—
+|5%
+|32%
+|-
+|Panel Ciudadano<ref name=":29">{{cite web|date=22 May 2025 |title=Panel Ciudadano-UDD: Kaiser cae ocho puntos en dos meses y Kast se consolida segundo |url=https://panelciudadano.cl/wp-content/uploads/2025/05/PanelCiudadano-UDD-Presidenciales-Primera-y-segunda-Extendida_v1.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|20 May 2025
+|8%
+|7%
+|3%
+|—
+|10%
+|—
+|5%
+| bgcolor="#BFBFDF" |'''22%'''
+|—
+|17%
+|9%
+|2%
+|—
+| colspan="2" |17%
+|-
+|Cadem<ref>{{cite web|date=18 May 2025 |title=Plaza Pública Cadem. Tercera semana de mayo - N°592 |url=https://cadem.cl/wp-content/uploads/2025/05/Track-PP-592-Mayo-S3-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|14–16 May 2025
+|5%
+|6%
+|—
+|—
+|10%
+|—
+|3%
+| bgcolor="#BFBFDF" |'''17%'''
+|—
+| bgcolor="#CAD5E9" |'''17%'''
+|6%
+|—
+|—
+|6%
+|30%
+|-
+|B&W<ref>{{cite web|access-date=2025-05-18 |first=El |language=es |last=Dínamo |title=Encuesta Black & White: Kaiser, Kast y Tohá disputan paso a segunda vuelta, mientras Matthei sigue liderando carrera presidencial |url=https://www.eldinamo.cl/politica/2025/05/16/encuesta-black-white-kaiser-kast-y-toha-disputan-paso-a-segunda-vuelta-mientras-matthei-sigue-liderando-carrera-presidencial/ |website=El Dínamo {{!}} Noticias de Chile y el mundo}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|13-14 May 2025
+|13%
+|8%
+|—
+|1%
+|15%
+|—
+|4%
+| bgcolor="#BFBFDF" |'''20%'''
+|1%
+|15%
+|17%
+|—
+|—
+|—
+|7%
+|-
+|Criteria<ref>{{cite web|date=18 May 2025 |title=Agenda Criteria 2° Medición Mayo 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_2da_Medicion_Mayo_2025.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|12–14 May 2025
+|5%
+|5%
+|2%
+|—
+|10%
+|—
+|2%
+| bgcolor="#BFBFDF" |'''26%'''
+|—
+|17%
+|10%
+|—
+|—
+|10%
+|13%
+|-
+|Cadem<ref name=":28">{{cite web|date=11 May 2025 |title=Plaza Pública Cadem. Segunda semana de mayo - N°591 |url=https://cadem.cl/wp-content/uploads/2025/05/Track-PP-591-Mayo-S2-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|7–9 May 2025
+|4%
+|6%
+|—
+|—
+|12%
+|—
+|4%
+| bgcolor="#BFBFDF" |'''20%'''
+|—
+|14%
+|6%
+|—
+|1%
+|5%
+|28%
+|-
+|ICSO-UDP<ref>{{cite web|date=15 May 2025 |title=Serie "Clima Social". Capítulo 1: Rabias y Temores. Mayo 2025 |url=https://icso.udp.cl/cms/wp-content/uploads/2025/05/Encuesta-ICSO-UDP-Mayo-2025-Final.pdf |website=Instituto de Investigación en Ciencias Sociales - UDP}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|5–9 May 2025
+|6%
+|5%
+|3%
+|0%
+|11%
+|1%
+|5%
+| bgcolor="#BFBFDF" |'''23%'''
+|1%
+|19%
+|10%
+|—
+|2%
+|—
+|15%
+|-
+|Cadem<ref>{{cite web|date=4 May 2025 |title=Plaza Pública Cadem. Primera semana de mayo - N°590 |url=https://cadem.cl/wp-content/uploads/2025/05/Track-PP-590-Mayo-S1-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|30 Apr–2 May 2025
+|6%
+|6%
+|—
+|—
+|11%
+|—
+|4%
+| bgcolor="#BFBFDF" |'''22%'''
+|—
+|13%
+|10%
+|—
+|—
+|5%
+|23%
+|}
+
+==== 2025 ====
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" | Polling firm
+! rowspan="3" | Date
+![[File:Eduardo Artés 2021 - 7 de octubre (cropped).jpg|70x70px]]
+![[File:Daniel Jadue, 2017 (cropped).jpg|70x70px]]
+![[File:Live_Especial_Mujeres_Comité_Político,_Ministra_Jannette_Jara_(cropped).jpg|70x70px]]
+![[File:Ministra Camila Vallejo, se reúne con la presidenta de la cámara de diputados, Karol Cariola - 53678671904 (cropped).jpg|70x70px]]
+![[File:Tomás Vodanovic, 2022 (cropped).jpg|70x70px]]
+![[File:MARCO_ENRÍQUEZ-OMINAMI_foto_campaña_2022.jpg|70x70px]]
+![[File:Jaime_Mulet_Martínez.jpg|70x70px]]
+![[File:Michelle Bachelet, 2020 1.1 (cropped).jpg|70x70px]]
+![[File:Vocería Ministra Camila Vallejo junto a las ministras Carolina Tohá, Ana Lya Uriarte y Marcela Ríos (cropped).jpg|70x70px]]
+![[File:Vlado Mirosevic Verdugo (2022).jpg|73x73px]]
+![[File:Claudio Orrego sobre fondo negro (Headshot).jpg|70x70px]]
+![[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|70x70px]]
+![[File:Evelyn Matthei Fornet (2).jpg|70x70px]]
+![[File:José Antonio Kast en diciembre de 2024.jpg|70x70px]]
+![[File:Johannes Kaiser (BCN) (cropped).jpg|70x70px]]
+![[File:Rodolfo Carter, alcalde de La Florida durante una reunión (cropped).jpg|70x70px]]
+![[File:Gino Lorenzini Barrios 2017 (4x3).png|70x70px]]
+! rowspan="3" |{{Abbr|Other|Another candidate}}
+! rowspan="3" |{{Abbr|DK/NA|None, don't know or no answer}}
+|-
+![[Eduardo Artés|Artés]]<br /><small>[[Chilean Communist Party (Proletarian Action)|PC(AP)]]</small>
+![[Daniel Jadue|Jadue]]<br /><small>[[Communist Party of Chile|PC]]</small>
+![[Jeannette Jara|Jara]]<br /><small>[[Communist Party of Chile|PC]]</small>
+![[Camila Vallejo|Vallejo]]<br /><small>[[Communist Party of Chile|PC]]</small>
+![[Tomás Vodanovic|Vodanovic]]<br /><small>[[Broad Front (Chilean political party)|FA]]</small>
+![[Marco Enríquez-Ominami|ME-O]]<br /><small>[[Independent (politics)|Ind.]]</small>
+![[Jaime Mulet|Mulet]]<br /><small>[[Social Green Regionalist Federation|FREVS]]</small>
+![[Michelle Bachelet|Bachelet]]<br /><small>[[Socialist Party of Chile|PS]]</small>
+![[Carolina Tohá|Tohá]]<br /><small>[[Party for Democracy (Chile)|PPD]]</small>
+![[Vlado Mirosevic|Mirosevic]]<br /><small>[[Liberal Party of Chile (2013)|PL]]</small>
+![[Claudio Orrego|Orrego]]<br /><small>[[Independent (politics)|Ind.]]</small>
+![[Franco Parisi|Parisi]]<br /><small>[[Party of the People (Chile)|PDG]]</small>
+![[Evelyn Matthei|Matthei]]<br /><small>[[Independent Democratic Union|UDI]]</small>
+![[José Antonio Kast|Kast]]<br /><small>[[Republican Party (Chile, 2019)|PLR]]</small>
+![[Johannes Kaiser (Chilean politician)|Kaiser]]<br /><small>[[National Libertarian Party (Chile)|PNL]]</small>
+![[Rodolfo Carter|Carter]]<br /><small>[[Independent (politics)|Ind.]]</small>
+![[Gino Lorenzini|Lorenzini]]<br /><small>[[Independent (politics)|Ind.]]</small>
+|-
+| bgcolor="{{Party color|Chilean Communist Party (Proletarian Action)}}" |
+| bgcolor="{{Party color|Communist Party of Chile}}" |
+| bgcolor="{{Party color|Communist Party of Chile}}" |
+| bgcolor="{{Party color|Communist Party of Chile}}" |
+| bgcolor="{{Party color|Broad Front (Chilean political party)}}" |
+| bgcolor="{{Party color|Independent politician}}" |
+| bgcolor="{{Party color|Social Green Regionalist Federation}}" |
+| bgcolor="{{Party color|Socialist Party of Chile}}" |
+| bgcolor="{{Party color|Party for Democracy (Chile)}}" |
+| bgcolor="{{Party color|Liberal Party of Chile (2013)}}" |
+| bgcolor="{{Party color|Independent politician}}" |
+| bgcolor="{{Party color|Party of the People (Chile)}}" |
+| bgcolor="{{Party color|Independent Democratic Union}}" |
+| bgcolor="{{Party color|Republican Party (Chile, 2019)}}" |
+| bgcolor="{{Party color|National Libertarian Party}}" |
+| bgcolor="{{Party color|Independent politician}}" |
+| bgcolor="{{Party color|Independent politician}}" |
+|-
+|Activa<ref>{{cite web|date=3 March 2025 |title=Pulso Ciudadano de Activa Research, febrero 2025, segunda quincena - N°103 |url=https://chile.activasite.com/wp-content/uploads/2025/03/250999_PULSO_CIUDADANO_FEBRERO_2025_0228_V1.pdf |website=Activa Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|26–28 Feb 2025
+|—
+|1.7%
+|—
+|1.8%
+|3.6%
+|—
+|—
+| bgcolor="#FF8888" |'''15.9%'''
+|1.9%
+|—
+|—
+|1.7%
+| bgcolor="#BFBFDF" |'''24.3%'''
+|10.6%
+|9.7%
+|—
+|1.5%
+|13.9%
+|13.4%
+|-
+|Criteria<ref>{{cite web|date=2 March 2025 |title=Agenda Criteria Marzo 2025 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Marzo_2025-3bDr4.pdf}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|24-26 Feb 2025
+|—
+|—
+|—
+|2%
+|3%
+|—
+|—
+| bgcolor="#FF8888" |'''18%'''
+|3%
+|—
+|—
+|—
+| bgcolor="#BFBFDF" |'''26%'''
+|10%
+|11%
+|—
+|—
+| colspan="2" |15%
+|-
+|Signos<ref>{{cite web|date=17 February 2025 |title=Encuesta Signos: Bachelet y Kaiser sacan cuentas alegres, Matthei se mantiene y Kast se hunde. |url=https://www.elmostrador.cl/noticias/pais/2025/02/17/encuesta-signos-bachelet-y-kaiser-sacan-cuentas-alegres-matthei-se-mantiene-y-kast-se-hunde/}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|9–14 Feb 2025
+|—
+|—
+|—
+|2.6%
+|7.8%
+|—
+|1.2%
+| bgcolor="#FF8888" |'''17.3%'''
+|8.8%
+|—
+|—
+|1.8%
+| bgcolor="#BFBFDF" |'''23.4%'''
+|10.2%
+|15.8%
+|3.7%
+|—
+|5.7%
+|1.7%
+|-
+|Panel Ciudadano <small>(sólo inmigrantes)</small><ref>{{cite web|date=8 February 2025 |title=Pulso Ciudadano: Presidenciales 2025. Voto migrante. |url=https://panelciudadano.cl/wp-content/uploads/2025/02/PanelCiudadano-UDD_Presidencial-inmigrantes-7feb.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|6-7 Feb 2025
+|—
+|—
+|—
+|1%
+|2%
+|1%
+|—
+| bgcolor="#FF8888" |'''15%'''
+|2%
+|—
+|—
+|2%
+| bgcolor="#BFBFDF" |'''24%'''
+|12%
+|13%
+|3%
+|—
+| colspan="2" |14%
+|-
+|Cadem<ref>{{cite web|date=10 February 2025 |title=Plaza Pública Cadem. Primera semana de febrero - N°578 |url=https://insight-chile.cl/storage/2025/02/Track-PP-578-Febrero-S1-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|5–7 Feb 2025
+|—
+|1%
+|1%
+|1%
+|4%
+|—
+|—
+|12%
+|3%
+|2%
+|—
+|1%
+| bgcolor="#BFBFDF" |'''20%'''
+|8%
+| bgcolor="#FFCC99" |'''13%'''
+|—
+|—
+|4%
+|30%
+|-
+|Criteria<ref>{{cite web|date=9 February 2025 |title=Agenda Criteria, febrero 2025 |url=https://criteria.cl/descargas/Agenda_Criteria_Febrero_2025-2bGK2.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|3–5 Feb 2025
+|—
+|—
+|—
+|2%
+|3%
+|—
+|—
+| bgcolor="#FF8888" |'''13%'''
+|3%
+|—
+|—
+|2%
+| bgcolor="#BFBFDF" |'''26%'''
+|9%
+|11%
+|—
+|—
+|12%
+|19%
+|-
+|Activa<ref>{{cite web|date=2 February 2025 |title=Pulso Ciudadano: Matthei sigue favorita, Bachelet alcanza 2° lugar y Kaiser le pisa los talones a Kast |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/02/02/pulso-ciudadano-matthei-sigue-favorita-bachelet-alcanza-2-lugar-y-kaiser-le-pisa-los-talones-a-kast.shtml |website=biobiochile.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref><ref>{{cite web|date=2 February 2025 |title=Estudio Especial presidenciales 2025. Posicionamiento Figuras políticas |url=https://chile.activasite.com/wp-content/uploads/2025/02/250998_PULSO_CIUDADANO-ESPECIAL-PRESIDENCIAL_FEBRERO_2025_0205_V4.pdf |website=activasite.com}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|30–31 Jan 2025
+|0.3%
+|—
+|0.4%
+|1.1%
+|2.8%
+|1.5%
+|—
+| bgcolor="#FF8888" |'''12.2%'''
+|3.2%
+|0.6%
+|0.3%
+|1.1%
+| bgcolor="#BFBFDF" |'''27,4%'''
+|9.6%
+|7.7%
+|0.6%
+|3%
+|16%
+|15%
+|-
+|Atlas Intel<ref>{{Cite web |title=Latam Pulse: Chile {{!}} January 2025 {{!}} AtlasIntel |url=https://atlasintel.org/poll/latam-pulse-chile-january-2025-2025-02-11 |access-date=2025-02-12 |website=atlasintel.org |language=en}}</ref>
+|27–31 Jan 2025
+|—
+|—
+|—
+|6.1%
+|9.3%
+|—
+|—
+|5.6%
+|13.1%
+|—
+|—
+|6.1%
+| bgcolor="#BFBFDF" |'''19.4%'''
+|8.7%
+| bgcolor="#FFCC99" |'''19%'''
+|—
+|—
+| colspan="2" |12.7%
+|-
+|Signos<ref>{{cite web|date=30 January 2025 |title=Encuesta Signos: Kaiser supera a Kast en opción presidencial, y se desfonda imagen del Poder Judicial |url=https://www.adprensa.cl/politica/encuesta-signos-kaiser-supera-a-kast-en-opcion-presidencial-y-se-desfonda-imagen-del-poder-judicial/ |website=adprensa.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|22–27 Jan 2025
+|—
+|—
+|—
+|3.9%
+|13.2%
+|—
+|—
+|4.2%
+|6.1%
+|—
+|—
+|2.8%
+| bgcolor="#BFBFDF" |'''24.8%'''
+|11.3%
+| bgcolor="#FFCC99" |'''15,3%'''
+|5.7%
+|—
+|10.6%
+|2,1%
+|-
+|Panel Ciudadano<ref>{{cite web|date=19 January 2025 |title=Panel Ciudadano-UDD: radiografía al fenómeno Kaiser y la amenaza que representa para Kast |url=https://panelciudadano.cl/wp-content/uploads/2025/01/PanelCiudadano-UDD-Presidencial16ene.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|14–15 Jan 2025
+|—
+|1%
+|—
+|2%
+|1%
+|1%
+|—
+|7%
+|3%
+|—
+|—
+|2%
+| bgcolor="#BFBFDF" |'''26%'''
+| bgcolor="#CAD5E9" |'''11%'''
+|7%
+|1%
+|—
+| colspan="2" |38%
+|-
+|Cadem<ref>{{cite web|date=12 January 2025 |title=Plaza Pública Cadem. Segunda semana de enero - N°574 |url=https://cadem.cl/wp-content/uploads/2025/01/Track-PP-574-Enero-S2-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|8–10 Jan 2025
+|—
+|—
+|—
+|2%
+|3%
+|—
+|—
+|5%
+|2%
+|—
+|—
+|2%
+| bgcolor="#BFBFDF" |'''23%'''
+|9%
+| bgcolor="#FFCC99" |'''10%'''
+|—
+|—
+|6%
+|38%
+|-
+|Criteria<ref>{{cite web|date=12 January 2025 |title=Agenda Criteria, enero 2025 |url=https://criteria.cl/descargas/Agenda_Criteria_Enero_2025-3dUN1.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|6–8 Jan 2025
+|—
+|—
+|—
+|3%
+|5%
+|2%
+|—
+| bgcolor="#FF8888" |'''11%'''
+|3%
+|—
+|—
+|—
+| bgcolor="#BFBFDF" |'''28%'''
+|10%
+|7%
+|2%
+|—
+|11%
+|18%
+|}
+
+==== 2024 ====
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="4" |Polling firm
+! rowspan="4" |Date
+![[File:Daniel Jadue, 2017 (cropped).jpg|70x70px]]
+![[File:Vocería de la Ministra Camila Vallejo - 2023 (cropped).jpg|70x70px]]
+![[File:Tomás Vodanovic, 2022 (cropped).jpg|70x70px]]
+![[File:Gonzalo Winter Etcheberry.jpg|70x70px]]
+![[File:Michelle Bachelet, 2020 1.1 (cropped).jpg|70x70px]]
+![[File:Carolina Tohá.jpg|70x70px]]
+![[File:Sebastián Piñera en La Moneda 2022 (13) (cropped).jpg|70x70px]]
+![[File:Evelyn Matthei Fornet (2).jpg|70x70px]]
+![[File:José Antonio Kast en diciembre de 2024.jpg|70x70px]]
+![[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|70x70px]]
+![[File:Marco Enríquez-Ominami 2018 (4x3).jpg|70x70px]]
+![[File:Rodolfo Carter, alcalde de La Florida durante una reunión (cropped).jpg|70x70px]]
+![[File:Johannes Kaiser (BCN) (cropped).jpg|70x70px]]
+|-
+![[Daniel Jadue|Jadue]]<br />
+![[Camila Vallejo|Vallejo]]
+![[Tomás Vodanovic|Vodanovic]]
+![[Gonzalo Winter|Winter]]<br />
+![[Michelle Bachelet|Bachelet]]<br /><small>[[Socialist Party of Chile|PS]]</small>
+![[Carolina Tohá|Tohá]]<br /><small>[[Party for Democracy (Chile)|PPD]]</small>
+!''[[Sebastián Piñera|Piñera]]''<br /><small>[[Chile Vamos|ChV]]</small>
+![[Evelyn Matthei|Matthei]]<br /><small>[[Independent Democratic Union|UDI]]</small>
+![[José Antonio Kast|Kast]]<br /><small>[[Republican Party (Chile, 2019)|PLR]]</small>
+![[Franco Parisi|Parisi]]<br /><small>[[Party of the People (Chile)|PDG]]</small>
+![[Marco Enríquez-Ominami|ME-O]]
+![[Rodolfo Carter|Carter]]<br /><small>[[Independent politician|Ind.]]</small>
+![[Johannes Kaiser (Chilean politician)|Kaiser]]<br /><small>[[Independent politician|Ind.]]</small>
+! rowspan="3" |{{abbr|Others|Other candidates}}
+! rowspan="3" |{{abbr|DK/NR|No one, don't know, or no response}}
+|-
+! colspan="2" |[[File:Partido Comunista de Chile.svg|25x25px|link=Communist Party of Chile]]
+! colspan="2" | 
+![[File:Emblem of the Socialist Party of Chile.svg|25x25px|link=Socialist Party of Chile]]
+![[File:Partido por la Democracia emblema.svg|25x25px|link=Party for Democracy (Chile)]]
+![[File:Chile Vamos corto.png|25x25px|link=Chile Vamos]]
+![[File:UDI 2017 (recorte).svg|25x25px|link=Independent Democratic Union]]
+![[File:Partido Republicano (Chile, 2019).svg|25x25px|link=Republican Party (Chile, 2019)]]
+!
+! colspan="3" |Independent
+|-
+| colspan="2" bgcolor="#8B0000" |
+| colspan="2" bgcolor="#36B1EA" |
+| bgcolor="#FF0000" |
+| bgcolor="#FFA500" |
+| bgcolor="#135BB8" |
+| bgcolor="#000080" |
+| bgcolor="#31446C" |
+| bgcolor="#181644" |
+| colspan="3" bgcolor="{{party color|Independent politician}}" |
+|-
+|Cadem<ref>{{cite web |date=16 June 2024 |title=Plaza Pública Cadem. Segunda semana de junio - N°544 |url=https://cadem.cl/wp-content/uploads/2024/06/Track-PP-544-Junio-S2-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|12–14 Jun 2024
+|2%
+|3%
+|—
+|—
+|6%
+|3%
+|—
+| bgcolor="#BFBFDF" |'''20%'''
+| bgcolor="#CAD5E9" |'''14%'''
+|2%
+|—
+|1%
+|2%
+|6%
+|41%
+|-
+|Criteria<ref>{{cite web |date=5 June 2024 |title=Agenda Criteria, junio 2024 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Junio_2024-6vRh3.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|31 May – 3 Jun 2024
+|—
+|4%
+|—
+|—
+|10%
+|3%
+|—
+| bgcolor="#BFBFDF" |'''25%'''
+| bgcolor="#CAD5E9" |'''13%'''
+|3%
+|2%
+|—
+|—
+|2%
+|38%
+|-
+|Activa<ref>{{cite web |date=3 June 2024 |title=Pulso Ciudadano de Activa Research, mayo 2024, segunda quincena - N°94 |url=https://chile.activasite.com/wp-content/uploads/2024/06/241107_PULSO_CIUDADANO_MAYO_0531_v1.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|29–31 May 2024
+|2,4%
+|5,2%
+|—
+|—
+|9,8%
+|2,4%
+|—
+| bgcolor="#BFBFDF" |'''26,2%'''
+| bgcolor="#CAD5E9" |'''12,1%'''
+|1,8%
+|—
+|—
+|2,3%
+|24,2%
+|13,6%
+|-
+|Panel Ciudadano<ref>{{cite web |date=17 May 2024 |title=Panel Ciudadano-UDD: especial inmigrantes |url=https://panelciudadano.cl/wp-content/uploads/2024/05/Panel_Ciudadano_UDD_Especial_Inmigrantes.pdf |website=panelciudadano.cl}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|13–14 May 2024
+|—
+|6%
+|2%
+|—
+|11%
+|5%
+|—
+| bgcolor="#BFBFDF" |'''27%'''
+| bgcolor="#CAD5E9" |'''18%'''
+|4%
+|3%
+|4%
+|3%
+|2%
+|15%
+|-
+|Cadem<ref>{{cite web |date=12 May 2024 |title=Plaza Pública Cadem. Segunda semana de mayo - N°539 |url=https://cadem.cl/wp-content/uploads/2024/05/Track-PP-539-Mayo-S2-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|8–10 May 2024
+|—
+|3%
+|—
+|1%
+|3%
+|3%
+|—
+| bgcolor="#BFBFDF" |'''24%'''
+| bgcolor="#CAD5E9" |'''14%'''
+|2%
+|1%
+|2%
+|2%
+|8%
+|37%
+|-
+|La Cosa Nostra<ref>{{cite web |date=12 May 2024 |first=Matías |last=Rojas |title=Bachelet asoma en carrera presidencial: ya superaría a Kast según encuesta de La Cosa Nostra |url=https://www.eldesconcierto.cl/nacional/2024/05/12/bachelet-asoma-en-carrera-presidencial-ya-superaria-a-kast-segun-encuesta-de-la-cosa-nostra.html |website=El Desconcierto}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|24 Apr – 5 May 2024
+|—
+|7,4%
+|—
+|5,1%
+| bgcolor="#FF8888" |'''16,2%'''
+|10,7%
+|—
+| bgcolor="#BFBFDF" |'''33,6%'''
+|12,6%
+|1,8%
+|2,0%
+|—
+|5,2%
+|5,4%
+|—
+|-
+|Feedback<ref>{{cite web |date=10 May 2024 |title=Percepciones y expectativas sobre la situación del país |url=https://static1.squarespace.com/static/621d4958e9a71e162e576945/t/663e4ffb9c850029a58f2ec9/1715359741328/Encuesta+Feedback+mayo+2024.pdf |website=Feedback Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|26 Apr – 3 May 2024
+|—
+|2%
+|2%
+|2%
+|11%
+|5%
+|—
+| bgcolor="#BFBFDF" |'''26%'''
+| bgcolor="#CAD5E9" |'''16%'''
+|—
+|—
+|2%
+|7%
+|5%
+|21%
+|-
+|Criteria<ref>{{cite web |date=2 May 2024 |title=Agenda Criteria, mayo 2024 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Mayo_2024-5nBx4.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|26–29 Apr 2024
+|2%
+|6%
+|—
+|—
+|10%
+|4%
+|—
+| bgcolor="#BFBFDF" |'''30%'''
+| bgcolor="#CAD5E9" |'''12%'''
+|3%
+|2%
+|—
+|2%
+|2%
+|27%
+|-
+|Activa<ref>{{cite web |date=29 April 2024 |title=Pulso Ciudadano de Activa Research, abril 2024, segunda quincena - N°93 |url=https://chile.activasite.com/wp-content/uploads/2024/04/241106_PULSO_CIUDADANO_ABRIL_0426_v1.pdf |website=Activa Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|24–26 Apr 2024
+|—
+|3,5%
+|—
+|—
+|7,1%
+|—
+|—
+| bgcolor="#BFBFDF" |'''28,5%'''
+| bgcolor="#CAD5E9" |'''15,6%'''
+|—
+|2,2%
+|—
+|—
+|22,7%
+|20,4%
+|-
+|Cadem<ref>{{cite web |date=21 April 2024 |title=Plaza Pública Cadem. Tercera semana de abril - N°536 |url=https://cadem.cl/wp-content/uploads/2024/04/Track-PP-536-Abril-S3-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|17–19 Apr 2024
+|—
+|3%
+|—
+|—
+|7%
+|3%
+|—
+| bgcolor="#BFBFDF" |'''24%'''
+| bgcolor="#CAD5E9" |'''14%'''
+|1%
+|1%
+|1%
+|2%
+|6%
+|38%
+|-
+|Cadem<ref>{{cite web |date=7 April 2024 |title=Plaza Pública Cadem. Primera semana de abril - N°534 |url=https://cadem.cl/wp-content/uploads/2024/04/Track-PP-534-Abril-S1-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|3–5 Apr 2024
+|1%
+|3%
+|—
+|—
+|4%
+|2%
+|—
+| bgcolor="#BFBFDF" |'''25%'''
+| bgcolor="#CAD5E9" |'''12%'''
+|1%
+|—
+|1%
+|1%
+|8%
+|42%
+|-
+|Criteria<ref>{{cite web |date=3 April 2024 |title=Agenda Criteria, abril 2024 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Abril_2024-8eVd3.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|28 Mar – 1 Apr 2024
+|—
+|6%
+|—
+|—
+|7%
+|2%
+|—
+| bgcolor="#BFBFDF" |'''27%'''
+| bgcolor="#CAD5E9" |'''15%'''
+|3%
+|—
+|—
+|2%
+|3%
+|35%
+|-
+|Activa<ref>{{cite web |date=1 April 2024 |title=Pulso Ciudadano de Activa Research, marzo 2024, segunda quincena - N°92 |url=https://chile.activasite.com/wp-content/uploads/2024/04/241105_PULSO_CIUDADANO_MARZO_0331_V1.pdf |website=Activa Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|27–28 Mar 2024
+|—
+|4,5%
+|—
+|—
+|8,1%
+|—
+|—
+| bgcolor="#BFBFDF" |'''24,9%'''
+| bgcolor="#CAD5E9" |'''11,7%'''
+|2,5%
+|1,6%
+|—
+|2,5%
+|26,6%
+|17,6%
+|-
+|Cadem<ref>{{cite web |date=17 March 2024 |title=Plaza Pública Cadem. Tercera semana de marzo - N°531 |url=https://cadem.cl/wp-content/uploads/2024/03/Track-PP-531-Marzo-S3-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|13–15 Mar 2024
+|1%
+|3%
+|1%
+|—
+|4%
+|2%
+|—
+| bgcolor="#BFBFDF" |'''21%'''
+| bgcolor="#CAD5E9" |'''12%'''
+|2%
+|—
+|2%
+|2%
+|10%
+|40%
+|-
+|Criteria<ref>{{cite web |date=6 March 2024 |title=Agenda Criteria, marzo 2024 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Marzo_2024-6gEn2.pdf |website=Criteria Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|1–4 Mar 2024
+|—
+|5%
+|—
+|—
+|7%
+|2%
+|—
+| bgcolor="#BFBFDF" |'''31%'''
+| bgcolor="#CAD5E9" |'''17%'''
+|—
+|2%
+|—
+|—
+|4%
+|32%
+|-
+|Activa<ref>{{cite web |date=3 March 2024 |title=Pulso Ciudadano de Activa Research, febrero 2024, segunda quincena - N°91 |url=https://chile.activasite.com/wp-content/uploads/2024/03/241104_PULSO_CIUDADANO_FEBRERO_0229_V2.pdf |website=Activa Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|28–29 Feb 2024
+|—
+|3,3%
+|—
+|—
+|9,5%
+|2,1%
+|—
+| bgcolor="#BFBFDF" |'''26,2%'''
+| bgcolor="#CAD5E9" |'''10,6%'''
+|1,7%
+|—
+|1,6%
+|1,6%
+|24.8%
+|18,6%
+|-
+|Panel Ciudadano<ref>{{cite web |date=25 February 2024 |format=PDF |title=Panel Ciudadano-UDD: Matthei se despega de Kast y llega al 30% de preferencias presidenciales |url=https://www.ex-ante.cl/panel-ciudadano-udd-matthei-se-despega-de-kast-y-llega-al-30-de-preferencias-presidenciales-vea-aqui-la-encuesta/ |website=EX-Ante}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|23–24 Feb 2024
+|—
+|6%
+|—
+|2%
+|10%
+|4%
+|—
+| bgcolor="#BFBFDF" |'''30%'''
+| bgcolor="#CAD5E9" |'''16%'''
+|4%
+|3%
+|4%
+|3%
+|2%
+|16%
+|-
+|Cadem<ref>{{cite web |date=18 February 2024 |title=Plaza Pública Cadem. Tercera semana de febrero - N°527 |url=https://cadem.cl/wp-content/uploads/2024/02/Track-PP-527-Febrero-S3-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|14–16 Feb 2024
+|1%
+|4%
+|—
+|—
+|6%
+|2%
+|—
+| bgcolor="#BFBFDF" |'''22%'''
+| bgcolor="#CAD5E9" |'''19%'''
+|1%
+|—
+|3%
+|1%
+|8%
+|33%
+|-
+! colspan="17" |[[Death and state funeral of Sebastián Piñera|Death of former president Sebastián Piñera]] (6 February)
+|-
+|Activa<ref>{{cite web |date=29 January 2024 |title=Pulso Ciudadano de Activa Research, enero 2024, segunda quincena - N°90 |url=https://chile.activasite.com/wp-content/uploads/2024/01/241103_PULSO_CIUDADANO_ENERO_2801_v1.pdf |website=Activa Research}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|25–26 Jan 2024
+|—
+|5,1%
+|—
+|—
+|6,8%
+|1,5%
+|11,1%
+| bgcolor="#BFBFDF" |'''17,8%'''
+| bgcolor="#CAD5E9" |'''13,3%'''
+|1,7%
+|—
+|—
+|—
+|20,7%
+|22,0%
+|-
+|Cadem<ref>{{cite web |date=14 January 2024 |title=Plaza Pública Cadem. Segunda semana de enero - N°522 |url=https://cadem.cl/wp-content/uploads/2024/01/Track-PP-522-Enero-S2-VF.pdf |website=Cadem}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|10–12 Jan 2024
+|1%
+|2%
+|—
+|—
+|5%
+|2%
+|5%
+| bgcolor="#BFBFDF" |'''16%'''
+| bgcolor="#CAD5E9" |'''14%'''
+|1%
+|—
+|1%
+|—
+|8%
+|45%
+|-
+|Criteria<ref>{{cite web |date=10 January 2024 |title=Agenda Criteria, enero 2024 |url=https://www.criteria.cl/descargas/Agenda_Criteria_Enero_2024-4fch6.pdf |website=Criteria}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+|4–8 Jan 2024
+|—
+|6%
+|—
+|—
+|10%
+|—
+|4%
+| bgcolor="#BFBFDF" |'''24%'''
+| bgcolor="#CAD5E9" |'''17%'''
+|3%
+|2%
+|2%
+|—
+|17%
+|15%
+|}
+
+==== 2023 ====
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |Polling firm
+! rowspan="4" |Date
+! rowspan="4" |Sample<br />size
+![[File:Daniel Jadue, 2017 (cropped).jpg|70x70px]]
+![[File:Camila Vallejo (noviembre 2022).jpg|70x70px]]
+![[File:Izkia Siches' Official Portrait, 2022 (cropped).jpg|70x70px]]
+![[File:Álvaro Elizalde, Ministro Segegob (cropped).jpg|70x70px]]
+![[File:Michelle Bachelet, 2020 1.1 (cropped).jpg|70x70px]]
+![[File:Ministra Carolina Tohá.jpg|70x70px]]
+![[File:SEBASTIAN SICHEL 2019 (cropped).jpg|70x70px]]
+![[File:Sebastián Piñera en La Moneda 2022 (13).jpg|70x70px]]
+![[File:Evelyn Matthei Fornet (2).jpg|70x70px]]
+![[File:José Antonio Kast en diciembre de 2024.jpg|70x70px]]
+![[File:Teresa Marinovic 17 05 2021 (cropped).jpg|frameless|70x70px]]
+![[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|70x70px]]
+![[File:Rodolfo Carter, alcalde de La Florida durante una reunión (cropped).jpg|70x70px]]
+![[File:Pamela Jiles Moreno (2018).jpg|70x70px]]
+! rowspan="4" class="unsortable" |Others
+! rowspan="4" class="unsortable" |Blank vote /<br />Undecided
+|-
+!{{small|[[Daniel Jadue|Jadue]]}}
+!{{small|[[Camila Vallejo|Vallejo]]}}
+!{{small|[[Izkia Siches|Siches]]}}
+!{{small|[[Álvaro Elizalde|Elizalde]]}}
+!{{small|[[Michelle Bachelet|Bachelet]]}}
+!{{small|[[Carolina Tohá|Tohá]]}}
+!{{small|[[Sebastián Sichel|Sichel]]}}
+!{{small|[[Sebastián Piñera|Piñera]]}}
+!{{small|[[Evelyn Matthei|Matthei]]}}
+!{{small|[[José Antonio Kast|Kast]]}}
+!{{Small|[[Teresa Marinovic|Marinovic]]}}
+!{{small|[[Franco Parisi|Parisi]]}}
+!{{small|Carter}}
+!{{small|[[Pamela Jiles (politician)|Jiles]]}}
+|-
+! colspan="2" | [[File:Partido Comunista de Chile.svg|25x25px|link=Communist Party of Chile]]
+!<small>[[Independent politician|Ind.]]</small>
+! colspan="2" | [[File:Emblem of the Socialist Party of Chile.svg|25x25px|link=Socialist Party of Chile]]
+![[File:Partido por la Democracia emblema.svg|25x25px|link=Party for Democracy (Chile)]]
+! colspan="2" | [[File:Chile Vamos corto.png|25x25px|link=Chile Vamos]]
+![[File:UDI 2017 (recorte).svg|25x25px|link=Independent Democratic Union]]
+! colspan="2" |[[File:Partido Republicano (Chile, 2019).svg|25x25px|link=Republican Party (Chile, 2019)]]
+!
+! <small>[[Independent politician|Ind.]]</small>
+! <small>[[Independent politician|Ind.]]</small>
+|-
+! colspan="2" style="background:{{party color|Communist Party of Chile}};" |
+! style="background:{{party color|Independent politician}};" |
+! colspan="2" style="background:{{party color|Socialist Party of Chile}};" |
+! style="background:{{party color|Party for Democracy (Chile)}};" |
+! colspan="2" style="background:{{party color|Chile Vamos}};" |
+! style="background:{{party color|Independent Democratic Union}};" |
+! colspan="2" style="background:{{party color|Republican Party (Chile, 2019)}};" |
+! style="background:{{party color|Party of the People (Chile)}};" |
+! style="background:{{party color|Independent politician}};" |
+! style="background:{{party color|Independent politician}};" |
+|-
+|Cadem<ref>{{Cite web |title=Opción "a favor" retrocede luego de 6 semanas al alza y llega a 32% (-3pts), mientras el "en contra" se mantiene en 50% |url=https://cadem.cl/estudios/opcion-a-favor-retrocede-luego-de-6-semanas-al-alza-y-llega-a-32-3pts-mientras-el-en-contra-se-mantiene-en-50/ |access-date=2023-11-15 |website=Sitio Web Cadem |archive-date=2023-11-13 |archive-url=https://web.archive.org/web/20231113172421/https://cadem.cl/estudios/opcion-a-favor-retrocede-luego-de-6-semanas-al-alza-y-llega-a-32-3pts-mientras-el-en-contra-se-mantiene-en-50/ |url-status=dead }}</ref>
+|8-10 November 2023
+|710
+|1
+|5
+|
+|
+|4
+|4
+| -
+|2
+|style="background:#ABB7F2" |'''19'''
+|style="background:#CAD5E9" |'''17'''
+| - 
+|4
+|2
+| -
+|8
+|34
+|-
+|Research Chile<ref>{{Cite web |title=Estudios {{!}} researchchile |url=https://researchchile.cl/estudios/ |access-date=2023-10-31 |language=es-CL}}</ref>
+|22 October 2023 
+|832
+|1
+|7
+| -
+| -
+|9
+|9
+|2
+|2
+|style="background:#ABB7F2" |'''26'''
+|style="background:#CAD5E9" |'''18'''
+| -
+|2
+|2
+| -
+| -
+|13
+|-
+|Research Chile
+|22-26 September 2023
+|813
+|1
+|6
+| -
+| -
+|8
+|11
+|1
+|2
+|style="background:#ABB7F2" |'''28'''
+|style="background:#CAD5E9" |'''17'''
+| -
+|2
+|2
+| -
+| -
+|16
+|-
+|Research Chile<ref>{{Cite web |title=Estudios {{!}} researchchile |url=https://researchchile.cl/estudios/ |access-date=2023-07-18 |language=es-CL}}</ref>
+|3-5 July 2023
+|786
+|1
+|8
+| -
+| -
+|5
+|9
+|1
+|1
+| style="background:#ABB7F2" |'''23'''
+| style="background:#CAD5E9" |'''22'''
+| -
+|2
+|5
+|0
+|
+|16
+|-
+|Cadem<ref>{{Cite web |title=AmericaElige/status/1680738255677816844 |url=https://twitter.com/AmericaElige/status/1680738255677816844 |access-date=2023-07-18 |website=Twitter |language=en}}</ref>
+|5-7 July 2023
+|705
+| -
+|5.2
+| -
+| -
+|5.2
+| -
+| -
+|8.6
+| style="background:#ABB7F2" |'''13.8'''
+| style="background:#CAD5E9" |'''36.2'''
+| -
+|3.4
+|3.4
+| -
+|
+|
+|-
+|Research Chile<ref>{{Cite web |title=Estudios {{!}} researchchile |url=https://researchchile.cl/estudios/ |access-date=2023-06-25 |language=es-CL}}</ref>
+|5-7 Jun 2023
+|805
+|1
+|9
+| -
+| -
+|7
+|10
+|1
+|0
+| style="background:#ABB7F2" |'''22'''
+| style="background:#CAD5E9" |'''18'''
+| -
+|2
+|5
+|0
+|
+|
+|-
+|Research Chile<ref>{{Cite web |title=Estudios {{!}} researchchile |url=https://researchchile.cl/estudios/ |access-date=2023-07-18 |language=es-CL}}</ref>
+|8-10 May 2023
+|765
+|1
+|9
+| -
+|
+|7
+|5
+|2
+|1
+| style="background:#ABB7F2" |'''22'''
+| style="background:#CAD5E9" |'''27'''
+|2
+|2
+|6
+|1
+|
+|11
+|-
+|Cadem<ref>{{Cite web |title=Encuesta Plaza Pública Primera Semana de Mayo |url=https://cadem.cl/wp-content/uploads/2023/05/Track-PP-486-Mayo-S1-VF.pdf |access-date=2023-06-14 |website=Plaza Publica Cadem}}</ref><ref>{{Cite web |title=José Antonio Kast lidera la preferencia presidencial espontánea con 20%, seguido por Evelyn Matthei con 13% |url=https://cadem.cl/estudios/jose-antonio-kast-lidera-la-preferencia-presidencial-espontanea-con-20-seguido-por-evelyn-matthei-con-13/ |access-date=2023-06-14 |website=Sitio Web Cadem |archive-date=2023-05-31 |archive-url=https://web.archive.org/web/20230531205020/https://cadem.cl/estudios/jose-antonio-kast-lidera-la-preferencia-presidencial-espontanea-con-20-seguido-por-evelyn-matthei-con-13/ |url-status=dead }}</ref>
+|3-5 May 2023
+|703
+|1
+|4
+|–
+|–
+|2
+|1
+| -
+|4
+| style="background:#ABB7F2" |'''13'''
+| style="background:#CAD5E9" |'''20'''
+|1
+|2
+|4
+|–
+|7{{Efn|[[Mario Marcel]] with 4%, [[Ignacio Briones]] with 2%, [[Vlado Mirosevic]] with 1%}}
+|42
+|-
+|Research Chile<ref>{{Cite web |last=Research Chile |title=Resultados de la Encuesta de Opinión Pública del mes de Abril 2023 |url=https://researchchile.cl/wp-content/uploads/2023/04/Informe-Abril-2023.pdf}}</ref>
+|10-12 Apr 2023
+|823
+|1
+|6
+|–
+|–
+|4
+|6
+|1
+|0
+| style="background:#ABB7F2" |'''25'''
+| style="background:#CAD5E9" |'''12'''
+|1
+|4
+|10
+|–
+|7{{Efn|[[Mario Marcel]] with 4%, [[Ignacio Briones]] with 2%, [[Vlado Mirosevic]] with 1%}}
+|22
+|-
+|Activa/Pulso Ciudadano<ref>{{Cite web |title=Pulso Ciudadano Marzo |url=https://chile.activasite.com/estudios/pulso-ciudadano-marzo/ |access-date=2023-04-07 |website=Somos Activa}}</ref>
+|21-24 Mar 2023
+|912
+|1.7
+|4
+|–
+|–
+|5.4
+|1.5
+|–
+|6.8
+| style="background:#ABB7F2" |'''16.3'''
+| style="background:#CAD5E9" |'''15.7'''
+|–
+|2.2
+|3.9
+|–
+|22.1{{efn|[[Leonardo Farkas]] with 3.6, [[Marco Enríquez-Ominami]] with 1.7, others with 17|name=g}}
+|20.8
+|-
+|Research Chile<ref>{{Cite web |title=Resultados de la Encuesta de Opinión Pública del mes de Marzo 2023 |url=https://researchchile.cl/wp-content/uploads/2023/03/Informe-Marzo-2023.pdf |website=Research Chile}}</ref>
+|6-8 Mar 2023
+|882
+|2
+|9
+|–
+|–
+|6
+|6
+|2
+|–
+| style="background:#ABB7F2" |'''25'''
+| style="background:#CAD5E9" |'''11'''
+|2
+|4
+|5
+|1
+|8{{Efn|[[Mario Marcel]] with 4, [[Ignacio Briones]] with 3, Germán Codina with 1, Manuel Monsalve with 0}}
+|20
+|-
+|Research Chile<ref>{{Cite web |title=Resultados de la Encuesta de Opinión Pública del mes de Febrero 2023 |url=https://researchchile.cl/wp-content/uploads/2023/02/Informe-Febrero-2023-1.pdf |website=Research Chile}}</ref>
+|6-7 Feb 2023
+|805
+|2
+|9
+|–
+|–
+|5
+|4
+|2
+|–
+| style="background:#ABB7F2" |'''25'''
+| style="background:#CAD5E9" |'''12'''
+|1
+|4
+|3
+|0
+|6{{Efn|[[Mario Marcel]] with 3, [[Ignacio Briones]] with 2, Germán Codina with 1, Manuel Monsalve with 0}}
+|26
+|-
+|Research Chile<ref>{{Cite web |date=16 January 2023 |title=Resultados de la Encuesta de Opinión Pública del mes de Enero 2023 |url=https://researchchile.cl/wp-content/uploads/2023/01/Informe-Reserach-Chile-Enero-2023.pdf |website=Research Chile}}</ref>
+|9–10 Jan 2023
+|803
+|2
+|8
+|–
+|–
+|–
+|6
+|3
+|–
+| style="background:#ABB7F2" |'''27'''
+| style="background:#CAD5E9" |'''17'''
+|3
+|4
+|3
+|1
+|3
+|20
+|}
+
+==== 2022 ====
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="4" |Polling firm
+! rowspan="4" |Date
+! rowspan="4" |Sample<br />size
+![[File:Daniel Jadue, 2017 (cropped).jpg|70x70px]]
+![[File:Camila Vallejo (noviembre 2022).jpg|70x70px]]
+![[File:Izkia Siches' Official Portrait, 2022 (cropped).jpg|70x70px]]
+![[File:Álvaro Elizalde, Ministro Segegob (cropped).jpg|70x70px]]
+![[File:Michelle Bachelet, 2020 1.1 (cropped).jpg|70x70px]]
+![[File:Ministra Carolina Tohá.jpg|70x70px]]
+![[File:SEBASTIAN SICHEL 2019 (cropped).jpg|70x70px]]
+![[File:Sebastián Piñera en La Moneda 2022 (13).jpg|70x70px]]
+![[File:Evelyn Matthei Fornet (2).jpg|70x70px]]
+![[File:José Antonio Kast en diciembre de 2024.jpg|70x70px]]
+![[File:Teresa Marinovic 17 05 2021 (cropped).jpg|frameless|70x70px]]
+![[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|70x70px]]
+![[File:Rodolfo Carter, alcalde de La Florida durante una reunión (cropped).jpg|70x70px]]
+![[File:Pamela Jiles Moreno (2018).jpg|70x70px]]
+! rowspan="4" class="unsortable" |Others
+! rowspan="4" class="unsortable" |Blank vote /<br />Undecided
+|-
+!{{small|[[Daniel Jadue|Jadue]]}}
+!{{small|[[Camila Vallejo|Vallejo]]}}
+!{{small|[[Izkia Siches|Siches]]}}
+!{{small|[[Álvaro Elizalde|Elizalde]]}}
+!{{small|[[Michelle Bachelet|Bachelet]]}}
+!{{small|[[Carolina Tohá|Tohá]]}}
+!{{small|[[Sebastián Sichel|Sichel]]}}
+!{{small|[[Sebastián Piñera|Piñera]]}}
+!{{small|[[Evelyn Matthei|Matthei]]}}
+!{{small|[[José Antonio Kast|Kast]]}}
+!{{Small|[[Teresa Marinovic|Marinovic]]}}
+!{{small|[[Franco Parisi|Parisi]]}}
+!{{small|Carter}}
+!{{small|[[Pamela Jiles (politician)|Jiles]]}}
+|-
+! colspan=2| [[File:Partido Comunista de Chile.svg|25x25px|link=Communist Party of Chile]]
+!<small>[[Independent politician|Ind.]]</small>
+! colspan=2| [[File:Emblem of the Socialist Party of Chile.svg|25x25px|link=Socialist Party of Chile]]
+![[File:Partido por la Democracia emblema.svg|25x25px|link=Party for Democracy (Chile)]]
+! colspan=2| [[File:Chile Vamos corto.png|25x25px|link=Chile Vamos]]
+![[File:UDI 2017 (recorte).svg|25x25px|link=Independent Democratic Union]]
+! colspan="2" |[[File:Partido Republicano (Chile, 2019).svg|25x25px|link=Republican Party (Chile, 2019)]]
+!
+! <small>[[Independent politician|Ind.]]</small>
+! <small>[[Independent politician|Ind.]]</small>
+|-
+! colspan=2 style="background:{{party color|Communist Party of Chile}};" |
+! style="background:{{party color|Independent politician}};" |
+! colspan=2 style="background:{{party color|Socialist Party of Chile}};" |
+! style="background:{{party color|Party for Democracy (Chile)}};" |
+! colspan=2 style="background:{{party color|Chile Vamos}};" |
+! style="background:{{party color|Independent Democratic Union}};" |
+! colspan=2 style="background:{{party color|Republican Party (Chile, 2019)}};" |
+! style="background:{{party color|Party of the People (Chile)}};" |
+! style="background:{{party color|Independent politician}};" |
+! style="background:{{party color|Independent politician}};" |
+|-
+|Encuestas Chile<ref>{{Cite web |title=Encuesta 'Futuros Presidenciales' (Año 2022) |url=https://twitter.com/EncuestasChil10/status/1609597738366255104 |access-date=2023-01-27 |website=Twitter |language=en}}</ref>
+|24 Mar – 
+31 Dec 2022
+|4,782
+|1
+|1
+|0
+|0
+|1
+|1
+|3
+|1
+| style="background:#ABB7F2" |'''15'''
+| style="background:#CAD5E9" |'''12'''
+|1
+|8
+|2
+|0
+|0
+|38
+|-
+|Cadem<ref>{{Cite web |date=1 January 2023 |title=Plaza Pública Cadem. Quinta semana de diciembre - N°468 |url=https://cadem.cl/wp-content/uploads/2023/01/Track-PP-468-Diciembre-S5-VF-1.pdf |website=Cadem }}</ref>
+|28–30 Dec 2022
+|705
+|1
+| –
+|–
+|–
+|3
+|1
+|1
+|4
+| style="background:#ABB7F2" |'''9'''
+| style="background:#CAD5E9" |'''13'''
+|–
+|1
+|1
+|–
+|12
+|54
+|-
+|Research Chile<ref>{{Cite web |date=19 December 2022 |title=Resultados de la Encuesta de Opinión Pública del mes de Diciembre |url=https://researchchile.cl/wp-content/uploads/2022/12/Informe-Diciembre-Research-Chile.pdf}}</ref> 
+|13-15 Dec 2022
+|800
+|2.1
+|9.5
+|–
+|–
+|–
+|5.3
+|3.3
+|–
+| style="background:#ABB7F2" |'''20.6'''
+| style="background:#CAD5E9" |'''15.8'''
+|2.5
+|3
+|–
+|0.6
+|19
+|25
+|-
+|Cadem<ref>{{Cite web |date=30 October 2022 |title=Plaza Pública Cadem. Cuarta semana de octubre - N°459 |url=https://cadem.cl/wp-content/uploads/2022/10/Track-PP-459-Octubre-S4-VF.pdf |website=Cadem }}</ref>
+|26–28 Oct 2022
+|706
+|1
+|3
+|1
+|1
+|3
+|2
+|1
+|5
+| style="background:#ABB7F2" |'''8'''
+| style="background:#CAD5E9" |'''11'''
+|–
+|5
+|1
+|1
+|7
+|50
+|- style="background:#E9E9E9;"
+| rowspan="2" |[[2021 Chilean general election|Election Results]]
+|19 Dec 2021
+| rowspan="2" |–
+| colspan="6" style="background:#E07484" |'''55.9'''{{efn|name=boric|[[Gabriel Boric]] as [[Apruebo Dignidad]] candidate}}
+| colspan="5" |44.1{{efn|[[José Antonio Kast]]}}
+|–
+|–
+|–
+|–
+|–
+|- style="background:#E9E9E9;"
+|21 Nov 2021
+| colspan="3"  style="background:#E2A5AE" |'''25.8'''{{efn|name=boric}}
+| colspan="3" |11.6{{efn|[[Yasna Provoste]]}}
+| colspan="3" |12.8{{efn|[[Sebastián Sichel]]}}
+| colspan="2" style="background:#CAD5E9" |'''27.9'''
+|12.8
+|–
+|–
+|9.1{{efn|[[Marco Enríquez-Ominami]] (7.6%) and [[Eduardo Artés]] (1.5%)}}
+|–
+|}
+
+== Other polling ==
+The following polls were conducted for hypothetical second-round matchups.
+
+=== Jara vs. Parisi ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Jeannette Jara|Jara]]<br><small>[[Unity for Chile|UpCh]]</small>
+! class="unsortable" width="75px" |[[Franco Parisi|Parisi]]<br><small>[[Party of the People (Chile)|PDG]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#FF8080" |
+! class="unsortable" style="background:#181644" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of August - N°606" (PDF). ''Cadem''. 24 August 2025. Retrieved 30 August 2025.</ref>
+|20–22 Aug 2025
+| bgcolor="#FFDFDF" |'''33%'''
+| bgcolor="#C5C5D0" |'''33%'''
+| colspan="2" |34%
+|-
+|Criteria<ref>"Agenda Criteria 3rd August 2025 Measurement" (PDF). ''Criteria Research''. 24 August 2025. Retrieved 30 August 2025.</ref>
+|19–21 Aug 2025
+| bgcolor="#FFDFDF" |'''34%'''
+|31%
+|35%
+|—
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of August - N°604" (PDF). ''Cadem''. 10 August 2025. Retrieved 30 August 2025.</ref>
+|6–8 Aug 2025
+|36%
+| bgcolor="#C5C5D0" |'''39%'''
+| colspan="2" |25%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of August - N°603" (PDF). ''Cadem''. 3 August 2025. Retrieved 30 August 2025.</ref>
+|30 Jul – 1 Aug 2025
+| bgcolor="#FFDFDF" |'''38%'''
+| bgcolor="#C5C5D0" |'''38%'''
+| colspan="2" |24%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of June - N°598" (PDF). ''Cadem''. 29 June 2025. Retrieved 30 August 2025.</ref>
+|25–27 Jun 2025
+|32%
+| bgcolor="#C5C5D0" |'''44%'''
+| colspan="2" |24%
+|}
+
+=== Jara vs. Matthei ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Jeannette Jara|Jara]]<br><small>[[Unity for Chile|UpCh]]</small>
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Chile Vamos|ChV]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#FF8080" |
+! class="unsortable" style="background:#006BB0" |
+|-
+|Panel Ciudadano<ref>"Presidential voting intention" (PDF). ''panelciudadano.cl''. 23 August 2025. Retrieved 30 August 2025.</ref>
+|21–22 Aug 2025
+|29%
+| bgcolor="#BFDAEB" |'''44%'''
+| colspan="2" |27%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of August - N°606" (PDF). ''Cadem''. 24 August 2025. Retrieved 30 August 2025.</ref>
+|20–22 Aug 2025
+|33%
+| bgcolor="#BFDAEB" |'''40%'''
+| colspan="2" |27%
+|-
+|Criteria<ref>"Agenda Criteria 3rd August 2025 Measurement" (PDF). ''Criteria Research''. 24 August 2025. Retrieved 30 August 2025.</ref>
+|19–21 Aug 2025
+|32%
+| bgcolor="#BFDAEB" |'''42%'''
+|26%
+|—
+|-
+|Activa<ref>"Pulso Ciudadano: Jara (26%) continues to lead for the first round but would fall to Kast and Matthei in the second". ''emol.cl''. 17 August 2025. Retrieved 30 August 2025.</ref>
+|14–15 Aug 2025
+|31,2%
+| bgcolor="#BFDAEB" |'''34,1%'''
+|4,7%
+|30%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano UDD Presidential" (PDF). ''panelciudadano.cl''. 16 August 2025. Retrieved 30 August 2025.</ref>
+|14–15 Aug 2025
+|32%
+| bgcolor="#BFDAEB" |'''42%'''
+| colspan="2" |26%
+|-
+|Criteria<ref>"Agenda Criteria 2nd August 2025 Measurement" (PDF). ''Criteria Research''. 17 August 2025. Retrieved 30 August 2025.</ref>
+|12–14 Aug 2025
+|33%
+| bgcolor="#BFDAEB" |'''42%'''
+| colspan="2" |25%
+|-
+|LCN<ref>González, Antonio (29 May 2025). "“La Cosa Nostra” poll: in the second round Matthei wins everything and Tohá only prevails against Kaiser". ''BioBioChile''. Retrieved 30 August 2025.</ref>
+|1–10 Aug 2025
+|42,6%
+| bgcolor="#BFDAEB" |'''57,4%'''
+| colspan="2" |—
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano UDD Presidential" (PDF). ''panelciudadano.cl''. Retrieved 9 August 2025.</ref>
+|7–8 Aug 2025
+|32%
+| bgcolor="#BFDAEB" |'''44%'''
+| colspan="2" |24%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of August - N°604" (PDF). ''Cadem''. 10 August 2025. Retrieved 30 August 2025.</ref>
+|6–8 Aug 2025
+|37%
+| bgcolor="#BFDAEB" |'''46%'''
+| colspan="2" |17%
+|-
+|Data Influye<ref>"Migrant vote, money laundering, presidential, economy and trends" (PDF). ''Tú Influyes''. 5 August 2025. Retrieved 30 August 2025.</ref>
+|30 Jul – 3 Aug 2025
+|38%
+| bgcolor="#BFDAEB" |'''48%'''
+| colspan="2" |13%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of August - N°603" (PDF). ''Cadem''. 3 August 2025. Retrieved 30 August 2025.</ref>
+|30 Jul – 1 Aug 2025
+|37%
+| bgcolor="#BFDAEB" |'''42%'''
+| colspan="2" |21%
+|-
+|Activa<ref>"Pulso Ciudadano by Activa Research, July 2025, second fortnight - N°108" (PDF). ''Activa Research''. 3 August 2025. Retrieved 30 August 2025.</ref>
+|30 Jul – 1 Aug 2025
+|29,8%
+| bgcolor="#BFDAEB" |'''40,4%'''
+|5,7%
+|24,1%
+|-
+|Panel Ciudadano<ref>"Presidential voting intention July 31, 2025" (PDF). ''panelciudadano.cl''. 2 August 2025. Retrieved 30 August 2025.</ref>
+|30–31 Jul 2025
+|32%
+| bgcolor="#BFDAEB" |'''41%'''
+| colspan="2" |27%
+|-
+|Criteria<ref>"Agenda Criteria 1st August 2025 Measurement" (PDF). ''Criteria Research''. 3 August 2025. Retrieved 30 August 2025.</ref>
+|29–31 Jul 2025
+|34%
+| bgcolor="#BFDAEB" |'''40%'''
+| colspan="2" |26%
+|-
+|LCN<ref>"LCN poll: Jara leads in the first round but loses the runoff and Matthei emerges as "less dangerous"". ''biobiochile.cl''. 25 July 2025. Retrieved 30 August 2025.</ref>
+|12–21 Jul 2025
+|41,5%
+| bgcolor="#BFDAEB" |'''58,5%'''
+| colspan="2" |—
+|-
+|Criteria<ref>"Agenda Criteria 2nd July 2025 Measurement" (PDF). ''Criteria Research''. 20 July 2025. Retrieved 30 August 2025.</ref>
+|15–17 Jul 2025
+|34%
+| bgcolor="#BFDAEB" |'''40%'''
+| colspan="2" |26%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of July - N°600" (PDF). ''Cadem''. 13 July 2025. Retrieved 30 August 2025.</ref>
+|9–11 Jul 2025
+|37%
+| bgcolor="#BFDAEB" |'''42%'''
+| colspan="2" |21%
+|-
+|Data Influye<ref>"Presidential race, government, economy and trends" (PDF). ''Tú Influyes''. 9 July 2025. Retrieved 30 August 2025.</ref>
+|1–6 Jul 2025
+|41%
+| bgcolor="#BFDAEB" |'''43%'''
+| colspan="2" |16%
+|-
+|Criteria<ref>"Agenda Criteria July 2025" (PDF). ''Criteria Research''. 6 July 2025. Retrieved 30 August 2025.</ref>
+|1–3 Jul 2025
+|35%
+| bgcolor="#BFDAEB" |'''40%'''
+| colspan="2" |25%
+|-
+|Panel Ciudadano<ref>"Jara concentrates official support and leads preferences, but Matthei and Kast surpass her in the second round" (PDF). ''panelciudadano.cl''. 1 July 2025. Retrieved 30 August 2025.</ref>
+|29–30 Jun 2025
+|32%
+| bgcolor="#BFDAEB" |'''44%'''
+| colspan="2" |24%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of June - N°598" (PDF). ''Cadem''. 29 June 2025. Retrieved 30 August 2025.</ref>
+|25–27 Jun 2025
+|31%
+| bgcolor="#BFDAEB" |'''50%'''
+|9%
+|10%
+|-
+|LCN<ref>González, Antonio (29 May 2025). "“La Cosa Nostra” poll: in the second round Matthei wins everything and Tohá only prevails against Kaiser". ''BioBioChile''. Retrieved 30 August 2025.</ref>
+|18–24 May 2025
+|38,0%
+| bgcolor="#BFDAEB" |'''62,0%'''
+| colspan="2" |—
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of May - N°591" (PDF). ''Cadem''. 11 May 2025. Retrieved 30 August 2025.</ref>
+|7–9 May 2025
+|24%
+| bgcolor="#BFDAEB" |'''54%'''
+|0%
+|22%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of March - N°585" (PDF). ''Cadem''. 30 March 2025. Retrieved 30 August 2025.</ref>
+|26–28 Mar 2025
+|20%
+| bgcolor="#BFDAEB" |'''60%'''
+|1%
+|19%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Third week of March - N°584" (PDF). ''Cadem''. 23 March 2025. Retrieved 30 August 2025.</ref>
+|5–7 Mar 2025
+|17%
+| bgcolor="#BFDAEB" |'''56%'''
+|2%
+|25%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of February - N°578" (PDF). ''Cadem''. 10 February 2025. Retrieved 30 August 2025.</ref>
+|5–7 Feb 2025
+|20%
+| bgcolor="#BFDAEB" |'''54%'''
+|1%
+|25%
+|}
+
+=== Jara vs. Kaiser ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Jeannette Jara|Jara]]<br><small>[[Unity for Chile|UpCh]]</small>
+! class="unsortable" width="75px" |[[Johannes Kaiser (Chilean politician)|Kaiser]]<br><small>[[National Libertarian Party (Chile)|PNL]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#FF8080" |
+! class="unsortable" style="background:#F28500" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of August - N°606" (PDF). ''Cadem''. 24 August 2025. Retrieved 30 August 2025.</ref>
+|20–22 Aug 2025
+| bgcolor="#FFDFDF" |'''36%'''
+|30%
+| colspan="2" |34%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of August - N°604" (PDF). ''Cadem''. 10 August 2025. Retrieved 30 August 2025.</ref>
+|6–8 Aug 2025
+| bgcolor="#FFDFDF" |'''41%'''
+|35%
+| colspan="2" |24%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of August - N°603" (PDF). ''Cadem''. 3 August 2025. Retrieved 30 August 2025.</ref>
+|30 Jul – 1 Aug 2025
+| bgcolor="#FFDFDF" |'''39%'''
+|32%
+| colspan="2" |29%
+|-
+|LCN<ref>"LCN poll: Jara leads in the first round but loses the runoff and Matthei emerges as "less dangerous"". ''biobiochile.cl''. 25 July 2025. Retrieved 30 August 2025.</ref>
+|12–21 Jul 2025
+|49,3%
+| bgcolor="#FCE1BF" |'''50,2%'''
+| colspan="2" |—
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of June - N°598" (PDF). ''Cadem''. 29 June 2025. Retrieved 30 August 2025.</ref>
+|25–27 Jun 2025
+| bgcolor="#FFDFDF" |'''37%'''
+|31%
+|16%
+|16%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of May - N°591" (PDF). ''Cadem''. 11 May 2025. Retrieved 30 August 2025.</ref>
+|7–9 May 2025
+|30%
+| bgcolor="#FCE1BF" |'''37%'''
+|1%
+|32%
+|}
+
+=== Matthei vs. Kast ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Chile Vamos|ChV]]</small>
+! class="unsortable" width="75px" |[[José Antonio Kast|Kast]]<br><small>[[Republican Party (Chile)|PRCh]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#006BB0" |
+! class="unsortable" style="background:#31446C" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of August - N°606" (PDF). ''Cadem''. 24 August 2025. Retrieved 30 August 2025.</ref>
+|20–22 Aug 2025
+|28%
+| bgcolor="#CAD5E9" |'''36%'''
+| colspan="2" |36%
+|-
+|Activa<ref>"Pulso Ciudadano: Jara (26%) continues to lead for the first round but would fall to Kast and Matthei in the second". ''emol.cl''. 17 August 2025. Retrieved 30 August 2025.</ref>
+|14–15 Aug 2025
+|27,1%
+| bgcolor="#CAD5E9" |'''33,7%'''
+|8,1%
+|31,1%
+|-
+|Activa<ref>"Pulso Ciudadano by Activa Research, July 2025, second fortnight - N°108" (PDF). ''Activa Research''. 3 August 2025. Retrieved 30 August 2025.</ref>
+|30 Jul – 1 Aug 2025
+|25,7%
+| bgcolor="#CAD5E9" |'''31,1%'''
+|8,0%
+|35,2%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of July - N°600" (PDF). ''Cadem''. 13 July 2025. Retrieved 30 August 2025.</ref>
+|9–11 Jul 2025
+|31%
+| bgcolor="#CAD5E9" |'''37%'''
+| colspan="2" |32%
+|-
+|Data Influye<ref>"Presidential race, government, economy and trends" (PDF). ''Tú Influyes''. 9 July 2025. Retrieved 30 August 2025.</ref>
+|1–6 Jul 2025
+|24%
+| bgcolor="#CAD5E9" |'''28%'''
+| colspan="2" |48%
+|-
+|Panel Ciudadano<ref>"Jara concentrates official support and leads preferences, but Matthei and Kast surpass her in the second round" (PDF). ''panelciudadano.cl''. 1 July 2025. Retrieved 30 August 2025.</ref>
+|29–30 Jun 2025
+|32%
+| bgcolor="#CAD5E9" |'''35%'''
+| colspan="2" |33%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of June - N°598" (PDF). ''Cadem''. 29 June 2025. Retrieved 30 August 2025.</ref>
+|25–27 Jun 2025
+|34%
+| bgcolor="#CAD5E9" |'''37%'''
+|14%
+|15%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano-UDD: Kaiser cae ocho puntos en dos meses y Kast se consolida segundo" (PDF). ''panelciudadano.cl''. 22 May 2025. Retrieved 30 August 2025.</ref>
+|20 May 2025
+| bgcolor="#BFDAEB" |'''32%'''
+|30%
+|9%
+|29%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of May - N°591" (PDF). ''Cadem''. 11 May 2025. Retrieved 30 August 2025.</ref>
+|7–9 May 2025
+| bgcolor="#BFDAEB" |'''44%'''
+|30%
+|1%
+|25%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of March - N°585" (PDF). ''Cadem''. 30 March 2025. Retrieved 30 August 2025.</ref>
+|26–28 Mar 2025
+| bgcolor="#BFDAEB" |'''44%'''
+|34%
+|2%
+|20%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Third week of March - N°584" (PDF). ''Cadem''. 23 March 2025. Retrieved 30 August 2025.</ref>
+|5–7 Mar 2025
+| bgcolor="#BFDAEB" |'''41%'''
+|31%
+|3%
+|25%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of February - N°578" (PDF). ''Cadem''. 10 February 2025. Retrieved 30 August 2025.</ref>
+|5–7 Feb 2025
+| bgcolor="#BFDAEB" |'''43%'''
+|29%
+|2%
+|26%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of January - N°574" (PDF). ''Cadem''. 12 January 2025. Retrieved 30 August 2025.</ref>
+|8–10 Jan 2025
+| bgcolor="#BFDAEB" |'''52%'''
+|28%
+|2%
+|18%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of December - N°570" (PDF). ''Cadem''. 15 December 2024. Retrieved 30 August 2025.</ref>
+|11–13 Dec 2024
+| bgcolor="#BFDAEB" |'''57%'''
+|21%
+|2%
+|20%
+|-
+|Activa<ref>"Pulso Ciudadano of Activa Research, November 2024, second fortnight - N°100" (PDF). ''Activa Research''. 2 December 2024. Retrieved 30 August 2025.</ref>
+|28–29 Nov 2024
+| bgcolor="#BFDAEB" |'''39,9%'''
+|29,0%
+|—
+|31,1%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of November - N°568" (PDF). ''Cadem''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|27–29 Nov 2024
+| bgcolor="#BFDAEB" |'''54%'''
+|27%
+|1%
+|18%
+|-
+|Panel Ciudadano<ref>"Matthei continues to lead presidential preference and Vodanovic positions himself as a leader" (PDF). ''panelciudadano.cl''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|25–26 Nov 2024
+| bgcolor="#BFDAEB" |'''40%'''
+|24%
+|29%
+|7%
+|-
+|Panel Ciudadano<ref>"Post-election presidential poll: Matthei's advantage in 1st and 2nd round, and Vodanovic takes off in the presidential race" (PDF). ''panelciudadano.cl''. 1 November 2024. Retrieved 30 August 2025.</ref>
+|28–29 Oct 2024
+| bgcolor="#BFDAEB" |'''40%'''
+|24%
+|31%
+|5%
+|-
+|Panel Ciudadano<ref>"Presidential Preferences: Matthei widens her lead by 3 points and distances herself from Bachelet and Kast" (PDF). ''panelciudadano.cl''. 24 September 2024. Retrieved 30 August 2025.</ref>
+|16–17 Sep 2024
+| bgcolor="#BFDAEB" |'''44%'''
+|19%
+|29%
+|7%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of September - N°557" (PDF). ''Cadem''. 15 September 2024. Retrieved 30 August 2025.</ref>
+|11–13 Sep 2024
+| bgcolor="#BFDAEB" |'''61%'''
+|21%
+|2%
+|16%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of August - N°552" (PDF). ''Cadem''. 11 August 2024. Retrieved 30 August 2025.</ref>
+|7–9 Aug 2024
+| bgcolor="#BFDAEB" |'''61%'''
+|22%
+|3%
+|14%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of June - N°544" (PDF). ''Cadem''. 16 June 2024. Retrieved 30 August 2025.</ref>
+|12–14 Jun 2024
+| bgcolor="#BFDAEB" |'''52%'''
+|29%
+|2%
+|17%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano 14/Jun/2024" (PDF). ''panelciudadano.cl''. 17 June 2024. Retrieved 30 August 2025.</ref>
+|12–13 Jun 2024
+| bgcolor="#BFDAEB" |'''41%'''
+|23%
+|27%
+|9%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of April - N°534" (PDF). ''Cadem''. 7 April 2024. Retrieved 30 August 2025.</ref>
+|3–5 Apr 2024
+| bgcolor="#BFDAEB" |'''56%'''
+|25%
+|1%
+|18%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano-UDD: Matthei pulls away from Kast and reaches 30% of presidential preferences" (PDF). ''EX-Ante''. 25 February 2024. Retrieved 30 August 2025.</ref>
+|23–24 Feb 2024
+| bgcolor="#BFDAEB" |'''48%'''
+|23%
+|26%
+|4%
+|}
+
+=== Matthei vs. Kaiser ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Chile Vamos|ChV]]</small>
+! class="unsortable" width="75px" |[[Johannes Kaiser (Chilean politician)|Kaiser]]<br><small>[[National Libertarian Party (Chile)|PNL]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#006BB0" |
+! class="unsortable" style="background:#F28500" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of June - N°598" (PDF). ''Cadem''. 29 June 2025. Retrieved 30 August 2025.</ref>
+|25–27 Jun 2025
+| bgcolor="#BFDAEB" |'''48%'''
+|19%
+|15%
+|18%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of May - N°591" (PDF). ''Cadem''. 11 May 2025. Retrieved 30 August 2025.</ref>
+|7–9 May 2025
+| bgcolor="#BFDAEB" |'''48%'''
+|21%
+|2%
+|29%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of March - N°585" (PDF). ''Cadem''. 30 March 2025. Retrieved 30 August 2025.</ref>
+|26–28 Mar 2025
+| bgcolor="#BFDAEB" |'''47%'''
+|27%
+|1%
+|25%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Third week of March - N°584" (PDF). ''Cadem''. 23 March 2025. Retrieved 30 August 2025.</ref>
+|5–7 Mar 2025
+| bgcolor="#BFDAEB" |'''43%'''
+|32%
+|3%
+|22%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of February - N°578" (PDF). ''Cadem''. 10 February 2025. Retrieved 30 August 2025.</ref>
+|5–7 Feb 2025
+| bgcolor="#BFDAEB" |'''50%'''
+|27%
+|1%
+|22%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of January - N°574" (PDF). ''Cadem''. 12 January 2025. Retrieved 30 August 2025.</ref>
+|8–10 Jan 2025
+| bgcolor="#BFDAEB" |'''58%'''
+|21%
+|1%
+|20%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of December - N°570" (PDF). ''Cadem''. 15 December 2024. Retrieved 30 August 2025.</ref>
+|11–13 Dec 2024
+| bgcolor="#BFDAEB" |'''64%'''
+|13%
+|2%
+|21%
+|}
+
+=== Enríquez-Ominami vs. Matthei ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Marco Enríquez-Ominami|ME-O]]<br><small>[[Independent (politician)|Ind.]]</small>
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Chile Vamos|ChV]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#8B8B8B" |
+! class="unsortable" style="background:#006BB0" |
+|-
+|LCN<ref>González, Antonio (29 May 2025). "“La Cosa Nostra” poll: in the second round Matthei wins everything and Tohá only prevails against Kaiser". ''BioBioChile''. Retrieved 30 August 2025.</ref>
+|18–24 May 2025
+|37,0%
+| bgcolor="#BFBFDF" |'''63,0%'''
+| colspan="2" |—
+|-
+|Cadem<ref>"Plaza Pública Cadem. Third week of March - N°584" (PDF). ''Cadem''. 23 March 2025. Retrieved 30 August 2025.</ref>
+|5–7 Mar 2025
+|23%
+| bgcolor="#BFBFDF" |'''51%'''
+|2%
+|24%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of November - N°568" (PDF). ''Cadem''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|27–29 Nov 2024
+|21%
+| bgcolor="#BFBFDF" |'''60%'''
+|1%
+|18%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of June - N°544" (PDF). ''Cadem''. 16 June 2024. Retrieved 30 August 2025.</ref>
+|12–14 Jun 2024
+|29%
+| bgcolor="#BFBFDF" |'''57%'''
+|2%
+|12%
+|}
+
+=== Enríquez-Ominami vs. Kast ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Marco Enríquez-Ominami|ME-O]]<br><small>[[Independent (politician)|Ind.]]</small>
+! class="unsortable" width="75px" |[[José Antonio Kast|Kast]]<br><small>[[Republican Party (Chile)|PRCh]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#8B8B8B" |
+! class="unsortable" style="background:#31446C" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of November - N°568" (PDF). ''Cadem''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|27–29 Nov 2024
+|31%
+| bgcolor="#CAD5E9" |'''46%'''
+|1%
+|22%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of June - N°544" (PDF). ''Cadem''. 16 June 2024. Retrieved 30 August 2025.</ref>
+|12–14 Jun 2024
+|37%
+| bgcolor="#CAD5E9" |'''49%'''
+|1%
+|13%
+|}
+
+=== Parisi vs. Matthei ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Franco Parisi|Parisi]]<br><small>[[Party of the People (Chile)|PDG]]</small>
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Chile Vamos|ChV]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#181644" |
+! class="unsortable" style="background:#006BB0" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of June - N°598" (PDF). ''Cadem''. 29 June 2025. Retrieved 30 August 2025.</ref>
+|25–27 Jun 2025
+|37%
+| bgcolor="#BFDAEB" |'''39%'''
+|11%
+|13%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of May - N°591" (PDF). ''Cadem''. 11 May 2025. Retrieved 30 August 2025.</ref>
+|7–9 May 2025
+|24%
+| bgcolor="#BFDAEB" |'''48%'''
+|1%
+|27%
+|}
+
+=== Parisi vs. Kast ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Franco Parisi|Parisi]]<br><small>[[Party of the People (Chile)|PDG]]</small>
+! class="unsortable" width="75px" |[[José Antonio Kast|Kast]]<br><small>[[Republican Party (Chile)|PRCh]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#181644" |
+! class="unsortable" style="background:#31446C" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of June - N°598" (PDF). ''Cadem''. 29 June 2025. Retrieved 30 August 2025.</ref>
+|25–27 Jun 2025
+|29%
+| bgcolor="#CAD5E9" |'''41%'''
+|13%
+|17%
+|}
+
+=== Other scenarios ===
+In addition to the second-round scenarios mentioned previously, pollsters conducted surveys with other possible pairings of presidential pre-candidates who later decided not to participate in the election or lost their pact's primary election.
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Michelle Bachelet|Bachelet]]<br><small>[[Socialist Party of Chile|PS]]</small>
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Independent Democratic Union (Chile)|UDI]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#CE0021" |
+! class="unsortable" style="background:#000080" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of February - N°578" (PDF). ''Cadem''. 10 February 2025. Retrieved 30 August 2025.</ref>
+|5–7 Feb 2025
+|37%
+| bgcolor="#BFBFDF" |'''45%'''
+|2%
+|16%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of January - N°574" (PDF). ''Cadem''. 12 January 2025. Retrieved 30 August 2025.</ref>
+|8–10 Jan 2025
+|43%
+| bgcolor="#BFBFDF" |'''47%'''
+|0%
+|10%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of December - N°570" (PDF). ''Cadem''. 15 December 2024. Retrieved 30 August 2025.</ref>
+|11–13 Dec 2024
+|39%
+| bgcolor="#BFBFDF" |'''51%'''
+|1%
+|9%
+|-
+|Criteria<ref>"Agenda Criteria, December 2024" (PDF). ''Criteria Research''. 4 December 2024. Retrieved 30 August 2025.</ref>
+|29 Nov – 2 Dec 2024
+|32%
+| bgcolor="#BFBFDF" |'''44%'''
+| colspan="2" |24%
+|-
+|Activa<ref>"Pulso Ciudadano of Activa Research, November 2024, second fortnight - N°100" (PDF). ''Activa Research''. 2 December 2024. Retrieved 30 August 2025.</ref>
+|28–29 Nov 2024
+|31,8%
+| bgcolor="#BFBFDF" |'''46,4%'''
+|—
+|21,8%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of November - N°568" (PDF). ''Cadem''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|27–29 Nov 2024
+|34%
+| bgcolor="#BFBFDF" |'''50%'''
+|1%
+|15%
+|-
+|Panel Ciudadano<ref>"Matthei continues to lead presidential preference and Vodanovic positions himself as a leader" (PDF). ''panelciudadano.cl''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|25–26 Nov 2024
+|30%
+| bgcolor="#BFBFDF" |'''47%'''
+|17%
+|6%
+|-
+|Panel Ciudadano<ref>"Post-election presidential poll: Matthei's advantage in 1st and 2nd round, and Vodanovic takes off in the presidential race" (PDF). ''panelciudadano.cl''. 1 November 2024. Retrieved 30 August 2025.</ref>
+|28–29 Oct 2024
+|31%
+| bgcolor="#BFBFDF" |'''47%'''
+|17%
+|5%
+|-
+|Panel Ciudadano<ref>"Presidential Preferences: Matthei widens her lead by 3 points and distances herself from Bachelet and Kast" (PDF). ''panelciudadano.cl''. 24 September 2024. Retrieved 30 August 2025.</ref>
+|16–17 Sep 2024
+|31%
+| bgcolor="#BFBFDF" |'''47%'''
+|15%
+|7%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of September - N°557" (PDF). ''Cadem''. 15 September 2024. Retrieved 30 August 2025.</ref>
+|11–13 Sep 2024
+|38%
+| bgcolor="#BFBFDF" |'''54%'''
+|1%
+|7%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of August - N°552" (PDF). ''Cadem''. 11 August 2024. Retrieved 30 August 2025.</ref>
+|7–9 Aug 2024
+|45%
+| bgcolor="#BFBFDF" |'''49%'''
+|1%
+|5%
+|-
+|Criteria<ref>"Agenda Criteria, August 2024" (PDF). ''Criteria Research''. 7 August 2024. Retrieved 30 August 2025.</ref>
+|1–5 Aug 2024
+|33%
+| bgcolor="#BFBFDF" |'''45%'''
+| colspan="2" |22%
+|-
+|Criteria<ref>"Agenda Criteria, July 2024" (PDF). ''Criteria Research''. 3 July 2024. Retrieved 30 August 2025.</ref>
+|28 Jun – 1 Jul 2024
+|35%
+| bgcolor="#BFBFDF" |'''43%'''
+| colspan="2" |22%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of June - N°544" (PDF). ''Cadem''. 16 June 2024. Retrieved 30 August 2025.</ref>
+|12–14 Jun 2024
+|42%
+| bgcolor="#BFBFDF" |'''49%'''
+|0%
+|9%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano 14/Jun/2024" (PDF). ''panelciudadano.cl''. 17 June 2024. Retrieved 30 August 2025.</ref>
+|12–13 Jun 2024
+|28%
+| bgcolor="#BFBFDF" |'''45%'''
+|20%
+|7%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of April - N°534" (PDF). ''Cadem''. 7 April 2024. Retrieved 30 August 2025.</ref>
+|3–5 Apr 2024
+|39%
+| bgcolor="#BFBFDF" |'''53%'''
+|0%
+|8%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano-UDD: Matthei pulls away from Kast and reaches 30% of presidential preferences" (PDF). ''EX-Ante''. 25 February 2024. Retrieved 30 August 2025.</ref>
+|23–24 Feb 2024
+|32%
+| bgcolor="#BFBFDF" |'''46%'''
+|17%
+|5%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano UDD. Presidential 2025" (PDF). ''panelciudadano.cl''. 24 December 2023. Retrieved 30 August 2025.</ref>
+|20–21 Dec 2023
+|28%
+| bgcolor="#BFBFDF" |'''45%'''
+|22%
+|5%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Michelle Bachelet|Bachelet]]<br><small>[[Socialist Party of Chile|PS]]</small>
+! class="unsortable" width="75px" |[[José Antonio Kast|Kast]]<br><small>[[Republican Party (Chile)|PRCh]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#CE0021" |
+! class="unsortable" style="background:#31446C" |
+|-
+|Criteria<ref>"Agenda Criteria, December 2024" (PDF). ''Criteria Research''. 4 December 2024. Retrieved 30 August 2025.</ref>
+|29 Nov – 2 Dec 2024
+| bgcolor="#f3bfc8" |'''37%'''
+|36%
+| colspan="2" |27%
+|-
+|Activa<ref>"Pulso Ciudadano of Activa Research, November 2024, second fortnight - N°100" (PDF). ''Activa Research''. 2 December 2024. Retrieved 30 August 2025.</ref>
+|28–29 Nov 2024
+|36,7%
+| bgcolor="#CAD5E9" |'''39,8%'''
+|—
+|23,5%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of November - N°568" (PDF). ''Cadem''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|27–29 Nov 2024
+| bgcolor="#f3bfc8" |'''44%'''
+|39%
+|2%
+|15%
+|-
+|Panel Ciudadano<ref>"Matthei continues to lead presidential preference and Vodanovic positions himself as a leader" (PDF). ''panelciudadano.cl''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|25–26 Nov 2024
+|34%
+| bgcolor="#CAD5E9" |'''39%'''
+|21%
+|6%
+|-
+|Panel Ciudadano<ref>"Post-election presidential poll: Matthei's advantage in 1st and 2nd round, and Vodanovic takes off in the presidential race" (PDF). ''panelciudadano.cl''. 1 November 2024. Retrieved 30 August 2025.</ref>
+|28–29 Oct 2024
+|35%
+| bgcolor="#CAD5E9" |'''40%'''
+|20%
+|5%
+|-
+|Panel Ciudadano<ref>"Presidential Preferences: Matthei widens her lead by 3 points and distances herself from Bachelet and Kast" (PDF). ''panelciudadano.cl''. 24 September 2024. Retrieved 30 August 2025.</ref>
+|16–17 Sep 2024
+| bgcolor="#f3bfc8" |'''35%'''
+|33%
+|23%
+|8%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of September - N°557" (PDF). ''Cadem''. 15 September 2024. Retrieved 30 August 2025.</ref>
+|11–13 Sep 2024
+| bgcolor="#f3bfc8" |'''49%'''
+|38%
+|2%
+|11%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of August - N°552" (PDF). ''Cadem''. 11 August 2024. Retrieved 30 August 2025.</ref>
+|7–9 Aug 2024
+| bgcolor="#f3bfc8" |'''52%'''
+|38%
+|2%
+|8%
+|-
+|Criteria<ref>"Agenda Criteria, August 2024" (PDF). ''Criteria Research''. 7 August 2024. Retrieved 30 August 2025.</ref>
+|1–5 Aug 2024
+| bgcolor="#f3bfc8" |'''40%'''
+|34%
+| colspan="2" |26%
+|-
+|Criteria<ref>"Agenda Criteria, July 2024" (PDF). ''Criteria Research''. 3 July 2024. Retrieved 30 August 2025.</ref>
+|28 Jun – 1 Jul 2024
+| bgcolor="#f3bfc8" |'''42%'''
+|32%
+| colspan="2" |26%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of June - N°544" (PDF). ''Cadem''. 16 June 2024. Retrieved 30 August 2025.</ref>
+|12–14 Jun 2024
+| bgcolor="#f3bfc8" |'''48%'''
+|42%
+|1%
+|9%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano 14/Jun/2024" (PDF). ''panelciudadano.cl''. 17 June 2024. Retrieved 30 August 2025.</ref>
+|12–13 Jun 2024
+|34%
+| bgcolor="#CAD5E9" |'''39%'''
+|19%
+|8%
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of April - N°534" (PDF). ''Cadem''. 7 April 2024. Retrieved 30 August 2025.</ref>
+|3–5 Apr 2024
+| bgcolor="#f3bfc8" |'''46%'''
+|39%
+|1%
+|14%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano-UDD: Matthei pulls away from Kast and reaches 30% of presidential preferences" (PDF). ''EX-Ante''. 25 February 2024. Retrieved 30 August 2025.</ref>
+|23–24 Feb 2024
+|33%
+| bgcolor="#CAD5E9" |'''43%'''
+|19%
+|6%
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano UDD. Presidential 2025" (PDF). ''panelciudadano.cl''. 24 December 2023. Retrieved 30 August 2025.</ref>
+|20–21 Dec 2023
+|36%
+| bgcolor="#CAD5E9" |'''41%'''
+|19%
+|4%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Michelle Bachelet|Bachelet]]<br><small>[[Socialist Party of Chile|PS]]</small>
+! class="unsortable" width="75px" |[[Rodolfo Carter|Carter]]<br><small>[[Independent (politician)|Ind.]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#CE0021" |
+! class="unsortable" style="background:#8B8B8B" |
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano 14/Jun/2024" (PDF). ''panelciudadano.cl''. 17 June 2024. Retrieved 30 August 2025.</ref>
+|12–13 Jun 2024
+| bgcolor="#f3bfc8" |'''33%'''
+|30%
+|26%
+|11%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Michelle Bachelet|Bachelet]]<br><small>[[Socialist Party of Chile|PS]]</small>
+! class="unsortable" width="75px" |[[Claudio Orrego|Orrego]]<br><small>[[Independent (politician)|Ind.]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#CE0021" |
+! class="unsortable" style="background:#8B8B8B" |
+|-
+|Panel Ciudadano<ref>"Presidential Preferences: Matthei widens her lead by 3 points and distances herself from Bachelet and Kast" (PDF). ''panelciudadano.cl''. 24 September 2024. Retrieved 30 August 2025.</ref>
+|16–17 Sep 2024
+| bgcolor="#f3bfc8" |'''36%'''
+|15%
+|36%
+|13%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Eduardo Frei Ruiz-Tagle|Frei]]<br><small>[[Christian Democratic Party (Chile)|DC]]</small>
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Independent Democratic Union (Chile)|UDI]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#1E90FF" |
+! class="unsortable" style="background:#000080" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of February - N°578" (PDF). ''Cadem''. 10 February 2025. Retrieved 30 August 2025.</ref>
+|5–7 Feb 2025
+|25%
+| bgcolor="#BFBFDF" |'''50%'''
+|1%
+|24%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of January - N°574" (PDF). ''Cadem''. 12 January 2025. Retrieved 30 August 2025.</ref>
+|8–10 Jan 2025
+|29%
+| bgcolor="#BFBFDF" |'''55%'''
+|0%
+|16%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of December - N°570" (PDF). ''Cadem''. 15 December 2024. Retrieved 30 August 2025.</ref>
+|11–13 Dec 2024
+|29%
+| bgcolor="#BFBFDF" |'''57%'''
+|1%
+|13%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Ricardo Lagos Weber|Lagos W.]]<br><small>[[Party for Democracy (Chile)|PPD]]</small>
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Independent Democratic Union (Chile)|UDI]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#FFA500" |
+! class="unsortable" style="background:#000080" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of February - N°578" (PDF). ''Cadem''. 10 February 2025. Retrieved 30 August 2025.</ref>
+|5–7 Feb 2025
+|20%
+| bgcolor="#BFBFDF" |'''53%'''
+|1%
+|26%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Mario Marcel|Marcel]]<br><small>[[Independent (politician)|Ind.]]</small>
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Independent Democratic Union (Chile)|UDI]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#8B8B8B" |
+! class="unsortable" style="background:#000080" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. First week of February - N°578" (PDF). ''Cadem''. 10 February 2025. Retrieved 30 August 2025.</ref>
+|5–7 Feb 2025
+|22%
+| bgcolor="#BFBFDF" |'''55%'''
+|1%
+|22%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of September - N°557" (PDF). ''Cadem''. 15 September 2024. Retrieved 30 August 2025.</ref>
+|11–13 Sep 2024
+|18%
+| bgcolor="#BFBFDF" |'''67%'''
+|1%
+|14%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of August - N°552" (PDF). ''Cadem''. 11 August 2024. Retrieved 30 August 2025.</ref>
+|7–9 Aug 2024
+|22%
+| bgcolor="#BFBFDF" |'''65%'''
+|2%
+|11%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Mario Marcel|Marcel]]<br><small>[[Independent (politician)|Ind.]]</small>
+! class="unsortable" width="75px" |[[José Antonio Kast|Kast]]<br><small>[[Republican Party (Chile)|PRCh]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#8B8B8B" |
+! class="unsortable" style="background:#31446C" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of September - N°557" (PDF). ''Cadem''. 15 September 2024. Retrieved 30 August 2025.</ref>
+|11–13 Sep 2024
+|32%
+| bgcolor="#CAD5E9" |'''42%'''
+|3%
+|23%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of August - N°552" (PDF). ''Cadem''. 11 August 2024. Retrieved 30 August 2025.</ref>
+|7–9 Aug 2024
+|34%
+| bgcolor="#CAD5E9" |'''43%'''
+|3%
+|20%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Independent Democratic Union (Chile)|UDI]]</small>
+! class="unsortable" width="75px" |[[Rodolfo Carter|Carter]]<br><small>[[Independent (politician)|Ind.]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#000080" |
+! class="unsortable" style="background:#8B8B8B" |
+|-
+|Panel Ciudadano<ref>"Panel Ciudadano 14/Jun/2024" (PDF). ''panelciudadano.cl''. 17 June 2024. Retrieved 30 August 2025.</ref>
+|12–13 Jun 2024
+| bgcolor="#BFBFDF" |'''46%'''
+|15%
+|30%
+|9%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Vlado Mirosevic|Mirosevic]]<br><small>[[Liberal Party of Chile|PL]]</small>
+! class="unsortable" width="75px" |[[Evelyn Matthei|Matthei]]<br><small>[[Independent Democratic Union (Chile)|UDI]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#EF4848" |
+! class="unsortable" style="background:#000080" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Third week of March - N°584" (PDF). ''Cadem''. 23 March 2025. Retrieved 30 August 2025.</ref>
+|5–7 Mar 2025
+|17%
+| bgcolor="#BFBFDF" |'''57%'''
+|2%
+|24%
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of November - N°568" (PDF). ''Cadem''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|27–29 Nov 2024
+|16%
+| bgcolor="#BFBFDF" |'''62%'''
+|1%
+|21%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Vlado Mirosevic|Mirosevic]]<br><small>[[Liberal Party of Chile|PL]]</small>
+! class="unsortable" width="75px" |[[José Antonio Kast|Kast]]<br><small>[[Republican Party (Chile)|PRCh]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#EF4848" |
+! class="unsortable" style="background:#31446C" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Fourth week of November - N°568" (PDF). ''Cadem''. 1 December 2024. Retrieved 30 August 2025.</ref>
+|27–29 Nov 2024
+|22%
+| bgcolor="#CAD5E9" |'''47%'''
+|1%
+|30%
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" class="unsortable" width="110px" |Pollster
+! rowspan="2" class="unsortable" width="110px" |Date
+! class="unsortable" width="75px" |[[Gonzalo Winter|Winter]]<br><small>[[Broad Front (Chilean political coalition)|FA]]</small>
+! class="unsortable" width="75px" |[[Johannes Kaiser (Chilean politician)|Kaiser]]<br><small>[[National Libertarian Party (Chile)|PNL]]</small>
+! rowspan="2" class="unsortable" width="60px" |Would not vote
+! rowspan="2" class="unsortable" width="60px" |Undecided/No answer
+|-
+! class="unsortable" style="background:#2FA8E0" |
+! class="unsortable" style="background:#F28500" |
+|-
+|Cadem<ref>"Plaza Pública Cadem. Second week of May - N°591" (PDF). ''Cadem''. 11 May 2025. Retrieved 30 August 2025.</ref>
+|7–9 May 2025
+|25%
+| bgcolor="#FCE1BF" |'''37%'''
+| colspan="2" |38%
+|}
+
+== See also ==
+* [[Opinion polling for the 2021 Chilean presidential election]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+[[Category:Opinion polling in Chile]]

@@ -1,0 +1,6200 @@
+A continuación, se muestran las encuestas de intención de voto respecto de las [[elecciones generales de Uruguay de 2024]], en las que resultaron electos  [[Yamandú Orsi]] y [[Carolina Cosse]] como [[Presidente de Uruguay|presidente]] y [[Vicepresidente de Uruguay|vicepresidente]] del país, respectivamente, para el periodo 2025-2030.
+
+== Primera vuelta ==
+=== Por partido político ===
+====Gráfico====
+{{Switcher|[[Archivo:EncuestasPV2024.svg|1000px]]|Línea de tendencia de [[regresión local]] de la intención de voto para la primera vuelta.
+|[[Archivo:PrimeraVuelta_DespInternas.svg|1000px]]|Línea de tendencia de [[regresión local]] de la intención de voto para la primera vuelta, después de las internas.
+|[[Archivo:PrimeraVuelta AntesInternas.svg|1000px]]|Línea de tendencia de [[regresión local]] de la intención de voto para la primera vuelta, antes de las internas.
+}}
+
+==== Encuestas  ====
+{| class="wikitable mw-collapsible" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="2" style="width:150px;" |Encuestadora
+! rowspan="2" style="width:250px;" |Fecha
+!style="width:50px;"|[[Archivo:Logo_Frente_Amplio.svg|45px|link=Frente Amplio (Uruguay)]]
+!style="width:50px;"|[[Archivo:Flag_of_the_National_Party_%28Uruguay%29.svg|45px|link=Partido Nacional (Uruguay)]]
+!style="width:50px;"|[[Archivo:Flag_of_Colorado_Party_%28Uruguay%29.svg|centro|45px|link=Partido Colorado (Uruguay)]]
+!style="width:50px;"|[[Archivo:Partido cabildo abierto 270x180 flag version.jpg|centro|45px|link=Cabildo Abierto (partido político)]]
+!style="width:50px;"|[[Archivo:Bandera_Partido_Independiente.png|centro|45px|link=Partido Independiente (Uruguay)]]
+!style="width:50px;"|[[Archivo:Bandera_PERI.png|centro|45px|link=Partido Ecologista Radical Intransigente]]
+!style="width:50px;"| [[Identidad Soberana|I.S.]]
+! rowspan="2" style="width:40px;" |Otros
+!rowspan=2 style="width:50px;"|Blanco /<br/>Anulado
+!rowspan=2 style="width:50px;"|Indecisos
+!rowspan="2" style="width:50px;"|Ventaja
+|-
+| bgcolor="{{Color político|Frente Amplio (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Nacional (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Colorado (Uruguay)}}" |
+| bgcolor="{{Color político|Cabildo Abierto (partido político)}}" |
+| bgcolor="{{Color político|Partido Independiente (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Ecologista Radical Intransigente}}" |
+| style="background:#0030fe" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2024|Elecciones generales]]'''
+|'''27 de octubre de 2024'''
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''43,86%'''
+|26,82%
+|16,07%
+|2,48%
+|1,7%
+|0,4%
+|2,69%
+|1,1%
+|3,6%
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17,5%'''
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |25 de octubre de 2024
+| colspan="11" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para las generales.
+|-
+|[https://cbconsultoraop.com/uruguay-elecciones-2024-cb-consultora-o-p-1017-casos-21-a-24-de-octubre/ CB Consultora]
+|21–24 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''43,7%'''
+|20,4%
+|19,7%
+|2%
+|3,6%
+|{{Celda|N/A}}
+|2,4%
+|1,3%
+|1,7%
+|5,2%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''23,3%'''
+|-
+|[https://www.carasycaretas.com.uy/politica/encuesta-radar-refleja-escenario-muy-parejo-delgado-y-ojeda-21-20-n78608 Grupo Radar]
+|21–23 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41%'''
+|21%
+|20%
+|3%
+|2%
+|1%
+|2%
+|2%
+|4%
+|4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''20%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-octubre-2024-2/ Opcion Consultores]
+|17–23 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45%'''
+|24%
+|16%
+|4%
+|1%
+|{{Celda|N/A}}
+|4%
+|2%
+| colspan="2" |4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''21%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241024a.php Factum]
+|16–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45,5%'''
+|25,1%
+|15%
+|4,1%
+|2,5%
+|{{Celda|N/A}}
+|2,9%
+|1,3%
+|3,6%
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''20,4%'''
+|-
+|[https://equipos.com.uy/noticias/Proyeccion-de-Equipos-Consultores-FA-45,8-PN-25,8-,-PC-17,7-/289 Equipos Consultores]
+|8–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41,4%'''
+|20,2%
+|16,1%
+|1,6%
+|2%
+|0,9%
+|1,9%
+|0,7%
+|3,7%
+|11,5%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''21,2%'''
+|-
+|[https://usina.com.uy/24-10-2024-47-votaria-al-frente-amplio-y-25-al-partido-nacional-el-proximo-domingo-segun-la-usina-de-percepcion-ciudadana-2/ Usina de Percepción Ciudadana]
+|18–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|25%
+|16%
+|3%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|4%
+| colspan="2" | 4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''22%'''
+|-
+|[https://www.nomadeconsultora.uy/post/%C3%BAltimos-datos-sobre-intenci%C3%B3n-de-voto Nómade Consultora]
+|16–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45,3%'''
+|20,2%
+|16,8%
+|2,3%
+|1,0%
+|{{Celda|N/A}}
+|2,1%
+|1%
+|3,1%
+|8,2%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''25,1%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-el-27-de-octubre/ Cifra]
+|11–20 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|23%
+|15%
+|3%
+|2%
+|{{Celda|N/A}}
+|2%
+|1%
+|2%
+|8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''21%'''
+|-
+|[https://www.telenoche.com.uy/nacionales/andres-ojeda-esta-un-punto-alvaro-delgado-segun-la-ultima-encuesta-intencion-voto-radar-n5375084 Grupo Radar]
+|12–15 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41%'''
+|19%
+|18%
+|3%
+|2%
+|{{Celda|N/A}}
+|3%
+|1%
+|4%
+|9%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''22%'''
+|-
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-el-observador-y-la-udelar-asi-se-posicionan-orsi-delgado-y-ojeda-las-elecciones-nacionales-2024-n5966180 El Observador]
+|10–14 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44,3%'''
+|24,2%
+|15,5%
+|2,5%
+|1,7%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3,1%
+|4%
+|4,6%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''20,1%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241014.php Factum]
+|28 de septiembre–6 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|24%
+|17%
+|4%
+|3%
+|{{Celda|N/A}}
+|3%
+|2%
+|3%
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''20%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/10/yamandu-orsi-aventaja-a-alvaro-delgado-por-mas-de-25-puntos-segun-consultora-argentina/ Proyección Consultores]
+|24 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46,0%'''
+|20,2%
+|15,0%
+|4,0%
+|1,5%
+|0,3%
+|1,6%
+|1,6%
+|2,9%
+|6,7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''25,8%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-setiembre-2024/ Opcion Consultores]
+|23 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''42%'''
+|24%
+|12%
+|3%
+|2%
+|{{Celda|N/A}}
+|2%
+|1%
+| colspan="2" |14%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''18%'''
+|-
+|[https://www.nomadeconsultora.uy/post/la-foto-de-la-intenci%C3%B3n-de-voto-al-primero-de-octubre Nómade Consultora]
+|27 de setiembre - 1 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47,1%'''
+|22,7%
+|13,5%
+|1,9%
+| 0,8%
+|{{Celda|N/A}}
+|1,1%
+|1,5%
+| colspan="2" |11,4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''24,4%'''
+|-
+|[https://usina.com.uy/03-10-2024-yamandu-orsi-derrotaria-por-diez-puntos-a-alvaro-delgado-en-un-eventual-balotaje-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|27–30 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46%'''
+|24%
+|13%
+|2%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3%
+| colspan="2" |11%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''22%'''
+|-
+|[https://twitter.com/data360uy/status/1844399251297796522 Data 360]
+|24–30 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46%'''
+|25%
+|15%
+|4%
+|1%
+|—
+|2%
+|3%{{refn|group=lower-roman|name=1UP}}
+|4%
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''21%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-23/ Cifra]
+|13–26 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|24%
+|14%
+|2%
+|1%
+|{{Celda|N/A}}
+|1%
+|1%
+| colspan="2" |13%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''20%'''
+|-
+|[https://www.elobservador.com.uy/nacional/andres-ojeda-se-acerca-alvaro-delgado-segun-encuesta-intencion-voto-n5963167 Grupo Radar]
+|21–25 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41%'''
+|19%
+|15%
+|3%
+|2%
+|1%
+|2%
+|2%{{refn|group=lower-roman|name=1PCA|1% – Partido Constitucional Ambientalista.}}
+|7%
+|8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''22%'''
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-en-setiembre-el-Frente-Amplio-registra-43-,-y-la-suma-de-los-partidos-de-la-Coalicion-40-/278 Equipos Consultores]
+|11–23 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''43%'''
+|21%
+|15%
+|3%
+|1%
+|{{Celda|N/A}}
+|1%
+|1%{{refn|group=lower-roman|name=1UP}}
+|5%
+|10%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''21%'''
+|-
+|[https://cbconsultoraop.com/uruguay-elecciones-presidente-2024-1045-casos-17-a-21-de-septiembre-2024/ CB Consultora]
+|17–21 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''43,3%'''
+|27,2%
+|15,5%
+|0,9%
+|3,9%
+|{{Celda|N/A}}
+|2,1%
+|0,3%
+|1,6%
+|5,2%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16,1%'''
+|-
+|[https://www.nomadeconsultora.uy/post/crece-el-frente-amplio-y-el-partido-colorado Nómade Consultora]
+|5–9 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46,7%'''
+|24,4%
+|10,8%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|5,8%
+|3,6%
+|8,7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''22%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana240916.php Factum]
+| 31 de agosto–9 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|27%
+|15%
+|4%
+|3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3%
+|4%
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17%'''
+|-
+|[https://equipos.com.uy/noticias/En-agosto-41-votaria-al-Frente-Amplio-y-38-a-los-partidos-de-la-Coalicion-Multicolor/270 Equipos Consultores]
+|14 de agosto–1 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41%'''
+|22%
+|13%
+|3%
+|{{Celda|N/A}}
+|1%
+|1%
+|1%
+|5%
+|13%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''19%'''
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/9/el-fa-alcanzaria-47-de-los-votos-y-la-coalicion-oficialista-40-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|29 de agosto–1 de septiembre de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''47%'''
+|24%
+|13%
+|2%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|2%
+| 5%
+|6%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''23%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |31 de agosto de 2024
+| colspan="11" |El [[Partido Verde Animalista]] no logra la habilitación para participar en las elecciones generales.<ref>{{Cita web|url=https://970universal.com/2024/09/02/el-partido-verde-animalista-y-basta-ya-de-bonica-no-participaran-de-las-elecciones/|título=El Partido Verde Animalista y Basta Ya de Bonica no participarán de las elecciones|fechaacceso=2024-09-04|apellido=Rega|nombre=Andrés|fecha=2024-09-02|sitioweb=970 Universal|idioma=es}}</ref>
+|-
+|[https://data360.uy/Noticias/OPAgosto.html Data 360]
+| 25–31 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45%'''
+|22%
+|15%
+|6%
+|2%
+|{{Celda|N/A}}
+|1%
+|1%{{refn|group=lower-roman|name=1PVA|1% – [[Partido Verde Animalista]].}}}}
+|4%
+|3%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''23%'''
+|-
+
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-agosto-2024// Opcion Consultores]
+| 15–27 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+|23%
+|14%
+|4%
+|1%
+|1%
+|1%
+|1%
+|colspan=2 | 13%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''20%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-22/ Cifra]
+|16–27 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''44%'''
+|28%
+|11%
+|3%
+|1%
+|{{Celda|N/A}}
+|1%
+|1%
+|colspan=2 | 11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''16%'''
+|-
+
+|[https://cbconsultoraop.com/informe-uruguay-elecciones-presidente-2024-1040-casos-15-a-18-de-agosto/ CB Consultora]
+|15–18 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45,1%'''
+|26%
+|14,8%
+|0,6%
+|3,4%
+|{{Celda|N/A}}
+|1,8%
+|1%{{refn|group=lower-roman|name=1UP}}
+|2,7%
+|4,5%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''19,1%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |18 de agosto de 2024
+| colspan="11" |El [[Partido Verde Animalista]] anuncia su fórmula presidencial con Rita Rodríguez y Agustín Helal.<ref name=":2">{{Cita web|url=https://www.elpais.com.uy/informacion/politica/que-partidos-se-bajan-de-las-elecciones-nacionales-algunos-no-llegan-al-quorum-para-proclamar-la-formula|título=¿Qué partidos se bajan de las elecciones nacionales? Algunos no llegan al quorum para proclamar la fórmula|fechaacceso=2024-08-19|fecha=2024-08-19|sitioweb=EL PAIS|idioma=es-UY}}</ref>
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |18 de agosto de 2024
+| colspan="11" |El Partido Avanzar Republicano anuncia su fórmula presidencial con  [[Martín Pérez Banchero]] y Daniel Isi.<ref name=":2" />
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |18 de agosto de 2024
+| colspan="11" |El [[Partido Ecologista Radical Intransigente]] anuncia su fórmula presidencial con [[César Vega]] y Sergio Billiris.<ref name=":2" />
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |18 de agosto de 2024
+| colspan="11" |El Partido Constitucional Ambientalista anuncia su fórmula presidencial con [[Eduardo Lust]] y Luján Criado.<ref name=":2" />
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |18 de agosto de 2024
+| colspan="11" |El Partido Coalición Republicana retira su candidatura. Sólo competirá en mayo de 2025.<ref name=":2" />
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |9 de agosto de 2024
+| colspan="11" |El Partido Basta Ya retira su candidatura.<ref>{{Cita web|url=https://www.elpais.com.uy/informacion/politica/se-bajo-uno-de-los-partidos-politicos-habilitados-para-las-elecciones-nacionales-de-octubre|título=Se bajó uno de los partidos políticos habilitados para las elecciones nacionales de octubre|fechaacceso=2024-08-10|fecha=2024-08-09|sitioweb=EL PAIS|idioma=es-UY}}</ref>
+|-
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-factum-las-elecciones-2024-a-que-partido-votarian-los-uruguayos-n5955944 Factum]
+|27 de julio–8 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''44%'''
+|26%
+|15%
+|5%
+|3%
+|1%
+|1%
+|2%{{refn|group=lower-roman|name=1UP}}
+|3%
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''18%'''
+|-
+|[https://www.nomadeconsultora.uy/post/cae-la-intenci%C3%B3n-de-voto-al-partido-nacional Nómade Consultora]
+|29 de julio–4 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''46,1%'''
+|25,3%
+|9,7%
+|1,3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|2,6%
+|1%
+|14%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''20,8%'''
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-en-julio-43-votaria-al-Frente-Amplio-y-37-a-los-partidos-de-la-Coalicion-Multicolor/260 Equipos Consultores]
+|17–30 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+|22%
+|11%
+|3%
+|1%
+|{{Celda|N/A}}
+|1%
+|1%
+|3%
+|15%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''21%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-21/ Cifra]
+|17–28 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45%'''
+|27%
+|9%
+|3%
+|1%
+|{{Celda|N/A}}
+|1%
+|1%
+|colspan="2" |13%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''18%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |27 de julio de 2024
+| colspan="11" |Por Los Cambios Necesarios anuncia su fórmula presidencial con Guillermo Franchi y Virginia Vaz.<ref>{{Cita web|url=https://www.lavozdemelo.com.uy/2024/07/26/una-mujer-oriunda-de-cerro-largo-sera-candidata-a-la-vicepresidencia-de-la-republica/|título=Una mujer oriunda de Cerro Largo será candidata a la vicepresidencia de la República – RADIO VOZ DE MELO|fechaacceso=2024-07-30|idioma=es}}</ref>
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-julio-2024/ Opcion Consultores]
+|15–25 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''42%'''
+|20%
+|13%
+|4%
+|2%
+|1%
+|1%
+|1%
+|colspan="2" |16%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''22%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |22 de julio de 2024
+| colspan="11" |[[Cabildo Abierto (partido político)|Cabildo Abierto]] anuncia su fórmula presidencial con [[Guido Manini Ríos]] y [[Lorena Quintana]].<ref>{{Cita web|url=https://www.xn--lamaana-7za.uy/politica/manini-rios-anuncio-a-lorena-quintana-como-candidata-a-la-vicepresidencia/|título=Manini Ríos anunció a Lorena Quintana como candidata a la vicepresidencia {{!}} La Mañana|fechaacceso=2024-07-24|fecha=2024-07-23|idioma=es}}</ref>
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/7/elecciones-nacionales-fa-tiene-48-de-intencion-de-voto-y-la-coalicion-multicolor-38-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|5–9 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''48%'''
+|24%
+|11%
+|2%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3%
+|6%
+|5%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''24%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |9 de julio de 2024
+| colspan="11" |[[Identidad Soberana]] anuncia su fórmula presidencial con [[Gustavo Salle]] y María Canoniero.
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |8 de julio de 2024
+| colspan="11" |El [[Partido Independiente (Uruguay)|Partido Independiente]] anuncia su fórmula presidencial con [[Pablo Mieres]] y [[Mónica Bottero]].<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Partido-Independiente-repite-formula-y-Monica-Bottero-sera-candidata-a-vice-de-Mieres-uc893437|título=Partido Independiente repite fórmula y Mónica Bottero será candidata a vice de Mieres|fechaacceso=2024-07-08|sitioweb=Montevideo Portal|idioma=es}}</ref>
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |1 de julio de 2024
+| colspan="11" |El [[Partido Colorado (Uruguay)|Partido Colorado]] anuncia su fórmula presidencial con [[Andrés Ojeda]] y [[Robert Silva]].<ref>{{Cita web|url=https://www.infobae.com/america/agencias/2024/07/02/andres-ojeda-y-robert-silva-seran-la-formula-presidencial-del-partido-colorado-en-uruguay/|título=Andrés Ojeda y Robert Silva serán la fórmula presidencial del Partido Colorado en Uruguay|fechaacceso=2024-07-03|apellido=Infobae|nombre=Newsroom|fecha=2024-07-02|sitioweb=infobae|idioma=es-ES}}</ref>
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |30 de junio de 2024
+| colspan="11" |El [[Partido Nacional (Uruguay)|Partido Nacional]] anuncia su fórmula presidencial con [[Álvaro Delgado Ceretta|Álvaro Delgado]] y [[Valeria Ripoll]].<ref>{{Cita web|url=https://www.infobae.com/america/agencias/2024/07/01/delgado-y-ripoll-seran-la-formula-presidencial-del-oficialista-partido-nacional-en-uruguay/|título=Delgado y Ripoll serán la fórmula presidencial del oficialista Partido Nacional en Uruguay|fechaacceso=2024-07-03|apellido=Infobae|nombre=Newsroom|fecha=2024-07-01|sitioweb=infobae|idioma=es-ES}}</ref>
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |30 de junio de 2024
+| colspan="11" |El [[Frente Amplio (Uruguay)|Frente Amplio]] anuncia su fórmula presidencial con [[Yamandú Orsi]] y [[Carolina Cosse]].<ref>{{Cita web|url=https://www.infobae.com/america/america-latina/2024/07/01/yamandu-orsi-gano-la-interna-del-frente-amplio-y-sera-candidato-a-presidente-en-uruguay/|título=Yamandú Orsi ganó la interna del Frente Amplio y será candidato a presidente en Uruguay|fechaacceso=2024-07-03|apellido=Tristant|nombre=Pedro|fecha=2024-07-01|sitioweb=infobae|idioma=es-ES}}</ref>
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones internas de Uruguay de 2024|Elecciones internas]]'''
+|'''30 de junio de 2024'''
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''42,2%'''
+|33,5%
+|10,5%
+|1,8%
+|0,3%
+|0,1%
+|0,5%
+|1,4%
+|10,2%
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''8,7%'''
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |28 de junio de 2024
+| colspan="11" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para las internas.<ref name=":0">{{Cita web|url=https://www.gub.uy/corte-electoral/politicas-y-gestion/calendario-electoral-elecciones-internas-partidos-politicos-2024|título=Calendario electoral de las elecciones internas de los partidos políticos de 2024|fechaacceso=2024-06-27|sitioweb=Corte Electoral|idioma=es}}</ref><ref name=":1">{{Cita web|url=https://impo.com.uy/bases/leyes/16019-1989/1|título=Ley N° 16019|fechaacceso=2024-06-27|sitioweb=impo.com.uy}}</ref>
+|-
+|[https://www.nomadeconsultora.uy/post/yamand%C3%BA-orsi-y-%C3%A1lvaro-delgado-lideran-sus-internas-partidarias Nómade Consultora]
+|13–22 de junio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43,6%'''
+|31,5%
+|8,1%
+| 2,2%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|4%
+|{{Celda|N/A}}
+|10,6%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''12,1%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-en-junio--FA-44-,-Partidos-de-la-coalicion-39-/241 Equipos Consultores]
+|29 de mayo–13 de junio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''44%'''
+|26%
+|9%
+| 3%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 1%
+|4%
+|12%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''18%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana240617.php Factum]
+|1–11 de junio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+| 30%
+| 12%
+| 5%
+| 3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 3%{{refn|group=lower-roman|name=1UP|1% – [[Unidad Popular - Frente de Trabajadores]].}}
+| 4%
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''13%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |1 de junio de 2024
+| colspan="11" |El [[Partido de la Gente (Uruguay)|Partido de la Gente]] pierde su registro en la Corte Electoral tras no presentar listas.<ref>{{Cita web|url=http://www.radiomontecarlo.com.uy/2024/06/03/nacionales/cinco-partidos-politicos-no-presentaron-listas-para-las-internas/|título=Cinco partidos políticos no presentaron listas para las internas.|fechaacceso=2024-07-21|apellido=Teléfono: 2901 4433|nombre=Radio Montecarlo CX20-930 AM / mail: marketing@radiomontecarlo com uy|sitioweb=Radio Montecarlo CX20-930 AM / mail: marketing@radiomontecarlo.com.uy. Teléfono: 2901 4433|idioma=es}}</ref>
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2024/ Opcion Consultores]
+|15–31 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''42%'''
+| 27%
+| 7%
+| 4%
+| 1%
+| 1%
+|{{Celda|N/A}}
+| 1%
+| 6%
+| 10%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-20/ Cifra]
+|16–29 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''47%'''
+| 32%
+| 7%
+| 3%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" | 10%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15%'''
+|-
+|[https://usina.com.uy/06-06-2024-la-intencion-de-voto-del-fa-crecio-a-47-y-los-partidos-de-la-coalicion-suman-37-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|24–28 de mayo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''47%'''
+| 29%
+| 7%
+| 1%
+|{{Celda|N/A}}
+| 1%
+|{{Celda|N/A}}
+| 3%
+| 6%
+| 6%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''18%'''
+|-
+|[https://portal.factum.uy/encuestas/2024/enc240514.php Factum]
+|19–30 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+| 30%
+| 10%
+| 6%
+| 2%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 4%{{refn|group=lower-roman|name=2UP|2% – [[Unidad Popular - Frente de Trabajadores]].}}
+| 5%
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''13%'''
+|-
+|[https://www.nomadeconsultora.uy/post/intenci%C3%B3n-de-voto-crecen-los-apoyos-partidarios-y-la-coalici%C3%B3n-supera-al-frente-amplio Nómade Consultora]
+|25–29 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''41,5%'''
+| 32,3%
+| 4,2%
+| 3,1%
+|{{Celda|N/A}}
+| 1,4%
+|{{Celda|N/A}}
+| 2,7%
+| 0,5%
+| 14,3%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''9,2%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-Politica-por-partido-en-abril-43-FA,-39-partidos-de-la-Coalicion/213 Equipos Consultores]
+|11–28 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+| 29%
+| 7%
+| 3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 2%
+| 4%
+| 12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''14%'''
+|-
+|[https://usina.com.uy/02-05-2024-fa-tiene-45-de-intencion-de-voto-y-partidos-de-la-coalicion-suman-39-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|19–23 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45%'''
+| 29%
+| 7%
+| 2%
+| 1%
+| 1%
+|{{Celda|N/A}}
+| 2%
+| 7%
+| 6%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''16%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-19/ Cifra]
+|11–22 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45%'''
+| 32%
+| 7%
+| 3%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" | 12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''13%'''
+|-
+|[https://www.elobservador.com.uy/nota/ultima-encuesta-de-opcion-como-cambian-los-escenarios-en-un-balotaje-con-orsi-o-cosse-como-candidatos-del-fa--2024423201816 Opción Consultores]
+|1–10 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''43%'''
+| 28%
+| 8%
+| 3%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 2%
+| 6%
+| 9%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-18/ Cifra]
+|7–20 de marzo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''46%'''
+| 32%
+| 7%
+| 3%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" | 11%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''14%'''
+|-
+|[https://usina.com.uy/10-03-2024-elecciones-internas-en-el-fa-orsi-lidera-con-el-47-pero-cosse-acorta-distancias-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|1–5 de marzo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''45%'''
+| 27%
+| 7%
+| 2%
+| 2%
+| 1%
+|{{Celda|N/A}}
+| 3%
+| 5%
+| 8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''18%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana240311.php Factum]
+|20 de febrero–2 de marzo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+| 29%
+| 8%
+| 7%
+| 3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 6%
+| 4%
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''14%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-febrero-2024/ Opción Consultores]
+|14 de febrero–8 de marzo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''41%'''
+| 31%
+| 6%
+| 3%
+| 1%
+| 1%
+|{{Celda|N/A}}
+| 1%
+| 7%
+| 10%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''10%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-42-,-PN-27-,-PC-7-,-CA-4-/118 Equipos Consultores]
+|15–27 de febrero de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''42%'''
+| 27%
+| 7%
+| 4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 2%{{refn|group=lower-roman|name=1UP}}
+| 5%
+| 13%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''15%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-17/ Cifra]
+|1–17 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''47%'''
+| 31%
+| 6%
+| 2%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" | 11%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |6 de febrero de 2024
+| colspan="11" |La alianza [[Unidad Popular - Frente de Trabajadores]] anuncia su fórmula presidencial con Gonzalo Martínez y Andrea Revuelta.<ref>{{Cita web|url=https://www.elpais.com.uy/informacion/politica/la-otra-izquierda-presento-su-formula-presidencial-la-tercera-coalicion-buscara-volver-al-parlamento|título=La otra izquierda presentó su fórmula presidencial: la "tercera coalición" buscará volver al Parlamento|fechaacceso=2024-07-03|fecha=2024-02-07|sitioweb=EL PAIS|idioma=es-UY}}</ref>
+|-
+|[https://www.nomadeconsultora.uy/post/se-fortalecen-las-precandidaturas-con-mayor-adhesi%C3%B3n Nómade Consultora]
+|22 de enero–2 de febrero de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''40,6%'''
+| 29,7%
+| 4,2%
+| 2,3%
+|{{Celda|N/A}}
+| 1,3%
+|{{Celda|N/A}}
+| 3,3%{{refn|group=lower-roman|name=1PCA|1% – Partido Constitucional Ambientalista.}}
+| 0,8%
+| 17,8%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''11%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |21 de diciembre  de 2023
+| colspan="11" | [[Unidad Popular (Uruguay)|Unidad Popular]], el [[Partido de los Trabajadores (Uruguay)|Partido de los Trabajadores]] y el Frente de Trabajadores en Lucha acuerdan una alianza electoral bajo el lema [[Asamblea Popular]].<ref>{{Cita web|url=https://pt.org.uy/el-acuerdo-electoral-del-pt-con-la-up-y-el-ftl-lanzamos-la-campana-con-todo/|título=El acuerdo electoral del PT con la UP y el FTL: Lanzamos la campaña, con todo|fechaacceso=2024-07-05|apellido=Fernández|nombre=Rafael|fecha=2023-12-21|sitioweb=Partido de los Trabajadores|idioma=es}}</ref>
+|-
+|[https://portal.factum.uy/analisis/2023/ana231206.php Factum]
+|17–30 de noviembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|26%
+|9%
+|7%
+|3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|5%
+|3%
+|5%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''16%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-45-,-PN-29-,-PC-7-,-CA-2-/126 Equipos Consultores]
+|16–29 de noviembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|29%
+|7%
+|2%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|2%
+|3%
+|12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''16%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-diciembre-2023/ Opción Consultores]
+|4–20 de noviembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|30%
+|6%
+|3%
+|3%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|6%
+|7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''14%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/11/elecciones-2024-45-votaria-al-frente-amplio-y-27-al-partido-nacional-segun-encuesta-de-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|10–14 de noviembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45%'''
+|27%
+|5%
+|3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|8%
+|7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''18%'''
+|-
+|[https://www.nomadeconsultora.uy/post/el-17-5-de-quienes-fueron-encuestados-no-sabe-a-qu%C3%A9-partido-votar%C3%ADa Nómade Consultora]
+|6–11 de noviembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41,6%'''
+|23%
+|4,3%
+|3,7%
+|1,1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|1,8%
+|1,2%
+|24,3%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''18,3%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-16/ Cifra]
+|17 de octubre–3 de  noviembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''44%'''
+|31%
+|6%
+|2%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" |15%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''13%'''
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/138 Equipos Consultores]
+|5–18 de octubre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''40%'''
+|29%
+|4%
+|2%
+|{{Celda|N/A}}
+|1%
+|{{Celda|N/A}}
+|1%
+|6%
+|17%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''11%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/9/45-votaria-al-frente-amplio-y-29-al-partido-nacional-en-las-elecciones-de-2024-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|15–19 de septiembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|29%
+|6%
+|3%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3%
+|6%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''16%'''
+|-
+|[https://portal.factum.uy/encuestas/2023/enc230915.php Factum]
+|21 de agosto–6 de septiembre de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41%'''
+|28%
+|7%
+|8%
+|3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3%
+|2%
+|8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''13%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-15/ Cifra]
+|17–31 de agosto de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|30%
+|4%
+|2%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" |21%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''12%'''
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/148 Equipos Consultores]
+|10–23 de agosto de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|26%
+|7%
+|3%
+|1%
+|1%
+|{{Celda|N/A}}
+|1%{{refn|group=lower-roman|name=1UP}}
+|3%
+|15%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''17%'''
+|-
+|[https://www.nomadeconsultora.uy/post/intencion-de-voto-el-frente-amplio-mantiene-ventaja-sobre-la-coalicion-de-gobierno Nómade Consultora]
+|19–23 de julio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''40,6%'''
+|25,9%
+|3,6%
+|3,9%
+|1,1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|0,9%
+|1,7%
+|22,3%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''14,7%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-14/ Cifra]
+|15 de junio–2 de julio de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|27%
+|6%
+|2%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" |18%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17%'''
+|-
+|[https://portal.factum.uy/analisis/2023/ana230713.php Factum]
+|21–28 de junio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''40%'''
+|26%
+|9%
+|7%
+|4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|4%
+|3%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''14%'''
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/157 Equipos Consultores]
+|2–16 de junio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|28%
+|7%
+|2%
+|1%
+|1%
+|{{Celda|N/A}}
+|1%
+|5%
+|12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''15%'''
+|-
+|[https://usina.com.uy/19-07-2023-elecciones-2024-el-45-votaria-al-frente-amplio-y-el-29-al-partido-nacional/ Usina de Percepción Ciudadana]
+|2–6 de junio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|29%
+|5%
+|4%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3%
+|6%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''16%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2023/ Opción Consultores]
+|15–22 de mayo de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|30%
+|4%
+|4%
+|1%
+|1%
+|{{Celda|N/A}}
+|1%
+|6%
+|11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''13%'''
+|-
+|[https://portal.factum.uy/analisis/2023/ana230516.php Factum]
+|24 de abril–11 de mayo de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''41%'''
+|23%
+|8%
+|11%
+|4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3%
+|3%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''18%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-13/ Cifra]
+|20 de abril–3 de mayo de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''41%'''
+|30%
+|3%
+|4%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" |19%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''11%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-42-,-PN-28-,-PC-5-,-CA-2-,-PI-1-/165 Equipos Consultores]
+|11–24 de abril de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''42%'''
+| 28%
+| 5%
+| 2%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 7%
+|15%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''14%'''
+|-
+|[https://www.nomadeconsultora.uy/post/2023-cosecha-otono-intencion-de-voto Nómade Consultora]
+|3–17 de abril de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43,7%'''
+|29%
+|4,3%
+|5,3%
+|2,1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|0,8%
+|2,3%
+|12,5%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''14,7%'''
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-fa-43-partido-nacional-24-partido-colorado-9-cabildo-abierto-3-n910218 Equipos Consultores]
+|Febrero de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|24%
+|9%
+|3%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''19%'''
+|- |-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-12/ Cifra]
+|15–27 de febrero de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''43%'''
+| 30%
+| 3%
+| 2%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" | 19%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''13%'''
+|-
+|[https://portal.factum.uy/analisis/2023/ana230224.php Factum]
+|11–20 de febrero de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''41%'''
+| 26%
+| 6%
+| 9%
+| 4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 4%
+| 3%
+| 7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''15%'''
+|-
+|[https://www.nomadeconsultora.uy/post/2023-cosecha-verano-03-politica Nómade Consultora]
+|3–13 de enero de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43,1%'''
+| 27,8%
+| 4,9%
+| 6,5%
+| 0,8%
+| 0,6%
+|{{Celda|N/A}}
+| 0,9%{{refn|group=lower-roman|name=03PVA|<1% – [[Partido Verde Animalista]].}}
+| 1,3%
+| 14,1%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''15,3%'''
+|-
+|[https://www.montevideo.com.uy/Noticias/Encuesta-de-Equipos-coloca-al-FA-a-la-cabeza-de-la-preferencia-electoral-con-44--uc847039 Equipos Consultores]
+|Diciembre de 2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''44%'''
+|23%
+|6%
+|4%
+|1%
+|1%
+|{{Celda|N/A}}
+|1%
+|5%
+|16%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''21%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-noviembre-2022/ Opción Consultores]
+|2–10 de noviembre de 2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''40%'''
+| 28%
+| 6%
+| 5%
+| 1%
+| 1%
+|{{Celda|N/A}}
+| 1%
+| 6%
+| 12%
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''12%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-11/ Cifra]
+|20–31 de octubre de  2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+| 31%
+| 4%
+| 2%
+| 1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| colspan="3" | 18%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''12%'''
+|-
+|[https://portal.factum.uy/analisis/2022/ana221021.php Factum]
+|4–16 de octubre de 2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''41%'''
+|27%
+|8%
+|8%
+|3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|3%
+|3%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''14%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-38-FA,-PN-28-/188 Equipos Consultores]
+|24 de junio–9 de julio de 2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''38%'''
+|28%
+|5%
+|3%
+|1%
+|1%
+|{{Celda|N/A}}
+|1%
+|5%
+|18%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''10%'''
+|-
+|[https://portal.factum.uy/encuestas/2022/enc220616.php Factum]
+|3–13 de junio de 2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''39%'''
+| 28%
+| 8%
+| 8%
+| 3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 3%
+| 4%
+| 7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''11%'''
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/220 Equipos Consultores]
+|23 de abril–7 de mayo de 2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''35%'''
+| 25%
+| 5%
+| 2%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 1%
+| 7%
+| 25%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''10%'''
+|-
+|[https://portal.factum.uy/encuestas/2021/enc211123.php Factum]
+|6–15 de noviembre de 2021
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''39%'''
+| 30%
+| 8%
+| 9%
+| 2%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 3%
+| 2%
+| 7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''9%'''
+|-
+|[https://www.elobservador.com.uy/nota/el-35-de-los-uruguayos-apoya-al-frente-amplio-y-el-30-al-partido-nacional-segun-encuesta-de-equipos-20211027212618 Equipos Consultores]
+|Julio–Septiembre de 2021
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''35%'''
+| 30%
+| 4%
+| 3%
+| 2%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 1%
+| 7%
+| 19%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''5%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/monitor-de-opinion-publica-preferencias-partidarias/ Opción Consultores]
+|13–20 de mayo de 2021
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''34%'''
+| 33%
+| 5%
+| 5%
+| 1%
+| 1%
+|{{Celda|N/A}}
+| 2%
+| 8%
+| 11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''1%'''
+|-
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2019|Elecciones generales]]'''
+|'''27 de octubre de 2019'''
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''39,0%'''
+|28,6%
+|12,3%
+|11,0%
+|1,0%
+|1,4%
+|{{Celda|N/A}}
+|3,0%
+|3,6%
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''10,4%'''
+|}
+
+=== Por bloque ===
+==== Gráfico ====
+{{Wide image|FAvsCM.svg|1000px|Línea de tendencia de [[regresión local]] de la intención de voto por bloque.}}
+==== Encuestas ====
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="2" style="width:150px;" |Encuestadora
+! rowspan="2" style="width:250px;" |Fecha
+! style="width:50px;" |[[Archivo:Logo_Frente_Amplio.svg|45px|link=Frente Amplio (Uruguay)]]
+! style="width:50px;" |[[Archivo:Bandera_Coalición_Multicolor.svg|45px|link=Coalición Multicolor]]
+! rowspan="2" style="width:50px;" |Otros
+! rowspan="2" style="width:50px;" |Blanco /<br />Anulado
+! rowspan="2" style="width:50px;" |Indecisos
+! rowspan="2" style="width:50px;" |Ventaja
+|-
+| bgcolor="{{Color político|Frente Amplio (Uruguay)}}" |
+| bgcolor="#ff9000" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2024|Elecciones generales]]'''
+|'''27 de octubre de 2024'''
+|43,9%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''47,1%'''
+|4,2%
+|3,5%
+|{{Celda|N/A}}
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''3,2%'''
+|-
+| colspan="8" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |25 de octubre de 2024
+| colspan="6" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para las generales.
+|-
+|[https://cbconsultoraop.com/uruguay-elecciones-2024-cb-consultora-o-p-1017-casos-21-a-24-de-octubre/ CB Consultora]
+|21–24 de octubre de 2024
+|43,7%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''45,7%'''
+|3,7%
+|1,7%
+|5,2%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''2%'''
+|-
+|[https://www.carasycaretas.com.uy/politica/encuesta-radar-refleja-escenario-muy-parejo-delgado-y-ojeda-21-20-n78608 Grupo Radar]
+|21–23 de octubre de 2024
+|41%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''46%'''
+|5%
+|4%
+|4%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''5%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-octubre-2024-2/ Opcion Consultores]
+|17–23 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45%'''
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''45%'''
+|6%
+| colspan="2" |4%
+|{{Celda|N/A}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana241024a.php Factum]
+|16–22 de octubre de 2024
+|45,5%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''46,7%'''
+|4,2%
+|3,6%
+|{{Celda|N/A}}
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''1,2%'''
+|-
+|[https://equipos.com.uy/noticias/Proyeccion-de-Equipos-Consultores-FA-45,8-PN-25,8-,-PC-17,7-/289 Equipos Consultores]
+|8–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41,4%'''
+|39,9%
+|3,5%
+|3,7%
+|11,5%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1,5%'''
+|-
+|[https://usina.com.uy/24-10-2024-47-votaria-al-frente-amplio-y-25-al-partido-nacional-el-proximo-domingo-segun-la-usina-de-percepcion-ciudadana-2/ Usina de Percepción Ciudadana]
+|18–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|45%
+|4%
+| colspan="2" |4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''2%'''
+|-
+|[https://www.nomadeconsultora.uy/post/%C3%BAltimos-datos-sobre-intenci%C3%B3n-de-voto Nómade Consultora]
+|16–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45,3%'''
+|40,3%
+|3,1%
+|3,1%
+|8,2%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''5%'''
+|-
+|[https://twitter.com/MVDNoticias/status/1849246529917198355 Data 360]
+|19–21 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46,1%'''
+|44%
+|4,3%
+|5,8%
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''2,1%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-el-27-de-octubre/ Cifra]
+|11–20 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|43%
+|3%
+|2%
+|8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1%'''
+|-
+|[https://www.telenoche.com.uy/nacionales/andres-ojeda-esta-un-punto-alvaro-delgado-segun-la-ultima-encuesta-intencion-voto-radar-n5375084 Grupo Radar]
+|12–15 de octubre de 2024
+|41%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''42%'''
+|4%
+|4%
+|9%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''1%'''
+|-
+
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-el-observador-y-la-udelar-asi-se-posicionan-orsi-delgado-y-ojeda-las-elecciones-nacionales-2024-n5966180 El Observador]
+|10–14 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44,3%'''
+|43,9%
+|3,1%
+|4%
+|4,6%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''0,4%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241014.php Factum]
+|28 de septiembre–6 de octubre de 2024
+|44%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''48%'''
+|5%
+|3%
+|{{Celda|N/A}}
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''4%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/10/yamandu-orsi-aventaja-a-alvaro-delgado-por-mas-de-25-puntos-segun-consultora-argentina/ Proyección Consultores]
+|24 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46,0%'''
+|40,7%
+|3,5%
+|2,9%
+|6,7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''5,3%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-setiembre-2024/ Opcion Consultores]
+|23 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''42%'''
+|41%
+|3%
+| colspan="2" |14%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1%'''
+|-
+|[https://www.nomadeconsultora.uy/post/la-foto-de-la-intenci%C3%B3n-de-voto-al-primero-de-octubre Nómade Consultora]
+|27 de setiembre - 1 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47,1%'''
+|38,9%
+|2,6%
+| colspan="2" |11,4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''8,2%'''
+|-
+|[https://usina.com.uy/03-10-2024-yamandu-orsi-derrotaria-por-diez-puntos-a-alvaro-delgado-en-un-eventual-balotaje-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|27–30 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46%'''
+|40%
+|3%
+| colspan="2" |11%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''6%'''
+|-
+|[https://twitter.com/data360uy/status/1844399251297796522 Data 360]
+|24–30 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46%'''
+|45%
+|5%
+|4%
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-23/ Cifra]
+|13–26 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|41%
+|2%
+| colspan="2" |13%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3%'''
+|-
+|[https://www.elobservador.com.uy/nacional/andres-ojeda-se-acerca-alvaro-delgado-segun-encuesta-intencion-voto-n5963167 Grupo Radar]
+|21–25 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41%'''
+|39%
+|5%
+|7%
+|8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''2%'''
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-en-setiembre-el-Frente-Amplio-registra-43-,-y-la-suma-de-los-partidos-de-la-Coalicion-40-/278 Equipos Consultores]
+|11–23 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''43%'''
+|40%
+|2%
+|5%
+|10%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3%'''
+|-
+|[https://cbconsultoraop.com/uruguay-elecciones-presidente-2024-1045-casos-17-a-21-de-septiembre-2024/ CB Consultora]
+|17–21 de septiembre de 2024
+|43,3%
+| bgcolor=#ff9000 style="color:#FFFFFF;" |'''47,5%'''
+|2,4%
+|1,6%
+|5,2%
+| bgcolor="#ff9000" style="color:#FFFFFF;" |'''4,2%'''
+|-
+|[https://www.nomadeconsultora.uy/post/crece-el-frente-amplio-y-el-partido-colorado Nómade Consultora]
+|5–9 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46,7%'''
+|35,2%
+|5,8%
+|3,6%
+|8,7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''11%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana240916.php Factum]
+|31 de agosto–9 de septiembre de 2024
+|44%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''49%'''
+|3%
+|4%
+|{{Celda|N/A}}
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://equipos.com.uy/noticias/En-agosto-41-votaria-al-Frente-Amplio-y-38-a-los-partidos-de-la-Coalicion-Multicolor/270 Equipos Consultores]
+|14 de agosto–1 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41%'''
+|38%
+|3%
+|5%
+|13%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3%'''
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/9/el-fa-alcanzaria-47-de-los-votos-y-la-coalicion-oficialista-40-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|29 de agosto–1 de septiembre de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''47%'''
+|40%
+|2%
+|5%
+|6%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''7%'''
+|-
+|[https://data360.uy/Noticias/OPAgosto.html Data 360]
+| 25–31 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45%'''
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''45%'''
+|2%
+|4%
+|3%
+|{{Celda|N/A}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-agosto-2024// Opcion Consultores]
+| 15–27 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+|42%
+|3%
+|colspan=2 | 13%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''1%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-22/ Cifra]
+|16–27 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''44%'''
+|43%
+|2%
+|colspan=2|11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''1%'''
+|-
+|[https://cbconsultoraop.com/informe-uruguay-elecciones-presidente-2024-1040-casos-15-a-18-de-agosto/ CB Consultora]
+|15–18 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''45%'''
+|3%
+|3%
+|5%
+|{{Celda|N/A}}
+|-
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-factum-las-elecciones-2024-a-que-partido-votarian-los-uruguayos-n5955944 Factum]
+|27 de julio–8 de agosto de 2024
+|44%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''49%'''
+|4%
+|3%
+|{{Celda|N/A}}
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://www.nomadeconsultora.uy/post/cae-la-intenci%C3%B3n-de-voto-al-partido-nacional Nómade Consultora]
+|29 de julio–4 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''46%'''
+|36%
+|3%
+|1%
+|14%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''10%'''
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-en-julio-43-votaria-al-Frente-Amplio-y-37-a-los-partidos-de-la-Coalicion-Multicolor/260 Equipos Consultores]
+|17–30 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+|37%
+|2%
+|3%
+|15%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''6%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-21/ Cifra]
+|17–28 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|40%
+|2%
+| colspan="2" |13%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-julio-2024/ Opcion Consultores]
+|15–25 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|39%
+|3%
+| colspan="2" |16%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''3%'''
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/7/elecciones-nacionales-fa-tiene-48-de-intencion-de-voto-y-la-coalicion-multicolor-38-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|5–9 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''48%'''
+|38%
+|3%
+|6%
+|5%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''10%'''
+|-
+| colspan="8" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones internas de Uruguay de 2024|Elecciones internas]]'''
+|'''30 de junio de 2024'''
+|42,2%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''46,1%'''
+|1,5%
+|10,2%
+|{{Celda|N/A}}
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''3,9%'''
+|-
+| colspan="8" style="background:#A0A0A0" |
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |30 de junio de 2024
+| colspan="6" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para las internas.<ref name=":0" /><ref name=":1" />
+|-
+|[https://www.nomadeconsultora.uy/post/yamand%C3%BA-orsi-y-%C3%A1lvaro-delgado-lideran-sus-internas-partidarias Nómade Consultora]
+|13–22 de junio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''44%'''
+|42%
+|4%
+|{{Celda|N/A}}
+|11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''2%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-en-junio--FA-44-,-Partidos-de-la-coalicion-39-/241 Equipos Consultores]
+|29 de mayo–13 de junio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|39%
+|1%
+|4%
+|12%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''5%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana240617.php Factum]
+|1–11 de junio de 2024
+|43%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''50%'''
+|3%
+|4%
+|{{Celda|N/A}}
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''7%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2024/ Opcion Consultores]
+|15–31 de mayo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|39%
+|2%
+|6%
+|10%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''3%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-20/ Cifra]
+|16–29 de mayo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''47%'''
+|43%
+| colspan="3" |10%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''4%'''
+|-
+|[https://usina.com.uy/06-06-2024-la-intencion-de-voto-del-fa-crecio-a-47-y-los-partidos-de-la-coalicion-suman-37-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|24–28 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|37%
+|4%
+|6%
+|6%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''10%'''
+|-
+|[https://portal.factum.uy/encuestas/2024/enc240514.php Factum]
+|19–30 de abril de 2024
+|43%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''48%'''
+|4%
+|5%
+|{{Celda|N/A}}
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://www.nomadeconsultora.uy/post/intenci%C3%B3n-de-voto-crecen-los-apoyos-partidarios-y-la-coalici%C3%B3n-supera-al-frente-amplio Nómade Consultora]
+|25–29 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|40%
+|4%
+|1%
+|14%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''2%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-Politica-por-partido-en-abril-43-FA,-39-partidos-de-la-Coalicion/213 Equipos Consultores]
+|11–28 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|39%
+|2%
+|4%
+|12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''4%'''
+|-
+|[https://usina.com.uy/02-05-2024-fa-tiene-45-de-intencion-de-voto-y-partidos-de-la-coalicion-suman-39-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|19–23 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|39%
+|3%
+|7%
+|6%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''6%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-19/ Cifra]
+|11–22 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|43%
+| colspan="3" |12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''2%'''
+|-
+|[https://www.elobservador.com.uy/nota/ultima-encuesta-de-opcion-como-cambian-los-escenarios-en-un-balotaje-con-orsi-o-cosse-como-candidatos-del-fa--2024423201816 Opción Consultores]
+|1–10 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|40%
+|2%
+|6%
+|9%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''3%'''
+|-
+|[https://www.cifra.com.uy/index.php/2024/03/26/las-internas-despues-del-arranque-formal-de-la-campana/ Cifra]
+|7–20 de marzo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''46%'''
+|43%
+| colspan="3" |11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''3%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-febrero-2024/ Opción Consultores]
+|14 de febrero–8 de marzo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''41%'''
+| bgcolor="#ff9000" style="color:#FFFFFF;" |'''41%'''
+|2%
+|7%
+|10%
+|{{Celda|N/A}}
+|-
+|[https://usina.com.uy/10-03-2024-elecciones-internas-en-el-fa-orsi-lidera-con-el-47-pero-cosse-acorta-distancias-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|1–5 de marzo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|38%
+|4%
+|5%
+|8%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''7%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana240311.php Factum]
+|20 de febrero–2 de marzo de 2024
+|43%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''47%'''
+|6%
+|4%
+|{{Celda|N/A}}
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''4%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-42-,-PN-27-,-PC-7-,-CA-4-/118 Equipos Consultores]
+|15–27 de febrero de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|38%
+|2%
+|5%
+|13%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''4%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-17/ Cifra]
+|1–17 de febrero de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''47%'''
+|42%
+| colspan="3" |11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://www.nomadeconsultora.uy/post/se-fortalecen-las-precandidaturas-con-mayor-adhesi%C3%B3n Nómade Consultora]
+|22 de enero–2 de febrero de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''41%'''
+|36%
+|5%
+|1%
+|18%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''4%'''
+|-
+|[https://portal.factum.uy/analisis/2023/ana231206.php Factum]
+|17–30 de noviembre de 2023
+|42%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''45%'''
+|5%
+|3%
+|5%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''3%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-45-,-PN-29-,-PC-7-,-CA-2-/126 Equipos Consultores]
+|16–29 de noviembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|38%
+|2%
+|3%
+|12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''7%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/11/elecciones-2024-45-votaria-al-frente-amplio-y-27-al-partido-nacional-segun-encuesta-de-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|10–14 de noviembre de  2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|35%
+|{{Celda|N/A}}
+|8%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''10%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-diciembre-2023/ Opción Consultores]
+|4–20 de noviembre de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|42%
+|1%
+|6%
+|7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''2%'''
+|-
+|[https://www.nomadeconsultora.uy/post/el-17-5-de-quienes-fueron-encuestados-no-sabe-a-qu%C3%A9-partido-votar%C3%ADa Nómade Consultora]
+|6–11 de noviembre de  2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|32%
+|2%
+|1%
+|24%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''10%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-16/ Cifra]
+|17 de octubre–3 de  noviembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''44%'''
+|41%
+| colspan="3" |15%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''3%'''
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/138 Equipos Consultores]
+|5–18 de octubre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''40%'''
+|35%
+|2%
+|6%
+|17%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/9/45-votaria-al-frente-amplio-y-29-al-partido-nacional-en-las-elecciones-de-2024-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|15–19 de septiembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|40%
+|3%
+|6%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://portal.factum.uy/encuestas/2023/enc230915.php Factum]
+|21 de agosto–6 de septiembre de  2023
+|41%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''46%'''
+|3%
+|2%
+|8%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-15/ Cifra]
+|17–31 de agosto de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|37%
+| colspan="3" |21%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/148 Equipos Consultores]
+|10–23 de agosto de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|37%
+|2%
+|3%
+|15%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''6%'''
+|-
+|[https://www.nomadeconsultora.uy/post/intencion-de-voto-el-frente-amplio-mantiene-ventaja-sobre-la-coalicion-de-gobierno Nómade Consultora]
+|19–23 de julio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''41%'''
+|35%
+|1%
+|2%
+|22%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''6%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-14/ Cifra]
+|15 de junio–2 de julio  de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|38%
+| colspan="3" |18%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''6%'''
+|-
+|[https://portal.factum.uy/analisis/2023/ana230713.php Factum]
+|21–28 de junio de 2023
+|40%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''46%'''
+|4%
+|3%
+|7%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''6%'''
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/157 Equipos Consultores]
+|2–16 de junio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|38%
+|2%
+|5%
+|12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://usina.com.uy/19-07-2023-elecciones-2024-el-45-votaria-al-frente-amplio-y-el-29-al-partido-nacional/ Usina de Percepción Ciudadana]
+|2–6 de junio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|39%
+|3%
+|6%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''6%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2023/ Opción Consultores]
+|15–22 de mayo de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|39%
+|2%
+|6%
+|11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''4%'''
+|-
+|[https://portal.factum.uy/analisis/2023/ana230516.php Factum]
+|24 de abril–11 de mayo de 2023
+|41%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''46%'''
+|3%
+|3%
+|7%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-13/ Cifra]
+|20 de abril–3 de mayo  de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''41%'''
+|40%
+| colspan="3" |19%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''1%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-42-,-PN-28-,-PC-5-,-CA-2-,-PI-1-/165 Equipos Consultores]
+|11–24 de abril de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''42%'''
+|36%
+|7%
+|15%
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''6%'''
+|-
+|[https://www.nomadeconsultora.uy/post/2023-cosecha-otono-intencion-de-voto Nómade Consultora]
+|3–17 de abril de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''44%'''
+|41%
+|1%
+|2%
+|13%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''3%'''
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-fa-43-partido-nacional-24-partido-colorado-9-cabildo-abierto-3-n910218 Equipos Consultores]
+|Febrero de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|38%
+|1%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-12/ Cifra]
+|15–27 de febrero de  2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|38%
+| colspan="3" |19%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://portal.factum.uy/analisis/2023/ana230224.php Factum]
+|11–20 de febrero de 2023
+|41%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''45%'''
+|4%
+|3%
+|7%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''4%'''
+|-
+|[https://www.nomadeconsultora.uy/post/2023-cosecha-verano-03-politica Nómade Consultora]
+|3–13 de enero de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|42%
+|2%
+|1%
+|14%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''1%'''
+|-
+|[https://www.montevideo.com.uy/Noticias/Encuesta-de-Equipos-coloca-al-FA-a-la-cabeza-de-la-preferencia-electoral-con-44--uc847039 Equipos Consultores]
+|Diciembre de 2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''44%'''
+|33%
+|1%
+|5%
+|16%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''11%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-noviembre-2022/ Opción Consultores]
+|2–10 de noviembre de  2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''40%'''
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''40%'''
+|2%
+|6%
+|12%
+|{{Celda|N/A}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-11/ Cifra]
+|20–31 de octubre de  2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''43%'''
+|39%
+| colspan="3" |18%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''4%'''
+|-
+|[https://portal.factum.uy/analisis/2022/ana221021.php Factum]
+|4–16 de octubre de 2022
+|41%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''46%'''
+|3%
+|3%
+|7%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''5%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-38-FA,-PN-28-/188 Equipos Consultores]
+|24 de junio–9 de julio  de 2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''38%'''
+|37%
+|2%
+|5%
+|18%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''1%'''
+|-
+|[https://portal.factum.uy/encuestas/2022/enc220616.php Factum]
+|3–13 de junio de 2022
+| 39%
+|bgcolor=#ff9000 style="color:#FFFFFF;"| '''47%'''
+| 3%
+| 4%
+| 7%
+| bgcolor="#ff9000" style="color:#FFFFFF;" | '''8%'''
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/220 Equipos Consultores]
+|23 de abril–7 de mayo  de 2022
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''35%'''
+|32%
+| 1%
+| 7%
+|25%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''3%'''
+|-
+|[https://portal.factum.uy/encuestas/2021/enc211123.php Factum]
+|6–15 de noviembre de 2021
+|39%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''49%'''
+|3%
+|2%
+| 7%
+|bgcolor=#ff9000 style="color:#FFFFFF;"| '''10%'''
+|-
+|[https://www.elobservador.com.uy/nota/el-35-de-los-uruguayos-apoya-al-frente-amplio-y-el-30-al-partido-nacional-segun-encuesta-de-equipos-20211027212618 Equipos Consultores]
+|Julio–septiembre de  2021
+|35%
+|bgcolor=#ff9000 style="color:#FFFFFF;"|'''39%'''
+|1%
+|7%
+|19%
+| bgcolor="#ff9000" style="color:#FFFFFF;" |'''4%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/monitor-de-opinion-publica-preferencias-partidarias/ Opción Consultores]
+|13–20 de mayo de 2021
+|34%
+| bgcolor="#ff9000" style="color:#FFFFFF;" |'''44%'''
+|3%
+|8%
+|11%
+|bgcolor=#ff9000 style="color:#FFFFFF;"| '''10%'''
+|}
+
+=== Por escenario ===
+==== Gráfico ====
+{{Switcher|[[Archivo:OrsiDelgadoV1.svg|1000px]]
+|Línea de tendencia de [[regresión local]] de la intención de voto en un escenario hipotético de primera vuelta con [[Yamandú Orsi|Orsi]] y [[Álvaro Delgado Ceretta|Delgado]].
+|[[Archivo:CosseDelgadoV1.svg|1000px]]
+|Línea de tendencia de [[regresión local]] de la intención de voto en un escenario hipotético de primera vuelta con [[Carolina Cosse|Cosse]] y [[Álvaro Delgado Ceretta|Delgado]].
+|[[Archivo:OrsiRaffoV1.svg|1000px]]
+|Línea de tendencia de [[regresión local]] de la intención de voto en un escenario hipotético de primera vuelta con [[Yamandú Orsi|Orsi]] y [[Laura Raffo|Raffo]].
+|[[Archivo:CosseRaffoV1.svg|1000px]]
+|Línea de tendencia de [[regresión local]] de la intención de voto en un escenario hipotético de primera vuelta con [[Carolina Cosse|Cosse]] y [[Laura Raffo|Raffo]].
+}}
+==== Encuestas ====
+La siguiente tabla enumera las encuestas con candidatos hipotéticos para la primera vuelta electoral, realizadas antes de que se oficializaran las candidaturas presidenciales mediante las [[Elecciones internas de Uruguay de 2024|elecciones internas]].
+
+[[Archivo:Green check.svg|13px|Yes]] Indica que el precandidato fue electo en las Elecciones Internas.<br />
+[[Archivo:Dark red x.svg|13px|No]] Indica que el precandidato no fue electo en las Elecciones Internas. <br />
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="3" style="width:160px;" |Encuestadora
+! rowspan="3" style="width:295px;" |Fecha
+! colspan="2" |[[Frente Amplio (Uruguay)|FA]]
+! colspan="2" |[[Partido Nacional (Uruguay)|PN]]
+! colspan="2" |[[Partido Colorado (Uruguay)|PC]]
+!! colspan="1" |[[Cabildo Abierto (partido político)|CA]]
+! colspan="1" |[[Partido Independiente (Uruguay)|PI]]
+! colspan="1" |[[Partido Ecologista Radical Intransigente|PERI]]
+!rowspan=3 style="width:40px;"|Blanco /<br/>Anulado
+!rowspan=3 style="width:40px;"|Indecisos
+!rowspan="3" style="width:20px;"|Ventaja
+|-
+![[Yamandú Orsi|Orsi]]
+![[Carolina Cosse|Cosse]]
+![[Álvaro Delgado Ceretta|Delgado]]
+![[Laura Raffo|Raffo]]
+![[Andrés Ojeda|Ojeda]]
+![[Robert Silva|Silva]]
+![[Guido Manini Ríos|Manini Ríos]]
+![[Pablo Mieres|Mieres]]
+![[César Vega|Vega]]
+|-
+| bgcolor="{{Color político|Frente Amplio (Uruguay)}}" |
+| bgcolor=#0062c3 |
+| bgcolor="{{Color político|Partido Nacional (Uruguay)}}" |
+| bgcolor=#a9d2fc |
+| bgcolor="{{Color político|Partido Colorado (Uruguay)}}" |
+| bgcolor=#dd361a |
+| bgcolor="{{Color político|Cabildo Abierto (partido político)}}" |
+| bgcolor="{{Color político|Partido Independiente (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Ecologista Radical Intransigente}}" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones internas de Uruguay de 2024|Elecciones Internas]]'''
+|'''30 de junio de 2024'''
+|{{ya}}
+|{{na}}
+|{{ya}}
+|{{na}}
+|{{ya}}
+|{{na}}
+|{{ya}}
+|{{ya}}
+|{{ya}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|-
+| colspan="14" style="background:#A0A0A0" |
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |28 de junio de 2024
+| colspan="12" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para las internas.<ref name=":0">{{Cita web|url=https://www.gub.uy/corte-electoral/politicas-y-gestion/calendario-electoral-elecciones-internas-partidos-politicos-2024|título=Calendario electoral de las elecciones internas de los partidos políticos de 2024|fechaacceso=2024-06-27|sitioweb=Corte Electoral|idioma=es}}</ref><ref name=":1">{{Cita web|url=https://impo.com.uy/bases/leyes/16019-1989/1|título=Ley N° 16019|fechaacceso=2024-06-27|sitioweb=impo.com.uy}}</ref>
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-posible-escenario-entre-carolina-cosse-y-%C3%A1lvaro-delgado-se-presenta-un-empate-t%C3%A9cnico Nómade Consultora]
+|16–22 de junio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45%'''
+|{{Celda|N/A}}
+| 33%
+|{{Celda|N/A}}
+|colspan="2"| 7%{{refn|group="lower-roman"|name="GenericoPC"}}
+| 3%
+| 1%{{refn|group="lower-roman"|name="GenericoPI"|Candidato genérico del [[Partido Independiente (Uruguay)|Partido Independiente]].}}
+|{{Celda|N/A}}
+| 5%
+| 6%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''12%'''
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-posible-escenario-entre-carolina-cosse-y-%C3%A1lvaro-delgado-se-presenta-un-empate-t%C3%A9cnico Nómade Consultora]
+|16–22 de junio de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''40%'''
+|33%
+|{{Celda|N/A}}
+|colspan="2"| 7%{{refn|group="lower-roman"|name="GenericoPC"}}
+| 3%
+| 1%{{refn|group="lower-roman"|name="GenericoPI"}}
+|{{Celda|N/A}}
+| 7%
+| 9%
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''7%'''
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-posible-escenario-entre-carolina-cosse-y-%C3%A1lvaro-delgado-se-presenta-un-empate-t%C3%A9cnico Nómade Consultora]
+|16–22 de junio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''46%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|21%
+|colspan="2"| 10%{{refn|group="lower-roman"|name="GenericoPC"}}
+| 3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''25%'''
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-posible-escenario-entre-carolina-cosse-y-%C3%A1lvaro-delgado-se-presenta-un-empate-t%C3%A9cnico Nómade Consultora]
+|16–22 de junio de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''40%'''
+|{{Celda|N/A}}
+|22%
+|colspan="2"| 9%{{refn|group="lower-roman"|name="GenericoPC"}}
+| 4%
+| 2%{{refn|group="lower-roman"|name="GenericoPI"}}
+|{{Celda|N/A}}
+| 11%
+| 13%
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''18%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2024/ Opcion Consultores]
+|15–31 de mayo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''42%'''
+|{{Celda|N/A}}
+| 31%
+|{{Celda|N/A}}
+| 7%
+|{{Celda|N/A}}
+| 6%
+| 3%
+| 1%
+| colspan="2" |11%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''11%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2024/ Opcion Consultores]
+|15–31 de mayo de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''39%'''
+|32%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|6%
+|6%
+|4%
+|1%
+| colspan="2" |11%
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''7%'''
+|-
+|[https://www.elobservador.com.uy/nacional/encuesta-equipos-dos-escenarios-posibles-las-elecciones-segun-quien-sea-candidato-del-fa-n5941900 Equipos Consultores]
+|11–28 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''48%'''
+|{{Celda|N/A}}
+|28%
+|{{Celda|N/A}}
+|8%
+|{{Celda|N/A}}
+|5%
+|2%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''20%'''
+|-
+|[https://www.elobservador.com.uy/nacional/encuesta-equipos-dos-escenarios-posibles-las-elecciones-segun-quien-sea-candidato-del-fa-n5941900 Equipos Consultores]
+|11–28 de abril de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''40%'''
+|31%
+|{{Celda|N/A}}
+|9%
+|{{Celda|N/A}}
+|6%
+|3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''9%'''
+|-
+|[https://www.nomadeconsultora.uy/post/escenarios-de-primera-y-segunda-vuelta Nómade Consultora]
+|25–29 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''43%'''
+|{{Celda|N/A}}
+|33%
+|{{Celda|N/A}}
+| colspan="2" |4%{{refn|group="lower-roman"|name="GenericoPC"}}
+|4%
+|1%{{refn|group="lower-roman"|name="GenericoPI"}}
+|{{Celda|N/A}}
+|6%
+|9%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''10%'''
+|-
+|[https://www.nomadeconsultora.uy/post/escenarios-de-primera-y-segunda-vuelta Nómade Consultora]
+|25–29 de abril de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''39%'''
+|33%
+|{{Celda|N/A}}
+| colspan="2" |4%{{refn|group="lower-roman"|name="GenericoPC"}}
+|5%
+|<1%{{refn|group="lower-roman"|name="GenericoPI"}}
+|{{Celda|N/A}}
+|8%
+|11%
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''6%'''
+|-
+|[https://www.nomadeconsultora.uy/post/escenarios-de-primera-y-segunda-vuelta Nómade Consultora]
+|25–29 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|26%
+| colspan="2" |5%{{refn|group="lower-roman"|name="GenericoPC"}}
+|6%
+|<1%{{refn|group="lower-roman"|name="GenericoPI"}}
+|{{Celda|N/A}}
+|9%
+|10%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''19%'''
+|-
+|[https://www.nomadeconsultora.uy/post/escenarios-de-primera-y-segunda-vuelta Nómade Consultora]
+|25–29 de abril de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''39%'''
+|{{Celda|N/A}}
+|27%
+| colspan="2" |6%{{refn|group="lower-roman"|name="GenericoPC"}}
+|7%
+|1%{{refn|group="lower-roman"|name="GenericoPI"}}
+|{{Celda|N/A}}
+|11%
+|10%
+|bgcolor=#0062c3 style="color:#FFFFFF;"|'''12%'''
+|-
+| [https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-abril-2024/ Opcion Consultores]
+| 1–10 de abril de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''44%'''
+|{{Celda|N/A}}
+| 28%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 5%
+| 8%
+| 3%
+| 1%
+| colspan="2" |13%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''16%'''
+|-
+| [https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-abril-2024/ Opcion Consultores]
+| 1–10 de abril de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"| '''41%'''
+| 30%
+|{{Celda|N/A}}
+| 6%
+|{{Celda|N/A}}
+| 8%
+| 3%
+| 1%
+| colspan="2" |12%
+|bgcolor=#0062c3 style="color:#FFFFFF;"| '''9%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-febrero-2024/ Opción Consultores]
+|14 de febrero–8 de marzo de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''40%'''
+|{{Celda|N/A}}
+| 33%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 4%
+| 5%
+| 3%
+| 1%
+| 7%
+| 7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''7%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-febrero-2024/ Opción Consultores]
+|14 de febrero–8 de marzo de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"| '''39%'''
+| 35%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 6%
+| 5%
+| 3%
+| 1%
+| 6%
+| 6%
+|bgcolor=#0062c3 style="color:#FFFFFF;"| '''4%'''
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-consultores-a-que-candidato-presidencial-prefieren-los-uruguayos-n942046 Equipos Consultores]
+|15–27 de febrero de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''44%'''
+|{{Celda|N/A}}
+|29%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|5%
+|9%
+|2%
+|{{Celda|N/A}}
+|4%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''15%'''
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-consultores-a-que-candidato-presidencial-prefieren-los-uruguayos-n942046 Equipos Consultores]
+|15–27 de febrero de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''37%'''
+|30%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|6%
+|10%
+|2%
+|{{Celda|N/A}}
+|7%
+|8%
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''7%'''
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-consultores-a-que-candidato-presidencial-prefieren-los-uruguayos-n942046 Equipos Consultores]
+|15–27 de febrero de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''45%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|22%
+|{{Celda|N/A}}
+|8%
+|10%
+|3%
+|{{Celda|N/A}}
+|5%
+|7%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''23%'''
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-consultores-a-que-candidato-presidencial-prefieren-los-uruguayos-n942046 Equipos Consultores]
+|15–27 de febrero de 2024
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''37%'''
+|{{Celda|N/A}}
+|21%
+|{{Celda|N/A}}
+|10%
+|11%
+|5%
+|{{Celda|N/A}}
+|8%
+|8%
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''16%'''
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-a-que-candidato-presidencial-prefieren-los-uruguayos-n934364 Equipos Consultores]
+|16–29 de noviembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''47%'''
+|{{Celda|N/A}}
+|29%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|5%
+|7%
+|3%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''18%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-45-,-PN-29-,-PC-7-,-CA-2-/126 Equipos Consultores]
+|16–29 de noviembre de 2023
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''42%'''
+|31%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|7%
+|7%
+|4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''9%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-45-,-PN-29-,-PC-7-,-CA-2-/126 Equipos Consultores]
+|16–29 de noviembre de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''46%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|24%
+|{{Celda|N/A}}
+|8%
+|8%
+|4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''22%'''
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-45-,-PN-29-,-PC-7-,-CA-2-/126 Equipos Consultores]
+|16–29 de noviembre de 2023
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''42%'''
+|{{Celda|N/A}}
+|24%
+|{{Celda|N/A}}
+|10%
+|7%
+|5%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''18%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-diciembre-2023/ Opción Consultores]
+|4–20 de noviembre de  2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''45%'''
+|{{Celda|N/A}}
+| 27%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 8%
+| 6%
+| 4%
+| 1%
+| 6%
+| 3%
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''18%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-diciembre-2023/ Opción Consultores]
+|4–20 de noviembre de  2023
+|{{Celda|N/A}}
+|bgcolor=#0062c3 style="color:#FFFFFF;"| '''39%'''
+| 31%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 6%
+| 6%
+| 6%
+| 1%
+| 8%
+| 4%
+|bgcolor=#0062c3 style="color:#FFFFFF;"| '''8%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/7/encuesta-de-equipos-consultores-compara-escenarios-para-las-elecciones-segun-el-candidato-de-cada-partido/ Equipos Consultores]
+|2–16 de junio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''46%'''
+|{{Celda|N/A}}
+|26%
+|{{Celda|N/A}}
+|colspan="2"|11%{{refn|group="lower-roman"|name="GenericoPC"}}
+|5%
+|4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''20%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/7/encuesta-de-equipos-consultores-compara-escenarios-para-las-elecciones-segun-el-candidato-de-cada-partido/ Equipos Consultores]
+|2–16 de junio de 2023
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''39%'''
+|25%
+|{{Celda|N/A}}
+|colspan="2"|13%{{refn|group="lower-roman"|name="GenericoPC"}}
+|6%
+|6%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''14%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/7/encuesta-de-equipos-consultores-compara-escenarios-para-las-elecciones-segun-el-candidato-de-cada-partido/ Equipos Consultores]
+|2–16 de junio de 2023
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''46%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|20%
+|colspan="2"|13%{{refn|group="lower-roman"|name="GenericoPC"}}
+|7%
+|4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''26%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/7/encuesta-de-equipos-consultores-compara-escenarios-para-las-elecciones-segun-el-candidato-de-cada-partido/ Equipos Consultores]
+|2–16 de junio de 2023
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''41%'''
+|{{Celda|N/A}}
+|21%
+|colspan="2"|16%{{refn|group="lower-roman"|name="GenericoPC"|Candidato genérico del [[Partido Colorado (Uruguay)|Partido Colorado]].}}
+|7%
+|5%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|bgcolor=#0062C3 style="color:#FFFFFF;"|'''20%'''
+|}
+
+== Segunda vuelta ==
+=== Por partido político ===
+====Gráfico====
+{{wide image|BalotajeSep2024.svg|1000px|[[Regresión local]] de encuestas realizadas}}
+====Encuestas====
+{| class="wikitable mw-collapsible" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="2" style="width:150px;" |Encuestadora
+! rowspan="2" style="width:250px;" |Fecha
+!style="width:50px;"|[[Archivo:Logo_Frente_Amplio.svg|45px|link=Frente Amplio (Uruguay)]]
+!style="width:50px;"|[[Archivo:Flag_of_the_National_Party_%28Uruguay%29.svg|45px|link=Partido Nacional (Uruguay)]]
+!style="width:50px;"|[[Archivo:Flag_of_Colorado_Party_%28Uruguay%29.svg|centro|45px|link=Partido Colorado (Uruguay)]]
+!rowspan=2 style="width:50px;"|Blanco /<br/>Anulado
+!rowspan=2 style="width:50px;"|Indecisos
+!rowspan="2" style="width:50px;"|Ventaja
+|-
+| bgcolor="{{Color político|Frente Amplio (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Nacional (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Colorado (Uruguay)}}" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2024|Segunda vuelta]]'''
+|'''24 de noviembre de 2024'''
+|bgcolor="#0e4477" style="color:#FFFFFF;" |'''49,77%'''
+|45,94%
+|{{Celda|N/A}}
+|4,2%
+|{{Celda|N/A}}
+|bgcolor="#0e4477" style="color:#FFFFFF;" |'''3,9%'''
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |22 de noviembre de 2024
+| colspan="8" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para la segunda vuelta.
+|-
+
+
+|[https://twitter.com/data360uy/status/1859615534477623520 Data 360]
+|Noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|44%
+|{{Celda|N/A}}
+|5%
+|4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3%'''
+|-
+|[https://www.nomadeconsultora.uy/post/balotaje-2024-escenario-competitivo-con-leve-ventaja-para-yamand%C3%BA-orsi Nómade Consultora]
+|17–20 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''48,2%'''
+|46,4%
+|{{Celda|N/A}}
+| colspan="2" |5,4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1,8%'''
+|-
+|[https://www.elpais.com.uy/informacion/politica/ultima-encuesta-de-cifra-para-el-balotaje-entre-delgado-y-orsi-consultora-se-mantiene-en-empate-tecnico Cifra]
+|14–20 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|46,4%
+|{{Celda|N/A}}
+| colspan="2" |6,6%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''0,6%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-balotaje-noviembre-2024-2/ Opción Consultores]
+|12–20 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''49,7%'''
+|45,5%
+|{{Celda|N/A}}
+| colspan="2" |4,8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''4,2%'''
+|-
+|[https://equipos.com.uy/noticias/Proyeccion-de-Equipos-Consultores-Yamandu-Orsi-48-0-,-Alvaro-Delgado-46-2-/302 Equipos Consultores]
+|8–20 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''48,0%'''
+|46,2%
+|{{Celda|N/A}}
+| colspan="2" |5,8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1,8%'''
+|-
+|[https://www.elobservador.com.uy/nacional/ultima-encuesta-el-observador-y-udelar-previo-al-balotaje-asi-se-posicionan-yamandu-orsi-y-alvaro-delgado-n5970953 El Observador]
+|17–19 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''49,0%'''
+|46,1%
+|{{Celda|N/A}}
+|4,3%
+|0,7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1,6%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241121.php Factum]
+|15–19 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47,1%'''
+|46,6%
+|{{Celda|N/A}}
+| colspan="2" |6,3%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''0,5%'''
+|-
+|[https://cbconsultoraop.com/uruguay-2o-vuelta-presidente-2024-cb-consultora-o-p-1021-casos-15-a-19-de-noviembre-2024/ CB Consultora]
+|15–19 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''49,1%'''
+|45,7%
+|{{Celda|N/A}}
+|3,0%
+|2,2%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3,4%'''
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/11/balotaje-49-de-intencion-de-voto-para-orsi-y-46-para-delgado-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|15–18 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''49%'''
+|46%
+|{{Celda|N/A}}
+| colspan="2" |5%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3%'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-en-el-balotaje-2/ Cifra]
+|11–17 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|46%
+|{{Celda|N/A}}
+| colspan="2" |18%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1%'''
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-escenario-de-balotaje-abierto-la-mayor%C3%ADa-de-quienes-votar%C3%A1n-anulado-y-quienes-a%C3%BAn-est%C3%A1n-indec Nómade Consultora]
+|9–13 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45,5%'''
+|41,7%
+|{{Celda|N/A}}
+|4,1%
+|8,7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3,8%'''
+|-
+|[https://www.elobservador.com.uy/nacional/ultima-encuesta-el-observador-y-udelar-previo-al-balotaje-asi-se-posicionan-yamandu-orsi-y-alvaro-delgado-n5970953 El Observador]
+|6–11 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47,8%'''
+|46,2%
+|{{Celda|N/A}}
+|5,3%
+|0,7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''1,6%'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241114.php Factum]
+|4–11 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|45%
+|{{Celda|N/A}}
+|3%
+|5%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''2%'''
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-hacia-el-Balotaje-Yamandu-Orsi-45-,-Alvaro-Delgado-41-/292 Equipos Consultores]
+|2–11 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45%'''
+|41%
+|{{Celda|N/A}}
+|6%
+|8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''4%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-balotaje-noviembre-2024/ Opcion Consultores]
+|4–9 de noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''48,5%'''
+|45,1%
+|{{Celda|N/A}}
+| colspan="2" |6,3%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3%'''
+|-
+|[https://usina.com.uy/07-11-2024-46-votaria-a-orsi-y-43-a-delgado-en-el-balotaje-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|Noviembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46%'''
+|43%
+|{{Celda|N/A}}
+|4%
+|7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3%'''
+|-
+| colspan="8" style="background:#A0A0A0" |
+|-
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2024|Elecciones generales]]'''
+|'''27 de octubre de 2024'''
+|{{ya}}
+|{{ya}}
+|{{na}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|-
+| colspan="8" style="background:#A0A0A0" |
+|-
+|[https://usina.com.uy/24-10-2024-47-votaria-al-frente-amplio-y-25-al-partido-nacional-el-proximo-domingo-segun-la-usina-de-percepcion-ciudadana-2/ Usina de Percepción Ciudadana]
+|18–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''49%'''
+|41%
+|{{Celda|N/A}}
+| colspan="2"| 10%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''8%'''
+|-
+|[https://www.nomadeconsultora.uy/post/%C3%BAltimos-datos-sobre-intenci%C3%B3n-de-voto Nómade Consultora]
+|16–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''49,2%'''
+|38,1%
+|{{Celda|N/A}}
+|4,4%
+|8,3%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''11,1%'''
+|-
+|[https://www.nomadeconsultora.uy/post/%C3%BAltimos-datos-sobre-intenci%C3%B3n-de-voto Nómade Consultora]
+|16–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''48,9%'''
+|{{Celda|N/A}}
+|39,3%
+|4,6%
+|7,2%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''9,6%'''
+|-
+|[https://www.telenoche.com.uy/nacionales/andres-ojeda-esta-un-punto-alvaro-delgado-segun-la-ultima-encuesta-intencion-voto-radar-n5375084 Grupo Radar]
+|12–15 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''44%'''
+|37%
+|{{Celda|N/A}}
+| colspan="2" |19%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''7%'''
+|-
+|[https://www.telenoche.com.uy/nacionales/andres-ojeda-esta-un-punto-alvaro-delgado-segun-la-ultima-encuesta-intencion-voto-radar-n5375084 Grupo Radar]
+|12–15 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''43%'''
+|{{Celda|N/A}}
+|40%
+| colspan="2" |19%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''3%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/10/yamandu-orsi-aventaja-a-alvaro-delgado-por-mas-de-25-puntos-segun-consultora-argentina/ Proyección Consultores]
+|24 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47,5%'''
+|32,9%
+|{{Celda|N/A}}
+|9,9%
+|9,7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''4,6%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-setiembre-2024/ Opcion Consultores]
+|23 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''48%'''
+|41%
+|{{Celda|N/A}}
+|6%
+|5%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''7%'''
+|-
+|[https://usina.com.uy/03-10-2024-yamandu-orsi-derrotaria-por-diez-puntos-a-alvaro-delgado-en-un-eventual-balotaje-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|27–30 de septiembre de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''50%'''
+|40%
+|{{Celda|N/A}}
+| colspan="2" |10%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''10%'''
+|-
+|[https://www.nomadeconsultora.uy/post/crece-el-frente-amplio-y-el-partido-colorado Nómade Consultora]
+|5–9 de septiembre de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''50%'''
+|38%
+|{{Celda|N/A}}
+|4%
+|8%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''12%'''
+|-
+|[https://www.nomadeconsultora.uy/post/crece-el-frente-amplio-y-el-partido-colorado Nómade Consultora]
+|5–9 de septiembre de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''51%'''
+|{{Celda|N/A}}
+|37%
+|4%
+|8%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''14%'''
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/9/el-fa-alcanzaria-47-de-los-votos-y-la-coalicion-oficialista-40-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|29 de agosto–1 de septiembre de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''49%'''
+|39%
+|{{Celda|N/A}}
+|colspan="2" |12%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''10%'''
+|-
+|[https://data360.uy/Noticias/OPAgosto.html Data 360]
+|25–31 de agosto de 2024.
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|39%
+|{{Celda|N/A}}
+|7%
+|7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''8%'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-agosto-2024/ Opcion Consultores]
+|15–27 de agosto de 2024.
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''48%'''
+|41%
+|{{Celda|N/A}}
+|7%
+|4%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''7%'''
+|-
+
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-factum-quien-ganaria-un-balotaje-alvaro-delgado-y-yamandu-orsi-n5956839 Factum]
+|27 de julio–8 de agosto de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''50%'''
+|46%
+|{{Celda|N/A}}
+|4%
+|{{Celda|N/A}}
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''4%'''
+|-
+|[https://www.nomadeconsultora.uy/post/cae-la-intenci%C3%B3n-de-voto-al-partido-nacional Nómade Consultora]
+|29 de julio–4 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''52%'''
+|34%
+|{{Celda|N/A}}
+|7%
+|7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''18%'''
+|-
+|[https://www.ambito.com/uruguay/alvaro-delgado-y-andres-ojeda-casi-las-mismas-chances-yamandu-orsi-un-balotaje-n60511549 Equipos Consultores]
+|17–30 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''50%'''
+|{{Celda|N/A}}
+|36%
+|4%
+|10%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''14%'''
+|-
+|[https://www.ambito.com/uruguay/alvaro-delgado-y-andres-ojeda-casi-las-mismas-chances-yamandu-orsi-un-balotaje-n60511549 Equipos Consultores]
+|17–30 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''48%'''
+|39%
+|{{Celda|N/A}}
+|5%
+|8%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''9%'''
+|- 
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-julio-2024/ Opcion Consultores]
+|15–25 de julio de 2024
+|bgcolor=#0e4477 style="color:#FFFFFF;"| '''50%'''
+|38%
+|{{Celda|N/A}}
+|7%
+|5%
+|bgcolor=#0e4477 style="color:#FFFFFF;"|'''12%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |30 de junio de 2024
+| colspan="6" |Elecciones internas.
+|-
+| colspan="8" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2019|Elecciones generales]]'''
+|'''24 de noviembre de 2019'''
+|47,4%
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''48,9%'''
+|{{Celda|N/A}}
+|3,8%
+|{{Celda|N/A}}
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''1,5%'''
+|-
+|}
+
+=== Por escenario ===
+==== Gráfico ====
+{{Switcher|[[Archivo:OrsiDelgadoV2.svg|1000px]]
+|Línea de tendencia de [[regresión local]] de la intención de voto en un escenario hipotético de segunda vuelta con [[Yamandú Orsi|Orsi]] y [[Álvaro Delgado Ceretta|Delgado]].
+|[[Archivo:CosseDelgadoV2.svg|1000px]]
+|Línea de tendencia de [[regresión local]] de la intención de voto en un escenario hipotético de segunda vuelta con [[Carolina Cosse|Cosse]] y [[Álvaro Delgado Ceretta|Delgado]].
+}}
+==== Encuestas ====
+La siguiente tabla enumera las encuestas con candidatos hipotéticos para la segunda vuelta electoral, realizadas antes de que se oficializaran las candidaturas presidenciales mediante las [[Elecciones internas de Uruguay de 2024|elecciones internas]].
+
+[[Archivo:Green check.svg|13px|Yes]] Indica que el precandidato fue electo en las Elecciones Internas.<br />
+[[Archivo:Dark red x.svg|13px|No]] Indica que el precandidato no fue electo en las Elecciones Internas. <br />
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="3" style="width:150px;" |Encuestadora
+! rowspan="3" style="width:250px;" |Fecha
+! colspan="2" |[[Frente Amplio (Uruguay)|FA]]
+! colspan="2" |[[Partido Nacional (Uruguay)|PN]]
+! rowspan="3" style="width:50px;" |Blanco /<br />Anulado
+! rowspan="3" style="width:50px;" |Indecisos
+! rowspan="3" style="width:40px;" |Ventaja
+|-
+!style="width:50px;"|[[Yamandú Orsi|Orsi]]
+!style="width:50px;"|[[Carolina Cosse|Cosse]]
+!style="width:50px;"|[[Álvaro Delgado Ceretta|Delgado]]
+!style="width:50px;"|[[Laura Raffo|Raffo]]
+|-
+| bgcolor="{{Color político|Frente Amplio (Uruguay)}}" |
+| bgcolor="#0062c3" |
+| bgcolor="{{Color político|Partido Nacional (Uruguay)}}" |
+| bgcolor="#a9d2fc" |
+
+|- style="background:#EFEFEF;"
+|'''[[Elecciones internas de Uruguay de 2024|Elecciones internas]]'''
+|'''30 de junio de 2024'''
+|{{ya}}
+|{{na}}
+|{{ya}}
+|{{na}}
+|{{Celda|N/A}}	
+|{{Celda|N/A}}	
+|{{Celda|N/A}}	
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |28 de junio de 2024
+| colspan="11" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para las internas.<ref name=":0">{{Cita web|url=https://www.gub.uy/corte-electoral/politicas-y-gestion/calendario-electoral-elecciones-internas-partidos-politicos-2024|título=Calendario electoral de las elecciones internas de los partidos políticos de 2024|fechaacceso=2024-06-27|sitioweb=Corte Electoral|idioma=es}}</ref><ref name=":1">{{Cita web|url=https://impo.com.uy/bases/leyes/16019-1989/1|título=Ley N° 16019|fechaacceso=2024-06-27|sitioweb=impo.com.uy}}</ref>
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-posible-escenario-entre-carolina-cosse-y-%C3%A1lvaro-delgado-se-presenta-un-empate-t%C3%A9cnico Nómade Consultora]
+|16–22 de junio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''46%'''
+|{{Celda|N/A}}	
+|41%
+|{{Celda|N/A}}	
+|5%
+|8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''5%'''
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-posible-escenario-entre-carolina-cosse-y-%C3%A1lvaro-delgado-se-presenta-un-empate-t%C3%A9cnico Nómade Consultora]
+|16–22 de junio de 2024
+|{{Celda|N/A}}
+| bgcolor="#0062C3" style="color:#FFFFFF;" |'''42%'''
+| bgcolor="#80bfff" style="color:#FFFFFF;" |'''42%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-posible-escenario-entre-carolina-cosse-y-%C3%A1lvaro-delgado-se-presenta-un-empate-t%C3%A9cnico Nómade Consultora]
+|16–22 de junio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|31%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16%'''
+|-
+|[https://www.nomadeconsultora.uy/post/en-un-posible-escenario-entre-carolina-cosse-y-%C3%A1lvaro-delgado-se-presenta-un-empate-t%C3%A9cnico Nómade Consultora]
+|16–22 de junio de 2024
+|{{Celda|N/A}}
+| bgcolor="#0062C3" style="color:#FFFFFF;" |'''42%'''
+|{{Celda|N/A}}
+|31%
+|13%
+|14%
+| bgcolor="#0062C3" style="color:#FFFFFF;" |'''11%'''
+|-
+|[https://www.m24.com.uy/ultima-encuesta-de-equipos-orsi-aparece-con-ventaja-sobre-cosse-para-enfrentar-a-delgado/ Equipos Consultores]
+|29 de mayo–13 de junio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53%'''
+|{{Celda|N/A}}
+|36%
+|{{Celda|N/A}}
+| colspan="2" |11%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17%'''
+|-
+|[https://www.m24.com.uy/ultima-encuesta-de-equipos-orsi-aparece-con-ventaja-sobre-cosse-para-enfrentar-a-delgado/ Equipos Consultores]
+|29 de mayo–13 de junio de 2024
+|{{Celda|N/A}}
+|43%
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''45%'''
+|{{Celda|N/A}}
+| colspan="2" |12%
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''2%'''
+|-
+|[https://www.ambito.com/uruguay/yamandu-orsi-ganaria-un-eventual-balotaje-contra-alvaro-delgado-n6019754 Cifra]
+|16–29 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''50%'''
+|{{Celda|N/A}}
+|39%
+|{{Celda|N/A}}
+| colspan="2" |11%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''11%'''
+|-
+|[https://www.ambito.com/uruguay/yamandu-orsi-ganaria-un-eventual-balotaje-contra-alvaro-delgado-n6019754 Cifra]
+|16–29 de mayo de 2024
+|{{Celda|N/A}}
+| bgcolor="#0062C3" style="color:#FFFFFF;" |'''45%'''
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''45%'''
+|{{Celda|N/A}}
+| colspan="2" |10%
+|{{Celda|N/A}}
+|-
+|[https://www.m24.com.uy/balotaje-de-noviembre-yamandu-orsi-presenta-diez-puntos-de-ventaja-frente-a-alvaro-delgado-segun-encuesta-de-equipos/ Equipos Consultores]
+|11–28 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''50%'''
+|{{Celda|N/A}}
+|40%
+|{{Celda|N/A}}
+|3%
+|7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''10%'''
+|-
+|[https://www.m24.com.uy/balotaje-de-noviembre-yamandu-orsi-presenta-diez-puntos-de-ventaja-frente-a-alvaro-delgado-segun-encuesta-de-equipos/ Equipos Consultores]
+|11–28 de abril de 2024
+|{{Celda|N/A}}
+|44%
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''45%'''
+|{{Celda|N/A}}
+|5%
+|6%
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''1%'''
+|-
+|[https://www.nomadeconsultora.uy/post/escenarios-de-primera-y-segunda-vuelta Nómade Consultora]
+|25–29 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''45%'''
+|{{Celda|N/A}}
+|41%
+|{{Celda|N/A}}
+|5%
+|9%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''4%'''
+|-
+|[https://www.nomadeconsultora.uy/post/escenarios-de-primera-y-segunda-vuelta Nómade Consultora]
+|25–29 de abril de 2024
+|{{Celda|N/A}}
+|42%
+| bgcolor="#80bfff" style="color:#FFFFFF;" |'''43%'''
+|{{Celda|N/A}}
+|7%
+|9%
+| bgcolor="#80bfff" style="color:#FFFFFF;" |'''1%'''
+|-
+|[https://www.nomadeconsultora.uy/post/escenarios-de-primera-y-segunda-vuelta Nómade Consultora]
+|25–29 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''47%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|36%
+|8%
+|9%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''10%'''
+|-
+|[https://www.nomadeconsultora.uy/post/escenarios-de-primera-y-segunda-vuelta Nómade Consultora]
+|25–29 de abril de 2024
+|{{Celda|N/A}}
+| bgcolor="#0062C3" style="color:#FFFFFF;" |'''42%'''
+|{{Celda|N/A}}
+|37%
+|11%
+|10%
+| bgcolor="#0062C3" style="color:#FFFFFF;" |'''5%'''
+|-
+|[https://www.lapoliticaonline.com/internacionales/uruguay-una-encuesta-proyecta-un-triunfo-por-7-puntos-de-la-oposicion-en-segunda-vuelta/ Nómade Consultora]
+|10–14 de abril de 2024
+|bgcolor="#0e4477" style="color:#FFFFFF;"|'''53%'''
+|{{Celda|N/A}}
+| 47%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;"|'''6%'''
+|-
+|[https://www.lapoliticaonline.com/internacionales/uruguay-una-encuesta-proyecta-un-triunfo-por-7-puntos-de-la-oposicion-en-segunda-vuelta/ Nómade Consultora]
+|10–14 de abril de 2024
+|{{Celda|N/A}}
+|49%
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''51%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''2%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/3/encuesta-de-equipos-compara-escenarios-para-las-elecciones-de-octubre-y-noviembre-segun-el-candidato-de-cada-partido/ Equipos Consultores]
+|15–27 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''48%'''
+|{{Celda|N/A}}
+|41%
+|{{Celda|N/A}}
+|4%
+|7%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''7%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/3/encuesta-de-equipos-compara-escenarios-para-las-elecciones-de-octubre-y-noviembre-segun-el-candidato-de-cada-partido/ Equipos Consultores]
+|15–27 de febrero de 2024
+|{{Celda|N/A}}
+|42%
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''44%'''
+|{{Celda|N/A}}
+|6%
+|8%
+| bgcolor="#80bfff" style="color:#FFFFFF;"|'''2%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/3/encuesta-de-equipos-compara-escenarios-para-las-elecciones-de-octubre-y-noviembre-segun-el-candidato-de-cada-partido/ Equipos Consultores]
+|15–27 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52%'''
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+| 35%
+|5%
+|8%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17%'''
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/3/encuesta-de-equipos-compara-escenarios-para-las-elecciones-de-octubre-y-noviembre-segun-el-candidato-de-cada-partido/ Equipos Consultores]
+|15–27 de febrero de 2024
+|{{Celda|N/A}}
+| bgcolor="#0062C3" style="color:#FFFFFF;" |'''42%'''
+|{{Celda|N/A}}
+| 39%
+|10%
+|9%
+| bgcolor="#0062C3" style="color:#FFFFFF;" |'''3%'''
+|-
+|[https://portal.factum.uy/analisis/2023/ana231208.php/ Factum]
+|17–30 de noviembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51%'''
+|{{Celda|N/A}}
+| 41%
+|{{Celda|N/A}}
+|3%
+|5%
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''10%'''
+|}
+
+== Proyección de escaños ==
+Las siguientes tablas enumeran las proyecciones de escaños por partido en [[Asamblea General de Uruguay|ambas cámaras]], realizadas mediante el [[Sistema D'Hondt|método D'Hondt]] basándose en las encuestas de intención de voto de la primera vuelta electoral.
+
+=== Resumen ===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:50px; background-color:#8B8B8B"
+! rowspan=2 | {{abr|No.|Número}} de escaños
+! style="width:45px;" |[[Archivo:Logo_Frente_Amplio.svg|50px|link=Frente Amplio (Uruguay)]]
+! style="width:45px;" |[[Archivo:Flag_of_the_National_Party_%28Uruguay%29.svg|50px|link=Partido Nacional (Uruguay)]]
+! style="width:45px;" |[[Archivo:Flag_of_Colorado_Party_%28Uruguay%29.svg|centro|50px|link=Partido Colorado (Uruguay)]]
+! style="width:45px;" |[[Archivo:Partido cabildo abierto 270x180 flag version.jpg|centro|50px|link=Cabildo Abierto (partido político)]]
+! style="width:45px;" |[[Archivo:Bandera_Partido_Independiente.png|centro|50px|link=Partido Independiente (Uruguay)]]
+! style="width:45px;" |[[Archivo:Bandera_PERI.png|centro|50px|link=Partido Ecologista Radical Intransigente]]
+! style="width:45px;" |[[Archivo:Flag_Asamblea_Popular.svg|centro|50px|link=Unidad Popular - Frente de Trabajadores]]
+! style="width:45px;" |[[Identidad Soberana]]
+|-
+|-
+| bgcolor="{{Color político|Frente Amplio (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Nacional (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Colorado (Uruguay)}}" |
+| bgcolor="{{Color político|Cabildo Abierto (partido político)}}" |
+| bgcolor="{{Color político|Partido Independiente (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Ecologista Radical Intransigente}}" |
+| bgcolor="{{Color político|Unidad Popular (Uruguay)}}" |
+| bgcolor="#002cfe" |
+|- style="background:#EFEFEF;"
+!'''[[Elecciones generales de Uruguay de 2024|2024]]'''
+|{{Composition bar|48|99|hex={{party color|Frente Amplio (Uruguay)}}}} {{Composition bar|16|30|hex={{party color|Frente Amplio (Uruguay)}}}} 
+
+|{{Composition bar|29|99|hex={{party color|Partido Nacional (Uruguay)}}}} {{Composition bar|9|30|hex={{party color|Partido Nacional (Uruguay)}}}} 
+
+|{{Composition bar|17|99|hex={{party color|Partido Colorado (Uruguay)}}}} {{Composition bar|5|30|hex={{party color|Partido Colorado (Uruguay)}}}} 
+
+|{{Composition bar|2|99|hex={{party color|Cabildo Abierto (partido político)}}}} {{Composition bar|0|30|hex={{party color|Cabildo Abierto (partido político)}}}}
+ 
+|{{Composition bar|1|99|hex={{party color|Partido Independiente (Uruguay)}}}} {{Composition bar|0|30|hex={{party color|Partido Independiente (Uruguay)}}}}
+ 
+|{{Composition bar|0|99|hex={{party color|Partido Ecologista Radical Intransigente}}}}
+{{Composition bar|0|30|hex={{party color|Partido Ecologista Radical Intransigente}}}}
+
+|{{Composition bar|0|99|hex={{party color|Unidad Popular (Uruguay)}}}} {{Composition bar|0|30|hex={{party color|Unidad Popular (Uruguay)}}}} 
+
+|{{Composition bar|2|99|hex=hex=#002cfe}} {{Composition bar|0|30|hex=hex=#002cfe}} 
+
+|-
+| colspan="13" style="background:#A0A0A0" |
+|-
+! Máximo
+|{{Composition bar|57|99|hex={{party color|Frente Amplio (Uruguay)}}}}
+{{Composition bar|18|30|hex={{party color|Frente Amplio (Uruguay)}}}} 
+
+|{{Composition bar|41|99|hex={{party color|Partido Nacional (Uruguay)}}}}
+{{Composition bar|13|30|hex={{party color|Partido Nacional (Uruguay)}}}} 
+
+|{{Composition bar|18|99|hex={{party color|Partido Colorado (Uruguay)}}}}
+{{Composition bar|7|30|hex={{party color|Partido Colorado (Uruguay)}}}} 
+
+|{{Composition bar|12|99|hex={{party color|Cabildo Abierto (partido político)}}}}
+{{Composition bar|4|30|hex={{party color|Cabildo Abierto (partido político)}}}} 
+
+|{{Composition bar|4|99|hex={{party color|Partido Independiente (Uruguay)}}}}
+{{Composition bar|1|30|hex={{party color|Partido Independiente (Uruguay)}}}}
+
+|{{Composition bar|1|99|hex={{party color|Partido Ecologista Radical Intransigente}}}}
+{{Composition bar|0|30|hex={{party color|Partido Ecologista Radical Intransigente}}}} 
+
+|{{Composition bar|2|99|hex={{party color|Unidad Popular (Uruguay)}}}}
+{{Composition bar|0|30|hex={{party color|Unidad Popular (Uruguay)}}}} 
+
+|{{Composition bar|4|99|hex=#002cfe}}
+{{Composition bar|0|30|hex=#002cfe}}
+|-
+
+! Promedio<br>octubre
+|{{Composition bar|49|99|hex={{party color|Frente Amplio (Uruguay)}}}}
+{{Composition bar|16|30|hex={{party color|Frente Amplio (Uruguay)}}}} 
+
+|{{Composition bar|25|99|hex={{party color|Partido Nacional (Uruguay)}}}}
+{{Composition bar|8|30|hex={{party color|Partido Nacional (Uruguay)}}}} 
+
+|{{Composition bar|17|99|hex={{party color|Partido Colorado (Uruguay)}}}}
+{{Composition bar|6|30|hex={{party color|Partido Colorado (Uruguay)}}}} 
+
+|{{Composition bar|2|99|hex={{party color|Cabildo Abierto (partido político)}}}}
+{{Composition bar|1|30|hex={{party color|Cabildo Abierto (partido político)}}}} 
+
+|{{Composition bar|3|99|hex={{party color|Partido Independiente (Uruguay)}}}}
+{{Composition bar|0|30|hex={{party color|Partido Independiente (Uruguay)}}}}
+
+|{{Composition bar|0|99|hex={{party color|Partido Ecologista Radical Intransigente}}}}
+{{Composition bar|0|30|hex={{party color|Partido Ecologista Radical Intransigente}}}} 
+
+|{{Composition bar|0|99|hex={{party color|Unidad Popular (Uruguay)}}}}
+{{Composition bar|0|30|hex={{party color|Unidad Popular (Uruguay)}}}} 
+
+|{{Composition bar|2|99|hex=#002cfe}}
+{{Composition bar|0|30|hex=#002cfe}}
+|-
+
+! Mínimo
+|{{Composition bar|40|99|hex={{party color|Frente Amplio (Uruguay)}}}}
+{{Composition bar|13|30|hex={{party color|Frente Amplio (Uruguay)}}}} 
+
+|{{Composition bar|22|99|hex={{party color|Partido Nacional (Uruguay)}}}}
+{{Composition bar|7|30|hex={{party color|Partido Nacional (Uruguay)}}}} 
+
+|{{Composition bar|1|99|hex={{party color|Partido Colorado (Uruguay)}}}}
+{{Composition bar|0|30|hex={{party color|Partido Colorado (Uruguay)}}}} 
+
+|{{Composition bar|0|99|hex={{party color|Cabildo Abierto (partido político)}}}}
+{{Composition bar|0|30|hex={{party color|Cabildo Abierto (partido político)}}}} 
+
+|{{Composition bar|0|99|hex={{party color|Partido Independiente (Uruguay)}}}}
+{{Composition bar|0|30|hex={{party color|Partido Independiente (Uruguay)}}}}
+
+|{{Composition bar|0|99|hex={{party color|Partido Ecologista Radical Intransigente}}}}
+{{Composition bar|0|30|hex={{party color|Partido Ecologista Radical Intransigente}}}} 
+
+|{{Composition bar|0|99|hex={{party color|Unidad Popular (Uruguay)}}}}
+{{Composition bar|0|30|hex={{party color|Unidad Popular (Uruguay)}}}} 
+
+|{{Composition bar|0|99|hex=#002cfe}}
+{{Composition bar|0|30|hex=#002cfe}}
+|-
+
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2019|2019]]'''
+|{{Composition bar|42|99|hex={{party color|Frente Amplio (Uruguay)}}}} {{Composition bar|13|30|hex={{party color|Frente Amplio (Uruguay)}}}} 
+|{{Composition bar|30|99|hex={{party color|Partido Nacional (Uruguay)}}}} {{Composition bar|10|30|hex={{party color|Partido Nacional (Uruguay)}}}} 
+|{{Composition bar|13|99|hex={{party color|Partido Colorado (Uruguay)}}}} {{Composition bar|4|30|hex={{party color|Partido Colorado (Uruguay)}}}} 
+|{{Composition bar|11|99|hex={{party color|Cabildo Abierto (partido político)}}}} {{Composition bar|3|30|hex={{party color|Cabildo Abierto (partido político)}}}} 
+|{{Composition bar|1|99|hex={{party color|Partido Independiente (Uruguay)}}}} {{Composition bar|0|30|hex={{party color|Partido Independiente (Uruguay)}}}} 
+|{{Composition bar|1|99|hex={{party color|Partido Ecologista Radical Intransigente}}}} {{Composition bar|0|30|hex={{party color|Partido Ecologista Radical Intransigente}}}} 
+|{{Composition bar|0|99|hex={{party color|Unidad Popular (Uruguay)}}}} {{Composition bar|0|30|hex={{party color|Unidad Popular (Uruguay)}}}} 
+|''No participó''
+|}
+
+=== Cámara de senadores ===
+La mayoría absoluta en la [[Cámara de Senadores (Uruguay)|cámara de senadores]] se obtiene con 16 escaños o 15 más el voto del Vicepresidente de la República.
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="2" style="width:150px;" |Encuestadora
+! rowspan="2" style="width:220px;" |Fecha
+! style="width:50px;" |[[Archivo:Logo_Frente_Amplio.svg|45px|link=Frente Amplio (Uruguay)]]
+! style="width:50px;" |[[Archivo:Flag_of_the_National_Party_%28Uruguay%29.svg|45px|link=Partido Nacional (Uruguay)]]
+! style="width:50px;" |[[Archivo:Flag_of_Colorado_Party_%28Uruguay%29.svg|centro|45px|link=Partido Colorado (Uruguay)]]
+! style="width:50px;" |[[Archivo:Partido cabildo abierto 270x180 flag version.jpg|centro|45px|link=Cabildo Abierto (partido político)]]
+! style="width:50px;" |[[Archivo:Bandera_Partido_Independiente.png|centro|45px|link=Partido Independiente (Uruguay)]]
+! style="width:50px;" | [[Identidad Soberana|I.S.]]
+! rowspan="2" style="width:40px;" |No definidos
+! rowspan="2" style="width:110px;" |Mayoría / Primera minoría
+|-
+| bgcolor="{{Color político|Frente Amplio (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Nacional (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Colorado (Uruguay)}}" |
+| bgcolor="{{Color político|Cabildo Abierto (partido político)}}" |
+| bgcolor="{{Color político|Partido Independiente (Uruguay)}}" |
+| bgcolor="#002cfe" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2024|Elecciones generales]]'''
+|'''27 de octubre de 2024'''
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''''<br><small>+3</small>''
+|9''<br><small>-1</small>''
+|5''<br><small>+1</small>''
+|0''<br><small>-3</small>''
+|0''<br><small>=</small>''
+|0''<br><small>Nuevo</small>''
+|{{Celda|N/A}}
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+| colspan="10" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|-
+|[https://cbconsultoraop.com/uruguay-elecciones-2024-cb-consultora-o-p-1017-casos-21-a-24-de-octubre/ CB Consultora]
+|21–24 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15'''
+|7
+|7
+|0
+|1
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.carasycaretas.com.uy/politica/encuesta-radar-refleja-escenario-muy-parejo-delgado-y-ojeda-21-20-n78608 Grupo Radar]
+|21–23 de octubre de 2024
+|'''14'''
+|7
+|7
+|1
+|0
+|0
+|0
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-octubre-2024-2/ Opcion Consultores]
+|17–23 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15 '''
+|8
+|5
+|1
+|0
+|1
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana241024a.php Factum]
+|16–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15 '''
+|8
+|4
+|1
+|0
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Proyeccion-de-Equipos-Consultores-FA-45,8-PN-25,8-,-PC-17,7-/289 Equipos Consultores]
+|8–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|8
+|6
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/24-10-2024-47-votaria-al-frente-amplio-y-25-al-partido-nacional-el-proximo-domingo-segun-la-usina-de-percepcion-ciudadana-2/ Usina de Percepción Ciudadana]
+|18–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15'''
+|8
+|5
+|1
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/%C3%BAltimos-datos-sobre-intenci%C3%B3n-de-voto Nómade Consultora]
+|16–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|7
+|6
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://twitter.com/MVDNoticias/status/1849246529917198355 Data 360]
+|19–21 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|7
+|6
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-el-27-de-octubre/ Cifra]
+|11–20 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|8
+|5
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.telenoche.com.uy/nacionales/andres-ojeda-esta-un-punto-alvaro-delgado-segun-la-ultima-encuesta-intencion-voto-radar-n5375084 Grupo Radar]
+|12–15 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15'''
+|7
+|6
+|1
+|0
+|1
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-el-observador-y-la-udelar-asi-se-posicionan-orsi-delgado-y-ojeda-las-elecciones-nacionales-2024-n5966180 El Observador]
+|10–14 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|8
+|5
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana241014.php Factum]
+|28 de septiembre–6 de octubre de 2024
+|'''14'''
+|8
+|5
+|1
+|1
+|1
+|0
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/10/yamandu-orsi-aventaja-a-alvaro-delgado-por-mas-de-25-puntos-segun-consultora-argentina/ Proyección Consultores]
+|24 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|7
+|5
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-setiembre-2024/ Opcion Consultores]
+|23 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|9
+|4
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/la-foto-de-la-intenci%C3%B3n-de-voto-al-primero-de-octubre Nómade Consultora]
+|27 de setiembre - 1 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|8
+|5
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/03-10-2024-yamandu-orsi-derrotaria-por-diez-puntos-a-alvaro-delgado-en-un-eventual-balotaje-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|27–30 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17 '''
+|8
+|4
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://twitter.com/data360uy/status/1844399251297796522 Data 360]
+|24–30 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|8
+|5
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-23/ Cifra]
+|13–26 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16 '''
+|9
+|5
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.elobservador.com.uy/nacional/andres-ojeda-se-acerca-alvaro-delgado-segun-encuesta-intencion-voto-n5963167 Grupo Radar]
+|21–25 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16 '''
+|7
+|6
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-en-setiembre-el-Frente-Amplio-registra-43-,-y-la-suma-de-los-partidos-de-la-Coalicion-40-/278 Equipos Consultores]
+|11–23 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16 '''
+|8
+|5
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://cbconsultoraop.com/uruguay-elecciones-presidente-2024-1045-casos-17-a-21-de-septiembre-2024/ CB Consultora]
+|17–21 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15 '''
+|9
+|5
+|0
+|1
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/crece-el-frente-amplio-y-el-partido-colorado Nómade Consultora]
+|5–9 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17 '''
+|8
+|3
+|0
+|0
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana240920i.php Factum]
+|31 de agosto–9 de septiembre de 2024
+|'''14'''
+|9
+|5
+|1
+|0
+|0
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/En-agosto-41-votaria-al-Frente-Amplio-y-38-a-los-partidos-de-la-Coalicion-Multicolor/270 Equipos Consultores]
+|14 de agosto–1 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16 '''
+|8
+|5
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/9/el-fa-alcanzaria-47-de-los-votos-y-la-coalicion-oficialista-40-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|29 de agosto–1 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|9
+|4
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://data360.uy/Noticias/OPAgosto.html Data 360]
+|25–31 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|7
+|5
+|2
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-agosto-2024// Opcion Consultores]
+|15–27 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|8
+|5
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-22/ Cifra]
+|16–27 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15'''
+|10
+|4
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://cbconsultoraop.com/informe-uruguay-elecciones-presidente-2024-1040-casos-15-a-18-de-agosto/ CB Consultora]
+|15–18 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15'''
+|9
+|5
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-factum-las-elecciones-2024-a-que-partido-votarian-los-uruguayos-n5955944 Factum]
+|27 de julio–8 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15'''
+|8
+|5
+|1
+|1
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |6 de agosto de 2024
+| colspan="8" |[[Pedro Bordaberry]] anuncia su retorno a la política con su candidatura para senador por el Partido Colorado.<ref>{{Cita web|url=https://www.ambito.com/uruguay/pedro-bordaberry-confirmo-su-regreso-la-politica-una-lista-cara-octubre-n6044548|título=Pedro Bordaberry confirmó su regreso a la política con una lista de cara a octubre|fechaacceso=2024-08-10|sitioweb=www.ambito.com|idioma=es-UY}}</ref>
+|-
+|[https://www.nomadeconsultora.uy/post/cae-la-intenci%C3%B3n-de-voto-al-partido-nacional Nómade Consultora]
+|29 de julio–4 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|9
+|3
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-en-julio-43-votaria-al-Frente-Amplio-y-37-a-los-partidos-de-la-Coalicion-Multicolor/260 Equipos Consultores]
+|17–30 de julio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|8
+|4
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-21/ Cifra]
+|17–28 de julio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|10
+|3
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-julio-2024/ Opcion Consultores]
+|15–25 de julio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|8
+|5
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/7/elecciones-nacionales-fa-tiene-48-de-intencion-de-voto-y-la-coalicion-multicolor-38-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|5–9 de julio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17 '''
+|8 
+|4 
+|0 
+|0 
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |1 de julio de 2024
+| colspan="8" |[[Luis Lacalle Pou]] anuncia su candidatura para senador por el Partido Nacional.<ref>{{Cita web|url=https://www.ambito.com/uruguay/alvaro-delgado-confirmo-que-luis-lacalle-pou-encabezara-las-listas-las-elecciones-n6023653|título=Álvaro Delgado confirmó que Luis Lacalle Pou encabezará las listas para las elecciones|fechaacceso=2024-08-10|sitioweb=www.ambito.com|idioma=es-UY}}</ref>
+|-
+| colspan="10" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones internas de Uruguay de 2024|Elecciones internas]]'''
+|'''30 de junio de 2024'''
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15'''
+|12
+|3
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+| colspan="10" style="background:#A0A0A0" |
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |28 de junio de 2024
+| colspan="8" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para las internas.<ref name=":0" /><ref name=":1" />
+|-
+|[https://www.nomadeconsultora.uy/post/yamand%C3%BA-orsi-y-%C3%A1lvaro-delgado-lideran-sus-internas-partidarias Nómade Consultora]
+|13–22 de junio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+|11
+|2
+| 0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-en-junio--FA-44-,-Partidos-de-la-coalicion-39-/241 Equipos Consultores]
+|29 de mayo–13 de junio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+|10
+|3
+| 1
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana240617.php Factum]
+|1–11 de junio de 2024
+|'''14'''
+| 9
+| 4
+| 1
+| 1
+|0
+| 1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2024/ Opcion Consultores]
+|15–31 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 10
+| 2
+| 1
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-20/ Cifra]
+|16–29 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+| 11
+| 2
+| 1
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/06-06-2024-la-intencion-de-voto-del-fa-crecio-a-47-y-los-partidos-de-la-coalicion-suman-37-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|24–28 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 10
+| 2
+| 0
+|0
+|0
+| 1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/encuestas/2024/enc240514.php Factum]
+|19–30 de abril de 2024
+|'''14'''
+| 10
+| 3
+| 2
+| 0
+|0
+| 1
+|  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/intenci%C3%B3n-de-voto-crecen-los-apoyos-partidarios-y-la-coalici%C3%B3n-supera-al-frente-amplio Nómade Consultora]
+|25–29 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15'''
+| 12
+| 1
+| 1
+|0
+|0
+| 1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-Politica-por-partido-en-abril-43-FA,-39-partidos-de-la-Coalicion/213 Equipos Consultores]
+|11–28 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+| 11
+| 2
+| 1
+|0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/02-05-2024-fa-tiene-45-de-intencion-de-voto-y-partidos-de-la-coalicion-suman-39-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|19–23 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 11
+| 2
+| 0
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-19/ Cifra]
+|11–22 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+| 11
+| 2
+| 1
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.elobservador.com.uy/nota/ultima-encuesta-de-opcion-como-cambian-los-escenarios-en-un-balotaje-con-orsi-o-cosse-como-candidatos-del-fa--2024423201816 Opción Consultores]
+|1–10 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+| 10
+| 3
+| 1
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-18/ Cifra]
+|7–20 de marzo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+| 11
+| 2
+| 1
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-febrero-2024/ Opción Consultores]
+|14 de febrero–8 de marzo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15'''
+| 12
+| 2
+| 1
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/10-03-2024-elecciones-internas-en-el-fa-orsi-lidera-con-el-47-pero-cosse-acorta-distancias-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|1–5 de marzo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 10
+| 2
+| 0
+| 0
+|0
+| 1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana240311.php Factum]
+|20 de febrero–2 de marzo de 2024
+|'''14'''
+| 9
+| 2
+| 2
+| 1
+|0
+| 2
+|  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-42-,-PN-27-,-PC-7-,-CA-4-/118 Equipos Consultores]
+|15–27 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 10
+| 2
+| 1
+|0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-17/ Cifra]
+|1–17 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 11
+| 2
+| 0
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/se-fortalecen-las-precandidaturas-con-mayor-adhesi%C3%B3n Nómade Consultora]
+|22 de enero–2 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+| 12
+| 1
+| 0
+|0
+|0
+| 1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2023/ana231206.php Factum]
+|17–30 de noviembre de 2023
+|'''14'''
+|9
+|3
+|2
+|1
+|0
+|1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-45-,-PN-29-,-PC-7-,-CA-2-/126 Equipos Consultores]
+|16–29 de noviembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|11
+|2
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/11/elecciones-2024-45-votaria-al-frente-amplio-y-27-al-partido-nacional-segun-encuesta-de-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|10–14 de noviembre de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|10
+|2
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-diciembre-2023/ Opción Consultores]
+|4–20 de noviembre de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|10
+|2
+|1
+|1
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/el-17-5-de-quienes-fueron-encuestados-no-sabe-a-qu%C3%A9-partido-votar%C3%ADa Nómade Consultora]
+|6–11 de noviembre de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''18'''
+|10
+|1
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-16/ Cifra]
+|17 de octubre–3 de  noviembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|11
+|2
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/138 Equipos Consultores]
+|5–18 de octubre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|12
+|1
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/9/45-votaria-al-frente-amplio-y-29-al-partido-nacional-en-las-elecciones-de-2024-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|15–19 de septiembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|10
+|2
+|1
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/encuestas/2023/enc230915.php Factum]
+|21 de agosto–6 de septiembre de 2023
+|'''14'''
+|10
+|2
+|2
+|1
+|0
+|1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-15/ Cifra]
+|17–31 de agosto de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|12
+|1
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/148 Equipos Consultores]
+|10–23 de agosto de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|10
+|2
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/intencion-de-voto-el-frente-amplio-mantiene-ventaja-sobre-la-coalicion-de-gobierno Nómade Consultora]
+|19–23 de julio de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|11
+|1
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-14/ Cifra]
+|15 de junio–2 de julio de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|11
+|2
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2023/ana230713.php Factum]
+|21–28 de junio de 2023
+|'''14'''
+|9
+|3
+|2
+|1
+|0
+|1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/157 Equipos Consultores]
+|2–16 de junio de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|11
+|2
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/19-07-2023-elecciones-2024-el-45-votaria-al-frente-amplio-y-el-29-al-partido-nacional/ Usina de Percepción Ciudadana]
+|2–6 de junio de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|10
+|1
+|1
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2023/ Opción Consultores]
+|15–22 de mayo de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|11
+|1
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2023/ana230516.php Factum]
+|24 de abril–11 de mayo de 2023
+|'''14'''
+|8
+|2
+|4
+|1
+|0
+|1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-13/ Cifra]
+|20 de abril–3 de mayo  de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|12
+|1
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-42-,-PN-28-,-PC-5-,-CA-2-,-PI-1-/165 Equipos Consultores]
+|11–24 de abril de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 11
+| 2
+| 0
+| 0
+|0
+| 2
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/2023-cosecha-otono-intencion-de-voto Nómade Consultora]
+|3–17 de abril de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|11
+|1
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-fa-43-partido-nacional-24-partido-colorado-9-cabildo-abierto-3-n910218 Equipos Consultores]
+|Febrero de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|9
+|3
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|- |-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-12/ Cifra]
+|15–27 de febrero de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 12
+| 1
+| 0
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2023/ana230224.php Factum]
+|11–20 de febrero de 2023
+|'''14'''
+| 9
+| 2
+| 3
+| 1
+|0
+| 1
+|  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/2023-cosecha-verano-03-politica Nómade Consultora]
+|3–13 de enero de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+| 11
+| 1
+| 2
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.montevideo.com.uy/Noticias/Encuesta-de-Equipos-coloca-al-FA-a-la-cabeza-de-la-preferencia-electoral-con-44--uc847039 Equipos Consultores]
+|Diciembre de 2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''17'''
+|9
+|2
+|1
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-noviembre-2022/ Opción Consultores]
+|2–10 de noviembre de  2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15'''
+| 11
+| 2
+| 2
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-11/ Cifra]
+|20–31 de octubre de  2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''17'''
+| 12
+| 1
+| 0
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2022/ana221021.php Factum]
+|4–16 de octubre de 2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''15'''
+|9
+|2
+|2
+|1
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-38-FA,-PN-28-/188 Equipos Consultores]
+|24 de junio–9 de julio  de 2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''16'''
+|11
+|2
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/encuestas/2022/enc220616.php Factum]
+|3–13 de junio de 2022
+|'''14'''
+| 10
+| 2
+| 2
+| 1
+|0
+| 1
+|  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/220 Equipos Consultores]
+|23 de abril–7 de mayo  de 2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''16'''
+| 12
+| 2
+| 0
+|0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/encuestas/2021/enc211123.php Factum]
+|6–15 de noviembre de 2021
+|'''14'''
+| 10
+| 2
+| 3
+| 0
+|0
+| 1
+|  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.elobservador.com.uy/nota/el-35-de-los-uruguayos-apoya-al-frente-amplio-y-el-30-al-partido-nacional-segun-encuesta-de-equipos-20211027212618 Equipos Consultores]
+|Julio–Septiembre de  2021
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''15'''
+| 13
+| 1
+| 1
+| 0
+|0
+| 0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/monitor-de-opinion-publica-preferencias-partidarias/ Opción Consultores]
+|13–20 de mayo de 2021
+|'''13'''
+|'''13'''
+| 2
+| 2
+| 0
+|0
+| 0
+|{{Celda|N/A}}
+|-
+|-
+| colspan="10" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2019|Elecciones generales]]'''
+|'''27 de octubre de 2019'''
+|'''13'''
+|10
+|4
+|3
+|0
+|0
+|{{Celda|N/A}}
+|  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|}
+
+=== Cámara de representantes ===
+La mayoría absoluta en la [[Cámara de Representantes de Uruguay|cámara de representantes]] se obtiene con 50 escaños.
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:35px; background-color:#8B8B8B"
+! rowspan="2" |Encuestadora
+! rowspan="2" style="width:110px" |Fecha
+! style="width:45px;" |[[Archivo:Logo_Frente_Amplio.svg|35px|link=Frente Amplio (Uruguay)]]
+! style="width:45px;" |[[Archivo:Flag_of_the_National_Party_%28Uruguay%29.svg|35px|link=Partido Nacional (Uruguay)]]
+! style="width:45px;" |[[Archivo:Flag_of_Colorado_Party_%28Uruguay%29.svg|centro|35px|link=Partido Colorado (Uruguay)]]
+! style="width:45px;" |[[Archivo:Partido cabildo abierto 270x180 flag version.jpg|centro|35px|link=Cabildo Abierto (partido político)]]
+! style="width:45px;" |[[Archivo:Bandera_Partido_Independiente.png|centro|35px|link=Partido Independiente (Uruguay)]]
+! style="width:45px;" |[[Archivo:Bandera_PERI.png|centro|35px|link=Partido Ecologista Radical Intransigente]]
+! style="width:45px;" |[[Archivo:Flag_Asamblea_Popular.svg|centro|35px|link=Unidad Popular - Frente de Trabajadores
+]]
+! style="width:45px;" | [[Identidad Soberana|I.S.]]
+! rowspan="2" style="width:45px;" |Otros
+! rowspan="2" style="width:45px;" |No definidos
+! rowspan="2" style="width:100px;" |Mayoría / Primera Minoría
+|-
+| bgcolor="{{Color político|Frente Amplio (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Nacional (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Colorado (Uruguay)}}" |
+| bgcolor="{{Color político|Cabildo Abierto (partido político)}}" |
+| bgcolor="{{Color político|Partido Independiente (Uruguay)}}" |
+| bgcolor="{{Color político|Partido Ecologista Radical Intransigente}}" |
+| bgcolor="{{Color político|Unidad Popular (Uruguay)}}" |
+| bgcolor="#002cfe" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2024|Elecciones generales]]'''
+|'''27 de octubre de 2024'''
+|'''48'''''<br><small>+6</small>''
+|29''<br><small>-1</small>''
+|17''<br><small>+4</small>''
+|2''<br><small>-9</small>''
+|1''<br><small>=</small>''
+|0''<br><small>-1</small>''
+|0''<br><small>=</small>''
+|2''<br><small>Nuevo</small>''
+|0''<br><small>-1</small>''
+|{{Celda|N/A}}
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|-
+|[https://cbconsultoraop.com/uruguay-elecciones-2024-cb-consultora-o-p-1017-casos-21-a-24-de-octubre/ CB Consultora]
+|21–24 de octubre de 2024
+|'''48'''
+|22
+|21
+|2
+|3
+|0
+|1
+|2
+|0
+|0
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.carasycaretas.com.uy/politica/encuesta-radar-refleja-escenario-muy-parejo-delgado-y-ojeda-21-20-n78608 Grupo Radar]
+|21–23 de octubre de 2024
+|'''44'''
+|23
+|21
+|3
+|2
+|1
+|0
+|3
+|1
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-octubre-2024-2/ Opcion Consultores]
+|17–23 de octubre de 2024
+|'''48'''
+|25
+|17
+|4
+|1
+|0
+|0
+|4
+|0
+|0
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana241024a.php Factum]
+|16–22 de octubre de 2024
+|'''47'''
+|26
+|15
+|4
+|2
+|0
+|0
+|2
+|0
+|3
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/Proyeccion-de-Equipos-Consultores-FA-45,8-PN-25,8-,-PC-17,7-/289 Equipos Consultores]
+|8–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''50'''
+|24
+|19
+|1
+|2
+|0
+|0
+|2
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/24-10-2024-47-votaria-al-frente-amplio-y-25-al-partido-nacional-el-proximo-domingo-segun-la-usina-de-percepcion-ciudadana-2/ Usina de Percepción Ciudadana]
+|18–22 de octubre de 2024
+|'''49'''
+|26
+|16
+|3
+|1
+|1
+|0
+|0
+|0
+|4
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/%C3%BAltimos-datos-sobre-intenci%C3%B3n-de-voto Nómade Consultora]
+|16–22 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''51'''
+|23
+|19
+|2
+|1
+|0
+|0
+|2
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://twitter.com/MVDNoticias/status/1849246529917198355 Data 360]
+|19–21 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''50'''
+|22
+|19
+|4
+|1
+|0
+|0
+|2
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-el-27-de-octubre/ Cifra]
+|11–20 de octubre de 2024
+|'''49'''
+|26
+|16
+|3
+|2
+|0
+|1
+|2
+|0
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.telenoche.com.uy/nacionales/andres-ojeda-esta-un-punto-alvaro-delgado-segun-la-ultima-encuesta-intencion-voto-radar-n5375084 Grupo Radar]
+|12–15 de octubre de 2024
+|'''47'''
+|22
+|21
+|3
+|2
+|0
+|0
+|3
+|1
+|0
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-el-observador-y-la-udelar-asi-se-posicionan-orsi-delgado-y-ojeda-las-elecciones-nacionales-2024-n5966180 El Observador]
+|10–14 de octubre de 2024
+|'''49'''
+|27
+|17
+|2
+|1
+|0
+|0
+|0
+|0
+|3
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana241014.php Factum]
+|28 de septiembre–6 de octubre de 2024
+|'''45'''
+|25
+|17
+|4
+|3
+|0
+|0
+|3
+|0
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://ladiaria.com.uy/politica/articulo/2024/10/yamandu-orsi-aventaja-a-alvaro-delgado-por-mas-de-25-puntos-segun-consultora-argentina/ Proyección Consultores]
+|24 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''53'''
+|23
+|17
+|4
+|1
+|0
+|1
+|1
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-setiembre-2024/ Opcion Consultores]
+|23 de septiembre–2 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''50'''
+|29
+|14
+|3
+|2
+|0
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/la-foto-de-la-intenci%C3%B3n-de-voto-al-primero-de-octubre Nómade Consultora]
+|27 de setiembre - 1 de octubre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''54'''
+|26
+|15
+|2
+|0
+|0
+|0
+|1
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |  '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/03-10-2024-yamandu-orsi-derrotaria-por-diez-puntos-a-alvaro-delgado-en-un-eventual-balotaje-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|27–30 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|27
+|14
+|2
+|1
+|0
+|0
+|2
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://twitter.com/data360uy/status/1844399251297796522 Data 360]
+|24–30 de septiembre de 2024
+|'''48'''
+|26
+|15
+|4
+|1
+|0
+|1
+|0
+|0
+|3
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-23/ Cifra]
+|13–26 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|27
+|16
+|2
+|1
+|0
+|0
+|1
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.elobservador.com.uy/nacional/andres-ojeda-se-acerca-alvaro-delgado-segun-encuesta-intencion-voto-n5963167 Grupo Radar]
+|21–25 de septiembre de 2024
+|'''49'''
+|22
+|18
+|3
+|2
+|1
+|0
+|2
+|1
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-en-setiembre-el-Frente-Amplio-registra-43-,-y-la-suma-de-los-partidos-de-la-Coalicion-40-/278 Equipos Consultores]
+|11–23 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|25
+|17
+|3
+|1
+|0
+|1
+|1
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://cbconsultoraop.com/uruguay-elecciones-presidente-2024-1045-casos-17-a-21-de-septiembre-2024/ CB Consultora]
+|17–21 de septiembre de 2024
+|'''47'''
+|29
+|17
+|0
+|4
+|0
+|0
+|2
+|0
+|0
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/crece-el-frente-amplio-y-el-partido-colorado Nómade Consultora]
+|5–9 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|28
+|12
+|0
+|0
+|0
+|0
+|0
+|0
+|6
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana240920i.php Factum]
+|31 de agosto–9 de septiembre de 2024
+|'''46'''
+|28
+|16
+|4
+|2
+|0
+|0
+|0
+|1
+|2
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/En-agosto-41-votaria-al-Frente-Amplio-y-38-a-los-partidos-de-la-Coalicion-Multicolor/270 Equipos Consultores]
+|14 de agosto–1 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''50'''
+|27
+|16
+|3
+|0
+|1
+|0
+|1
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://ladiaria.com.uy/elecciones/articulo/2024/9/el-fa-alcanzaria-47-de-los-votos-y-la-coalicion-oficialista-40-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|29 de agosto–1 de septiembre de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|27
+|14
+|2
+|1
+|0
+|0
+|0
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://data360.uy/Noticias/OPAgosto.html Data 360]
+|25–31 de agosto de 2024
+|'''49'''
+|24
+|16
+|6
+|2
+|0
+|0
+|0
+|0
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-agosto-2024// Opcion Consultores]
+|15–27 de agosto de 2024
+|'''49'''
+|26
+|16
+|4
+|1
+|1
+|0
+|1
+|0
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-22/ Cifra]
+|16–27 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''50'''
+|31
+|12
+|3
+|1
+|0
+|0
+|1
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://cbconsultoraop.com/informe-uruguay-elecciones-presidente-2024-1040-casos-15-a-18-de-agosto/ CB Consultora]
+|15–18 de agosto de 2024
+|'''48'''
+|28
+|16
+|1
+|3
+|0
+|0
+|2
+|0
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.elobservador.com.uy/nacional/nueva-encuesta-factum-las-elecciones-2024-a-que-partido-votarian-los-uruguayos-n5955944 Factum]
+|27 de julio–8 de agosto de 2024
+|'''45'''
+|27
+|15
+|5
+|3
+|1
+|1
+|1
+|0
+|1
+|'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/cae-la-intenci%C3%B3n-de-voto-al-partido-nacional Nómade Consultora]
+|29 de julio–4 de agosto de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''55'''
+|29
+|11
+|1
+|0
+|0
+|0
+|0
+|0
+|3
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Intencion-de-voto-en-julio-43-votaria-al-Frente-Amplio-y-37-a-los-partidos-de-la-Coalicion-Multicolor/260 Equipos Consultores]
+|17–30 de julio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|27
+|13
+|3
+|1
+|0
+|0
+|1
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-21/ Cifra]
+|17–28 de julio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|31
+|10
+|3
+|1
+|0
+|0
+|1
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-primera-vuelta-y-balotaje-julio-2024/ Opcion Consultores]
+|15–25 de julio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|24
+|15
+|4
+|2
+|1
+|0
+|1
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+
+
+|[https://ladiaria.com.uy/elecciones/articulo/2024/7/elecciones-nacionales-fa-tiene-48-de-intencion-de-voto-y-la-coalicion-multicolor-38-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|5–9 de julio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''54'''
+|27
+|12
+|2
+|1
+|0
+|0
+|0
+|0
+|3
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones internas de Uruguay de 2024|Elecciones internas]]'''
+|'''30 de junio de 2024'''
+|'''48'''
+|38
+|11
+|2
+|0
+|0
+|0
+|0
+|0
+|{{Celda|N/A}}
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |28 de junio de 2024
+| colspan="11" |Comienzo de la veda y la prohibición de publicar encuestas y pronósticos electorales para las internas.<ref name=":0" /><ref name=":1" />
+|-
+|[https://www.nomadeconsultora.uy/post/yamand%C3%BA-orsi-y-%C3%A1lvaro-delgado-lideran-sus-internas-partidarias Nómade Consultora]
+|13–22 de junio de 2024
+|'''49'''
+|35
+|9
+|2
+|0
+|0
+|0
+|0
+|0
+|4
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-en-junio--FA-44-,-Partidos-de-la-coalicion-39-/241 Equipos Consultores]
+|29 de mayo–13 de junio de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|31
+|10
+|3
+|1
+|0
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana240617.php Factum]
+|1–11 de junio de 2024
+|'''45'''
+|31
+|12
+|5
+|3
+|0
+|1
+|0
+|0
+|2
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2024/ Opcion Consultores]
+|15–31 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|33
+|8
+|4
+|1
+|1
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-20/ Cifra]
+|16–29 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|36
+|7
+|3
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/06-06-2024-la-intencion-de-voto-del-fa-crecio-a-47-y-los-partidos-de-la-coalicion-suman-37-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|24–28 de mayo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|33
+|8
+|1
+|0
+|1
+|0
+|0
+|0
+|3
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/encuestas/2024/enc240514.php Factum]
+|19–30 de abril de 2024
+|'''45'''
+|32
+|10
+|6
+|2
+|0
+|2
+|0
+|0
+|2
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/intenci%C3%B3n-de-voto-crecen-los-apoyos-partidarios-y-la-coalici%C3%B3n-supera-al-frente-amplio Nómade Consultora]
+|25–29 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''50'''
+|38
+|4
+|3
+|0
+|1
+|0
+|0
+|0
+|3
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-Politica-por-partido-en-abril-43-FA,-39-partidos-de-la-Coalicion/213 Equipos Consultores]
+|11–28 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|35
+|8
+|3
+|0
+|0
+|0
+|0
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/02-05-2024-fa-tiene-45-de-intencion-de-voto-y-partidos-de-la-coalicion-suman-39-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|19–23 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|33
+|8
+|2
+|1
+|1
+|0
+|0
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-19/ Cifra]
+|11–22 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|36
+|8
+|3
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.elobservador.com.uy/nota/ultima-encuesta-de-opcion-como-cambian-los-escenarios-en-un-balotaje-con-orsi-o-cosse-como-candidatos-del-fa--2024423201816 Opción Consultores]
+|1–10 de abril de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|33
+|9
+|3
+|1
+|0
+|0
+|0
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-18/ Cifra]
+|7–20 de marzo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|36
+|7
+|3
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-febrero-2024/ Opción Consultores]
+|14 de febrero–8 de marzo de 2024
+|'''49'''
+|37
+|7
+|3
+|1
+|1
+|0
+|0
+|0
+|1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://usina.com.uy/10-03-2024-elecciones-internas-en-el-fa-orsi-lidera-con-el-47-pero-cosse-acorta-distancias-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|1–5 de marzo de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|31
+|8
+|2
+|2
+|1
+|0
+|0
+|0
+|3
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2024/ana240311.php Factum]
+|20 de febrero–2 de marzo de 2024
+|'''45'''
+|30
+|8
+|7
+|3
+|0
+|0
+|0
+|0
+|6
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-42-,-PN-27-,-PC-7-,-CA-4-/118 Equipos Consultores]
+|15–27 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|33
+|8
+|4
+|0
+|0
+|1
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-17/ Cifra]
+|1–17 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''54'''
+|36
+|6
+|2
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/se-fortalecen-las-precandidaturas-con-mayor-adhesi%C3%B3n Nómade Consultora]
+|22 de enero–2 de febrero de 2024
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|37
+|5
+|2
+|0
+|1
+|0
+|0
+|1
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; " |
+| style="border-right-style:hidden; background:lightyellow;" |21 de diciembre  de 2023
+| colspan="11" | La [[Unidad Popular (Uruguay)|Unidad Popular]], el [[Partido de los Trabajadores (Uruguay)|Partido de los Trabajadores]] y el Frente de Trabajadores en Lucha acuerdan una alianza electoral bajo el lema [[Asamblea Popular]].<ref>{{Cita web|url=https://pt.org.uy/el-acuerdo-electoral-del-pt-con-la-up-y-el-ftl-lanzamos-la-campana-con-todo/|título=El acuerdo electoral del PT con la UP y el FTL: Lanzamos la campaña, con todo|fechaacceso=2024-07-05|apellido=Fernández|nombre=Rafael|fecha=2023-12-21|sitioweb=Partido de los Trabajadores|idioma=es}}</ref>
+|-
+|[https://portal.factum.uy/analisis/2023/ana231206.php Factum]
+|17–30 de noviembre de 2023
+|'''46'''
+|28
+|10
+|7
+|3
+|0
+|0
+|0
+|0
+|5
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-45-,-PN-29-,-PC-7-,-CA-2-/126 Equipos Consultores]
+|16–29 de noviembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|34
+|8
+|2
+|0
+|0
+|0
+|0
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-diciembre-2023/ Opción Consultores]
+|4–20 de noviembre de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''51'''
+|34
+|7
+|3
+|3
+|1
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/11/elecciones-2024-45-votaria-al-frente-amplio-y-27-al-partido-nacional-segun-encuesta-de-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|10–14 de noviembre de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''56'''
+|34
+|6
+|3
+|0
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/el-17-5-de-quienes-fueron-encuestados-no-sabe-a-qu%C3%A9-partido-votar%C3%ADa Nómade Consultora]
+|6–11 de noviembre de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''56'''
+|30
+|5
+|5
+|1
+|0
+|0
+|0
+|0
+|2
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-16/ Cifra]
+|17 de octubre–3 de  noviembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|37
+|7
+|2
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/138 Equipos Consultores]
+|5–18 de octubre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|38
+|5
+|2
+|0
+|1
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://ladiaria.com.uy/politica/articulo/2023/9/45-votaria-al-frente-amplio-y-29-al-partido-nacional-en-las-elecciones-de-2024-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|15–19 de septiembre de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|33
+|7
+|3
+|1
+|0
+|0
+|0
+|0
+|3
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/encuestas/2023/enc230915.php Factum]
+|21 de agosto–6 de septiembre de  2023
+|'''46'''
+|31
+|7
+|9
+|3
+|0
+|0
+|0
+|0
+|3
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-15/ Cifra]
+|17–31 de agosto de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|38
+|5
+|2
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/148 Equipos Consultores]
+|10–23 de agosto de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|32
+|8
+|3
+|1
+|1
+|1
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/intencion-de-voto-el-frente-amplio-mantiene-ventaja-sobre-la-coalicion-de-gobierno Nómade Consultora]
+|19–23 de julio de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|34
+|5
+|5
+|1
+|0
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2023/ana230713.php Factum]
+|21–28 de junio de 2023
+|'''45'''
+|29
+|10
+|7
+|4
+|0
+|0
+|0
+|0
+|4
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-14/ Cifra]
+|15 de junio–2 de julio  de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''55'''
+|34
+|7
+|2
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/157 Equipos Consultores]
+|2–16 de junio de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|34
+|8
+|2
+|1
+|1
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://usina.com.uy/19-07-2023-elecciones-2024-el-45-votaria-al-frente-amplio-y-el-29-al-partido-nacional/ Usina de Percepción Ciudadana]
+|2–6 de junio de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|34
+|5
+|4
+|1
+|0
+|0
+|0
+|0
+|3
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-mayo-2023/ Opción Consultores]
+|15–22 de mayo de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|36
+|4
+|4
+|1
+|1
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2023/ana230516.php Factum]
+|24 de abril–11 de mayo de 2023
+|'''46'''
+|25
+|9
+|12
+|4
+|0
+|0
+|0
+|0
+|3
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-13/ Cifra]
+|20 de abril–3 de mayo  de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|38
+|3
+|5
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-FA-42-,-PN-28-,-PC-5-,-CA-2-,-PI-1-/165 Equipos Consultores]
+|11–24 de abril de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''54'''
+|36
+|6
+|2
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/2023-cosecha-otono-intencion-de-voto Nómade Consultora]
+|3–17 de abril de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|34
+|4
+|6
+|2
+|0
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.subrayado.com.uy/encuesta-equipos-fa-43-partido-nacional-24-partido-colorado-9-cabildo-abierto-3-n910218 Equipos Consultores]
+|Febrero de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|30
+|11
+|3
+|1
+|0
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|- |-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-12/ Cifra]
+|15–27 de febrero de  2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''55'''
+|38
+|3
+|2
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2023/ana230224.php Factum]
+|11–20 de febrero de 2023
+|'''46'''
+|29
+|6
+|10
+|4
+|0
+|0
+|0
+|0
+|4
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.nomadeconsultora.uy/post/2023-cosecha-verano-03-politica Nómade Consultora]
+|3–13 de enero de 2023
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|34
+|5
+|7
+|0
+|0
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.montevideo.com.uy/Noticias/Encuesta-de-Equipos-coloca-al-FA-a-la-cabeza-de-la-preferencia-electoral-con-44--uc847039 Equipos Consultores]
+|Diciembre de 2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''55'''
+|29
+|7
+|5
+|1
+|1
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/preferencias-partidarias-noviembre-2022/ Opción Consultores]
+|2–10 de noviembre de  2022
+|'''49'''
+|34
+|7
+|6
+|1
+|1
+|0
+|0
+|0
+|1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-si-las-elecciones-fueran-hoy-11/ Cifra]
+|20–31 de octubre de  2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''53'''
+|38
+|5
+|2
+|1
+|0
+|0
+|0
+|0
+|0
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/analisis/2022/ana221021.php Factum]
+|4–16 de octubre de 2022
+|'''46'''
+|30
+|9
+|8
+|3
+|0
+|0
+|0
+|0
+|3
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/Simpatia-politica-por-partido-38-FA,-PN-28-/188 Equipos Consultores]
+|24 de junio–9 de julio  de 2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''50'''
+|37
+|6
+|3
+|1
+|1
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/encuestas/2022/enc220616.php Factum]
+|3–13 de junio de 2022
+|'''44'''
+|31
+|9
+|9
+|3
+|0
+|0
+|0
+|0
+|3
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://equipos.com.uy/noticias/-Que-votarian-los-uruguayos-si-las-elecciones-fueran-hoy-/220 Equipos Consultores]
+|23 de abril–7 de mayo  de 2022
+| bgcolor="#0e4477" style="color:#FFFFFF;" |'''52'''
+|37
+|7
+|2
+|0
+|0
+|0
+|0
+|0
+|1
+| bgcolor="#0e4477" style="color:#FFFFFF;" | '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|color=#FFFFF|text=Mayoría}}
+|-
+|[https://portal.factum.uy/encuestas/2021/enc211123.php Factum]
+|6–15 de noviembre de 2021
+|'''43'''
+|33
+|8
+|10
+|2
+|0
+|1
+|0
+|1
+|1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.elobservador.com.uy/nota/el-35-de-los-uruguayos-apoya-al-frente-amplio-y-el-30-al-partido-nacional-segun-encuesta-de-equipos-20211027212618 Equipos Consultores]
+|Julio–Septiembre de  2021
+|'''47'''
+|40
+|5
+|4
+|2
+|0
+|0
+|0
+|0
+|1
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|[https://www.opcion.com.uy/opinion-publica/monitor-de-opinion-publica-preferencias-partidarias/ Opción Consultores]
+|13–20 de mayo de 2021
+|'''42'''
+|41
+|6
+|6
+|1
+|1
+|0
+|0
+|0
+|2
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|-
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2019|Elecciones generales]]'''
+|'''27 de octubre de 2019'''
+|'''42'''
+|30
+|13
+|11
+|1
+|1
+|0
+|0
+|1
+|{{Celda|N/A}}
+| '''Frente Amplio''' <br />{{font|size=75%|font=Verdana|text=Primera minoría}}
+|}
+
+== Plebiscitos ==
+=== Plebiscito sobre allanamientos nocturnos ===
+{| class="wikitable mw-collapsible" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:30px; background-color:#8B8B8B"
+!rowspan=2 |Encuestadora
+!rowspan=2 |Fecha
+!style="width:80px;"|A favor
+!style="width:80px;"|En contra
+!style="width:80px;", rowspan=2 |Indecisos
+!rowspan=2 |Resultado
+|-
+| bgcolor="FFF584" |
+| bgcolor="8f0000" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2024|Elecciones generales]]'''
+|'''27 de octubre de 2024'''
+|39,4%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{na}} '''No aprobado'''
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-octubre-2024-2/ Opcion Consultores]
+|17–23 de octubre de 2024
+| bgcolor="FFF584" |'''54%'''
+|36%
+|10%
+|{{Ya}} '''Aprobado'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241024a.php Factum]
+|16–22 de octubre de 2024
+| bgcolor="FFF584" |'''56%'''
+|41%
+|3%
+|{{Ya}} '''Aprobado'''
+|-
+|[https://equipos.com.uy/noticias/Proyeccion-de-Equipos-Consultores-FA-45,8-PN-25,8-,-PC-17,7-/289 Equipos Consultores]
+|8–22 de octubre de 2024
+| bgcolor="FFF584" |'''55%'''
+|39%
+|6%
+|{{Ya}} '''Aprobado'''
+|-
+|[https://usina.com.uy/24-10-2024-47-votaria-al-frente-amplio-y-25-al-partido-nacional-el-proximo-domingo-segun-la-usina-de-percepcion-ciudadana-2/ Usina de Percepción Ciudadana]
+|18–22 de octubre de 2024
+|'''46%'''
+|41%
+|13%
+|{{na}} '''No aprobado'''
+|-
+|[https://twitter.com/data360uy/status/1849539404383101037 Data 360]
+|19–21 de octubre de 2024
+|49,3%
+|colspan="2"|'''50,7%'''
+|{{na}} '''No aprobado'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-en-los-plebiscitos-sobre-seguridad-social-y-allanamientos-nocturnos-4/ Cifra]
+|11–20 de octubre de 2024
+| bgcolor="FFF584" |'''50%'''
+|40%
+|10%
+|{{Ya}} '''Aprobado'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241015.php Factum]
+|28 de setiembre - 6 de octubre de 2024
+| bgcolor="FFF584" |'''56%'''
+|41%
+|3%
+|{{ya}} '''Aprobado'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/plebiscitos-de-seguridad-social-y-allanamientos-nocturnos-octubre-2024/ Opción Consultores]
+|23 de setiembre - 2 de octubre de 2024
+| bgcolor="FFF584" |'''58%'''
+|35%
+|7%
+|{{Ya}} '''Aprobado'''
+|-
+|[https://usina.com.uy/10-10-2024-49-votaria-a-favor-del-plebiscito-de-los-allanamientos-nocturnos-segun-encuesta-de-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|27–30 de setiembre de 2024
+|'''49%'''
+|36%
+|15%
+|{{na}} '''No aprobado'''
+|-
+|[https://equipos.com.uy/noticias/Cae-levemente-el-apoyo-a-ambos-plebiscitos/284 Equipos Consultores]
+|11–23 de setiembre de 2024
+| bgcolor="FFF584" |'''60%'''
+|35%
+|5%
+|{{ya}} '''Aprobado'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-en-los-plebiscitos-sobre-seguridad-social-y-allanamientos-nocturnos-3/ Cifra]
+|13–26 de setiembre de 2024
+| bgcolor="FFF584" |'''50%'''
+|38%
+|12%
+|{{ya}} '''Aprobado'''
+|-
+|[https://usina.com.uy/08-09-2024-52-votaria-a-favor-de-habilitar-los-allanamientos-nocturnos-en-hogares-y-28-en-contra-segun-encuesta-de-la-usina/ Usina de Percepción Ciudadana]
+|29 de agosto–1 de setiembre de 2024
+| bgcolor="FFF584" |'''52%'''
+|28%
+|20%
+|{{ya}} '''Aprobado'''
+|-
+|[https://equipos.com.uy/noticias/Alta-indecision-y-opiniones-divididas-sobre-el-plebiscito-de-la-seguridad-social;-mayoria-a-favor-de-allanamientos-nocturnos/273 Equipos Consultores]
+|14 de agosto–1 de setiembre de 2024
+| bgcolor="FFF584" |'''64%'''
+|31%
+|5%
+|{{ya}} '''Aprobado'''
+|-
+|[https://data360.uy/Noticias/OPAgosto.html Data 360]
+|25–31 de agosto de 2024
+| bgcolor="FFF584" |'''52%'''
+|31%
+|16%
+|{{ya}} '''Aprobado'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-en-los-plebiscitos-sobre-seguridad-social-y-allanamientos-nocturnos-2/ Cifra]
+|16–27 de agosto de 2024
+| bgcolor="FFF584" |'''59%'''
+|30%
+|11%
+|{{ya}} '''Aprobado'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/plebiscitos-de-seguridad-social-y-allanamientos-nocturnos-setiembre-2024/ Opción Consultores]
+|15–27 de agosto de 2024
+| bgcolor="FFF584" |'''64%'''
+|28%
+|8%
+|{{ya}} '''Aprobado'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana240827.php Factum]
+|27 de julio–8 de agosto de 2024
+| bgcolor="FFF584" |'''68%'''
+|27%
+|6%
+|{{ya}} '''Aprobado'''
+|-
+|[https://www.nomadeconsultora.uy/post/mayor-apoyo-a-la-reforma-de-hallanamientos-nocturnos Nómade Consultora]
+|29 de julio–4 de agosto de 2024
+| bgcolor="FFF584" |'''63,8%'''
+|27,7%
+|8,5%
+|{{ya}} '''Aprobado'''
+|-
+|[https://equipos.com.uy/noticias/Opiniones-divididas-sobre-el-plebiscito-de-la-seguridad-social,-mayoria-a-favor-de-habilitar-allanamientos-nocturnos/267 Equipos Consultores]
+|17–30 de julio de 2024
+| bgcolor="FFF584" |'''69%'''
+|25%
+|6%
+|{{ya}} '''Aprobado'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/plebiscitos-de-seguridad-social-y-allanamientos-nocturnos-agosto-2024/ Opción Consultores]
+|15–25 de julio de 2024
+| bgcolor="FFF584" |'''65%'''
+|28%
+|8%
+|{{ya}} '''Aprobado'''
+|}
+
+=== Plebiscito sobre seguridad social ===
+{| class="wikitable mw-collapsible" style="text-align:center;font-size:85%;line-height:14px"
+|-
+|- style="height:30px; background-color:#8B8B8B"
+! rowspan="2" |Encuestadora
+! rowspan="2" |Fecha
+!style="width:80px;"|A favor
+!style="width:80px;"|En contra
+!style="width:80px;", rowspan=2 |Indecisos
+! rowspan="2" |Resultado
+|-
+| bgcolor="00000" |
+| bgcolor="8f0000" |
+|- style="background:#EFEFEF;"
+|'''[[Elecciones generales de Uruguay de 2024|Elecciones generales]]'''
+|'''27 de octubre de 2024'''
+|38,8%
+|{{Celda|N/A}}
+|{{Celda|N/A}}
+|{{na}} '''No aprobado'''
+|-
+| colspan="13" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|-
+|[https://www.opcion.com.uy/opinion-publica/intencion-de-voto-octubre-2024-2/ Opcion Consultores]
+|17–23 de octubre de 2024
+|'''48%'''
+|38%
+|14%
+|{{Na}}  '''No aprobado'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241024a.php Factum]
+|16–22 de octubre de 2024
+|'''47%'''
+|45%
+|8%
+|{{Na}}  '''No aprobado'''
+|-
+|[https://equipos.com.uy/noticias/Proyeccion-de-Equipos-Consultores-FA-45,8-PN-25,8-,-PC-17,7-/289 Equipos Consultores]
+|8–22 de octubre de 2024
+|34%
+|'''45%'''
+|21%
+|{{Na}}  '''No aprobado'''
+|-
+|[https://usina.com.uy/24-10-2024-47-votaria-al-frente-amplio-y-25-al-partido-nacional-el-proximo-domingo-segun-la-usina-de-percepcion-ciudadana-2/ Usina de Percepción Ciudadana]
+|18–22 de octubre de 2024
+|35%
+|'''44%'''
+|21%
+|{{na}} '''No aprobado'''
+|-
+|[https://twitter.com/data360uy/status/1849539404383101037 Data 360]
+|19–21 de octubre de 2024
+|48,4%
+|colspan="2"|'''51,6%'''
+|{{na}} '''No aprobado'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-en-los-plebiscitos-sobre-seguridad-social-y-allanamientos-nocturnos-4/ Cifra]
+|11–20 de octubre de 2024
+|41%
+|'''42%'''
+|17%
+|{{Na}} '''No aprobado'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241015.php Factum]
+|28 de setiembre–6 de octubre de 2024
+|'''47%'''
+|43%
+|10%
+|{{na}} '''No aprobado'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/plebiscitos-de-seguridad-social-y-allanamientos-nocturnos-octubre-2024/ Opción Consultores]
+|23 de setiembre–2 de octubre de 2024
+|37%
+|'''44%'''
+|19%
+|{{Na}} '''No aprobado'''
+|-
+|[https://equipos.com.uy/noticias/Cae-levemente-el-apoyo-a-ambos-plebiscitos/284 Equipos Consultores]
+|11–23 de setiembre de 2024
+|31%
+|'''39%'''
+|30%
+|{{na}} '''No aprobado'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-en-los-plebiscitos-sobre-seguridad-social-y-allanamientos-nocturnos-3/ Cifra]
+|13–26 de setiembre de 2024
+|'''42%'''
+|35%
+|23%
+|{{na}} '''No aprobado'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana241001.php Factum]
+|31 de agosto–9 de setiembre de 2024
+| bgcolor="00000", style="color:#FFFFFF;"|'''51%'''
+|42%
+|7%
+|{{ya}} '''Aprobado'''
+|-
+|[https://equipos.com.uy/noticias/Alta-indecision-y-opiniones-divididas-sobre-el-plebiscito-de-la-seguridad-social;-mayoria-a-favor-de-allanamientos-nocturnos/273 Equipos Consultores]
+|14 de agosto–1 de setiembre de 2024
+|33%
+|'''37%'''
+|30%
+|{{na}} '''No aprobado'''
+|-
+|[https://www.cifra.com.uy/intencion-de-voto-en-los-plebiscitos-sobre-seguridad-social-y-allanamientos-nocturnos-2/ Cifra]
+|16–27 de agosto de 2024
+|'''43%'''
+|32%
+|35%
+|{{na}} '''No aprobado'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/plebiscitos-de-seguridad-social-y-allanamientos-nocturnos-setiembre-2024/ Opción Consultores]
+|15–27 de agosto de 2024
+|'''41%'''
+|39%
+|20%
+|{{na}} '''No aprobado'''
+|-
+|[https://portal.factum.uy/analisis/2024/ana240903.php Factum]
+|27 de julio–8 de agosto de 2024
+| bgcolor="00000", style="color:#FFFFFF;"|'''53%'''
+|35%
+|13%
+|{{ya}} '''Aprobado'''
+|-
+|[https://www.nomadeconsultora.uy/post/mayor-apoyo-a-la-reforma-de-hallanamientos-nocturnos Nómade Consultora]
+|29 de julio–4 de agosto de 2024
+|'''44,9%'''
+|31,6%
+|23,5%
+|{{na}} '''No aprobado'''
+|-
+|[https://equipos.com.uy/noticias/Opiniones-divididas-sobre-el-plebiscito-de-la-seguridad-social,-mayoria-a-favor-de-habilitar-allanamientos-nocturnos/267 Equipos Consultores]
+|17–30 de julio de 2024
+|'''36%'''
+|33%
+|31%
+|{{na}} '''No aprobado'''
+|-
+|[https://usina.com.uy/30-07-2024-plebiscito-de-la-seguridad-social-33-votara-en-contra-y-29-a-favor-segun-la-usina-de-percepcion-ciudadana/ Usina de Percepción Ciudadana]
+|19–22 de julio de 2024
+|29%
+|33%
+|'''38%'''
+|{{na}} '''No aprobado'''
+|-
+|[https://www.opcion.com.uy/opinion-publica/plebiscitos-de-seguridad-social-y-allanamientos-nocturnos-agosto-2024/ Opción Consultores]
+|15–25 de julio de 2024
+|'''41%'''
+|38%
+|21%
+|{{na}} '''No aprobado'''
+|}
+
+== Notas ==
+{{listaref|group="lower-roman"}}
+
+== Véase también ==
+
+* [[Anexo:Encuestas de intención de voto para las elecciones generales de Uruguay de 2019]]
+* [[Anexo:Encuestas de intención de voto para las elecciones internas de Uruguay de 2024]]
+
+== Referencias ==
+{{Reflist}}
+
+{{Control de autoridades}}
+[[Categoría:Elecciones de Uruguay de 2024]]
+[[Categoría:Encuestas en Uruguay]]
+[[Categoría:Anexos:Elecciones en Uruguay]]
+[[Categoría:Anexos:2024]]

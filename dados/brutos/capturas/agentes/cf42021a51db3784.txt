@@ -1,0 +1,4249 @@
+{{short description|none}}
+During the weeks leading up to the [[2020 Polish presidential election]], various organizations carry out [[opinion polling]] to gauge voters' intentions in [[Poland]]. Results of such polls are displayed in this article.
+
+The date range for these opinion polls are from the [[2015 Polish presidential election|previous presidential election]], held on 24 May 2015, to election day.
+
+== First round ==
+[[File:Opinion polling for the 2020 Polish presidential election (first round).png|alt=|thumb|359x359px|2020 Polish presidential election I round AVERAGE]]
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s) administered
+! rowspan="2" |Don't know/<br/>Abstain
+! rowspan="2" |Others
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+| style="background:#ac145a;" |
+| style="background:{{party color|Polish People's Party}};" |
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+| style="background:#F9C013;" |
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb|The President of Poland traditionally resigns from party membership after taking office. Although Duda is officially an independent, his campaign is endorsed and funded by [[Law and Justice (Poland)|Law and Justice]].}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/>{{small|[[Civic Platform|PO]]}}
+! [[Robert Biedroń|Biedroń]]<br/>{{small|[[The Left (Poland)|LEFT]]}}
+! [[Władysław Kosiniak-Kamysz|Kosiniak-Kamysz]]<br/>{{small|[[Polish People's Party|PSL]]}}
+! [[Krzysztof Bosak|Bosak]]<br/>{{small|[[Confederation Liberty and Independence|KWiN]]}}
+! [[Szymon Hołownia|Hołownia]]<br/>{{small|[[Independent (politician)|IN]]}}
+|-
+| style="background:lightsteelblue;" | '''LATE POLL:'''<br /> [https://fakty.interia.pl/raporty/raport-wybory-prezydenckie-2020/aktualnosci/news-wybory-prezydenckie-2020-kto-wygral-wyniki-late-poll,nId,4580582 IPSOS LATE POLL]
+| 28 June 2020
+| -
+| 1.6%{{efn|Includes: 0.5% – Marek Jakubiak, 0.3% – [[Stanisław Żółtek]], 0.3% – [[Paweł Tanajno]], 0.3% – [[Waldemar Witkowski]], 0.2% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" |'''42.5%'''
+| style="background:#FDDCB8;" |30.3%
+| 2.5%
+| 2.5%
+| 7.1%
+| 13.5%
+|-
+| style="background:lightsteelblue;" | '''EXIT POLL:'''<br /> [https://tvn24.pl/wybory-prezydenckie-2020/wybory-prezydenckie-2020-sondazowe-wyniki-wyborow-prezydenckich-4623072 IPSOS 21:00 UTC+2]
+| 28 June 2020
+| -
+| 1.6%{{efn|Includes: 0.5% – Marek Jakubiak, 0.3% – [[Stanisław Żółtek]], 0.3% – [[Paweł Tanajno]], 0.3% – [[Waldemar Witkowski]], 0.2% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" | '''41.8%'''
+| style="background:#FDDCB8;" | 30.4%
+| 2.9%
+| 2.6%
+| 7.4%
+| 13.3%
+|-
+! style="border-right-style:hidden;" |
+! style="border-right-style:hidden;" data-sort-value="2020-06-28" |28 June 2020 || colspan="8" | '''28 June 2020 (first round)'''
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/ostatni-przed-cisza-wyborcza-prezydencki-sondaz-ibsp/ IBSP]
+| 25–26 June 2020
+| -
+| 1.14%
+| style="background:lightsteelblue;" | '''42.31%'''
+| style="background:#FDDCB8;" | 31.03%
+| 2.54%
+| 1.69%
+| 7.41%
+| 13.88%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629451-Sondaz-dla-Wiadomosci-Duda-ponad-41-proc-Trzaskowski-ponad-30-proc.html Indicator]
+| 23–26 June 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''41.1%'''
+| style="background:#FDDCB8;" | 30.2%
+| 3.8%
+| 5.4%
+| 7.2%
+| 12.3%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/tylko-w-onecie/wybory-2020-sondaz-ibris-trzaskowski-zyskuje-na-wyzszej-frekwencji/7l3pwgj IBRiS]
+| 25 June 2020
+| -
+| 1.0%
+| style="background:lightsteelblue;" | '''41.2%'''
+| style="background:#FDDCB8;" | 30.7%
+| 3.9%
+| 4.1%
+| 7.2%
+| 12.0%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/144809/ostatni-sondaz-dla-dorzeczypl-przed-wyborami-oto-wyniki.html Estymator]
+| 24–25 June 2020
+| -
+| 1.1%
+| style="background:lightsteelblue;" | '''42.7%'''
+| style="background:#FDDCB8;" | 28.4%
+| 3.6%
+| 6.3%
+| 7.6%
+| 10.3%
+|-
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/kto-wygra-wybory-prezydenckie-2020-sondaz-andrzej-duda-i-rafal-trzaskowski-przejda-do-drugiej-tury,1020989.html Kantar] {{Webarchive|url=https://web.archive.org/web/20200625175905/https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/kto-wygra-wybory-prezydenckie-2020-sondaz-andrzej-duda-i-rafal-trzaskowski-przejda-do-drugiej-tury,1020989.html |date=2020-06-25 }}
+| 24–25 June 2020
+| 8%
+| -
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 27%
+| 3%
+| 2%
+| 7%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/sondaz-prezydencki-wybory-2020-gigantyczna-przewaga-lidera-aa-7J2M-e2zh-iLwT.html Pollster]{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 24–25 June 2020
+| -
+| 1.30%
+| style="background:lightsteelblue;" | '''41.27%'''
+| style="background:#FDDCB8;" | 30.30%
+| 3.35%
+| 5.81%
+| 7.23%
+| 10.74%
+|-
+| style="background:lightsteelblue;" | [https://twitter.com/PGBOpinium/status/1276189220189675521 PGB Opinium]
+| 23–25 June 2020
+| -
+| 0.7%
+| style="background:lightsteelblue;" | '''40.5%'''
+| style="background:#FDDCB8;" | 29.7%
+| 3.8%
+| 7.0%
+| 7.3%
+| 11.0%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/sondaze/news-sprawdz-ostatnie-sondaze-prezydenckie,nId,4577006 CBOS]
+| 15–25 June 2020
+| 14%
+| -
+| style="background:lightsteelblue;" | '''45%'''
+| style="background:#FDDCB8;" | 20%
+| 2%
+| 4%
+| 4%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629544-Sondaz-W-pierwszej-turze---Andrzej-Duda-w-drugiej---walka-o-kazdy-glos.html IBRiS]
+| 24 June 2020
+| 6.6%
+| 1.3%{{efn|Includes: 0.7% – Marek Jakubiak, 0.3% – [[Stanisław Żółtek]], 0.2% – [[Paweł Tanajno]], 0.1% – [[Waldemar Witkowski]], 0.0% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" | '''41.1%'''
+| style="background:#FDDCB8;" | 26.4%
+| 4.9%
+| 5.4%
+| 4.6%
+| 9.7%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/trzaskowski-48-proc-duda-44-proc-pis-moze-stracic-prezydenta-sondaz-oko-press/ IPSOS]
+| 22–23 June 2020
+| 4%
+| 1%{{efn|Includes: 1% – [[Waldemar Witkowski]].}}
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 27%
+| 4%
+| 5%
+| 7%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/506116-najnowszy-sondaz-prezydencki-andrzej-duda-zyskuje-poparcie Social Changes]
+| 19–23 June 2020
+| -
+| 2%{{efn|Includes: 1% – [[Paweł Tanajno]], 1% – [[Stanisław Żółtek]], 0% – Marek Jakubiak, 0% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" | '''41%'''
+| style="background:#FDDCB8;" | 29%
+| 4%
+| 4%
+| 7%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo Pollster] {{Webarchive|url=https://web.archive.org/web/20200624225903/https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo |date=2020-06-24 }}
+| 22 June 2020
+| -
+| 0.76%
+| style="background:lightsteelblue;" | '''41.38%'''
+| style="background:#FDDCB8;" | 29.86%
+| 2.93%
+| 6.55%
+| 7.34%
+| 11.18%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/wybory-prezydenckie-2020/sondaze-prezydenckie/ Maison & Partners]{{efn|name=internal poll}}
+| 19–22 June 2020
+| 5.5%
+| -
+| style="background:lightsteelblue;" | '''33.1%'''
+| style="background:#FDDCB8;" | 28.2%
+| 6.2%
+| 3.4%
+| 7.8%
+| 15.8%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-ibris-dla-wp-zmiany-w-pierwszej-turze-wyborow-6523800985700481a IBRiS]
+| 20 June 2020
+| 4.7%
+| 1.2%{{efn|Includes: 0.5% – [[Stanisław Żółtek]], 0.4% – Marek Jakubiak, 0.2% – [[Paweł Tanajno]], 0.1% – [[Mirosław Piotrowski]], 0.0% – [[Waldemar Witkowski]].}}
+| style="background:lightsteelblue;" | '''41.0%'''
+| style="background:#FDDCB8;" | 27.1%
+| 4.2%
+| 7.3%
+| 5.6%
+| 8.9%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629755-Sondaz-IBRiS-Trzaskowski-w-drugiej-turze-o-wlos-przed-Duda.html IBRiS]
+| 19–20 June 2020
+| 1.2%
+| -
+| style="background:lightsteelblue;" | '''43.1%'''
+| style="background:#FDDCB8;" | 27.4%
+| 4.5%
+| 7.5%
+| 6.2%
+| 10.1%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-ibris-dla-rmf-fm-i-dgp-trzaskowski-wygrywa-ii-ture,nId,4566943 United Survey]
+| 19 June 2020
+| 5.9%
+| 0.2%
+| style="background:lightsteelblue;" | '''41.5%'''
+| style="background:#FDDCB8;" | 28.3%
+| 2.2%
+| 8.0%
+| 5.4%
+| 8.6%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/144088/najnowszy-sondaz-prezydencki-dla-dorzeczypl.html Estymator]
+| 18–19 June 2020
+| -
+| 0.9%
+| style="background:lightsteelblue;" | '''44.6%'''
+| style="background:#FDDCB8;" | 29.3%
+| 2.1%
+| 6.9%
+| 7.3%
+| 8.9%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/tylko-w-onecie/wybory-prezydenckie-2020-sondaz-ibris-dla-onetu-duda-na-pierwszym-miejscu/qzg0cp9 IBRiS]
+| 18 June 2020
+| 4.5%
+| 1.3%{{efn|Includes: 0.6% – [[Paweł Tanajno]], 0.4% – [[Waldemar Witkowski]], 0.2% – [[Stanisław Żółtek]], 0.1% – Marek Jakubiak, 0.1% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" | '''41.3%'''
+| style="background:#FDDCB8;" | 28.2%
+| 3.8%
+| 8.3%
+| 4.6%
+| 8.1%
+|-
+| style="background:lightsteelblue;" | [https://tvn24.pl/wybory-prezydenckie-2020/wybory-prezydenckie-2020-sondaz-prezydencki-na-jakie-poparcie-moga-liczyc-andrzej-duda-i-rafal-trzaskowski-4614048 Kantar]
+| 17–18 June 2020
+| 6%
+| -
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 32%
+| 2%
+| 3%
+| 7%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-prezydencki-super-expressu-prezydent-duda-pierwszy-pogon-trzaskowskiego-wybory-2020-aa-agfU-tcfb-2EF8.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200621164001/https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-prezydencki-super-expressu-prezydent-duda-pierwszy-pogon-trzaskowskiego-wybory-2020-aa-agfU-tcfb-2EF8.html |date=2020-06-21 }}
+| 16–17 June 2020
+| -
+| 1.58%
+| style="background:lightsteelblue;" | '''40.82%'''
+| style="background:#FDDCB8;" | 30.28%
+| 3.28%
+| 6.06%
+| 6.24%
+| 11.74%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/trzaskowski-juz-remisuje-z-duda-a-holownia-wygrywa-duda-stracil-glosy-konfederatow/ IPSOS]
+| 16–17 June 2020
+| 6%
+| -
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 30%
+| 2%
+| 4%
+| 7%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/505186-najnowszy-sondaz-prezydencki-kto-zyskuje-a-kto-traci Social Changes]
+| 12–16 June 2020
+| -
+| 2%{{efn|Includes: 1% – Marek Jakubiak, 1% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" | '''39%'''
+| style="background:#FDDCB8;" | 28%
+| 3%
+| 6%
+| 7%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-2020-sondaz-andrzej-duda-przegrywa-w-ii-turze/6v304s6 Maison & Partners]{{efn|name=internal poll}}
+| 12–15 June 2020
+| 5.0%
+| -
+| style="background:lightsteelblue;" | '''37.0%'''
+| style="background:#FDDCB8;" | 28.4%
+| 4.0%
+| 4.4%
+| 6.3%
+| 14.8%
+|-
+| style="background:lightsteelblue;" | [https://twitter.com/PGBOpinium/status/1272428879878094850 PGB Opinium]
+| 12–15 June 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''40.5%'''
+| style="background:#FDDCB8;" | 28.9%
+| 3.8%
+| 8.6%
+| 7.3%
+| 10.6%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/143457/z-tym-rywalem-andrzej-duda-przegrywa-w-drugiej-turze-sensacyjna-prognoza.html Estymator]
+| 12–13 June 2020
+| -
+| 0.5%
+| style="background:lightsteelblue;" | '''44.1%'''
+| style="background:#FDDCB8;" | 28.3%
+| 2.7%
+| 6.6%
+| 7.1%
+| 10.7%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-ibris-dla-wp-rosnie-poparcie-dla-rafala-trzaskowskiego-6521349526263937a IBRiS]
+| 12–13 June 2020
+| 3.6%
+| -
+| style="background:lightsteelblue;" | '''40.7%'''
+| style="background:#FDDCB8;" | 28.0%
+| 3.0%
+| 9.7%
+| 7.1%
+| 7.8%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/nowy-sondaz-dla-super-expressu-rafal-trzaskowski-daleko-przed-holownia-zyskuje-duda-aa-5BYW-GaWY-YiEB.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200616023929/https://www.se.pl/wiadomosci/polityka/nowy-sondaz-dla-super-expressu-rafal-trzaskowski-daleko-przed-holownia-zyskuje-duda-aa-5BYW-GaWY-YiEB.html |date=2020-06-16 }}
+| 9–10 June 2020
+| -
+| 1.51%
+| style="background:lightsteelblue;" | '''41.17%'''
+| style="background:#FDDCB8;" | 28.14%
+| 5.22%
+| 4.99%
+| 4.97%
+| 14.00%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200619414-Sondaz-Kantar-W-drugiej-turze-Trzaskowski-wygralby-z-Duda.html Kantar]
+| 5–10 June 2020
+| 11%
+| -
+| style="background:lightsteelblue;" | '''38%'''
+| style="background:#FDDCB8;" | 27%
+| 4%
+| 6%
+| 6%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/504247-najnowszy-sondaz-prezydencki-kto-zyskuje-kto-traci Social Changes]
+| 5–9 June 2020
+| -
+| 1%{{efn|Includes: 1% – Marek Jakubiak.}}
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 29%
+| 4%
+| 4%
+| 7%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://twitter.com/JablonskiDoktor/status/1270725674609729537 N/A]{{efn|PiS / Duda's campaign staff internal poll}}
+| N/A June 2020
+| 12%
+| 5%
+| style="background:lightsteelblue;" | '''36%'''
+| style="background:#FDDCB8;" | 31%
+| 2%
+| 8%
+| N/A{{efn|5% others}}
+| 6%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/wybory-2020-najnowszy-sondaz-prezydencki-6518830974535297a IBRiS]
+| 5–6 June 2020
+| 5.2%
+| 0.1%{{efn|Includes: 0.1% – Marek Jakubiak.}}
+| style="background:lightsteelblue;" | '''42.7%'''
+| style="background:#FDDCB8;" | 26.6%
+| 3.4%
+| 7.4%
+| 6.9%
+| 7.7%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/142708/sondaz-dla-dorzeczypl-wyrownane-poparcie-kontrkandydatow-dudy.html Estymator]
+| 3–4 June 2020
+| -
+| 0.4%
+| style="background:lightsteelblue;" | '''43.1%'''
+| style="background:#FDDCB8;" | 25.3%
+| 2.6%
+| 6.8%
+| 7.4%
+| 14.4%
+|-
+| style="background:lightsteelblue;" | [https://www.polsatnews.pl/wiadomosc/2020-06-08/nowy-sondaz-cbos-prezydent-duda-o-krok-od-wygranej-w-i-turze-zacieta-walka-o-ii-miejsce/ CBOS]
+| 22 May–4 June 2020
+| 13.4%
+| 0.8%
+| style="background:lightsteelblue;" | '''48.6%'''
+| style="background:#FDDCB8;" | 16.2%
+| 1.8%
+| 4.3%
+| 4.2%
+| 10.7%
+|-
+! style="border-right-style:hidden;" |
+! style="border-right-style:hidden;" data-sort-value="2020-06-03" |3 June 2020 || colspan="8" | '''Election is announced to be held on June 28. The campaign starts'''
+|-
+| style="background:lightsteelblue;" | [https://tvp.info/48387290/sondaz-prezydencki-andrzej-duda-wygrywa-w-obu-turach-wieszwiecej Pollster] {{Webarchive|url=https://web.archive.org/web/20200605061950/https://tvp.info/48387290/sondaz-prezydencki-andrzej-duda-wygrywa-w-obu-turach-wieszwiecej |date=2020-06-05 }}
+| 2–3 June 2020
+| -
+| 1%
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 28%
+| 4%
+| 6%
+| 7%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/503235-najnowszy-sondaz-prezydencki-prezydent-duda-znow-zyskuje Social Changes]
+| 29 May–2 June 2020
+| -
+| 1%{{efn|Includes: 1% – Marek Jakubiak, 0% – [[Stanisław Żółtek]], 0% – [[Paweł Tanajno]], 0% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" | '''41%'''
+| style="background:#FDDCB8;" | 29%
+| 5%
+| 5%
+| 6%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-duda-przed-trzaskowskim-i-holownia/cssfjl6 IBRiS]
+| 29–30 May 2020
+| 5.0%
+| -
+| style="background:lightsteelblue;" | '''41.0%'''
+| style="background:#FDDCB8;" | 26.1%
+| 2.3%
+| 7.1%
+| 6.5%
+| 12.0%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-kosiniak-kamysz-holownia-i-trzaskows,nId,4529962 United Survey]
+| 29 May 2020
+| 4.0%
+| -
+| style="background:lightsteelblue;" | '''41.2%'''
+| style="background:#FDDCB8;" | 27.0%
+| 2.2%
+| 7.0%
+| 6.6%
+| 12.0%
+|-
+| style="background:lightsteelblue;" | [https://wyborcza.pl/7,75398,25992247,badanie-swps-32-25-duda-slabnie-trzaskowski-przeciwnie.html SWPS]
+| 28–29 May 2020
+| -
+| 1%
+| style="background:lightsteelblue;" | '''32%'''
+| style="background:#FDDCB8;" | 25%
+| 6%
+| 5%
+| 9%
+| 22%
+|-
+| style="background:lightsteelblue;" | [https://twitter.com/PGBOpinium/status/1266406860212580357 PGB Opinium]
+| 26–29 May 2020
+| 7.6%
+| 0.4%{{efn|Includes: 0.1% – Marek Jakubiak, 0.0% – [[Stanisław Żółtek]], 0.3% – [[Paweł Tanajno]], 0% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" | '''36.5%'''
+| style="background:#FDDCB8;" | 25.0%
+| 3.5%
+| 8.4%
+| 6.5%
+| 12.0%
+|-
+|style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/trzaskowski-goni-dude-najnowszy-sondaz-se-aa-kqPQ-cr5k-5VMG.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200615062437/https://www.se.pl/wiadomosci/polityka/trzaskowski-goni-dude-najnowszy-sondaz-se-aa-kqPQ-cr5k-5VMG.html |date=2020-06-15 }}
+| 26–27 May 2020
+| -
+| 1.74%
+| style="background:lightsteelblue;" | '''38.94%'''
+| style="background:#FDDCB8;" | 26.60%
+| 5.14%
+| 5.46%
+| 5.71%
+| 16.41%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/502226-prezentujemy-najnowszy-sondaz-prezydencki-jest-ciekawie Social Changes]
+| 22–25 May 2020
+| -
+| 1%{{efn|name=jakubiak1-others0}}
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 27%
+| 4%
+| 5%
+| 6%
+| 17%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-prawie-41-proc-dla-andrzeja-dudy/7ybbd3f?%3F Maison & Partners]{{efn|name=internal poll|Hołownia's campaign staff internal poll}}
+| N/A May 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''40.9%'''
+| style="background:#FDDCB8;" | 23.2%
+| 3.7%
+| 3.5%
+| 6.9%
+| 17.5%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/305259893-Sondaz-Bedzie-II-tura-Duda-prowadzi-o-wlos.html IBRiS]
+| 22–23 May 2020 
+| 6.1%
+| -
+| style="background:lightsteelblue;" | '''41.0%'''
+| style="background:#FDDCB8;" | 26.7%
+| 3.0%
+| 8.2%
+| 5.0%
+| 10.0%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/wybory-prezydenckie-2020-sondaz-ibris-dla-wp-rafal-trzaskowski-goni-andrzeja-dude-6513906620458625a IBRiS]
+| 22–23 May 2020
+| 7.1%
+| -
+| style="background:lightsteelblue;" | '''42.3%'''
+| style="background:#FDDCB8;" | 23.2%
+| 2.7%
+| 9.3%
+| 4.0%
+| 11.4%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/141140/nie-obedzie-sie-bez-drugiej-tury-z-jednym-rywalem-andrzej-duda-wygrywa-o-wlos.html Estymator]
+| 21–22 May 2020
+| -
+| 1.1%
+| style="background:lightsteelblue;" | '''44.8%'''
+| style="background:#FDDCB8;" | 22.1%
+| 3.1%
+| 9.2%
+| 5.6%
+| 14.1%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-sondaz-andrzej-duda-z-35-proc-poparcia/v6mthch PBS]
+| 19–20 May 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''35%'''
+| style="background:#FDDCB8;" | 21%
+| 8%
+| 5%
+| 13%
+| 19%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Wybory-2020.-Sondaz-Kantar.-Duda-ponizej-40-proc.-W-II-turze-z-Trzaskowskim-lub-Holownia Kantar]
+| 18–19 May 2020
+| 12%
+| 4%{{efn|Includes: 2% – Marek Jakubiak, 2% – [[Stanisław Żółtek]], <1% – [[Paweł Tanajno]], <1% – [[Mirosław Piotrowski]].}}
+| style="background:lightsteelblue;" | '''39%'''
+| style="background:#FDDCB8;" | 18%
+| 2%
+| 3%
+| 8%
+| 15%
+|-
+| rowspan="2" style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-maleje-przewaga-dudy-nad-holownia/g046kl1 Maison & Partners]{{efn|name=internal poll}}
+| 15–18 May 2020{{efn|name=july|The poll measures voting intention in case election is held in traditional form in July.}}
+| 10%
+| -
+| style="background:lightsteelblue;" | '''34%'''
+| 17%
+| 6%
+| 6%
+| 7%
+| style="background:#fcde83;"  |21%
+|-
+| 15–18 May 2020{{efn|name=24may|The poll measures voting intention in case election is held next Sunday (24 May).}}
+| 6%
+| -
+| style="background:lightsteelblue;" | '''43%'''
+| 15%
+| 5%
+| 5%
+| 8%
+| style="background:#fcde83;"  |20%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/501017-trzaskowski-w-ii-turze-ale-holownia-bardzo-blisko-sprawdz Social Changes]
+| 11–18 May 2020
+| -
+| 2%{{efn|Includes: 1% – Marek Jakubiak, 1% – [[Paweł Tanajno]], 0% – [[Mirosław Piotrowski]], 0% – [[Stanisław Żółtek]].}}
+| style="background:lightsteelblue;" | '''41%'''
+| style="background:#FDDCB8;" | 21%
+| 5%
+| 7%
+| 6%
+| 18%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-trzaskowski-i-duda-w-drugiej-turze-z-minimalna-roznica-aa-GWAN-doVw-fUuH.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200622205711/https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-trzaskowski-i-duda-w-drugiej-turze-z-minimalna-roznica-aa-GWAN-doVw-fUuH.html |date=2020-06-22 }}
+| 15–17 May 2020
+| -
+| 2.13%{{efn|Includes: 0.82% – [[Paweł Tanajno]], 0.80% – Marek Jakubiak, 0.43% – [[Mirosław Piotrowski]], 0.08% – [[Stanisław Żółtek]].}}
+| style="background:lightsteelblue;" | '''43.76%'''
+| style="background:#FDDCB8;" | 16.54%
+| 5.51%
+| 9.73%
+| 6.45%
+| 15.88%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/tylko-w-onecie/wybory-2020-sondaz-prezydencki-duda-i-trzaskowski-w-drugiej-turze/zcjlzey IBRiS]
+| 16 May 2020
+| 7.7%
+| -
+| style="background:lightsteelblue;" | '''43.2%'''
+| style="background:#FDDCB8;" | 16.0%
+| 6.8%
+| 9.6%
+| 6.8%
+| 9.9%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-zaskakujace-wyniki-sondazu-united-surveys-dla-rmf-fm-i-dgp-s,nId,4499209 United Survey]
+| 15 May 2020
+| 7.1%
+| -
+| style="background:lightsteelblue;" | '''43.7%'''
+| style="background:#FDDCB8;" | 14.0%
+| 5.2%
+| 9.8%
+| 6.9%
+| 13.3%
+|-
+|style="background:lightsteelblue;" | [https://fakty.tvn24.pl/ogladaj-online,60/wybory-prezydenckie-2020-sondaz-dla-faktow-tvn-i-tvn24-poparcie-dla-andrzeja-dudy-rafala-trzaskowskiego-i-szymona-holowni,1016308.html Kantar Public]{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 15 May 2020
+| 6%
+| 1%{{efn|name=jakubiak1-others0|Includes: 1% – Marek Jakubiak, 0% – [[Paweł Tanajno]], 0% – [[Mirosław Piotrowski]], 0% – [[Stanisław Żółtek]].}}
+| style="background:#809fff;" |'''51%'''
+| 11%
+| 3%
+| 6%
+| 5%
+| 17%
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" data-sort-value="2020-05-15" |15 May 2020 || colspan="8" | '''[[Rafał Trzaskowski]] is declared as a new candidate of the [[Civic Coalition (Poland)|Civic Coalition]]'''
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/140276/trzaskowski-bez-wplywu-na-podium-w-wyborach-prezydenckich-intrygujacy-sondaz.html Estymator]
+| 14–15 May 2020
+| -
+| 1.3%
+| style="background:#809fff;" |'''52.7%'''
+| 10.2%
+| 5.7%
+| 11.8%
+| 7.8%
+| 10.5%
+|} 
+
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s) administered
+! rowspan="2" |Don't know/<br/>Abstain
+! rowspan="2" |Others
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+| style="background:#ac145a;" |
+| style="background:{{party color|Polish People's Party}};" |
+| style="background:{{party color|Confederation Liberty and Independence}};" |
+| style="background:#F9C013;" |
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Małgorzata Kidawa-Błońska|Kidawa-Błońska]]<br />{{small|[[Civic Platform|PO]]}}
+! [[Robert Biedroń|Biedroń]]<br/>{{small|[[The Left (Poland)|LEFT]]}}
+! [[Władysław Kosiniak-Kamysz|Kosiniak-Kamysz]]<br/>{{small|[[Polish People's Party|PSL]]}}
+! [[Krzysztof Bosak|Bosak]]<br/>{{small|[[Confederation Liberty and Independence|KWiN]]}}
+! [[Szymon Hołownia|Hołownia]]<br/>{{small|[[Independent (politician)|IN]]}}
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/500272-rosnie-frekwencja-oraz-szanse-na-ii-ture-duze-zmiany Social Changes]
+| 12–14 May 2020
+| -
+| 1%{{efn|Includes: 1% – [[Paweł Tanajno]], 0% – Marek Jakubiak, 0% – [[Mirosław Piotrowski]], 0% – [[Stanisław Żółtek]].}}
+| style="background:lightsteelblue;" | '''49%'''
+| 5%
+| 4%
+| 12%
+| 7%
+| style="background:#fcde83;" | 22%
+|-
+! style="border-right-style:hidden;" |
+! style="border-right-style:hidden;" data-sort-value="2020-02-05" |10 May 2020 || colspan="8" | '''Election ''de iure'' takes place despite no voting is held. The campaign ends'''
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200519954-Sondaz-10-maja-Andrzej-Duda-nie-zostalby-wybrany-w-I-turze.html IBRiS]
+| 8–9 May 2020{{efn|name=stations}}
+| 3.1%
+| 0.0%{{efn|Includes: 0.0% – [[Stanisław Żółtek]], 0.0% – [[Paweł Tanajno]], 0.0% – [[Mirosław Piotrowski]], 0.0% – Marek Jakubiak.}}
+| style="background:lightsteelblue;" | '''45.0%'''
+| 4.5%
+| 2.6%
+| 16.6%
+| 9.0%
+| style="background:#fcde83;" | 19.2%
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" data-sort-value="2020-05-06" |6 May 2020 || colspan="8" | '''Postal election is announced to be cancelled in May'''
+|-
+| rowspan=2 style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/499318-prezentujemy-pierwszy-sondaz-po-debacie-w-tvp-kto-zyskal Social Changes]
+| 6–7 May 2020{{efn|name=stations}}
+| -
+| 4%{{efn|name=jakubiak1-tanajno1-zoltek1-piotrowski1}}
+| style="background:#809fff;" | '''54%'''
+| 5%
+| 5%
+| 9%
+| 8%
+| 15%
+|-
+| 6–7 May 2020{{efn|name=postal}}
+| -
+| 4%{{efn|name=jakubiak1-tanajno1-zoltek1-piotrowski1|Includes: 1% – Marek Jakubiak, 1% – [[Paweł Tanajno]], 1% – [[Stanisław Żółtek]], 1% – [[Mirosław Piotrowski]].}}
+| style="background:#809fff;" | '''64%'''
+| 2%
+| 3%
+| 7%
+| 7%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-duda-ma-tylko-40-proc-kto-w-drugiej-turze-wybory-prezydenckie-2020-aa-GXoE-sWnq-E6gp.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200505213321/https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-duda-ma-tylko-40-proc-kto-w-drugiej-turze-wybory-prezydenckie-2020-aa-GXoE-sWnq-E6gp.html |date=2020-05-05 }}
+| 30 April-4 May 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''40.57%'''
+| 10.49%
+| 9.56%
+| 14.39%
+| 4.65%
+| style="background:#fcde83;" | 20.34%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/w-normalnych-wyborach-duda-z-holownia-w-ii-turze/ IPSOS]
+| 27–29 April 2020{{efn|name=stations}}
+| 11%
+| -
+| style="background:lightsteelblue;" | '''42%'''
+| 7%
+| 6%
+| 12%
+| 6%
+| style="background:#fcde83;" | 15%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/sondaz-holownia-wygral-kampanie-duda-wygra-glosowanie/ IPSOS]
+| 27–29 April 2020{{efn|name=postal}}
+| 5%
+| -
+| style="background:#809fff;" | '''63%'''
+| 2%
+| 5%
+| 7%
+| 7%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/tylko-w-onecie/wybory-2020-sondaz-prezydencki-czy-dojdzie-do-drugiej-tury/33fsb6e IBRiS]
+| 27 April 2020
+| 8.9%
+| -
+| style="background:lightsteelblue;" | '''49.7%'''
+| 6.7%
+| 6.4%
+| style="background:#a8ff99;"| 14.1%
+| 5.0%
+| 9.2%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/498775-wybory-klasyczne-holownia-mocno-zyskuje-kidawa-traci Social Changes]
+| 24–27 April 2020{{efn|name=stations}}
+| -
+| 1%{{efn|name=jakubiak1}}
+| style="background:#809fff;" | '''54%'''
+| 7%
+| 6%
+| 10%
+| 8%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/497996-holownia-ucieka-rywalom-z-opozycji-kidawa-na-dnie-sprawdz Social Changes]
+| 24–27 April 2020{{efn|name=postal}}
+| -
+| 1%{{efn|name=jakubiak1}}
+| style="background:#809fff;" | '''64%'''
+| 3%
+| 3%
+| 8%
+| 7%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-cbos/m6q2qgj CBOS] {{Webarchive|url=https://web.archive.org/web/20200605210030/https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-cbos/m6q2qgj |date=2020-06-05 }}
+| 23–27 April 2020
+| 10%
+| 1%{{efn|name=jakubiak1}}
+| style="background:#809fff;" | '''52%'''
+| 5%
+| 5%
+| 6%
+| 7%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/sondaz/137953/duda-wygrywa-w-i-turze-powazny-spadek-notowan-kidawy-blonskiej.html Estymator]
+| 23–24 April 2020
+| -
+| 0.4%
+| style="background:#809fff;" | '''51.7%'''
+| 8.4%
+| 7.7%
+| 16.6%
+| 6.4%
+| 8.8%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/497483-wybory-klasyczne-kidawa-i-kosiniak-walcza-o-ii-miejsce Social Changes]
+| 17–20 April 2020{{efn|name=stations|The poll measures voting intention in case voting in person at [[polling station]]s is conducted.}}
+| -
+| 1%{{efn|name=jakubiak1}}
+| style="background:#809fff;" | '''57%'''
+| 11%
+| 5%
+| 11%
+| 6%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/497245-kto-jak-wypada-w-wyborach-korespondencyjnych-duze-zmiany Social Changes]
+| 17–20 April 2020{{efn|name=postal|The poll measures voting intention in case [[postal voting|all-postal voting]] is conducted.}}
+| -
+| 2%{{efn|name=jakubiak2}}
+| style="background:#809fff;" | '''65%'''
+| 5%
+| 5%
+| 6%
+| 7%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/koronawirus-polska-wybory-prezydenckie-2020-sondaz/z6p668r Kantar]
+| 16–17 April 2020
+| 11%
+| 3%
+| style="background:#809fff;" | '''59%'''
+| 4%
+| 5%
+| 7%
+| 5%
+| 7%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/495997-andrzej-duda-z-rekordowym-wynikiem-ostra-walka-o-ii-miejsce Social Changes]
+| 10–13 April 2020
+| -
+| 1%{{efn|name=jakubiak1}}
+| style="background:#809fff;" | '''59%'''
+| 9%
+| 5%
+| 10%
+| 8%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/136146/kosiniak-kamysz-wyprzedza-kidawe-blonska-zobacz-najnowszy-sondaz.html Estymator]
+| 8–9 April 2020
+| -
+| 0.3%
+| style="background:#809fff;" | '''53.1%'''
+| 13.4%
+| 9.4%
+| 15.6%
+| 3.3%
+| 4.9%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/tylko-w-onecie/koronawirus-a-wybory-prezydenckie-andrzej-duda-wygrywa-w-pierwszej-turze/bp1svgl IBRiS]
+| 7 April 2020
+| 7.1%
+| -
+| style="background:#809fff;" | '''52.9%'''
+| 11.4%
+| 7.3%
+| 12.6%
+| 3.2%
+| 5.5%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/prawdziwa-kleska-kidawy-blonskiej-ten-sondaz-nie-pozostawia-zludzen-aa-4AxF-VSmN-NvnC.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200416201010/https://www.se.pl/wiadomosci/polityka/prawdziwa-kleska-kidawy-blonskiej-ten-sondaz-nie-pozostawia-zludzen-aa-4AxF-VSmN-NvnC.html |date=2020-04-16 }}
+| 6–7 April 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''44.53%'''
+| 14.23%
+| 6.70%
+| style="background:#a8ff99;"| 15.25%
+| 6.21%
+| 13.08%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-potrzebna-druga-tura-holownia-drugi/hz69r0v Maison & Partners]{{efn|name=internal poll}}
+| 3–7 April 2020
+| 27.9%
+| -
+| style="background:lightsteelblue;" | '''29.5%'''
+| 10.5%
+| 7.1%
+| 10.6%
+| 3.4%
+| style="background:#fcde83;" | 11.2%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/lifestyle/495206-andrzej-duda-wygrywa-w-i-turze-kosiniak-wyprzedza-kidawe Social Changes]
+| 3–6 April 2020
+| -
+| 2%{{efn|name=jakubiak2|Includes: 2% – Marek Jakubiak.}}
+| style="background:#809fff;" | '''53%'''
+| 11%
+| 5%
+| 13%
+| 7%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200409640-Poniedzialek-moze-byc-decydujacy-dla-Zjednoczonej-Prawicy.html IBRiS]
+| 3–4 April 2020
+| 9.9%
+| -
+| style="background:lightsteelblue;" | '''47.6%'''
+| style="background:#FDDCB8;" | 12.4%
+| 6.7%
+| 12.0%
+| 5.4%
+| 6.0%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/kwietniowy-sondaz-prezydencki-ibsp/ IBSP]
+| 31 March-2 April 2020
+| -
+| 0.29%
+| style="background:lightsteelblue;" | '''44.29%'''
+| 15.77%
+| 6.24%
+| style="background:#a8ff99;"| 15.87%
+| 5.24%
+| 12.30%
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" data-sort-value="2020-03-29" |29 March 2020 || colspan="8" | '''[[Małgorzata Kidawa-Błońska]] calls to boycott May postal election'''
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/493869-andrzej-duda-wygrywa-w-pierwszej-turze-ale-spada-frekwencja Social Changes]
+| 27–30 March 2020
+| -
+| 1%{{efn|name=jakubiak1|Includes: 1% – Marek Jakubiak.}}
+| style="background:#809fff;" | '''55%'''
+| 14%
+| 6%
+| 10%
+| 5%
+| 9%
+|-
+| rowspan="2" style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/tylko-w-onecie/koronawirus-a-wybory-prezydenckie-10-maja-niska-frekwencja-i-wygrana-dudy/c4v0ycm IBRiS]
+| 27–28 March 2020{{efn|The poll measures voting intention in case the election is held during the polling period.}}
+| 5.6%
+| -
+| style="background:lightsteelblue;" | '''45.1%'''
+| style="background:#FDDCB8;" | 17.2%
+| 8.5%
+| 12.1%
+| 7.5%
+| 3.9%
+|-
+| 27–28 March 2020{{efn|The poll measures voting intention in case the election is held on 10 May 2020.}}
+| 5.3%
+| -
+| style="background:#809fff;" | '''54.6%'''
+| 12.1%
+| 8.7%
+| 6.4%
+| 9.2%
+| 3.7%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/134408/sondaz-dla-dorzeczypl-kosiniak-goni-kidawe-lider-niezagrozony.html Estymator]
+| 25–26 March 2020
+| -
+| 0.9%
+| style="background:lightsteelblue;" | '''49.8%'''
+| style="background:#FDDCB8;" | 17.1%
+| 10.8%
+| 15.4%
+| 3.1%
+| 2.9%
+|-
+| rowspan="2" style="background:lightsteelblue;" | [https://oko.press/niemal-wszyscy-przeciw-kaczynskiemu-nawet-mateczniki-pis-nie-chca-wyborow-10-maja-sondaz-oko-press/ Kantar]
+| 23–24 March 2020{{efn|The poll measures voting intention in case the election is held during the [[COVID-19 pandemic in Poland|coronavirus pandemic]].}}
+| 6%
+| -
+| style="background:#809fff;" | '''65%'''
+| 10%
+| 5%
+| 4%
+| 6%
+| 4%
+|-
+| 23–24 March 2020{{efn|name="after-pandemic"|The poll measures voting intention in case the election is held after the end of the [[COVID-19 pandemic in Poland|coronavirus pandemic]].}}
+| 10%
+| -
+| style="background:lightsteelblue;" | '''44%'''
+| style="background:#FDDCB8;" | 19%
+| 7%
+| 8%
+| 5%
+| 7%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/492905-rekordowa-przewaga-andrzeja-dudy-nad-kandydatka-ko-sprawdz Social Changes]
+| 20–23 March 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''47%'''
+| style="background:#FDDCB8;" | 19%
+| 10%
+| 11%
+| 6%
+| 7%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-ponad-70-proc-polakow-uwaza-ze-wybor,nId,4397811 United Survey]
+| 20 March 2020
+| 16.7%
+| -
+| style="background:lightsteelblue;" | '''42.7%'''
+| style="background:#FDDCB8;" | 16.6%
+| 5.7%
+| 8.7%
+| 6.6%
+| 2.9%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/sondaz-prezydencki-dla-super-expresu-bedzie-druga-tura-aa-ogn1-3PpK-4ewM.html Pollster]{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 17–18 March 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''43.19%'''
+| style="background:#FDDCB8;" | 21.13%
+| 9.54%
+| 12.96%
+| 4.44%
+| 8.74%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/492585-andrzej-duda-na-czele-ale-nieco-traci-zyskuje-kandydat-psl Social Changes]
+| 13–17 March 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''41%'''
+| style="background:#FDDCB8;" | 23%
+| 9%
+| 13%
+| 4%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://fakty.interia.pl/raporty/raport-wybory-prezydenckie-2020/aktualnosci/news-wybory-prezydenckie-2020-duzy-spadek-kidawy-blonskiej-sondaz,nId,4390725 CBOS]
+| 5–15 March 2020
+| 10%
+| -
+| style="background:lightsteelblue;" | '''50%'''
+| style="background:#FDDCB8;" | 15%
+| 5%
+| 9%
+| 3%
+| 6%
+|-
+| style="background:lightsteelblue;" | [https://www.dorzeczy.pl/kraj/132741/andrzej-duda-liderem-spadek-poparcia-kidawy-blonskiej-zobacz-najnowszy-sondaz-dla-dorzeczypl.html Estymator]
+| 12–13 March 2020
+| -
+| 0.2%
+| style="background:lightsteelblue;" | '''46.4%'''
+| style="background:#FDDCB8;" | 20.4%
+| 11.4%
+| 10.1%
+| 4.6%
+| 6.9%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/andrzej-duda-wygrywa-w-i-turze-sondaz-ibsp/ IBSP]
+| 10–13 March 2020
+| -
+| 0.15%
+| style="background:#809fff;" | '''51.36%'''
+| 19.79%
+| 7.59%
+| 8.98%
+| 5.51%
+| 6.62%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/sondaze/news-sondaz-prezydencki-kantar-duda-zyskuje-i-wygrywa-ze-wszystki,nId,4385098 Kantar]
+| 6–11 March 2020
+| 13%
+| -
+| style="background:lightsteelblue;" | '''43%'''
+| style="background:#FDDCB8;" | 22%
+| 6%
+| 9%
+| 3%
+| 4%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/490944-andrzej-duda-zwieksza-przewage-nad-kidawa-blonska-sprawdz Social Changes]
+| 6–10 March 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''45%'''
+| style="background:#FDDCB8;" | 22%
+| 8%
+| 9%
+| 5%
+| 11%
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" data-sort-value="2020-03-04" |4 March 2020 || colspan="8" | '''First case of [[COVID-19]] confirmed in Poland'''
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/tylko-w-onecie/wybory-prezydenckie-2020-sondaz-andrzej-duda-prowadzi-potrzebna-ii-tura/cmk8ssw IBRiS]
+| 2 March 2020
+| 5.9%
+| -
+| style="background:lightsteelblue;" | '''41.2%'''
+| style="background:#FDDCB8;" | 23.1%
+| 6.1%
+| 11.4%
+| 4.8%
+| 7.6%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/490187-andrzej-duda-wyraznie-prowadzi-traci-holownia-sprawdz Social Changes]
+| 28 February-2 March 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''42%'''
+| style="background:#FDDCB8;" | 24%
+| 11%
+| 9%
+| 5%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/131184/sondaz-dla-dorzeczypl-andrzej-duda-nadal-bezkonkurencyjny.html Estymator]
+| 27–28 February 2020
+| -
+| 0.1%
+| style="background:lightsteelblue;" | '''44.8%'''
+| style="background:#FDDCB8;" | 24.4%
+| 9.7%
+| 10.4%
+| 4.9%
+| 5.7%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/46903322/sondaz-druga-tura-pewna-sprawdzono-wyniki-starcia-andrzeja-dudy-z-kazdym-kontrkandydatem Indicator]
+| 26–28 February 2020
+| 4.3%
+| 1.2%
+| style="background:lightsteelblue;" | '''42.9%'''
+| style="background:#FDDCB8;" | 23.3%
+| 9.3%
+| 8.1%
+| 3.7%
+| 7.2%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200229223-Sondaz-Holownia-i-Kosiniak-Kamysz-najwiekszym-klopotem-dla-Dudy.html Pollster]
+| 24–26 February 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''42.44%'''
+| style="background:#FDDCB8;" | 22.14%
+| 9.45%
+| 11.71%
+| 4.92%
+| 9.34%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/489114-andrzej-duda-wyraznie-odrabia-straty-sprawdz-wyniki Social Changes]
+| 21–24 February 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''43%'''
+| style="background:#FDDCB8;" | 24%
+| 10%
+| 7%
+| 5%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/fakty/news-sondaz-dla-dgp-i-rmf-fm-zaskakujace-wyniki-ii-tury-wyborow-p,nId,4343257 United Survey]
+| 22 February 2020
+| 5.8%
+| -
+| style="background:lightsteelblue;" | '''41.9%'''
+| style="background:#FDDCB8;" | 22.2%
+| 8.2%
+| 10.4%
+| 4.1%
+| 7.4%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/dogonili-dude-przelomowy-sondaz-prezydencki-oko-press/ IPSOS]
+| 20–22 February 2020
+| 6%
+| -
+| style="background:lightsteelblue;" | '''41%'''
+| style="background:#FDDCB8;" | 25%
+| 9%
+| 7%
+| 5%
+| 7%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/rosnie-poparcie-dla-andrzeja-dudy-sondaz-ibsp/ IBSP]
+| 18–20 February 2020
+| -
+| 0.58%
+| style="background:lightsteelblue;" | '''45.16%'''
+| style="background:#FDDCB8;" | 26.42%
+| 8.78%
+| 6.56%
+| 4.44%
+| 8.06%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/488123-prezydent-andrzej-duda-traci-zyskuja-holownia-i-kosiniak Social Changes]
+| 14–18 February 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 25%
+| 9%
+| 9%
+| 5%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Sondaz-CBOS.-Andrzej-Duda-z-50-proc.-poparcia-Kidawa-Blonska-z-20-proc CBOS]
+| 6–16 February 2020
+| 12%
+| 3%
+| style="background:lightsteelblue;" | '''50%'''
+| style="background:#FDDCB8;" | 20%
+| 4%
+| 5%
+| 1%
+| 5%
+|-
+| style="background:lightsteelblue;" | [https://polskatimes.pl/wybory-prezydenckie-2020-sondaz-polska-press-grupy-i-dobrej-opinii-wynik-do-konca-bedzie-niewiadoma/ar/c1-14791860 Dobra Opinia]
+| 10–14 February 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''41.34%'''
+| style="background:#FDDCB8;" | 24.02%
+| 11.21%
+| 8.11%
+| 5.31%
+| 10.01%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/sondaz/129727/sondaz-prezydencki-dla-dorzeczypl-andrzej-duda-wciaz-prowadzi-ale-traci-kto-zyskuje.html Estymator]
+| 12–13 February 2020
+| -
+| 0.2%
+| style="background:lightsteelblue;" | '''45.3%'''
+| style="background:#FDDCB8;" | 26.4%
+| 7.4%
+| 10.1%
+| 4.7%
+| 5.9%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Nowy-sondaz-prezydencki.-Andrzej-Duda-ze-wzrostem-poparcia Kantar]
+| 7–12 February 2020
+| 17%
+| 1%
+| style="background:lightsteelblue;" | '''40%'''
+| style="background:#FDDCB8;" | 21%
+| 7%
+| 5%
+| 3%
+| 6%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/487057-social-changes-rekordowe-poparcie-dla-prezydenta-dudy Social Changes]
+| 7–11 February 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''46%'''
+| style="background:#FDDCB8;" | 24%
+| 9%
+| 7%
+| 5%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/302099959-Sondaz-Duda-wygrywa-z-kandydatami-opozycji-PiS-traci.html IBRiS]
+| 7–8 February 2020
+| 4.3%
+| -
+| style="background:lightsteelblue;" | '''43.7%'''
+| style="background:#FDDCB8;" | 29.2%
+| 6.9%
+| 4.0%
+| 3.8%
+| 8.1%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-ibris-2-04-02-2020/ IBRiS]{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+| N/A
+| 8.2%
+| -
+| style="background:lightsteelblue;" | '''41.7%'''
+| style="background:#FDDCB8;" | 26.3%
+| 7.7%
+| 5.2%
+| 4.6%
+| 6.3%
+|-
+! style="border-right-style:hidden;" |
+! style="border-right-style:hidden;" data-sort-value="2020-02-05" |5 February 2020 || colspan="8" | '''Election is officially announced to be held on May 10. The campaign starts'''
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/486538-najnowsze-badanie-poparcia-dla-kandydatow-na-prezydenta Social Changes]
+| 1–4 February 2020
+| -
+| 2%{{efn|Includes: 2% – Piotr Liroy-Marzec.}}
+| style="background:lightsteelblue;" | '''42%'''
+| style="background:#FDDCB8;" | 25%
+| 10%
+| 6%
+| 3%
+| 12%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-kantar-2-30-01-2020/ Kantar] {{Webarchive|url=https://web.archive.org/web/20200408192243/http://ewybory.eu/sondaz-prezydencki-kantar-2-30-01-2020/ |date=2020-04-08 }}
+|29-30 January 2020
+| 7%
+| 1%
+| style="background:lightsteelblue;" | '''44%'''
+| style="background:#FDDCB8;" | 24%
+| 8%
+| 4%
+| 3%
+| 9%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-maison-partners-30-01-2020/ Maison & Partners] {{Webarchive|url=https://web.archive.org/web/20200203071513/http://ewybory.eu/sondaz-prezydencki-maison-partners-30-01-2020/ |date=2020-02-03 }}{{efn|name=internal poll}}
+| 24–28 January 2020
+| 10.0%
+| -
+| style="background:lightsteelblue;" | '''38.3%'''
+| style="background:#FDDCB8;" | 22.3%
+| 9.0%
+| 6.3%
+| 3.2%
+| 10.9%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/485312-andrzej-duda-wciaz-z-wysokim-poparciem-traci-holownia Social Changes]
+| 24–27 January 2020
+| -
+| 2%{{efn|Includes: 2% – Piotr Liroy-Marzec.}}
+| style="background:lightsteelblue;" | '''43%'''
+| style="background:#FDDCB8;" | 24%
+| 10%
+| 7%
+| 4%
+| 10%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-estymator-3-26-01-2020/ Estymator] {{Webarchive|url=https://web.archive.org/web/20200203030448/http://ewybory.eu/sondaz-prezydencki-estymator-3-26-01-2020/ |date=2020-02-03 }}
+| 23–24 January 2020
+| -
+| 0.4%
+| style="background:lightsteelblue;" | '''47.1%'''
+| style="background:#FDDCB8;" | 24.1%
+| 8.9%
+| 9.3%
+| 4.6%
+| 5.6%
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" data-sort-value="2020-01-18" |18 January 2020 || colspan="8" | '''[[Krzysztof Bosak]] is declared as a candidate of the [[Confederation Liberty and Independence|Confederation]]'''
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/lifestyle/484263-spor-wokol-sadownictwa-nie-szkodzi-prezydentowi-dudzie Social Changes]
+| 17–21 January 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''44%'''
+| style="background:#FDDCB8;" | 24%
+| 8%
+| 9%
+| 4%
+| 11%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-kantar-22-01-2020/ Kantar] {{Webarchive|url=https://web.archive.org/web/20200203073844/http://ewybory.eu/sondaz-prezydencki-kantar-22-01-2020/ |date=2020-02-03 }}
+|9-15 January 2020
+| 22%
+| 2%
+| style="background:lightsteelblue;" | '''38%'''
+| style="background:#FDDCB8;" | 20%
+| 7%
+| 4%
+| 1%
+| 6%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/pierwszy-sondaz-prezydencki-ibsp-w-nowym-roku/ IBSP]
+| 14–16 January 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''43.73%'''
+| style="background:#FDDCB8;" | 26.61%
+| 7.26%
+| 7.77%
+| 5.07%
+| 9.56%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-pollster-2-16-01-2020/ Pollster] {{Webarchive|url=https://web.archive.org/web/20200203041141/http://ewybory.eu/sondaz-prezydencki-pollster-2-16-01-2020/ |date=2020-02-03 }}
+| 14–16 January 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''44.96%'''
+| style="background:#FDDCB8;" | 23.11%
+| 9.09%
+| 7.86%
+| 5.12%
+| 9.86%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/482516-andrzej-duda-zyskuje-rywale-gubia-punkty-sprawdz-wyniki Social Changes]
+| 10–14 January 2020
+| -
+| -
+| style="background:lightsteelblue;" | '''45%'''
+| style="background:#FDDCB8;" | 22%
+| 9%
+| 8%
+| 3%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-prezydencki-dla-rmf-fm-i-dgp-andrzej-duda-wygrywa-ze-,nId,4259132 United Survey]
+| 10–11 January 2020
+| 7.4%
+| -
+| style="background:lightsteelblue;" | '''43.0%'''
+| style="background:#FDDCB8;" | 23.3% 
+| 7.3%
+| 7.0%
+| 5.3%
+| 6.7%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-ibris-14-01-2020/ IBRiS] {{Webarchive|url=https://web.archive.org/web/20200203031713/http://ewybory.eu/sondaz-prezydencki-ibris-14-01-2020/ |date=2020-02-03 }}
+|10-11 January 2020
+| 8.2%
+| -
+| style="background:lightsteelblue;" | '''44%'''
+| style="background:#FDDCB8;" | 23.3%
+| 6.6%
+| 7.0%
+| 5.1%
+| 5.7%
+|-
+| style="background:lightsteelblue;"| [https://www.rmf24.pl/newsamp-sondaz-prezydencki-duda-z-duza-przewaga-nad-kidawa-blonska,nId,4257332 Estymator]
+| 9–10 January 
+|
+| -
+| style="background:lightsteelblue;" | '''47.7%'''
+| style="background:#FDDCB8;" | 22.7%
+| 8.8%
+| 9%
+| 4.3%
+| 6.9%
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" data-sort-value="2020-01-05" |5 January 2020 || colspan="8" | '''[[Robert Biedroń]] is declared as a candidate of the [[The Left (Poland)|Left]]'''
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/481513-holownia-traci-kosiniak-kamysz-zyskuje-czolowka-bez-zmian Social Changes]
+| 3–7 January 2020
+| -
+| 6%{{efn|Includes: 6% – [[Adrian Zandberg]].}}
+| style="background:lightsteelblue;" | '''42%'''
+| style="background:#FDDCB8;" | 26%
+| -
+| 9%
+| 4%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/480678-sytuacja-sie-klaruje-zyskuja-kidawa-blonska-i-holownia Social Changes]
+| 27–31 December 2019
+| -
+| 5%{{efn|Includes: 5% – [[Adrian Zandberg]].}}
+| style="background:lightsteelblue";"|'''43%''' 
+| style="background:#FDDCB8;" | 26%
+| - 
+| 6%
+| 4%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/479971-holownia-wciaz-wysoko-ale-juz-nie-rosnie-sprawdz-wyniki Social Changes]
+| 20–24 December 2019
+| -
+| 7%{{efn|Includes: 7% – [[Adrian Zandberg]].}}
+| style="background:lightsteelblue";"|'''43%''' 
+| style="background:#FDDCB8;" | 24%
+| - 
+| 9%
+| 4%
+| 13%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-estymator/2019-12-22/ Estymator] {{Webarchive|url=https://web.archive.org/web/20191227021517/http://ewybory.eu/sondaz-prezydencki-estymator/2019-12-22/ |date=2019-12-27 }}
+|19–20 December 2019
+| -
+| 8.3%{{efn|Includes: 8.3% – [[Adrian Zandberg]].}}
+| style="background:lightsteelblue;" | '''46.6%'''
+| style="background:#FDDCB8;" | 22.4%
+| -
+| 9.2%
+| 4.6%
+| 7.9%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/sondaz-prezydencki-ibsp/ IBSP]
+| 17–20 December 2019
+| -
+| 7.4%{{efn|Includes: 7.2% – [[Adrian Zandberg]].}}
+| style="background:lightsteelblue;" | '''43.9%'''
+| style="background:#FDDCB8;" | 26.3%
+| -
+| 7.3%
+| 5.4%
+| 9.7%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/478341-andrzej-duda-ucieka-rywalom-holownia-mocno-zyskuje-sprawdz Social Changes]
+| 13–17 December 2019
+| -
+| 7%{{efn|Includes: 7% – [[Adrian Zandberg]].}}
+| style="background:lightsteelblue";"|'''46%''' 
+| style="background:#FDDCB8;" | 23%
+| - 
+| 7%
+| 4%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/476880-sondaz-prezydencki-z-uwzglednieniem-holowni-sprawdz-wyniki Social Changes]
+| 28 November-3 December 2019
+| 14%
+| 11%{{efn|Includes: 7% – [[Adrian Zandberg]], 4% – [[Grzegorz Braun]].}}
+| style="background:lightsteelblue";"|'''37%''' 
+| style="background:#FDDCB8;" | 22%
+| - 
+| 8%
+| -
+| 8%
+|}
+[[File:Pre-2020 polls average.png|alt=|thumb|345x345px|Pre-2020 polls average]]
+
+===Pre-2020 opinion polls===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s) administered
+! rowspan="2" |Don't know/<br/>Abstain
+! rowspan="2" |Others
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Law and Justice}};" |
+| style="background:{{party color|Civic Platform}};" |
+| style="background:{{party color|Civic Platform}};" |
+| style="background:#f00;"|
+| style="background:#000;"|
+| style="background:{{party color|Modern}};" |
+| style="background:{{party color|Modern}};" |
+| style="background:{{party color|Polish People's Party}};" |
+| style="background:{{party color|Spring (political party)}}" |
+| style="background:{{party color|Razem}}" |
+| style="background:#E4D00A;" |
+| style="background:{{party color|Independent (politician)}}" |
+| style="background:{{party color|Independent (politician)}}" |
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! Other<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Donald Tusk|Tusk]]<br/>{{small|[[Civic Platform|PO]]}}
+! Other<br/>{{small|[[Civic Platform|PO]]}}
+! [[Włodzimierz Czarzasty|Czarzasty]]<br/>{{small|[[Democratic Left Alliance (Poland)|SLD]]}}
+! [[Paweł Kukiz|Kukiz]]<br/>{{small|[[Kukiz'15|K'15]]}}
+! [[Ryszard Petru|Petru]]<br/>{{small|[[Modern (political party)|.N]]}}
+! [[Katarzyna Lubnauer|Lubnauer]]<br/>{{small|[[Modern (political party)|.N]]}}
+! [[Władysław Kosiniak-Kamysz|Kosiniak-Kamysz]]<br/>{{small|[[Polish People's Party|PSL]]}}
+! [[Robert Biedroń|Biedroń]]<br/>{{small|[[Spring (political party)|Wiosna]]}}
+! [[Adrian Zandberg|Zandberg]]<br/>{{small|[[Razem]]}}
+! [[Janusz Korwin-Mikke|Korwin-Mikke]]<br/>{{small|[[KORWiN]]}}
+! [[Andrzej Rzepliński|Rzepliński]]<br/>{{small|[[Independent (politician)|IN]]}}
+! [[Barbara Nowacka|Nowacka]]<br/>{{small|[[Independent (politician)|IN]]}}
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/456662-andrzej-duda-i-dlugo-dlugo-nic-tusk-zaskakujaco-slabo Social Changes]
+|19–24 July 2019
+| -
+|1.9%{{efn|Includes: 1.9% – [[Grzegorz Braun]].}}
+| style="background:lightsteelblue;" | '''45%'''
+| -
+| style="background:#FDDCB8;" | 21%
+|6.9%{{efn|Includes: 5.2% – [[Rafał Trzaskowski]], 1.7% – [[Bartosz Arłukowicz]].}}
+| -
+|6.7%
+| -
+| -
+|4.3%
+|8.2%
+| -
+|3.4%
+| -
+|2.7%
+|-
+| style="background:lightsteelblue;" | [http://wiadomosci.gazeta.pl/wiadomosci/7,114884,24809232,sondaz-prezydencki-andrzej-duda-pokonuje-donalda-tuska-nawet.html Kantar Public]
+| 16–19 May 2019
+| 2%
+| -
+| style="background:lightsteelblue;" | '''41%'''
+| -
+| style="background:#FDDCB8;" | 27%
+| -
+| -
+| 7%
+| -
+| -
+| 6%
+| 11%
+| 1%
+| 5%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/ogladaj-online,60/tusk-czy-duda-dla-kogo-prezydentura-sondaz-dla-faktow-tvn-i-tvn24,934468.html Kantar Public]
+| 8–10 May 2019
+| 8%
+| -
+| style="background:lightsteelblue;" | '''41%'''
+| -
+| style="background:#FDDCB8;" | 28%
+| -
+| -
+| 7%
+| -
+| -
+| 5%
+| 6%
+| 1%
+| 4%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/andrzej-duda-na-czele-sondazu-prezydenckiego-ibsp/ IBSP]
+| 7–9 May 2019
+| -
+| 0.4%
+| style="background:lightsteelblue;" | '''43.7%'''
+| -
+| style="background:#FDDCB8;" | 34.7%
+| -
+| 1.3%
+| 5.2%
+| -
+| -
+| 6.3%
+| 6.9%
+| -
+| 1.4%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-prezydencki-bedzie-ii-tura-tylko-z-kim-aa-GQF1-CJh7-tFJK.html Pollster]
+| 4–6 April 2019
+| -
+| -
+| style="background:lightsteelblue;" | '''38%'''
+| -
+| style="background:#FDDCB8;" | 27%
+| -
+| 1%
+| 6%
+| -
+| 0%
+| 5%
+| 16%
+| 2%
+| 5%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/tusk-znaczaco-przegrywa-z-duda-prezydenckie-badanie-dla-wirtualnej-polski-6354019930355841a Ariadna]
+| 22–26 February 2019
+| 24%
+| -
+| style="background:lightsteelblue;" | '''34%'''
+| -
+| style="background:#FDDCB8;" | 20%
+| -
+| -
+| 6%
+| -
+| -
+| 1%
+| 12%
+| 1%
+| -
+| -
+| 2%
+|- 
+| style="background:lightsteelblue;" | [https://www.wprost.pl/kraj/10190102/sondaz-andrzej-duda-wygrywa-z-donaldem-tuskiem-o-jeden-punkt-procentowy.html IBSP]
+| 31 January-6 February 2019
+| 3.0%
+| -
+| style="background:lightsteelblue;" | '''38.8%'''
+| -
+| style="background:#FDDCB8;" | 37.8%
+| -
+| 0.7%
+| 2.2%
+| -
+| -
+| 6.1%
+| 8.9%
+| -
+| 2.4%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://www.rp.pl/Polityka/311219909-Sondaz-prezydencki-Tusk-pol-kroku-za-Duda.html IBRiS]
+| 13 November 2018
+| 9%
+| -
+| style="background:lightsteelblue;" | '''37%'''
+| -
+| style="background:#FDDCB8;" | 36%
+| -
+| -
+| 4%
+| -
+| -
+| 3%
+| 10%
+| -
+| 1%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://opinie.wp.pl/duda-tusk-biedron-i-dlugo-dlugo-nikt-nasz-sondaz-prezydencki-6287793807767169a Ariadna]
+| 17–21 August 2018
+| 14%
+| 
+| style="background:lightsteelblue;" | '''34%'''
+| 7%{{efn|Includes: 5% – [[Mateusz Morawiecki]], 1% – [[Jarosław Kaczyński]], 1% – [[Zbigniew Ziobro]].}}
+| style="background:#FDDCB8;" | 21%
+| -
+| -
+| 6%
+| -
+| -
+| 1%
+| 14%
+| 1%
+| 2%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/tusk-wyzwal-kaczynskiego-bo-przegra-z-duda-mamy-sondaz-aa-widZ-WRvY-34na.html Pollster]
+| 11–12 July 2018
+| -
+| 19%
+| style="background:lightsteelblue;" | '''32%'''
+| -
+| style="background:#FDDCB8;" | 21%
+| -
+| -
+| 7%
+| -
+| -
+| -
+| 17%
+| -
+| 4%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/najnowszy-sondaz-prezydencki-dla-faktow-tvn-i-tvn24,833569.html Millward Brown]
+| 25–26 April 2018
+| 6%
+| 4%
+| style="background:lightsteelblue;" | '''44%'''
+| -
+| style="background:#FDDCB8;" | 24%
+| -
+| -
+| 4%
+| -
+| -
+| 2%
+| 15%
+| 1%
+| -
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [http://www.se.pl/wiadomosci/polityka/biedron-goni-tuska-sondaz-dla-super-expressu-i-se-pl_1049880.html Pollster]
+| 5 April 2018
+| -
+| 4%{{efn|Includes: 4% – [[Monika Jaruzelska]].}}
+| style="background:lightsteelblue;" | '''36%'''
+| -
+| style="background:#FDDCB8;" | 26%
+| -
+| -
+| 7%
+| -
+| 3%
+| 2%
+| 19%
+| -
+| 3%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [http://www.rp.pl/Polityka/304089947-Sondaz-prezydencki-Donald-Tusk-coraz-mocniejszy.html IBRiS]
+| 4 April 2018
+| 9.3%
+| -
+| style="background:lightsteelblue;" | '''33.5%'''
+| -
+| style="background:#FDDCB8;" | 33.0%
+| -
+| -
+| 6.8%
+| -
+| -
+| 3.0%
+| 11.4%
+| 1.3%
+| 1.7%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [http://www.se.pl/wiadomosci/polityka/sondaz-prezydencki-kto-w-drugiej-turze-z-duda-tusk-czy-biedron_1035412.html Pollster]
+| 3–5 January 2018
+| -
+| -
+| style="background:lightsteelblue;" | '''39%'''
+| -
+| style="background:#FDDCB8;" | 21%
+| -
+| 1%
+| 9%
+| -
+| 2%
+| 3%
+| 15%
+| 3%
+| 4%
+| -
+| 3%
+|- 
+| style="background:lightsteelblue;" | [http://wiadomosci.onet.pl/kraj/sondaz-dla-dgp-andrzej-duda-kolejnym-prezydentem/gzef6ed Ariadna]
+| 29 September-2 October 2017
+| 14.3%
+| -
+| style="background:lightsteelblue;" | '''42.7%'''
+| -
+| style="background:#FDDCB8;" | 17.1%
+| -
+| 0.4%
+| 9.6%
+| -
+| -
+| 0.9%
+| 12.7%
+| 1.0%
+| -
+| -
+| 1.3%
+|- 
+| style="background:lightsteelblue;" | [http://www.se.pl/wiadomosci/polityka/sondaz-prezydencki-czy-szydlo-moze-pokonac-dude_1014006.html Pollster]
+| 16–17 August 2017
+| -
+| -
+| style="background:lightsteelblue;" | '''39%'''
+| 6% {{efn|Includes: 6% – [[Beata Szydło]]}}
+| style="background:#FDDCB8;" | 31%
+| 1% {{efn|Includes: 1% – [[Grzegorz Schetyna]]}}
+| 3%
+| 7%
+| 2%
+| -
+| 3%
+| -
+| 3%
+| 5%
+| -
+| -
+|- 
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/tylko-w-wp-pis-jest-skazane-na-andrzeja-dude-mamy-wyniki-najnowszego-sondazu-6150537218131585a Ariadna]
+| 28–31 July 2017
+| 14%
+| -
+| style="background:lightsteelblue;" | '''37%'''
+| -
+| style="background:#FDDCB8;" | 23%
+| -
+| 0%
+| 7%
+| -
+| -
+| 2%
+| 14%
+| 2%
+| -
+| -
+| 1%
+|-
+| style="background:lightsteelblue;" | [http://www.rp.pl/Kraj/308029908-Sondaz-Robert-Biedron-konkurencja-dla-Tuska-i-Dudy.html IBRiS]
+| 26–27 July 2017
+| 9.9%
+| 1.2%{{efn|Includes: 1.2% – Marian Kowalski.}}
+| style="background:lightsteelblue;" | '''36.2%'''
+| -
+| style="background:#FDDCB8;" | 20.5%
+| -
+| -
+| 7.7%
+| 1.5%
+| -
+| 4.1%
+| 16.3%
+| -
+| 2.6%
+| -
+| -
+|-
+| style="background:lightsteelblue;" | [https://web.archive.org/web/20170703162955/http://ewybory.eu/sondaz-prezydencki-ariadna-27-06-2017/ Ariadna]
+| 23–26 June 2017
+| 14%
+| -
+| style="background:lightsteelblue;" | '''35%'''
+| -
+| style="background:#FDDCB8;" | 23%
+| -
+| 2%
+| 11%
+| -
+| -
+| 4%
+| 9%
+| 1%
+| -
+| -
+|1%
+|-
+| rowspan="2" style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/tylko-w-wp-wyniki-sondazu-prezydenckiego-tusk-ostatnia-nadzieja-opozycji-6133515244373633a Ariadna]
+| rowspan="2"| 9–12 June 2017
+| 14%
+| -
+| style="background:lightsteelblue;" |'''32%'''
+| -
+| style="background:#FDDCB8;" | 27%
+| -
+|1%
+|9%
+| -
+| -
+|1%
+| 12%
+| 1%
+| -
+| -
+|3%
+|-
+|21%
+| -
+| style="background:lightsteelblue;" |'''34%'''
+| -
+| -
+| 8%
+|1%
+|8%
+| -
+| -
+|4%
+| style="background:#ae98d6;" |17%
+|2%
+| -
+| -
+|5%
+|-
+| style="background:lightsteelblue;" | [http://wiadomosci.wp.pl/najnowszy-sondaz-andrzej-duda-w-ii-turze-wygralby-z-donaldem-tuskiem-i-robertem-biedroniem-6123892001584769a Ariadna]
+| 12–16 May 2017
+| 15.4%
+| -
+| style="background:lightsteelblue;" | '''31.9%'''
+| -
+| style="background:#FDDCB8;" | 26.9%
+| -
+| -
+| 8%
+| -
+| -
+| -
+| 17.8%
+| -
+| -
+| -
+| -
+|-
+| style="background:lightsteelblue;" | [http://wyborcza.pl/7,75398,21728115,sondaz-wyborczej-duda-wygrywa-w-pierwszej-turze-z-tuskiem.html Kantar Public]
+| 26–27 April 2017
+| 10%
+| 1%
+| style="background:lightsteelblue;" | '''38%'''
+| -
+| style="background:#FDDCB8;" | 31%
+| -
+| -
+| 12%
+| -
+| -
+| -
+| 8%
+| -
+| -
+| -
+| -
+|-
+| style="background:lightsteelblue;" | [http://www.polskatimes.pl/fakty/polityka/a/sondaz-polska-press-grupy-po-zmniejsza-dystans-do-pis-duda-wygrywa-z-tuskiem,11961282/ Dobra Opinia]
+| 30 March-3 April 2017
+| -
+| -
+| style="background:lightsteelblue;" | '''37.4%'''
+| -
+| style="background:#FDDCB8;" | 25.8%
+| -
+| -
+| 9.5%
+| 7.9%
+| -
+| 4.8%
+| 11.1%
+| -
+| 3.5%
+| -
+| -
+|-
+| style="background:lightsteelblue;" | [http://www.se.pl/wiadomosci/polityka/tusk-z-biedroniem-gonia-dude-sondaz-sepl_964925.html Pollster]
+| 7–8 March 2017
+| -
+| 8%
+| style="background:lightsteelblue;" | '''45%'''
+| -
+| style="background:#FDDCB8;" | 25%
+| 4%{{efn|Includes: 4% – [[Bronisław Komorowski]]}}
+| 5%
+| 2%
+| -
+| -
+| 8%
+| -
+| 3%
+| -
+| -
+|-
+| style="background:lightsteelblue;" | [https://web.archive.org/web/20170109001035/http://www.se.pl/wiadomosci/polityka/sondaz-dla-se-pl-i-nowa-tv-prezydent-duda-nie-ma-z-kim-przegrac_932602.html Pollster]
+| 2–3 January 2017
+| -
+| 17.18%
+| style="background:lightsteelblue;" | '''41.23%'''
+| 2.19%{{efn|Includes: 1.60% – [[Beata Szydło]], 0.59% – [[Jarosław Kaczyński]]}}
+| style="background:#FDDCB8;" | 11.55%
+| 4.37%{{efn|Includes: 3.96% – [[Bronisław Komorowski]], 0.24% – [[Grzegorz Schetyna]], 0.17% – [[Ewa Kopacz]]}}
+| -
+| 7.36%
+| 7.89%
+| -
+| -
+| 2.62%
+| 0.44%
+| 3.93%
+| 1.27%
+| -
+|-
+| style="background:lightsteelblue;" | [https://oko.press/andrzej-duda-mu-sie-uda-wygrywa-tuskiem-turze-ii-pewnie-tez/ IPSOS]
+| 19–21 December 2016
+| 16%
+| 1%
+| style="background:lightsteelblue;" | '''36%'''
+| 1%
+| style="background:#FDDCB8;" | 18%
+| 1%{{efn|Includes: 1% – [[Grzegorz Schetyna]]}}
+| 5%
+| 8%
+| -
+| -
+| 8%
+| 1%
+| -
+| -
+| -
+|-
+| style="background:lightsteelblue;" | [http://www.se.pl/wiadomosci/polityka/sondaz-prezydencki-dla-sepl-kto-w-drugiej-turze-z-duda-petru-czy-tusk_777170.html Pollster]
+| 5–8 February 2016
+| -
+| 9%
+| style="background:lightsteelblue;" | '''38%'''
+| -
+| 16%{{efn|Includes: 3% – [[Grzegorz Schetyna]]}}
+| 
+| -
+| 14%
+| style="background:#BFE2FF;" | 17%
+| -
+| 3%
+| -
+| -
+| -
+| -
+| -
+|- style="background:#EFEFEF;"
+| style="background:lightsteelblue;" | [[2015 Polish presidential election|Presidential election]]
+| 10 May 2015
+| -
+| 7.3%
+| style="background:lightsteelblue;"| '''34.8%'''
+| -
+| -
+| style="background:#FDDCB8;" | 33.8%{{efn|[[Bronisław Komorowski]]}}
+| -
+| 20.8%
+| -
+| -
+| -
+| -
+| -
+| 3.3%
+| -
+| -
+|}
+<onlyinclude>
+
+==Second round==
+===Duda v. Trzaskowski===
+[[File:Duda vs Trzaskowski polling.png|thumb]]
+</onlyinclude>
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Civic Platform}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Rafał Trzaskowski|Trzaskowski]]<br/><small>[[Civic Platform|PO]]</small>
+|-
+|style="background:lightsteelblue;" | '''LATE POLL:'''<br /> [https://twitter.com/EuropeElects/status/1282466768414478336 IPSOS LATE POLL]
+|12–13 July 2020
+|style="background:lightsteelblue;"| '''51.0%'''
+|49.0% 
+|–
+|-
+|style="background:lightsteelblue;" | '''LATE POLL:'''<br /> [https://twitter.com/EuropeElects/status/1282434692806070273 IPSOS LATE POLL]
+|12 July 2020
+|style="background:lightsteelblue;"| '''50.8%'''
+|49.2% 
+|–
+|-
+| style="background:lightsteelblue;" | '''EXIT POLL:'''<br /> [https://twitter.com/EuropeElects/status/1282389832044613634 IPSOS 21:00 UTC+2]
+| 12 July 2020
+| style="background:lightsteelblue;"| '''50.4%'''
+| 49.6%
+| –
+|-
+! style="border-right-style:hidden;" |
+! style="border-rightoran-style:hidden;" data-sort-value="2020-06-28" |12 July 2020 || colspan="8" | '''12 July 2020 (second round)'''
+|-
+| style="background:lightsteelblue;"| [https://dorzeczy.pl/kraj/146517/minimalna-przewaga-jednego-z-kandydatow-zobacz-nowy-sondaz.html Social Changes]
+| 8–10 July 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 46%
+| 7%
+|-
+| style="background:lightsteelblue;"| [https://wiadomosci.onet.pl/tylko-w-onecie/sondaz-prezydencki-wybory-2020-trzaskowski-wygrywa-o-wlos-z-duda/8vex7s4?srcc=ucs IBRiS]
+| 9 July 2020
+| 45.7%
+| style="background:#fbcc99;"| '''47.4%''' 
+| 6.9%
+|-
+| style="background:lightsteelblue;"| [https://www.cbos.pl/PL/publikacje/news/2020/23/newsletter.php CBOS]
+| 30 June–9 July 2020
+| 44.4%
+| style="background:#fbcc99;"| '''44.6%''' 
+| 11.0%
+|-
+| style="background:lightsteelblue;"| [https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/wybory-prezydenckie-2020-sondaz-przed-druga-tura-wyborow-prezydenckich-kto-wygra,1022528.html Kantar] {{Webarchive|url=https://web.archive.org/web/20200709215804/https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/wybory-prezydenckie-2020-sondaz-przed-druga-tura-wyborow-prezydenckich-kto-wygra,1022528.html |date=2020-07-09 }}
+| 8–9 July 2020
+| 45.9%
+| style="background:#fbcc99;"| '''46.4%''' 
+| 7.7%
+|-
+| style="background:lightsteelblue;"| [https://www.se.pl/wiadomosci/polityka/wybory-2020-sondaz-przed-druga-tura-duda-przed-trzaskowskim-aa-VJHw-DuC2-tR8U.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200711101006/https://www.se.pl/wiadomosci/polityka/wybory-2020-sondaz-przed-druga-tura-duda-przed-trzaskowskim-aa-VJHw-DuC2-tR8U.html |date=2020-07-11 }}
+| 8–9 July 2020
+| style="background:lightsteelblue;"| '''50.72%'''
+| 49.28%
+| -
+|-
+| style="background:lightsteelblue;"| [https://www.tvp.info/48895403/ten-sondaz-nie-daje-zludzen-walka-potrwa-do-konca-kto-wygra-wybory Indicator]
+| 8–9 July 2020
+| style="background:lightsteelblue;"| '''45.9%'''
+| 44.7%
+| 9.4%
+|-
+| style="background:lightsteelblue;"| [https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Sondaz-CBOS-przed-druga-tura.-Duda-wygrywa-z-Trzaskowskim.-Wybory-2020 CBOS]
+| 29 June – 9 July 2020
+| style="background:lightsteelblue;"| '''50.0%'''
+| 38.0% 
+| 12%
+|-
+| style="background:lightsteelblue;"| [https://www.rp.pl/artykul/1431469-Nikt-tu-nie-jest-pierwszy.html IBRiS]
+| 8 July 2020
+| 44.4%
+| style="background:#fbcc99;"| '''45.3%''' 
+| 10.3%
+|-
+| style="background:lightsteelblue;"| [https://twitter.com/PGBOpinium/status/1281214063708692484 PGB Opinium]
+| 7–9 July 2020
+| 49.16%
+| style="background:#fbcc99;"| '''50.84%''' 
+| -
+|-
+| style="background:lightsteelblue;"| [https://oko.press/duda-50-trzaskowski-47-proc-elektorat-dudy-wzmozony-opozycja-nie-dosc-wierzy-w-sukces/ IPSOS]
+| 7–8 July 2020
+| style="background:lightsteelblue;"| '''50%'''
+| 47%
+| 3%
+|-
+| style="background:lightsteelblue;"| [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-kantar-trzaskowski-zwycieza-w-ii-turze/7mg25cc Kantar]
+| 3–8 July 2020
+| 44%
+| style="background:#fbcc99;"| '''45%''' 
+| 11% 
+|-
+| style="background:lightsteelblue;"| [https://wpolityce.pl/polityka/508326-najnowszy-sondaz-kto-jest-blizej-prezydentury-sprawdz Social Changes]
+| 3–7 July 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 46%
+| 7%
+|-
+| style="background:lightsteelblue;"| [https://www.rp.pl/Wybory-prezydenckie-2020/307089984-Sondaz-IBRiS-Niecaly-1-pkt-proc-przewagi-Dudy-nad-Trzaskowskim.html IBRiS]
+| 4 July 2020
+| style="background:lightsteelblue;"| '''48.7%'''
+| 47.8%
+| 3.5%
+|-
+| style="background:lightsteelblue;"| [https://www.rmf24.pl/newsamp-sondaz-prezydencki-duda-z-minimalnie-wyzszym-poparciem-od-tr,nId,4594106 United Surveys]
+| 4 July 2020
+| style="background:lightsteelblue;"| '''46.8%''' 
+| 45.9% 
+| 7.4%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-dla-wp-kto-wygra-w-ii-turze-6528788762486401a IBRiS]
+| 4 July 2020
+| 45.9%
+| style="background:#fbcc99;"| '''47.2%'''
+| 6.9%
+|-
+| style="background:lightsteelblue;" | [https://twitter.com/PGBOpinium/status/1279775863379300357 PGB Opinium ] 
+| 2–4 July 2020 
+| 49.62% 
+| style="background:#fbcc99;"| '''50.38%'''
+| - 
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/145845/badanie-dla-dorzeczypl-andrzej-duda-zyskuje-jak-zaglosuja-wyborcy-innych-kandydatow.html Estymator]
+| 2–3 July 2020 
+| style="background:lightsteelblue;"| '''50.9%'''
+| 49.1%
+| - 
+|-
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/wybory-prezydenckie-2020-sondaz-rafal-trzaskowski-wygrywa-z-andrzejem-duda-w-2-turze,1021889.html Kantar] {{Webarchive|url=https://web.archive.org/web/20200707202955/https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/wybory-prezydenckie-2020-sondaz-rafal-trzaskowski-wygrywa-z-andrzejem-duda-w-2-turze,1021889.html |date=2020-07-07 }}
+| 2–3 July 2020
+| 46%
+| style="background:#fbcc99;"| '''47%'''
+| 7%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/tylko-w-onecie/wybory-prezydenckie-najnowszy-sondaz-ibris-dla-onetu-andrzej-duda-wygrywa/ch34q01 IBRiS]
+| 1 July 2020
+| style="background:lightsteelblue;"| '''49.0%'''
+| 46.4%
+| 4.6%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/48810820/sondaz-andrzej-duda-wygrywa-ii-ture-wyborow Indicator]
+| 30 June–2 July 2020
+| style="background:lightsteelblue;"| '''50.7%'''
+| 49.3%
+| -
+|-
+| style="background:lightsteelblue;" | [https://oko.press/trzaskowski-49-proc-duda-48-proc-elektorat-opozycji-bardziej-zmobilizowany-sondaz-oko-press/ IPSOS]
+| 30 June–1 July 2020
+| 48%
+| style="background:#fbcc99;"| '''49%'''
+| 3%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200709897-Sondaz-dla-Wiadomosci-Duda-wygra-roznica-ponad-2-pkt-proc.html Pollster]
+| 30 June–1 July 2020
+| style="background:lightsteelblue;"| '''51.14%'''
+| 48.86%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-sondaz-kantar-trzaskowski-wygrywa-przy-wysokiej-frekwencji/thf6tf2 Kantar]
+| 30 June 2020
+| 44%
+| style="background:#fbcc99;"| '''45%'''
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-dla-wp-spora-przewaga-kandydata-w-ii-turze-wysoki-odsetek-niezdecydowanych-6526433882200193a IBRiS ]
+| 28 June 2020
+| 45.8%
+| style="background:#fbcc99;"| '''48.1%'''
+| 6.1%
+|-
+| style="background:lightsteelblue;" | [https://tvp.info/48738749/rywalizacja-bedzie-zacieta-jest-nowy-sondaz-w-sprawie-drugiej-tury-wyborow Indicator] {{Webarchive|url=https://web.archive.org/web/20200713084627/https://tvp.info/48738749/rywalizacja-bedzie-zacieta-jest-nowy-sondaz-w-sprawie-drugiej-tury-wyborow |date=2020-07-13 }}
+| 28 June 2020
+| style="background:lightsteelblue;"| '''50.9%'''
+| 49.1%
+| -
+|-
+| style="background:lightsteelblue;" | [https://tvn24.pl/wybory-prezydenckie-2020/wybory-prezydenckie-2020-kto-wygra-w-drugiej-turze-wyborow-prezydenckich-wyniki-sondazowe-4623357 Kantar]
+| 28 June 2020
+| style="background:lightsteelblue;"| '''45.4%'''
+| 44.7%
+| 9.9%
+|-
+! style="border-right-style:hidden;" |
+! style="border-right-style:hidden;" data-sort-value="2020-06-28" |28 June 2020 || colspan="3" | '''28 June 2020 (first round)'''
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/507211-rosnie-przewaga-andrzeja-dudy-nad-rafalem-trzaskowskim Social Changes]
+| 26–27 June 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 43%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-dla-wp-spora-przewaga-kandydata-w-ii-turze-wysoki-odsetek-niezdecydowanych-6526433882200193a IBRiS]
+| 26 June 2020
+| 45.8%
+| style="background:#fbcc99;"| '''48.1%'''
+| 6.1%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/dla-kogo-ii-tura-sondaz-ibsp-dla-stanpolityki-pl/ IBSP]
+| 25–26 June 2020{{efn|The poll has been updated with exit poll data.}} 
+| 48.51%
+| style="background:#fbcc99;"| '''51.49%'''
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629451-Sondaz-dla-Wiadomosci-Duda-ponad-41-proc-Trzaskowski-ponad-30-proc.html Indicator]
+| 23–26 June 2020
+| style="background:lightsteelblue;"| '''50.9%'''
+| 49.1%
+| -
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/144809/ostatni-sondaz-dla-dorzeczypl-przed-wyborami-oto-wyniki.html Estymator]
+| 24–25 June 2020
+| style="background:lightsteelblue;"| '''50.6%'''
+| 49.4%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/wybory-2020-druga-tura-szach-mat-ostatni-sondaz-przed-wyborami-aa-V1ee-9and-3pSZ.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200627205629/https://www.se.pl/wiadomosci/polityka/wybory-2020-druga-tura-szach-mat-ostatni-sondaz-przed-wyborami-aa-V1ee-9and-3pSZ.html |date=2020-06-27 }}
+| 24–25 June 2020
+| 44.83%
+| style="background:#fbcc99;"| '''46.48%'''
+| 8.69%
+|-
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/kto-wygra-wybory-prezydenckie-2020-sondaz-andrzej-duda-i-rafal-trzaskowski-przejda-do-drugiej-tury,1020989.html Kantar] {{Webarchive|url=https://web.archive.org/web/20200625175905/https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/kto-wygra-wybory-prezydenckie-2020-sondaz-andrzej-duda-i-rafal-trzaskowski-przejda-do-drugiej-tury,1020989.html |date=2020-06-25 }}
+| 24–25 June 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 45%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629544-Sondaz-W-pierwszej-turze---Andrzej-Duda-w-drugiej---walka-o-kazdy-glos.html IBRiS]
+| 24 June 2020
+| style="background:lightsteelblue;"| '''48.7%'''
+| 47.5%
+| 3.8%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/trzaskowski-48-proc-duda-44-proc-pis-moze-stracic-prezydenta-sondaz-oko-press/ IPSOS]
+| 22–23 June 2020
+| 43%
+| style="background:#fbcc99;"| '''47%'''
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/506232-najnowszy-sondaz-prezydencki-ii-tura-andrzej-duda-wygrywa Social Changes]
+| 19–23 June 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 44%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo Pollster] {{Webarchive|url=https://web.archive.org/web/20200624225903/https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo |date=2020-06-24 }}
+| 22 June 2020
+| style="background:lightsteelblue;"| '''51%'''
+| 49%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-ibris-dla-wp-dla-kogo-ii-tura-wyborow-andrzej-duda-i-rafal-trzaskowski-ida-leb-w-leb-6523920789768321a IBRiS]
+| 20 June 2020
+| style="background:lightsteelblue;"| '''45.6%'''
+| 45.5%
+| 8.9%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629755-Sondaz-IBRiS-Trzaskowski-w-drugiej-turze-o-wlos-przed-Duda.html IBRiS]
+| 19–20 June 2020
+| 45.2%
+| style="background:#fbcc99;"| '''46.0%'''
+| 8.8%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-ibris-dla-rmf-fm-i-dgp-trzaskowski-wygrywa-ii-ture,nId,4566943 United Survey]
+| 19 June 2020
+| 45.8%
+| style="background:#fbcc99;"| '''46.9%'''
+| 7.4%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/144088/najnowszy-sondaz-prezydencki-dla-dorzeczypl.html Estymator]
+| 18–19 June 2020
+| style="background:lightsteelblue;"| '''50.9%'''
+| 49.1%
+| -
+|-
+| style="background:lightsteelblue;" | [https://tvn24.pl/wybory-prezydenckie-2020/wybory-prezydenckie-2020-sondaz-prezydencki-na-jakie-poparcie-moga-liczyc-andrzej-duda-i-rafal-trzaskowski-4614048 Kantar]
+| 17–18 June 2020
+| '''48%'''
+| '''48%'''
+| 4%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/trzaskowski-juz-remisuje-z-duda-a-holownia-wygrywa-duda-stracil-glosy-konfederatow/ IPSOS]
+| 16–17 June 2020
+| '''46%'''
+| '''46%'''
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/505325-najnowszy-sondaz-prezydencki-ii-tura-sprawdz-wyniki Social Changes]
+| 12–16 June 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 43%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-2020-sondaz-andrzej-duda-przegrywa-w-ii-turze/6v304s6 Maison & Partners]{{efn|name=internal poll}}
+| 12–15 June 2020
+| 43%
+| style="background:#fbcc99;"| '''46%'''
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/143457/z-tym-rywalem-andrzej-duda-przegrywa-w-drugiej-turze-sensacyjna-prognoza.html Estymator]
+| 12–13 June 2020
+| style="background:lightsteelblue;"| '''50.7%'''
+| 49.3%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-ibris-dla-wp-andrzej-duda-czy-rafal-trzaskowski-wynik-w-ii-turze-pachnie-sensacja-6521456025028737a IBRiS]
+| 12–13 June 2020
+| style="background:lightsteelblue;"| '''48.8%'''
+| 48.0%
+| 3.2%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200614205855/https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html |date=2020-06-14 }}
+| 9–10 June 2020
+| style="background:lightsteelblue;"| '''53%'''
+| 47%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200619414-Sondaz-Kantar-W-drugiej-turze-Trzaskowski-wygralby-z-Duda.html Kantar]
+| 5–10 June 2020
+| 41%
+| style="background:#fbcc99;"| '''43%'''
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/504486-najnowszy-sondaz-prezydencki-druga-tura-sprawdz-wyniki Social Changes]
+| 5–9 June 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 45%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/142708/sondaz-dla-dorzeczypl-wyrownane-poparcie-kontrkandydatow-dudy.html Estymator]
+| 3–4 June 2020
+| style="background:lightsteelblue;"| '''51.1%'''
+| 48.9%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/48387290/sondaz-prezydencki-jak-andrzej-duda-radzi-sobie-w-obu-turach Pollster]
+| 2–3 June 2020
+| style="background:lightsteelblue;"| '''53%'''
+| 47%
+| -
+|-
+| style="background:lightsteelblue;" | [https://twitter.com/SondazeP/status/1268061360358916096 N/A]{{efn|PiS / Duda's campaign staff internal poll}}
+| 1–2 June 2020
+| 47%
+| style="background:#fbcc99;"| '''53%'''
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/503396-druga-tura-andrzej-duda-zwieksza-przewage-nad-trzaskowskim Social Changes]
+| 29 May–2 June 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 42%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-kosiniak-kamysz-holownia-i-trzaskows,nId,4529962 United Survey]
+| 29 May 2020
+| style="background:lightsteelblue;"| '''44.5%'''
+| 44.3%
+| 11.2%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/najnowszy-sondaz-prezydencki-dla-wp-ii-tura-miedzy-andrzejem-duda-i-rafalem-trzaskowski-mala-roznica-6516778418473089a IBRiS]
+| 29 May 2020
+| style="background:lightsteelblue;"| '''49.0%'''
+| 46.4%
+| 4.6%
+|-
+| style="background:lightsteelblue;" | [https://wyborcza.pl/7,75398,25992247,badanie-swps-32-25-duda-slabnie-trzaskowski-przeciwnie.html SWPS]
+| 28–29 May 2020
+| 43%
+| style="background:#fbcc99;"| '''57%'''
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/wybory-prezydenckie-2020-kapitalny-wynik-trzaskowskiego-w-drugiej-turze-duda-w-opalach-sondaz-aa-jR38-VEhh-ParL.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200625080920/https://www.se.pl/wiadomosci/polityka/wybory-prezydenckie-2020-kapitalny-wynik-trzaskowskiego-w-drugiej-turze-duda-w-opalach-sondaz-aa-jR38-VEhh-ParL.html |date=2020-06-25 }}{{efn|Determined people, without undecided ones}}
+| 26–27 May 2020
+| style="background:lightsteelblue;"| '''51.32%'''
+| 48.68%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/502371-ii-tura-najnowszy-sondaz-to-bedzie-bardzo-wyrownany-boj Social Changes]
+| 22–25 May 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 45%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-prawie-41-proc-dla-andrzeja-dudy/7ybbd3f?%3F Maison & Partners]{{efn|name=internal poll}}
+| N/A May 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 42%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/305259893-Sondaz-Bedzie-II-tura-Duda-prowadzi-o-wlos.html IBRiS]
+| 22–23 May 2020
+| style="background:lightsteelblue;"| '''49.6%'''
+| 44.7%
+| 5.7%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/141140/nie-obedzie-sie-bez-drugiej-tury-z-jednym-rywalem-andrzej-duda-wygrywa-o-wlos.html Estymator]
+| 21–22 May 2020
+| style="background:lightsteelblue;"| '''54.2%'''
+| 45.8%
+| -
+|-
+| style="background:lightsteelblue;" |[https://wiadomosci.onet.pl/tylko-w-onecie/jacek-kurski-wraca-do-zarzadu-tvp-znamy-kulisy-analiza/0rtmqtk?srcc=ucs N/A]{{efn|PiS / Duda's campaign staff internal poll}}
+| N/A May 2020
+| 45%
+|style="background:#fbcc99;"| '''55%'''
+| -
+|-
+| style="background:lightsteelblue;" |[https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Wybory-2020.-Sondaz-Kantar.-Duda-ponizej-40-proc.-W-II-turze-z-Trzaskowskim-lub-Holownia Kantar]
+| 18–19 May 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 41%
+| 11%
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/501257-andrzej-duda-kontra-r-trzaskowski-w-ii-turze-kto-wygrywa Social Changes]
+| 11–18 May 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 41%
+| 11%
+|-
+| style="background:lightsteelblue;" |[https://www.se.pl/wiadomosci/polityka/sondaz-druga-tura-duda-i-kosiniak-kamysz-niewielka-roznica-wybory-prezydenckie-2020-aa-9x9P-9eVw-K7Kw.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200627125713/https://www.se.pl/wiadomosci/polityka/sondaz-druga-tura-duda-i-kosiniak-kamysz-niewielka-roznica-wybory-prezydenckie-2020-aa-9x9P-9eVw-K7Kw.html |date=2020-06-27 }}
+| 15–17 May 2020
+| style="background:lightsteelblue;"| '''53%'''
+| 47%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.gazetaprawna.pl/artykuly/1477261,wybory-prezydenckie-ii-tura-sondaz.html United Survey]
+| 15 May 2020
+| style="background:lightsteelblue;"| '''49.3%'''
+| 40.5%
+| 10.2%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/sondaz-zaskakujacy-zwyciezca-ii-tury-wyborow-prezydenckich-6366432101652609a IBSP]
+| 31 January–6 February 2019
+| 47.9%
+| style="background:#fbcc99;"| '''49.3%'''
+| 2.8%
+|}
+<onlyinclude>
+
+==Pre-first round polls==
+
+===Duda v. Hołownia===
+[[File:A999999998.png|alt=|thumb|Duda vs Hołownia polls average]]
+</onlyinclude>
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| style="background:#f9c013;"|
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Szymon Hołownia|Hołownia]]<br/><small>[[Independent (politician)|IN]]</small>
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629451-Sondaz-dla-Wiadomosci-Duda-ponad-41-proc-Trzaskowski-ponad-30-proc.html Indicator]
+| 23–26 June 2020
+| style="background:lightsteelblue;"| '''50.6%'''
+| 49.4%
+| -
+|-
+| style="background:lightsteelblue;" | [https://oko.press/trzaskowski-48-proc-duda-44-proc-pis-moze-stracic-prezydenta-sondaz-oko-press/ IPSOS]
+| 22–23 June 2020
+| 44%
+| style="background:#fcde83;"| '''49%'''
+| 7%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/506232-najnowszy-sondaz-prezydencki-ii-tura-andrzej-duda-wygrywa Social Changes]
+| 19–23 June 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 44%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo Pollster] {{Webarchive|url=https://web.archive.org/web/20200624225903/https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo |date=2020-06-24 }}
+| 22 June 2020
+| 48%
+| style="background:#fcde83;"| '''52%'''
+| -
+|-
+| style="background:lightsteelblue;" | [https://oko.press/trzaskowski-juz-remisuje-z-duda-a-holownia-wygrywa-duda-stracil-glosy-konfederatow/ IPSOS]
+| 16–17 June 2020
+| 44%
+| style="background:#fcde83;"| '''48%'''
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/505325-najnowszy-sondaz-prezydencki-ii-tura-sprawdz-wyniki Social Changes]
+| 12–16 June 2020
+| '''44%'''
+| '''44%'''
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-2020-sondaz-andrzej-duda-przegrywa-w-ii-turze/6v304s6 Maison & Partners]{{efn|name=internal poll}}
+| 12–15 June 2020
+| 42%
+| style="background:#fcde83;"| '''50%'''
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/143457/z-tym-rywalem-andrzej-duda-przegrywa-w-drugiej-turze-sensacyjna-prognoza.html Estymator]
+| 12–13 June 2020
+| 49.8%
+| style="background:#fcde83;"| '''50.2%'''
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200614205855/https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html |date=2020-06-14 }}
+| 9–10 June 2020
+| style="background:lightsteelblue;"| '''53%'''
+| 47%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/504486-najnowszy-sondaz-prezydencki-druga-tura-sprawdz-wyniki Social Changes]
+| 5–9 June 2020
+| 45%
+| style="background:#fcde83;"| '''47%'''
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200619414-Sondaz-Kantar-W-drugiej-turze-Trzaskowski-wygralby-z-Duda.html Kantar]
+| 5–10 June 2020
+| 41%
+| style="background:#fcde83;"| '''43%'''
+| 16%
+|-
+
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/142708/sondaz-dla-dorzeczypl-wyrownane-poparcie-kontrkandydatow-dudy.html Estymator]
+| 3–4 June 2020
+| style="background:lightsteelblue;"| '''50.4%'''
+| 49.6%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/48387290/sondaz-prezydencki-jak-andrzej-duda-radzi-sobie-w-obu-turach Pollster]
+| 2–3 June 2020
+| style="background:lightsteelblue;"| '''52%'''
+| 48%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/503396-druga-tura-andrzej-duda-zwieksza-przewage-nad-trzaskowskim Social Changes]
+| 29 May–2 June 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 45%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-kosiniak-kamysz-holownia-i-trzaskows,nId,4529962 United Survey]
+| 29 May 2020
+| style="background:lightsteelblue;"| '''43.4%'''
+| 43.1%
+| 13.5%
+|-
+| style="background:lightsteelblue;" | [https://wyborcza.pl/7,75398,25992247,badanie-swps-32-25-duda-slabnie-trzaskowski-przeciwnie.html SWPS]
+| 28–29 May 2020
+| 39%
+| style="background:#fcde83;"| '''61%'''
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/sondaz-se-pokazuje-jasno-dudzie-przybyl-powazny-konkurent-aa-ReND-Mgax-bEKK.html Pollster]
+| 26–27 May 2020
+| style="background:lightsteelblue;"| '''55.43%'''
+| 44.57%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/502371-ii-tura-najnowszy-sondaz-to-bedzie-bardzo-wyrownany-boj Social Changes]
+| 22–25 May 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 45%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-prawie-41-proc-dla-andrzeja-dudy/7ybbd3f?%3F Maison & Partners]{{efn|name=internal poll}}
+| N/A May 2020
+| 46%
+| style="background:#fcde83;"| '''47%'''
+| 7%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/305259893-Sondaz-Bedzie-II-tura-Duda-prowadzi-o-wlos.html IBRiS]
+| 22–23 May 2020
+| style="background:lightsteelblue;"| '''49.8%'''
+| 45.4%
+| 4.8%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/141140/nie-obedzie-sie-bez-drugiej-tury-z-jednym-rywalem-andrzej-duda-wygrywa-o-wlos.html Estymator]
+| 21–22 May 2020
+| style="background:lightsteelblue;"| '''50.9%'''
+| 49.1%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Wybory-2020.-Sondaz-Kantar.-Duda-ponizej-40-proc.-W-II-turze-z-Trzaskowskim-lub-Holownia Kantar]
+| 18–19 May 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 45%
+| 8%
+|-
+| rowspan=2 style="background:lightsteelblue;" |[https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-maleje-przewaga-dudy-nad-holownia/g046kl1 Maison & Partners]{{efn|name=internal poll}}
+| 15–18 May 2020{{efn|name=july}}
+| 38%
+| style="background:#fcde83;"| '''51%'''
+| 11%
+|-
+| 15–18 May 2020{{efn|name=24may}}
+| style="background:lightsteelblue;"| '''47%'''
+| 46%
+| 7%
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/501257-andrzej-duda-kontra-r-trzaskowski-w-ii-turze-kto-wygrywa Social Changes]
+| 11–18 May 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 44%
+| 10%
+|-
+| style="background:lightsteelblue;" |[https://www.se.pl/wiadomosci/polityka/sondaz-druga-tura-duda-i-kosiniak-kamysz-niewielka-roznica-wybory-prezydenckie-2020-aa-9x9P-9eVw-K7Kw.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200627125713/https://www.se.pl/wiadomosci/polityka/sondaz-druga-tura-duda-i-kosiniak-kamysz-niewielka-roznica-wybory-prezydenckie-2020-aa-9x9P-9eVw-K7Kw.html |date=2020-06-27 }}
+| 15–17 May 2020
+| style="background:lightsteelblue;"| '''51%'''
+| 49%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/499706-druga-tura-najgrozniejszy-rywal-prezydenta-holownia Social Changes]
+| 1–4 May 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 35%
+| 9%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/497799-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 17–20 April 2020
+| style="background:lightsteelblue;"| '''62%'''
+| 30%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/koronawirus-polska-wybory-prezydenckie-2020-sondaz/z6p668r Kantar]
+| 16–17 April 2020
+| style="background:lightsteelblue;"| '''69%'''
+| 23%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/496603-andrzej-duda-utrzymuje-jednoznaczna-przewage-w-ii-turze Social Changes]
+| 10–13 April 2020
+| style="background:lightsteelblue;"| '''61%'''
+| 28%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-potrzebna-druga-tura-holownia-drugi/hz69r0v Maison & Partners]{{efn|name=internal poll}}
+| 3–7 April 2020
+| 34%
+| style="background:#fcde83;"| '''43%'''
+| 23%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/495750-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 3–6 April 2020
+| style="background:lightsteelblue;"| '''55%'''
+| 31%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/494659-druga-tura-prezydent-wygrywa-z-kandydatka-ko-w-stosunku-21 Social Changes]
+| 27–30 March 2020
+| style="background:lightsteelblue;"| '''57%'''
+| 32%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/493504-w-ii-turze-andrzej-duda-pewnie-wygrywa-z-kazdym-z-rywali Social Changes]
+| 20–23 March 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 38%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/sondaze/news-sondaz-prezydencki-kantar-duda-zyskuje-i-wygrywa-ze-wszystki,nId,4385098 Kantar]
+| 6–11 March 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 30%
+| 24%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/491667-rosnie-przewaga-andrzeja-dudy-nad-rywalami-w-drugiej-turze Social Changes]
+| 6–10 March 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 41%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/490526-w-ii-turze-andrzej-duda-wygrywa-ze-wszystkimi-ale-na-styk Social Changes]
+| 28 February-2 March 2020
+| style="background:lightsteelblue;"| '''43%'''
+| 42%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/46903322/sondaz-druga-tura-pewna-sprawdzono-wyniki-starcia-andrzeja-dudy-z-kazdym-kontrkandydatem Indicator]
+| 26–28 February 2020
+| style="background:lightsteelblue;"| '''53.2%'''
+| 46.8%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-prezydencki-dla-super-expressu-holownia-lepszy-od-kidawy-blonskiej-aa-N32E-Wsmm-jDg6.html Pollster]
+| 24–26 February 2020
+| style="background:lightsteelblue;"| '''51.99%'''
+| 48.01%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/489756-czy-w-ii-turze-prezydent-duda-wciaz-wygrywa-ze-wszystkimi Social Changes]
+| 21–24 February 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 42%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/dogonili-dude-przelomowy-sondaz-prezydencki-oko-press/ IPSOS]
+| 20–22 February 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 45%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/rosnie-poparcie-dla-andrzeja-dudy-sondaz-ibsp/ IBSP]
+| 18–20 February 2020
+| style="background:lightsteelblue;"| '''52.08%'''
+| 47.92%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/488431-andrzej-duda-wciaz-wygrywa-ze-wszystkimi-rywalami-w-ii-turze Social Changes]
+| 14–18 February 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 42%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://fakty.interia.pl/raporty/raport-wybory-prezydenckie-2020/aktualnosci/news-andrzej-duda-z-przewaga-nad-innymi-kandydatami-sondaz-cbos,nId,4377354 CBOS]
+| 6–16 February 2020
+| style="background:lightsteelblue;"| '''54%'''
+| 27%
+| 19%
+|-
+| style="background:lightsteelblue;" | [https://polskatimes.pl/wybory-prezydenckie-2020-sondaz-polska-press-grupy-i-dobrej-opinii-wynik-do-konca-bedzie-niewiadoma/ar/c1-14791860 Dobra Opinia]
+| 10–14 February 2020
+| style="background:lightsteelblue;"| '''50.4%'''
+| 49.6%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Nowy-sondaz-prezydencki.-Andrzej-Duda-ze-wzrostem-poparcia Kantar]
+| 7–12 February 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 36%
+| 17%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/487406-rosnie-przewaga-prezydenta-nad-rywalami-w-ii-turze-wyborow Social Changes]
+| 7–11 February 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 39%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/486886-andrzej-duda-kontra-rywale-w-ii-turze-najnowszy-sondaz Social Changes]
+| 1–4 February 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 42%
+| 14%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-maison-partners-30-01-2020/ Maison & Partners] {{Webarchive|url=https://web.archive.org/web/20200203071513/http://ewybory.eu/sondaz-prezydencki-maison-partners-30-01-2020/ |date=2020-02-03 }}{{efn|name=internal poll}}
+| 24–28 January 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 43%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/485634-czy-prezydent-duda-wciaz-wygrywa-ze-wszystkimi-w-ii-turze Social Changes]
+| 24–27 January 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 38%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/484594-w-drugiej-turze-andrzej-duda-wygrywa-ze-wszystkimi-sprawdz Social Changes]
+| 17–21 January 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 37%
+| 18%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/482961-andrzej-duda-zwieksza-przewaga-nad-rywalami-w-ii-turze Social Changes]
+| 10–14 January 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 38%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-prezydencki-dla-rmf-fm-i-dgp-andrzej-duda-wygrywa-ze-,nId,4259132 United Survey]
+| 10–11 January 2020
+| style="background:lightsteelblue;"| '''51.4%'''
+| 31.2%
+| 17.4%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/482448-jak-wypada-prezydent-w-ii-turze-przeciwko-trojce-rywali Social Changes]
+| 3–7 January 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 41%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/480979-najgrozniejszy-rywal-andrzeja-dudy-w-drugiej-turze-holownia Social Changes]
+| 27–31 December 2019
+| style="background:lightsteelblue;"| '''42%'''
+| 41%
+| 17%
+|}
+<onlyinclude>
+
+===Duda v. Kosiniak-Kamysz===
+[[File:A999999997.png|alt=|thumb|Duda vs Kosiniak-Kamysz polls average]]
+</onlyinclude>
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Polish People's Party}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Władysław Kosiniak-Kamysz|Kosiniak-Kamysz]]<br/><small>[[Polish People's Party|PSL]]</small>
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629451-Sondaz-dla-Wiadomosci-Duda-ponad-41-proc-Trzaskowski-ponad-30-proc.html Indicator]
+| 23–26 June 2020
+| style="background:lightsteelblue;"| '''51.9%'''
+| 48.1%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/506232-najnowszy-sondaz-prezydencki-ii-tura-andrzej-duda-wygrywa Social Changes]
+| 19–23 June 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 41%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo Pollster] {{Webarchive|url=https://web.archive.org/web/20200624225903/https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo |date=2020-06-24 }}
+| 22 June 2020
+| '''50%'''
+| '''50%'''
+| -
+|-
+| style="background:lightsteelblue;" | [https://oko.press/trzaskowski-juz-remisuje-z-duda-a-holownia-wygrywa-duda-stracil-glosy-konfederatow/ IPSOS]
+| 16–17 June 2020
+| '''45%'''
+| '''45%'''
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/505325-najnowszy-sondaz-prezydencki-ii-tura-sprawdz-wyniki Social Changes]
+| 12–16 June 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 42%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/143457/z-tym-rywalem-andrzej-duda-przegrywa-w-drugiej-turze-sensacyjna-prognoza.html Estymator]
+| 12–13 June 2020
+| style="background:lightsteelblue;"| '''50.1%'''
+| 49.9%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200614205855/https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html |date=2020-06-14 }}
+| 9–10 June 2020
+| style="background:lightsteelblue;"| '''51%'''
+| 49%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/504486-najnowszy-sondaz-prezydencki-druga-tura-sprawdz-wyniki Social Changes]
+| 5–9 June 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 44%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/142708/sondaz-dla-dorzeczypl-wyrownane-poparcie-kontrkandydatow-dudy.html Estymator]
+| 3–4 June 2020
+| style="background:lightsteelblue;"| '''50.9%'''
+| 49.1%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/48387290/sondaz-prezydencki-jak-andrzej-duda-radzi-sobie-w-obu-turach Pollster]
+| 2–3 June 2020
+| style="background:lightsteelblue;"| '''51%'''
+| 49%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/503396-druga-tura-andrzej-duda-zwieksza-przewage-nad-trzaskowskim Social Changes]
+| 29 May–2 June 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 42%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-kosiniak-kamysz-holownia-i-trzaskows,nId,4529962 United Survey]
+| 29 May 2020
+| '''45.3%'''
+| '''45.3%'''
+| 9.4%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/sondaz-se-pokazuje-jasno-dudzie-przybyl-powazny-konkurent-aa-ReND-Mgax-bEKK.html Pollster]
+| 26–27 May 2020
+| style="background:lightsteelblue;"| '''51.99%'''
+| 48.01%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/502371-ii-tura-najnowszy-sondaz-to-bedzie-bardzo-wyrownany-boj Social Changes]
+| 22–25 May 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 44%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/305259893-Sondaz-Bedzie-II-tura-Duda-prowadzi-o-wlos.html IBRiS]
+| 22–23 May 2020
+| style="background:lightsteelblue;"| '''47.7%'''
+| 47.0%
+| 5.3%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/141140/nie-obedzie-sie-bez-drugiej-tury-z-jednym-rywalem-andrzej-duda-wygrywa-o-wlos.html Estymator]
+| 21–22 May 2020
+| style="background:lightsteelblue;"| '''53.2%'''
+| 46.8%
+| -
+|-
+| style="background:lightsteelblue;" |[https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Wybory-2020.-Sondaz-Kantar.-Duda-ponizej-40-proc.-W-II-turze-z-Trzaskowskim-lub-Holownia Kantar]
+| 18–19 May 2020
+| style="background:lightsteelblue;"| '''50%'''
+| 39%
+| 11%
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/501257-andrzej-duda-kontra-r-trzaskowski-w-ii-turze-kto-wygrywa Social Changes]
+| 11–18 May 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 40%
+| 12%
+|-
+| style="background:lightsteelblue;" |[https://www.se.pl/wiadomosci/polityka/sondaz-druga-tura-duda-i-kosiniak-kamysz-niewielka-roznica-wybory-prezydenckie-2020-aa-9x9P-9eVw-K7Kw.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200627125713/https://www.se.pl/wiadomosci/polityka/sondaz-druga-tura-duda-i-kosiniak-kamysz-niewielka-roznica-wybory-prezydenckie-2020-aa-9x9P-9eVw-K7Kw.html |date=2020-06-27 }}
+| 15–17 May 2020
+| style="background:lightsteelblue;"| '''51%'''
+| 49%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/499706-druga-tura-najgrozniejszy-rywal-prezydenta-holownia Social Changes]
+| 1–4 May 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 31%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/497799-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 17–20 April 2020
+| style="background:lightsteelblue;"| '''59%'''
+| 30%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/koronawirus-polska-wybory-prezydenckie-2020-sondaz/z6p668r Kantar]
+| 16–17 April 2020
+| style="background:lightsteelblue;"| '''66%'''
+| 22%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/496603-andrzej-duda-utrzymuje-jednoznaczna-przewage-w-ii-turze Social Changes]
+| 10–13 April 2020
+| style="background:lightsteelblue;"| '''60%'''
+| 28%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-potrzebna-druga-tura-holownia-drugi/hz69r0v Maison & Partners]{{efn|name=internal poll}}
+| 3–7 April 2020
+| 35%
+| style="background:#a8ff99;"| '''41%'''
+| 24%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/495750-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 3–6 April 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 34%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/494659-druga-tura-prezydent-wygrywa-z-kandydatka-ko-w-stosunku-21 Social Changes]
+| 27–30 March 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 34%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/493504-w-ii-turze-andrzej-duda-pewnie-wygrywa-z-kazdym-z-rywali Social Changes]
+| 20–23 March 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 39%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-ponad-70-proc-polakow-uwaza-ze-wybor,nId,4397811 United Survey]
+| 20 March 2020
+| style="background:lightsteelblue;"| '''49.2%'''
+| 36.6%
+| 14.2%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/andrzej-duda-wygrywa-w-i-turze-sondaz-ibsp/ IBSP]
+| 10–13 March 2020
+| style="background:lightsteelblue;"| '''54.91%'''
+| 45.09%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/sondaze/news-sondaz-prezydencki-kantar-duda-zyskuje-i-wygrywa-ze-wszystki,nId,4385098 Kantar]
+| 6–11 March 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 35%
+| 18%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/491667-rosnie-przewaga-andrzeja-dudy-nad-rywalami-w-drugiej-turze Social Changes]
+| 6–10 March 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 41%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/490526-w-ii-turze-andrzej-duda-wygrywa-ze-wszystkimi-ale-na-styk Social Changes]
+| 28 February-2 March 2020
+| style="background:lightsteelblue;"| '''43%'''
+| 42%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/46903322/sondaz-druga-tura-pewna-sprawdzono-wyniki-starcia-andrzeja-dudy-z-kazdym-kontrkandydatem Indicator]
+| 26–28 February 2020
+| style="background:lightsteelblue;"| '''53.1%'''
+| 46.9%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/489756-czy-w-ii-turze-prezydent-duda-wciaz-wygrywa-ze-wszystkimi Social Changes]
+| 21–24 February 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 40%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/fakty/news-sondaz-dla-dgp-i-rmf-fm-zaskakujace-wyniki-ii-tury-wyborow-p,nId,4343257 United Survey]
+| 22 February 2020
+| 43.9%
+| style="background:#a8ff99;"| '''45.9%'''
+| 10.3%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/dogonili-dude-przelomowy-sondaz-prezydencki-oko-press/ IPSOS]
+| 20–22 February 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 45%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/rosnie-poparcie-dla-andrzeja-dudy-sondaz-ibsp/ IBSP]
+| 18–20 February 2020
+| style="background:lightsteelblue;"| '''52.23%'''
+| 47.77%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/488431-andrzej-duda-wciaz-wygrywa-ze-wszystkimi-rywalami-w-ii-turze Social Changes]
+| 14–18 February 2020
+| style="background:lightsteelblue;"| '''42%'''
+| 39%
+| 19%
+|-
+| style="background:lightsteelblue;" | [https://fakty.interia.pl/raporty/raport-wybory-prezydenckie-2020/aktualnosci/news-andrzej-duda-z-przewaga-nad-innymi-kandydatami-sondaz-cbos,nId,4377354 CBOS]
+| 6–16 February 2020
+| style="background:lightsteelblue;"| '''54%'''
+| 31%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://polskatimes.pl/wybory-prezydenckie-2020-sondaz-polska-press-grupy-i-dobrej-opinii-wynik-do-konca-bedzie-niewiadoma/ar/c1-14791860 Dobra Opinia]
+| 10–14 February 2020
+| style="background:lightsteelblue;"| '''50.8%'''
+| 49.2%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/487406-rosnie-przewaga-prezydenta-nad-rywalami-w-ii-turze-wyborow Social Changes]
+| 7–11 February 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 40%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/486886-andrzej-duda-kontra-rywale-w-ii-turze-najnowszy-sondaz Social Changes]
+| 1–4 February 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 39%
+| 16%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-maison-partners-30-01-2020/ Maison & Partners] {{Webarchive|url=https://web.archive.org/web/20200203071513/http://ewybory.eu/sondaz-prezydencki-maison-partners-30-01-2020/ |date=2020-02-03 }}{{efn|name=internal poll}}
+| 24–28 January 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 41%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/485634-czy-prezydent-duda-wciaz-wygrywa-ze-wszystkimi-w-ii-turze Social Changes]
+| 24–27 January 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 38%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/484594-w-drugiej-turze-andrzej-duda-wygrywa-ze-wszystkimi-sprawdz Social Changes]
+| 17–21 January 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 39%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/482961-andrzej-duda-zwieksza-przewaga-nad-rywalami-w-ii-turze Social Changes]
+| 10–14 January 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 36%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-prezydencki-dla-rmf-fm-i-dgp-andrzej-duda-wygrywa-ze-,nId,4259132 United Survey]
+| 10–11 January 2020
+| style="background:lightsteelblue;"| '''49.1%'''
+| 36.0%
+| 14.8%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/482448-jak-wypada-prezydent-w-ii-turze-przeciwko-trojce-rywali Social Changes]
+| 3–7 January 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 39%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/480979-najgrozniejszy-rywal-andrzeja-dudy-w-drugiej-turze-holownia Social Changes]
+| 27–31 December 2019
+| style="background:lightsteelblue;"| '''46%'''
+| 34%
+| 20%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/477430-tylko-jeden-polityk-opozycji-ma-szanse-w-ii-turze-sprawdz Social Changes]
+| 28 November-3 December 2019
+| style="background:lightsteelblue;"| '''46%'''
+| 34%
+| 20%
+|}
+<onlyinclude>
+
+===Duda v. Biedroń===
+[[File:A999999996.png|alt=|thumb|Duda vs Biedroń polls average]]
+</onlyinclude>
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| style="background:#ac145a;"|
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Robert Biedroń|Biedroń]]<br/><small>[[The Left (Poland)|LEFT]]</small>
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629451-Sondaz-dla-Wiadomosci-Duda-ponad-41-proc-Trzaskowski-ponad-30-proc.html Indicator]
+| 23–26 June 2020
+| style="background:lightsteelblue;"| '''55.7%'''
+| 44.3%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/506232-najnowszy-sondaz-prezydencki-ii-tura-andrzej-duda-wygrywa Social Changes]
+| 19–23 June 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 40%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo Pollster] {{Webarchive|url=https://web.archive.org/web/20200624225903/https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo |date=2020-06-24 }}
+| 22 June 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 44%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/505325-najnowszy-sondaz-prezydencki-ii-tura-sprawdz-wyniki Social Changes]
+| 12–16 June 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 39%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200614205855/https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html |date=2020-06-14 }}
+| 9–10 June 2020
+| style="background:lightsteelblue;"| '''53%'''
+| 47%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/504486-najnowszy-sondaz-prezydencki-druga-tura-sprawdz-wyniki Social Changes]
+| 5–9 June 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 41%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/48387290/sondaz-prezydencki-jak-andrzej-duda-radzi-sobie-w-obu-turach Pollster]
+| 2–3 June 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 44%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/503396-druga-tura-andrzej-duda-zwieksza-przewage-nad-trzaskowskim Social Changes]
+| 29 May–2 June 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 38%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-kosiniak-kamysz-holownia-i-trzaskows,nId,4529962 United Survey]
+| 29 May 2020
+| style="background:lightsteelblue;"| '''46.1%'''
+| 40.9%
+| 13.0%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/sondaz-se-pokazuje-jasno-dudzie-przybyl-powazny-konkurent-aa-ReND-Mgax-bEKK.html Pollster]
+| 26–27 May 2020
+| style="background:lightsteelblue;"| '''55.07%'''
+| 44.93%
+| -
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/502371-ii-tura-najnowszy-sondaz-to-bedzie-bardzo-wyrownany-boj Social Changes]
+| 22–25 May 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 40%
+| 15%
+|-
+| style="background:lightsteelblue;" |[https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Wybory-2020.-Sondaz-Kantar.-Duda-ponizej-40-proc.-W-II-turze-z-Trzaskowskim-lub-Holownia Kantar]
+| 18–19 May 2020
+| style="background:lightsteelblue;"| '''52%'''
+| 35%
+| 13%
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/501257-andrzej-duda-kontra-r-trzaskowski-w-ii-turze-kto-wygrywa Social Changes]
+| 11–18 May 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 37%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/499706-druga-tura-najgrozniejszy-rywal-prezydenta-holownia Social Changes]
+| 1–4 May 2020
+| style="background:lightsteelblue;"| '''57%'''
+| 29%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/497799-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 17–20 April 2020
+| style="background:lightsteelblue;"| '''63%'''
+| 25%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/koronawirus-polska-wybory-prezydenckie-2020-sondaz/z6p668r Kantar]
+| 16–17 April 2020
+| style="background:lightsteelblue;"| '''66%'''
+| 23%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/496603-andrzej-duda-utrzymuje-jednoznaczna-przewage-w-ii-turze Social Changes]
+| 10–13 April 2020
+| style="background:lightsteelblue;"| '''62%'''
+| 24%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/495750-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 3–6 April 2020
+| style="background:lightsteelblue;"| '''60%'''
+| 27%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/494659-druga-tura-prezydent-wygrywa-z-kandydatka-ko-w-stosunku-21 Social Changes]
+| 27–30 March 2020
+| style="background:lightsteelblue;"| '''58%'''
+| 30%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/493504-w-ii-turze-andrzej-duda-pewnie-wygrywa-z-kazdym-z-rywali Social Changes]
+| 20–23 March 2020
+| style="background:lightsteelblue;"| '''50%'''
+| 37%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/sondaze/news-sondaz-prezydencki-kantar-duda-zyskuje-i-wygrywa-ze-wszystki,nId,4385098 Kantar]
+| 6–11 March 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 31%
+| 21%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/491667-rosnie-przewaga-andrzeja-dudy-nad-rywalami-w-drugiej-turze Social Changes]
+| 6–10 March 2020
+| style="background:lightsteelblue;"| '''51%'''
+| 35%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/490526-w-ii-turze-andrzej-duda-wygrywa-ze-wszystkimi-ale-na-styk Social Changes]
+| 28 February-2 March 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 39%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/46903322/sondaz-druga-tura-pewna-sprawdzono-wyniki-starcia-andrzeja-dudy-z-kazdym-kontrkandydatem Indicator]
+| 26–28 February 2020
+| style="background:lightsteelblue;"| '''55.1%'''
+| 44.9%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/489756-czy-w-ii-turze-prezydent-duda-wciaz-wygrywa-ze-wszystkimi Social Changes]
+| 21–24 February 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 36%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/dogonili-dude-przelomowy-sondaz-prezydencki-oko-press/ IPSOS]
+| 20–22 February 2020
+| style="background:lightsteelblue;"| '''51%'''
+| 41%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/rosnie-poparcie-dla-andrzeja-dudy-sondaz-ibsp/ IBSP]
+| 18–20 February 2020
+| style="background:lightsteelblue;"| '''54.64%'''
+| 45.36%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/488431-andrzej-duda-wciaz-wygrywa-ze-wszystkimi-rywalami-w-ii-turze Social Changes]
+| 14–18 February 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 38%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://fakty.interia.pl/raporty/raport-wybory-prezydenckie-2020/aktualnosci/news-andrzej-duda-z-przewaga-nad-innymi-kandydatami-sondaz-cbos,nId,4377354 CBOS]
+| 6–16 February 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 27%
+| 17%
+|-
+| style="background:lightsteelblue;" | [https://polskatimes.pl/wybory-prezydenckie-2020-sondaz-polska-press-grupy-i-dobrej-opinii-wynik-do-konca-bedzie-niewiadoma/ar/c1-14791860 Dobra Opinia]
+| 10–14 February 2020
+| style="background:lightsteelblue;"| '''57%'''
+| 43%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Nowy-sondaz-prezydencki.-Andrzej-Duda-ze-wzrostem-poparcia Kantar]
+| 7–12 February 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 33%
+| 19%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/487406-rosnie-przewaga-prezydenta-nad-rywalami-w-ii-turze-wyborow Social Changes]
+| 7–11 February 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 36%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/486886-andrzej-duda-kontra-rywale-w-ii-turze-najnowszy-sondaz Social Changes]
+| 1–4 February 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 37%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/485634-czy-prezydent-duda-wciaz-wygrywa-ze-wszystkimi-w-ii-turze Social Changes]
+| 24–27 January 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 37%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/484594-w-drugiej-turze-andrzej-duda-wygrywa-ze-wszystkimi-sprawdz Social Changes]
+| 17–21 January 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 35%
+| 18%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/482961-andrzej-duda-zwieksza-przewaga-nad-rywalami-w-ii-turze Social Changes]
+| 10–14 January 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 34%
+| 18%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-prezydencki-dla-rmf-fm-i-dgp-andrzej-duda-wygrywa-ze-,nId,4259132 United Survey]
+| 10–11 January 2020
+| style="background:lightsteelblue;"| '''54.1%'''
+| 31.0%
+| 14.8%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Polityka/311219909-Sondaz-prezydencki-Tusk-pol-kroku-za-Duda.html IBRiS]
+| 13 November 2018
+| style="background:lightsteelblue;"| '''49%'''
+| 41%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/najnowszy-sondaz-prezydencki-dla-faktow-tvn-i-tvn24,833569.html Millward Brown]
+| 25–26 April 2018
+| style="background:lightsteelblue;"| '''58%'''
+| 40%
+| 2%
+|-
+| style="background:lightsteelblue;" | [http://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-prezydencki-biedron-ma-35-proc_1023105.html IBRiS]
+| 14–15 October 2017
+| style="background:lightsteelblue;"| '''51.4%'''
+| 35.1%
+| 13.5%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/tylko-w-wp-pis-jest-skazane-na-andrzeja-dude-mamy-wyniki-najnowszego-sondazu-6150537218131585a Ariadna]
+| 28–31 July 2017
+| style="background:lightsteelblue;"| '''51%'''
+| 32%
+| 17%
+|-
+| style="background:lightsteelblue;"| [https://wiadomosci.wp.pl/tylko-w-wp-wyniki-sondazu-prezydenckiego-tusk-ostatnia-nadzieja-opozycji-6133515244373633a Ariadna]
+| 12–16 May 2017
+| style="background:lightsteelblue;"| '''47%'''
+| 31%
+| 22%
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.wp.pl/najnowszy-sondaz-andrzej-duda-w-ii-turze-wygralby-z-donaldem-tuskiem-i-robertem-biedroniem-6123892001584769a Ariadna]
+| 12–16 May 2017
+| style="background:lightsteelblue;"| '''28.3%'''
+| 28.1%
+| 43.6%{{efn|13.8% undecided, 29.8% would not vote}}
+|-
+| style="background:lightsteelblue;"| [https://oko.press/tusk-501-proc-wygrywa-duda-499-proc-ii-turze-wyborow-prezydenckich/ IPSOS]
+| 17–19 March 2017
+| style="background:lightsteelblue;"| '''46.9%'''
+| 34.6%
+| 18.4%
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.gazeta.pl/wiadomosci/1,114871,20169831,2020-rok-ii-tura-wyborow-prezydenckich-kto-zagrozilby-dudzie.html#MT Millward Brown]
+| 20–22 May 2016
+| style="background:lightsteelblue;"| '''49%'''
+| 32%
+| 19%
+|}
+<onlyinclude>
+
+===Duda v. Bosak===
+[[File:A999999995.png|alt=|thumb|Duda vs Bosak polls average]]
+</onlyinclude>
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Confederation Liberty and Independence}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Krzysztof Bosak|Bosak]]<br/><small>[[Confederation Liberty and Independence|KWiN]]</small>
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Wybory-prezydenckie-2020/200629451-Sondaz-dla-Wiadomosci-Duda-ponad-41-proc-Trzaskowski-ponad-30-proc.html Indicator]
+| 23–26 June 2020
+| style="background:lightsteelblue;"| '''52.0%'''
+| 48.0%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/506232-najnowszy-sondaz-prezydencki-ii-tura-andrzej-duda-wygrywa Social Changes]
+| 19–23 June 2020
+| style="background:lightsteelblue;"| '''41%'''
+| 34%
+| 25%
+|-
+| style="background:lightsteelblue;" | [https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo Pollster] {{Webarchive|url=https://web.archive.org/web/20200624225903/https://tvp.info/48639887/nowy-sondaz-jeden-z-kandydatow-ma-szanse-wygrac-z-duda-w-ii-turze-wideo |date=2020-06-24 }}
+| 22 June 2020
+| style="background:lightsteelblue;"| '''58%'''
+| 42%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/505325-najnowszy-sondaz-prezydencki-ii-tura-sprawdz-wyniki Social Changes]
+| 12–16 June 2020
+| style="background:lightsteelblue;"| '''40%'''
+| 33%
+| 27%
+|-
+| style="background:lightsteelblue;" | [https://dorzeczy.pl/kraj/143457/z-tym-rywalem-andrzej-duda-przegrywa-w-drugiej-turze-sensacyjna-prognoza.html Estymator]
+| 12–13 June 2020
+| style="background:lightsteelblue;"| '''60.1%'''
+| 39.9%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html Pollster] {{Webarchive|url=https://web.archive.org/web/20200614205855/https://www.se.pl/wiadomosci/polityka/wybory-2020-najnowszy-sondaz-druga-tura-duze-zaskoczenie-aa-ELoQ-C62b-MzMr.html |date=2020-06-14 }}
+| 9–10 June 2020
+| style="background:lightsteelblue;"| '''61%'''
+| 39%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/504486-najnowszy-sondaz-prezydencki-druga-tura-sprawdz-wyniki Social Changes]
+| 5–9 June 2020
+| style="background:lightsteelblue;"| '''42%'''
+| 32%
+| 26%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/48387290/sondaz-prezydencki-jak-andrzej-duda-radzi-sobie-w-obu-turach Pollster]
+| 2–3 June 2020
+| style="background:lightsteelblue;"| '''60%'''
+| 40%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/503396-druga-tura-andrzej-duda-zwieksza-przewage-nad-trzaskowskim Social Changes]
+| 29 May–2 June 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 29%
+| 27%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-kosiniak-kamysz-holownia-i-trzaskows,nId,4529962 United Survey]
+| 29 May 2020
+| style="background:lightsteelblue;"| '''46.3%'''
+| 30.7%
+| 23.0%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/sondaz-se-pokazuje-jasno-dudzie-przybyl-powazny-konkurent-aa-ReND-Mgax-bEKK.html Pollster]
+| 26–27 May 2020
+| style="background:lightsteelblue;"| '''58.53%'''
+| 41.47%
+| -
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/502371-ii-tura-najnowszy-sondaz-to-bedzie-bardzo-wyrownany-boj Social Changes]
+| 22–25 May 2020
+| style="background:lightsteelblue;"| '''42%'''
+| 33%
+| 25%
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/501257-andrzej-duda-kontra-r-trzaskowski-w-ii-turze-kto-wygrywa Social Changes]
+| 11–18 May 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 30%
+| 23%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/499706-druga-tura-najgrozniejszy-rywal-prezydenta-holownia Social Changes]
+| 1–4 May 2020
+| style="background:lightsteelblue;"| '''57%'''
+| 27%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/497799-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 17–20 April 2020
+| style="background:lightsteelblue;"| '''60%'''
+| 21%
+| 19%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/496603-andrzej-duda-utrzymuje-jednoznaczna-przewage-w-ii-turze Social Changes]
+| 10–13 April 2020
+| style="background:lightsteelblue;"| '''61%'''
+| 26%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/495750-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 3–6 April 2020
+| style="background:lightsteelblue;"| '''55%'''
+| 23%
+| 22%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/494659-druga-tura-prezydent-wygrywa-z-kandydatka-ko-w-stosunku-21 Social Changes]
+| 27–30 March 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 23%
+| 21%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/493504-w-ii-turze-andrzej-duda-pewnie-wygrywa-z-kazdym-z-rywali Social Changes]
+| 20–23 March 2020
+| style="background:lightsteelblue;"| '''52%'''
+| 24%
+| 24%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/491667-rosnie-przewaga-andrzeja-dudy-nad-rywalami-w-drugiej-turze Social Changes]
+| 6–10 March 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 23%
+| 28%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/490526-w-ii-turze-andrzej-duda-wygrywa-ze-wszystkimi-ale-na-styk Social Changes]
+| 28 February-2 March 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 25%
+| 28%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/46903322/sondaz-druga-tura-pewna-sprawdzono-wyniki-starcia-andrzeja-dudy-z-kazdym-kontrkandydatem Indicator]
+| 26–28 February 2020
+| style="background:lightsteelblue;"| '''61.9%'''
+| 38.1%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/489756-czy-w-ii-turze-prezydent-duda-wciaz-wygrywa-ze-wszystkimi Social Changes]
+| 21–24 February 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 24%
+| 27%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/488431-andrzej-duda-wciaz-wygrywa-ze-wszystkimi-rywalami-w-ii-turze Social Changes]
+| 14–18 February 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 24%
+| 31%
+|-
+| style="background:lightsteelblue;" | [https://fakty.interia.pl/raporty/raport-wybory-prezydenckie-2020/aktualnosci/news-andrzej-duda-z-przewaga-nad-innymi-kandydatami-sondaz-cbos,nId,4377354 CBOS]
+| 6–16 February 2020
+| style="background:lightsteelblue;"| '''56%'''
+| 13%
+| 31%
+|-
+| style="background:lightsteelblue;" | [https://polskatimes.pl/wybory-prezydenckie-2020-sondaz-polska-press-grupy-i-dobrej-opinii-wynik-do-konca-bedzie-niewiadoma/ar/c1-14791860 Dobra Opinia]
+| 10–14 February 2020
+| style="background:lightsteelblue;"| '''74.5%'''
+| 25.5%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/487406-rosnie-przewaga-prezydenta-nad-rywalami-w-ii-turze-wyborow Social Changes]
+| 7–11 February 2020
+| style="background:lightsteelblue;"| '''52%'''
+| 23%
+| 25%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/486886-andrzej-duda-kontra-rywale-w-ii-turze-najnowszy-sondaz Social Changes]
+| 1–4 February 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 22%
+| 31%
+|}
+
+===Duda v. Kidawa-Błońska===
+[[File:Bez tytułu1.png|alt=|thumb|Duda vs Kidawa-Błońska polls average]]
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Civic Platform}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Małgorzata Kidawa-Błońska|Kidawa-Błońska]]<br/><small>[[Civic Platform|PO]]</small>
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/499706-druga-tura-najgrozniejszy-rywal-prezydenta-holownia Social Changes]
+| 1–4 May 2020
+| style="background:lightsteelblue;"| '''60%'''
+| 26%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/497799-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 17–20 April 2020
+| style="background:lightsteelblue;"| '''61%'''
+| 28%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/koronawirus-polska-wybory-prezydenckie-2020-sondaz/z6p668r Kantar]
+| 16–17 April 2020
+| style="background:lightsteelblue;"| '''69%'''
+| 21%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/496603-andrzej-duda-utrzymuje-jednoznaczna-przewage-w-ii-turze Social Changes]
+| 10–13 April 2020
+| style="background:lightsteelblue;"| '''62%'''
+| 25%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-sondaz-potrzebna-druga-tura-holownia-drugi/hz69r0v Maison & Partners]{{efn|name=internal poll}}
+| 3–7 April 2020
+| style="background:lightsteelblue;"| '''38%'''
+| 37%
+| 25%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/495750-druga-tura-ogromna-przewaga-andrzeja-dudy-nad-rywalami Social Changes]
+| 3–6 April 2020
+| style="background:lightsteelblue;"| '''57%'''
+| 29%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/494659-druga-tura-prezydent-wygrywa-z-kandydatka-ko-w-stosunku-21 Social Changes]
+| 27–30 March 2020
+| style="background:lightsteelblue;"| '''58%'''
+| 30%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://fakty.interia.pl/raporty/raport-wybory-prezydenckie-2020/aktualnosci/news-sondaz-10-maja-andrzej-duda-wygralby-w-pierwszej-turze,nId,4403734 Kantar]
+| 23–24 March 2020{{efn|name="after-pandemic"}}
+| style="background:lightsteelblue;"| '''53%'''
+| 39%
+| 8%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/493504-w-ii-turze-andrzej-duda-pewnie-wygrywa-z-kazdym-z-rywali Social Changes]
+| 20–23 March 2020
+| style="background:lightsteelblue;"| '''51%'''
+| 38%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-dla-rmf-fm-i-dgp-ponad-70-proc-polakow-uwaza-ze-wybor,nId,4397811 United Survey]
+| 20 March 2020
+| style="background:lightsteelblue;"| '''55.6%'''
+| 35.9%
+| 8.5%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/andrzej-duda-wygrywa-w-i-turze-sondaz-ibsp/ IBSP]
+| 10–13 March 2020
+| style="background:lightsteelblue;"| '''55.88%'''
+| 44.12%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/sondaze/news-sondaz-prezydencki-kantar-duda-zyskuje-i-wygrywa-ze-wszystki,nId,4385098 Kantar]
+| 6–11 March 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 38%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/491667-rosnie-przewaga-andrzeja-dudy-nad-rywalami-w-drugiej-turze Social Changes]
+| 6–10 March 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 38%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/490526-w-ii-turze-andrzej-duda-wygrywa-ze-wszystkimi-ale-na-styk Social Changes]
+| 28 February-2 March 2020
+| style="background:lightsteelblue;"| '''44%'''
+| 43%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://www.tvp.info/46903322/sondaz-druga-tura-pewna-sprawdzono-wyniki-starcia-andrzeja-dudy-z-kazdym-kontrkandydatem Indicator]
+| 26–28 February 2020
+| style="background:lightsteelblue;"| '''53.9%'''
+| 46.1%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-prezydencki-dla-super-expressu-holownia-lepszy-od-kidawy-blonskiej-aa-N32E-Wsmm-jDg6.html Pollster]
+| 24–26 February 2020
+| style="background:lightsteelblue;"| '''53.83%'''
+| 46.17%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/489756-czy-w-ii-turze-prezydent-duda-wciaz-wygrywa-ze-wszystkimi Social Changes]
+| 21–24 February 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 42%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/fakty/news-sondaz-dla-dgp-i-rmf-fm-zaskakujace-wyniki-ii-tury-wyborow-p,nId,4343257 United Survey]
+| 22 February 2020
+| style="background:lightsteelblue;"| '''49.6%'''
+| 41.6%
+| 8.8%
+|-
+| style="background:lightsteelblue;" | [https://oko.press/dogonili-dude-przelomowy-sondaz-prezydencki-oko-press/ IPSOS]
+| 20–22 February 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 46%
+| 6%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/rosnie-poparcie-dla-andrzeja-dudy-sondaz-ibsp/ IBSP]
+| 18–20 February 2020
+| style="background:lightsteelblue;"| '''51.62%'''
+| 48.38%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/488431-andrzej-duda-wciaz-wygrywa-ze-wszystkimi-rywalami-w-ii-turze Social Changes]
+| 14–18 February 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 43%
+| 12%
+|-
+| style="background:lightsteelblue;" | [https://fakty.interia.pl/raporty/raport-wybory-prezydenckie-2020/aktualnosci/news-andrzej-duda-z-przewaga-nad-innymi-kandydatami-sondaz-cbos,nId,4377354 CBOS]
+| 6–16 February 2020
+| style="background:lightsteelblue;"| '''54%'''
+| 29%
+| 17%
+|-
+| style="background:lightsteelblue;" | [https://polskatimes.pl/wybory-prezydenckie-2020-sondaz-polska-press-grupy-i-dobrej-opinii-wynik-do-konca-bedzie-niewiadoma/ar/c1-14791860 Dobra Opinia]
+| 10–14 February 2020
+| style="background:lightsteelblue;"| '''50.3%'''
+| 49.7%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.radiozet.pl/Polityka/Wybory-prezydenckie-2020/Nowy-sondaz-prezydencki.-Andrzej-Duda-ze-wzrostem-poparcia Kantar]
+| 7–12 February 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 37%
+| 14%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/487406-rosnie-przewaga-prezydenta-nad-rywalami-w-ii-turze-wyborow Social Changes]
+| 7–11 February 2020
+| style="background:lightsteelblue;"| '''48%'''
+| 41%
+| 11%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/486886-andrzej-duda-kontra-rywale-w-ii-turze-najnowszy-sondaz Social Changes]
+| 1–4 February 2020
+| style="background:lightsteelblue;"| '''46%'''
+| 42%
+| 12%
+|-
+| style="background:lightsteelblue;" | [http://ewybory.eu/sondaz-prezydencki-maison-partners-30-01-2020/ Maison & Partners] {{Webarchive|url=https://web.archive.org/web/20200203071513/http://ewybory.eu/sondaz-prezydencki-maison-partners-30-01-2020/ |date=2020-02-03 }}{{efn|name=internal poll}}
+|24-28 January 2020
+| style="background:lightsteelblue;"| '''49%'''
+| 42%
+|9%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/485634-czy-prezydent-duda-wciaz-wygrywa-ze-wszystkimi-w-ii-turze Social Changes]
+| 24–27 January 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 40%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/484594-w-drugiej-turze-andrzej-duda-wygrywa-ze-wszystkimi-sprawdz Social Changes]
+| 17–21 January 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 39%
+| 16%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/andrzej-duda-nie-wygra-w-drugiej-turze-zaskakujacy-sondaz-6469312717756545a IBSP]
+| 14–16 January 2020
+| style="background:lightsteelblue;"| '''50.09%'''
+| 49.91%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/482961-andrzej-duda-zwieksza-przewaga-nad-rywalami-w-ii-turze Social Changes]
+| 10–14 January 2020
+| style="background:lightsteelblue;"| '''47%'''
+| 38%
+| 15%
+|-
+| style="background:lightsteelblue;" | [https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-sondaz-prezydencki-dla-rmf-fm-i-dgp-andrzej-duda-wygrywa-ze-,nId,4259132 United Survey]
+| 10–11 January 2020
+| style="background:lightsteelblue;"| '''47.8%'''
+| 40.8%
+| 11.4%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/482448-jak-wypada-prezydent-w-ii-turze-przeciwko-trojce-rywali Social Changes]
+| 3–7 January 2020
+| style="background:lightsteelblue;"| '''45%'''
+| 42%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/480979-najgrozniejszy-rywal-andrzeja-dudy-w-drugiej-turze-holownia Social Changes]
+| 27–31 December 2019
+| style="background:lightsteelblue;"| '''45%'''
+| 42%
+| 13%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/sondaz-prezydencki-jakie-sa-szanse-kidawy-blonskiej-w-starciu-z-duda-zaskakujace-aa-H1dT-oVjo-qKXn.html Pollster]
+| 20–22 December 2019
+| style="background:lightsteelblue;"| '''54.14%'''
+| 45.86%
+| -
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/wybory-prezydenckie/ IBSP]
+| 17–20 December 2019
+| style="background:lightsteelblue;"| '''50.67%'''
+| 49.33%
+| -
+|-
+| style="background:lightsteelblue;" | [https://wpolityce.pl/polityka/477430-tylko-jeden-polityk-opozycji-ma-szanse-w-ii-turze-sprawdz Social Changes]
+| 28 November-3 December 2019
+| style="background:lightsteelblue;"| '''46%'''
+| 39%
+| 15%
+|}
+
+===Duda v. Tusk===
+[[File:Duda vs Tusk polls average.png|thumb|Duda vs Tusk polls average]]
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Civic Platform}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Donald Tusk|Tusk]]<br/><small>[[Civic Platform|PO]]</small>
+|-
+| style="background:lightsteelblue;" | [http://wiadomosci.gazeta.pl/wiadomosci/7,114884,24809232,sondaz-prezydencki-andrzej-duda-pokonuje-donalda-tuska-nawet.html Kantar Public]
+| 16–19 May 2019
+| style="background:lightsteelblue;"| '''55%'''
+| 44%
+| 1%
+|-
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/ogladaj-online,60/tusk-czy-duda-dla-kogo-prezydentura-sondaz-dla-faktow-tvn-i-tvn24,934468.html Kantar Public]
+| 8–10 May 2019
+| style="background:lightsteelblue;"| '''56%'''
+| 40%
+| 4%
+|-
+| style="background:lightsteelblue;" | [https://stanpolityki.pl/andrzej-duda-na-czele-sondazu-prezydenckiego-ibsp/ IBSP]
+| 7–9 May 2019
+| style="background:lightsteelblue;"| '''48.4%'''
+| 47.3%
+| 4.3%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/tusk-znaczaco-przegrywa-z-duda-prezydenckie-badanie-dla-wirtualnej-polski-6354019930355841a Ariadna]
+| 22–26 February 2019
+| style="background:lightsteelblue;"| '''46%'''
+| 36%
+| 18%
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/sondaz-zaskakujacy-zwyciezca-ii-tury-wyborow-prezydenckich-6366432101652609a IBSP]
+| 31 January-6 February 2019
+| 45.3%
+| style="background:#fbcc99;"| '''52.9%'''
+| 1.8%
+|-
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/duda-czy-tusk-sondaz-prezydencki-dla-faktow-tvn-i-tvn24,886427.html Millward Brown]
+| 19–20 November 2018
+| style="background:lightsteelblue;"| '''50%'''
+| 45%
+| 5%
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Polityka/311219909-Sondaz-prezydencki-Tusk-pol-kroku-za-Duda.html IBRiS]
+| 13 November 2018
+| style="background:lightsteelblue;"| '''46%'''
+| 44%
+| 10%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-dla-super-expressu-tusk-przegrywa-z-duda-ale-miazdzy-kaczynskiego-aa-zo84-HVyF-BzTN.html Pollster]
+| 9–10 August 2018
+| style="background:lightsteelblue;"| '''51%'''
+| 49%
+| -
+|-
+| style="background:lightsteelblue;" | [https://www.rp.pl/Polityka/308059943-Sondaz-PiS-jest-skazane-na-Andrzeja-Dude.html IBRiS]
+| 26–27 July 2018
+| style="background:lightsteelblue;"| '''50%'''
+| 45%
+| 5%
+|-
+| style="background:lightsteelblue;" | [https://www.se.pl/wiadomosci/polityka/duda-pokona-tuska-aa-uaMB-VPWC-vsuB.html Pollster]
+| 13–14 June 2018
+| style="background:lightsteelblue;"| '''52.5%'''
+| 47.5%
+| -
+|-
+| style="background:lightsteelblue;" | [https://fakty.tvn24.pl/sondaze-dla-faktow-tvn-i-tvn24,106/najnowszy-sondaz-prezydencki-dla-faktow-tvn-i-tvn24,833569.html Millward Brown]
+| 25–26 April 2018
+| style="background:lightsteelblue;"| '''53%'''
+| 44%
+| 3%
+|-
+| style="background:lightsteelblue;" | [http://wmeritum.pl/najnowszy-sondaz-prezydencki-glosny-tweet-donalda-tuska-wywolal-efekt-odwrotny-zamierzonego/211104 Kantar Public]
+| 20–21 November 2017
+| style="background:lightsteelblue;"| '''48%'''
+| 27%
+| 25%
+|-
+| style="background:lightsteelblue;" | [http://www.se.pl/wiadomosci/polityka/sondaz-dla-sepl-nowa-tv-duda-wygrywa-i-z-tuskiem-i-z-biedroniem_1023224.html IBRiS]
+| 14–15 October 2017
+| style="background:lightsteelblue;"| '''49.4%'''
+| 37.8%
+| 12.8%
+|-
+| style="background:lightsteelblue;" | [http://wiadomosci.onet.pl/kraj/sondaz-dla-dgp-andrzej-duda-kolejnym-prezydentem/gzef6ed Ariadna]
+| 29 September-2 October 2017
+| style="background:lightsteelblue;"| '''47.5%'''
+| 36.0%
+| 16.5%
+|-
+| style="background:lightsteelblue;"| [https://wiadomosci.wp.pl/tusk-i-duda-ida-leb-w-leb-najnowszy-sondaz-6170620329322625a Pollster]
+| 20–21 September 2017
+| 47%
+| style="background:#fbcc99;"| '''53%'''
+| -
+|-
+| style="background:lightsteelblue;" | [https://wiadomosci.wp.pl/tylko-w-wp-pis-jest-skazane-na-andrzeja-dude-mamy-wyniki-najnowszego-sondazu-6150537218131585a Ariadna]
+| 28–31 July 2017
+| style="background:lightsteelblue;"| '''45%'''
+| 41%
+| 14%
+|-
+| style="background:lightsteelblue;"| [http://fakty.interia.pl/polska/news-najnowszy-sondaz-duda-wygralby-z-tuskiem,nId,2417729 Millward Brown]
+| 11–12 July 2017
+| style="background:lightsteelblue;"| '''52%'''
+| 44%
+| 4%
+|-
+| style="background:lightsteelblue;"| [http://natemat.pl/212215,nowy-sondaz-prezydencki-roznica-miedzy-duda-a-tuskiem-jest-minimalna Pollster]
+| 30 June-4 July 2017
+| style="background:lightsteelblue;"| '''52%'''
+| 48%
+| -
+|-
+| style="background:lightsteelblue;"| [https://web.archive.org/web/20170703162955/http://ewybory.eu/sondaz-prezydencki-ariadna-27-06-2017/ Ariadna]
+| 23–26 June 2017
+| style="background:lightsteelblue;"| '''45%'''
+| 38%
+| 17%
+|-
+| style="background:lightsteelblue;"| [https://oko.press/pis-pognebil-tuska-polacy-wola-juz-dude/ IPSOS]
+| 19–21 June 2017
+| style="background:lightsteelblue;"| '''49.9%'''
+| 37.2%
+| 13%
+|-
+| style="background:lightsteelblue;"| [https://wiadomosci.wp.pl/tylko-w-wp-wyniki-sondazu-prezydenckiego-tusk-ostatnia-nadzieja-opozycji-6133515244373633a Ariadna]
+| 12–16 May 2017
+| 33%
+| style="background:#fbcc99;"| '''33.8%'''
+| 33.2%
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.wp.pl/najnowszy-sondaz-andrzej-duda-w-ii-turze-wygralby-z-donaldem-tuskiem-i-robertem-biedroniem-6123892001584769a Ariadna]
+| 12–16 May 2017
+| style="background:lightsteelblue;"| '''30.8%'''
+| 27.4%
+| 41.8%{{efn|17.3% undecided, 24.5% would not vote}}
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.gazeta.pl/wiadomosci/7,114884,21706387,tusk-wygrywa-z-duda-w-drugiej-turze-jest-nowy-sondaz-prezydencki.html Millward Brown]
+| 24–25 April 2017
+| 45%
+| style="background:#fbcc99;"| '''50%'''
+| 5%
+|-
+| style="background:lightsteelblue;"| [https://www.wprost.pl/kraj/10051828/Sondaz-Andrzej-Duda-czy-Donald-Tusk-Kogo-Polacy-widza-na-stanowisku-prezydenta.html Pollster]
+| 20–21 April 2017
+| 39%
+| style="background:#fbcc99;"| '''49%'''
+| 12%
+|-
+| style="background:lightsteelblue;"| [https://oko.press/tusk-501-proc-wygrywa-duda-499-proc-ii-turze-wyborow-prezydenckich/ IPSOS]
+| 17–19 March 2017
+| 43.7%
+| style="background:#fbcc99;"| '''43.9%'''
+| 12.4%
+|-
+| style="background:lightsteelblue;"| [http://www.tvn24.pl/wiadomosci-z-kraju,3/tusk-na-prezydenta-mialby-spore-poparcie,681582.html Millward Brown]
+| 5 October 2016
+| style="background:lightsteelblue;"| '''49%'''
+| 45%
+| 6%
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.gazeta.pl/wiadomosci/1,114871,20169831,2020-rok-ii-tura-wyborow-prezydenckich-kto-zagrozilby-dudzie.html#MT Millward Brown]
+| 20–22 May 2016
+| style="background:lightsteelblue;"| '''47%'''
+| 41%
+| 12%
+|}
+
+===Duda v. Kukiz===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| style="background:#000;"|
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Paweł Kukiz|Kukiz]]<br/><small>[[Kukiz'15|K'15]]</small>
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.wp.pl/najnowszy-sondaz-andrzej-duda-w-ii-turze-wygralby-z-donaldem-tuskiem-i-robertem-biedroniem-6123892001584769a Ariadna]
+| 12–16 May 2017
+| style="background:lightsteelblue;"| '''26.4%'''
+| 16.3%
+| 57.3%{{efn|16.7% undecided, 40.6% would not vote}}
+|-
+| style="background:lightsteelblue;"| [https://oko.press/tusk-501-proc-wygrywa-duda-499-proc-ii-turze-wyborow-prezydenckich/ IPSOS]
+| 17–19 March 2017
+| style="background:lightsteelblue;"| '''44.9%'''
+| 26.7%
+| 28.4%
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.gazeta.pl/wiadomosci/1,114871,20169831,2020-rok-ii-tura-wyborow-prezydenckich-kto-zagrozilby-dudzie.html#MT Millward Brown]
+| 20–22 May 2016
+| style="background:lightsteelblue;"| '''44%'''
+| 26%
+| 30%
+|}
+
+===Duda v. Petru===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Modern (political party)}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Ryszard Petru|Petru]]<br/><small>[[Modern (political party)|.N]]</small>
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.gazeta.pl/wiadomosci/1,114871,20169831,2020-rok-ii-tura-wyborow-prezydenckich-kto-zagrozilby-dudzie.html#MT Millward Brown]
+| 20–22 May 2016
+| style="background:lightsteelblue;"| '''47%'''
+| 41%
+| 12%
+|}
+
+===Duda v. Schetyna===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Civic Platform}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Grzegorz Schetyna|Schetyna]]<br/><small>[[Civic Platform|PO]]</small>
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.gazeta.pl/wiadomosci/1,114871,20169831,2020-rok-ii-tura-wyborow-prezydenckich-kto-zagrozilby-dudzie.html#MT Millward Brown]
+| 20–22 May 2016
+| style="background:lightsteelblue;"| '''48%'''
+| 33%
+| 19%
+|}
+
+===Duda v. Sikorski===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Civic Platform}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Radosław Sikorski|Sikorski]]<br/><small>[[Civic Platform|PO]]</small>
+|-
+| style="background:lightsteelblue;" |[https://wpolityce.pl/polityka/501257-andrzej-duda-kontra-r-trzaskowski-w-ii-turze-kto-wygrywa Social Changes]
+| 11–18 May 2020
+| style="background:lightsteelblue;"| '''50%'''
+| 36%
+| 14%
+|}
+
+===Duda v. Nowacka===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Your Movement}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Andrzej Duda|Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}{{efn|name=nb}}
+! [[Barbara Nowacka|Nowacka]]<br/><small>[[Your Movement|TR]]</small>
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.gazeta.pl/wiadomosci/1,114871,20169831,2020-rok-ii-tura-wyborow-prezydenckich-kto-zagrozilby-dudzie.html#MT Millward Brown]
+| 20–22 May 2016
+| style="background:lightsteelblue;"| '''50%'''
+| 30%
+| 20%
+|}
+
+===Kaczyński v. Tusk===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Civic Platform}}" |
+! rowspan="2" |Undecided/would not vote
+|-
+! [[Jarosław Kaczyński|Kaczyński]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! [[Donald Tusk|Tusk]]<br/><small>[[Civic Platform|PO]]</small>
+|-
+| style="background:lightsteelblue;"| [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-dla-super-expressu-tusk-przegrywa-z-duda-ale-miazdzy-kaczynskiego-aa-zo84-HVyF-BzTN.html Pollster]
+| 9–10 August 2018
+| 35%
+| style="background:#fbcc99;"| '''65%'''
+| -
+|-
+| style="background:lightsteelblue;"| [https://www.rp.pl/Polityka/308059943-Sondaz-PiS-jest-skazane-na-Andrzeja-Dude.html IBRiS]
+| 26–27 July 2018
+| 41%
+| style="background:#fbcc99;"| '''50%'''
+| 9%
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+{{Opinion polling for Polish elections|state=expanded}}
+
+[[Category:Opinion polling in Poland|2020]]

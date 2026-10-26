@@ -1,0 +1,1946 @@
+{{short description|none}}
+{{Infobox election
+| country = Brazil
+| flag_year = 2014
+| previous_election = 2010 Brazilian general election
+| previous_year = 2010
+| next_election = 2018 Brazilian general election
+| next_year = 2018
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| opinion_polls = #Opinion polls
+| election_date = 5 October 2014 (first round)<br />{{nowrap|26 October 2014 (second round)}}
+| turnout = 80.61% (first round)<br />78.90% (second round)
+
+| image1 = Dilma Rousseff, 23 de fevereiro (cropped).jpg
+| nominee1 = '''[[Dilma Rousseff]]'''
+| party1 = Workers' Party (Brazil)
+| alliance1 = ''[[With the Strength of the People]]''
+| running_mate1 = '''[[Michel Temer]]''' ([[Brazilian Democratic Movement|PMDB]])
+| popular_vote1 = '''54,501,118'''
+| percentage1 = '''51.64%'''
+
+| nominee2 = [[Aécio Neves]]
+| image2 = Aécio Neves em 16 de julho de 2014 (cropped - 3x4).jpg
+| party2 = Brazilian Social Democracy Party
+| alliance2 = ''[[Brazil can do more|Change Brazil]]''
+| running_mate2 = [[Aloysio Nunes]]
+| popular_vote2 = 51,041,155
+| percentage2 = 48.36%
+
+| map = {{Switcher
+| [[File:2014 Brazil Presidential Elections, Round 1.svg|275px]]
+| First round results by state
+| [[File:2014 Brazil Presidential Elections, Round 2.svg|275px]]
+| Second round results by state
+| default = 2
+}}
+
+| title = President
+| before_election = [[Dilma Rousseff]]
+| before_party = Workers' Party (Brazil)
+| after_election = [[Dilma Rousseff]]
+| after_party = Workers' Party (Brazil)
+
+| module = {{Infobox legislative election
+| embed  = yes
+| election_name  = Chamber of Deputies
+| seats_for_election = All 513 seats in the [[Chamber of Deputies (Brazil)|Chamber of Deputies]]
+| majority_seats = 257
+
+| party1 = Workers' Party (Brazil) | leader1 = [[Vicente Paulo da Silva]] | percentage1 = 13.94 | last_election1 = 88 | seats1 = 69
+| party2 = Brazilian Social Democracy Party | leader2 = [[Antônio Imbassahy]] | percentage2 = 11.39 | last_election2 = 53 | seats2 = 54
+| party3 = [[Brazilian Democratic Movement|PMDB]] | leader3 = [[Eduardo Cunha]] | percentage3 = 11.10 | last_election3 = 79 | seats3 = 66
+| party4 = Progressistas | leader4 = [[Eduardo da Fonte]] | percentage4 = 6.61 | last_election4 = 43 | seats4 = 38
+| party5 = Brazilian Socialist Party | leader5 = [[Beto Albuquerque]] | percentage5 = 6.44 | last_election5 = 34 | seats5 = 34
+| party6 = Social Democratic Party (Brazil, 2011) | leader6 = | percentage6 = 6.14 | last_election6 = New | seats6 = 36
+| party7 = [[Liberal Party (Brazil)|PR]] | leader7 = Bernardo Santana | percentage7 = 5.79 | last_election7 = 41 | seats7 = 34
+| party8 = Brazilian Republican Party | leader8 = George Hilton | percentage8 = 4.55 | last_election8 = 8 | seats8 = 21
+| party9 = Democrats (Brazil) | leader9 = [[Mendonça Filho]] | percentage9 = 4.20 | last_election9 = 42 | seats9 = 21
+| party10 = Brazilian Labour Party (current) | leader10 = [[Jovair Arantes]] | percentage10 = 4.02 | last_election10 = 21 | seats10 = 25
+| party11 = Democratic Labour Party (Brazil) | leader11 = [[Félix Mendonça Júnior]] | percentage11 = 3.57 | last_election11 = 28 | seats11 = 19
+| party12 = Solidariedade | leader12 = | percentage12 = 2.77 | last_election12 = New | seats12 = 15
+| party13 = Social Christian Party (Brazil) | leader13 = [[André Moura]] | percentage13 = 2.59 | last_election13 = 18 | seats13 = 13
+| party14 = Green Party (Brazil) | leader14 = [[Sarney Filho]] | percentage14 = 2.06 | last_election14 = 15 | seats14 = 8
+| party15 = Republican Party of the Social Order | leader15 = | percentage15 = 2.03 | last_election15 = New | seats15 = 11
+| party16 = [[Cidadania|PPS]] | leader16 = Rubens Bueno | percentage16 = 2.01 | last_election16 = 12 | seats16 = 10
+| party17 = Communist Party of Brazil | leader17 = [[Jandira Feghali]] | percentage17 = 1.97 | last_election17 = 15 | seats17 = 10
+| party18 = Socialism and Liberty Party | leader18 = [[Ivan Valente]] | percentage18 = 1.79 | last_election18 = 3 | seats18 = 5
+| party19 = Humanist Party of Solidarity | leader19 = None | percentage19 = 0.95 | last_election19 = 2 | seats19 = 5
+| party20 = [[Avante (political party)|PTdoB]] | leader20 = [[Luis Tibé]] | percentage20 = 0.84 | seats20 = 1 | last_election20 = 3
+| party21 = Social Liberal Party (Brazil) | leader21 = None | percentage21 = 0.83 | seats21 = 1 | last_election21 = 1
+| party22 = Progressive Republican Party (Brazil) | leader22 = [[Francisco Sampaio]] | percentage22 = 0.75 | seats22 = 3 | last_election22 = 2
+| party23 = [[Podemos (Brazil)|PTN]] | leader23 = None | percentage23 = 0.74 | seats23 = 4 | last_election23 = 0
+| party24 = [[Patriota|PEN]] | percentage24 = 0.69 | seats24 = 2 | last_election24 = new
+| party25 = [[Christian Democracy (Brazil)|PSDC]] | percentage25 = 0.52 | seats25 = 2 | last_election25 = 0
+| party26 = Party of National Mobilization | percentage26 = 0.48 | seats26 = 3 | last_election26 = 4
+| party27 = [[Brazilian Labour Renewal Party|PRTB]] | percentage27 = 0.47 | seats27 = 1 | last_election27 = 2
+| party28 = Christian Labour Party | percentage28 = 0.35 | seats28 = 2 | last_election28 = 1
+
+| map = Brazil Chamber of Deputies, 2014.svg
+
+| module = {{Infobox legislative election
+| embed  = yes
+| election_name  = Federal Senate
+| seats_for_election = 27 of the 81 seats in the [[Federal Senate (Brazil)|Federal Senate]]
+
+| party1 = Brazilian Social Democracy Party | leader1 = [[Aloysio Nunes]] | percentage1 = 26.73 | last_election1 = 11 | seats1 = 10
+| party2 = Workers' Party (Brazil) | leader2 = [[Humberto Costa]] | percentage2 = 16.96 | last_election2 = 15 | seats2 = 12
+| party3 = [[Brazilian Democratic Movement|PMDB]] | leader3 = [[Eunício Oliveira]] | percentage3 = 13.58 | last_election3 = 19 | seats3 = 18
+| party4 = Brazilian Socialist Party | leader4 = [[Rodrigo Rollemberg]] | percentage4 = 13.57 | last_election4 = 3 | seats4 = 7
+| party6 = Social Democratic Party (Brazil, 2011) | leader6 = | percentage6 = 8.00 | last_election6 = New | seats6 = 3
+| party7 = Democratic Labour Party (Brazil) | leader7 = [[Acir Gurgacz]] | percentage7 = 4.04 | last_election7 = 4 | seats7 = 8
+| party8 = Democrats (Brazil) | leader8 = [[José Agripino]] | percentage8 = 3.93 | last_election8 = 6 | seats8 = 5
+| party9 = Brazilian Labour Party (current) | leader9 = [[Gim Argello]] | percentage9 = 3.14 | last_election9 = 6 | seats9 = 3
+| party10 = Republican Party of the Social Order | leader10 = | percentage10 = 2.50 | last_election10 = New | seats10 = 1
+| party11 = Progressistas | leader11 = [[Francisco Dornelles]] | percentage11 = 2.16 | last_election11 = 5 | seats11 = 5
+| party12 = Socialism and Liberty Party | leader12 = [[Randolfe Rodrigues]] | percentage12 = 1.17 | last_election12 = 2 | seats12 = 1
+| party13 = Communist Party of Brazil | leader13 = [[Vanessa Grazziotin]] | percentage13 = 0.90 | last_election13 = 2 | seats13 = 1
+| party14 = Green Party (Brazil) | leader14 = [[Paulo Davim]] | percentage14 = 0.81 | last_election14 = 0 | seats14 = 1
+| party15 = [[Liberal Party (Brazil)|PR]] | leader15 = [[Alfredo Nascimento (politician)|Alfredo Nascimento]] | percentage15 = 0.78 | last_election15 = 4 | seats15 = 4
+| party16 = Solidariedade | leader16 = | percentage16 = 0.41 | last_election16 = New | seats16 = 1
+| party17 = Brazilian Republican Party | leader17 = [[Marcelo Crivella]] | percentage17 = 0.34 | last_election17 = 1 | seats17 = 1
+
+}}}}}}}}
+
+General elections were held in [[Brazil]] on 5 October 2014 to elect the president, the [[National Congress of Brazil|National Congress]], and [[Governor (Brazil)|state governorships]].<ref name="Terra">[http://noticias.terra.com.br/brasil/politica/tse-aprova-calendario-e-divulga-datas-das-eleicoes-de-2014,37d5c160a9ace310VgnVCM10000098cceb0aRCRD.html "TSE aprova calendário e divulga datas das eleições de 2014"]. [[Terra Networks|Terra]]. 22 May 2013. Retrieved 2 December 2013.</ref> As no candidate in the presidential election received more than 50% of the vote in the first round on 5 October 2014, a second-round [[Two-round system|runoff]] was held on 26 October 2014.<ref name="Terra" />
+
+Elections were held in the midst of the devastating [[2014 Brazilian economic crisis]].<ref>{{Cite news|agency=Reuters|date=2014-08-29|title=Brazil Fell Into Recession in First Half of Year, as Investments Dropped|language=en-US|work=The New York Times|url=https://www.nytimes.com/2014/08/30/business/international/brazil-fell-into-recession-in-first-half-of-year.html|access-date=2020-11-14|issn=0362-4331}}</ref> [[President of Brazil|President]] [[Dilma Rousseff]] of the left-wing [[Workers' Party (Brazil)|Workers' Party]] ran for reelection, choosing incumbent [[Vice President of Brazil|Vice President]] [[Michel Temer]] of the centre-right [[Brazilian Democratic Movement]] as her running mate. During her first term, Rousseff's presidency was rocked by the [[2013 protests in Brazil]], initiated mainly by the [[Movimento Passe Livre|Free Fare Movement]], in response to social inequality in the country.<ref>{{Cite web|date=2013-11-29|title=Gestão Pública: Dilma Rousseff|url=https://istoe.com.br/337112_GESTAO%20PUBLICA%20DILMA%20ROUSSEFF/|access-date=2020-11-14|website=ISTOÉ Independente|language=pt-BR|archive-date=2020-11-16|archive-url=https://web.archive.org/web/20201116060427/https://istoe.com.br/337112_GESTAO%20PUBLICA%20DILMA%20ROUSSEFF/|url-status=dead}}</ref>
+
+[[Aécio Neves]], a [[Brazilian Senate|senator]] from the electorally-crucial<ref>{{Cite web|date=2018-08-20|title=Roadmap to Brazil's presidency: win in Minas Gerais|url=https://brazilian.report/power/2018/08/20/roadmap-brazils-presidency-minas-gerais/|access-date=2020-11-14|website=The Brazilian Report}}</ref> state of [[Minas Gerais]] and the grandson of former president-elect [[Tancredo Neves]], entered the race as the candidate of the centre-right [[Brazilian Social Democracy Party]]. Neves, who previously served as a popular [[governor of Minas Gerais]],<ref>{{Cite web|title=Blame It On Aécio|url=https://www.cjr.org/currents/blame_it_on_aecio_1.php|access-date=2020-11-14|website=Columbia Journalism Review|language=en}}</ref> had previously considered running for president in [[2010 Brazilian presidential election|2010]] before ultimately declining. Unlike in past presidential elections, the PSDB ticket consisted of two members of the party, with [[São Paulo (state)|São Paulo]] Senator [[Aloysio Nunes]] serving as his running mate.
+
+Former [[Governor of Pernambuco|Pernambuco Governor]] [[Eduardo Campos]], who had served with Rousseff in the left-wing [[First presidency of Lula da Silva|Lula administration]], entered the race as a centre-left alternative to Rousseff on the [[Brazilian Socialist Party]] (PSB) ticket.<ref>{{Cite news|date=2014-04-14|title=Campos-Silva ticket confirmed in Brazil 2014 election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-latin-america-27029256|access-date=2020-11-14}}</ref> For his running mate, Campos chose [[Marina Silva]], an environmentalist politician from the state of [[Acre (state)|Acre]] who performed unexpectedly well in the [[2010 Brazilian presidential election|2010 presidential election]]. However, Campos [[2014 Santos Cessna Citation accident|died in a plane crash]] less than two months before the first round of voting, and Silva replaced him at the top of the ticket.
+
+In the first round of voting, Dilma Rousseff won 41.6% of the vote, ahead of Aécio Neves with 33.6% and Marina Silva with 21.3%.<ref>{{cite web|title=Eleições 2014 – Resultados das Eleições 2014 para Presidente|url=http://www.eleicoes2014.com.br|access-date=2020-05-28|archive-url=https://web.archive.org/web/20190909193015/http://www.eleicoes2014.com.br/|archive-date=2019-09-09|url-status=dead}}</ref> Rousseff and Neves contested the runoff on 26 October, and Rousseff won re-election by a narrow margin, 51.6% to Neves' 48.4%, the closest margin for a Brazilian presidential election since [[1989 Brazilian presidential election|1989]].<ref>{{cite web|url=https://www.bbc.com/news/world-latin-america-29782073|title=Dilma Rousseff re-elected Brazilian president|date=26 October 2014|work=[[BBC Online]]|access-date=26 October 2014}}</ref>
+
+==Presidential election==
+Incumbent President [[Dilma Rousseff]] of the [[Workers' Party (Brazil)|Workers' Party]] (PT), Brazil's first female president, was challenged by 11 other candidates. [[Minas Gerais]] [[Senate of Brazil|Senator]] [[Aécio Neves]] from the [[Brazilian Social Democracy Party]] (PSDB) and [[Marina Silva]] from the [[Brazilian Socialist Party]] (PSB) were her main rivals. Since none of the candidates obtained over 50% of the valid votes in the 5 October election, a [[two-round system|second-round]] election was held on 26 October between Rousseff and Neves, who had finished first and second respectively in the 5 October vote.
+
+In the run-up to the election, allies of [[2010 Brazilian presidential election|2010 PSDB presidential nominee]] [[José Serra]] pushed for [[List of Governors of São Paulo|Governor of São Paulo]] [[Geraldo Alckmin]], who served as the party's nominee in [[2006 Brazilian general election|2006]], to serve as the party's nominee versus Dilma.<ref>{{Cite web|title=Aliados de Serra lançam Alckmin como contraponto a senador - Política|url=https://politica.estadao.com.br/noticias/eleicoes,aliados-de-serra-lancam-alckmin-como-contraponto-a-senador-imp-,990108|access-date=2020-12-01|website=Estadão|language=pt-BR}}</ref> One of the people who pushed for Alckmin's nomination was [[Brazilian Senate|Senator]] from [[São Paulo (state)|São Paulo]] [[Aloysio Nunes]], who was later chosen as the running mate of Neves.<ref>{{Cite web|title=Neves picks Aloysio Nunes as vice-presidential running mate|url=http://country.eiu.com/article.aspx?articleid=91980393&Country=Brazil&topic=Politics&subtopic=Forecast&subsubtopic=Election+watch&u=1&pid=801112864&oid=801112864|access-date=2020-12-03|website=country.eiu.com}}</ref>
+
+The original PSB candidate had been [[Eduardo Campos]]. However, he died in a [[2014 Santos Cessna Citation accident|plane crash]] in [[Santos, São Paulo|Santos]] on 13 August 2014,<ref>{{cite web|url=http://www1.folha.uol.com.br/poder/2014/08/1499718-presidenciavel-eduardo-campos-morre-em-acidente-aereo-em-santos-sp.shtml|title=Presidenciável Eduardo Campos morre em acidente aéreo em Santos (SP) - 13/08/2014 - Poder - Folha de S.Paulo|access-date=22 November 2016}}</ref> after which the party chose Silva, who had been his running mate, to replace him as the presidential candidate.<ref>{{cite news|url=https://www.bbc.com/news/world-latin-america-28822676|title=Brazil: Marina Silva 'to replace' late candidate Campos|work=BBC News|date=16 August 2014|access-date=22 November 2016}}</ref>
+
+Conservative federal deputy [[Jair Bolsonaro]] had publicly declared his interest in running for either the presidency or vice presidency in the run-up to the election.<ref>{{Cite web|date=2014-05-22|title="Se eu não for candidato, quero ser vice de Aécio", diz Jair Bolsonaro|url=https://www.infomoney.com.br/politica/se-eu-nao-for-candidato-quero-ser-vice-de-aecio-diz-jair-bolsonaro/|access-date=2020-12-03|website=InfoMoney|language=pt-BR}}</ref> However, Bolsonaro did not enter the race.
+
+===Aécio Neves running mate selection===
+Six potential running mates were speculated on as potential vice presidential candidates to run with Aécio Neves on the PSDB ticket, according to ''[[O Globo]]''.<ref>{{Cite web|date=2014-03-23|title=Cinco nomes surgem como possíveis candidatos a vice na chapa de Aécio|url=https://oglobo.globo.com/brasil/cinco-nomes-surgem-como-possiveis-candidatos-vice-na-chapa-de-aecio-11958415|access-date=2020-12-03|website=O Globo|language=pt-BR}}</ref>
+
+*'''[[Aloysio Nunes]],<ref>{{Cite web|title=PELA UNIDADE, PSDB CONFIRMA SENADOR ALOYSIO NUNES COMO VICE NA CHAPA DE AÉCIO NEVES – 20 anos de jornalismo combatente – Vide Versus|url=https://videversus.com.br/pela-unidade-psdb-confirma-senador-aloysio-nunes-como-vice-na-chapa-de-aecio-neves/|access-date=2020-12-03|language=pt-BR}}</ref> [[Brazilian Senate|senator]] from [[São Paulo (state)|São Paulo]] (PSDB) - selected'''
+*[[Mara Gabrilli]],<ref>{{Cite web|date=2014-04-10|title=Mara Gabrilli não descarta ser vice de Aécio em outubro|url=https://diariodopoder.com.br/uncategorized/mara-gabrilli-nao-descarta-ser-vice-de-aecio-em-outubro|access-date=2020-12-03|website=Diário do Poder|language=pt-BR}}</ref><ref>{{Cite web|date=2014-04-01|title=Burburinhos em jantar apontam Mara Gabrilli vice de Aécio Neves – Glamurama|url=https://glamurama.uol.com.br/burburinhos-em-jantar-apontam-uma-mulher-como-vice-de-aecio-neves/|access-date=2020-12-03|website=Burburinhos em jantar apontam Mara Gabrilli vice de Aécio Neves – Glamurama|language=pt-BR}}</ref> [[Federal Deputy of Brazil|federal deputy]] from [[São Paulo (state)|São Paulo]] and deputy party chairwoman (PSDB)
+*[[Fernando Henrique Cardoso]],<ref>{{Cite web|title=Pré-candidato, Aécio diz que ter FHC como vice seria 'uma honra' - 18/03/2014 - Poder - Folha de S.Paulo|url=https://m.folha.uol.com.br/poder/2014/03/1427465-pre-candidato-aecio-diz-que-ter-fhc-como-vice-seria-uma-honra.shtml|access-date=2020-12-03|website=m.folha.uol.com.br}}</ref> former [[president of Brazil]] (PSDB)
+*[[José Agripino Maia]], president of the [[Democrats (Brazil)|Democrats]], a party allied with the PSDB (DEM)
+*[[Ellen Gracie Northfleet]],<ref>{{Cite web|last=www.ceicom.com.br|first=Ceicom®|title=Aécio: Ellen Gracie é um dos nomes cotados para vice - Jornal de Beltrão|url=https://www.jornaldebeltrao.com.br/noticia/172615/aecio-ellen-gracie-e-um-dos-nomes-cotados-para-vice|access-date=2020-12-03|website=www.jornaldebeltrao.com.br|language=pt-br}}</ref> former justice of the [[Supreme Federal Court]] (non-partisan)
+*[[Joaquim Barbosa]],<ref>{{Cite web|last=Patury|first=Felipe|date=4 October 2014|title=Joaquim Barbosa was invited to run for Aécio|url=https://epoca.globo.com/colunas-e-blogs/felipe-patury/noticia/2014/10/joaquim-barbosa-foi-bconvidado-para-vice-de-aeciob.html|url-status=live|archive-url=https://web.archive.org/web/20141005112129/http://epoca.globo.com/colunas-e-blogs/felipe-patury/noticia/2014/10/joaquim-barbosa-foi-bconvidado-para-vice-de-aeciob.html |archive-date=2014-10-05 |access-date=|website=Globo}}</ref> justice of the [[Supreme Federal Court]] (non-partisan)
+
+===Campaign issues===
+====Economy====
+===== Dilma Rousseff =====
+Rousseff defended the significant economic gains and improvements in living standards during her administration and that of her predecessor, [[Luiz Inácio Lula da Silva|Lula da Silva]].
+
+=====Aécio Neves=====
+Neves proposed sweeping reductions in the welfare state and state intervention in the economy.
+
+==== Use of digital manipulation ====
+The election saw significant use of [[Internet bot|bots]] by candidates. Both Dilma Rousseff (PT) and Aécio Neves (PSDB) employed automated accounts across platforms like [[Twitter]], [[Facebook]], and [[WhatsApp]] to amplify their messages as a form of propaganda.<ref>{{Cite news
+|url=https://www1.folha.uol.com.br/poder/2014/10/1506973-uso-de-bots-na-eleicao-aponta-nova-fronteira-da-propaganda-eleitoral.shtml
+|title=Botnets and Political Manipulation in the 2014 Brazilian Elections
+|newspaper=Folha de São Paulo
+|access-date=2016-05-07
+}}</ref> The [[Federal University of Espírito Santo]] and [[Folha de São Paulo]] identified a spike in bot activity during debates, with Neves' hashtags tripling in tweets within minutes.<ref>{{Cite report
+|author=Federal University of Espírito Santo
+|title=Research on Digital Manipulation and Bot Activity in the 2014 Elections
+|url=https://www.ufes.br/pt-br/
+|access-date=2016-05-07
+}}</ref>
+
+Rousseff's support group, [[Muda Mais]], identified over 60 automated Twitter accounts that retweeted Neves' content more than 180 times each. Rousseff’s campaign also documented the existence of automated accounts, mainly on Twitter and Facebook, which attacked her and supported Neves. These accounts were linked to a businessman who had received R$130,000 to bolster Neves’ campaign, which led to calls for fines between R$5,000 and R$30,000 under Brazil's electoral laws.<ref>{{Cite report
+|author=Muda Mais
+|title=Documenting the Use of Bots in the 2014 Presidential Election
+|url=https://www.mudamais.org/
+|access-date=2016-05-07
+}}</ref>
+
+Rousseff’s campaign also employed bots, though on a smaller scale compared to Neves’ team. Leaked internal memoranda from Rousseff’s campaign revealed that the Neves campaign had spent an estimated R$10 million to buy and deploy bots on social networks, including WhatsApp, to push political messages.
+
+Although Brazilian electoral laws prohibit paid social media campaign, private entities bypassed these restrictions by deploying bots on behalf of candidates. Neves' campaign reportedly spent R$10 million on these bots.<ref>{{Cite web
+|url=http://www.tse.jus.br/legislacao/eleicoes-2014
+|title=Altera as Leis do Código Eleitoral
+|publisher=Tribunal Superior Eleitoral (TSE)
+|access-date=2016-05-07
+}}</ref><ref>{{Cite news
+|url=https://www1.folha.uol.com.br/poder/2014/10/1508923-uso-de-bots-no-twitter-gera-investigacoes-na-justica-eleitoral.shtml
+|title=Electoral Violations and Legal Reactions in the 2014 Brazilian Elections
+|newspaper=Folha de São Paulo
+|access-date=2016-05-07
+}}</ref>
+
+==== Allegations of corruption ====
+Shortly before the election, a former executive of the state-run oil company [[Petrobras]] accused a minister, three state governors, six senators and dozens of congressmen from President Dilma Rousseff's Workers’ Party (PT) and several coalition allies of having accepted [[kickback (bribery)|kickback payment]]s from contracts.<ref>
+{{Cite news
+|url=https://www.economist.com/blogs/americasview/2014/09/scandal-brazil
+|title=The Petrobras affair
+|newspaper=The Economist|
+issn=0013-0613
+|access-date=2016-05-07
+}}
+</ref>
+
+===Candidates===
+====Candidates in runoff====
+{| class="vertical-align-top wikitable"
+! scope=colgroup colspan=2 | Party
+! scope=colgroup colspan=2 | Presidential candidate
+! scope=colgroup colspan=2 | Vice presidential candidate{{efn|name=vp|Same party as the presidential candidate, unless mentioned in parentheses}}
+! scope=col | Coalition
+|-
+| style=background:{{party color|Workers' Party (Brazil)}} |
+| style="text-align:center; line-height:1.3" | [[File:PT (Brazil) logo.svg|75px]]<br />'''[[Workers' Party (Brazil)|Workers' Party]]'''<br />(PT{{nbsp}}13)
+| [[File:Dilma Rousseff - foto oficial 2011-01-09.jpg|134x134px|Dilma Rousseff]]
+| '''[[Dilma Rousseff]]'''<br />[[President of Brazil]] (2011–2016)<br />[[Chief of Staff of the Presidency]] (2005–2010)
+| [[File:Michel Temer (foto 2).jpg|100px|Michel Temer]]
+| '''[[Michel Temer]]''' ([[Brazilian Democratic Movement|PMDB]])<br />[[Vice President of Brazil]] (2011–2016)<br />[[President of the Chamber of Deputies (Brazil)|President of the Chamber of Deputies]] (1997–2001; 2009–2010)
+| [[With the Strength of the People]]:
+* [[Workers' Party (Brazil)|Workers' Party]] (PT)
+* [[Brazilian Democratic Movement|Brazilian Democratic Movement Party]] (PMDB)
+* [[Social Democratic Party (Brazil, 2011)|Social Democratic Party]] (PSD)
+* [[Progressistas|Progressive Party]] (PP)
+* [[Party of the Republic]] (PR)
+* [[Democratic Labour Party (Brazil)|Democratic Labour Party]] (PDT)
+* [[Republican Party of the Social Order]] (PROS)
+* [[Communist Party of Brazil]] (PCdoB)
+|-
+| style=background:{{party color|Brazilian Social Democracy Party}} |
+| style="text-align:center; line-height:1.3" | [[File:PSDB wordmark.svg|75px]]<br />'''[[Brazilian Social Democracy Party]]'''<br />(PSDB{{nbsp}}45)
+| [[File:Aécio Neves em 23 de outubro de 2014-2.jpg|134x134px|Aécio neves]]
+| '''[[Aécio Neves]]'''<br />[[Federal Senate (Brazil)|Senator]] for [[Minas Gerais]] (2011–2019)<br />[[List of governors of Minas Gerais|Governor of Minas Gerais]] (2003–2010)
+| [[File:Aloysio nunes 2011.jpg|100px|Aloysio Nunes]]
+| '''[[Aloysio Nunes]]'''<br />[[Federal Senate (Brazil)|Senator]] for [[São Paulo (state)|São Paulo]] (2011–2019)<br />[[Ministry of Justice and Public Security (Brazil)|Minister of Justice]] (2001–2002)
+| [[Change Brazil]]:
+* [[Brazilian Social Democracy Party]] (PSDB)
+* [[Solidarity (Brazil)|Solidariedade]] (SD)
+* [[National Mobilization|Party of National Mobilization]] (PMN)
+* [[Patriota|National Ecologic Party]] (PEN)
+* [[Podemos (Brazil)|National Labour Party]] (PTN)
+* [[Act (Brazil)|Christian Labour Party]] (PTC)
+* [[Democrats (Brazil)|Democrats]] (DEM)
+* [[Avante (political party)|Labour Party of Brazil]] (PTdoB)
+* [[Brazilian Labour Party (1981)|Brazilian Labour Party]] (PTB)
+|}
+
+====Candidates failing to make runoff====
+{| class="vertical-align-top wikitable"
+! scope=colgroup colspan=2 | Party
+! scope=colgroup colspan=2 | Presidential candidate
+! scope=colgroup colspan=2 | Vice presidential candidate{{efn|name=vp|Same party as the presidential candidate, unless mentioned in parentheses}}
+! scope=col | Coalition
+|-
+| style=background:{{party color|United Socialist Workers' Party}} |
+| style="text-align:center; line-height:1.3" | [[File:Logo PSTU.png|75px]]<br />'''[[United Socialist Workers' Party]]'''<br />(PSTU{{nbsp}}16)
+| [[File:(2015-06-04) 2º Congresso Nacional da CSP-Conlutas Dia1 152 Romerito Pontes (18687750336).jpg|134x134px|José Maria de Almeida]]
+| '''[[José Maria de Almeida]]'''
+| 
+| '''Cláudia Durans'''
+| {{n/a}}
+|-
+| style=background:{{party color|Social Christian Party (Brazil)}} |
+| style="text-align:center; line-height:1.3" | [[File:PSC logo.svg|75px]]<br />'''[[Social Christian Party (Brazil)|Social Christian Party]]'''<br />(PSC{{nbsp}}20)
+| [[File:Everaldo Dias Pereira.jpg|134x134px|Everaldo Pereira]]
+| '''[[Everaldo Pereira]]'''<br />Deputy Chief of Staff of [[Rio de Janeiro (state)|Rio de Janeiro]] (1999–2003)
+| 
+| '''Leonardo Gadelha'''
+| {{n/a}}
+|-
+| style=background:{{party color|Brazilian Communist Party}} |
+| style="text-align:center; line-height:1.3" | [[File:PCB logo.svg|75px]]<br />'''[[Brazilian Communist Party]]'''<br />(PCB{{nbsp}}21)
+| [[File:Mauro Iasi no Senado.png|134x134px|Mauro Iasi]]
+| '''Mauro Iasi'''
+| [[File:Sofia Manzano.png|100px|Sofia Manzano]]
+| '''[[Sofia Manzano]]'''
+| {{n/a}}
+|-
+| style=background:{{party color|Christian Social Democratic Party}} |
+| style="text-align:center; line-height:1.3" | [[File:Bandeira do Partido Social Democrata Cristão.svg|75px]]<br />'''[[Christian Democracy (Brazil)|Christian Social Democratic Party]]'''<br />(PSDC{{nbsp}}27)
+| [[File:José Maria Eymael no senado.jpg|134x134px|José Maria Eymael]]
+| '''[[José Maria Eymael]]'''<br />[[Chamber of Deputies (Brazil)|Federal Deputy]] for [[São Paulo (state)|São Paulo]] (1986–1995)
+| 
+| '''Roberto Lopes'''
+| {{n/a}}
+|-
+| style=background:{{party color|Brazilian Labour Renewal Party}} |
+| style="text-align:center; line-height:1.3" | '''[[Brazilian Labour Renewal Party]]'''<br />(PRTB{{nbsp}}28)
+| [[File:Levy Fidelix tv brasil (cropped).jpg|134x134px|Levy Fidelix]]
+| '''[[Levy Fidelix]]'''
+| 
+| '''José Alves de Oliveira'''
+| {{n/a}}
+|-
+| style=background:{{party color|Workers' Cause Party}} |
+| style="text-align:center; line-height:1.3" | [[File:Logo PCO Institucional.svg|75px]]<br />'''[[Workers' Cause Party]]'''<br />(PCO{{nbsp}}29)
+| [[File:Rui Costa Pimenta PCO ABr (cropped).jpg|134x134px|Rui Costa Pimenta]]
+| '''[[Rui Costa Pimenta]]'''
+| 
+| '''Ricardo Machado'''
+| {{n/a}}
+|-
+| style=background:{{party color|Brazilian Socialist Party}} |
+| style="text-align:center; line-height:1.3" | '''[[Brazilian Socialist Party]]'''<br />(PSB{{nbsp}}40)
+| [[File:MarinaSilva2010.jpg|134x134px|Marina Silva]]
+| '''[[Marina Silva]]'''<br />[[Federal Senate (Brazil)|Senator]] for [[Acre (state)|Acre]] (1995–2011)
+| [[File:Bancada do PSB na Câmara apoia Impeachment de Dilma (cropped).jpg|100px|Beto Albuquerque]]
+| '''Beto Albuquerque'''<br />[[Chamber of Deputies (Brazil)|Federal Deputy]] for [[Rio Grande do Sul]] (1995–2015)
+| United for Brazil:
+* [[Brazilian Socialist Party]] (PSB)
+* [[Cidadania|Popular Socialist Party]] (PPS)
+* [[Social Liberal Party (Brazil)|Social Liberal Party]] (PSL)
+* [[Humanist Party of Solidarity]] (PHS)
+* [[Free Fatherland Party (Brazil)|Free Fatherland Party]] (PPL)
+* [[Progressive Republican Party (Brazil)|Progressive Republican Party]] (PRP)
+|-
+| style=background:{{party color|Green Party (Brazil)}} |
+| style="text-align:center; line-height:1.3" | [[File:PV Logo.svg|75px]]<br />'''[[Green Party (Brazil)|Green Party]]'''<br />(PV{{nbsp}}43)
+| [[File:Eduardojorge pv abr.jpg|134x134px|Eduardo Jorge]]
+| '''[[Eduardo Jorge]]'''<br />[[Chamber of Deputies (Brazil)|Federal Deputy]] for [[São Paulo (state)|São Paulo]] (1986–2003)
+| [[File:Célia Sacramento.jpg|100px|Célia Sacramento]]
+| '''Célia Sacramento'''<br />Vice Mayor of [[Salvador, Bahia|Salvador]] (2013–2017)
+| {{n/a}}
+|-
+| style=background:{{party color|Socialism and Liberty Party}} |
+| style="text-align:center; line-height:1.3" | [[File:PSOL logo brazil.png|75px]]<br />'''[[Socialism and Liberty Party]]'''<br />(PSOL{{nbsp}}50)
+| [[File:Luciana Genro, 2015 (cropped).jpg|134x134px|Luciana Genro]]
+| '''[[Luciana Genro]]'''<br />[[Chamber of Deputies (Brazil)|Federal Deputy]] for [[Rio Grande do Sul]] (2003–2011)
+| [[File:Jorge Paz em 2014.jpg|100px|Jorge Paz]]
+| '''Jorge Paz'''
+| {{n/a}}
+|}
+
+===Debates===
+{| class=wikitable style="font-size:90%; line-height:1.2"
+|-<sup>†</sup>
+! colspan=12 style=background:#B0C4DE | 2014 Brazilian presidential election debates
+|-
+!style=white-space:nowrap|&nbsp;{{abbr|No.|Number}} || Date || Host and Location || Moderator || colspan=8 scope=col | Participants
+|-
+!colspan=4 rowspan=2 |Key:<br>{{nowrap|{{small|{{color box|#90FF90|P}} Present {{color box|#FFE3E3|N}} Not invited {{color box|#EEE|Out}} Out of the election}}}}
+! scope=col style=background:{{party color|Workers' Party (Brazil)}} |<small>[[Workers' Party (Brazil)|{{color|#FFF|PT}}]]</small>
+! scope=col style=background:{{party color|Brazilian Social Democracy Party}} |<small>[[Brazilian Social Democracy Party|{{color|#FFF|PSDB}}]]</small>
+! scope=col style=background:{{party color|Brazilian Socialist Party}} |<small>[[Brazilian Socialist Party|{{color|#FFF|PSB}}]]</small>
+! scope=col style=background:{{party color|Socialism and Liberty Party}} |<small>[[Socialism and Liberty Party|{{color|#FFF|PSOL}}]]</small>
+! scope=col style=background:{{party color|Green Party (Brazil)}} |<small>[[Green Party (Brazil)|{{color|#FFF|PV}}]]</small>
+! scope=col style=background:{{party color|Social Christian Party (Brazil)}} |<small>[[Social Christian Party (Brazil)|{{color|#FFF|PSC}}]]</small>
+! scope=col style=background:{{party color|Brazilian Labour Renewal Party}} |<small>[[Brazilian Labour Renewal Party|{{color|#FFF|PRTB}}]]</small>
+! scope=col style=background:{{party color|Christian Democracy (Brazil)}} |<small>[[Christian Democracy (Brazil)|{{color|#FFF|PSDC}}]]</small>
+|-
+! [[Dilma Rousseff|Rousseff]]
+! [[Aécio Neves|Neves]]
+! [[Marina Silva|Silva]]
+! [[Luciana Genro|Genro]]
+! [[Eduardo Jorge|Jorge]]
+! [[Everaldo Pereira|Pereira]]
+! [[Levy Fidelix|Fidelix]]
+! [[José Maria Eymael|Eymael]]
+|- style=background:#e7e7ff
+! 1.1
+|style="white-space:nowrap; text-align:center"| Tuesday, 26 August 2014
+|style="white-space:nowrap; text-align:center"| [[Rede Bandeirantes|Band TV]]<br />[[São Paulo]], [[Morumbi, São Paulo|Morumbi]]
+|style="white-space:nowrap; text-align:center"| [[Ricardo Boechat]]
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-N}}
+|- style=background:#e7e7ff
+! 1.2
+|style="white-space:nowrap; text-align:center"| Monday, 1 September 2014
+|style="white-space:nowrap; text-align:center"| [[Sistema Brasileiro de Televisão|SBT]], [[Folha de S. Paulo]], [[Jovem Pan]], [[Universo Online|UOL]]<br />[[Osasco]], Industrial Anhanguera
+|style="white-space:nowrap; text-align:center"| [[Carlos Nascimento (journalist)|Carlos Nascimento]]
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-N}}
+|- style=background:#e7e7ff
+! 1.3
+|style="white-space:nowrap; text-align:center"| Tuesday, 16 September 2014
+|style="white-space:nowrap; text-align:center"| [[Rede Aparecida|TV Aparecida]], [[Episcopal Conference of Brazil|CNBB]]<br />[[Aparecida]], [[São Paulo (state)|São Paulo]]
+|style="white-space:nowrap; text-align:center"| Rodolpho Gamberini
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+|- style=background:#e7e7ff
+! 1.4
+|style="white-space:nowrap; text-align:center"| Sunday, 28 September 2014
+|style="white-space:nowrap; text-align:center"| [[RecordTV]], R7<br />[[São Paulo]], [[Lapa (district of São Paulo)|Lapa]]
+|style="white-space:nowrap; text-align:center"| Adriana Araújo, Celso Freitas
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-N}}
+|- style=background:#e7e7ff
+! 1.5
+|style="white-space:nowrap; text-align:center"| Thursday, 2 October 2014
+|style="white-space:nowrap; text-align:center"| [[TV Globo]], [[G1 (website)|G1]]<br />[[Rio de Janeiro]], Jacarepaguá
+|style="white-space:nowrap; text-align:center"| [[William Bonner (newscaster)|William Bonner]]
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-P}}
+| {{D-N}}
+|- style="background:#e7e7ff; border-top: 2px solid #333333"
+! 2.1
+|style="white-space:nowrap; text-align:center"| Tuesday, 14 October 2014
+|style="white-space:nowrap; text-align:center"| [[Rede Bandeirantes|Band TV]]<br />[[São Paulo]], [[Morumbi, São Paulo|Morumbi]]
+|style="white-space:nowrap; text-align:center"| [[Ricardo Boechat]]
+| {{D-P}}
+| {{D-P}}
+| rowspan=4 colspan=6 {{D-Out}}
+|- style=background:#e7e7ff
+! 2.2
+|style="white-space:nowrap; text-align:center"| Thursday, 16 October 2014
+|style="white-space:nowrap; text-align:center"| [[Sistema Brasileiro de Televisão|SBT]], [[Folha de S. Paulo]], [[Jovem Pan]], [[Universo Online|UOL]]<br />[[Osasco]], Industrial Anhanguera
+|style="white-space:nowrap; text-align:center"| [[Carlos Nascimento (journalist)|Carlos Nascimento]]
+| {{D-P}}
+| {{D-P}}
+|- style=background:#e7e7ff
+! 2.3
+|style="white-space:nowrap; text-align:center"| Sunday, 19 October 2014
+|style="white-space:nowrap; text-align:center"| [[RecordTV]], R7<br />[[São Paulo]], [[Lapa (district of São Paulo)|Lapa]]
+|style="white-space:nowrap; text-align:center"| Adriana Araújo, Celso Freitas
+| {{D-P}}
+| {{D-P}}
+|- style=background:#e7e7ff
+! 2.4
+|style="white-space:nowrap; text-align:center"| Friday, 24 October 2014
+|style="white-space:nowrap; text-align:center"| [[TV Globo]], [[G1 (website)|G1]]<br />[[Rio de Janeiro]], Jacarepaguá
+|style="white-space:nowrap; text-align:center"| [[William Bonner (newscaster)|William Bonner]]
+| {{D-P}}
+| {{D-P}}
+|}
+
+===Opinion polls===
+
+====First round====
+{| style="float; margin-left: 1em; margin-bottom: 0.5em" class="infobox"
+|+Polling aggregates
+|-
+| style="text-align: center" | <span style="font-size:105%;">'''Active candidates'''</span>
+|-
+| style="padding: 0 5px;" | {{color box|#CC0000}} Dilma Rousseff (PT)
+|-
+| style="padding: 0 5px;" | {{color box|#0080FF}} Aécio Neves (PSDB)
+|-
+| style="padding: 0 5px;" | {{color box|#FFCC00}} Marina Silva (PSB)
+|-
+| style="padding: 0 5px;" | {{color box|#FFCC00}} Eduardo Campos (PSB)
+|-
+| style="padding: 0 5px;" | {{color box|#808080}} Others
+|-
+| style="padding: 0 5px;" | {{color box|#000000}} Abstentions/undecided
+|}
+
+{{Chart|definition=Opinion polling for the first round of the 2014 Brazilian general election.chart|data=Opinion polling for the first round of the 2014 Brazilian general election.tab|width=750px}}
+
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="2"| Pollster/client(s)
+! rowspan="2"| Date(s)<br>conducted
+! rowspan="2" data-sort-type="number"| Sample<br>size
+! class="unsortable" style="width:50px;"| [[Dilma Rousseff|Rousseff]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
+! class="unsortable" style="width:50px;"| [[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
+! class="unsortable" style="width:50px;"| [[Aécio Neves|Neves]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
+! class="unsortable" style="width:50px;"| [[José Serra|Serra]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
+! class="unsortable" style="width:50px;"| [[Marina Silva|Silva]]<br>{{small|[[Brazilian Socialist Party|PSB]]/[[Green Party (Brazil)|PV]]}}
+! class="unsortable" style="width:50px;"| [[Eduardo Campos|Campos]]<br>{{small|[[Brazilian Socialist Party|PSB]]}}
+! class="unsortable" style="width:50px;"| [[Luciana Genro|Genro]]<br>{{small|[[Socialism and Liberty Party|PSOL]]}}
+! class="unsortable" style="width:50px;"| [[Randolfe Rodrigues|Rodrigues]]<br>{{small|[[Socialism and Liberty Party|PSOL]]}}
+! class="unsortable" style="width:50px;"| [[Plínio de Arruda Sampaio|Sampaio]]<br>{{small|[[Socialism and Liberty Party|PSOL]]}}
+! class="unsortable" style="width:50px;"| [[Everaldo Pereira|Pereira]]<br>{{small|[[Social Christian Party (Brazil)|PSC]]}}
+! class="unsortable" style="width:50px;"| [[Eduardo Jorge|Jorge]]<br>{{small|[[Green Party (Brazil)|PV]]}}
+! rowspan="2" class="unsortable"| Others
+! rowspan="2" class="unsortable"| Abst.<br>Undec.
+! rowspan="2" data-sort-type="number"| Lead
+|-
+! data-sort-type="number" class="sortable" style="background:{{party color|Workers' Party (Brazil)}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Workers' Party (Brazil)}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Brazilian Social Democracy Party}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Brazilian Social Democracy Party}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Brazilian Socialist Party}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Brazilian Socialist Party}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Socialism and Liberty Party}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Socialism and Liberty Party}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Socialism and Liberty Party}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Social Christian Party (Brazil)}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Green Party (Brazil)}};"|
+|- style="background:#E9E9E9;"
+| '''2014 election'''
+| 5 Oct
+| –
+| style="background:#FFE3E3"| '''41.59%'''
+| –
+| style="background:#B3E0FF"| '''33.55%'''
+| –
+| '''21.32%'''
+| –
+| '''1.55%'''
+| –
+| –
+| '''0.75%'''
+| '''0.61%'''
+| '''0.64%'''
+| '''9.64%'''
+| style="background:#CC0000;color:#FFFFFF;"| 8.04
+|-
+| [https://eleicoes.uol.com.br/2014/noticias/2014/10/05/ibope-boca-de-urna-aponta-confronto-entre-dilma-e-aecio-no-2-turno.htm Ibope (exit poll)]
+| 5 Oct
+| 64,200
+| style="background:#FFE3E3"| '''44%'''
+| –
+| 30%
+| –
+| 22%
+| –
+| 1%
+| –
+| –
+| <1%
+| <1%
+| <1%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 14%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/datafolha-votos-validos-dilma-tem-44-aecio-26-e-marina-24.html Datafolha]
+| 3–4 Oct
+| 18,116
+| style="background:#FFE3E3"| '''40%'''
+| –
+| 24%
+| –
+| 22%
+| –
+| 1%
+| –
+| –
+| 1%
+| 1%
+| <1%
+| 10%
+| style="background:#CC0000;color:#FFFFFF;"| 16%
+|-
+| [https://www1.folha.uol.com.br/poder/2014/09/1525042-datafolha-mostra-acirramento-da-disputa-entre-aecio-e-marina-pelo-segundo-lugar.shtml Datafolha]
+| 29–30 Sep
+| 7,520
+| style="background:#FFE3E3"| '''40%'''
+| –
+| 20%
+| –
+| 25%
+| –
+| 1%
+| –
+| –
+| 1%
+| <1%
+| <1%
+| 10%
+| style="background:#CC0000;color:#FFFFFF;"| 15%
+|-
+| [https://politica.estadao.com.br/noticias/eleicoes,no-ibope-dilma-abre-14-pontos-de-marina-que-perde-folga-em-relacao-a-aecio,1568705 Ibope]
+| 27–29 Sep
+| 3,010
+| style="background:#FFE3E3"| '''39%'''
+| –
+| 19%
+| –
+| 25%
+| –
+| 1%
+| –
+| –
+| 1%
+| <1%
+| <1%
+| 14%
+| style="background:#CC0000;color:#FFFFFF;"| 14%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/09/dilma-tem-38-marina-29-e-aecio-19-aponta-pesquisa-ibope.html Ibope]
+| 20–22 Sep
+| 3,010
+| style="background:#FFE3E3"| '''38%'''
+| –
+| 19%
+| –
+| 29%
+| –
+| <1%
+| –
+| –
+| 1%
+| <1%
+| <1%
+| 12%
+| style="background:#CC0000;color:#FFFFFF;"| 9%
+|-
+| [https://noticias.r7.com/eleicoes-2014/dilma-amplia-vantagem-e-venceria-marina-no-2-turno-diz-vox-populi-23092014 Vox Populi]
+| 20–21 Sep
+| 2,000
+| style="background:#FFE3E3"| '''40%'''
+| –
+| 17%
+| –
+| 22%
+| –
+| 1%
+| –
+| –
+| 1%
+| 0%
+| 0%
+| 18%
+| style="background:#CC0000;color:#FFFFFF;"| 18%
+|-
+| [https://www1.folha.uol.com.br/poder/2014/09/1518332-dilma-abre-vantagem-sobre-marina-aecio-esboca-reacao.shtml Datafolha]
+| 17–18 Sep
+| 5,340
+| style="background:#FFE3E3"| '''37%'''
+| –
+| 17%
+| –
+| 30%
+| –
+| 1%
+| –
+| –
+| 1%
+| <1%
+| <1%
+| 13%
+| style="background:#CC0000;color:#FFFFFF;"| 7%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/09/dilma-tem-36-marina-30-e-aecio-19-aponta-pesquisa-ibope.html Ibope]
+| 13–15 Sep
+| 3,010
+| style="background:#FFE3E3"| '''36%'''
+| –
+| 19%
+| –
+| 30%
+| –
+| <1%
+| –
+| –
+| 1%
+| <1%
+| <1%
+| 13%
+| style="background:#CC0000;color:#FFFFFF;"| 6%
+|-
+| [https://www.valor.com.br/eleicoes2014/3696370/vox-populi-dilma-lidera-no-1 Vox Populi]
+| 13–14 Sep
+| 2,000
+| style="background:#FFE3E3"| '''36%'''
+| –
+| 15%
+| –
+| 27%
+| –
+| 1%
+| –
+| –
+| 1%
+| 1%
+| <1%
+| 20%
+| style="background:#CC0000;color:#FFFFFF;"| 9%
+|-
+| [http://datafolha.folha.uol.com.br/eleicoes/2014/09/1514348-marina-e-dilma-empatam-em-1-e-2-turno-na-disputa-pela-presidencia.shtml Datafolha]
+| 8–9 Sep
+| 10,568
+| style="background:#FFE3E3"| '''36%'''
+| –
+| 15%
+| –
+| 33%
+| –
+| 1%
+| –
+| –
+| 1%
+| 1%
+| <1%
+| 13%
+| style="background:#CC0000;color:#FFFFFF;"| 3%
+|-
+| [https://www1.folha.uol.com.br/poder/2014/09/1515026-dilma-lidera-corrida-pelo-planalto-com-39-dos-votos-diz-pesquisa-cniibope.shtml CNI/Ibope]
+| 5–8 Sep
+| 2,002
+| style="background:#FFE3E3"| '''39%'''
+| –
+| 15%
+| –
+| 31%
+| –
+| <1%
+| –
+| –
+| 1%
+| <1%
+| <1%
+| 13%
+| style="background:#CC0000;color:#FFFFFF;"| 8%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/09/dilma-tem-35-marina-34-e-aecio-14-diz-pesquisa-datafolha.html Datafolha]
+| 1–3 Sep
+| 10,054
+| style="background:#FFE3E3"| '''35%'''
+| –
+| 14%
+| –
+| 34%
+| –
+| 1%
+| –
+| –
+| 1%
+| 1%
+| 1%
+| 13%
+| style="background:#CC0000;color:#FFFFFF;"| 1%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/09/dilma-tem-37-marina-33-e-aecio-15-aponta-pesquisa-ibope.html Ibope]
+| 31 Aug–2 Sep
+| 2,506
+| style="background:#FFE3E3"| '''37%'''
+| –
+| 15%
+| –
+| 33%
+| –
+| <1%
+| –
+| –
+| 1%
+| <1%
+| <1%
+| 12%
+| style="background:#CC0000;color:#FFFFFF;"| 4%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/08/datafolha-mostra-dilma-e-marina-empatadas-com-34-aecio-tem-15.html Datafolha]
+| 28–29 Aug
+| 2,874
+| style="background:#FFE3E3"| '''34%'''
+| –
+| 15%
+| –
+| style="background:#FCE68B"| '''34%'''
+| –
+| <1%
+| –
+| –
+| 2%
+| <1%
+| <1%
+| 14%
+| Tie
+|-
+| [https://www1.folha.uol.com.br/poder/2014/08/1506563-apos-ibope-pesquisa-cntmda-mostra-marina-a-seis-pontos-de-dilma.shtml CNT/MDA]
+| 21–24 Aug
+| 2,202
+| style="background:#FFE3E3"| '''36.2%'''
+| –
+| 16.0%
+| –
+| 28.2%
+| –
+| 0.3%
+| –
+| –
+| 1.3%
+| 0.4%
+| 0.5%
+| 19.1%
+| style="background:#CC0000;color:#FFFFFF;"| 8.0%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/08/pesquisa-ibope-mostra-dilma-com-34-e-marina-silva-com-29.html Ibope]
+| 23–25 Aug
+| 2,506
+| style="background:#FFE3E3"| '''34%'''
+| –
+| 19%
+| –
+| 29%
+| –
+| 1%
+| –
+| –
+| 1%
+| <1%
+| <1%
+| 15%
+| style="background:#CC0000;color:#FFFFFF;"| 5%
+|-
+| rowspan=2| [https://www1.folha.uol.com.br/poder/2014/08/1501910-com-21-no-1-turno-marina-empataria-com-dilma-no-2.shtml Datafolha]
+| rowspan=2| 14–15 Aug
+| rowspan=2| 2,843
+| style="background:#FFE3E3"| '''36%'''
+| –
+| 20%
+| –
+| 21%
+| –
+| <1%
+| –
+| –
+| 3%
+| 1%
+| <1%
+| 17%
+| style="background:#CC0000;color:#FFFFFF;"| 15%
+|-
+| style="background:#FFE3E3"| '''41%'''
+| –
+| 25%
+| –
+| –
+| –
+| <1%
+| –
+| –
+| 4%
+| 1%
+| 2%
+| 25%
+| style="background:#CC0000;color:#FFFFFF;"| 16%
+|-
+| colspan=2| 13 Aug
+| colspan=15| '''[[Eduardo Campos]] dies in a [[2014 Santos Cessna Citation accident|plane crash]]; [[Marina Silva]] is nominated the new PSB candidate'''
+|-
+| [http://g1.globo.com/bom-dia-brasil/noticia/2014/08/dilma-rousseff-tem-38-aecio-neves-23-e-eduardo-campos-9-diz-pesquisa-do-ibope.html Ibope]
+| 3–6 Aug
+| 2,506
+| style="background:#FFE3E3"| '''38%'''
+| –
+| 23%
+| –
+| –
+| 9%
+| 1%
+| –
+| –
+| 3%
+| 1%
+| 1%
+| 24%
+| style="background:#CC0000;color:#FFFFFF;"| 15%
+|-
+| [https://web.archive.org/web/20140726070049/http://blogs.estadao.com.br/radar-politico/2014/07/22/ibope-em-cenario-estavel-dilma-venceria-no-2o-turno/ Ibope]
+| 18–21 Jul
+| 2,002
+| style="background:#FFE3E3"| '''38%'''
+| –
+| 22%
+| –
+| –
+| 8%
+| 1%
+| –
+| –
+| 3%
+| 1%
+| 1%
+| 25%
+| style="background:#CC0000;color:#FFFFFF;"| 16%
+|-
+| [https://www1.folha.uol.com.br/poder/2014/07/1487627-dilma-lidera-com-36-mas-empata-com-aecio-no-2-turno-diz-datafolha.shtml Datafolha]
+| 15–16 Jul
+| 5,377
+| style="background:#FFE3E3"| '''36%'''
+| –
+| 20%
+| –
+| –
+| 8%
+| 1%
+| –
+| –
+| 3%
+| 1%
+| 3%
+| 27%
+| style="background:#CC0000;color:#FFFFFF;"| 16%
+|-
+| [https://www1.folha.uol.com.br/poder/2014/07/1480175-com-copa-do-mundo-humor-do-pais-melhora-e-dilma-cresce.shtml Datafolha]
+| 1–2 Jul
+| 2,857
+| style="background:#FFE3E3"| '''38%'''
+| –
+| 20%
+| –
+| –
+| 9%
+| 1%
+| –
+| –
+| 4%
+| 1%
+| 3%
+| 24%
+| style="background:#CC0000;color:#FFFFFF;"| 18%
+|-
+| [http://eleicoes.ibopeinteligencia.com/Paginas/presidentebr001712014.aspx Ibope]
+| 13–15 Jun
+| 2,002
+| style="background:#FFE3E3"| '''39%'''
+| –
+| 21%
+| –
+| –
+| 10%
+| –
+| –
+| –
+| 3%
+| –
+| 6%
+| 21%
+| style="background:#CC0000;color:#FFFFFF;"| 18%
+|-
+| [http://atarde.uol.com.br/politica/noticias/ibope-dilma-atinge-38-aecio-22-e-campos-13-1598197 Ibope]
+| 4–7 Jun
+| 2,002
+| style="background:#FFE3E3"| '''38%'''
+| –
+| 22%
+| –
+| –
+| 13%
+| –
+| –
+| –
+| 3%
+| 1%
+| 3%
+| 20%
+| style="background:#CC0000;color:#FFFFFF;"| 16%
+|-
+| [https://exame.abril.com.br/brasil/todos-os-presidenciaveis-caem-em-nova-pesquisa-datafolha/ Datafolha]
+| 3–5 Jun
+| 4,337
+| style="background:#FFE3E3"| '''34%'''
+| –
+| 19%
+| –
+| –
+| 7%
+| –
+| –
+| –
+| –
+| –
+| –
+| 30%
+| style="background:#CC0000;color:#FFFFFF;"| 15%
+|-
+| [https://www.cartacapital.com.br/politica/vox-populi-aecio-sobe-mas-dilma-ainda-venceria-no-1o-turno-122/ Vox Populi]
+| 31 May–1 Jun
+| 2,200
+| style="background:#FFE3E3"| '''40%'''
+| –
+| 21%
+| –
+| –
+| 8%
+| –
+| <1%
+| –
+| 2%
+| <1%
+| <1%
+| 28%
+| style="background:#CC0000;color:#FFFFFF;"| 19%
+|-
+| [http://noticias.uol.com.br/politica/ultimas-noticias/2014/05/22/ibope-dilma-tem-40-aecio-20-e-campos-11.htm Ibope]
+| 15–19 May
+| 2,002
+| style="background:#FFE3E3"| '''40%'''
+| –
+| 20%
+| –
+| –
+| 11%
+| –
+| –
+| –
+| 3%
+| 1%
+| 1%
+| 24%
+| style="background:#CC0000;color:#FFFFFF;"| 20%
+|-
+| rowspan=4| [https://www1.folha.uol.com.br/poder/2014/05/1451682-aecio-sobe-e-chance-de-dilma-ser-reeleita-no-1-turno-diminui.shtml Datafolha]
+| rowspan=4| 7–8 May
+| rowspan=4| 2,844
+| style="background:#FFE3E3"| '''37%'''
+| –
+| 20%
+| –
+| –
+| 11%
+| –
+| 1%
+| –
+| 3%
+| 1%
+| 2%
+| 24%
+| style="background:#CC0000;color:#FFFFFF;"| 17%
+|-
+| style="background:#FFE3E3"| '''41%'''
+| –
+| 22%
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| –
+| 23%
+| style="background:#CC0000;color:#FFFFFF;"| 19%
+|-
+| –
+| style="background:#FFE3E3"| '''52%'''
+| 19%
+| –
+| –
+| 11%
+| –
+| –
+| –
+| –
+| –
+| –
+| 18%
+| style="background:#CC0000;color:#FFFFFF;"| 33%
+|-
+| –
+| style="background:#FFE3E3"| '''49%'''
+| 17%
+| –
+| –
+| 9%
+| –
+| 1%
+| –
+| 2%
+| 1%
+| 2%
+| 19%
+| style="background:#CC0000;color:#FFFFFF;"| 32%
+|-
+| rowspan=2| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/04/dilma-vai-de-40-para-37-mas-ainda-ganha-no-primeiro-turno-diz-ibope.html Ibope]
+| rowspan=2| 10–14 Apr
+| rowspan=2| 2,002
+| style="background:#FFE3E3"| '''37%'''
+| –
+| 14%
+| –
+| –
+| 6%
+| –
+| 1%
+| –
+| 2%
+| 0%
+| 1%
+| 37%
+| style="background:#CC0000;color:#FFFFFF;"| 23%
+|-
+| style="background:#FFE3E3"| '''37%'''
+| –
+| 14%
+| –
+| 10%
+| –
+| –
+| 1%
+| –
+| 2%
+| –
+| 0%
+| 33%
+| style="background:#CC0000;color:#FFFFFF;"| 23%
+|-
+| [https://www.cartacapital.com.br/politica/adversarios-nao-crescem-e-dilma-segue-favorita-para-vencer-no-1o-turno-1966/ Vox Populi]
+| 6–8 Apr
+| 2,200
+| style="background:#FFE3E3"| '''40%'''
+| –
+| 16%
+| –
+| –
+| 10%
+| –
+| 0%
+| –
+| 2%
+| 1%
+| 3%
+| 29%
+| style="background:#CC0000;color:#FFFFFF;"| 22%
+|-
+| rowspan=5| [https://www1.folha.uol.com.br/poder/2014/04/1436456-com-pessimismo-economico-dilma-perde-seis-pontos-aponta-datafolha.shtml Datafolha]
+| rowspan=5| 2–3 Apr
+| rowspan=5| 2,637
+| style="background:#FFE3E3"| '''38%'''
+| –
+| 16%
+| –
+| –
+| 10%
+| –
+| 0%
+| –
+| 2%
+| 1%
+| 3%
+| 29%
+| style="background:#CC0000;color:#FFFFFF;"| 22%
+|-
+| style="background:#FFE3E3"| '''43%'''
+| –
+| 18%
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| –
+| 25%
+| style="background:#CC0000;color:#FFFFFF;"| 25%
+|-
+| style="background:#FFE3E3"| '''39%'''
+| –
+| 16%
+| –
+| 27%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 19%
+| style="background:#CC0000;color:#FFFFFF;"| 12%
+|-
+| –
+| style="background:#FFE3E3"| '''52%'''
+| 16%
+| –
+| –
+| 11%
+| –
+| –
+| –
+| –
+| –
+| –
+| 21%
+| style="background:#CC0000;color:#FFFFFF;"| 36%
+|-
+| –
+| style="background:#FFE3E3"| '''48%'''
+| 14%
+| –
+| 23%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 15%
+| style="background:#CC0000;color:#FFFFFF;"| 25%
+|-
+| rowspan=2| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/03/dilma-tem-40-e-venceria-no-1-turno-indica-pesquisa-ibope.html Ibope]
+| rowspan=2| 13–17 Mar
+| rowspan=2| 2,002
+| style="background:#FFE3E3"| '''40%'''
+| –
+| 13%
+| –
+| –
+| 6%
+| –
+| 1%
+| –
+| 3%
+| –
+| 0%
+| 36%
+| style="background:#CC0000;color:#FFFFFF;"| 27%
+|-
+| style="background:#FFE3E3"| '''40%'''
+| –
+| 13%
+| –
+| 9%
+| –
+| –
+| 1%
+| –
+| 2%
+| –
+| 0%
+| 34%
+| style="background:#CC0000;color:#FFFFFF;"| 27%
+|-
+| rowspan=7| [http://datafolha.folha.uol.com.br/eleicoes/2014/02/1416950-mesmo-com-desejo-de-mudanca-dilma-rousseff-lidera-corrida-eleitoral.shtml Datafolha]
+| rowspan=7| 19–20 Feb
+| rowspan=7| 2,614
+| style="background:#FFE3E3"| '''47%'''
+| –
+| 17%
+| –
+| –
+| 12%
+| –
+| –
+| –
+| –
+| –
+| –
+| 24%
+| style="background:#CC0000;color:#FFFFFF;"| 30%
+|-
+| style="background:#FFE3E3"| '''43%'''
+| –
+| 15%
+| –
+| 23%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 24%
+| style="background:#CC0000;color:#FFFFFF;"| 28%
+|-
+| style="background:#FFE3E3"| '''42%'''
+| –
+| 15%
+| –
+| –
+| 8%
+| –
+| –
+| –
+| –
+| –
+| 16%
+| 20%
+| style="background:#CC0000;color:#FFFFFF;"| 22%
+|-
+| style="background:#FFE3E3"| '''41%'''
+| –
+| 12%
+| –
+| 17%
+| –
+| –
+| –
+| –
+| –
+| –
+| 14%
+| 16%
+| style="background:#CC0000;color:#FFFFFF;"| 24%
+|-
+| style="background:#FFE3E3"| '''44%'''
+| –
+| 16%
+| –
+| –
+| 9%
+| –
+| <1%
+| –
+| 3%
+| 1%
+| 1%
+| 26%
+| style="background:#CC0000;color:#FFFFFF;"| 28%
+|-
+| –
+| style="background:#FFE3E3"| '''54%'''
+| 15%
+| –
+| –
+| 9%
+| –
+| –
+| –
+| –
+| –
+| –
+| 21%
+| style="background:#CC0000;color:#FFFFFF;"| 39%
+|-
+| –
+| style="background:#FFE3E3"| '''51%'''
+| 14%
+| –
+| 19%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 16%
+| style="background:#CC0000;color:#FFFFFF;"| 32%
+|-
+| [http://www.cartacapital.com.br/politica/dilma-e-favorita-para-se-reeleger-no-1o-turno-1001.html Vox Populi] {{Webarchive|url=https://web.archive.org/web/20141011224112/http://www.cartacapital.com.br/politica/dilma-e-favorita-para-se-reeleger-no-1o-turno-1001.html |date=2014-10-11 }}
+| 13–15 Feb
+| 2,201
+| style="background:#FFE3E3"| '''41%'''
+| –
+| 17%
+| –
+| –
+| 6%
+| –
+| <1%
+| –
+| <1%
+| –
+| <1%
+| 35%
+| style="background:#CC0000;color:#FFFFFF;"| 24%
+|- style="background:#E9E9E9;"
+| '''[[2010 Brazilian general election|2010 election]]'''
+| 3 Oct 2010
+| –
+| '''46.91%'''
+| –
+| –
+| '''32.61%'''
+| '''19.33%'''
+| –
+| –
+| –
+| '''0.87%'''
+| –
+| –
+| '''0.28'''
+| '''8.64%'''
+| style="background:#CC0000;color:#FFFFFF;"| 14.30
+|}
+
+====Second round====
+{| style="float; margin-left: 1em; margin-bottom: 0.5em" class="infobox"
+|+Polling aggregates
+|-
+| style="text-align: center" | <span style="font-size:105%;">'''Active candidates'''</span>
+|-
+| style="padding: 0 5px;" | {{color box|#CC0000}} Dilma Rousseff (PT)
+|-
+| style="padding: 0 5px;" | {{color box|#0080FF}} Aécio Neves (PSDB)
+|}
+
+{{Chart|definition=Opinion polling for the second round of the 2014 Brazilian general election.chart|data=Opinion polling for the second round of the 2014 Brazilian general election.tab|width=750px}}
+
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="2"| Pollster/client(s)
+! rowspan="2"| Date(s)<br>conducted
+! rowspan="2" data-sort-type="number"| Sample<br>size
+! class="unsortable" style="width:50px;"| [[Dilma Rousseff|Rousseff]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
+! class="unsortable" style="width:50px;"| [[Aécio Neves|Neves]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
+! rowspan="2" class="unsortable"| Abst.<br>Undec.
+! rowspan="2" data-sort-type="number"| Lead
+|-
+! data-sort-type="number" class="sortable" style="background:{{party color|Workers' Party (Brazil)}};"|
+! data-sort-type="number" class="sortable" style="background:{{party color|Brazilian Social Democracy Party}};"|
+|- style="background:#E9E9E9;"
+| '''2014 election'''
+| 26 Oct
+| –
+| style="background:#FFE3E3"| '''51.64%'''
+| '''48.36%'''
+| '''6.34%'''
+| style="background:#CC0000;color:#FFFFFF;"| 3.28%
+|-
+| colspan="7"| '''Valid votes'''
+|-
+| [http://noticias.r7.com/eleicoes-2014/dilma-amplia-vantagem-sobre-aecio-para-7-pontos-segundo-vox-populi-25102014 Vox Populi]
+| 25 Oct
+| 2,000
+| style="background:#FFE3E3"| '''54%'''
+| 46%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 8%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-52-e-aecio-48-dos-votos-validos-diz-datafolha.html Datafolha]
+| 24–25 Oct
+| 19,318
+| style="background:#FFE3E3"| '''52%'''
+| 48%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 3%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-53-e-aecio-47-dos-votos-validos-aponta-ibope.html Ibope]
+| 24–25 Oct
+| 3,010
+| style="background:#FFE3E3"| '''53%'''
+| 47%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 6%
+|-
+| [https://noticias.r7.com/eleicoes-2014/pesquisa-cnt-mostra-empate-tecnico-entre-dilma-rousseff-e-aecio-neves-25102014 CNT/MDA]
+| 23–24 Oct
+| 2,002
+| 49.7%
+| style="background:#B3E0FF"| '''50.3%'''
+| –
+| style="background:#0080FF;color:#FFFFFF;"| 0.6%
+|-
+| [https://www1.folha.uol.com.br/poder/2014/10/1537063-dilma-atinge-53-e-abre-6-pontos-de-vantagem-sobre-aecio-diz-datafolha.shtml Datafolha]
+| 22–23 Oct
+| 9,910
+| style="background:#FFE3E3"| '''53%'''
+| 47%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 6%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-52-e-aecio-48-dos-votos-validos-diz-pesquisa-datafolha.html Datafolha]
+| 21 Oct
+| 4,355
+| style="background:#FFE3E3"| '''52%'''
+| 48%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 4%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-54-e-aecio-46-dos-votos-validos-diz-pesquisa-ibope.html Ibope]
+| 20–22 Oct
+| 3,010
+| style="background:#FFE3E3"| '''54%'''
+| 46%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 8%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-52-e-aecio-48-dos-votos-validos-aponta-datafolha.html Datafolha]
+| 20 Oct
+| 4,389
+| style="background:#FFE3E3"| '''52%'''
+| 48%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 4%
+|-
+| [http://noticias.r7.com/eleicoes-2014/vox-populi-indica-dilma-a-frente-de-aecio-mas-empate-tecnico-persiste-20102014 Vox Populi]
+| 18–19 Oct
+| 2,000
+| style="background:#FFE3E3"| '''52%'''
+| 48%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 4%
+|-
+| [https://www.opovo.com.br/noticias/politica/2014/10/dilma-e-aecio-estao-em-empate-tecnico-aponta-cnt-mda.html CNT/MDA]
+| 18–19 Oct
+| 2,002
+| style="background:#FFE3E3"| '''50.5%'''
+| 49.5%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 1%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-51-e-dilma-49-dos-votos-validos-aponta-datafolha.html Datafolha]
+| 14–15 Oct
+| 9,081
+| 49%
+| style="background:#B3E0FF"| '''51%'''
+| –
+| style="background:#0080FF;color:#FFFFFF;"| 2%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-51-e-dilma-49-dos-votos-validos-aponta-ibope.html Ibope]
+| 12–14 Oct
+| 3,010
+| 49%
+| style="background:#B3E0FF"| '''51%'''
+| –
+| style="background:#0080FF;color:#FFFFFF;"| 2%
+|-
+| [http://www.valor.com.br/eleicoes2014/3733770/vox-populi-mostra-empate-tecnico-entre-dilma-e-aecio Vox Populi] {{Webarchive|url=https://web.archive.org/web/20180124073714/http://www.valor.com.br/eleicoes2014/3733770/vox-populi-mostra-empate-tecnico-entre-dilma-e-aecio |date=2018-01-24 }}
+| 11–12 Oct
+| 2,000
+| style="background:#FFE3E3"| '''51%'''
+| 49%
+| –
+| style="background:#CC0000;color:#FFFFFF;"| 2%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-46-e-dilma-44-diz-1-pesquisa-datafolha-do-2-turno.html Datafolha]
+| 8–9 Oct
+| 2,879
+| 49%
+| style="background:#B3E0FF"| '''51%'''
+| –
+| style="background:#0080FF;color:#FFFFFF;"| 2%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-46-e-dilma-44-diz-1-pesquisa-ibope-do-segundo-turno.html Ibope]
+| 7–8 Oct
+| 3,010
+| 49%
+| style="background:#B3E0FF"| '''51%'''
+| –
+| style="background:#0080FF;color:#FFFFFF;"| 2%
+|-
+| colspan="7"| '''Total votes'''
+|-
+| [http://noticias.r7.com/eleicoes-2014/dilma-amplia-vantagem-sobre-aecio-para-7-pontos-segundo-vox-populi-25102014 Vox Populi]
+| 25 Oct
+| 2,000
+| style="background:#FFE3E3"| '''48%'''
+| 41%
+| 10%
+| style="background:#CC0000;color:#FFFFFF;"| 7%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-52-e-aecio-48-dos-votos-validos-diz-datafolha.html Datafolha]
+| 24–25 Oct
+| 19,318
+| style="background:#FFE3E3"| '''47%'''
+| 43%
+| 10%
+| style="background:#CC0000;color:#FFFFFF;"| 4%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-53-e-aecio-47-dos-votos-validos-aponta-ibope.html Ibope]
+| 24–25 Oct
+| 3,010
+| style="background:#FFE3E3"| '''49%'''
+| 43%
+| 8%
+| style="background:#CC0000;color:#FFFFFF;"| 6%
+|-
+| [https://noticias.r7.com/eleicoes-2014/pesquisa-cnt-mostra-empate-tecnico-entre-dilma-rousseff-e-aecio-neves-25102014 CNT/MDA]
+| 23–24 Oct
+| 2,002
+| 44.7%
+| style="background:#B3E0FF"| '''45.3%'''
+| 10.1%
+| style="background:#0080FF;color:#FFFFFF;"| 0.6%
+|-
+| [https://www1.folha.uol.com.br/poder/2014/10/1537063-dilma-atinge-53-e-abre-6-pontos-de-vantagem-sobre-aecio-diz-datafolha.shtml Datafolha]
+| 22–23 Oct
+| 9,910
+| style="background:#FFE3E3"| '''48%'''
+| 42%
+| 10%
+| style="background:#CC0000;color:#FFFFFF;"| 6%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-52-e-aecio-48-dos-votos-validos-diz-pesquisa-datafolha.html Datafolha]
+| 21 Oct
+| 4,355
+| style="background:#FFE3E3"| '''47%'''
+| 43%
+| 10%
+| style="background:#CC0000;color:#FFFFFF;"| 4%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-54-e-aecio-46-dos-votos-validos-diz-pesquisa-ibope.html Ibope]
+| 20–22 Oct
+| 3,010
+| style="background:#FFE3E3"| '''49%'''
+| 41%
+| 10%
+| style="background:#CC0000;color:#FFFFFF;"| 8%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/dilma-tem-52-e-aecio-48-dos-votos-validos-aponta-datafolha.html Datafolha]
+| 20 Oct
+| 4,389
+| style="background:#FFE3E3"| '''46%'''
+| 43%
+| 11%
+| style="background:#CC0000;color:#FFFFFF;"| 3%
+|-
+| [http://noticias.r7.com/eleicoes-2014/vox-populi-indica-dilma-a-frente-de-aecio-mas-empate-tecnico-persiste-20102014 Vox Populi]
+| 18–19 Oct
+| 2,000
+| style="background:#FFE3E3"| '''46%'''
+| 43%
+| 11%
+| style="background:#CC0000;color:#FFFFFF;"| 3%
+|-
+| [https://www.opovo.com.br/noticias/politica/2014/10/dilma-e-aecio-estao-em-empate-tecnico-aponta-cnt-mda.html CNT/MDA]
+| 18–19 Oct
+| 2,002
+| style="background:#FFE3E3"| '''45.5%'''
+| 44.5%
+| 10.0%
+| style="background:#CC0000;color:#FFFFFF;"| 1%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-51-e-dilma-49-dos-votos-validos-aponta-datafolha.html Datafolha]
+| 14–15 Oct
+| 9,081
+| 43%
+| style="background:#B3E0FF"| '''45%'''
+| 12%
+| style="background:#0080FF;color:#FFFFFF;"| 2%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-51-e-dilma-49-dos-votos-validos-aponta-ibope.html Ibope]
+| 12–14 Oct
+| 3,010
+| 43%
+| style="background:#B3E0FF"| '''45%'''
+| 12%
+| style="background:#0080FF;color:#FFFFFF;"| 2%
+|-
+| [http://www.valor.com.br/eleicoes2014/3733770/vox-populi-mostra-empate-tecnico-entre-dilma-e-aecio Vox Populi] {{Webarchive|url=https://web.archive.org/web/20180124073714/http://www.valor.com.br/eleicoes2014/3733770/vox-populi-mostra-empate-tecnico-entre-dilma-e-aecio |date=2018-01-24 }}
+| 11–12 Oct
+| 2,000
+| style="background:#FFE3E3"| '''45%'''
+| 44%
+| 11%
+| style="background:#CC0000;color:#FFFFFF;"| 1%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-46-e-dilma-44-diz-1-pesquisa-datafolha-do-2-turno.html Datafolha]
+| 8–9 Oct
+| 2,879
+| 44%
+| style="background:#B3E0FF"| '''46%'''
+| 10%
+| style="background:#0080FF;color:#FFFFFF;"| 2%
+|-
+| [http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-46-e-dilma-44-diz-1-pesquisa-ibope-do-segundo-turno.html Ibope]
+| 7–8 Oct
+| 3,010
+| 44%
+| style="background:#B3E0FF"| '''46%'''
+| 10%
+| style="background:#0080FF;color:#FFFFFF;"| 2%
+|}
+
+==Results==
+
+===President===
+{{Election results
+|cand1=[[Dilma Rousseff]]|vp1=[[Michel Temer]] ([[Brazilian Democratic Movement|PMDB]])|party1=[[Workers' Party (Brazil)|Workers' Party]]|votes1=43267668|votes1_2=54501118
+|cand2=[[Aécio Neves]]|vp2=[[Aloysio Nunes]]|party2=[[Brazilian Social Democracy Party]]|votes2=34897211|votes2_2=51041155
+|cand3=[[Marina Silva]]|vp3=Beto Albuquerque|party3=[[Brazilian Socialist Party]]|votes3=22176619
+|cand4=[[Luciana Genro]]|vp4=Jorge Paz|party4=[[Socialism and Liberty Party]]|votes4=1612186
+|cand5=[[Everaldo Pereira]]|vp5=Leonardo Gadelha|party5=[[Social Christian Party (Brazil)|Social Christian Party]]|votes5=780513
+|cand6=[[Eduardo Jorge]]|vp6=Célia Sacramento|party6=[[Green Party (Brazil)|Green Party]]|votes6=630099
+|cand7=[[Levy Fidelix]]|vp7=José Alves de Oliveira|party7=[[Brazilian Labour Renewal Party]]|votes7=446878
+|cand8=[[José Maria de Almeida]]|vp8=Cláudia Durans|party8=[[United Socialist Workers' Party]]|votes8=91209
+|cand9=[[José Maria Eymael]]|vp9=Roberto Lopes|party9=[[Christian Democracy (Brazil)|Christian Social Democratic Party]]|votes9=61250
+|cand10=Mauro Iasi|vp10=Sofia Manzano|party10=[[Brazilian Communist Party]]|votes10=47845
+|cand11=[[Rui Costa Pimenta]]|vp11=Ricardo Machado|party11=[[Workers' Cause Party]]|votes11=12324
+|invalid=11099081|invalid2=7141606
+|electorate=142822046|electorate2=142822046
+|source=[http://electionresources.org/br/presidente.php?election=2014&state=BR Election Resources]
+}}
+
+====Voter demographics====
+[[File:2014 Brazilian presidential election map - Municipalities (Round 2).svg|thumb|300px|right|<div style="text-align:right">'''Second round results'''</div>
+<div style="text-align:right;line-height:10px">
+{{small|Municipalities won by [[Dilma Rousseff]]: {{Color box|#E62B3D|&nbsp;&nbsp;&nbsp;|border=darkgray}}}}<br />
+{{small|Municipalities won by [[Aécio Neves]]: {{Color box|#0C5AA2|&nbsp;&nbsp;&nbsp;|border=darkgray}}}}</div>]]
+{| class="wikitable plainrowheaders" style="text-align:right;"
+|-
+!scope="col"| Demographic subgroup
+! {{party shading/Republican}}|Rousseff
+! {{party shading/Democratic}}|Neves
+! % of<br />total vote
+|-
+!scope="row"| Total vote
+| style="background:#ffb6b6;"| 52
+| style="background:#f0f0ff;"| 48
+| 100
+|-
+! colspan=5|Gender
+|-
+!scope="row"| Men
+| style="background:#ffb6b6;"| 51
+| style="background:#f0f0ff;"| 49
+| 48
+|-
+!scope="row"| Women
+| style="background:#ffb6b6;"| 54
+| style="background:#f0f0ff;"| 46
+| 52
+|-
+! colspan=5|Age
+|-
+!scope="row"| 16–24 years old
+| style="background:#d0c0d7;"| 50
+| style="background:#d0c0d7;"| 50
+| 16
+|-
+!scope="row"| 25–34 years old
+| style="background:#ffb6b6;"| 52
+| style="background:#f0f0ff;"| 47
+| 23
+|-
+!scope="row"| 35–44 years old
+| style="background:#ffb6b6;"| 55
+| style="background:#f0f0ff;"| 45
+| 20
+|-
+!scope="row"| 45–59 years old
+| style="background:#ffb6b6;"| 53
+| style="background:#f0f0ff;"| 47
+| 24
+|-
+!scope="row"| 60 and older
+| style="background:#d0c0d7;"| 50
+| style="background:#d0c0d7;"| 50
+| 17
+|-
+! colspan=5|Education
+|-
+!scope="row"| Less than high school
+| style="background:#ffb6b6;"| 61
+| style="background:#f0f0ff;"| 39
+| 36
+|-
+!scope="row"| High school diploma
+| style="background:#ffb6b6;"| 51
+| style="background:#f0f0ff;"| 49
+| 43
+|-
+!scope="row"| Bachelor's degree or more
+| style="background:#fff3f3;"| 39
+| style="background:#b0ceff;"| 61
+| 21
+|-
+! colspan=5|Family income
+|-
+!scope="row"| Under 2x min wage 
+| style="background:#ffb6b6;"| 63
+| style="background:#f0f0ff;"| 37
+| 38
+|-
+!scope="row"| 2-5x min wage 
+| style="background:#d0c0d7;"| 50
+| style="background:#d0c0d7;"| 50
+| 39
+|-
+!scope="row"| 5-10x min wage
+| style="background:#fff3f3;"| 40
+| style="background:#b0ceff;"| 60
+| 13
+|-
+!scope="row"| Over 10x min wage 
+| style="background:#fff3f3;"| 35
+| style="background:#b0ceff;"| 65
+| 10
+|-
+! colspan=5|Region
+|-
+!scope="row"| Southeast
+| style="background:#fff3f3;"| 44
+| style="background:#b0ceff;"| 56
+| 44
+|-
+!scope="row"| South
+| style="background:#fff3f3;"| 45
+| style="background:#b0ceff;"| 55
+| 15
+|-
+!scope="row"| Northeast
+| style="background:#ffb6b6;"| 70
+| style="background:#f0f0ff;"| 30
+| 27
+|-
+!scope="row"| Central-West
+| style="background:#fff3f3;"| 44
+| style="background:#b0ceff;"| 56
+| 7
+|-
+!scope="row"| North 
+| style="background:#ffb6b6;"| 58
+| style="background:#f0f0ff;"| 42
+| 7
+|-
+|align=left colspan=4|Source: [http://media.folha.uol.com.br/datafolha/2014/10/25/intencao_de_voto_presidente_vespera_2_turno.pdf Datafolha]
+|}
+
+===Chamber of Deputies===
+{{Election results
+|image=[[File:Brazil National Parliament 2014.svg]]
+|party1=[[Workers' Party (Brazil)|Workers' Party]]|votes1=13554166|seats1=69|sc1=–19
+|party2=[[Brazilian Social Democracy Party]]|votes2=11073631|seats2=54|sc2=+1
+|party3=[[Brazilian Democratic Movement|Brazilian Democratic Movement Party]]|votes3=10791949|seats3=66|sc3=–13
+|party4=[[Progressistas|Progressive Party]]|votes4=6429791|seats4=38|sc4=–5|color4={{party color|Progressive Party (Brazil)}}
+|party5=[[Brazilian Socialist Party]]|votes5=6267878|seats5=34|sc5=0
+|party6=[[Social Democratic Party (Brazil, 2011)|Social Democratic Party]]|votes6=5967953|seats6=36|sc6=New
+|party7=[[Party of the Republic]]|votes7=5635519|seats7=34|sc7=–7|color7={{party color|Party of the Republic}}
+|party8=[[Republicans (Brazil)|Brazilian Republican Party]]|votes8=4423993|seats8=21|sc8=+13
+|party9=[[Democrats (Brazil)|Democrats]]|votes9=4085487|seats9=21|sc9=–21
+|party10=[[Brazilian Labour Party (current)|Brazilian Labour Party]]|votes10=3914193|seats10=25|sc10=+4|color10=#7B7B7B
+|party11=[[Democratic Labour Party (Brazil)|Democratic Labour Party]]|votes11=3469168|seats11=19|sc11=–9
+|party12=[[Solidarity (Brazil)|Solidariedade]]|votes12=2689701|seats12=15|sc12=New
+|party13=[[Social Christian Party (Brazil)|Social Christian Party]]|votes13=2520421|seats13=13|sc13=–5
+|party14=[[Green Party (Brazil)|Green Party]]|votes14=2004464|seats14=8|sc14=–7
+|party15=[[Republican Party of the Social Order]]|votes15=1977117|seats15=11|sc15=New
+|party16=[[Cidadania|Popular Socialist Party]]|votes16=1955689|seats16=10|sc16=–2|color16={{party color|Popular Socialist Party (Brazil)}}
+|party17=[[Communist Party of Brazil]]|votes17=1913015|seats17=10|sc17=–5
+|party18=[[Socialism and Liberty Party]]|votes18=1745470|seats18=5|sc18=+2
+|party19=[[Humanist Party of Solidarity]]|votes19=926664|seats19=5|sc19=+3
+|party20=[[Avante (political party)|Labour Party of Brazil]]|votes20=812497|seats20=1|sc20=–2|color20={{party color|Labour Party of Brazil}}
+|party21=[[Social Liberal Party (Brazil)|Social Liberal Party]]|votes21=808710|seats21=1|sc21=0
+|party22=[[Progressive Republican Party (Brazil)|Progressive Republican Party]]|votes22=724825|seats22=3|sc22=+1
+|party23=[[Podemos (Brazil)|National Labour Party]]|votes23=723182|seats23=4|sc23=+4|color23={{party color|National Labour Party (Brazil)}}
+|party24=[[Patriota|National Ecologic Party]]|votes24=667983|seats24=2|sc24=New|color24={{party color|National Ecologic Party}}
+|party25=[[Christian Democracy (Brazil)|Christian Social Democratic Party]]|votes25=509936|seats25=2|sc25=+2
+|party26=[[Party of National Mobilization]]|votes26=467777|seats26=3|sc26=–1
+|party27=[[Brazilian Labour Renewal Party]]|votes27=454190|seats27=1|sc27=–1
+|party28=[[Christian Labour Party]]|votes28=338117|seats28=2|sc28=+1|color28={{party color|Christian Labour Party}}
+|party29=[[United Socialist Workers' Party]]|votes29=188473|seats29=0|sc29=0
+|party30=[[Free Fatherland Party (Brazil)|Free Fatherland Party]]|votes30=141254|seats30=0|sc30=New
+|party31=[[Brazilian Communist Party]]|votes31=66979|seats31=0|sc31=0
+|party32=[[Workers' Cause Party]]|votes32=12969|seats32=0|sc32=0
+|invalid=7536833
+|blank=10106586
+|total_sc=0
+|electorate=142384193
+|source=[http://electionresources.org/br/deputies.php?election=2014&state=BR Election Resources]
+}}
+
+===Senate===
+{{Election results
+|seattype1=Won|seattype2=Total|seattype3=+/–
+|party1=[[Brazilian Social Democracy Party]]|votes1=23880078|st1t1=4|st2t1=10|st3t1=–1
+|party2=[[Workers' Party (Brazil)|Workers' Party]]|votes2=15155818|st1t2=2|st2t2=12|st3t2=–3
+|party3=[[Brazilian Democratic Movement|Brazilian Democratic Movement Party]]|votes3=12129969|st1t3=5|st2t3=18|st3t3=–1
+|party4=[[Brazilian Socialist Party]]|votes4=12123194|st1t4=3|st2t4=7|st3t4=+4
+|party5=[[Social Democratic Party (Brazil, 2011)|Social Democratic Party]]|votes5=7147245|st1t5=2|st2t5=3|st3t5=New
+|party6=[[Democratic Labour Party (Brazil)|Democratic Labour Party]]|votes6=3609643|st1t6=4|st2t6=8|st3t6=+4
+|party7=[[Democrats (Brazil)|Democrats]]|votes7=3515426|st1t7=3|st2t7=5|st3t7=–1
+|party8=[[Brazilian Labour Party (current)|Brazilian Labour Party]]|votes8=2803999|st1t8=2|st2t8=3|st3t8=–3
+|party9=[[Republican Party of the Social Order]]|votes9=2234132|st1t9=0|st2t9=1|st3t9=New
+|party10=[[Progressistas|Progressive Party]]|votes10=1931738|st1t10=1|st2t10=5|st3t10=0|color10={{party color|Progressive Party (Brazil)}}
+|party11=[[Socialism and Liberty Party]]|votes11=1045275|st1t11=0|st2t11=1|st3t11=–1
+|party12=[[Communist Party of Brazil]]|votes12=803144|st1t12=0|st2t12=1|st3t12=–1
+|party13=[[Green Party (Brazil)|Green Party]]|votes13=723576|st1t13=0|st2t13=1|st3t13=+1
+|party14=[[Party of the Republic]]|votes14=696462|st1t14=1|st2t14=4|st3t14=0
+|party15=[[Solidarity (Brazil)|Solidarity]]|votes15=370507|st1t15=0|st2t15=1|st3t15=New
+|party16=[[United Socialist Workers' Party]]|votes16=355585|st1t16=0|st2t16=0|st3t16=0
+|party17=[[Republicans (Brazil)|Brazilian Republican Party]]|votes17=301162|st1t17=0|st2t17=1|st3t17=0|color17={{party color|Brazilian Republican Party}}
+|party18=[[Progressive Republican Party (Brazil)|Progressive Republican Party]]|votes18=170257|st1t18=0|st2t18=0|st3t18=0
+|party19=[[Brazilian Communist Party]]|votes19=68199|st1t19=0|st2t19=0|st3t19=0
+|party20=[[Patriota|National Ecologic Party]]|votes20=65597|st1t20=0|st2t20=0|st3t20=New|color20={{party color|National Ecologic Party}}
+|party21=[[Party of National Mobilization]]|votes21=57911|st1t21=0|st2t21=0|st3t21=–1
+|party22=[[Brazilian Labour Renewal Party]]|votes22=38429|st1t22=0|st2t22=0|st3t22=0
+|party23=[[Christian Democracy (Brazil)|Christian Social Democratic Party]]|votes23=31011|st1t23=0|st2t23=0|st3t23=0
+|party24=[[Free Fatherland Party (Brazil)|Free Fatherland Party]]|votes24=29366|st1t24=0|st2t24=0|st3t24=New
+|party25=[[Christian Labour Party]]|votes25=21993|st1t25=0|st2t25=0|st3t25=0
+|party26=[[Social Christian Party (Brazil)|Social Christian Party]]|votes26=19286|st1t26=0|st2t26=0|st3t26=–1
+|party27=[[Avante (political party)|Labour Party of Brazil]]|votes27=11300|st1t27=0|st2t27=0|st3t27=0|color27={{party color|Labour Party of Brazil}}
+|party28=[[Workers' Cause Party]]|votes28=8561|st1t28=0|st2t28=0|st3t28=0
+|party29=[[Podemos (Brazil)|National Labour Party]]|votes29=2741|st1t29=0|st2t29=0|st3t29=0|color29={{party color|National Labour Party (Brazil)}}
+|invalid=14153698
+|blank=11401280
+|total_st3t=0
+|electorate=142384193
+|source=[http://electionresources.org/br/senadores.php?election=2014&state=BR Election Resources]
+}}
+
+==Aftermath==
+The small difference between the votes of both candidates, around 3.5 million votes, made this election to be the most disputed since redemocratization.<ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2014/10/1538709-eleicao-mais-disputada-da-redemocratizacao-chega-ao-fim.shtml|title=Eleição mais disputada da redemocratização chega ao fim|publisher=Folha de S. Paulo|language=pt|date=26 October 2014|access-date=21 November 2019}}</ref> Dilma was sworn in as the [[List of Presidents of Brazil|36th]] [[president of Brazil]] on 1 January 2015 in a ceremony conducted by [[Renan Calheiros]] in the floor of the [[Chamber of Deputies (Brazil)|Chamber of Deputies]].<ref>{{cite web|url=http://agenciabrasil.ebc.com.br/politica/noticia/2015-01/dilma-rousseff-toma-posse-do-segundo-mandato-na-presidencia-da-republica|title=Dilma Rousseff toma posse do segundo mandato na Presidência da República|publisher=Agência Brasil|language=pt|first=Danilo|last=Macedo|date=1 January 2015|access-date=21 November 2019}}</ref>
+
+===International reaction===
+[[File:Solenidades. Homenagens (15981644527).jpg|thumb|right|Swearing-in ceremony of [[Dilma Rousseff]], in 2015.]]
+
+Presidents and representatives of different countries saluted the victory of Dilma Rousseff on 26 October over [[Aécio Neves]].<ref>{{cite web|url=http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/lideres-internacionais-saudam-dilma-pela-reeleicao.html|title=Líderes internacionais saúdam Dilma pela reeleição; veja repercussão|publisher=G1|language=pt|date=26 October 2014|access-date=21 November 2019}}</ref>
+
+* {{flag|Argentina}} - [[President of Argentina|Argentinian President]] [[Cristina Fernández de Kirchner|Cristina Kirchner]] used her social media to salute Dilma. In a letter directed to Dilma and published in her Facebook page, Kirchner celebrated the results of the election in Brazil which, according to her, "shows the Brazilian society reaffirming their unshakable commitment with a political project that guarantees economic growth with social inclusion". Also stated that the mutual cooperation between Brazil and Argentina would increase from this moment.<ref>{{cite web|url=https://brasil.elpais.com/brasil/2014/10/27/politica/1414370165_002643.html|title=Lideranças mundiais felicitam Dilma|publisher=El País|language=pt|first=Marina|last=Rossi|date=26 October 2014|access-date=21 November 2019}}</ref>
+* {{flag|Bolivia}} - [[Bolivia]]n President [[Evo Morales]] highlighted president Dilma's victory and stated that it "represents the model of change" in Brazil and in the Latin America. "Bolivia salutes the triumph of partner Dilma. We greet the continuity of the model of change in Brazil and the region", declared the leader in Shinahota, according to the state agency ABI.<ref>{{cite web|url=https://www.gazetadopovo.com.br/vida-publica/eleicoes/2014/evo-morales-destaca-triunfo-de-dilma-e-continuidade-do-modelo-de-mudanca-effd8qkzg3n4jslccqsctjcjy|title=Evo Morales destaca triunfo de Dilma e continuidade "do modelo de mudança"|publisher=Gazeta do Povo|language=pt|date=26 October 2014|access-date=21 November 2019}}</ref>
+* {{flag|El Salvador}} - Salvadoran President [[Salvador Sánchez Cerén]] congratulated Dilma for her victory through his Twitter account.<ref name="Terra1">{{cite web|url=https://www.terra.com.br/noticias/eleicoes/dilma-rousseff/lideres-na-america-latina-saudam-reeleicao-de-dilma,2827ad6588e49410VgnCLD200000b2bf46d0RCRD.html|title=Líderes na América Latina saúdam reeleição de Dilma|publisher=Terra|language=pt|date=26 October 2014|access-date=21 November 2019}}</ref>
+* {{flag|Ecuador}} - Ecuadorian President [[Rafael Correa]] celebrated, in his Twitter account, the "amazing victory of Dilma in Brazil". "We salute the president of Brazil, Dilma Rousseff, for her today's electoral victory", commented the Ecuatorial chancellor, [[Ricardo Patiño]], also using the social network.<ref name="Terra1"/>
+* {{flag|France}} - The French government greeted president Rousseff for her reelection. "France wishes to work in strict cooperation with the Brazilian government to boost the strategic partnership between both countries in all areas", declared the French [[Ministry for Europe and Foreign Affairs (France)|Ministry of Foreign Affairs]]. The French government also remembered that the relationship with Brazil was centered in three priorities: reinforce the political dialogue about climate changes, increase commercial and investment connections, and dynamize the cooperation of university exchange programs.<ref>{{cite web|url=http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/governo-da-franca-parabeniza-dilma-por-sua-reeleicao.html|title=Governo da França parabeniza Dilma por sua reeleição|publisher=G1|language=pt|date=27 October 2014|access-date=21 November 2019}}</ref>
+* {{flag|Germany}} - German Chancellor [[Angela Merkel]] sent a telegram congratulating Dilma Rousseff for her reelection, expressing in text the possibility to keep the ties between both countries. "I congratulate you for the reelection as president of Brazil. I am glad that we can keep our political and economic cooperation. In face of the challenges that both nations are facing, only together and as partners, we can overcome them", stated Merkel.<ref>{{cite web|url=http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/merkel-parabeniza-dilma-e-fala-em-reforco-dos-lacos.html|title=Merkel parabeniza Dilma e fala em reforço dos laços|publisher=G1|language=pt|date=27 October 2014|access-date=21 November 2019}}</ref>
+* {{flag|Russia}} - Russian President [[Vladimir Putin]] also congratulated Dilma for her reelection and stated "the victory in the polls is a proof of the popular support for her politics". In his telegram, Putin expressed that "the results of the voting showed that the people supports Dilma Rousseff's politics and looks for the economic development of the country and the strengthening of its international positions". The Russian president also rated as very good the attention Dilma gives to the "strengthening of the Russian-Brazilian strategic association".<ref>{{cite web|url=http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/putin-felicita-dilma-por-reeleicao.html|title=Putin felicita Dilma por reeleição|publisher=G1|language=pt|date=27 October 2019|access-date=21 November 2019}}</ref>
+* {{flag|United States}} - American President [[Barack Obama]] congratulated Dilma and requested that the ties with Brazil should be strengthened, which, according to Obama, it was "an important ally of the United States". The American president also expressed interest to schedule a meeting to discuss the possibility to "reinforce the collaboration for the world security and the respect to human rights, as well as deepen the bilateral cooperation in areas like education, energy and, mostly, trade".<ref>{{cite web|url=http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/obama-felicita-dilma-por-sua-reeleicao-20141027115007948948.html|title=Obama felicita Dilma por sua reeleição|publisher=G1|language=pt|date=27 October 2014|access-date=21 November 2019}}</ref>
+* {{flag|Venezuela}} - Venezuelan President [[Nicolás Maduro]] highlighted Dilma's victory in his official Twitter account, shortly after the announce of the first results. "Victory of Dilma in Brazil. Victory of the People. Victory of Lula and his legacy. Victory of the people of Latin America and Caribbean", stated in his account.<ref>{{cite web|url=https://noticias.r7.com/eleicoes-2014/presidente-da-venezuela-parabeniza-dilma-por-vitoria-nas-eleicoes-26102014|title=Presidente da Venezuela parabeniza Dilma por vitória nas eleições|publisher=R7|language=pt|date=26 October 2014|access-date=21 November 2019}}</ref>
+
+Besides chiefs of state, the international press also reverberated Dilma's victory. ''[[The New York Times]]'' in the [[United States]] highlighted the reelection on the front page of the newspaper and states that the victory "endors[es] a leftist leader who has achieved important gains in reducing poverty and keeping unemployment low";<ref>{{cite web|url=https://www.nytimes.com/2014/10/27/world/americas/brazilian-presidential-election.html|title=Brazil Stays With Rousseff as President After Turbulent Campaign|work=The New York Times|first=Simon|last=Romero|date=26 October 2014|access-date=28 November 2019}}</ref> Argentine ''[[Clarín (Argentine newspaper)|El Clarín]]'' highlighted on the front page that Dilma won by a narrow margin "at the end of a tough campaign, full of denounced and mutual accusations";<ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2014/10/1538753-imprensa-internacional-destaca-reeleicao-e-resultado-apertado-confira-reacoes.shtml|title=Imprensa mundial destaca reeleição e resultado apertado; confira reações|publisher=Folha de S. Paulo|language=pt|date=26 October 2014|access-date=28 November 2019}}</ref> for the [[United Kingdom]] ''[[Financial Times]]'', "Dilma now faces the task of uniting a country divided by the most aggressive campaign of recent times, to resurrect a creeping economy and pacify hostile markets";<ref>{{cite web|url=https://eleicoes.uol.com.br/2014/album/2014/10/26/veja-a-repercussao-da-reeleicao-de-dilma-nos-jornais-internacionais.htm#fotoNav=6|title=Veja a repercussão da reeleição de Dilma nos jornais internacionais|publisher=Uol|language=pt|date=26 October 2014|access-date=28 November 2019}}</ref> [[Venezuela]]n ''El Universal'' highlighted on its first page [[Aécio Neves]]' reaction, who acknowledged his defeated and highlighted in his speech that "the priority now is to unite Brazil";<ref>{{cite web|url=http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/jornais-estrangeiros-destacam-desafio-de-dilma-de-unir-o-brasil.html|title=Jornais estrangeiros destacam desafio de Dilma de unir o Brasil|publisher=G1|language=pt|date=26 October 2014|access-date=28 November 2019}}</ref> French ''[[Le Monde]]'' mentioned the defeat in São Paulo, main electoral college of the country, but "compensated by the victory in Minas Gerais, the second largest electoral college and Aécio Neves' political fief";<ref>{{cite web|url=https://www.huffpostbrasil.com/2014/10/27/imprensa-internacional-destaca-vitoria-apertada-de-dilma-roussef_a_21671578/|title=Imprensa internacional destaca vitória apertada de Dilma Rousseff no 2º turno e campanhas marcadas por ataques e acusações|publisher=Huffpost Brasil|language=pt|first=Gabriela|last=Bazzo|date=27 October 2014|access-date=28 November 2019|archive-date=5 September 2018|archive-url=https://web.archive.org/web/20180905023253/https://www.huffpostbrasil.com/2014/10/27/imprensa-internacional-destaca-vitoria-apertada-de-dilma-roussef_a_21671578/|url-status=dead}}</ref> Spanish ''[[El País]]'' brings as a highlight an article signed by journalist Juan Arais, from Rio de Janeiro, entitled "The political change in Brazil will have to wait".<ref>{{cite web|url=https://brasil.elpais.com/brasil/2014/10/27/opinion/1414367604_061406.html|title=A mudança política no Brasil terá de esperar|publisher=El País|language=pt|first=Juan|last=Arias|date=26 October 2014|access-date=28 November 2019}}</ref>
+
+===Crisis===
+{{Main|2014 Brazilian economic crisis}}
+[[File:Crescimento do PIB do Brasil entre 2010 e 2016.png|355px|thumb|Percentage change of Brazil's gross domestic product (GDP), according to [[Brazilian Institute of Geography and Statistics]].<ref>{{cite web|url=https://oglobo.globo.com/economia/economia-encolhe-36-em-2016-pais-tem-pior-recessao-da-historia-21022917|title=Economia encolhe 3,6% em 2016, e país tem pior recessão da História|publisher=O Globo|language=pt|first1=Daiane|last1=Costa|first2=Marcello|last2=Corrêa|first3=Kátia|last3=Gonçalves|date=7 March 2017|access-date=28 November 2019|url-access=subscription}}</ref> Notice the low growth in 2014 and severe drops in the following years.]]
+
+From 2014 and on, right after the results of the elections, an economic crisis began in Brazil, having as a consequence the strong economic recession, succeeded by a retreat of the [[Gross Domestic Product]] (GDP) for 2 consecutive years.<ref>{{cite web|url=http://agenciabrasil.ebc.com.br/economia/noticia/2014-12/crise-economica-em-2014-concentra-se-em-empresas-do-setor-financeiro|title=Crise econômica em 2014 concentra-se em empresas do setor financeiro|publisher=Agência Brasil|language=pt|first=Wellton|last=Máximo|date=28 December 2014|access-date=28 November 2019}}</ref><ref>{{cite web|url=https://www.nexojornal.com.br/expresso/2017/09/17/Quanto-a-popula%C3%A7%C3%A3o-brasileira-j%C3%A1-perdeu-com-a-crise-econ%C3%B4mica|title=QUanto a população brasileira já perdeu com a crise econômica|publisher=Nexo Jornal|language=pt|first=José Roberto|last=Castro|date=17 September 2017|access-date=28 November 2019|url-access=limited}}</ref> The economy reduced in around 3.8% in 2015 and 3.6% in 2016. The crisis also brought a high level of unemployment, which reached its peak in March 2017, with a rate of 13.7%, representing more than 14 million Brazilians unemployed.<ref>{{cite web|url=http://fotos.estadao.com.br/galerias/economia,luxos-que-os-brasileiros-deixaram-de-lado-com-a-crise,26899|title='Luxos' que os brasileiros deixaram de lado com a crise|publisher=Estadão|language=pt|date=25 August 2016|access-date=28 November 2019}}</ref>
+
+In 2016, the effects of the economic crisis were widely felt by the population, who needed to adapt their bills to the financial reality. According to research by the Industry National Confederation (CNI) in that year, almost half of those interviewed (48%) had begun to use more public transportation, and 34% did not have health insurance anymore.<ref>{{cite web|url=http://oglobo.globo.com/economia/recessao-gera-mudancas-de-habitos-de-consumo-na-populacao-19991966#ixzz4Iw1rNM00|title=Recessão gera mudanças de hábitos de consumo na população|publisher=O Globo|language=pt|first=Eliane|last=Oliveira|date=25 August 2016|access-date=28 November 2019}}</ref> The deepening of the crisis caused 14% of the families to change their children's schools from private to public, with a percentage higher than the one verified in 2012 and 2013, before the crisis. Besides that, consumers changed to buying cheaper products (78%), waited for sales to buy higher value goods (80%) and saved more money for emergencies (78%).<ref>{{cite web|url=http://g1.globo.com/economia/seu-dinheiro/noticia/2016/08/com-crise-brasileiros-estao-usando-mais-servicos-publicos-diz-cni.html|title=Com crise, brasileiros estão usando mais serviços públicos, diz CNI|publisher=G1|language=pt|date=25 August 2016|access-date=28 November 2019}}</ref>
+
+In the first quarter of 2017, GDP rose 1%, being the first growth after 8 consecutive quarter drops.<ref>{{cite web|url=https://g1.globo.com/economia/noticia/pib-do-brasil-cresce-10-no-1-trimestre-de-2017.ghtml|title=PIB do Brasil cresce 1% no 1º trimestre de 2017, após 8 quedas seguidas|publisher=G1|language=pt|first1=Taís|last1=Laporta|first2=Daniel|last2=Silveira|date=1 June 2017|access-date=28 November 2019}}</ref> [[Ministry of the Economy (Brazil)|Minister of Finance]] [[Henrique Meirelles]] said that, in that moment, the country "left the largest recession of the century".<ref>{{cite web|url=https://economia.estadao.com.br/noticias/geral,pib-sobe-1-0-no-1-trimestre-apos-oito-quedas-consecutivas,70001821658|title=PIB sobre 1% no 1º trimestre de 2017, após 8 quedas consecutivas|publisher=Estadão|language=pt|first1=Daniela|last1=Amorim|first2=Fernanda|last2=Nunes|first3=Vinicius|last3=Neder|date=1 June 2017|access-date=28 November 2019}}</ref>
+
+[[File:Atos pró e contra o impeachment na Esplanada.jpg|thumb|left|Protests in the [[Monumental Axis|Ministries Terrace]] of groups in favor and against the [[Impeachment of Dilma Rousseff]]]]
+
+A political crisis began on 17 March 2014, when the [[Federal Police of Brazil]] began a series of investigations which would be known as [[Operation Car Wash]], initially investigating a corruption scheme and money laundry of billions of reais involving many politicians of the largest parties of the country.<ref>{{cite web|url=http://www.mpf.mp.br/grandes-casos/lava-jato/entenda-o-caso|title=Caso Lava Jato - Entenda o caso|publisher=Ministério Público Federal|language=pt|access-date=28 November 2019}}</ref> The operation had direct impact in the country politics, contributing for the impopularity of Dilma's administration, just as, posteriorly, for Temer's administration, as long as many of their ministers and allies were targeted of the operation, such as [[Geddel Vieira Lima]] and [[Romero Jucá]].<ref>{{cite web|url=http://agenciabrasil.ebc.com.br/politica/noticia/2016-12/retrospectiva-politica-2016|title=Lava Jato, crise política, impeachment e disputa entre Poderes marcaram 2016|publisher=Agência Brasileira|language=pt|first1=Iolando|last1=Lourenço|first2=Ivan Richard|last2=Esposito|date=23 December 2016|access-date=28 November 2019}}</ref><ref>{{cite web|url=https://epoca.globo.com/politica/noticia/2016/12/retrospectiva-2016-o-ano-em-que-lava-jato-mandou-na-politica.html|title=Retrospectiva 2016: O ano em que a Lava Jato mandou na política|publisher=Época|language=pt|first=Leandro|last=Loyola|date=26 December 2016|access-date=28 November 2019}}</ref> The task force responsible for the operation was disbanded on February 1, 2021, and integrated into the Special Task Force to Combat Organized Crime ({{langx|pt|Grupo de Atuação Especial de Combate ao Crime Organizado}}, abbreviated GAECO), a division of Brazil's Federal Public Ministry ({{langx|pt|Ministério Público Federal}}, abbreviated MPF).<ref>{{cite web|url=https://g1.globo.com/pr/parana/noticia/2021/02/03/forca-tarefa-da-lava-jato-no-parana-deixa-de-existir-diz-mpf.ghtml|title=Força-tarefa da Lava Jato no Paraná 'deixa de existir', e procuradores passam a integrar o Gaeco, diz MPF|publisher=G1|language=pt|date=3 February 2021|access-date=7 July 2025}}</ref> This merger concluded the operation, which comprised 80 phases and generated multiple offshoots within and beyond Brazil.<ref>{{cite web|url=https://www.estadao.com.br/politica/lava-jato-7-anos-80-fases-ascensao-auge-e-declinio-de-uma-operacao/?srsltid=AfmBOooAR7Nxe9MBmaHs1M-kqybI6v9y5T_mUyLv71hdXOVTNwPRnF5I|title=Lava Jato, 7 anos, 80 fases: ascensão, auge e declínio de uma operação|publisher=Estadão|language=pt|first1=Rafael|last1=Moraes|first2=Caio|last2=Sartori|first3=Ricardo|last3=Brandt|date=13 March 2021|access-date=7 July 2025}}</ref><ref>{{cite web|url=https://www.correiobraziliense.com.br/app/noticia/politica/2017/12/04/interna_politica,645204/paises-atingidos-lava-jato-cooperacao-internacional.shtml|title=Lava-Jato atinge 49 países e rende 340 pedidos de cooperação bilateral|publisher=Correio Braziliense|language=pt|first1=Renato|last1=Souza|date=4 December 2017|access-date=7 July 2025}}</ref>
+
+The protests against Dilma Rousseff government, due to the results of Operation Car Wash, occurred in many regions of Brazil, having as one of the main goals the impeachment of the president.<ref>{{cite web|url=http://www.ebc.com.br/noticias/2015/03/manifestacoes-15-de-marco|title=Confira o panorama das manifestações de 15 de março no Brasil|publisher=Portal EBC|language=pt|date=15 March 2015|access-date=28 November 2019}}</ref><ref>{{cite web|url=https://www.dw.com/pt-br/protestos-testam-for%C3%A7a-do-movimento-anti-dilma/a-18315439|title=Protestos testam força do movimento anti-Dilma|publisher=Deutsche Welle|language=pt|date=14 March 2015|access-date=28 November 2019}}</ref> The movement brought together millions of people on 15 March, 12 April, 16 August and 13 December 2015 and, according to some estimates, were the largest popular mobilizations in the country.<ref>{{cite web|url=https://epoca.globo.com/tempo/noticia/2015/03/bmanifestacao-anti-dilmab-entra-para-historia.html|title=Manifestação anti-Dilma entra para a história|publisher=Época|language=pt|first1=Marcos|last1=Coronato|first2=Marco|last2=Vergotti|date=15 March 2015|access-date=28 November 2019}}</ref><ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2015/03/1603271-paulista-reune-maior-ato-politico-desde-as-diretas-ja-diz-datafolha.shtml|title=Paulista reúne maior ato política desde as Diretas-Já, diz Datafolha|publisher=Folha de S. Paulo|language=pt|date=15 March 2015|access-date=28 November 2019}}</ref> The protest of 13 March 2016 was considered the largest political act in the history of Brazil and occurred over all the country, overcoming also [[Diretas Já]], which occurred during the transition period from the [[Military dictatorship in Brazil|Military Dictatorship]] to the redemocratization.<ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2016/03/1749528-protesto-na-av-paulista-e-o-maior-ato-politico-ja-registrado-em-sao-paulo.shtml|title=Protesto na av. Paulista é o maior ato político já registrado em São Paulo|publisher=Folha de S. Paulo|language=pt|date=13 March 2016|access-date=28 November 2019}}</ref><ref>{{cite web|url=https://noticias.uol.com.br/politica/ultimas-noticias/2016/03/13/brasil-tem-maior-manifestacao-contra-dilma.htm|title=Brasil tem maior manifestação contra Dilma|publisher=Uol|language=pt|date=13 March 2016|access-date=28 November 2019}}</ref>
+
+====Rousseff's impeachment====
+{{Main|Impeachment of Dilma Rousseff}}
+[[File:Dilma faz sua defesa no plenário do Senado 1040657-df 25.08.2016 mcag-0446.jpg|right|thumb|Dilma gives her defence speech during the impeachment session that ended in her removal from office.]]
+On 2 December 2015, president of [[Chamber of Deputies (Brazil)|Chamber of Deputies]], [[Eduardo Cunha]], accepted one of the seven impeachment requests against Dilma, which was registered by jurists [[Hélio Bicudo]], Miguel Reale Júnior and [[Janaína Paschoal]], and delivered to Cunha 2 months before.<ref>{{cite web|url=http://g1.globo.com/politica/noticia/2015/12/eduardo-cunha-informa-que-autorizou-processo-de-impeachment-de-dilma.html|title=Eduardo Cunha autoriza abrir processo de impeachment de Dilma|publisher=G1|language=pt|first=Nathalia|last=Passarinho|date=2 December 2015|access-date=28 November 2019}}</ref> In the original request, were included denounces of decrees signed by the president in 2015, to release [[Brazilian real|R$]] 2.5 billions ([[United States dollar|US$]] {{To USD|2.5|BRA|year=2015}} billion), without Congress approval, nor prevision on budget.<ref>{{cite web|url=https://www1.folha.uol.com.br/poder/2015/12/1714133-cunha-deflara-processo-de-impeachment-contra-dlma.shtml|title=Eduardo Cunha acata pedido de impeachment contra Dilma Rousseff|publisher=Folha de S. Paulo|language=pt|first1=Gustavo|last1=Uribe|first2=Ranier|last2=Bragon|date=2 December 2015|access-date=28 November 2019|url-access=limited}}</ref> This operation is known as ''[[fiscal pedaling]]'' (''Pedalada fiscal''), and it's characterized as administrative misconduct.<ref>{{cite web|url=http://g1.globo.com/politica/noticia/2015/12/cunha-le-em-plenario-decisao-de-abrir-processo-de-impeachment-de-dilma.html|title=Cunha lê decisão de abrir processo de impeachment e cria comissão|publisher=G1|language=pt|first1=Nathalia|last1=Passarinho|first2=Fernanda|last2=Calgaro|date=3 December 2015|access-date=28 November 2019}}</ref>
+
+The acceptance of the impeachment request was considered by part of the press as a retaliation against the president's party, which deputies announced on that same day that they would vote against Cunha in the Chamber's Ethics Committee, where he was investigated for a supposed participation in the scheme denounced in Operation Car Wash. Cunha denied any "bargain" relation with the government, stating that "the decision to accept the impeachment is factual, is concrete, has clear tipification",<ref>{{cite web|url=https://noticias.uol.com.br/politica/ultimas-noticias/2015/12/03/dilma-mentiu-a-nacao-e-houve-barganha-sim-diz-cunha.htm|title=Dilma mentiu ao negar tentativa de barganha, diz Cunha; ministro rebate|publisher=Uol|language=pt|first=Felipe|last=Amorim|date=3 December 2015|access-date=28 November 2019}}</ref> but kept attributing to president Rousseff responsibilities about the investigations against him.<ref>{{cite web|url=https://gauchazh.clicrbs.com.br/geral/noticia/2016/03/cunha-quer-apressar-processo-do-impeachment-para-sair-de-cena-diz-wagner-5111220.html|title=Cunah quer apressar processo de impeachment para sair de cena, diz Wagner|publisher=GaúchaZH|language=pt|date=14 March 2016|access-date=28 November 2019}}</ref> According to [[Luiz Inácio Lula da Silva]], Dilma didn't have "the will of doing politics" and didn't have any meeting with party caucuses to try to repeal the impeachment.<ref>{{cite web|url=https://gauchazh.clicrbs.com.br/geral/noticia/2016/03/cunha-quer-apressar-processo-do-impeachment-para-sair-de-cena-diz-wagner-5111220.html|title=Em livro, Lula diz que Dilma ficou triste em reeleição e ironiza Ciro Gomes|publisher=Uol|language=pt|first=Bernardo|last=Barbosa|date=14 March 2018|access-date=28 November 2019}}</ref>
+
+[[File:Placar final impeachment.jpg|thumb|left|Result of the voting of the acceptance of the impeachment process in the [[Chamber of Deputies (Brazil)|Chamber of Deputies]], which took the process to the [[Brazilian Senate|Federal Senate]].]]
+Due to the parliamentary recess and the sues filed in the [[Supreme Federal Court]] with the objective to decide formally the rite of the process only on 17 March 2016, the Chamber elected, with open voting, the 65 members of the Special Committee which analyzed the impeachment request against Dilma Rousseff. There were 433 votes in favor of the committee membership and 1 against.<ref>{{cite web|url=http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/03/camara-elege-membros-de-comissao-que-analisara-impeachment-de-dilma.html|title=Câmara elege membros de comissão que analisará impeachment de Dilma|publisher=G1|language=pt|first1=Nathalia|last1=Passarinho|first2=Fernanda|last2=Calgaro|date=17 March 2016|access-date=28 November 2019}}</ref> On 11 April, the Special Committee, with 38 votes in favor and 27 against, approved the report, which defended the admissibility of the process.<ref>{{cite web|url=http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/04/comissao-da-camara-aprova-processo-de-impeachment-de-dilma.html|title=Comissão da Câmara aprova processo de impeachment de Dilma|publisher=G1|language=pt|first1=Fernanda|last1=Calgaro|first2=Gustavo|last2=Garcia|first3=Nathalia|last3=Passarinho|date=11 April 2016|access-date=28 November 2019}}</ref> The report, made by deputy [[Jovair Arantes]] ([[Brazilian Labor Party (current)|PTB]]-[[Goiás|GO]]), went for voting in the floor of the Chamber.<ref>{{cite web|url=https://gauchazh.clicrbs.com.br/geral/noticia/2016/04/os-principais-pontos-do-parecer-do-relator-jovair-arantes-favoravel-ao-impeachment-5755964.html|title=Os principais pontos do parecer do relator Jovair Arantes, favorável ao impeachment|publisher=GaúchaZH|language=pt|date=6 April 2016|access-date=28 November 2019}}</ref> On 17 April 2016, a Sunday, the Chamber of Deputies, with 367 votes in favor, 137 against, besides 7 abstentions and 2 absences, impeached Rousseff and authorized the [[Brazilian Senate|Federal Senate]] to install the process against the president.<ref>{{cite web|url=http://www2.camara.leg.br/camaranoticias/noticias/POLITICA/507325-CAMARA-AUTORIZA-INSTAURACAO-DE-PROCESSO-DE-IMPEACHMENT-DE-DILMA-COM-367-VOTOS-A-FAVOR-E-137-CONTRA.html|title=Câmara autoriza instauração de processo de impeachment de Dilma com 367 votos a favor e 137 contra|publisher=Câmara dos Deputados|language=pt|date=17 April 2016|access-date=28 November 2019}}</ref>
+
+On 6 May 2016, the Senate Impeachment Special Committee approved, with 15 votes in favor and 5 against, the report of senator [[Antônio Anastasia]] ([[Brazilian Social Democracy Party|PSDB]]-[[Minas Gerais|MG]]), in favor of the impeachment.<ref>{{cite web|url=http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/05/comissao-aprova-relatorio-que-recomenda-abertura-do-impeachment.html|title=Comissão aprova relatório favorável ao prosseguimento do impeachment|publisher=G1|language=pt|first1=Gustavo|last1=Garcia|first2=Fernanda|last2=Calgaro|date=6 May 2016|access-date=28 November 2019}}</ref> On 11 May, Justice [[Teori Zavascki]] denied a government request to null the process. With the decision, the Senate kept the voting that would decide the suspension of Rousseff from office.<ref>{{cite web|url=http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/05/teori-zavascki-nega-pedido-do-governo-para-anular-impeachment.html|title=Teori Zavascki nega pedido do governo para anular impeachment|publisher=G1|language=pt|first1=Renan|last1=Ramalho|first2=Mariana|last2=Oliveira|first3=Mateus|last3=Rodrigues|date=11 May 2016|access-date=28 November 2019}}</ref><ref>{{cite web|url=https://noticias.uol.com.br/politica/ultimas-noticias/2016/05/11/decisao-de-teori.htm|title=Teori nega recurso do governo para anular impeachment|publisher=Uol|language=pt|first=Ricardo|last=Marchesan|date=11 May 2016|access-date=28 November 2019}}</ref>
+
+On 12 May 2016, with 55 favorable votes, 22 contrary and 2 absences, the Federal Senate authorized the opening of the impeachment process, and determined her suspension from the Presidency of the Republic for up to 180 days.<ref>{{cite web|url=http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/05/processo-de-impeachment-e-aberto-e-dilma-e-afastada-por-ate-180-dias.html|title=Processo de impeachment é aberto, e Dilma é afastada por até 180 dias|publisher=G1|language=pt|date=12 May 2016|access-date=28 November 2019}}</ref> On 31 August, the Federal Senate, with a voting of 61 to 20, removed Rousseff from office of President, but kept her political rights.<ref>{{cite web|url=http://g1.globo.com/jornal-nacional/noticia/2016/08/senado-aprova-impeachment-de-dilma-rousseff-temer-assume.html|title=Senado aprova impeachment de Dilma Rousseff; Temer assume|publisher=G1|language=pt|date=31 August 2016|access-date=28 November 2019}}</ref> With the impeachment, [[Michel Temer]], who was [[Vice President of Brazil]] and Acting President until that moment, took office as president until the end of the term.<ref>{{cite web|url=https://noticias.uol.com.br/politica/ultimas-noticias/2016/08/31/michel-temer-assume-presidencia-da-republica.htm|title=Temer assume a Presidência da República e fala em "colocar país nos trilhos"|publisher=Uol|language=pt|first1=Felipe|last1=Amorim|first2=Leandro|last2=Prazeres|first3=Ricardo|last3=Marchesan|date=31 August 2016|access-date=28 November 2019}}</ref>
+
+== See also ==
+{{columns-list|colwidth=22em|
+* [[Odebrecht]]
+* [[Operation Car Wash]]
+* [[Sergio Moro]]
+* [[Michel Temer]]
+* [[Petrobras]]
+* [[BTG Pactual]]
+* [[Dilma Rousseff]]
+* [[André Esteves]]
+* [[Eduardo Cunha]]
+}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+{{Brazilian elections}}
+
+[[Category:Parliamentary elections in Brazil]]
+[[Category:Presidential elections in Brazil]]
+[[Category:2014 elections in South America|Brazil]]
+[[Category:2014 elections in Brazil|Gen]]
+[[Category:October 2014 in Brazil|Brazil]]

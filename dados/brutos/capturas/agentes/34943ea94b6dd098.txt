@@ -1,0 +1,931 @@
+{{AP|Elecciones generales de Guatemala de 2019}}
+==Presidenciales==
+===Primera vuelta===
+{{Gráfico
+ | width=1150
+ | height=600
+ | xAxisTitle=
+ | yAxisTitle=% intención de voto
+ | xAxisAngle = -30
+ | xAxisFormat = %b %y
+ | legend=Candidatos
+ | interpolate = bundle
+ | size = 77
+ | xType = date
+ | y1Title=Thelma Aldana
+ | y2Title=Roberto Arzú
+ | y3Title=Fredy Cabrera
+ | y4Title=Thelma Cabrera
+ | y5Title=Edwin Escobar
+ | y6Title=Julio Estrada
+ | y7Title=Isaac Farchi
+ | y8Title=Alejandro Giammattei
+ | y9Title=Edmond Mulet
+ | y10Title=Sandra Torres
+ | y11Title=Zury Ríos
+ | y12Title=Manuel Villacorta
+ | type=line
+ |xGrid=
+ | x= 2019/02/13, 2019/02/20, 2019/03/06, 2019/03/27, 2019/05/15, 2019/05/23, 2019/05/30, 2019/06/7, 2019/06/14, 2019/06/16
+ | y1= 10, 28.1, 10.7, 9.5, 8 
+ | y2= 2, 1, 2.8, 3.8, 8, 13.18, 9, 9.2, 8, 6.1  
+ | y3= , , , 2.3, , 0.6, 2, 2.8, 3, 3.16 
+ | y4= , , , 1.6, , 3.2, 5, 5.5, 7.3, 10.3,  
+ | y5= 3, 1, 3.1, 1.1, 2, 3.1, 4, 
+ | y6= , , , 1.3, , 1.2, 2, 1.3, 2.8, 3.77
+ | y7= , , , 0.8, , 1.7, 4, 2.8, 3.2, 6.1
+ | y8= 5, 14.4, 5.8, 7.4, 9, 10.77, 12, 11.6, 14.4, 13.89
+ | y9= 0.4, 1, 0.6, 2.7, 4, 8.6, 7, 6.4, 8.5, 11.28
+ | y10 = 17, 6.1, 17.7, 20.7, 21, 23.36, 21, 22.6, 20.2, 25.42
+ | y11 = 7, 17.6, 7.9, 15.9, 14 
+ | y12 = , , , 0.4, , 1.2, 1, 1.3, 1.2, 5.24
+ | colors = aquamarine, darkkhaki, purple, red, black, gold, dodgerblue, blue, darkblue, #50A700, darkturquoise, crimson
+ | showSymbols = 1
+ | yGrid = true
+ | linewidth = 2.0
+}}
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:70px;" rowspan="2"| Encuestadora
+! style="width:90px;" rowspan="2"| Fecha
+! style="width:30px;" rowspan="2"| {{abbr|M.|Tamaño de la muestra}}
+! class="unsortable" style="width:60px;"| [[Thelma Aldana|Aldana]]<br>{{small|[[Semilla (partido político)|Semilla]]}}
+! class="unsortable" style="width:60px;"| [[Roberto Arzú|Arzú]]<br>{{small|[[Partido de Avanzada Nacional|PAN]]–[[Podemos (Guatemala)|Podemos]]}}
+! class="unsortable" style="width:62px;"| F. Cabrera<br>{{small|[[Todos (Guatemala)|Todos]]}}
+! class="unsortable" style="width:62px;"| [[Thelma Cabrera|T. Cabrera]]<br>{{small|[[Movimiento para la Liberación de los Pueblos|MLP]]}}
+! class="unsortable" style="width:60px;"| [[Edwin Escobar Hill|Escobar]]<br>{{small|[[Prosperidad Ciudadana|PC]]}}
+! class="unsortable" style="width:60px;"| [[Julio Héctor Estrada Domínguez|Estrada]]<br>{{small|[[Compromiso, Renovación y Orden|CREO]]}}
+! class="unsortable" style="width:62px;"| Farchi<br>{{small|[[Visión con Valores|VIVA]]}}
+! class="unsortable" style="width:60px;"| [[Alejandro Giammattei|Giammattei]]<br>{{small|[[Vamos (Guatemala)|Vamos]]}}
+! class="unsortable" style="width:60px;"| [[Edmond Mulet|Mulet]]<br>{{small|[[Partido Humanista de Guatemala|PHG]]}}
+! class="unsortable" style="width:60px;"| [[Sandra Torres|Torres]]<br>{{small|[[Unidad Nacional de la Esperanza|UNE]]}}
+! class="unsortable" style="width:60px;"| [[Zury Ríos|Ríos]]<br>{{small|[[Valor (partido político)|Valor]]}}
+! class="unsortable" style="width:60px;"| [[Manuel Villacorta|Villacorta]]<br>{{small|[[WINAQ]]}}
+! style="width:30px;" rowspan="2"| {{abbr|O.|Otros}}
+! style="width:30px;" rowspan="2"| {{abbr|N.|Ninguno}}
+! style="width:30px;" rowspan="2"| {{abbr|Lid.|Liderando}}
+|-
+! style="background:#00CCC9;"|
+! style="background:#C1373B;"|
+! style="background:purple;"|
+! style="background:red;"|
+! style="background:#013EA8;"|
+! style="background:#ffcf00;"|
+! style="background:#00A3E6;"|
+! style="background:#34478E;"|
+! style="background:#212C64;"|
+! style="background:#50A700;"|
+! style="background:#1898A1;"|
+! style="background:#EB1C22;"|
+|-
+|-
+| colspan="25" style="background:white"|
+|- style="background:lightgray;"
+| {{nowrap|'''[[Elecciones presidenciales de Guatemala de 2019|Elección presidencial]]'''}}
+| 16 de junio 
+| —
+| —
+| 6.10
+| 3.16
+| 10.33
+| —
+| 3.77
+| 5.93
+| 13.89
+| 11.28
+| style="background:#b0f76f;"|'''25.42'''
+| —
+| 5.24
+| —
+| —
+| style="background:#50A700; color:white;"| 11.53
+|-
+| Prodatos<ref name="projunult">[https://www.prensalibre.com/tribuna/plus/indice-segunda-encuesta-libre-2019/ Segunda Encuesta Libre (junio de 2019)]</ref>
+| 13 de junio
+| 1.004
+| —
+| 8.0
+| 3.0
+| 7.6
+| —
+| 2.8
+| 3.2
+| 14.4
+| 8.5
+| style="background:#b0f76f;"|'''20.2'''
+| —
+| 1.2
+| 15.4
+| 15.7
+| style="background:#50A700; color:white;"| 5.8
+|-
+| CID-Gallup<ref name="cgjunult">[https://www.fundacionlibertad.com/sites/default/files/archivo_articulos/segunda_encuesta_electoral_junio_2019_0.pdf Segunda Encuesta Electoral (junio de 2019)]</ref>
+| 1–7 de junio
+| 1.204
+| —
+| 9.2
+| 2.8
+| 5.5
+| —
+| 1.3
+| 2.8
+| 11.6
+| 6.4
+| style="background:#b0f76f;"|'''22.6'''
+| —
+| 1.3
+| 13.8
+| 22.7
+| style="background:#50A700; color:white;"| 11.0
+|-
+! colspan="18" | El 4 de junio de 2019, Edwin Escobar queda fuera de las elecciones.
+|-
+| CID-Gallup<ref name="cgmaydos">[https://www.soy502.com/sites/default/files/informe_op_especial_guatemala_mayo_2019_luis_haug_-_cid_gallup_v3.pdf]</ref>
+| 29 de mayo
+| 1.052
+| —
+| 9.0
+| 2.0
+| 5.0
+| 4.0
+| 2.0
+| 4.0
+| 12.0
+| 7.0
+| style="background:#b0f76f;"|'''21.0'''
+| —
+| 1.0
+| 13.0
+| 24.0
+| style="background:#50A700; color:white;"| 9.0
+|-
+|  OPol Consultores<ref name="opol">[https://www.tn23.tv/2019/05/27/torres-arzu-giammattei-y-mulet-lideran-intencion-de-votos-segun-estudio/ Torres, Arzú, Giammattei y Mulet lideran intención de votos, según estudio.]</ref>
+| 27 de mayo
+| 2.200
+| —
+| 13.2
+| 0.6
+| 3.2
+| 3.1
+| 1.2
+| 1.7
+| 10.8
+| 8.6
+| style="background:#b0f76f;"|'''23.4'''
+| —
+| 1.2
+| 10.8
+| 25.3
+| style="background:#50A700; color:white;"| 10.2
+|-
+! colspan="18" | El 15 de mayo de 2019, Thelma Aldana queda fuera de las elecciones.
+|-
+! colspan="18" | El 13 de mayo de 2019, Zury Ríos queda fuera de las elecciones.
+|-
+| CID-Gallup<ref name="cgmay">[https://www.soy502.com/articulo/encuesta-cid-gallup-refleja-incertidumbre-electoral-100931 Estos son los resultados de la reciente encuesta de Cid Gallup]</ref>
+| 8–13 de mayo
+| 1.747
+| 8.0
+| 8.0
+| —
+| —
+| 2.0
+| —
+| —
+| 9.0
+| 4.0
+| style="background:#b0f76f;"|'''21.0'''
+| 14.0
+| —
+| 12.0
+| 22.0
+| style="background:#50A700; color:white;"| 7.0
+|-
+| Prodatos<ref>[https://www.prensalibre.com/tribuna/cuatro-candidatos-acaparan-mayor-intencion-de-voto/ Cuatro candidatos acaparan mayor intención de voto]</ref>
+| 19–27 de marzo
+| 1.200
+| 9.5
+| 3.8
+| 2.3
+| 1.6
+| 1.1
+| 1.3
+| 0.8
+| 7.4
+| 2.7
+| style="background:#b0f76f;"|'''20.7'''
+| 15.9
+| 0.4
+| 12.8
+| 26.1
+| style="background:#50A700; color:white;"| 4.8
+|-
+! colspan="18" | El 18 de marzo de 2019 inicia la campaña electoral.
+|-
+| CID-Gallup<ref name="cgf">[https://www.soy502.com/articulo/resultados-nueva-encuesta-preferencia-voto-63338 Nueva encuesta electoral de Cid-Gallup hasta finales de febrero]</ref>
+| 16–25 de febrero
+| 1.258
+| 10.7
+| 2.8
+| —
+| —
+| 3.1
+| —
+| —
+| 5.8
+| 0.6
+| style="background:#b0f76f;"|'''17.7'''
+| 7.9
+| —
+| 10.5
+| 40.9
+| style="background:#50A700; color:white;"| 7.0
+|-
+| Mitofsky<ref name="feba">{{Cita noticia|título=ASÍ VAN... ESTUDIO ELECTORAL GUATEMALA (FEB/2019)|url=http://www.consulta.mx/index.php/estudios-e-investigaciones/el-mundo/item/download/796_2140857bb1a448b53ed8598064612028|fecha=13 de febrero de 2019|fechaacceso=13 de febrero de 2019|página=Consulta Mitofsky}}</ref>
+| 8–11 de febrero
+| 1.000
+| style="background:#ADD8E6;"|'''28.1'''
+| 1
+| —
+| —
+| 1
+| —
+| —
+| 14.4
+| 1
+| 6.1
+| 17.6
+| —
+| 22.3
+| 8.5
+| style="background:#00CCC9; color:white;"| 10.5
+|-
+| CID-Gallup<ref name="cga">{{cite web|title=Carrera por la presidencia de Guatemala inicia|url=https://www.cidgallup.com/es/carrera-por-la-presidencia-de-guatemala-inicia |language=español |work=CID-Gallup |date=13 de febrero de 2019}}</ref>
+| {{nowrap|24 de en.–4 de febr.}}
+| 1.815
+| 10
+| 2
+| —
+| —
+| 3
+| —
+| —
+| 5
+| 0.4
+| style="background:#b0f76f;"| '''17'''
+| 7
+| —
+| 9.6
+| 46
+| style="background:#50A700; color:white;"| 7.0
+|}
+
+=== Segunda vuelta ===
+{{gráfico|width=900|height=300|xAxisTitle=Fecha|yAxisTitle=Porcentaje|legend=|type=line
+|interpolate=monotone
+|xType=date
+|xAxisMax=1565510000000
+|yAxisMin=0
+|xGrid=1
+|yGrid=1
+|x=   2019/06/5, 2019/06/10, 2019/06/16, 2019/07/14, 2019/07/26, 2019/08/03, 2019/08/07, 2019/08/11                                
+|y1Title= Alejandro Giammattei |y1= 54,38,12.1,40.6,44.7,50.3,39.5,59.1       
+|y2Title= Sandra Torres |y2= 32,34,22.1,33.4,49.1,32.1,32.4,40.9                  
+|y3Title= Ninguno |y3= 14,28,,25.9,6.1,17.6,28.1                 
+|colors= #34478E, #50A700, silver
+}}
+
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:50px;" rowspan="2"| Encuestadora
+! style="width:90px;" rowspan="2"| Fecha
+! style="width:30px;" rowspan="2"| Tamaño de la muestra
+! class="unsortable" style="width:80px;"| [[Alejandro Giammattei|Giammattei]]<br>{{small|[[Vamos (partido político)|Vamos]]}}
+! class="unsortable" style="width:80px;"| [[Sandra Torres|Torres]]<br>{{small|[[Unidad Nacional de la Esperanza|UNE]]}}
+! style="width:30px;" rowspan="2"| Ninguno
+! style="width:30px;" rowspan="2"| Liderando
+|-
+! style="background:#34478E;"|
+! style="background:#50A700;"|
+|-
+| colspan="7" style="background:white"|
+|- style="background:lightgray;"
+| {{nowrap|'''[[Elecciones presidenciales de Guatemala de 2019|Segunda vuelta]]'''}}
+| 11 de agosto
+| —
+| style="background:lightblue;"|'''59.1'''
+| 40.9
+| —
+| style="background:#34478E; color:white;"| 18.2
+|-
+| colspan="7" style="background:white"|
+|-
+| CID-Gallup<ref>{{cita web| url=https://www.soy502.com/articulo/encuesta-revela-empate-tecnico-entre-torres-giammttei-100931 |título=Esto revela la encuesta electoral entre Torres y Giammattei|fechaacceso=7 de agosto de 2019 |apellido=Gramajo |nombre=Jessica |fecha=7 de agosto de 2019 |sitioweb=soy502.com |idioma=español |cita=La encuesta electoral de la Fundación Libertad y Desarrollo revela un empate técnico entre los dos candidatos que se disputan la segunda vuelta electoral.}}</ref>
+| {{nowrap|29 de julio–5 de agosto}}
+| 1.216
+| style="background:lightblue;"|'''39.5'''
+| 32.4
+| 28.1
+| style="background:#34478E; color:white;"| 7.1
+|-
+| Prodatos<ref>{{cita web|url= https://www.prensalibre.com/guatemala/politica/encuesta-libre-intencion-de-voto-segunda-vuelta-elecciones-guatemala/|título = Encuesta Libre: Intención de voto segunda vuelta elecciones Guatemala | fechaacceso= 8 de agosto de 2019 | fecha= 8 de agosto de 2019 | sitioweb=Prensa Libre | idioma= español}}</ref>
+| 27 de julio–3 de agosto
+| 1.201
+| style="background:lightblue;"|'''50.3'''
+| 32.1
+| 17.6
+| style="background:#34478E; color:white;"| 18.2 
+|-
+| {{nowrap|OPol Consultores}}<ref>{{cita web|url=https://www.elmundo.cr/mundo/sandra-torres-encabeza-segunda-ronda-en-elecciones-de-guatemala/ |título= Sandra Torres encabeza segunda ronda en elecciones de Guatemala |fechaacceso=7 de agosto de 2019 |apellido=Marín |nombre=Claudia |fecha=6 de agosto de 2019 |sitioweb=elmundo.cr |idioma=español |cita=Lo anterior se desprende de la última encuesta de opinión de la empresa OPol Consultores en alianza con Consumer Media Intelligence, realizada del 24 al 26 de julio.}}</ref>
+| 24–26 de julio
+| 2.400
+| 44.7
+| style="background:#b0f76f;"|'''49.1'''
+| 6.1
+| style="background:#50A700; color:white;"| 4.4
+|-
+| CID-Gallup<ref>{{cita web |url=https://www.soy502.com/articulo/encuesta-revela-quien-va-cabeza-segunda-vuelta-100931 |título=Encuesta revela quién va a la cabeza en la Segunda Vuelta |fechaacceso=17 de julio de 2019 |apellido=Gramajo |nombre=Jessica |fecha=17 de julio de 2019 |sitioweb=soy502.com |idioma=español |cita=La Fundación Libertad y Desarrollo presentó la encuesta para la segunda vuelta }}</ref>
+| 9–14 de julio
+| 1.204
+| style="background:lightblue;"|'''40.6'''
+| 33.4
+| 25.9
+| style="background:#34478E; color:white;"| 7.2
+|-
+| colspan="7" style="background:white"|
+|- style="background:lightgray;"
+| {{nowrap|'''[[Elecciones presidenciales de Guatemala de 2019|Primera vuelta]]'''}}
+| 16 de junio 
+| —
+| 12.1
+| style="background:#b0f76f;"|'''22.1'''
+| —{{refn|group=lower-alpha|Otros candidatos: 60.4}}
+| style="background:#50A700; color:white;"| 10.0
+|-
+| colspan="7" style="background:white"|
+|-
+| CID-Gallup<ref name="cgjunult"></ref>
+| 1–7 de junio
+| 1.204
+| style="background:lightblue;"|'''38.0'''
+| 34.0
+| 28.0
+| style="background:#34478E; color:white;"| 4.0
+|-
+| Prodatos<ref name="projunult"></ref>
+| 27 de mayo–5 de junio
+| 1.004
+| style="background:lightblue;"|'''54.0'''
+| 32.0
+| 14.0
+| style="background:#34478E; color:white;"| 22.0
+|}
+
+==== Escenarios hipotéticos ====
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:50px;" rowspan="2"| Encuestadora
+! style="width:90px;" rowspan="2"| Fecha
+! style="width:30px;" rowspan="2"| Tamaño de la muestra
+! class="unsortable" style="width:80px;"| Arzú<br>{{small|[[Partido de Avanzada Nacional|PAN]]–[[Podemos (Guatemala)|Podemos]]}}
+! class="unsortable" style="width:80px;"| [[Edmond Mulet|Mulet]]<br>{{small|[[Partido Humanista de Guatemala|Humanista]]}}
+! class="unsortable" style="width:80px;"| [[Sandra Torres|Torres]]<br>{{small|[[Unidad Nacional de la Esperanza|UNE]]}}
+! style="width:30px;" rowspan="2"| Ninguno
+! style="width:30px;" rowspan="2"| Liderando
+|-
+! style="background:#C1373B;"|
+! style="background:#212C64;"|
+! style="background:#50A700;"|
+|-
+| Prodatos<ref name="projunult"></ref>
+| 13 de junio
+| 1.004
+| —
+| style="background:skyblue;"| '''42.0'''
+| 36.0
+| 22.0
+| style="background:#212C64; color:white;"| 6.0
+|-
+| Prodatos<ref name="projunult"></ref>
+| 13 de junio
+| 1.004
+| style="background:pink;"|'''46.0'''
+| —
+| 33.0
+| 21.0
+| style="background:#C1373B; color:white;"| 13.0
+|-
+| CID-Gallup<ref name="cgjunult"></ref>
+| 1–7 de junio
+| 1.204
+| style="background:pink;"|'''36.0'''
+| —
+| 33.0
+| 31.0
+| style="background:#C1373B; color:white;"| 3.0
+|}
+
+===Opiniones favorables o desfavorables===
+====Opiniones favorables====
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Encuestadora
+! style="width:80px;" rowspan="2"| Fecha
+! style="width:30px;" rowspan="2"| Muestra
+! class="unsortable" style="width:60px;"| [[Thelma Aldana|Aldana]]<br>{{small|[[Semilla (partido político)|Semilla]]}}
+! class="unsortable" style="width:60px;"| Arzú<br>{{small|[[Partido de Avanzada Nacional|PAN]]–[[Podemos (Guatemala)|P]]}}
+! class="unsortable" style="width:60px;"| [[Edwin Escobar Hill|Escobar]]<br>{{small|[[Prosperidad Ciudadana|PC]]}}
+! class="unsortable" style="width:60px;"| [[Mario Estrada|Estrada]]<br>{{small|[[Unión del Cambio Nacional|UCN]]}}
+! class="unsortable" style="width:60px;"| Galdámez<br>{{small|[[Frente de Convergencia Nacional|FCN]]}}
+! class="unsortable" style="width:60px;"| [[Alejandro Giammattei|Giammattei]]<br>{{small|[[Vamos (Guatemala)|Vamos]]}}
+! class="unsortable" style="width:60px;"| [[Nineth Montenegro|Montenegro]]<br>{{small|[[Encuentro por Guatemala|EG]]}}
+! class="unsortable" style="width:60px;"| [[Sandra Torres|Torres]]<br>{{small|[[Unidad Nacional de la Esperanza|UNE]]}}
+! class="unsortable" style="width:60px;"| [[Zury Ríos|Ríos]]<br>{{small|[[Valor (partido político)|Valor]]}}
+|-
+! style="background:#00CCC9;"|
+! style="background:#C1373B;"|
+! style="background:#013EA8;"|
+! style="background:blue;"|
+! style="background:#003895;"|
+! style="background:#212C64;"|
+! style="background:#8ED201;"|
+! style="background:#50A700;"|
+! style="background:#1898A1;"|
+|-
+| Consulta Mitofsky<ref name="feba"></ref>
+| 8–11 de febrero
+| 1.000
+| style="background:#ADD8E6;"|'''36'''
+| 8
+| —
+| 11
+| 2
+| 22
+| 12
+| 9
+| 31
+|}
+====Opiniones desfavorables====
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Encuestadora
+! style="width:80px;" rowspan="2"| Fecha
+! style="width:30px;" rowspan="2"| Muestra
+! class="unsortable" style="width:60px;"| [[Thelma Aldana|Aldana]]<br>{{small|[[Semilla (partido político)|Semilla]]}}
+! class="unsortable" style="width:60px;"| Arzú<br>{{small|[[Partido de Avanzada Nacional|PAN]]–[[Podemos (Guatemala)|P]]}}
+! class="unsortable" style="width:60px;"| [[Edwin Escobar Hill|Escobar]]<br>{{small|[[Prosperidad Ciudadana|PC]]}}
+! class="unsortable" style="width:60px;"| [[Mario Estrada|Estrada]]<br>{{small|[[Unión del Cambio Nacional|UCN]]}}
+! class="unsortable" style="width:60px;"| Galdámez<br>{{small|[[Frente de Convergencia Nacional|FCN]]}}
+! class="unsortable" style="width:60px;"| [[Alejandro Giammattei|Giammattei]]<br>{{small|[[Vamos (Guatemala)|Vamos]]}}
+! class="unsortable" style="width:60px;"| [[Nineth Montenegro|Montenegro]]<br>{{small|[[Encuentro por Guatemala|EG]]}}
+! class="unsortable" style="width:60px;"| [[Sandra Torres|Torres]]<br>{{small|[[Unidad Nacional de la Esperanza|UNE]]}}
+! class="unsortable" style="width:60px;"| [[Zury Ríos|Ríos]]<br>{{small|[[Valor (partido político)|Valor]]}}
+|-
+! style="background:#00CCC9;"|
+! style="background:#C1373B;"|
+! style="background:#013EA8;"|
+! style="background:blue;"|
+! style="background:#003895;"|
+! style="background:#212C64;"|
+! style="background:#8ED201;"|
+! style="background:#50A700;"|
+! style="background:#1898A1;"|
+|-
+| Consulta Mitofsky<ref name="feba"></ref>
+| 8–11 de febrero
+| 1.000
+| 27
+| 56
+| —
+| 30
+| 62
+| 25
+| 32
+| style="background:#b0f76f;"|'''66'''
+| 28
+|}
+====Menos favorito para presidente====
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Encuestadora
+! style="width:80px;" rowspan="2"| Fecha
+! style="width:30px;" rowspan="2"| Muestra
+! class="unsortable" style="width:60px;"| [[Thelma Aldana|Aldana]]<br>{{small|[[Semilla (partido político)|Semilla]]}}
+! class="unsortable" style="width:60px;"| Arzú<br>{{small|[[Partido de Avanzada Nacional|PAN]]–[[Podemos (Guatemala)|P]]}}
+! class="unsortable" style="width:60px;"| [[Edwin Escobar Hill|Escobar]]<br>{{small|[[Prosperidad Ciudadana|PC]]}}
+! class="unsortable" style="width:60px;"| Galdámez<br>{{small|[[Frente de Convergencia Nacional|FCN]]}}
+! class="unsortable" style="width:60px;"| [[Alejandro Giammattei|Giammattei]]<br>{{small|[[Vamos (Guatemala)|Vamos]]}}
+! class="unsortable" style="width:60px;"| [[Sandra Torres|Torres]]<br>{{small|[[Unidad Nacional de la Esperanza|UNE]]}}
+! class="unsortable" style="width:60px;"| [[Zury Ríos|Ríos]]<br>{{small|[[Valor (partido político)|Valor]]}}
+|-
+! style="background:#00CCC9;"|
+! style="background:#C1373B;"|
+! style="background:#013EA8;"|
+! style="background:#003895;"|
+! style="background:#212C64;"|
+! style="background:#50A700;"|
+! style="background:#1898A1;"|
+|-
+| CID-Gallup<ref name="cgjunult"></ref>
+| 1–7 de junio
+| 1.204
+| —
+| 3.3
+| —
+| 1.8
+| 2.2
+| style="background:#b0f76f;"|'''34.1'''
+| —
+|-
+| CID-Gallup<ref name="cgmay"></ref>
+| 16–25 de febrero
+| 1.000
+| 10
+| 2
+| —
+| —
+| —
+| style="background:#b0f76f;"|'''28'''
+| 3
+|-
+| CID-Gallup<ref name="cgf"></ref>
+| 16–25 de febrero
+| 1.000
+| 6.2
+| 3.5
+| —
+| 3.2
+| 3.4
+| style="background:#b0f76f;"|'''21.2'''
+| 6.5
+|-
+| Consulta Mitofsky<ref name="feba"></ref>
+| 8–11 de febrero
+| 1.000
+| 12.6
+| —
+| —
+| —
+| 2.0
+| style="background:#b0f76f;"|'''40'''
+| 4.4
+|}
+
+==Legislativas==
+[[Archivo:Congreso Guatemala 2019 (FLD CID Gallup).svg|right|miniaturadeimagen|300px|Distribución de escaños en el Congreso según la última encuesta de CID Gallup.<br/>
+{{columns-list|colwidth=250px|
+{{legend|#D79E2D|URNG: 1}} {{legend|#EC0408|MLP: 4}} {{legend|#FF369A|Winaq: 1}} {{legend|#A7F701|ExG: 3}} {{legend|#00CCC9|Semilla: 6}} {{legend|#50A700|UNE: 51}} {{legend|#34478E|Vamos: 11}} {{legend|#FFCF00|CREO: 8}} {{legend|#0000FE|UCN: 5}} {{legend|#212C64|Humanista: 5}} {{legend|#FFFF2B|PC: 4}} {{legend|#29467E|BIEN: 4}} {{legend|#1898A1|Valor: 6}} {{legend|#D93335|Podemos: 13}} {{legend|#4B61FF|Unionista: 2}} {{legend|#FCFD33|PAN: 2}} {{legend|#652D92|Todos: 16}} {{legend|#003895|FCN: 18}}}}]]
+{|class="wikitable" style="text-align:right; font-size:100%;"
+| colspan="8" align="center" bgcolor="#bfcfff" | 
+|-
+! colspan="2" rowspan="2" |Partido
+|-
+!Escaños<br/>(predicción)
+!Escaños<br/>obtenidos
+|-
+|style="background:#50A700"| ||align=left|[[Unidad Nacional de la Esperanza]]|| 51 || style="background:lightgray;" | 52
+|-
+|style="background:#003895"| ||align=left|[[Frente de Convergencia Nacional]]|| 18 || style="background:lightgray;" | 8
+|-
+|style="background:#652D92"| ||align=left|[[Todos (Guatemala)|Todos]]|| 16 || style="background:lightgray;" | 7
+|-
+|style="background:#1B1464"| ||align=left|[[Podemos (Guatemala)|Podemos]]|| 13 || style="background:lightgray;" | 1
+|-
+|style="background:#34478E"| ||align=left|[[Vamos (Guatemala)|Vamos]]||  11 || style="background:lightgray;" | 16
+|-
+|style="background:#ffcf00"| ||align=left|[[Compromiso, Renovación y Orden]]|| 8 || style="background:lightgray;" | 7
+|-
+|style="background:#1898A1"| ||align=left|[[Valor (partido político)|Valor]]|| 6 || style="background:lightgray;" | 9
+|- 
+|style="background:#00CCC9"| ||align=left|[[Semilla (partido político)|Movimiento Semilla]]|| 6 || style="background:lightgray;" | 7
+|-
+|style="background:#0000FE"| ||align=left|[[Unión del Cambio Nacional]]|| 5 || style="background:lightgray;" | 12
+|-
+|style="background:#212C64"| ||align=left|[[Partido Humanista de Guatemala]]|| 5 || style="background:lightgray;" | 6
+|-
+|style="background:#E78C35"| ||align=left|[[Bienestar Nacional]]||  4 || style="background:lightgray;" | 8
+|-
+|style="background:#EC0408"| ||align=left|[[Movimiento para la Liberación de los Pueblos]]|| 4 || style="background:lightgray;" | 1
+|-
+|style="background:#013EA8"| ||align=left|[[Prosperidad Ciudadana]]|| 4  || style="background:lightgray;" | 3 
+|-
+|style="background:#8ED201"| ||align=left|[[Encuentro por Guatemala]]|| 3 || style="background:lightgray;" | 0
+|-
+|style="background:#FCFD33"| ||align=left|[[Partido de Avanzada Nacional]]|| 2 || style="background:lightgray;" | 2
+|-
+|style="background:#273284"| ||align=left|[[Partido Unionista (Guatemala)|Partido Unionista]]|| 2 || style="background:lightgray;" | 3
+|-
+|style="background:#EB1C22"| ||align=left|[[WINAQ]]|| 1 || style="background:lightgray;" | 4
+|-
+|style="background:#D79E2D"| ||align=left|[[Unidad Revolucionaria Nacional Guatemalteca]]|| 1 || style="background:lightgray;" | 3
+|-
+|style="background:#00A3E6"| ||align=left|[[Visión con Valores]]|| 0 || style="background:lightgray;" | 7
+|-
+|style="background:#3481B9"| ||align=left|[[Convergencia (Guatemala)|Convergencia]]|| 0 ||  style="background:lightgray;" | 0
+|-
+|style="background:#E11829"| ||align=left|[[Victoria (partido político)|Victoria]]|| 0 || style="background:lightgray;" | 4
+|- 
+|style="background:#142A62"| ||align=left|[[Fuerza (partido político)|Fuerza]]||  0 || style="background:lightgray;" | 0
+|-
+|style="background:#E32132"| ||align=left|[[:en:Unidos (political party)|Unidos]]|| 0 || style="background:lightgray;" | 0
+|-
+|style="background:#0C477B"| ||align=left|[[:en:Productivity and Work Party|Partido Productividad y Trabajo]]|| 0 || style="background:lightgray;" | 0
+|-
+|style="background:#EF018D"| ||align=left|[[:en:Avanza (Guatemala)|Avanza]]|| 0 || style="background:lightgray;" | 0
+|-
+|style="background:#1F75FE"| ||align=left|[[:en:Libre (Guatemala)|Movimiento Libre]]||  0 || style="background:lightgray;" | 0
+|-
+|colspan="2" |'''Fuente:''' || [[CID Gallup]]<ref name="cgjunult"></ref> || TSE
+|}
+
+===Distrito de Guatemala===
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:130px;" rowspan="2"| Encuestadora
+! style="width:80px;" rowspan="2"| Fecha
+! style="width:30px;" rowspan="2"| Muestra
+! class="unsortable" style="width:40px;"| {{small|[[Partido de Avanzada Nacional|PAN]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Valor (partido político)|Valor]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Unidad Nacional de la Esperanza|UNE]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Partido Unionista (Guatemala)|PU]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Visión con Valores|VIVA]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Compromiso, Renovación y Orden|CREO]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Vamos (Guatemala)|Vamos]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Semilla (partido político)|Semilla]]}}
+
+! style="width:30px;" rowspan="2"| {{abbr|O.|Otros}}
+! style="width:30px;" rowspan="2"| {{abbr|N.|Ninguno}}
+! style="width:30px;" rowspan="2"| {{abbr|Lid.|Liderando}}
+|-
+! style="background:#FCFD33;"|
+! style="background:#1898A1;"|
+! style="background:#50A700;"|
+! style="background:#273284;"|
+! style="background:#00A3E6;"|
+! style="background:#ffcf00;"|
+! style="background:#34478E;"|
+! style="background:#00CCC9;"|
+|-
+| colspan="20" style="background:white"|
+|- style="background:lightgray;"
+| {{nowrap|'''[[Elecciones legislativas de Guatemala de 2019|Elección legislativa]]'''}}
+| 16 de junio 
+| —
+| 4.2
+| 6.1
+| 3.3
+| 7.5
+| 6.2
+| 10.8
+| 6.2
+| style="background:#ADD8E6;"| '''16.4'''
+| 39.3
+| —
+| style="background:#00CCC9; color:white;"| 5.6
+|-
+| Borges y Asociados<ref name="borges1">[https://www.soy502.com/articulo/encuesta-canela-quinonez-disputan-alcaldia-capitalina-100931 Encuesta: González y Quiñónez se disputan la alcaldía capitalina]</ref>
+| 12–16 de mayo
+| 600
+| 2.9
+| 2.2
+| 2.1
+| 3.4
+| 2.4
+| style="background:#FDFD96;"| '''6.5'''
+| —
+| 3.8
+| 7.8
+| 69.0
+| style="background:#ffcf00;"; | 2.7
+|}
+<!--
+==Parlamento Centroamericano==
+-->
+
+==Municipales==
+===Municipio de Guatemala===
+{{gráfico|width=900|height=300|xAxisTitle=Fecha|yAxisTitle=Porcentaje|legend=|type=line
+|interpolate=monotone
+|xType=date
+
+|yAxisMin=0
+|xGrid=1
+|yGrid=1
+|x=                   2019/02/13, 2019/04/14, 2019/04/26, 2019/05/9, 2019/05/17, 2019/05/24, 2019/05/30, 2019/05/31, 2019/06/06, 2019/06/12, 2019/06/16
+|
+|y1Title=Roberto González         |y1= 31.7,36.9,37.6,22.2,32.7,40.1,20,25.6,24.9,28.9,34.9
+|y2Title=Ricardo Quiñónez        |y2=  29.3,31.4,31.4,36.2,28,37.2,38,39.8,38.5,32.7,38.5
+|y3Title=Álvaro Véliz  |y3= 0,1,,4.6,2.8,,1,0.7, 4.1, 3.4, 9.7
+|y4Title=Gonzalo Marroquín          |y4=  0,2,,,0.9,,10,, 1.6,1,1.7
+|y5Title=Carlos Avendaño          |y5=  0,1.3,,,1.6,,1.4,, 0.4,1,1.8
+|y6Title=Pedro Brolo          |y6=  0,1.2,,,1.8,,1.3,, 1.4,1,2.2
+|y7Title=Luis García          |y7=  0,1.2,,2.5,0.6,,1.2,0.7,3.5,1,1.9
+|y8Title=Fernando Sánchez          |y8= ,,,,,,,0,2.8,3.7,1.6
+|y9Title=Otros         |y9= 0,0.4,,8.9,4.5,,0.2,7.0,9.6,8.7,7.7
+|y10Title=Ninguno             |y10= 39,24.6,30.9,25.6,27.1,22.6,26.9,27.1,13.2,17.9
+|colors=gold,#273284,#00CCC9,#9ACD32,blue,red,orange,#50A700,black,silver
+}}
+
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:130px;" rowspan="2"| Encuestadora
+! style="width:90px;" rowspan="2"| Fecha
+! style="width:30px;" rowspan="2"| Muestra
+! class="unsortable" style="width:60px;"| Avendaño<br>{{small|[[Partido Humanista de Guatemala|PHG]]}}
+! class="unsortable" style="width:60px;"| [[Pedro Brolo|Brolo]]<br>{{small|[[Vamos (Guatemala)|Vamos]]}}
+! class="unsortable" style="width:60px;"| García<br>{{small|[[Fuerza (partido político)|Fuerza]]}}
+! class="unsortable" style="width:60px;"| [[Roberto González Díaz-Durán|González]]<br>{{small|[[Compromiso, Renovación y Orden|CREO]]}}
+! class="unsortable" style="width:60px;"| Marroquín<br>{{small|[[Encuentro por Guatemala|EG]]}}
+! class="unsortable" style="width:60px;"| [[Ricardo Quiñónez Lemus|Quiñónez]]<br>{{small|[[Partido Unionista (Guatemala)|Unionista]]}}
+! class="unsortable" style="width:60px;"| Sánchez<br>{{small|[[Unidad Nacional de la Esperanza|UNE]]}}
+! class="unsortable" style="width:60px;"| Véliz<br>{{small|[[Semilla (partido político)|Semilla]]}}
+! style="width:25px;" rowspan="2"| Otros
+! style="width:25px;" rowspan="2"| Ninguno
+! style="width:30px;" rowspan="2"| Liderando
+|-
+! style="background:#212C64;"|
+! style="background:#34478E;"|
+! style="background:#013EA8;"|
+! style="background:gold;"|
+! style="background:#9ACD32;"|
+! style="background:#273284;"|
+! style="background:#50A700;"|
+! style="background:#00CCC9;"|
+|-
+| colspan="20" style="background:white"|
+|- style="background:lightgray;"
+| {{nowrap|'''[[:en:2019 Guatemala City mayoral election|Elección municipal]]'''}}
+| 16 de junio 
+| —
+| 1.8
+| 2.2
+| 1.9
+| 34.9
+| 1.7
+| style="background:#727aba;color:white;"| '''38.5'''
+| 1.6
+| 9.7
+| 7.7
+| —
+| style="background:#273284;color:white;" | 3.6
+|-
+| CID-Gallup<ref name="cgjunult"></ref>
+| 1–7 de junio
+| 1.388
+| 1.0
+| 1.0
+| 1.0
+| 28.9
+| 1.0
+| style="background:#727aba;color:white;"| '''32.7'''
+| 3.7
+| 3.4
+| 8.7
+| 17.9
+| style="background:#273284;color:white;" | 3.8
+|-
+| Prodatos<ref name="proddos">[https://www.prensalibre.com/ciudades/guatemala-ciudades/ricardo-quinonez-y-roberto-gonzalez-encabezan-la-intencion-de-voto-para-alcalde-de-la-capital/ Ricardo Quiñónez y Roberto González encabezan la intención de voto para alcalde de la capital]</ref>
+| 24–29 de mayo
+| 506
+| 0.4
+| 1.4
+| 3.5
+| 24.9
+| 1.6
+| style="background:#727aba;color:white;"| '''38.5'''
+| 2.8
+| 4.1
+| 9.6
+| 13.2
+| style="background:#273284;color:white;" | 13.6
+|-
+| Demoscopia<ref name="demodos">[https://www.soy502.com/articulo/quinonez-gonzalez-mantienen-liderazgo-intencion-voto-101025 Quiñónez y González, lideran intención de voto, según encuesta]</ref>
+| 31 de mayo
+| 600
+| —
+| —
+| 0.7
+| 25.6
+| —
+| style="background:#727aba;color:white;"| '''39.8'''
+| —
+| 0.7
+| 7.0
+| 27.1
+| style="background:#273284;color:white;" | 13.3
+|-
+| OPol Consultores<ref name="opol" />
+| 20–23 de mayo
+| 2.200
+| 1.4
+| 1.3
+| 1.2
+| 20.0
+| 10.0
+| style="background:#727aba;color:white;"| '''38.0'''
+| —
+| 1.0
+| 0.2
+| 26.9
+| style="background:#273284;color:white;" | 18.0
+|-
+| Borges y Asociados<ref name="borges1">[https://www.soy502.com/articulo/encuesta-canela-quinonez-disputan-alcaldia-capitalina-100931 Encuesta: González y Quiñónez se disputan la alcaldía capitalina]</ref>
+| 12–16 de mayo
+| 600
+| —
+| —
+| —
+| style="background:#FDFD96;"| '''40.1'''
+| —
+| 37.2
+| —
+| —
+| —
+| 22.6
+| style="background:gold; | 2.9
+|-
+| Borges y Asociados<ref name="borges1"/>
+| 12–16 de mayo
+| 600
+| 1.6
+| 1.8
+| 0.6
+| style="background:#FDFD96;"| '''32.7'''
+| 0.9
+| 28
+| —
+| 2.8
+| 4.5
+| 27.1
+| style="background:gold; | 4.7
+|-
+| Demoscopia<ref name="enmundos">[https://www.soy502.com/articulo/dos-candidatos-alcalde-lideran-intencion-voto-ciudad-101025 Las elección de la alcaldía capitalina está entre dos candidatos]</ref>
+| 9–11 de mayo
+| 600
+| —
+| —
+| 2.5
+| 22.2
+| —
+| style="background:#727aba;color:white;"| '''36.2'''
+| —
+| 4.6
+| 8.9
+| 25.6
+| style="background:#273284;color:white;" | 14.0
+|-
+| Borges y Asociados<ref name="enmun"/>
+| 14–17 de abril
+| 600
+| —
+| —
+| —
+| style="background:#FDFD96;"| '''37.6'''
+| —
+| 31.4
+| —
+| —
+| —
+| 30.9
+| style="background:gold; | 6.2
+|-
+| Borges y Asociados<ref name="enmun">[https://elperiodico.com.gt/nacion/2019/04/26/roberto-gonzalez-aventaja-a-ricardo-quinonez-en-carrera-por-la-alcaldia-1/ Roberto González aventaja a Ricardo Quiñónez en carrera por la Alcaldía]</ref>
+| 14–17 de abril
+| 600
+| 1.3
+| 1.2
+| 1.2
+| style="background:#FDFD96;"| '''36.9'''
+| 2.0
+| 31.4
+| —
+| 1.0
+| 0.4
+| 24.6
+| style="background:gold; | 5.5
+|-
+| Borges y Asociados<ref name="enmun">[https://elperiodico.com.gt/nacion/2019/04/26/roberto-gonzalez-aventaja-a-ricardo-quinonez-en-carrera-por-la-alcaldia-1/ Roberto González aventaja a Ricardo Quiñónez en carrera por la Alcaldía]</ref>
+| 14–17 de febrero
+| 600
+| —
+| —
+| —
+| style="background:#FDFD96;"| '''31.7'''
+| —
+| 29.3
+| —
+| —
+| —
+| 39
+| style="background:gold; | 2.4
+|}
+
+== Notas ==
+{{listaref|group=lower-alpha}}
+
+==Referencias ==
+{{listaref}}
+{{Control de autoridades}}
+[[Categoría:Política de Guatemala]]
+[[Categoría:Encuestas en Guatemala]]
+[[Categoría:Encuestas en 2019]]

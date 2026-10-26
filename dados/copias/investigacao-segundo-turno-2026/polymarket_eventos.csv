@@ -22,7 +22,7 @@ id,slug,titulo,fim,situacao,motivo
 903009,will-vivek-drop-out-of-presidential-race-in-2023,Will Vivek drop out of presidential race in 2023?,2023-12-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903069,uk-election-called-by-end-of-year,UK election called by end of year?,2023-12-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903186,bangladesh-election-sheikh-hasina-reelected-as-prime-minister,Bangladesh Election: Sheikh Hasina reelected as Prime Minister?,2024-01-07T00:00:00Z,excluido,resolucao nao unica (1 vencedores)
-902772,taiwan-presidential-election-who-will-win,Taiwan Presidential Election: Who will win?,2024-01-13T00:00:00Z,excluido,sem historico de preco
+902772,taiwan-presidential-election-who-will-win,Taiwan Presidential Election: Who will win?,2024-01-13T00:00:00Z,incluido,
 902982,will-dpp-win-a-majority-in-the-2024-taiwanese-general-election,Will DPP (民進黨) win a majority in the 2024 Taiwanese General Election?,2024-01-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 903179,who-will-get-more-votes-in-taiwan-election-hou-yu-ih-or-ko-wen-je,Who will get more votes in Taiwan Election: Hou Yu-ih (侯友宜) or Ko Wen-je (柯文哲)?,2024-01-13T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903144,will-haley-beat-desantis-in-iowa,Will Haley beat DeSantis in Iowa?,2024-01-15T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -34,8 +34,8 @@ id,slug,titulo,fim,situacao,motivo
 903100,will-another-state-disqualify-trump-from-ballot-by-jan-31,Will another state court disqualify Trump from ballot by Jan 31?,2024-01-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 901321,will-trump-win-the-2024-iowa-caucus,Will Trump win the 2024 Iowa Caucus?,2024-02-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903364,nikki-haley-wins-50-of-the-vote-in-nevada-republican-primary,Nikki Haley wins >50% of the vote in Nevada Republican primary? ,2024-02-06T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-903288,pakistan-election-who-will-be-next-prime-minister,Pakistan Election: Who will be next Prime Minister?,2024-02-08T00:00:00Z,excluido,sem historico de preco
-903250,finland-presidential-election-who-will-win,Finland Presidential Election Winner,2024-02-11T00:00:00Z,excluido,sem historico de preco
+903288,pakistan-election-who-will-be-next-prime-minister,Pakistan Election: Who will be next Prime Minister?,2024-02-08T00:00:00Z,incluido,
+903250,finland-presidential-election-who-will-win,Finland Presidential Election Winner,2024-02-11T00:00:00Z,incluido,
 903278,ny-3-special-election-for-santos-seat-suozzi-d-vs-pilip-r,NY-3 Special Election for Santos seat: Suozzi (D) vs. Pilip (R),2024-02-13T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903443,ny-3-special-election-will-suozzi-d-win-by-over-5,NY-3 Special Election: Will Suozzi (D) win by over 5%?,2024-02-13T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 902796,indonesia-election-prabowo-subianto-wins,Indonesia Election: Prabowo Subianto wins?,2024-02-14T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -59,32 +59,32 @@ id,slug,titulo,fim,situacao,motivo
 903704,will-nikki-haley-win-any-state-on-super-tuesday,Will Nikki Haley win any state on Super Tuesday?,2024-03-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903099,will-trump-appear-on-colorado-primary-ballot,Will Trump appear on Colorado primary ballot?,2024-03-06T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903110,trump-50-chance-of-winning-nomination-after-super-tuesday,Trump >50% chance of winning nomination after Super Tuesday?,2024-03-06T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-903527,portugal-legislative-election,Portugal Legislative Election,2024-03-10T00:00:00Z,excluido,sem historico de preco
+903527,portugal-legislative-election,Portugal Legislative Election,2024-03-10T00:00:00Z,incluido,
 903791,mississippi-republican-senate-primary-winner,Mississippi Republican Senate Primary Winner,2024-03-11T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903783,will-biden-win-georgia-democratic-primary,Will Biden win Georgia Democratic Primary?,2024-03-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903788,will-biden-win-washington-democratic-primary,Will Biden win Washington Democratic Primary? ,2024-03-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 902846,will-putin-be-reelected,Will Putin be reelected?,2024-03-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903705,ohio-republican-senate-primary-winner,Ohio Republican Senate Primary Winner,2024-03-19T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-903525,slovakia-presidential-election-winner,Slovakia Presidential Election Winner,2024-03-23T00:00:00Z,excluido,sem historico de preco
-903792,senegal-presidential-election-winner,Senegal Presidential Election Winner,2024-03-24T00:00:00Z,excluido,sem historico de preco
+903525,slovakia-presidential-election-winner,Slovakia Presidential Election Winner,2024-03-23T00:00:00Z,incluido,
+903792,senegal-presidential-election-winner,Senegal Presidential Election Winner,2024-03-24T00:00:00Z,incluido,
 903344,istanbul-mayoral-election-2024-which-party-will-win,Istanbul Mayoral Election 2024: Which party will win?,2024-03-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903371,will-sinema-announce-shes-running-for-re-election,Will Sinema announce she's running for re-election?,2024-04-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903697,south-korea-election-which-party-wins-the-most-seats,South Korea election: Which party wins the most seats?,2024-04-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903006,will-george-santos-announce-hes-running-for-congress-before-may,Will George Santos announce he's running for congress before May?,2024-04-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-10304,panama-presidential-election-winner,Panama Presidential Election Winner,2024-05-05T12:00:00Z,excluido,sem historico de preco
-10499,north-macedonia-presidential-election-winner,North Macedonia Presidential Election Winner,2024-05-08T12:00:00Z,excluido,sem historico de preco
-10655,dominican-republic-presidential-election-winner,Dominican Republic Presidential Election Winner,2024-05-19T12:00:00Z,excluido,sem historico de preco
+10304,panama-presidential-election-winner,Panama Presidential Election Winner,2024-05-05T12:00:00Z,incluido,
+10499,north-macedonia-presidential-election-winner,North Macedonia Presidential Election Winner,2024-05-08T12:00:00Z,incluido,
+10655,dominican-republic-presidential-election-winner,Dominican Republic Presidential Election Winner,2024-05-19T12:00:00Z,excluido,historico nao cobre a vespera
 903739,will-rfk-jr-announce-libertarian-party-bid,Will RFK Jr. announce Libertarian Party bid?,2024-05-26T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-10586,lithuanian-presidential-election-winner,Lithuania Presidential Election Winner ,2024-05-26T12:00:00Z,excluido,sem historico de preco
-10336,south-africa-election-who-will-be-next-president,South Africa Presidential Election Winner,2024-05-29T12:00:00Z,excluido,sem historico de preco
+10586,lithuanian-presidential-election-winner,Lithuania Presidential Election Winner ,2024-05-26T12:00:00Z,excluido,historico nao cobre a vespera
+10336,south-africa-election-who-will-be-next-president,South Africa Presidential Election Winner,2024-05-29T12:00:00Z,incluido,
 10330,south-africa-election-will-anc-win-a-majority-of-seats,South Africa Election: Will ANC win a majority of seats?,2024-05-29T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903756,india-election-modi-reelected,Indian Election: Modi reelected?,2024-05-30T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10500,rishi-sunak-out-by-may-31,Rishi Sunak out by May 31?,2024-05-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10384,india-election-nda-wins-400-seats,Indian election: NDA wins 400+ seats?,2024-06-01T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-903204,mexican-presidential-election-who-will-win,Mexico Presidential Election Winner,2024-06-01T12:00:00Z,excluido,sem historico de preco
+903204,mexican-presidential-election-who-will-win,Mexico Presidential Election Winner,2024-06-01T12:00:00Z,incluido,
 10301,indian-election-nda-margin-of-victory,Indian Election: NDA Margin of Victory,2024-06-01T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10303,india-election-will-bjp-win-a-majority-of-seats,Indian Election: Will BJP win a majority of seats?,2024-06-01T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-10806,iceland-presidential-election-winner,Iceland Presidential Election Winner,2024-06-01T12:00:00Z,excluido,sem historico de preco
+10806,iceland-presidential-election-winner,Iceland Presidential Election Winner,2024-06-01T12:00:00Z,incluido,
 10407,indian-election-how-many-seats-will-the-nda-win,Indian Election: How many seats will the NDA win?,2024-06-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 11135,will-reform-win-7-seats-in-uk-election,Will Reform win 7+ seats in UK Election?,2024-06-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10938,france-eu-election,France EU Election,2024-06-08T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -107,7 +107,7 @@ id,slug,titulo,fim,situacao,motivo
 11024,which-party-wins-second-most-seats-in-uk-election,Which party wins second most seats in UK Election?,2024-07-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 11145,reform-share-of-votes-in-uk-election,Reform share of votes in UK election?,2024-07-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 11188,how-many-seats-will-the-lib-dems-win-in-uk-election,How many seats will the Lib Dems win in UK Election?,2024-07-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-10740,uk-election-next-prime-minister,Next UK prime minister?,2024-07-04T12:00:00Z,excluido,sem historico de preco
+10740,uk-election-next-prime-minister,Next UK prime minister?,2024-07-04T12:00:00Z,incluido,
 10741,uk-election-labour-vote-share,UK Election: Labour % of the vote?,2024-07-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10755,of-conservative-seats-after-uk-election-125-200,# of Conservative seats after UK Election? (125-200),2024-07-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10765,jeremy-corbyn-elected-to-parliament-in-uk-election,Jeremy Corbyn elected to parliament in UK election?,2024-07-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -121,7 +121,7 @@ id,slug,titulo,fim,situacao,motivo
 11241,how-many-seats-will-national-rally-coalition-win-in-french-election,How many seats will National Rally coalition win in French Election?,2024-07-07T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903214,republican-nominee-2024,Republican Nominee 2024,2024-07-17T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10719,next-president-of-iran,Next President of Iran?,2024-07-20T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-10857,venezuela-election-winner,Venezuela Presidential Election Winner,2024-07-28T12:00:00Z,excluido,sem historico de preco
+10857,venezuela-election-winner,Venezuela Presidential Election Winner,2024-07-28T12:00:00Z,incluido,
 10133,trump-vp-announcement-when,When will Trump announce VP pick?,2024-07-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 11421,macron-resigns-before-august,Macron resigns before August?,2024-07-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10896,will-joe-manchin-run-for-west-virginia-governor,Will Joe Manchin run for West Virginia Governor?,2024-08-01T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -131,19 +131,19 @@ id,slug,titulo,fim,situacao,motivo
 903266,will-kamala-harris-be-the-democratic-vp-nominee,Will Kamala Harris be the Democratic VP nominee?,2024-08-21T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 902550,will-nh-be-the-first-primary-in-2024-dem-nomination,Will NH be the first primary in 2024 Dem. nomination?,2024-08-22T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 902767,trump-and-biden-both-lose-nomination,Trump and Biden both lose nomination?,2024-08-22T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-11052,next-french-prime-minister,Next French Prime Minister,2024-08-31T12:00:00Z,excluido,sem historico de preco
+11052,next-french-prime-minister,Next French Prime Minister,2024-08-31T12:00:00Z,incluido,
 11791,lucie-castets-appointed-as-french-pm-by-august-31,Lucie Castets appointed as French PM by August 31?,2024-08-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10233,how-many-members-of-the-squad-will-lose-their-primaries,"How many ""Squad"" members will lose their primaries?",2024-09-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903287,republican-vp-nominee,Republican VP nominee?,2024-09-09T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 5828,who-will-win-the-us-2024-republican-presidential-nomination,[Single Markets] Republican Nominee 2024,2024-09-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-12584,sri-lanka-presidential-election-winner,Sri Lanka Presidential Election Winner,2024-09-21T12:00:00Z,excluido,sem historico de preco
+12584,sri-lanka-presidential-election-winner,Sri Lanka Presidential Election Winner,2024-09-21T12:00:00Z,incluido,
 12648,who-wins-most-votes-in-brandenburg-election,Who wins most votes in Brandenburg election?,2024-09-21T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 12657,which-party-wins-the-most-seats-austrian-legislative-election,Which party wins the most seats Austrian legislative election?,2024-09-29T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 11741,edmundo-gonzlez-arrested-before-october,Edmundo González arrested before October?,2024-09-30T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 12299,so-paulo-mayoral-election-2024,São Paulo mayoral election 2024,2024-10-06T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 13156,porto-alegre-mayoral-election-2024,Porto Alegre mayoral election 2024,2024-10-06T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-12737,mozambique-presidential-election-winner,Mozambique Presidential Election Winner,2024-10-09T12:00:00Z,excluido,sem historico de preco
-12939,tunisia-presidential-election-winner,Tunisia Presidential Election Winner,2024-10-09T12:00:00Z,excluido,sem historico de preco
+12737,mozambique-presidential-election-winner,Mozambique Presidential Election Winner,2024-10-09T12:00:00Z,incluido,
+12939,tunisia-presidential-election-winner,Tunisia Presidential Election Winner,2024-10-09T12:00:00Z,excluido,historico nao cobre a vespera
 12580,which-party-wins-the-most-seats-in-lithuanian-election,Which party wins the most seats in Lithuanian Election?,2024-10-13T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 12706,which-party-wins-the-most-seats-in-british-columbia-election,Which party wins the most seats in British Columbia election?,2024-10-19T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 13379,will-moldovas-eu-membership-referendum-pass,Will Moldova's EU membership referendum pass?,2024-10-20T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -155,7 +155,7 @@ id,slug,titulo,fim,situacao,motivo
 12711,which-party-wins-most-seats-in-new-brunswick-election,Which party wins most seats in New Brunswick election?,2024-10-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 12713,which-party-wins-most-seats-in-in-saskatchewan-election,Which party wins most seats in in Saskatchewan election?,2024-10-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903426,trump-election-interference-trial-date,Trump DC election interference trial date?,2024-10-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-13369,moldova-presidential-election-winner,Moldova Presidential Election Winner,2024-11-03T12:00:00Z,excluido,sem historico de preco
+13369,moldova-presidential-election-winner,Moldova Presidential Election Winner,2024-11-03T12:00:00Z,incluido,
 10999,trump-convicted-of-another-felony-before-election,Trump convicted of another felony before election?,2024-11-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 902516,will-biden-drop-out-of-presidential-race,Biden drops out of presidential race?,2024-11-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 902938,will-10-of-votes-go-to-3rd-party-candidates-in-the-2024-us-presidential-election,Will ≥10% of Votes go to 3rd Party Candidates in US Election?,2024-11-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -176,18 +176,18 @@ id,slug,titulo,fim,situacao,motivo
 10022,ohio-us-senate-election-winner,Ohio Senate Election Winner,2024-11-05T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 10382,washington-dc-presidential-election-winner,Washington DC Presidential Election Winner,2024-11-05T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 11209,who-will-win-san-francisco-mayoral-election,Who will win San Francisco Mayor Election?,2024-11-05T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-903193,presidential-election-winner-2024,Presidential Election Winner 2024,2024-11-05T12:00:00Z,excluido,sem historico de preco
+903193,presidential-election-winner-2024,Presidential Election Winner 2024,2024-11-05T12:00:00Z,incluido,
 903683,wisconsin-presidential-election-winner,Who will win Wisconsin?,2024-11-05T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-4076,which-party-will-win-the-2024-united-states-presidential-election,Which party wins 2024 US Presidential Election?,2024-11-08T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-14225,sri-lanka-legislative-election,Sri Lanka Parliamentary Election ,2024-11-14T12:00:00Z,excluido,sem historico de preco
-13377,uruguay-presidential-election-winner,Uruguay Presidential Election,2024-11-24T12:00:00Z,excluido,sem historico de preco
-14827,namibia-presidential-election,Namibia Presidential Election,2024-11-27T12:00:00Z,excluido,sem historico de preco
-14372,2024-irish-general-election,Ireland General Election,2024-11-29T12:00:00Z,excluido,sem historico de preco
-14374,next-prime-minster-of-ireland,Next Prime Minister of Ireland,2024-11-29T12:00:00Z,excluido,sem historico de preco
-14605,iceland-legislative-election,Iceland Legislative Election,2024-11-30T12:00:00Z,excluido,sem historico de preco
-14379,romania-parliamentary-election,Romania Parliamentary Election ,2024-12-01T12:00:00Z,excluido,sem historico de preco
-14560,ghana-presidential-election,Ghana Presidential Election,2024-12-07T12:00:00Z,excluido,sem historico de preco
-14561,ghana-legislative-election,Ghana Legislative Election,2024-12-07T12:00:00Z,excluido,sem historico de preco
+4076,which-party-will-win-the-2024-united-states-presidential-election,Which party wins 2024 US Presidential Election?,2024-11-08T12:00:00Z,incluido,
+14225,sri-lanka-legislative-election,Sri Lanka Parliamentary Election ,2024-11-14T12:00:00Z,incluido,
+13377,uruguay-presidential-election-winner,Uruguay Presidential Election,2024-11-24T12:00:00Z,incluido,
+14827,namibia-presidential-election,Namibia Presidential Election,2024-11-27T12:00:00Z,incluido,
+14372,2024-irish-general-election,Ireland General Election,2024-11-29T12:00:00Z,incluido,
+14374,next-prime-minster-of-ireland,Next Prime Minister of Ireland,2024-11-29T12:00:00Z,incluido,
+14605,iceland-legislative-election,Iceland Legislative Election,2024-11-30T12:00:00Z,incluido,
+14379,romania-parliamentary-election,Romania Parliamentary Election ,2024-12-01T12:00:00Z,incluido,
+14560,ghana-presidential-election,Ghana Presidential Election,2024-12-07T12:00:00Z,incluido,
+14561,ghana-legislative-election,Ghana Legislative Election,2024-12-07T12:00:00Z,incluido,
 903376,canada-federal-election-in-2024,Canada federal election in 2024?,2024-12-30T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 903744,will-ethereum-hit-15k-in-2024,Will Ethereum hit $15k in 2024?,2024-12-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10597,uk-election-how-many-seats-will-labour-win,# of Labour seats after UK Election? (325-450),2024-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -205,15 +205,15 @@ id,slug,titulo,fim,situacao,motivo
 15189,calin-georgescu-arrested-in-2024,Calin Georgescu arrested in 2024?,2024-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 15611,canada-election-called-before-2025,Canada election called before 2025?,2024-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10511,when-will-uk-election-be-held,When will UK election be held?,2025-01-01T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-14596,croatia-presidential-election,Croatia Presidential Election,2025-01-12T12:00:00Z,excluido,sem historico de preco
-15422,belarus-presidential-election,Belarus Presidential Election,2025-01-26T12:00:00Z,excluido,sem historico de preco
+14596,croatia-presidential-election,Croatia Presidential Election,2025-01-12T12:00:00Z,incluido,
+15422,belarus-presidential-election,Belarus Presidential Election,2025-01-26T12:00:00Z,excluido,historico nao cobre a vespera
 10516,uk-elections-who-will-win-most-seats,Which party wins the most seats after UK Election?,2025-01-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10515,uk-election-labour-wins-a-majority-of-seats,Labour wins a majority of seats in UK election? ,2025-01-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 10518,rishi-sunak-out-before-next-uk-election,Rishi Sunak out before next UK election?,2025-01-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-16840,liechtenstein-parliamentary-election-winner,Liechtenstein Parliamentary Election Winner ,2025-02-09T12:00:00Z,excluido,sem historico de preco
+16840,liechtenstein-parliamentary-election-winner,Liechtenstein Parliamentary Election Winner ,2025-02-09T12:00:00Z,incluido,
 17537,will-noboa-win-in-the-first-round-of-the-ecuadorian-presidential-election,Will Noboa win outright in 1st round of Ecuador Election? ,2025-02-09T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 16583,next-president-of-greece,Next President of Greece?,2025-02-12T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-14835,germany-parliamentary-election,Germany Parliamentary Election Winner,2025-02-23T12:00:00Z,excluido,sem historico de preco
+14835,germany-parliamentary-election,Germany Parliamentary Election Winner,2025-02-23T12:00:00Z,incluido,
 15619,which-party-wins-2nd-most-seats-in-german-election,Which Party wins 2nd most seats in German election?,2025-02-23T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 17239,fdp-wins-5-or-more-of-vote-in-german-election,FDP wins 5% or more of vote in German election? ,2025-02-23T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 17241,will-the-left-wins-5-or-more-of-vote-in-german-election,Will The Left wins 5% or more of vote in German election? ,2025-02-23T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -224,16 +224,16 @@ id,slug,titulo,fim,situacao,motivo
 21301,canada-election-called-by-sunday,Canada election called by Sunday?,2025-03-23T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 21731,australia-election-called-by-friday,Australia election called by Friday?,2025-03-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 16206,south-korea-first-lady-kim-keon-hee-arrested-before-april,South Korea First Lady Keon-hee arrested before April?,2025-03-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-16763,greenland-parliamentary-election-winner,Greenland Parliamentary Election Winner,2025-04-06T12:00:00Z,excluido,sem historico de preco
-22672,2025-gabonese-presidential-election-winner,2025 Gabonese Presidential election Winner,2025-04-12T12:00:00Z,excluido,sem historico de preco
+16763,greenland-parliamentary-election-winner,Greenland Parliamentary Election Winner,2025-04-06T12:00:00Z,incluido,
+22672,2025-gabonese-presidential-election-winner,2025 Gabonese Presidential election Winner,2025-04-12T12:00:00Z,excluido,historico nao cobre a vespera
 22640,ecuador-presidential-election-margin-of-victory-1,Ecuador Presidential Election Margin of Victory,2025-04-13T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-14882,ecuador-presidential-election,Ecuador Presidential Election,2025-04-13T12:00:00Z,excluido,sem historico de preco
+14882,ecuador-presidential-election,Ecuador Presidential Election,2025-04-13T12:00:00Z,incluido,
 22441,oakland-mayoral-special-election,Oakland mayoral special election,2025-04-15T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 22816,canadian-election-debate-mentions-carney,Canadian Election Debate Mentions: Carney,2025-04-17T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 22818,canadian-election-debate-mentions-poilievre,Canadian Election Debate Mentions: Poilievre,2025-04-17T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 21597,will-mark-carney-lose-his-seat,Will Mark Carney lose his seat?,2025-04-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 21598,will-pierre-poilievre-lose-his-seat,Will Pierre Poilievre lose his seat?,2025-04-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-16125,next-prime-minster-of-canada,Next Prime Minister of Canada after the election?,2025-04-28T12:00:00Z,excluido,sem historico de preco
+16125,next-prime-minster-of-canada,Next Prime Minister of Canada after the election?,2025-04-28T12:00:00Z,incluido,
 16430,which-party-wins-most-seats-in-canadian-election,Which Party wins most seats in Canadian election?,2025-04-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 16431,which-party-wins-2nd-most-seats-in-canadian-election,Which Party wins 2nd most seats in Canadian election?,2025-04-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 16432,will-the-conservative-party-win-a-majority-in-next-canadian-election,Conservatives win majority in Canadian election?,2025-04-28T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -261,36 +261,36 @@ id,slug,titulo,fim,situacao,motivo
 22858,australia-election-seat-of-brisbane,Australia Election: Seat of Brisbane,2025-05-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 22859,australia-election-seat-of-bennelong,Australia Election: Seat of Bennelong,2025-05-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 23324,how-many-seats-will-pap-win-in-singapore-election,How many seats will PAP win in Singapore Election?,2025-05-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-16589,australia-parliamentary-election-winner,Australia Parliamentary Election Winner,2025-05-03T12:00:00Z,excluido,sem historico de preco
-16711,next-prime-minister-of-australia,Next Prime Minister of Australia?,2025-05-03T12:00:00Z,excluido,sem historico de preco
+16589,australia-parliamentary-election-winner,Australia Parliamentary Election Winner,2025-05-03T12:00:00Z,incluido,
+16711,next-prime-minister-of-australia,Next Prime Minister of Australia?,2025-05-03T12:00:00Z,incluido,
 23633,next-government-of-australia,Next Government of Australia ,2025-05-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 23634,australia-election-results-in-a-hung-parliament,Australia election results in a hung parliament?,2025-05-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 23679,of-seats-labor-win-in-australian-election,# of seats Labor win in Australian Election?,2025-05-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 23682,will-the-patient-focus-pf-win-a-seat-in-norwegian-election-328,Will the Greens win 4+ seats in Australian Election?,2025-05-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 22660,will-any-candidate-win-outright-in-1st-round-of-romanian-election,Will any candidate win outright in 1st round of Romanian Election?,2025-05-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-15369,romania-presidential-election-1st-round-winner,Romania Presidential Election 1st round winner?,2025-05-04T12:00:00Z,excluido,sem historico de preco
+15369,romania-presidential-election-1st-round-winner,Romania Presidential Election 1st round winner?,2025-05-04T12:00:00Z,incluido,
 23340,romania-presidential-election-1st-round-2nd-place,Romania Presidential Election 1st round 2nd place?,2025-05-04T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-23711,next-prime-minister-of-albania,Next Prime Minister of Albania ,2025-05-11T12:00:00Z,excluido,sem historico de preco
-23737,albania-parliamentary-election-winner,Albania Parliamentary Election Winner,2025-05-11T12:00:00Z,excluido,sem historico de preco
+23711,next-prime-minister-of-albania,Next Prime Minister of Albania ,2025-05-11T12:00:00Z,excluido,historico nao cobre a vespera
+23737,albania-parliamentary-election-winner,Albania Parliamentary Election Winner,2025-05-11T12:00:00Z,excluido,historico nao cobre a vespera
 23254,which-party-wins-most-seats-in-philippines-election,Which Party wins most seats in Philippines election?,2025-05-12T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 23335,will-peter-dutton-lose-his-seat,Will Peter Dutton lose his seat?,2025-05-17T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 23336,will-anthony-albanese-lose-his-seat,Will Anthony Albanese lose his seat?,2025-05-17T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-16868,romania-presidential-election-winner,Romania Presidential Election Winner,2025-05-18T12:00:00Z,excluido,sem historico de preco
+16868,romania-presidential-election-winner,Romania Presidential Election Winner,2025-05-18T12:00:00Z,incluido,
 21180,which-party-wins-most-seats-in-portugal-election-2025,Which Party wins most seats in Portugal election?,2025-05-18T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-21183,next-prime-minister-of-portugal-after-the-2025-election,Next Prime Minister of Portugal after the 2025 election?,2025-05-18T12:00:00Z,excluido,sem historico de preco
+21183,next-prime-minister-of-portugal-after-the-2025-election,Next Prime Minister of Portugal after the 2025 election?,2025-05-18T12:00:00Z,incluido,
 22991,will-any-candidate-win-outright-in-1st-round-of-poland-election,Will any candidate win outright in 1st round of Poland Election?,2025-05-18T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 23878,romanian-presidential-election-margin-of-victory,Romanian Presidential Election Margin of Victory,2025-05-18T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-23936,poland-presidential-election-1st-round-winner,Poland Presidential Election 1st round winner?,2025-05-18T12:00:00Z,excluido,sem historico de preco
+23936,poland-presidential-election-1st-round-winner,Poland Presidential Election 1st round winner?,2025-05-18T12:00:00Z,incluido,
 24304,will-dan-or-simion-win-the-diaspora-vote,Will Dan or Simion win the diaspora vote?,2025-05-18T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 24305,will-dan-win-all-the-bucharest-sectors,Will Dan win all the Bucharest sectors?,2025-05-18T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-23949,suriname-parliamentary-election-winner,Suriname Parliamentary Election Winner,2025-05-25T12:00:00Z,excluido,sem historico de preco
+23949,suriname-parliamentary-election-winner,Suriname Parliamentary Election Winner,2025-05-25T12:00:00Z,incluido,
 21621,jagmeet-singh-out-as-leader-of-new-democrats-before-june,Jagmeet Singh out as leader of New Democrats before June?,2025-05-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 21624,yves-francois-blanchet-out-as-leader-of-bloc-quebecois-before-june,Yves Francois Blanchet out as leader of Bloc Quebecois before June?,2025-05-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 24796,poland-presidential-election-margin-of-victory,Poland Presidential Election Margin of Victory,2025-06-01T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 24809,turnout-in-2025-polish-presidential-election,Turnout in 2025 Polish Presidential Election?,2025-06-01T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-14874,poland-presidential-election,Poland Presidential Election,2025-06-01T12:00:00Z,excluido,sem historico de preco
+14874,poland-presidential-election,Poland Presidential Election,2025-06-01T12:00:00Z,incluido,
 24885,will-trzaskowski-or-nawrocki-win-the-diaspora-vote,Will Trzaskowski or Nawrocki win the diaspora vote?,2025-06-01T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-24888,polish-presidential-elections-regions,Polish Presidential Elections: Regions ,2025-06-01T12:00:00Z,excluido,resolucao nao unica (16 vencedores)
+24888,polish-presidential-elections-regions,Polish Presidential Elections: Regions ,2025-06-01T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 24890,polish-presidential-elections-cities,Polish Presidential Elections: Cities ,2025-06-01T12:00:00Z,excluido,resolucao nao unica (4 vencedores)
 24463,lee-jae-myung-out-as-democratic-party-presidential-candidate,Lee Jae-myung out as Democratic Party presidential candidate?,2025-06-02T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 24465,lee-jun-seok-of-vote-in-south-korea-election,Lee Jun-seok % of vote in South Korea Election?,2025-06-02T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -301,12 +301,12 @@ id,slug,titulo,fim,situacao,motivo
 25332,turnout-in-2025-south-korea-presidential-election,Turnout in 2025 South Korea Presidential Election?,2025-06-03T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 25336,which-cities-provinces-will-lee-jae-myung-win,Which Cities & Provinces will Lee Jae-myung win?,2025-06-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 22254,next-president-of-south-korea,Next president of South Korea?,2025-06-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-22523,which-party-wins-south-korea-presidential-election,Which party wins South Korea presidential election?,2025-06-03T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+22523,which-party-wins-south-korea-presidential-election,Which party wins South Korea presidential election?,2025-06-03T12:00:00Z,incluido,
 24096,lee-jae-myung-of-vote-in-south-korea-election, Lee Jae-myung % of vote in South Korea Election?,2025-06-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-24371,south-korea-presidential-election-3rd-place,South Korea Presidential Election 3rd Place?,2025-06-03T12:00:00Z,excluido,sem historico de preco
+24371,south-korea-presidential-election-3rd-place,South Korea Presidential Election 3rd Place?,2025-06-03T12:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 24462,lee-jae-myung-of-vote-in-south-korea-election-994,Kim Moon-soo % of vote in South Korea Election?,2025-06-03T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 25385,nyc-mayoral-1st-democratic-primary-debate-mentions,NYC Mayoral: 1st Democratic Primary Debate Mentions,2025-06-04T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-24375,burundi-parliamentary-election-winner,Burundi Parliamentary Election Winner,2025-06-05T12:00:00Z,excluido,sem historico de preco
+24375,burundi-parliamentary-election-winner,Burundi Parliamentary Election Winner,2025-06-05T12:00:00Z,incluido,
 26483,2nd-place-in-new-jersey-governor-democratic-primary,2nd Place in New Jersey Governor Democratic Primary ,2025-06-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 26497,will-mikie-sherrill-win-nj-governor-dem-primary-by-15,Will Mikie Sherrill win NJ Governor Dem primary by >15%?,2025-06-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 22501,new-jersey-governor-democratic-primary-winner,New Jersey Governor Democratic Primary Winner,2025-06-10T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -342,20 +342,20 @@ id,slug,titulo,fim,situacao,motivo
 28659,of-exhausted-ballots-in-nyc-mayor-dem-primary,% of inactive ballots in NYC Mayor Dem Primary ,2025-07-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 28660,nyc-mayoral-dem-primary-mamdani-mov,NYC Mayoral Dem Primary Mamdani MOV,2025-07-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 24213,next-president-of-suriname,Next President of Suriname ,2025-07-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-32586,bolivia-presidential-election-1st-round-winner,Bolivia Presidential Election 1st round winner?,2025-08-17T00:00:00Z,excluido,sem historico de preco
+32586,bolivia-presidential-election-1st-round-winner,Bolivia Presidential Election 1st round winner?,2025-08-17T00:00:00Z,incluido,
 32587,will-any-candidate-win-outright-in-1st-round-of-bolivia-election,Will any candidate win outright in 1st round of Bolivia Election?,2025-08-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-34048,bolivia-chamber-of-deputies-election-winner,Bolivia Chamber of Deputies Election Winner,2025-08-17T00:00:00Z,excluido,sem historico de preco
+34048,bolivia-chamber-of-deputies-election-winner,Bolivia Chamber of Deputies Election Winner,2025-08-17T00:00:00Z,incluido,
 34049,bolivia-senate-election-winner,Bolivia Senate Election Winner,2025-08-17T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 36098,bolivia-presidential-election-margin-of-victory,Bolivia Presidential Election Margin of Victory: First Round,2025-08-17T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 36714,which-pair-advances-to-bolivia-runoff-election,Which pair advances to Bolivia runoff election?,2025-08-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 37070,turnout-in-2025-bolivia-presidential-election-first-round,Turnout in 2025 Bolivia Presidential Election first round?,2025-08-17T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 37075,will-the-2025-taiwanese-referendum-pass,Will the 2025 Taiwanese referendum pass?,2025-08-23T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-37337,samoa-legislative-assembly-election-winner,Samoa Legislative Assembly Election Winner,2025-08-29T00:00:00Z,excluido,sem historico de preco
+37337,samoa-legislative-assembly-election-winner,Samoa Legislative Assembly Election Winner,2025-08-29T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 24878,will-romanias-court-annul-the-presidential-election,Will Romania's court annul the presidential election?,2025-08-31T12:00:00Z,excluido,resolucao nao unica (0 vencedores)
-37340,guyana-national-assembly-election-winner,Guyana National Assembly Election Winner,2025-09-01T00:00:00Z,excluido,sem historico de preco
-37346,guyana-presidential-election,Guyana Presidential Election,2025-09-01T00:00:00Z,excluido,sem historico de preco
-37341,jamaica-house-of-representatives-election-winner,Jamaica House of Representatives Election Winner,2025-09-03T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-37348,next-prime-minister-of-jamaica,Next Prime Minister of Jamaica,2025-09-03T00:00:00Z,excluido,sem historico de preco
+37340,guyana-national-assembly-election-winner,Guyana National Assembly Election Winner,2025-09-01T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+37346,guyana-presidential-election,Guyana Presidential Election,2025-09-01T00:00:00Z,incluido,
+37341,jamaica-house-of-representatives-election-winner,Jamaica House of Representatives Election Winner,2025-09-03T00:00:00Z,incluido,
+37348,next-prime-minister-of-jamaica,Next Prime Minister of Jamaica,2025-09-03T00:00:00Z,incluido,
 38538,norwegian-labour-party-ap-ou-27,Will the Labour Party (Ap) win 27% or more of vote in Norwegian election?,2025-09-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 38554,will-the-christian-democratic-party-krf-win-4-or-more-of-vote-in-norwegian-election,Christian Democratic Party (KrF) wins 4% or more of vote in Norwegian election?,2025-09-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 38877,which-bloc-wins-most-seats-in-norway-election,Which Bloc Wins most seats in Norway election?,2025-09-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -370,18 +370,18 @@ id,slug,titulo,fim,situacao,motivo
 41369,how-many-seats-will-the-progress-party-frp-win-in-norwegian-election,How many seats will the Progress Party (FrP) win in Norwegian Election?,2025-09-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 41371,how-many-seats-will-the-labour-party-ap-win-in-norwegian-election,How many seats will the Labour Party (Ap) win in Norwegian Election?,2025-09-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 41372,how-many-seats-will-the-conservative-party-h-win-in-norwegian-election,How many seats will the Conservative Party (H) win in Norwegian Election?,2025-09-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-22793,norway-parliamentary-election-winner,Norway Parliamentary Election Winner,2025-09-08T12:00:00Z,excluido,sem historico de preco
-25330,next-prime-minister-of-norway,Next Prime Minister of Norway,2025-09-08T12:00:00Z,excluido,sem historico de preco
+22793,norway-parliamentary-election-winner,Norway Parliamentary Election Winner,2025-09-08T12:00:00Z,incluido,
+25330,next-prime-minister-of-norway,Next Prime Minister of Norway,2025-09-08T12:00:00Z,incluido,
 38906,which-party-wins-4th-most-seats-in-norway-election,Which Party wins 4th most seats in Norway election? ,2025-09-09T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-24600,malawi-presidential-election-981,Malawi Presidential Election,2025-09-16T12:00:00Z,excluido,sem historico de preco
+24600,malawi-presidential-election-981,Malawi Presidential Election,2025-09-16T12:00:00Z,incluido,
 42620,next-french-prime-minister-appointed-by,Next French Prime Minister appointed by...?,2025-09-19T00:00:00Z,excluido,resolucao nao unica (3 vencedores)
 37327,will-the-2025-guinea-referendum-pass,Will the 2025 Guinea referendum pass?,2025-09-21T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 41299,arizona-house-special-election,Arizona House Special Election,2025-09-23T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 44981,pas-margin-of-victory,PAS margin of victory?,2025-09-28T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 45010,will-pas-win-a-majority-of-seats-in-moldova-elections,Will PAS win a majority of seats in Moldova elections?,2025-09-28T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-24685,moldova-parliamentary-election,Moldova Parliamentary Election,2025-09-28T12:00:00Z,excluido,sem historico de preco
+24685,moldova-parliamentary-election,Moldova Parliamentary Election,2025-09-28T12:00:00Z,incluido,
 43176,nepal-snap-election-called-by-september-30,Nepal snap election called by September 30?,2025-09-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-21616,czech-republic-parliamentary-election-winner,Czech Republic Parliamentary Election Winner,2025-09-30T12:00:00Z,excluido,sem historico de preco
+21616,czech-republic-parliamentary-election-winner,Czech Republic Parliamentary Election Winner,2025-09-30T12:00:00Z,incluido,
 39409,ano-of-vote-in-czech-election,ANO % of vote in Czech Election?,2025-10-03T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 39410,spolu-of-vote-in-czech-election,SPOLU % of vote in Czech Election?,2025-10-03T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 39411,spd-of-vote-in-czech-election,SPD % of vote in Czech Election?,2025-10-03T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -396,36 +396,36 @@ id,slug,titulo,fim,situacao,motivo
 39634,starostov-stan-wins-10-or-more-of-vote-in-czech-election,Starostové (STAN) wins 10% or more of vote in Czech election?,2025-10-03T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 39635,pirates-wins-10-or-more-of-vote-in-czech-election,Pirates wins 10% or more of vote in Czech election?,2025-10-03T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 39637,turnout-in-2025-czech-parliamentary-election,Turnout in 2025 Czech Parliamentary Election?,2025-10-03T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-39639,next-prime-minister-of-the-czech-republic,Next Prime Minister of the Czech Republic,2025-10-03T00:00:00Z,excluido,sem historico de preco
+39639,next-prime-minister-of-the-czech-republic,Next Prime Minister of the Czech Republic,2025-10-03T00:00:00Z,incluido,
 33869,will-the-winner-of-czech-parliamentary-election-form-a-government,Will ANO form a government after Czech election ?,2025-10-04T23:59:59.999Z,excluido,nao e mercado de vencedor de eleicao
-24208,cameroon-presidential-election,Cameroon Presidential Election,2025-10-05T12:00:00Z,excluido,sem historico de preco
+24208,cameroon-presidential-election,Cameroon Presidential Election,2025-10-05T12:00:00Z,incluido,
 41681,calabria-presidential-election,Calabria Presidential Election,2025-10-06T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-24601,seychelles-presidential-election,Seychelles Presidential Election,2025-10-11T12:00:00Z,excluido,sem historico de preco
+24601,seychelles-presidential-election,Seychelles Presidential Election,2025-10-11T12:00:00Z,incluido,
 33842,new-orleans-mayoral-election,New Orleans Mayoral Election,2025-10-11T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 41682,lisbon-mayoral-election,Lisbon Mayoral Election,2025-10-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 41303,tuscany-presidential-election,Tuscany Presidential Election,2025-10-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 46860,az-07-special-election-adelita-grijalva-margin-of-victory,AZ-07 Special Election: Adelita Grijalva margin of victory?,2025-10-14T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 54981,turnout-in-2025-bolivia-presidential-election-second-round,Turnout in 2025 Bolivia Presidential Election Second Round,2025-10-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 38320,bolivia-presidential-election-margin-of-victory-945,Bolivia Presidential Election Margin of Victory,2025-10-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-24212,bolivia-presidential-election,Bolivia Presidential Election,2025-10-19T12:00:00Z,excluido,sem historico de preco
+24212,bolivia-presidential-election,Bolivia Presidential Election,2025-10-19T12:00:00Z,incluido,
 54971,irish-presidential-election-margin-of-victory,Irish Presidential Election Margin of Victory,2025-10-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 54974,turnout-in-2025-ireland-presidential-election,Turnout in 2025 Ireland Presidential Election,2025-10-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 64341,irish-presidential-election-catherine-connolly-margin-of-victory,Irish Presidential Election: Catherine Connolly Margin of Victory ,2025-10-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 64572,will-a-candidate-win-outright-in-irelands-first-round,Will a candidate win outright in Ireland’s first round?,2025-10-24T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-21315,ireland-presidential-election,Ireland Presidential Election,2025-10-24T12:00:00Z,excluido,sem historico de preco
-63128,uk-labour-party-deputy-leadership-election-winner,UK Labour Party Deputy Leadership Election Winner,2025-10-25T00:00:00Z,excluido,sem historico de preco
-24214,ivory-coast-presidential-election,Ivory Coast Presidential Election,2025-10-25T12:00:00Z,excluido,sem historico de preco
+21315,ireland-presidential-election,Ireland Presidential Election,2025-10-24T12:00:00Z,incluido,
+63128,uk-labour-party-deputy-leadership-election-winner,UK Labour Party Deputy Leadership Election Winner,2025-10-25T00:00:00Z,incluido,
+24214,ivory-coast-presidential-election,Ivory Coast Presidential Election,2025-10-25T12:00:00Z,incluido,
 38903,dilan-yeilgz-out-as-vvd-leader-before-netherlands-election,Dilan Yeşilgöz out as VVD leader before Netherlands election?,2025-10-28T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-24886,tanzania-presidential-election,Tanzania Presidential Election,2025-10-28T12:00:00Z,excluido,sem historico de preco
-53212,netherlands-parliamentary-election-gl-pvda-vs-cda,Netherlands Parliamentary Election: GL-PvdA vs CDA,2025-10-29T00:00:00Z,excluido,sem historico de preco
+24886,tanzania-presidential-election,Tanzania Presidential Election,2025-10-28T12:00:00Z,incluido,
+53212,netherlands-parliamentary-election-gl-pvda-vs-cda,Netherlands Parliamentary Election: GL-PvdA vs CDA,2025-10-29T00:00:00Z,incluido,
 53217,turnout-in-2025-netherlands-parliamentary-election,Turnout in 2025 Netherlands Parliamentary Election?,2025-10-29T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 62364,netherlands-election-which-major-party-wins-fewest-seats,Netherlands Election: Which major party wins fewest seats?,2025-10-29T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 64785,netherlands-parliamentary-election-ja21-seats,Netherlands parliamentary election: JA21 seats,2025-10-29T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 64786,netherlands-parliamentary-election-vvd-seats,Netherlands parliamentary election: VVD seats,2025-10-29T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 64787,netherlands-parliamentary-election-d66-seats,Netherlands parliamentary election: D66 seats,2025-10-29T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-64788,netherlands-parliamentary-election-d66-vs-vvd,Netherlands Parliamentary Election: D66 vs VVD,2025-10-29T00:00:00Z,excluido,sem historico de preco
-64789,netherlands-parliamentary-election-fvd-vs-sp,Netherlands Parliamentary Election: FVD vs SP,2025-10-29T00:00:00Z,excluido,sem historico de preco
-64792,netherlands-parliamentary-election-denk-vs-bbb,Netherlands Parliamentary Election: DENK vs BBB,2025-10-29T00:00:00Z,excluido,sem historico de preco
+64788,netherlands-parliamentary-election-d66-vs-vvd,Netherlands Parliamentary Election: D66 vs VVD,2025-10-29T00:00:00Z,incluido,
+64789,netherlands-parliamentary-election-fvd-vs-sp,Netherlands Parliamentary Election: FVD vs SP,2025-10-29T00:00:00Z,incluido,
+64792,netherlands-parliamentary-election-denk-vs-bbb,Netherlands Parliamentary Election: DENK vs BBB,2025-10-29T00:00:00Z,incluido,
 67217,which-party-wins-5th-most-seats-in-netherlands-election,Which Party wins 5th most seats in Netherlands election?,2025-10-29T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 38902,democrats-66-d66-win-10-or-more-of-votes-in-netherlands-election,Democrats 66 (D66) win 10% or more of votes in Netherlands election?,2025-10-29T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 41438,which-parties-will-be-part-of-next-government-of-the-netherlands,Which Parties will be part of next Government of the Netherlands?,2025-10-29T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -485,17 +485,17 @@ id,slug,titulo,fim,situacao,motivo
 73825,which-pact-will-hold-most-seats-after-chile-chamber-of-deputies-election-394,Which pact will hold most seats after Chile Chamber of Deputies election?,2025-11-16T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 73826,which-pact-will-gain-the-most-seats-in-the-chile-senate-election-311,Which pact will gain the most seats in the Chile Senate election?,2025-11-16T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 74045,chile-presidential-election-1st-round-2nd-place,Chile Presidential Election 1st round: 2nd Place,2025-11-16T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-74794,chile-presidential-election-1st-round-3rd-place,Chile Presidential Election 1st round: 3rd Place,2025-11-16T00:00:00Z,excluido,sem historico de preco
-75600,chile-presidential-election-1st-round-4th-place,Chile Presidential Election 1st round: 4th Place,2025-11-16T00:00:00Z,excluido,sem historico de preco
+74794,chile-presidential-election-1st-round-3rd-place,Chile Presidential Election 1st round: 3rd Place,2025-11-16T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+75600,chile-presidential-election-1st-round-4th-place,Chile Presidential Election 1st round: 4th Place,2025-11-16T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 80967,turnout-in-2025-chile-presidential-election-first-round-higher-brackets,Turnout in 2025 Chile Presidential Election First Round (Higher Brackets),2025-11-16T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-35723,chile-presidential-election-1st-round-winner,Chile Presidential Election 1st round winner?,2025-11-16T00:00:00Z,excluido,sem historico de preco
-23947,chile-presidential-election,Chile Presidential Election,2025-11-16T12:00:00Z,excluido,sem historico de preco
+35723,chile-presidential-election-1st-round-winner,Chile Presidential Election 1st round winner?,2025-11-16T00:00:00Z,incluido,
+23947,chile-presidential-election,Chile Presidential Election,2025-11-16T12:00:00Z,incluido,
 35722,will-any-presidential-candidate-win-outright-in-the-first-round-of-the-chiles-election,Will any presidential candidate win outright in the first round of the Chile's election?,2025-11-16T16:00:00Z,excluido,nao e mercado de vencedor de eleicao
-80661,republika-srpska-presidential-election,Republika Srpska Presidential Election,2025-11-23T00:00:00Z,excluido,sem historico de preco
+80661,republika-srpska-presidential-election,Republika Srpska Presidential Election,2025-11-23T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 86976,tn-07-special-election-margin-of-victory,TN-07 Special Election Margin of Victory,2025-11-26T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 42252,will-sliwa-get-more-votes-than-adams,Will Sliwa or Adams get more votes?,2025-11-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 46886,progressive-cities-parlay,Progressive Cities Parlay,2025-11-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-74717,honduras-presidential-election,Honduras Presidential Election,2025-11-30T00:00:00Z,excluido,sem historico de preco
+74717,honduras-presidential-election,Honduras Presidential Election,2025-11-30T00:00:00Z,incluido,
 91885,turnout-in-2025-honduran-general-election,Turnout in 2025 Honduran General Election,2025-11-30T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 91890,honduras-presidential-election-margin-of-victory,Honduras Presidential Election Margin of Victory,2025-11-30T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 93545,honduras-presidential-election-second-place,Honduras Presidential Election Second Place,2025-11-30T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -518,12 +518,12 @@ id,slug,titulo,fim,situacao,motivo
 24895,romania-bucharest-mayoral-election,Romania: Bucharest Mayoral Election,2025-12-07T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 17819,which-party-holds-the-most-seats-after-argentina-deputies-election,Which party holds the most seats after Argentina Deputies Election?,2025-12-10T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 17821,which-party-wins-most-seats-in-argentina-deputies-election,Which party wins most seats in Argentina Deputies Election?,2025-12-10T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-86262,who-will-franco-parisi-endorse-in-the-chilean-presidential-election,Who will Franco Parisi endorse in the Chilean Presidential Election?,2025-12-14T00:00:00Z,excluido,sem historico de preco
+86262,who-will-franco-parisi-endorse-in-the-chilean-presidential-election,Who will Franco Parisi endorse in the Chilean Presidential Election?,2025-12-14T00:00:00Z,incluido,
 133043,portuguese-presidential-election-margin-of-victory-first-round,Portugal Presidential Election Margin of Victory: First Round,2025-12-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-102808,extremadura-regional-election-winner,Extremadura Regional Election Winner,2025-12-21T00:00:00Z,excluido,sem historico de preco
-81543,guinea-presidential-election,Guinea Presidential Election,2025-12-28T00:00:00Z,excluido,sem historico de preco
-95904,central-african-republic-presidential-election,Central African Republic Presidential Election,2025-12-28T00:00:00Z,excluido,sem historico de preco
-117769,next-prime-minister-of-kosovo,Next Prime Minister of Kosovo,2025-12-28T00:00:00Z,excluido,sem historico de preco
+102808,extremadura-regional-election-winner,Extremadura Regional Election Winner,2025-12-21T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+81543,guinea-presidential-election,Guinea Presidential Election,2025-12-28T00:00:00Z,incluido,
+95904,central-african-republic-presidential-election,Central African Republic Presidential Election,2025-12-28T00:00:00Z,excluido,historico nao cobre a vespera
+117769,next-prime-minister-of-kosovo,Next Prime Minister of Kosovo,2025-12-28T00:00:00Z,incluido,
 31907,romania-parliamentary-election-called-in-2025,Romania Parliamentary Election called in 2025?,2025-12-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 41434,will-chelsea-clinton-announce-run-for-congress-by-december-31,Will Chelsea Clinton announce run for congress by December 31?,2025-12-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 51619,will-mike-lindell-announce-run-for-minnesota-governor-by-december-31,Will Mike Lindell announce run for Minnesota Governor by December 31?,2025-12-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -536,8 +536,8 @@ id,slug,titulo,fim,situacao,motivo
 102001,honduras-presidential-election-margin-of-victory-micro-strikes,Honduras Presidential Election Margin of Victory (Micro Strikes),2025-12-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 102002,turnout-in-2025-honduran-general-election-smaller-brackets,Turnout in 2025 Honduran General Election (Smaller Brackets),2025-12-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 36090,which-candidates-will-advance-to-bolivias-presidential-runoff-743,Which candidates will advance to Bolivia’s presidential runoff?,2025-12-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-26004,next-prime-minister-of-the-netherlands,Next Prime Minister of the Netherlands,2025-12-31T00:00:00Z,excluido,sem historico de preco
-40050,next-french-prime-minister-743,Next French Prime Minister,2025-12-31T00:00:00Z,excluido,sem historico de preco
+26004,next-prime-minister-of-the-netherlands,Next Prime Minister of the Netherlands,2025-12-31T00:00:00Z,incluido,
+40050,next-french-prime-minister-743,Next French Prime Minister,2025-12-31T00:00:00Z,incluido,
 45054,which-parties-will-be-part-of-next-government-of-the-moldova,Which Parties will be part of next Government of the Moldova?,2025-12-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 46885,nothing-ever-happens-france-edition,Nothing Ever Happens: France Edition,2025-12-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 37977,will-brazilian-president-lula-announce-re-election-run-by-december-31,Will Brazilian president Lula announce re-election run by December 31?,2025-12-31T04:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -545,21 +545,21 @@ id,slug,titulo,fim,situacao,motivo
 19581,who-will-be-the-next-pope,Who will be the next Pope?,2025-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 21310,will-jagmeet-singh-lose-his-seat,Will Jagmeet Singh lose his seat?,2025-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 23745,italian-referendum,Italian Referendum,2025-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-15586,next-chancellor-of-germany,Next Chancellor of Germany? ,2025-12-31T12:00:00Z,excluido,sem historico de preco
+15586,next-chancellor-of-germany,Next Chancellor of Germany? ,2025-12-31T12:00:00Z,incluido,
 15633,will-the-greens-win-over-15-of-the-vote-in-the-german-election,Greens win over 15% of vote in German election? ,2025-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 17386,which-coalition-will-form-the-next-german-government,Which coalition will form the next German government?,2025-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 19583,what-continent-will-next-pope-be-from,What continent will next Pope be from?,2025-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 19685,georgescu-guilty-in-2025,Romanian politician Georgescu guilty in 2025?,2025-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
 21620,mark-carney-out-as-leader-of-liberals-in-2025,Mark Carney out as leader of Liberals in 2025?,2025-12-31T12:00:00Z,excluido,nao e mercado de vencedor de eleicao
-25231,party-of-next-prime-minister-of-romania,Party of Next Prime Minister of Romania,2025-12-31T12:00:00Z,excluido,sem historico de preco
-25232,next-prime-minister-of-romania,Next Prime Minister of Romania,2025-12-31T12:00:00Z,excluido,sem historico de preco
+25231,party-of-next-prime-minister-of-romania,Party of Next Prime Minister of Romania,2025-12-31T12:00:00Z,incluido,
+25232,next-prime-minister-of-romania,Next Prime Minister of Romania,2025-12-31T12:00:00Z,incluido,
 33862,will-there-be-a-recount-in-the-2025-nyc-mayoral-election,Will there be a recount in the 2025 NYC mayoral election?,2026-01-01T23:00:00Z,excluido,nao e mercado de vencedor de eleicao
 81651,who-will-be-the-next-speaker-of-the-new-york-city-council,Who will be the next Speaker of the New York City Council?,2026-01-07T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-96562,benin-parliamentary-election-winner,Benin Parliamentary Election Winner,2026-01-11T00:00:00Z,excluido,sem historico de preco
-81707,uganda-presidential-election,Uganda Presidential Election,2026-01-15T00:00:00Z,excluido,sem historico de preco
+96562,benin-parliamentary-election-winner,Benin Parliamentary Election Winner,2026-01-11T00:00:00Z,incluido,
+81707,uganda-presidential-election,Uganda Presidential Election,2026-01-15T00:00:00Z,incluido,
 147912,will-mendes-be-flipped-for-portugal-presidential-election-by,Will Mendes be flipped for Portugal Presidential Election by...?,2026-01-17T00:00:00Z,excluido,resolucao nao unica (2 vencedores)
 87137,who-will-qualify-for-the-second-round-of-the-portugal-presidential-election,Who will qualify for the second round of the Portugal Presidential Election?,2026-01-18T00:00:00Z,excluido,resolucao nao unica (2 vencedores)
-96539,portugal-presidential-election-1st-round-winner,Portugal Presidential Election: 1st Round Winner,2026-01-18T00:00:00Z,excluido,sem historico de preco
+96539,portugal-presidential-election-1st-round-winner,Portugal Presidential Election: 1st Round Winner,2026-01-18T00:00:00Z,incluido,
 96544,portugal-presidential-election-1st-round-2nd-place,Portugal Presidential Election: 1st Round 2nd Place,2026-01-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 96591,turnout-in-2025-portugal-presidential-election-first-round,Turnout in 2025 Portugal Presidential Election First Round,2026-01-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 133060,lus-marques-mendes-vote-share-in-portuguese-presidential-first-round,Luís Marques Mendes vote share in Portuguese presidential first round?,2026-01-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -569,34 +569,34 @@ id,slug,titulo,fim,situacao,motivo
 133080,andr-ventura-vote-share-in-portuguese-presidential-first-round,André Ventura vote share in Portuguese presidential first round?,2026-01-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 139268,turnout-in-2025-portugal-presidential-election-first-round-higher-strikes,Turnout in 2025 Portugal Presidential Election First Round (Higher Strikes),2026-01-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 147393,portugal-presidential-election-1st-round-winner-lisbon-district,Portugal Presidential Election: 1st Round Winner Lisbon District,2026-01-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-163587,portugal-presidential-election-1st-round-3rd-place-118,Portugal Presidential Election: 1st Round 3rd Place,2026-01-18T00:00:00Z,excluido,sem historico de preco
-163600,portugal-presidential-election-1st-round-4th-place,Portugal Presidential Election: 1st Round 4th Place,2026-01-18T00:00:00Z,excluido,sem historico de preco
-175452,next-prime-minister-of-vietnam,Next Prime Minister of Vietnam,2026-01-25T00:00:00Z,excluido,sem historico de preco
+163587,portugal-presidential-election-1st-round-3rd-place-118,Portugal Presidential Election: 1st Round 3rd Place,2026-01-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+163600,portugal-presidential-election-1st-round-4th-place,Portugal Presidential Election: 1st Round 4th Place,2026-01-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+175452,next-prime-minister-of-vietnam,Next Prime Minister of Vietnam,2026-01-25T00:00:00Z,incluido,
 179295,next-president-of-vietnam,Next President of Vietnam,2026-01-25T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 160345,vietnam-communist-party-general-secretary-election,Vietnam Communist Party General Secretary Election,2026-01-25T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 34589,will-any-presidential-candidate-win-outright-in-the-first-round-of-the-portuguese-election,Will any presidential candidate win outright in the first round of the Portugal election?,2026-01-25T16:00:00Z,excluido,nao e mercado de vencedor de eleicao
-41298,texas-house-special-election-winner,Texas House Special Election Winner ,2026-01-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+41298,texas-house-special-election-winner,Texas House Special Election Winner ,2026-01-31T00:00:00Z,incluido,
 84057,chile-presidential-election-margin-of-victory-second-round,Chile Presidential Election Margin of Victory: Second Round,2026-01-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 101169,will-mills-flip-platner-for-maine-dem-senate-primary-winner-by-january-31,Will Mills flip Platner for Maine Dem Senate Primary Winner by January 31?,2026-01-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 101174,will-cornyn-flip-paxton-for-texas-rep-senate-primary-winner-by-jan-31,Will Cornyn flip Paxton for Texas Rep Senate Primary Winner by Jan 31?,2026-01-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 175522,will-orbn-flip-magyar-for-next-hungary-pm-by-jan-31,Will Orbán flip Magyar for Next Hungary PM by Jan 31?,2026-01-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 189560,texas-house-special-election-runoff-margin-of-victory,Texas House Special Election Runoff Margin of Victory,2026-01-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-75633,costa-rica-legislative-assembly-election-winner,Costa Rica Legislative Assembly Election Winner,2026-02-01T00:00:00Z,excluido,sem historico de preco
-78983,costa-rica-presidential-election,Costa Rica Presidential Election,2026-02-01T00:00:00Z,excluido,sem historico de preco
+75633,costa-rica-legislative-assembly-election-winner,Costa Rica Legislative Assembly Election Winner,2026-02-01T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+78983,costa-rica-presidential-election,Costa Rica Presidential Election,2026-02-01T00:00:00Z,incluido,
 96627,turnout-in-2026-costa-rica-presidential-election-first-round,Turnout in 2026 Costa Rica Presidential Election First Round,2026-02-01T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 96734,costa-rica-legislative-assembly-election-2nd-place,Costa Rica Legislative Assembly Election 2nd Place,2026-02-01T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 177739,costa-rica-presidential-election-margin-of-victory-first-round,Costa Rica Presidential Election Margin of Victory: First Round,2026-02-01T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 184360,will-any-presidential-candidate-win-outright-in-the-first-round-of-costa-ricas-presidential-election,Will any presidential candidate win outright in the first round of Costa Rica's presidential election?,2026-02-01T00:00:00Z,excluido,resolucao nao unica (1 vencedores)
 95022,nj-11-special-election-democratic-primary-winner,NJ-11 Special Election Democratic Primary Winner,2026-02-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-103730,thai-legislative-election-winner,Thailand Legislative Election Winner,2026-02-08T00:00:00Z,excluido,sem historico de preco
-175261,japan-general-election-winner,Japan General Election Winner?,2026-02-08T00:00:00Z,excluido,sem historico de preco
+103730,thai-legislative-election-winner,Thailand Legislative Election Winner,2026-02-08T00:00:00Z,incluido,
+175261,japan-general-election-winner,Japan General Election Winner?,2026-02-08T00:00:00Z,incluido,
 175385,portugal-presidential-election-margin-of-victory-second-round,Portugal Presidential Election Margin of Victory: Second Round,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-176973,aragon-regional-election-winner-177,Aragon Regional Election Winner,2026-02-08T00:00:00Z,excluido,sem historico de preco
+176973,aragon-regional-election-winner-177,Aragon Regional Election Winner,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 177468,will-cra-win-173-seats-in-the-japanese-snap-election,Will CRA win 173+ seats in the Japanese snap election?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-177522,prime-minister-of-japan-after-snap-election,Prime Minister of Japan after snap election?,2026-02-08T00:00:00Z,excluido,sem historico de preco
+177522,prime-minister-of-japan-after-snap-election,Prime Minister of Japan after snap election?,2026-02-08T00:00:00Z,incluido,
 177589,which-parties-will-lose-seats-in-japanese-snap-election,Which parties will lose seats in Japanese snap election?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 177618,japan-general-election-2nd-place,Japan General Election 2nd Place?,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-177629,japan-general-election-3rd-place,Japan General Election 3rd Place?,2026-02-08T00:00:00Z,excluido,sem historico de preco
+177629,japan-general-election-3rd-place,Japan General Election 3rd Place?,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 177648,governing-parties-after-japanese-snap-election,Governing Parties after Japanese snap election?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 177716,turnout-in-2026-japanese-snap-election,Turnout in 2026 Japanese Snap Election?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 177721,will-ldp-win-a-majority-in-the-2026-japanese-snap-election,Will LDP win a majority in the 2026 Japanese snap election?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -607,7 +607,7 @@ id,slug,titulo,fim,situacao,motivo
 179199,of-dpfp-seats-after-the-2026-japanese-snap-election,# of DPFP seats after the 2026 Japanese snap election?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 182061,how-many-seats-will-partido-popular-win-in-the-aragon-election,How many seats will Partido Popular win in the Aragon election?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 189569,thailand-legislative-election-2nd-place,Thailand Legislative Election 2nd Place,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-189595,thailand-legislative-election-3rd-place,Thailand Legislative Election 3rd Place,2026-02-08T00:00:00Z,excluido,sem historico de preco
+189595,thailand-legislative-election-3rd-place,Thailand Legislative Election 3rd Place,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 189693,of-seats-won-by-pple-in-2026-thailand-legislative-election,# of seats won by PPLE in 2026 Thailand Legislative Election?,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 189699,of-seats-won-by-bjt-in-2026-thailand-legislative-election,# of seats won by BJT in 2026 Thailand Legislative Election?,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 189700,of-seats-won-by-pt-in-2026-thailand-legislative-election,# of seats won by PT in 2026 Thailand Legislative Election?,2026-02-08T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -616,18 +616,18 @@ id,slug,titulo,fim,situacao,motivo
 198837,japan-election-of-seats-margin-of-victory,Japan Election: LDP Seats Margin of Victory?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 198847,of-cra-seats-after-the-2026-japanese-snap-election-lower-brackets,# of CRA seats after the 2026 Japanese snap election? (Lower Brackets),2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 201695,will-seguro-win-portugals-abroad-votes,Will Seguro win Portugal's Overseas Vote?,2026-02-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-34587,portugal-presidential-election,Portugal Presidential Election,2026-02-08T14:00:00Z,excluido,sem historico de preco
-106854,bangladesh-parliamentary-election-winner-154,Bangladesh Parliamentary Election Winner,2026-02-12T00:00:00Z,excluido,sem historico de preco
+34587,portugal-presidential-election,Portugal Presidential Election,2026-02-08T14:00:00Z,incluido,
+106854,bangladesh-parliamentary-election-winner-154,Bangladesh Parliamentary Election Winner,2026-02-12T00:00:00Z,incluido,
 190504,bangladesh-parliamentary-election-margin-of-victory,Bangladesh Parliamentary Election Margin of Victory,2026-02-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-198868,prime-minister-of-bangladesh-after-parliamentary-election,Prime Minister of Bangladesh after Parliamentary Election?,2026-02-12T00:00:00Z,excluido,sem historico de preco
+198868,prime-minister-of-bangladesh-after-parliamentary-election,Prime Minister of Bangladesh after Parliamentary Election?,2026-02-12T00:00:00Z,incluido,
 199757,bangladesh-parliamentary-election-2nd-place,Bangladesh Parliamentary Election: 2nd Place,2026-02-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-199762,bangladesh-parliamentary-election-3nd-place,Bangladesh Parliamentary Election: 3nd Place,2026-02-12T00:00:00Z,excluido,sem historico de preco
+199762,bangladesh-parliamentary-election-3nd-place,Bangladesh Parliamentary Election: 3nd Place,2026-02-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 201569,of-bnp-seats-after-the-2026-bangladesh-parliamentary-election,# of BNP seats after the 2026 Bangladesh Parliamentary Election?,2026-02-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 201570,of-bji-seats-after-the-2026-bangladesh-parliamentary-election,# of BJI seats after the 2026 Bangladesh Parliamentary Election?,2026-02-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 201575,turnout-in-2026-bangladesh-parliamentary-election,Turnout in 2026 Bangladesh Parliamentary Election?,2026-02-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 200777,republican-house-odds-up-or-down-this-week,Republican House Odds Up or Down this week?,2026-02-13T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 213277,next-president-of-peru,Next President of Peru?,2026-02-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-189839,gorton-and-denton-by-election-winner,Gorton and Denton by-election Winner,2026-02-26T00:00:00Z,excluido,sem historico de preco
+189839,gorton-and-denton-by-election-winner,Gorton and Denton by-election Winner,2026-02-26T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 228509,gorton-and-denton-by-election-2nd-place,Gorton and Denton by-election: 2nd Place,2026-02-26T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 228528,gorton-and-denton-by-election-3rd-place,Gorton and Denton by-election: 3rd Place,2026-02-26T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 228563,gorton-and-denton-by-election-margin-of-victory,Gorton and Denton by-election: Margin of Victory,2026-02-26T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -665,8 +665,8 @@ id,slug,titulo,fim,situacao,motivo
 226091,will-a-candidate-win-outright-in-the-texas-dem-senate-primary,Will a candidate win outright in the Texas Dem Senate Primary?,2026-03-03T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 226092,will-a-candidate-win-outright-in-the-texas-gop-senate-primary,Will a candidate win outright in the Texas GOP Senate Primary?,2026-03-03T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 232778,tx-15-democratic-primary-winner-813,TX-15 Democratic Primary Winner,2026-03-03T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-92705,nepal-house-of-representatives-election-winner,Nepal House of Representatives Election Winner,2026-03-05T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-211818,next-prime-minister-of-nepal,Next Prime Minister of Nepal,2026-03-05T00:00:00Z,excluido,sem historico de preco
+92705,nepal-house-of-representatives-election-winner,Nepal House of Representatives Election Winner,2026-03-05T00:00:00Z,incluido,
+211818,next-prime-minister-of-nepal,Next Prime Minister of Nepal,2026-03-05T00:00:00Z,incluido,
 211858,nepal-house-of-representatives-election-2nd-place,Nepal House of Representatives Election: 2nd Place,2026-03-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 211859,nepal-house-of-representatives-election-3rd-place,Nepal House of Representatives Election: 3rd Place,2026-03-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 212039,of-seats-won-by-rsp-in-nepal-house-of-representatives-election,# of seats won by RSP in Nepal House of Representatives Election?,2026-03-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -679,13 +679,13 @@ id,slug,titulo,fim,situacao,motivo
 246364,colombia-senate-election-2nd-place,Colombia Senate Election: 2nd Place,2026-03-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 246428,of-seats-won-by-ph-in-colombia-senate-election,# of seats won by PH in Colombia Senate Election?,2026-03-08T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 34578,colombia-senate-election-winner,Colombia Senate Election Winner,2026-03-08T06:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-34581,colombia-chamber-of-representatives-election-winner,Colombia Chamber of Representatives Election Winner,2026-03-08T20:00:00Z,excluido,sem historico de preco
+34581,colombia-chamber-of-representatives-election-winner,Colombia Chamber of Representatives Election Winner,2026-03-08T20:00:00Z,incluido,
 95927,mississippi-republican-senate-primary-winner-861,Mississippi Republican Senate Primary Winner,2026-03-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 96023,mississippi-democratic-senate-primary-winner,Mississippi Democratic Senate Primary Winner,2026-03-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 200737,ms-01-democratic-primary-winner,MS-01 Democratic Primary Winner,2026-03-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 203510,ms-02-republican-primary-winner,MS-02 Republican Primary Winner,2026-03-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 248103,ms-02-democratic-primary-winner,MS-02 Democratic Primary Winner,2026-03-10T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-176978,castilla-y-leon-regional-election-winner-757,Castilla y Leon Regional Election Winner,2026-03-15T00:00:00Z,excluido,sem historico de preco
+176978,castilla-y-leon-regional-election-winner-757,Castilla y Leon Regional Election Winner,2026-03-15T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 182048,how-many-seats-will-partido-popular-win-in-the-castilla-y-leon-election,How many seats will Partido Popular win in the Castilla y Leon election?,2026-03-15T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 264148,who-will-advance-to-2026-paris-municipal-election-2nd-round,Who will advance to 2026 Paris municipal election 2nd round?,2026-03-15T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 79998,illinois-democratic-senate-primary-winner,Illinois Democratic Senate Primary Winner,2026-03-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -698,21 +698,21 @@ id,slug,titulo,fim,situacao,motivo
 200736,il-06-democratic-primary-winner,IL-06 Democratic Primary Winner,2026-03-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 261272,will-any-illinois-dem-house-incumbent-lose-their-primary,Will any Illinois Dem House incumbent lose their primary?,2026-03-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 281049,illinois-democratic-senate-primary-margin-of-victory,Illinois Democratic Senate Primary Margin of Victory,2026-03-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-205241,amsterdam-municipal-election-party-winner,Amsterdam Municipal Election Winner,2026-03-18T00:00:00Z,excluido,sem historico de preco
-205289,the-hague-municipal-election-winner,The Hague Municipal Election Winner,2026-03-18T00:00:00Z,excluido,sem historico de preco
-232956,rotterdam-municipal-election-winner,Rotterdam Municipal Election Winner,2026-03-18T00:00:00Z,excluido,sem historico de preco
-233007,utrecht-municipal-election-winner,Utrecht Municipal Election Winner,2026-03-18T00:00:00Z,excluido,sem historico de preco
-259865,south-australia-parliamentary-election-winner,South Australia Parliamentary Election Winner,2026-03-21T23:55:00Z,excluido,sem historico de preco
+205241,amsterdam-municipal-election-party-winner,Amsterdam Municipal Election Winner,2026-03-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+205289,the-hague-municipal-election-winner,The Hague Municipal Election Winner,2026-03-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+232956,rotterdam-municipal-election-winner,Rotterdam Municipal Election Winner,2026-03-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+233007,utrecht-municipal-election-winner,Utrecht Municipal Election Winner,2026-03-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+259865,south-australia-parliamentary-election-winner,South Australia Parliamentary Election Winner,2026-03-21T23:55:00Z,excluido,historico nao cobre a vespera
 80911,who-will-win-the-nice-mayoral-election,Who will win the Nice mayoral election?,2026-03-22T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 80918,who-will-win-the-lyon-mayoral-election,Who will win the Lyon mayoral election?,2026-03-22T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-94999,rhineland-palatinate-parliamentary-election-winner,Rheinland-Pfalz Parliamentary Election Winner,2026-03-22T00:00:00Z,excluido,sem historico de preco
-107420,slovenian-parliamentary-election-winner-791,Slovenian Parliamentary Election Winner,2026-03-22T00:00:00Z,excluido,sem historico de preco
+94999,rhineland-palatinate-parliamentary-election-winner,Rheinland-Pfalz Parliamentary Election Winner,2026-03-22T00:00:00Z,incluido,
+107420,slovenian-parliamentary-election-winner-791,Slovenian Parliamentary Election Winner,2026-03-22T00:00:00Z,incluido,
 147506,la-paz-mayoral-election-winner-bolivia,La Paz Mayoral Election Winner (Bolivia),2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 147529,santa-cruz-de-la-sierra-mayoral-election-winner-bolivia,Santa Cruz de la Sierra Mayoral Election Winner (Bolivia),2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 147564,sucre-mayoral-election-winner-bolivia,Sucre Mayoral Election Winner (Bolivia),2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 147588,2026-bolivia-gubernatorial-elections-party-winner,2026 Bolivia Gubernatorial Elections: Party Winner,2026-03-22T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 166322,marseille-mayor-election-winner,Marseille Mayoral Election Winner,2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-166459,next-prime-minister-of-slovenia,Next Prime Minister of Slovenia,2026-03-22T00:00:00Z,excluido,sem historico de preco
+166459,next-prime-minister-of-slovenia,Next Prime Minister of Slovenia,2026-03-22T00:00:00Z,incluido,
 176762,cochabamba-mayoral-election-winner-bolivia-717,Cochabamba Mayoral Election Winner (Bolivia),2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 176991,cochabamba-governor-election-winner-bolivia-985,Cochabamba Governor Election Winner (Bolivia),2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 177007,la-paz-governor-election-winner-bolivia,La Paz Governor Election Winner (Bolivia),2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -730,27 +730,27 @@ id,slug,titulo,fim,situacao,motivo
 276820,paris-mayoral-election-runoff-margin-of-victory,Paris Mayoral Election Runoff: Margin of Victory,2026-03-22T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 284782,hittler-vs-zielinski-arcis-sur-aube-mayoral-election-winner,Hittler vs. Zielinski: Arcis-sur-Aube Mayoral Election Winner,2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 287319,strasbourg-mayoral-election-winner,Strasbourg Mayoral Election Winner,2026-03-22T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-259938,rovigo-by-election-winner,Rovigo By-Election Winner,2026-03-23T23:55:00Z,excluido,sem historico de preco
-259955,selvazzano-dentro-by-election-winner,Selvazzano Dentro By-Election Winner,2026-03-23T23:55:00Z,excluido,sem historico de preco
-232867,denmark-parliamentary-election-winner,Denmark Parliamentary Election Winner,2026-03-24T00:00:00Z,excluido,sem historico de preco
-233322,next-prime-minister-of-denmark-after-parliamentary-election,Next Prime Minister of Denmark?,2026-03-24T00:00:00Z,excluido,sem historico de preco
+259938,rovigo-by-election-winner,Rovigo By-Election Winner,2026-03-23T23:55:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+259955,selvazzano-dentro-by-election-winner,Selvazzano Dentro By-Election Winner,2026-03-23T23:55:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+232867,denmark-parliamentary-election-winner,Denmark Parliamentary Election Winner,2026-03-24T00:00:00Z,incluido,
+233322,next-prime-minister-of-denmark-after-parliamentary-election,Next Prime Minister of Denmark?,2026-03-24T00:00:00Z,incluido,
 263408,denmark-parliamentary-election-2nd-place,Denmark Parliamentary Election: 2nd Place,2026-03-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 263409,turnout-in-2026-denmark-parliamentary-election,Turnout in 2026 Denmark Parliamentary Election,2026-03-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-263438,denmark-parliamentary-election-3rd-place,Denmark Parliamentary Election: 3rd Place,2026-03-24T00:00:00Z,excluido,sem historico de preco
+263438,denmark-parliamentary-election-3rd-place,Denmark Parliamentary Election: 3rd Place,2026-03-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 263999,which-parties-will-be-part-of-the-next-government-of-denmark,Which parties will be part of the next Government of Denmark?,2026-03-24T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 264036,of-seats-won-by-social-democrats-in-denmark-parliamentary-election,# of seats won by Social Democrats in Denmark Parliamentary Election?,2026-03-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 264041,of-seats-won-by-green-left-in-denmark-parliamentary-election,# of seats won by Green Left in Denmark Parliamentary Election?,2026-03-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 264050,of-seats-won-by-liberal-alliance-in-denmark-parliamentary-election,# of seats won by Liberal Alliance in Denmark Parliamentary Election?,2026-03-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 264051,of-seats-won-by-venstre-in-denmark-parliamentary-election,# of seats won by Venstre in Denmark Parliamentary Election?,2026-03-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 265316,denmark-election-popular-vote-margin-of-victory,Denmark Election: Popular Vote Margin of Victory,2026-03-24T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-287424,next-prime-minister-of-faroe-islands,Next Prime Minister of Faroe Islands,2026-03-26T00:00:00Z,excluido,sem historico de preco
-287511,faroe-islands-parliamentary-election-winner,Faroe Islands Parliamentary Election Winner,2026-03-26T00:00:00Z,excluido,sem historico de preco
-149738,canada-new-democratic-party-leadership-election-winner,Canada New Democratic Party Leadership Election Winner,2026-03-29T00:00:00Z,excluido,sem historico de preco
+287424,next-prime-minister-of-faroe-islands,Next Prime Minister of Faroe Islands,2026-03-26T00:00:00Z,incluido,
+287511,faroe-islands-parliamentary-election-winner,Faroe Islands Parliamentary Election Winner,2026-03-26T00:00:00Z,incluido,
+149738,canada-new-democratic-party-leadership-election-winner,Canada New Democratic Party Leadership Election Winner,2026-03-29T00:00:00Z,incluido,
 307034,liberals-up-or-down-for-canada-seats-polls-this-week,Liberals Up or Down for Canada Seats Polls this week?,2026-03-29T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 63766,paris-mayoral-election,Paris Mayoral Election,2026-03-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 73968,trump-out-as-president-by-march-31,Trump out as President by March 31?,2026-03-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-80868,saint-vincent-and-the-grenadines-legislative-election-winner,Saint Vincent and the Grenadines Legislative Election Winner,2026-03-31T00:00:00Z,excluido,sem historico de preco
-80931,next-prime-minister-of-saint-vincent-and-the-grenadines,Next Prime Minister of Saint Vincent and the Grenadines,2026-03-31T00:00:00Z,excluido,sem historico de preco
+80868,saint-vincent-and-the-grenadines-legislative-election-winner,Saint Vincent and the Grenadines Legislative Election Winner,2026-03-31T00:00:00Z,incluido,
+80931,next-prime-minister-of-saint-vincent-and-the-grenadines,Next Prime Minister of Saint Vincent and the Grenadines,2026-03-31T00:00:00Z,incluido,
 83916,turnout-in-chile-presidential-election-second-round,Turnout in Chile Presidential Election Second Round,2026-03-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 90451,odds-of-republican-party-winning-the-house-in-2026-hit-above-50-by-march-31-2026,2026 U.S. House election: Republicans flip the Democrats by...?,2026-03-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 96710,2026-us-senate-election-democrats-flip-republicans-by-march-31,2026 U.S. Senate Election: Democrats flip Republicans by March 31?,2026-03-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -758,17 +758,17 @@ id,slug,titulo,fim,situacao,motivo
 96756,republican-2026-senate-odds-hit-by-march-31,Republican 2026 Senate odds hit___ by March 31?,2026-03-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 106011,next-thai-prime-minister-chosen-by-march-31,Next Thai Prime Minister Chosen by March 31?,2026-03-31T00:00:00Z,excluido,resolucao nao unica (1 vencedores)
 147794,italy-nordio-reform-referendum-passes,Italy Judicial Reform Referendum passes?,2026-03-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-23321,singapore-parliamentary-election-winner,Singapore Parliamentary Election Winner,2026-03-31T12:00:00Z,excluido,sem historico de preco
-91200,ga-14-special-election-winner,GA-14 special election winner?,2026-04-07T00:00:00Z,excluido,sem historico de preco
-119229,assam-legislative-assembly-election-winner,Assam Legislative Assembly Election Winner,2026-04-09T00:00:00Z,excluido,sem historico de preco
-119461,puducherry-legislative-assembly-election-winner,Puducherry Legislative Assembly Election Winner,2026-04-09T00:00:00Z,excluido,sem historico de preco
-119483,kerala-legislative-assembly-election-winner,Kerala Legislative Assembly Election Winner,2026-04-09T00:00:00Z,excluido,sem historico de preco
+23321,singapore-parliamentary-election-winner,Singapore Parliamentary Election Winner,2026-03-31T12:00:00Z,excluido,historico nao cobre a vespera
+91200,ga-14-special-election-winner,GA-14 special election winner?,2026-04-07T00:00:00Z,incluido,
+119229,assam-legislative-assembly-election-winner,Assam Legislative Assembly Election Winner,2026-04-09T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+119461,puducherry-legislative-assembly-election-winner,Puducherry Legislative Assembly Election Winner,2026-04-09T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+119483,kerala-legislative-assembly-election-winner,Kerala Legislative Assembly Election Winner,2026-04-09T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 119521,how-many-seats-will-iuml-win-in-the-2026-kerala-legislative-assembly-election,How many seats will IUML win in the next Kerala Legislative Assembly election?,2026-04-09T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-34038,next-prime-minister-of-hungary,Next Prime Minister of Hungary,2026-04-12T00:00:00Z,excluido,sem historico de preco
+34038,next-prime-minister-of-hungary,Next Prime Minister of Hungary,2026-04-12T00:00:00Z,incluido,
 106510,peru-senate-election-winner,Peru Senate Election Winner,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-106511,peru-chamber-of-deputies-election-winner,Peru Chamber of Deputies Election Winner,2026-04-12T00:00:00Z,excluido,sem historico de preco
-106520,peru-presidential-election-winner,Peru Presidential Election Winner,2026-04-12T00:00:00Z,excluido,sem historico de preco
-106614,hungary-parliamentary-election-winner,Hungary Parliamentary Election Winner,2026-04-12T00:00:00Z,excluido,sem historico de preco
+106511,peru-chamber-of-deputies-election-winner,Peru Chamber of Deputies Election Winner,2026-04-12T00:00:00Z,incluido,
+106520,peru-presidential-election-winner,Peru Presidential Election Winner,2026-04-12T00:00:00Z,incluido,
+106614,hungary-parliamentary-election-winner,Hungary Parliamentary Election Winner,2026-04-12T00:00:00Z,incluido,
 246787,hungary-parliamentary-election-popular-vote-winner,Hungary Parliamentary Election:  Popular Vote Winner,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 246812,hungary-parliamentary-election-popular-vote-margin-of-victory,Hungary Election: Popular Vote Margin of Victory,2026-04-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 263567,of-seats-won-by-tisza-in-hungary-parliamentary-election,# of seats won by TISZA in Hungary parliamentary election?,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -780,37 +780,37 @@ id,slug,titulo,fim,situacao,motivo
 266367,hungary-election-fidesz-kdnp-wins-seats,Hungary Election: Fidesz-KDNP wins___seats?,2026-04-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 287579,next-president-of-benin,Next President of Benin,2026-04-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 287711,peru-presidential-election-first-round-2nd-place,Peru Presidential Election First Round: 2nd Place,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-287746,peru-presidential-election-first-round-3rd-place,Peru Presidential Election First Round: 3rd Place,2026-04-12T00:00:00Z,excluido,sem historico de preco
-287763,peru-presidential-election-first-round-4th-place,Peru Presidential Election First Round: 4th Place,2026-04-12T00:00:00Z,excluido,sem historico de preco
-287771,peru-presidential-election-first-round-winner,Peru Presidential Election First Round Winner,2026-04-12T00:00:00Z,excluido,sem historico de preco
+287746,peru-presidential-election-first-round-3rd-place,Peru Presidential Election First Round: 3rd Place,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+287763,peru-presidential-election-first-round-4th-place,Peru Presidential Election First Round: 4th Place,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+287771,peru-presidential-election-first-round-winner,Peru Presidential Election First Round Winner,2026-04-12T00:00:00Z,incluido,
 287772,peru-presidential-election-first-round-turnout,Peru Presidential Election First Round: Turnout,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 290875,peru-presidential-election-first-round-margin-of-victory,Peru Presidential Election First Round: Margin of Victory,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 290907,which-candidates-advance-to-2026-peru-presidential-runoff,Which candidates advance to 2026 Peru presidential runoff?,2026-04-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 291004,hungary-parliamentary-election-2nd-place,Hungary Parliamentary Election: 2nd Place,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-291025,hungary-parliamentary-election-3rd-place,Hungary Parliamentary Election: 3rd Place,2026-04-12T00:00:00Z,excluido,sem historico de preco
-291049,hungary-parliamentary-election-which-parties-enter-parliament,Hungary Parliamentary Election: Which Parties Enter Parliament?,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+291025,hungary-parliamentary-election-3rd-place,Hungary Parliamentary Election: 3rd Place,2026-04-12T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+291049,hungary-parliamentary-election-which-parties-enter-parliament,Hungary Parliamentary Election: Which Parties Enter Parliament?,2026-04-12T00:00:00Z,incluido,
 326292,hungary-election-popular-vote-margin-of-victory-higher-strikes-for-tisza,Hungary Election: Popular Vote Margin of Victory (Higher Strikes for Tisza),2026-04-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 326476,hungary-election-tisza-wins-a-constitutional-majority,Hungary Election: TISZA wins a constitutional majority?,2026-04-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 337688,next-premier-of-quebec,Next Premier of Quebec,2026-04-12T06:00:00Z,excluido,nao e mercado de vencedor de eleicao
-301165,terrebone-by-election-winner,Terrebone By-Election Winner,2026-04-13T00:00:00Z,excluido,sem historico de preco
-337461,scarborough-southwest-by-election-winner,Scarborough Southwest By-Election Winner,2026-04-13T00:00:00Z,excluido,sem historico de preco
-337506,universityrosedale-by-election-winner,University—Rosedale By-Election Winner,2026-04-13T00:00:00Z,excluido,sem historico de preco
-232533,nj-11-special-election-winner,NJ-11 Special Election Winner,2026-04-16T00:00:00Z,excluido,sem historico de preco
+301165,terrebone-by-election-winner,Terrebone By-Election Winner,2026-04-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+337461,scarborough-southwest-by-election-winner,Scarborough Southwest By-Election Winner,2026-04-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+337506,universityrosedale-by-election-winner,University—Rosedale By-Election Winner,2026-04-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+232533,nj-11-special-election-winner,NJ-11 Special Election Winner,2026-04-16T00:00:00Z,incluido,
 385773,nj-11-special-election-margin-of-victory,NJ-11 Special Election: Margin of Victory,2026-04-16T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 177009,santa-cruz-governor-election-winner-bolivia,Santa Cruz Governor Election Winner (Bolivia),2026-04-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-263880,bulgaria-parliamentary-election-winner,Bulgaria Parliamentary Election Winner,2026-04-19T00:00:00Z,excluido,sem historico de preco
-264076,next-prime-minister-of-bulgaria,Next Prime Minister of Bulgaria,2026-04-19T00:00:00Z,excluido,sem historico de preco
+263880,bulgaria-parliamentary-election-winner,Bulgaria Parliamentary Election Winner,2026-04-19T00:00:00Z,incluido,
+264076,next-prime-minister-of-bulgaria,Next Prime Minister of Bulgaria,2026-04-19T00:00:00Z,incluido,
 311875,bulgarian-parliamentary-election-2nd-place,Bulgarian Parliamentary Election: 2nd Place,2026-04-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-311876,bulgarian-parliamentary-election-3rd-place,Bulgarian Parliamentary Election: 3rd Place,2026-04-19T00:00:00Z,excluido,sem historico de preco
-311944,bulgarian-parliamentary-election-which-parties-enter-parliament,Bulgarian Parliamentary Election: Which Parties Enter Parliament?,2026-04-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+311876,bulgarian-parliamentary-election-3rd-place,Bulgarian Parliamentary Election: 3rd Place,2026-04-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+311944,bulgarian-parliamentary-election-which-parties-enter-parliament,Bulgarian Parliamentary Election: Which Parties Enter Parliament?,2026-04-19T00:00:00Z,excluido,resolucao nao unica (0 vencedores)
 312120,of-seats-won-by-gerb-sds-in-bulgarian-parliamentary-election,# of seats won by GERB-SDS in Bulgarian Parliamentary Election?,2026-04-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 312179,of-seats-won-by-pb-in-bulgarian-parliamentary-election,# of seats won by PB in Bulgarian Parliamentary Election?,2026-04-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 313705,bulgaria-parliamentary-election-margin-of-victory,Bulgaria Parliamentary Election: Margin of Victory,2026-04-19T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 233228,will-the-virginia-redistricting-referendum-pass,Will the Virginia redistricting referendum pass?,2026-04-21T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 351801,virginia-redistricting-referendum-margin-of-victory,Virginia Redistricting Referendum: Margin of Victory,2026-04-21T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-119296,tamil-nadu-legislative-assembly-election-winner,Tamil Nadu Legislative Assembly Election Winner,2026-04-23T00:00:00Z,excluido,sem historico de preco
-107010,west-bengal-legislative-assembly-election-winner,West Bengal Legislative Assembly Election Winner,2026-04-29T00:00:00Z,excluido,sem historico de preco
-42603,next-japanese-prime-minister,Next Japanese Prime Minister,2026-04-30T00:00:00Z,excluido,sem historico de preco
+119296,tamil-nadu-legislative-assembly-election-winner,Tamil Nadu Legislative Assembly Election Winner,2026-04-23T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+107010,west-bengal-legislative-assembly-election-winner,West Bengal Legislative Assembly Election Winner,2026-04-29T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+42603,next-japanese-prime-minister,Next Japanese Prime Minister,2026-04-30T00:00:00Z,incluido,
 311040,trump-out-as-president-by-april-30,Trump out as President by April 30?,2026-04-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 95926,ohio-democratic-senate-primary-winner,Ohio Democratic Senate Primary Winner,2026-05-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 97549,ohio-governor-democratic-primary-winner,Ohio Governor Democratic Primary Winner,2026-05-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -820,8 +820,8 @@ id,slug,titulo,fim,situacao,motivo
 290315,in-04-republican-primary-winner,IN-04 Republican Primary Winner,2026-05-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 310638,oh-01-republican-primary-winner,OH-01 Republican Primary Winner,2026-05-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 376118,oh-07-democratic-primary-winner,OH-07 Democratic Primary Winner,2026-05-05T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-103668,wales-parliamentary-election-winner,Wales Parliamentary Election Winner,2026-05-07T00:00:00Z,excluido,sem historico de preco
-103717,scotland-parliamentary-election-winner,Scotland Parliamentary Election Winner,2026-05-07T00:00:00Z,excluido,sem historico de preco
+103668,wales-parliamentary-election-winner,Wales Parliamentary Election Winner,2026-05-07T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+103717,scotland-parliamentary-election-winner,Scotland Parliamentary Election Winner,2026-05-07T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 340872,2026-united-kingdom-local-elections-party-winner,2026 United Kingdom Local Elections: Party Winner,2026-05-07T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 340873,2026-united-kingdom-local-elections-reform-wins-seats,2026 United Kingdom Local Elections: Reform wins ___ seats?,2026-05-07T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 343915,which-party-wins-control-of-the-most-london-borough-councils,Which party wins control of the most London borough councils?,2026-05-07T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -840,7 +840,7 @@ id,slug,titulo,fim,situacao,motivo
 389921,newham-mayoral-election-winner,Newham Mayoral Election Winner,2026-05-07T06:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 389922,tower-hamlets-mayoral-election-winner,Tower Hamlets Mayoral Election Winner,2026-05-07T06:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 389923,watford-mayoral-election-winner,Watford Mayoral Election Winner,2026-05-07T06:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-213113,farrer-by-election-winner,Farrer By-Election Winner,2026-05-09T00:00:00Z,excluido,sem historico de preco
+213113,farrer-by-election-winner,Farrer By-Election Winner,2026-05-09T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 90359,ne-02-democratic-primary-winner,NE-02 Democratic Primary Winner,2026-05-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 90431,ne-02-republican-primary-winner,NE-02 Republican Primary Winner,2026-05-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 96014,west-virginia-republican-senate-primary-winner,West Virginia Republican Senate Primary Winner,2026-05-12T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -852,7 +852,7 @@ id,slug,titulo,fim,situacao,motivo
 111063,louisiana-republican-senate-primary-winner-889,Louisiana Republican Senate Primary Winner,2026-05-16T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 111075,louisiana-democratic-senate-primary-winner,Louisiana Democratic Senate Primary Winner,2026-05-16T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 485725,louisiana-republican-senate-primary-first-round-winner,Louisiana Republican Senate Primary First Round Winner,2026-05-16T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-386037,andalusia-regional-election-winner,Andalusia Election Winner,2026-05-17T00:00:00Z,excluido,sem historico de preco
+386037,andalusia-regional-election-winner,Andalusia Election Winner,2026-05-17T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 386069,andalusia-election-pp-absolute-majority,Andalusia Election: PP Absolute Majority?,2026-05-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 386100,andalusia-election-pp-of-seats,Andalusia Election: PP # of seats?,2026-05-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 386134,andalusia-election-psoe-a-of-seats,Andalusia Election: PSOE-A # of seats?,2026-05-17T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -893,7 +893,7 @@ id,slug,titulo,fim,situacao,motivo
 486414,georgia-senate-republican-primary-first-round-winner,Georgia Senate Republican Primary First Round Winner,2026-05-19T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 498529,ky-04-republican-primary-margin-of-victory,KY-04 Republican Primary: Margin of Victory,2026-05-19T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 498617,ky-04-republican-primary-turnout,KY-04 Republican Primary: Turnout,2026-05-19T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-80796,cyprus-house-of-representatives-election-winner,Cyprus House of Representatives Election Winner,2026-05-24T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+80796,cyprus-house-of-representatives-election-winner,Cyprus House of Representatives Election Winner,2026-05-24T00:00:00Z,incluido,
 246044,texas-senate-republican-primary-runoff-margin-of-victory,Texas Senate Republican Primary Runoff Margin of Victory,2026-05-25T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 250488,will-ken-paxton-drop-out,Will Ken Paxton drop out?,2026-05-25T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 338237,venice-mayoral-election-winner,Venice Mayoral Election Winner,2026-05-25T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -908,25 +908,25 @@ id,slug,titulo,fim,situacao,motivo
 246152,turnout-in-texas-senate-republican-primary-runoff,Turnout in Texas Senate Republican Primary Runoff,2026-05-26T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 246184,texas-attorney-general-republican-primary-runoff-winner,Texas Attorney General Republican Primary Runoff Winner,2026-05-26T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 514577,texas-senate-republican-primary-runoff-margin-of-victory-larger-brackets,Texas Senate Republican Primary Runoff Margin of Victory (Larger Brackets),2026-05-26T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-432501,malta-parliamentary-election-winner,Malta Parliamentary Election Winner,2026-05-30T00:00:00Z,excluido,sem historico de preco
-432516,malta-parliamentary-election-3rd-place,Malta Parliamentary Election: 3rd Place,2026-05-30T00:00:00Z,excluido,sem historico de preco
-432545,next-prime-minister-of-malta,Next Prime Minister of Malta,2026-05-30T00:00:00Z,excluido,sem historico de preco
+432501,malta-parliamentary-election-winner,Malta Parliamentary Election Winner,2026-05-30T00:00:00Z,incluido,
+432516,malta-parliamentary-election-3rd-place,Malta Parliamentary Election: 3rd Place,2026-05-30T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+432545,next-prime-minister-of-malta,Next Prime Minister of Malta,2026-05-30T00:00:00Z,incluido,
 432563,malta-general-election-turnout,Malta General Election: Turnout,2026-05-30T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 478634,malta-parliamentary-election-margin-of-victory,Malta Parliamentary Election: Margin of Victory,2026-05-30T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-343919,bc-conservative-party-leadership-election-winner,B.C. Conservative Party Leadership Election Winner,2026-05-30T06:00:00Z,excluido,sem historico de preco
+343919,bc-conservative-party-leadership-election-winner,B.C. Conservative Party Leadership Election Winner,2026-05-30T06:00:00Z,incluido,
 400879,colombia-presidential-election-1st-round-2nd-place,Colombia Presidential Election 1st round: 2nd place,2026-05-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 401356,colombia-presidential-election-1st-round-turnout,Colombia Presidential Election 1st Round: Turnout?,2026-05-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 401427,colombia-election-1st-round-margin-of-victory,Colombia Election 1st Round: Margin of Victory?,2026-05-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 481843,colombia-election-who-will-advance-to-2nd-round,Colombia Election: Who will advance to 2nd round?,2026-05-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-514507,colombia-presidential-election-1st-round-3rd-place,Colombia Presidential Election 1st round: 3rd place,2026-05-31T00:00:00Z,excluido,sem historico de preco
+514507,colombia-presidential-election-1st-round-3rd-place,Colombia Presidential Election 1st round: 3rd place,2026-05-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 514524,colombia-presidential-election-1st-round-most-votes-from-antioquia,Colombia Presidential Election 1st round: Most votes from Antioquia,2026-05-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 514548,colombia-presidential-election-1st-round-most-votes-from-bogot,Colombia Presidential Election 1st round: Most votes from Bogotá,2026-05-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 531050,ivn-cepeda-vote-share-in-2026-colombian-presidential-first-round-379,Iván Cepeda vote share in 2026 Colombian presidential first round?,2026-05-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 531051,abelardo-de-la-espriella-vote-share-in-2026-colombian-presidential-first-round-346,Abelardo de la Espriella vote share in 2026 Colombian presidential first round?,2026-05-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 531113,paloma-valencia-vote-share-in-2026-colombian-presidential-first-round-571,Paloma Valencia vote share in 2026 Colombian presidential first round?,2026-05-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 34590,will-any-presidential-candidate-win-outright-in-the-first-round-of-the-colombias-election,Will any presidential candidate win outright in the first round of the Colombia's election?,2026-05-31T14:00:00Z,excluido,nao e mercado de vencedor de eleicao
-34582,colombia-presidential-election-1st-round-winner, Colombia Presidential Election 1st round winner?,2026-05-31T16:00:00Z,excluido,sem historico de preco
-106955,ethiopia-parliamentary-election-winner,Ethiopia Parliamentary Election Winner,2026-06-01T00:00:00Z,excluido,sem historico de preco
+34582,colombia-presidential-election-1st-round-winner, Colombia Presidential Election 1st round winner?,2026-05-31T16:00:00Z,incluido,
+106955,ethiopia-parliamentary-election-winner,Ethiopia Parliamentary Election Winner,2026-06-01T00:00:00Z,incluido,
 80018,iowa-democratic-senate-primary-winner,Iowa Democratic Senate Primary Winner,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 80020,iowa-republican-senate-primary-winner,Iowa Republican Senate Primary Winner,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 89386,who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11,Who will place first in the primary for Nancy Pelosi’s congressional seat (CA-11)?,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -987,7 +987,7 @@ id,slug,titulo,fim,situacao,motivo
 514455,who-will-place-first-in-the-ca-12-primary-489,Who will place first in the CA-12 primary?,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 525364,ca-27-primary-winners-627,CA-27 Primary Winners,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 528293,nj-02-democratic-primary-winner,NJ-02 Democratic Primary Winner,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-528340,ca-01-special-election-winner,CA-01 Special Election Winner?,2026-06-02T00:00:00Z,excluido,sem historico de preco
+528340,ca-01-special-election-winner,CA-01 Special Election Winner?,2026-06-02T00:00:00Z,incluido,
 528377,ca-26-primary-winners,CA-26 Primary Winners,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 528378,ca-33-primary-winners,CA-33 Primary Winners,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 528388,ca-37-primary-winners,CA-37 Primary Winners,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -998,7 +998,7 @@ id,slug,titulo,fim,situacao,motivo
 531443,california-governor-primary-election-orange-county-winner,California Governor Primary Election: Orange County Winner,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 531469,california-governor-primary-election-santa-clara-county-winner-733,California Governor Primary Election: Santa Clara County Winner,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 531478,california-governor-primary-election-san-francisco-winner,California Governor Primary Election: San Francisco Winner,2026-06-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-411239,next-prime-minister-of-ethiopia,Next Prime Minister of Ethiopia?,2026-06-02T03:59:00Z,excluido,historico nao cobre a vespera
+411239,next-prime-minister-of-ethiopia,Next Prime Minister of Ethiopia?,2026-06-02T03:59:00Z,incluido,
 552327,iowa-democratic-senate-primary-margin-of-victory-20260602160244397,Iowa Democratic Senate Primary Margin of Victory,2026-06-02T16:00:00Z,excluido,nao e mercado de vencedor de eleicao
 79973,2026-seoul-mayoral-election-winner,2026 Seoul Mayoral Election Winner,2026-06-03T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 79988,2026-busan-mayoral-election-winner,2026 Busan Mayoral Election Winner,2026-06-03T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1029,7 +1029,7 @@ id,slug,titulo,fim,situacao,motivo
 525752,2026-incheon-mayoral-election-margin-of-victory,2026 Incheon Mayoral Election: Margin of Victory,2026-06-03T06:00:00Z,excluido,nao e mercado de vencedor de eleicao
 525821,2026-daegu-mayoral-election-margin-of-victory,2026 Daegu Mayoral Election: Margin of Victory,2026-06-03T06:00:00Z,excluido,nao e mercado de vencedor de eleicao
 525829,2026-busan-mayoral-election-margin-of-victory,2026 Busan Mayoral Election: Margin of Victory,2026-06-03T18:00:00Z,excluido,nao e mercado de vencedor de eleicao
-106049,armenia-parliamentary-election-winner,Armenia Parliamentary Election Winner,2026-06-07T00:00:00Z,excluido,sem historico de preco
+106049,armenia-parliamentary-election-winner,Armenia Parliamentary Election Winner,2026-06-07T00:00:00Z,incluido,
 510803,peru-election-2nd-round-margin-of-victory,Peru Election 2nd Round: Margin of Victory?,2026-06-07T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 510828,peru-election-2nd-round-turnout,Peru Election 2nd Round: Turnout?,2026-06-07T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 548887,agrigento-mayoral-election-winner,Agrigento Mayoral Election Winner,2026-06-08T06:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1076,12 +1076,12 @@ id,slug,titulo,fim,situacao,motivo
 527423,ok-04-democratic-primary-winner,OK-04 Democratic Primary Winner,2026-06-16T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 527442,dc-delegate-democratic-primary-winner,DC Delegate Democratic Primary Winner,2026-06-16T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 587427,georgia-governor-republican-primary-runoff-margin-of-victory-20260611155243082,Georgia Governor Republican Primary Runoff Margin of Victory,2026-06-17T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
-485538,makerfield-by-election-winner,Makerfield by-election Winner,2026-06-18T00:00:00Z,excluido,sem historico de preco
+485538,makerfield-by-election-winner,Makerfield by-election Winner,2026-06-18T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 508139,makerfield-by-election-2nd-place,Makerfield by-election: 2nd Place,2026-06-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 574439,makerfield-by-election-restore-britain-receives-10-20260609002937160,Makerfield by-election: Restore Britain receives 10%+?,2026-06-18T17:00:00Z,excluido,nao e mercado de vencedor de eleicao
-577958,2026-aberdeen-south-by-election-winner-20260609203348554,2026 Aberdeen South By-Election Winner,2026-06-19T03:59:00Z,excluido,sem historico de preco
-577959,2026-arbroath-and-broughty-ferry-by-election-winner-20260609204651118,2026 Arbroath and Broughty Ferry By-Election Winner,2026-06-19T03:59:00Z,excluido,sem historico de preco
-34584,colombia-presidential-election,Colombia Presidential Election,2026-06-21T14:00:00Z,excluido,sem historico de preco
+577958,2026-aberdeen-south-by-election-winner-20260609203348554,2026 Aberdeen South By-Election Winner,2026-06-19T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+577959,2026-arbroath-and-broughty-ferry-by-election-winner-20260609204651118,2026 Arbroath and Broughty Ferry By-Election Winner,2026-06-19T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+34584,colombia-presidential-election,Colombia Presidential Election,2026-06-21T14:00:00Z,incluido,
 563062,colombia-presidential-election-runoff-most-votes-from-bogota-20260604201820508,Colombia Presidential Election Runoff: Most votes from Bogotá,2026-06-22T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 563077,colombia-presidential-election-runoff-most-votes-from-antioquia-20260604201842438,Colombia Presidential Election Runoff: Most votes from Antioquia,2026-06-22T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 563117,colombia-presidential-election-runoff-turnout-20260604201936978,Colombia Presidential Election Runoff: Turnout,2026-06-22T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1130,17 +1130,17 @@ id,slug,titulo,fim,situacao,motivo
 432202,will-benny-gantz-join-the-bennett-lapid-alliance-by-june-30,Will Benny Gantz join the Bennett-Lapid alliance by June 30?,2026-06-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 631082,co-05-democratic-primary-winner-20260624154515500,CO-05 Democratic Primary Winner,2026-06-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 631084,co-03-democratic-primary-winner-20260624153934367,CO-03 Democratic Primary Winner ,2026-06-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-95933,central-african-republic-national-assembly-election-winner,Central African Republic National Assembly Election Winner,2026-06-30T23:59:00Z,excluido,sem historico de preco
+95933,central-african-republic-national-assembly-election-winner,Central African Republic National Assembly Election Winner,2026-06-30T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 573609,will-spencer-pratt-call-for-1st-round-recount-20260608160956723,Will Spencer Pratt call for 1st round recount?,2026-07-02T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-634287,algeria-parliamentary-election-party-winner-20260625161521348,Algeria Parliamentary Election: Party Winner,2026-07-02T23:59:00Z,excluido,sem historico de preco
+634287,algeria-parliamentary-election-party-winner-20260625161521348,Algeria Parliamentary Election: Party Winner,2026-07-02T23:59:00Z,incluido,
 573276,will-spencer-pratt-concede-by-20260608151036178,Will Spencer Pratt concede by…?,2026-07-03T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 627837,2026-slovakia-referendum-what-will-pass-20260623184300813,2026 Slovakia Referendum: What will pass?,2026-07-04T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-655484,2026-johor-general-election-winner-20260701004142991,2026 Johor General Election Winner,2026-07-11T23:59:00Z,excluido,sem historico de preco
-659871,2026-cornwall-meadowbank-pei-assembly-by-election-winner-20260702005256483,2026 Cornwall-Meadowbank PEI Assembly By-Election Winner,2026-07-13T23:59:00Z,excluido,sem historico de preco
+655484,2026-johor-general-election-winner-20260701004142991,2026 Johor General Election Winner,2026-07-11T23:59:00Z,excluido,historico nao cobre a vespera
+659871,2026-cornwall-meadowbank-pei-assembly-by-election-winner-20260702005256483,2026 Cornwall-Meadowbank PEI Assembly By-Election Winner,2026-07-13T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 574454,la-mayoral-election-recount-of-1st-round-20260607215128440,LA Mayoral Election: Recount of 1st Round?,2026-07-15T19:59:00Z,excluido,nao e mercado de vencedor de eleicao
-659888,norfolk-police-and-crime-commissioner-by-election-winner-20260702154145530,Norfolk Police and Crime Commissioner By-Election Winner,2026-07-16T23:59:00Z,excluido,sem historico de preco
-627849,sao-tome-and-principe-presidential-election-winner-20260623195739298,São Tomé and Príncipe Presidential Election Winner,2026-07-19T23:59:00Z,excluido,sem historico de preco
-659879,sao-tome-presidential-election-first-round-winner-20260702151121341,São Tomé Presidential Election First Round Winner,2026-07-19T23:59:00Z,excluido,sem historico de preco
+659888,norfolk-police-and-crime-commissioner-by-election-winner-20260702154145530,Norfolk Police and Crime Commissioner By-Election Winner,2026-07-16T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+627849,sao-tome-and-principe-presidential-election-winner-20260623195739298,São Tomé and Príncipe Presidential Election Winner,2026-07-19T23:59:00Z,incluido,
+659879,sao-tome-presidential-election-first-round-winner-20260702151121341,São Tomé Presidential Election First Round Winner,2026-07-19T23:59:00Z,incluido,
 97315,arizona-governor-republican-primary-winner,Arizona Governor Republican Primary Winner,2026-07-21T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 648860,az-01-democratic-primary-winner-20260629182915544,AZ-01 Democratic Primary Winner,2026-07-21T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 656320,az-02-democratic-primary-winner-20260630194822311,AZ-02 Democratic Primary Winner,2026-07-21T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1149,7 +1149,7 @@ id,slug,titulo,fim,situacao,motivo
 674540,arizona-superintendent-of-public-instruction-democratic-primary-winner-20260706145902302,Arizona Superintendent of Public Instruction Democratic Primary Winner,2026-07-21T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 90415,az-01-republican-primary-winner,AZ-01 Republican Primary Winner,2026-07-21T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 90416,az-05-republican-primary-winner,AZ-05 Republican Primary Winner,2026-07-21T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-659889,the-pas-kameesak-manitoba-legislative-assembly-by-election-winner-20260702160935687,The Pas-Kameesak Manitoba Legislative Assembly By-Election Winner,2026-07-21T23:59:00Z,excluido,sem historico de preco
+659889,the-pas-kameesak-manitoba-legislative-assembly-by-election-winner-20260702160935687,The Pas-Kameesak Manitoba Legislative Assembly By-Election Winner,2026-07-21T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 659974,arizona-attorney-general-republican-primary-winner-20260702185523323,Arizona Attorney General Republican Primary Winner,2026-07-21T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 659975,arizona-secretary-of-state-republican-primary-winner-20260702190600142,Arizona Secretary of State Republican Primary Winner,2026-07-21T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 674483,arizona-state-treasurer-republican-primary-winner-20260702191958255,Arizona State Treasurer Republican Primary Winner,2026-07-21T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1157,13 +1157,13 @@ id,slug,titulo,fim,situacao,motivo
 674406,who-will-be-the-democratic-nominee-in-the-maine-senate-race-on-july-27-20260706182929391,Maine Democratic Senate nominee on July 27?,2026-07-27T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 577961,peru-presidential-election-runoff-jne-certifies-results-by-20260608233659002,Peru Presidential Election Runoff: JNE certifies results by…?,2026-07-28T03:59:00Z,excluido,resolucao nao unica (2 vencedores)
 656452,south-dakota-governor-republican-primary-runoff-margin-of-victory-20260701162559108,South Dakota Governor Republican Primary Runoff Margin of Victory,2026-07-28T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-563152,ga-13-special-election-winner-20260604224652888,GA-13 Special Election Winner,2026-07-29T03:59:00Z,excluido,sem historico de preco
+563152,ga-13-special-election-winner-20260604224652888,GA-13 Special Election Winner,2026-07-29T03:59:00Z,incluido,
 719096,next-leader-of-germanys-union-cducsu-20260718204733993,Next leader of Germany's Union (CDU/CSU)?,2026-07-29T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 704616,greater-manchester-mayoral-election-restore-receives-10-first-preference-votes-20260713192957526,Greater Manchester Mayoral Election: Restore receives 10%+ first preference votes?,2026-07-30T17:00:00Z,excluido,nao e mercado de vencedor de eleicao
 612227,greater-manchester-mayoral-election-winner-20260619154130299,Greater Manchester Mayoral Election Winner,2026-07-30T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 633958,greater-manchester-mayoral-election-most-1st-preference-votes-20260625163310509,Greater Manchester Mayoral Election: Most 1st Preference Votes,2026-07-30T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 664364,greater-manchester-mayoral-election-margin-of-victory-20260703224447578,Greater Manchester Mayoral Election: Margin of Victory,2026-07-30T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-25933,netherlands-parliamentary-election,Netherlands Parliamentary Election,2026-07-31T00:00:00Z,excluido,sem historico de preco
+25933,netherlands-parliamentary-election,Netherlands Parliamentary Election,2026-07-31T00:00:00Z,incluido,
 41654,which-party-wins-3nd-most-seats-in-netherlands-election,Which Party wins 3rd most seats in Netherlands election?,2026-07-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 41655,which-party-wins-4nd-most-seats-in-netherlands-election,Which Party wins 4th most seats in Netherlands election?,2026-07-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 45466,how-many-seats-will-the-christian-democratic-appeal-cda-win-in-the-upcoming-dutch-parliamentary-election,Dutch parliamentary election: CDA seats,2026-07-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1174,7 +1174,7 @@ id,slug,titulo,fim,situacao,motivo
 101857,guam-governor-democratic-primary-winner,Guam Governor Democratic Primary Winner,2026-08-01T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 101859,guam-governor-republican-primary-winner-363,Guam Governor Republican Primary Winner,2026-08-01T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 304787,scotus-bars-counting-mail-ballots-after-election-day,SCOTUS bars counting mail ballots after election day?,2026-08-01T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-730871,2026-negeri-sembilan-general-election-winner-20260720213330399,2026 Negeri Sembilan General Election Winner,2026-08-01T23:59:00Z,excluido,sem historico de preco
+730871,2026-negeri-sembilan-general-election-winner-20260720213330399,2026 Negeri Sembilan General Election Winner,2026-08-01T23:59:00Z,incluido,
 758573,uptspt-virgin-islands-governor-democratic-primary-winner-20260727192204994,U.S. Virgin Islands Governor Democratic Primary Winner,2026-08-01T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 45017,michigan-democratic-senate-primary-winner,Michigan Democratic Senate Primary Winner,2026-08-04T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 90350,mi-11-democratic-primary-winner,MI-11 Democratic Primary Winner,2026-08-04T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1270,20 +1270,20 @@ id,slug,titulo,fim,situacao,motivo
 774052,south-carolina-senate-special-republican-primary-first-round-second-place-20260730171850565,South Carolina Senate Special Republican Primary: First Round Second Place,2026-08-11T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 812665,minnesota-republican-governor-primary-margin-of-victory-20260807151509327,Minnesota Republican Governor Primary Margin of Victory,2026-08-11T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 812668,south-carolina-special-senate-republican-primary-first-round-margin-of-victory-20260807145147619,South Carolina Special Senate Republican Primary: First Round Margin of Victory,2026-08-11T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-710137,cook-islands-parliamentary-election-ngatangiia-winner-20260715192220118,Cook Islands Parliamentary Election: Ngatangiia Winner,2026-08-12T23:59:00Z,excluido,sem historico de preco
-711851,cook-islands-parliamentary-election-party-winner-20260715185920487,Cook Islands Parliamentary Election: Party Winner,2026-08-12T23:59:00Z,excluido,sem historico de preco
+710137,cook-islands-parliamentary-election-ngatangiia-winner-20260715192220118,Cook Islands Parliamentary Election: Ngatangiia Winner,2026-08-12T23:59:00Z,incluido,
+711851,cook-islands-parliamentary-election-party-winner-20260715185920487,Cook Islands Parliamentary Election: Party Winner,2026-08-12T23:59:00Z,incluido,
 836548,wisconsin-governor-democratic-primary-margin-of-victory-small-brackets-20260812015550458,Wisconsin Governor Democratic Primary Margin of Victory (Small Brackets),2026-08-12T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 837028,wisconsin-governor-democratic-primary-margin-of-victory-0pt2-brackets-20260812041248272,Wisconsin Governor Democratic Primary Margin of Victory (0.2% Brackets),2026-08-12T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 837036,when-will-the-ap-call-the-wisconsin-democratic-gubernatorial-primary-20260812035821653,When will the AP call the Wisconsin Democratic gubernatorial primary?,2026-08-12T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 743520,zambia-national-assembly-election-party-winner-20260715200607239,Zambia National Assembly Election: Party Winner,2026-08-13T11:59:00Z,excluido,nao e mercado de vencedor de eleicao
-677008,clacton-by-election-winner-20260707143521303,Clacton by-election Winner,2026-08-13T16:00:00Z,excluido,sem historico de preco
+677008,clacton-by-election-winner-20260707143521303,Clacton by-election Winner,2026-08-13T16:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 678765,clacton-by-election-2nd-place-20260707214539733,Clacton by-election: 2nd place,2026-08-13T16:00:00Z,excluido,nao e mercado de vencedor de eleicao
 678764,will-nigel-farage-up-his-vote-share-in-clacton-20260707171746907,Will Nigel Farage up his vote share in Clacton?,2026-08-13T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 680749,clacton-by-election-count-binface-vote-20260708142507718,Clacton by-election: Count Binface Vote %,2026-08-13T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 686525,clacton-by-election-margin-of-victory-20260709153837820,Clacton by-election: Margin of Victory,2026-08-13T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 714877,clacton-by-election-turnout-20260717155703438,Clacton by-election: Turnout,2026-08-13T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 743521,zambia-national-assembly-election-2nd-place-20260722145521018,Zambia National Assembly Election: 2nd Place,2026-08-13T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-563118,zambia-presidential-election-winner-20260604205247322,Zambia Presidential Election Winner,2026-08-14T03:59:00Z,excluido,sem historico de preco
+563118,zambia-presidential-election-winner-20260604205247322,Zambia Presidential Election Winner,2026-08-14T03:59:00Z,incluido,
 563179,zambia-presidential-election-1st-round-turnout-20260604214258491,Zambia Presidential Election 1st Round: Turnout,2026-08-14T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 385500,will-the-workers-party-nominate-lula-for-president-of-brazil-by-august-15,Will the Workers' Party nominate Lula for President of Brazil by August 15?,2026-08-15T06:00:00Z,excluido,nao e mercado de vencedor de eleicao
 796828,flavio-bolsonaro-vp-candidate-20260803145529,Flavio Bolsonaro VP Candidate,2026-08-15T14:59:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1298,7 +1298,7 @@ id,slug,titulo,fim,situacao,motivo
 112053,fl-23-democratic-primary-winner,FL-23 Democratic Primary Winner,2026-08-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 119957,fl-09-republican-primary-winner,FL-09 Republican Primary Winner,2026-08-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 376092,fl-06-republican-primary-winner,FL-06 Republican Primary Winner,2026-08-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-382609,ca-14-special-election-winner,CA-14 Special Election Winner?,2026-08-18T00:00:00Z,excluido,sem historico de preco
+382609,ca-14-special-election-winner,CA-14 Special Election Winner?,2026-08-18T00:00:00Z,incluido,
 403518,fl-20-democratic-primary-winner,FL-20 Democratic Primary Winner,2026-08-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 527468,alaska-at-large-primary-winners,Alaska At-Large Primary Winners,2026-08-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 753267,fl-27-democratic-primary-winner-20260724190714940,FL-27 Democratic Primary Winner,2026-08-18T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1331,7 +1331,7 @@ id,slug,titulo,fim,situacao,motivo
 872218,florida-governor-republican-primary-third-place,Florida Governor Republican Primary Third Place,2026-08-18T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 872219,florida-republican-governor-primary-byron-donalds-vote-share,Florida Republican Governor Primary: Byron Donalds Vote Share,2026-08-18T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 872291,will-james-fishback-concede-by,Will James Fishback concede by…?,2026-08-20T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-833068,greater-wellington-wairarapa-by-election-winner-20260811121548140,Greater Wellington Wairarapa By-Election Winner,2026-08-21T00:00:00Z,excluido,sem historico de preco
+833068,greater-wellington-wairarapa-by-election-winner-20260811121548140,Greater Wellington Wairarapa By-Election Winner,2026-08-21T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 700875,kazakhstan-kurultai-election-2nd-place-20260713225045611,Kazakhstan Kurultai Election: 2nd Place,2026-08-23T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 704638,kazakhstan-kurultai-election-party-winner-20260713224438118,Kazakhstan Kurultai Election: Party Winner,2026-08-23T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 765461,kazakhstan-kurultai-election-adilet-wins-majority-20260728164335908,Kazakhstan Kurultai Election: Adilet Wins Majority?,2026-08-23T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1362,9 +1362,9 @@ id,slug,titulo,fim,situacao,motivo
 101977,how-many-republican-house-members-not-running-in-2026,How many Republican House members not running in 2026?,2026-08-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 101979,how-many-democratic-house-members-not-running-in-2026,How many Democratic House members not running in 2026?,2026-08-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 101980,how-many-republican-senators-not-running-in-2026,How many Republican Senators not running in 2026?,2026-08-31T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-770149,north-vancouvercapilano-by-election-winner-20260729185730213,North Vancouver—Capilano By-Election Winner,2026-08-31T23:59:00Z,excluido,sem historico de preco
-770150,chicoutimile-fjord-by-election-winner-20260729185915437,Chicoutimi—Le Fjord By-Election Winner,2026-08-31T23:59:00Z,excluido,sem historico de preco
-770165,beacheseast-york-by-election-winner-20260729190052455,Beaches—East York By-Election Winner,2026-08-31T23:59:00Z,excluido,sem historico de preco
+770149,north-vancouvercapilano-by-election-winner-20260729185730213,North Vancouver—Capilano By-Election Winner,2026-08-31T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+770150,chicoutimile-fjord-by-election-winner-20260729185915437,Chicoutimi—Le Fjord By-Election Winner,2026-08-31T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+770165,beacheseast-york-by-election-winner-20260729190052455,Beaches—East York By-Election Winner,2026-08-31T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 798142,will-the-loser-of-the-michigan-democratic-senate-primary-endorse-the-winner-by-august-31-20260803145642550,Will the loser of the Michigan Democratic Senate primary endorse the winner by August 31?,2026-08-31T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 95915,massachusetts-democratic-senate-primary-winner,Massachusetts Democratic Senate Primary Winner,2026-09-01T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 101820,massachusetts-governor-republican-primary-winner,Massachusetts Governor Republican Primary Winner,2026-09-01T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1376,19 +1376,19 @@ id,slug,titulo,fim,situacao,motivo
 758539,ma-01-democratic-primary-winner-20260727173754524,MA-01 Democratic Primary Winner,2026-09-01T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 758555,ma-04-democratic-primary-winner-20260727180932560,MA-04 Democratic Primary Winner,2026-09-01T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 882591,massachusetts-democratic-senate-primary-margin-of-victory,Massachusetts Democratic Senate Primary Margin of Victory,2026-09-01T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-879965,hamilton-eaststoney-creek-provincial-by-election-winner-1785955561114,Hamilton East—Stoney Creek Provincial By-Election Winner,2026-09-03T23:59:00Z,excluido,sem historico de preco
-879966,scarborough-southwest-provincial-by-election-winner-1785955561142,Scarborough Southwest Provincial By-Election Winner,2026-09-03T23:59:00Z,excluido,sem historico de preco
-879967,yorksimcoe-provincial-by-election-winner-1785955561170,York—Simcoe Provincial By-Election Winner,2026-09-03T23:59:00Z,excluido,sem historico de preco
+879965,hamilton-eaststoney-creek-provincial-by-election-winner-1785955561114,Hamilton East—Stoney Creek Provincial By-Election Winner,2026-09-03T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+879966,scarborough-southwest-provincial-by-election-winner-1785955561142,Scarborough Southwest Provincial By-Election Winner,2026-09-03T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+879967,yorksimcoe-provincial-by-election-winner-1785955561170,York—Simcoe Provincial By-Election Winner,2026-09-03T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 961072,hamilton-east-stoney-creek-provincial-by-election-2nd-place,Hamilton East—Stoney Creek Provincial By-Election: 2nd Place,2026-09-03T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 961073,scarborough-southwest-provincial-by-election-2nd-place,Scarborough Southwest Provincial By-Election: 2nd Place,2026-09-03T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-204539,sachsen-anhalt-parliamentary-election-winner,Sachsen-Anhalt Parliamentary Election Winner,2026-09-06T00:00:00Z,excluido,sem historico de preco
+204539,sachsen-anhalt-parliamentary-election-winner,Sachsen-Anhalt Parliamentary Election Winner,2026-09-06T00:00:00Z,incluido,
 257536,sachsen-anhalt-parliamentary-elections-2nd-place,Sachsen-Anhalt Parliamentary Elections: 2nd Place,2026-09-06T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 478687,will-afd-win-an-absolute-majority-of-seats-in-sachsen-anhalt,Will AfD win an absolute majority of seats in Sachsen-Anhalt?,2026-09-06T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-745550,sachsen-anhalt-parliamentary-elections-3rd-place-20260722225837804,Sachsen-Anhalt Parliamentary Elections: 3rd Place,2026-09-06T23:59:00Z,excluido,sem historico de preco
+745550,sachsen-anhalt-parliamentary-elections-3rd-place-20260722225837804,Sachsen-Anhalt Parliamentary Elections: 3rd Place,2026-09-06T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 745592,sachsen-anhalt-parliamentary-elections-afd-of-seats-20260722230807017,Sachsen-Anhalt Parliamentary Elections: AfD # of seats?,2026-09-06T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-881716,sachsen-anhalt-parliamentary-election-more-votes-to-spd-or-grune,Sachsen-Anhalt Parliamentary Election: More Votes to SPD or Grüne?,2026-09-06T23:59:00Z,excluido,sem historico de preco
-881717,sachsen-anhalt-parliamentary-election-more-votes-to-spd-or-bsw,Sachsen-Anhalt Parliamentary Election: More Votes to SPD or BSW?,2026-09-06T23:59:00Z,excluido,sem historico de preco
-881718,sachsen-anhalt-parliamentary-election-more-votes-to-grune-or-bsw,Sachsen-Anhalt Parliamentary Election: More Votes to Grüne or BSW?,2026-09-06T23:59:00Z,excluido,sem historico de preco
+881716,sachsen-anhalt-parliamentary-election-more-votes-to-spd-or-grune,Sachsen-Anhalt Parliamentary Election: More Votes to SPD or Grüne?,2026-09-06T23:59:00Z,incluido,
+881717,sachsen-anhalt-parliamentary-election-more-votes-to-spd-or-bsw,Sachsen-Anhalt Parliamentary Election: More Votes to SPD or BSW?,2026-09-06T23:59:00Z,incluido,
+881718,sachsen-anhalt-parliamentary-election-more-votes-to-grune-or-bsw,Sachsen-Anhalt Parliamentary Election: More Votes to Grüne or BSW?,2026-09-06T23:59:00Z,incluido,
 881724,sachsen-anhalt-parliamentary-election-afd-over-under-42-percent,Sachsen-Anhalt Parliamentary Election: AfD Over/Under 42%?,2026-09-06T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 881737,sachsen-anhalt-parliamentary-election-cdu-over-under-23-percent,Sachsen-Anhalt Parliamentary Election: CDU Over/Under 23%?,2026-09-06T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 881740,sachsen-anhalt-parliamentary-election-linke-over-under-12-percent,Sachsen-Anhalt Parliamentary Election: Linke Over/Under 12%?,2026-09-06T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1431,20 +1431,20 @@ id,slug,titulo,fim,situacao,motivo
 882623,rhode-island-attorney-general-democratic-primary-winner,Rhode Island Attorney General Democratic Primary Winner,2026-09-09T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 886931,ri-02-republican-primary-winner,RI-02 Republican Primary Winner,2026-09-09T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 948720,rhode-island-lieutenant-governor-democratic-primary-winner,Rhode Island Lieutenant Governor Democratic Primary Winner,2026-09-09T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-943559,mulka-by-election-winner,Mulka By-Election Winner,2026-09-12T23:59:00Z,excluido,sem historico de preco
-96640,sweden-parliamentary-election-winner,Sweden Parliamentary Election Winner,2026-09-13T00:00:00Z,excluido,sem historico de preco
+943559,mulka-by-election-winner,Mulka By-Election Winner,2026-09-12T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+96640,sweden-parliamentary-election-winner,Sweden Parliamentary Election Winner,2026-09-13T00:00:00Z,incluido,
 502873,sweden-parliamentary-election-2nd-place,Sweden Parliamentary Election: 2nd Place,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-502875,sweden-parliamentary-election-3rd-place,Sweden Parliamentary Election: 3rd Place,2026-09-13T00:00:00Z,excluido,sem historico de preco
-842915,sweden-parliamentary-election-4th-place-20260812164320100,Sweden Parliamentary Election: 4th Place,2026-09-13T00:00:00Z,excluido,sem historico de preco
-842916,sweden-parliamentary-election-5th-place-20260812164320200,Sweden Parliamentary Election: 5th Place,2026-09-13T00:00:00Z,excluido,sem historico de preco
-842917,sweden-parliamentary-election-6th-place-20260812164320300,Sweden Parliamentary Election: 6th Place,2026-09-13T00:00:00Z,excluido,sem historico de preco
+502875,sweden-parliamentary-election-3rd-place,Sweden Parliamentary Election: 3rd Place,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+842915,sweden-parliamentary-election-4th-place-20260812164320100,Sweden Parliamentary Election: 4th Place,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+842916,sweden-parliamentary-election-5th-place-20260812164320200,Sweden Parliamentary Election: 5th Place,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+842917,sweden-parliamentary-election-6th-place-20260812164320300,Sweden Parliamentary Election: 6th Place,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 842954,sweden-parliamentary-election-liberals-win-seats-20260812164320900,Sweden Parliamentary Election: Liberals Win Seats?,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-842971,sweden-parliamentary-election-more-votes-to-sd-or-m-20260812170140800,Sweden Parliamentary Election: More Votes to SD or M?,2026-09-13T00:00:00Z,excluido,sem historico de preco
-842996,sweden-parliamentary-election-more-votes-to-v-or-mp-20260812170140801,Sweden Parliamentary Election: More Votes to V or MP?,2026-09-13T00:00:00Z,excluido,sem historico de preco
-842997,sweden-parliamentary-election-more-votes-to-v-or-c-20260812170140802,Sweden Parliamentary Election: More Votes to V or C?,2026-09-13T00:00:00Z,excluido,sem historico de preco
-842998,sweden-parliamentary-election-more-votes-to-v-or-kd-20260812170140803,Sweden Parliamentary Election: More Votes to V or KD?,2026-09-13T00:00:00Z,excluido,sem historico de preco
-843003,sweden-parliamentary-election-more-votes-to-mp-or-c-20260812170140804,Sweden Parliamentary Election: More Votes to MP or C?,2026-09-13T00:00:00Z,excluido,sem historico de preco
-843014,sweden-parliamentary-election-more-votes-to-c-or-kd-20260812170140806,Sweden Parliamentary Election: More Votes to C or KD?,2026-09-13T00:00:00Z,excluido,sem historico de preco
+842971,sweden-parliamentary-election-more-votes-to-sd-or-m-20260812170140800,Sweden Parliamentary Election: More Votes to SD or M?,2026-09-13T00:00:00Z,incluido,
+842996,sweden-parliamentary-election-more-votes-to-v-or-mp-20260812170140801,Sweden Parliamentary Election: More Votes to V or MP?,2026-09-13T00:00:00Z,incluido,
+842997,sweden-parliamentary-election-more-votes-to-v-or-c-20260812170140802,Sweden Parliamentary Election: More Votes to V or C?,2026-09-13T00:00:00Z,incluido,
+842998,sweden-parliamentary-election-more-votes-to-v-or-kd-20260812170140803,Sweden Parliamentary Election: More Votes to V or KD?,2026-09-13T00:00:00Z,incluido,
+843003,sweden-parliamentary-election-more-votes-to-mp-or-c-20260812170140804,Sweden Parliamentary Election: More Votes to MP or C?,2026-09-13T00:00:00Z,incluido,
+843014,sweden-parliamentary-election-more-votes-to-c-or-kd-20260812170140806,Sweden Parliamentary Election: More Votes to C or KD?,2026-09-13T00:00:00Z,incluido,
 843015,sweden-parliamentary-election-s-over-under-31-percent-20260812172023900,Sweden Parliamentary Election: S Over/Under 31%?,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 843032,sweden-parliamentary-election-sd-over-under-19-percent-20260812172023901,Sweden Parliamentary Election: SD Over/Under 19%?,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 843033,sweden-parliamentary-election-m-over-under-17-percent-20260812172023902,Sweden Parliamentary Election: M Over/Under 17%?,2026-09-13T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1476,23 +1476,23 @@ id,slug,titulo,fim,situacao,motivo
 829715,next-regional-board-chair-of-vastmanland-20260810084704952,Next Regional Board Chair of Västmanland?,2026-09-14T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 829716,next-regional-board-chair-of-vastra-gotaland-20260810084724228,Next Regional Board Chair of Västra Götaland?,2026-09-14T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 712237,2026-bangsamoro-parliament-election-party-winner-20260715164930563,2026 Bangsamoro Parliament Election: Party Winner,2026-09-14T15:59:00Z,excluido,nao e mercado de vencedor de eleicao
-884935,calgary-shaw-provincial-by-election-winner,Calgary-Shaw Provincial By-Election Winner,2026-09-14T23:59:00Z,excluido,sem historico de preco
+884935,calgary-shaw-provincial-by-election-winner,Calgary-Shaw Provincial By-Election Winner,2026-09-14T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 102978,delaware-democratic-senate-primary-winner,Delaware Democratic Senate Primary Winner,2026-09-15T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 227989,delaware-republican-senate-primary-winner,Delaware Republican Senate Primary Winner,2026-09-15T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 811495,yabloko-effectively-banned-from-2026-russian-elections-by-september-17-20260807161302974,Yabloko Effectively Banned From 2026 Russian Elections by September 17?,2026-09-17T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-730893,south-ossetia-presidential-election-winner-20260721152523707,South Ossetia Presidential Election Winner,2026-09-18T23:59:00Z,excluido,sem historico de preco
-943983,vaimauga-3-by-election-winner,Vaimauga 3 By-Election Winner,2026-09-18T23:59:00Z,excluido,sem historico de preco
-943984,falealili-1-by-election-winner,Falealili 1 By-Election Winner,2026-09-18T23:59:00Z,excluido,sem historico de preco
+730893,south-ossetia-presidential-election-winner-20260721152523707,South Ossetia Presidential Election Winner,2026-09-18T23:59:00Z,excluido,historico nao cobre a vespera
+943983,vaimauga-3-by-election-winner,Vaimauga 3 By-Election Winner,2026-09-18T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943984,falealili-1-by-election-winner,Falealili 1 By-Election Winner,2026-09-18T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 95248,berlin-state-election-winner,Berlin State Election Winner,2026-09-20T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 147974,how-many-seats-will-united-russia-win-in-the-next-russian-legislative-election,United Russia seats in the next Russian legislative election?,2026-09-20T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-149565,russia-parliamentary-election-winner,Russia Parliamentary Election Winner,2026-09-20T00:00:00Z,excluido,sem historico de preco
+149565,russia-parliamentary-election-winner,Russia Parliamentary Election Winner,2026-09-20T00:00:00Z,excluido,historico nao cobre a vespera
 149589,which-party-will-gain-most-seats-in-russian-parliamentary-election,Which party will gain most seats in Russian Parliamentary Election?,2026-09-20T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-204566,mecklenburg-vorpommern-parliamentary-election-winner,Mecklenburg-Vorpommern Parliamentary Election Winner,2026-09-20T00:00:00Z,excluido,sem historico de preco
+204566,mecklenburg-vorpommern-parliamentary-election-winner,Mecklenburg-Vorpommern Parliamentary Election Winner,2026-09-20T00:00:00Z,incluido,
 403883,russia-parliamentary-election-2nd-place,Russia Parliamentary Election: 2nd Place,2026-09-20T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-403909,russia-parliamentary-election-3rd-place,Russia Parliamentary Election: 3rd Place,2026-09-20T00:00:00Z,excluido,sem historico de preco
+403909,russia-parliamentary-election-3rd-place,Russia Parliamentary Election: 3rd Place,2026-09-20T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 403985,russia-parliamentary-election-turnout,Russia Parliamentary Election: Turnout,2026-09-20T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 808768,mecklenburg-vorpommern-parliamentary-election-2nd-place-20260806103311321,Mecklenburg-Vorpommern Parliamentary Election: 2nd Place,2026-09-20T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-808769,mecklenburg-vorpommern-parliamentary-election-3rd-place-20260806103335438,Mecklenburg-Vorpommern Parliamentary Election: 3rd Place,2026-09-20T00:00:00Z,excluido,sem historico de preco
+808769,mecklenburg-vorpommern-parliamentary-election-3rd-place-20260806103335438,Mecklenburg-Vorpommern Parliamentary Election: 3rd Place,2026-09-20T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 761738,chechnya-parliament-election-party-winner,Chechnya Parliament Election: Party Winner,2026-09-20T20:00:00Z,excluido,nao e mercado de vencedor de eleicao
 761770,altai-krai-parliament-election-party-winner,Altai Krai Parliament Election: Party Winner,2026-09-20T20:00:00Z,excluido,nao e mercado de vencedor de eleicao
 678683,berlin-state-election-2nd-place-20260708005726718,Berlin State Election: 2nd Place,2026-09-20T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1512,7 +1512,7 @@ id,slug,titulo,fim,situacao,motivo
 881785,mecklenburg-vorpommern-parliamentary-election-linke-vote-share,Mecklenburg-Vorpommern Parliamentary Election: Linke Vote Share?,2026-09-20T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 881786,mecklenburg-vorpommern-parliamentary-election-bsw-vote-share,Mecklenburg-Vorpommern Parliamentary Election: BSW Vote Share?,2026-09-20T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 881787,mecklenburg-vorpommern-parliamentary-election-grune-vote-share,Mecklenburg-Vorpommern Parliamentary Election: Grüne Vote Share?,2026-09-20T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-951021,russia-parliamentary-election-4th-place,Russia Parliamentary Election: 4th Place,2026-09-20T23:59:00Z,excluido,sem historico de preco
+951021,russia-parliamentary-election-4th-place,Russia Parliamentary Election: 4th Place,2026-09-20T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 951022,which-parties-will-win-at-least-one-seat-in-the-next-russian-state-duma-election,Which parties will win at least one seat in the next Russian State Duma election?,2026-09-20T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 951047,how-many-seats-will-the-communist-party-kprf-win-in-the-next-russian-legislative-election,How many seats will the Communist Party (KPRF) win in the next Russian legislative election?,2026-09-20T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 951071,how-many-seats-will-the-liberal-democratic-party-ldpr-win-in-the-next-russian-legislative-election,How many seats will the Liberal Democratic Party of Russia (LDPR) win in the next Russian legislative election?,2026-09-20T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1559,9 +1559,9 @@ id,slug,titulo,fim,situacao,motivo
 808791,berlin-state-elections-afd-of-seats-20260805192827457,Berlin State Elections: AfD # of seats?,2026-09-21T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 810896,russia-elections-united-russia-wins-every-region,Russia Elections: United Russia Wins Every Region?,2026-09-21T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 830721,berlin-state-elections-cdu-of-seats-20260805192827457,Berlin State Elections: CDU # of seats?,2026-09-21T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
-770079,morocco-legislative-elections-party-winner-20260728174826232,Morocco Legislative Elections: Party Winner,2026-09-24T03:59:00Z,excluido,sem historico de preco
+770079,morocco-legislative-elections-party-winner-20260728174826232,Morocco Legislative Elections: Party Winner,2026-09-24T03:59:00Z,incluido,
 770080,morocco-legislative-elections-2nd-place-20260728175700575,Morocco Legislative Elections: 2nd Place,2026-09-24T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-770081,morocco-legislative-elections-3rd-place-20260728180301077,Morocco Legislative Elections: 3rd Place,2026-09-24T03:59:00Z,excluido,sem historico de preco
+770081,morocco-legislative-elections-3rd-place-20260728180301077,Morocco Legislative Elections: 3rd Place,2026-09-24T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1069672,democratic-senate-odds-on-september-25,Democratic Senate odds on September 25?,2026-09-25T16:00:00Z,excluido,nao e mercado de vencedor de eleicao
 700890,switzerlands-september-referendum-what-will-pass-20260713144919276,Switzerland’s September Referendum: What will pass?,2026-09-27T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
 961840,gottingen-mayoral-election-winner,Göttingen Mayoral Election Winner,2026-09-27T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1581,10 +1581,10 @@ id,slug,titulo,fim,situacao,motivo
 1081640,democratic-senate-odds-on-october-2-20260925t160000000z,Democratic Senate odds on October 2?,2026-10-02T16:00:00Z,excluido,nao e mercado de vencedor de eleicao
 1064641,latvia-parliamentary-election-which-parties-win-seats,Latvia Parliamentary Election: Which parties win seats?,2026-10-03T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 961173,renan-santos-participates-in-debate-before-first-round,Renan Santos participates in debate before first round?,2026-10-03T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-1065701,brazil-presidential-election-first-round-4th-place,Brazil Presidential Election First Round: 4th Place,2026-10-04T00:00:00Z,incluido,
+1065701,brazil-presidential-election-first-round-4th-place,Brazil Presidential Election First Round: 4th Place,2026-10-04T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 870997,lula-participates-in-debate-before-first-round,Lula participates in debate before first round?,2026-10-04T02:59:00Z,excluido,nao e mercado de vencedor de eleicao
 870998,flavio-bolsonaro-participates-in-debate-before-first-round,Flávio Bolsonaro participates in debate before first round?,2026-10-04T02:59:00Z,excluido,nao e mercado de vencedor de eleicao
-106954,latvian-parliamentary-election-winner,Latvian Parliamentary Election Winner,2026-10-04T03:59:00Z,excluido,historico nao cobre a vespera
+106954,latvian-parliamentary-election-winner,Latvian Parliamentary Election Winner,2026-10-04T03:59:00Z,incluido,
 800837,latvian-parliamentary-election-2nd-place,Latvian Parliamentary Election: 2nd Place,2026-10-04T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1113950,latvia-parliamentary-election-vote-share-margin-of-victory-20260930223740402,Latvia Parliamentary Election Vote Share Margin of Victory,2026-10-04T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 871039,how-many-gays-win-as-vice-governor-in-brazil-elections,How many gays become Vice Governor in Brazil Elections?,2026-10-04T06:00:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1705,48 +1705,48 @@ id,slug,titulo,fim,situacao,motivo
 864494,brazil-presidential-election-first-round-1st-place-in-sergipe,Brazil Presidential Election First Round: 1st Place in Sergipe,2026-10-05T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 864495,brazil-presidential-election-first-round-1st-place-in-sao-paulo,Brazil Presidential Election First Round: 1st Place in São Paulo,2026-10-05T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 864496,brazil-presidential-election-first-round-1st-place-in-tocantins,Brazil Presidential Election First Round: 1st Place in Tocantins,2026-10-05T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-905354,republika-srpska-presidential-election-2026,Republika Srpska Presidential Election,2026-10-05T03:59:00Z,incluido,
+905354,republika-srpska-presidential-election-2026,Republika Srpska Presidential Election,2026-10-05T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 943054,brazil-presidential-election-first-round-winner,Brazil Presidential Election First Round Winner,2026-10-05T03:59:00Z,incluido,
 1120115,brazil-chamber-of-deputies-election-2nd-place-20260930223700985,Brazil Chamber of Deputies Election: 2nd Place,2026-10-05T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 45924,will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election,Will any presidential candidate win outright in the first round of the Brazil election?,2026-10-05T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 45925,which-candidates-will-advance-to-brazils-presidential-runoff,Which candidates will advance to Brazil's presidential runoff?,2026-10-05T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
-204973,brazil-presidential-election-first-round-3rd-place,Brazil Presidential Election First Round: 3rd Place,2026-10-05T03:59:00Z,incluido,
+204973,brazil-presidential-election-first-round-3rd-place,Brazil Presidential Election First Round: 3rd Place,2026-10-05T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1073078,brazil-presidential-election-first-round-turnout,Brazil Presidential Election First Round: Turnout,2026-10-05T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1075657,lula-or-bolsonaro-favored-on,Lula or Bolsonaro favored on...?,2026-10-05T16:00:00Z,excluido,nao e mercado de vencedor de eleicao
 943576,quebec-general-election-turnout,Quebec General Election: Turnout,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 943657,will-the-pq-win-a-majority-in-the-2026-quebec-general-election,Quebec General Election: PQ Wins a Majority?,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-943658,will-pvq-win-a-seat-in-the-2026-quebec-general-election,Quebec General Election: PVQ Wins a Seat?,2026-10-05T23:59:00Z,excluido,resolucao nao unica (0 vencedores)
-943659,beauharnois-quebec-national-assembly-election-winner,Beauharnois Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943660,charlesbourg-quebec-national-assembly-election-winner,Charlesbourg Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943661,cote-du-sud-quebec-national-assembly-election-winner,Côte-du-Sud Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943662,drummond-bois-francs-quebec-national-assembly-election-winner,Drummond–Bois-Francs Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943663,groulx-quebec-national-assembly-election-winner,Groulx Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943664,hochelaga-maisonneuve-quebec-national-assembly-election-winner,Hochelaga-Maisonneuve Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943665,jean-lesage-quebec-national-assembly-election-winner,Jean-Lesage Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943666,la-prairie-quebec-national-assembly-election-winner,La Prairie Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943667,laurier-dorion-quebec-national-assembly-election-winner,Laurier-Dorion Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943668,laviolette-saint-maurice-quebec-national-assembly-election-winner,Laviolette–Saint-Maurice Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943677,levis-quebec-national-assembly-election-winner,Lévis Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943678,louis-hebert-quebec-national-assembly-election-winner,Louis-Hébert Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943679,maskinonge-quebec-national-assembly-election-winner,Maskinongé Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943681,montarville-quebec-national-assembly-election-winner,Montarville Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943682,nicolet-becancour-quebec-national-assembly-election-winner,Nicolet-Bécancour Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943683,richmond-quebec-national-assembly-election-winner,Richmond Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943684,rosemont-quebec-national-assembly-election-winner,Rosemont Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943685,saint-francois-quebec-national-assembly-election-winner,Saint-François Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943707,saint-henri-sainte-anne-quebec-national-assembly-election-winner,Saint-Henri–Sainte-Anne Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943727,taschereau-quebec-national-assembly-election-winner,Taschereau Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
-943754,vanier-les-rivieres-quebec-national-assembly-election-winner,Vanier-Les Rivières Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,incluido,
+943658,will-pvq-win-a-seat-in-the-2026-quebec-general-election,Quebec General Election: PVQ Wins a Seat?,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943659,beauharnois-quebec-national-assembly-election-winner,Beauharnois Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943660,charlesbourg-quebec-national-assembly-election-winner,Charlesbourg Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943661,cote-du-sud-quebec-national-assembly-election-winner,Côte-du-Sud Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943662,drummond-bois-francs-quebec-national-assembly-election-winner,Drummond–Bois-Francs Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943663,groulx-quebec-national-assembly-election-winner,Groulx Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943664,hochelaga-maisonneuve-quebec-national-assembly-election-winner,Hochelaga-Maisonneuve Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943665,jean-lesage-quebec-national-assembly-election-winner,Jean-Lesage Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943666,la-prairie-quebec-national-assembly-election-winner,La Prairie Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943667,laurier-dorion-quebec-national-assembly-election-winner,Laurier-Dorion Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943668,laviolette-saint-maurice-quebec-national-assembly-election-winner,Laviolette–Saint-Maurice Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943677,levis-quebec-national-assembly-election-winner,Lévis Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943678,louis-hebert-quebec-national-assembly-election-winner,Louis-Hébert Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943679,maskinonge-quebec-national-assembly-election-winner,Maskinongé Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943681,montarville-quebec-national-assembly-election-winner,Montarville Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943682,nicolet-becancour-quebec-national-assembly-election-winner,Nicolet-Bécancour Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943683,richmond-quebec-national-assembly-election-winner,Richmond Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943684,rosemont-quebec-national-assembly-election-winner,Rosemont Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943685,saint-francois-quebec-national-assembly-election-winner,Saint-François Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943707,saint-henri-sainte-anne-quebec-national-assembly-election-winner,Saint-Henri–Sainte-Anne Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943727,taschereau-quebec-national-assembly-election-winner,Taschereau Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+943754,vanier-les-rivieres-quebec-national-assembly-election-winner,Vanier-Les Rivières Quebec National Assembly Election Winner,2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1098370,of-seats-won-by-caq-in-the-2026-quebec-general-election-lower-strikes,Quebec General Election: CAQ # Seats? (Lower Strikes),2026-10-05T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-95203,quebec-general-election-winner,Quebec General Election Winner,2026-10-06T03:59:00Z,incluido,
+95203,quebec-general-election-winner,Quebec General Election Winner,2026-10-06T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 438568,next-premier-of-quebec-594,Next Premier of Quebec,2026-10-06T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 920629,quebec-general-election-second-place-20260825152158,Quebec General Election: Second Place,2026-10-06T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-920630,quebec-general-election-third-place-20260825152158,Quebec General Election: Third Place,2026-10-06T03:59:00Z,incluido,
-920822,will-qs-win-a-seat-in-the-2026-quebec-general-election,Quebec General Election: QS Wins a Seat?,2026-10-06T03:59:00Z,excluido,resolucao nao unica (1 vencedores)
+920630,quebec-general-election-third-place-20260825152158,Quebec General Election: Third Place,2026-10-06T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+920822,will-qs-win-a-seat-in-the-2026-quebec-general-election,Quebec General Election: QS Wins a Seat?,2026-10-06T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 920828,of-seats-won-by-pcq-in-the-2026-quebec-general-election,Quebec General Election: PCQ # Seats?,2026-10-06T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 920830,of-seats-won-by-caq-in-the-2026-quebec-general-election,Quebec General Election: CAQ # Seats?,2026-10-06T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-996149,tongatapu-2-by-election-winner,Tongatapu 2 By-Election Winner,2026-10-08T23:59:00Z,incluido,
-996199,ongo-niua-17-by-election-winner,Ongo Niua 17 By-Election Winner,2026-10-08T23:59:00Z,incluido,
+996149,tongatapu-2-by-election-winner,Tongatapu 2 By-Election Winner,2026-10-08T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+996199,ongo-niua-17-by-election-winner,Ongo Niua 17 By-Election Winner,2026-10-08T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1025424,holborn-and-st-pancras-by-election-labour-vote-share,Holborn and St Pancras By-Election: Labour Vote Share?,2026-10-08T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 1025425,holborn-and-st-pancras-by-election-green-vote-share,Holborn and St Pancras By-Election: Green Vote Share?,2026-10-08T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 1025426,holborn-and-st-pancras-by-election-vote-share-margin-of-victory,Holborn and St Pancras By-Election: Vote Share Margin of Victory,2026-10-08T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1780,9 +1780,9 @@ id,slug,titulo,fim,situacao,motivo
 905680,whistler-mayoral-election-winner,"Whistler, BC Mayoral Election Winner",2026-10-18T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1069369,yokohama-mayoral-election-winner-2026,Yokohama Mayoral Election Winner,2026-10-18T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1194282,democratic-senate-odds-on-october-23,Democratic Senate odds on October 23?,2026-10-23T16:00:00Z,excluido,nao e mercado de vencedor de eleicao
-1069287,british-columbia-general-election-winner,British Columbia General Election Winner,2026-10-24T23:59:00Z,incluido,
+1069287,british-columbia-general-election-winner,British Columbia General Election Winner,2026-10-24T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1069288,british-columbia-general-election-2nd-place,British Columbia General Election: 2nd Place,2026-10-24T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-1069289,british-columbia-general-election-3rd-place,British Columbia General Election: 3rd Place,2026-10-24T23:59:00Z,incluido,
+1069289,british-columbia-general-election-3rd-place,British Columbia General Election: 3rd Place,2026-10-24T23:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1142232,lula-x-flavio-bolsonaro-debate-before-second-round,Lula x Flávio Bolsonaro debate before second round?,2026-10-24T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 943055,bratislava-region-governor-election-winner,Bratislava Region Governor Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 943056,trnava-region-governor-election-winner,Trnava Region Governor Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1792,18 +1792,18 @@ id,slug,titulo,fim,situacao,motivo
 943060,banska-bystrica-region-governor-election-winner,Banská Bystrica Region Governor Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 943061,presov-region-governor-election-winner,Prešov Region Governor Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 943062,kosice-region-governor-election-winner,Košice Region Governor Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-1156072,surrey-fleetwood-british-columbia-legislative-assembly-election-winner,Surrey-Fleetwood British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156074,vancouver-yaletown-british-columbia-legislative-assembly-election-winner,Vancouver-Yaletown British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156075,vancouver-langara-british-columbia-legislative-assembly-election-winner,Vancouver-Langara British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156076,courtenay-comox-british-columbia-legislative-assembly-election-winner,Courtenay-Comox British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
+1156072,surrey-fleetwood-british-columbia-legislative-assembly-election-winner,Surrey-Fleetwood British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156074,vancouver-yaletown-british-columbia-legislative-assembly-election-winner,Vancouver-Yaletown British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156075,vancouver-langara-british-columbia-legislative-assembly-election-winner,Vancouver-Langara British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156076,courtenay-comox-british-columbia-legislative-assembly-election-winner,Courtenay-Comox British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1156077,surrey-city-centre-british-columbia-legislative-assembly-election-winner,Surrey City Centre British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-1156078,vernon-lumby-british-columbia-legislative-assembly-election-winner,Vernon-Lumby British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156079,richmond-steveston-british-columbia-legislative-assembly-election-winner,Richmond-Steveston British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156080,coquitlam-burke-mountain-british-columbia-legislative-assembly-election-winner,Coquitlam-Burke Mountain British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156082,surrey-guildford-british-columbia-legislative-assembly-election-winner,Surrey-Guildford British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156084,north-island-british-columbia-legislative-assembly-election-winner,North Island British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156086,surrey-newton-british-columbia-legislative-assembly-election-winner,Surrey-Newton British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
-1156087,maple-ridge-pitt-meadows-british-columbia-legislative-assembly-election-winner,Maple Ridge-Pitt Meadows British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,incluido,
+1156078,vernon-lumby-british-columbia-legislative-assembly-election-winner,Vernon-Lumby British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156079,richmond-steveston-british-columbia-legislative-assembly-election-winner,Richmond-Steveston British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156080,coquitlam-burke-mountain-british-columbia-legislative-assembly-election-winner,Coquitlam-Burke Mountain British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156082,surrey-guildford-british-columbia-legislative-assembly-election-winner,Surrey-Guildford British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156084,north-island-british-columbia-legislative-assembly-election-winner,North Island British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156086,surrey-newton-british-columbia-legislative-assembly-election-winner,Surrey-Newton British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+1156087,maple-ridge-pitt-meadows-british-columbia-legislative-assembly-election-winner,Maple Ridge-Pitt Meadows British Columbia Legislative Assembly Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 943063,bratislava-mayoral-election-winner-2026,Bratislava Mayoral Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 943064,kosice-mayoral-election-winner-2026,Košice Mayoral Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 943065,presov-mayoral-election-winner-2026,Prešov Mayoral Election Winner,2026-10-25T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1876,8 +1876,8 @@ id,slug,titulo,fim,situacao,motivo
 637404,2026-chandler-mayoral-election-winner-20260626000820427,2026 Chandler Mayoral Election Winner,2026-11-04T04:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 1171733,who-wins-the-senate-pending-hormuz-agreement,Who wins the Senate pending Hormuz Agreement by Oct 23?,2026-11-04T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
 246015,texas-democratic-senate-primary-margin-of-victory-smaller-brackets,Texas Democratic Senate Primary Margin of Victory (Smaller Brackets),2026-11-30T00:00:00Z,excluido,nao e mercado de vencedor de eleicao
-103763,next-prime-minister-of-thailand,Next Prime Minister of Thailand,2026-12-31T00:00:00Z,excluido,sem historico de preco
-218090,dublin-central-by-election-winner,Dublin-Central By-Election Winner,2026-12-31T00:00:00Z,excluido,sem historico de preco
+103763,next-prime-minister-of-thailand,Next Prime Minister of Thailand,2026-12-31T00:00:00Z,incluido,
+218090,dublin-central-by-election-winner,Dublin-Central By-Election Winner,2026-12-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 678780,national-rally-forms-a-french-senate-group-in-2026-20260706175436248,National Rally forms a French Senate Group in 2026?,2026-12-31T22:59:00Z,excluido,nao e mercado de vencedor de eleicao
 627774,who-will-be-in-the-burnham-cabinet-20260623004532614,Who will be in the Burnham cabinet?,2026-12-31T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 659870,next-chief-minister-of-johor-in-2026-20260702002954902,Next Chief Minister of Johor in 2026?,2026-12-31T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1887,7 +1887,7 @@ id,slug,titulo,fim,situacao,motivo
 682248,next-president-of-the-national-rally-in-2026-20260708193244734,Next President of the National Rally in 2026?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
 745540,next-uk-by-election-called-by-20260724183901572,Next UK by-election called by…?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
 758799,next-president-of-estonia-20260727225811942,Next President of Estonia?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
-843008,sweden-parliamentary-election-more-votes-to-mp-or-kd-20260812170140805,Sweden Parliamentary Election: More Votes to MP or KD?,2027-01-01T04:59:00Z,excluido,sem historico de preco
+843008,sweden-parliamentary-election-more-votes-to-mp-or-kd-20260812170140805,Sweden Parliamentary Election: More Votes to MP or KD?,2027-01-01T04:59:00Z,incluido,
 843038,sweden-parliamentary-election-kd-over-under-6-percent-20260812172023906,Sweden Parliamentary Election: KD Over/Under 6%?,2027-01-01T04:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 881688,berlin-state-election-more-votes-to-cdu-or-linke,Berlin State Election: More Votes to CDU or Linke?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
 881689,berlin-state-election-more-votes-to-cdu-or-afd,Berlin State Election: More Votes to CDU or AfD?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
@@ -1904,9 +1904,9 @@ id,slug,titulo,fim,situacao,motivo
 881708,berlin-state-election-afd-over-under-17-percent,Berlin State Election: AfD Over/Under 17%?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
 881709,berlin-state-election-grune-over-under-17-percent,Berlin State Election: Grüne Over/Under 17%?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
 881710,berlin-state-election-spd-over-under-13-percent,Berlin State Election: SPD Over/Under 13%?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
-881772,mecklenburg-vorpommern-parliamentary-election-more-votes-to-afd-or-spd,Mecklenburg-Vorpommern Parliamentary Election: More Votes to AfD or SPD?,2027-01-01T04:59:00Z,excluido,sem historico de preco
-881773,mecklenburg-vorpommern-parliamentary-election-more-votes-to-cdu-or-linke,Mecklenburg-Vorpommern Parliamentary Election: More Votes to CDU or Linke?,2027-01-01T04:59:00Z,excluido,sem historico de preco
-881774,mecklenburg-vorpommern-parliamentary-election-more-votes-to-bsw-or-grune,Mecklenburg-Vorpommern Parliamentary Election: More Votes to BSW or Grüne?,2027-01-01T04:59:00Z,excluido,sem historico de preco
+881772,mecklenburg-vorpommern-parliamentary-election-more-votes-to-afd-or-spd,Mecklenburg-Vorpommern Parliamentary Election: More Votes to AfD or SPD?,2027-01-01T04:59:00Z,incluido,
+881773,mecklenburg-vorpommern-parliamentary-election-more-votes-to-cdu-or-linke,Mecklenburg-Vorpommern Parliamentary Election: More Votes to CDU or Linke?,2027-01-01T04:59:00Z,incluido,
+881774,mecklenburg-vorpommern-parliamentary-election-more-votes-to-bsw-or-grune,Mecklenburg-Vorpommern Parliamentary Election: More Votes to BSW or Grüne?,2027-01-01T04:59:00Z,incluido,
 881775,mecklenburg-vorpommern-parliamentary-election-afd-over-under-35-percent,Mecklenburg-Vorpommern Parliamentary Election: AfD Over/Under 35%?,2027-01-01T04:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 881776,mecklenburg-vorpommern-parliamentary-election-spd-over-under-28-percent,Mecklenburg-Vorpommern Parliamentary Election: SPD Over/Under 28%?,2027-01-01T04:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 881777,mecklenburg-vorpommern-parliamentary-election-cdu-over-under-10-percent,Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 10%?,2027-01-01T04:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
@@ -1916,27 +1916,27 @@ id,slug,titulo,fim,situacao,motivo
 1065635,will-any-presidential-candidate-win-outright-in-the-first-round-of-the-bulgaria-election,Will any presidential candidate win outright in the first round of the Bulgaria election?,2027-01-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
 808740,sachsen-anhalt-parliamentary-election-turnout-up-or-down-20260806110617592,Sachsen-Anhalt Parliamentary Election: Turnout Up or Down?,2027-02-01T04:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 808751,will-afd-win-an-absolute-majority-of-seats-in-mecklenburg-vorpommern-20260806103954025,Will AfD win an absolute majority of seats in Mecklenburg-Vorpommern?,2027-02-01T04:59:00Z,excluido,nao e mercado de vencedor de eleicao
-230927,galway-west-by-election-winner,Galway-West By-Election Winner?,2027-03-31T00:00:00Z,excluido,sem historico de preco
-410410,2027-french-presidential-election-national-rally-candidate,2027 French Presidential Election: National Rally Candidate,2027-04-23T00:00:00Z,excluido,sem historico de preco
+230927,galway-west-by-election-winner,Galway-West By-Election Winner?,2027-03-31T00:00:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
+410410,2027-french-presidential-election-national-rally-candidate,2027 French Presidential Election: National Rally Candidate,2027-04-23T00:00:00Z,incluido,
 745517,osnabruck-mayoral-election-winner-20260723172818472,Osnabrück Mayoral Election Winner,2027-05-01T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 745526,oldenburg-mayoral-election-winner-20260723173826440,Oldenburg Mayoral Election Winner,2027-05-01T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 745539,salzgitter-mayoral-election-winner-20260723163216446,Salzgitter Mayoral Election Winner,2027-05-01T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 927746,next-president-of-kosovo,Next President of Kosovo?,2027-05-01T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 745568,braunschweig-mayoral-election-winner-20260723164513786,Braunschweig Mayoral Election Winner,2027-05-01T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 745570,hannover-mayoral-election-winner-20260723155039214,Hannover Mayoral Election Winner,2027-05-01T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
-745578,hannover-region-presidential-election-winner-20260722233938481,Hannover Region Presidential Election Winner,2027-05-01T03:59:00Z,incluido,
+745578,hannover-region-presidential-election-winner-20260722233938481,Hannover Region Presidential Election Winner,2027-05-01T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 478615,will-grard-larcher-be-reelected-as-president-of-the-french-senate,Will Gérard Larcher be reelected as President of the French Senate?,2027-06-01T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 627782,next-president-of-new-caledonia-20260623011924109,Next President of New Caledonia,2027-06-30T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
 680764,clacton-by-election-nigel-farage-vote-20260708151424120,Clacton by-election: Nigel Farage Vote %,2027-06-30T23:59:00Z,excluido,nao e mercado de vencedor de eleicao
-743448,chechnya-gubernatorial-election-winner-20260723194813568,Chechnya Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,sem historico de preco
-743464,mordovia-gubernatorial-election-winner-20260723202005979,Mordovia Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,sem historico de preco
-745548,tuva-gubernatorial-election-winner-20260724163413491,Tuva Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,sem historico de preco
-745549,ulyanovsk-oblast-gubernatorial-election-winner-20260724184856311,Ulyanovsk Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,sem historico de preco
-745551,bryansk-oblast-gubernatorial-election-winner-20260724163521978,Bryansk Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,sem historico de preco
-745552,penza-oblast-gubernatorial-election-winner-20260724181128197,Penza Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,sem historico de preco
-745553,tver-oblast-gubernatorial-election-winner-20260724175708806,Tver Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,sem historico de preco
-745569,belgorod-oblast-gubernatorial-election-winner-20260724164252589,Belgorod Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,sem historico de preco
-948294,holborn-and-st-pancras-by-election-winner,Holborn and St Pancras By-Election Winner,2027-07-01T03:59:00Z,incluido,
+743448,chechnya-gubernatorial-election-winner-20260723194813568,Chechnya Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,historico nao cobre a vespera
+743464,mordovia-gubernatorial-election-winner-20260723202005979,Mordovia Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,historico nao cobre a vespera
+745548,tuva-gubernatorial-election-winner-20260724163413491,Tuva Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,historico nao cobre a vespera
+745549,ulyanovsk-oblast-gubernatorial-election-winner-20260724184856311,Ulyanovsk Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,historico nao cobre a vespera
+745551,bryansk-oblast-gubernatorial-election-winner-20260724163521978,Bryansk Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,incluido,
+745552,penza-oblast-gubernatorial-election-winner-20260724181128197,Penza Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,historico nao cobre a vespera
+745553,tver-oblast-gubernatorial-election-winner-20260724175708806,Tver Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,excluido,historico nao cobre a vespera
+745569,belgorod-oblast-gubernatorial-election-winner-20260724164252589,Belgorod Oblast Gubernatorial Election Winner,2027-07-01T03:59:00Z,incluido,
+948294,holborn-and-st-pancras-by-election-winner,Holborn and St Pancras By-Election Winner,2027-07-01T03:59:00Z,excluido,"submercado, subnacional ou pergunta de outro tipo"
 989726,next-prime-minister-of-morocco-invested,Next Prime Minister of Morocco? (Invested),2027-07-31T23:59:00Z,incluido,
 761755,ingushetia-parliament-election-party-winner,Ingushetia Parliament Election: Party Winner,2027-08-01T03:59:00Z,excluido,nao e mercado de vencedor de eleicao
 761760,karelia-parliament-election-party-winner,Karelia Parliament Election: Party Winner,2027-08-01T03:59:00Z,excluido,nao e mercado de vencedor de eleicao

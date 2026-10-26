@@ -1,0 +1,607 @@
+{{AP|Elecciones presidenciales de Uruguay de 2019}}
+== Primera vuelta ==
+{{gráfico|width=800|height=300|xAxisTitle=Fecha|yAxisTitle=Porcentaje|legend=|type=line
+|interpolate=basis
+|xType=date
+|xAxisMax=1570068000000
+|yAxisMin=0
+|x=         2017/04/01, 2018/02/01, 2018/07/01, 2018/08/01, 2018/08/04, 2018/08/07, 2018/10/01, 2018/11/01, 2018/11/02, 2018/11/03, 2018/12/01, 2018/12/02, 2018/12/03, 2019/01/01, 2019/02/01, 2019/02/10, 2019/02/20, 2019/03/01, 2019/03/02, 2019/03/03, 2019/03/07, 2019/04/01, 2019/04/07, 2019/05/01, 2019/05/05, 2019/05/09, 2019/05/13, 2019/05/27, 2019/06/20, 2019/07/04, 2019/08/07, 2019/08/12, 2019/08/13, 2019/08/14, 2019/08/21, 2019/09/04, 2019/09/17, 2019/09/25, 2019/10/02, 2019/10/11, 2019/10/21
+|y1Title=FA |y1= 31,33,28,27,30,34,36,32,34,31,30,26,33,37,38,34,42,33,40,28,40,34,38,28,30,30,36,27,25,36,27,33,37,37,30,29,40,30,39,33,38
+|y2Title=PN |y2= 30,28,31,26,30,30,31,26,30,27,34,27,27,28,30,27,18,31,26,28,29,28,25,28,29,32,25,30,30,23,23,25,22,26,26,24,22,23,22,25,27
+|y3Title=PC |y3= 6,7,9,4,8,12,9,13,16,10,11,12,12,13,16,14,9,12,14,14,16,17,13,12,14,13,13,9,13,19,19,22,20,19,16,15,17,12,17,10,11
+|y4Title=CA |y4= ,,,,,,,,,,,,,,,,,,,0,,,5,2,4,1,6,7,6,10,10,5,9,9,8,12,10,12,12,12,10
+|y5Title=PG |y5= 9,2,8,3,6,7,5,4,7,3,1,5,4,3,5,3,3,1,3,2,4,1,1,3,0,1,1,1,1,.4,2,0,.6,2,1,2,1,2,1,1,1
+|y6Title=PI |y6= 4,2,4,4,2,6,6,3,6,3,2,5,3,2,4,2,6,1,2,4,4,2,2,2,2,1,1,3,1,1,1,1,1,2,0,2,1,1,1,1,1,2
+|colors=#0E4477,#78C7FF,#BB0000,#F6BB19,#71B94D,#8147AD
+}}
+{| class="wikitable"
+! rowspan="2" | Encuesta
+! rowspan="2" | Fecha
+![[Archivo:Bandera FA.png|border|30px]]<br>{{abreviatura|FA|Frente Amplio}}
+![[Archivo:Flag of the National Party (Uruguay).svg|30px]]<br>{{abreviatura|PN|Partido Nacional}}
+![[Archivo:Flag of Colorado Party (Uruguay).svg|30px]]<br>{{abreviatura|PC|Partido Colorado}}
+![[Archivo:Partido cabildo abierto 270x180 flag version.jpg|30px]]<br>{{abreviatura|CA|Cabildo Abierto}}
+![[Archivo:Bandera Partido de la Gente.png|30px]]<br>{{abreviatura|PG|Partido de la Gente (Uruguay)}}
+![[Archivo:Bandera Partido Independiente.png|30px]]<br>{{abreviatura|PI|Partido Independiente}}
+! rowspan="2" | Otros
+|-
+! style="background-color:#0E4477" |
+! style="background-color:#78C7FF" |
+! style="background-color:#BB0000" |
+! style="background-color:#F6BB19" |
+! style="background-color:#71B94D" |
+! style="background-color:#640999" |
+|-
+| Factum<ref>{{Cita web|url=http://factum.uy/encuestas/2017/enc170427.php|título=Factum Digital - Uruguay|fechaacceso=12 de julio de 2018|sitioweb=www.factum.uy|idioma=es|urlarchivo=https://web.archive.org/web/20180712215717/http://factum.uy/encuestas/2017/enc170427.php|fechaarchivo=12 de julio de 2018}}</ref>
+|Abril de 2017
+| 31% || 30% || 6% || -% || 9% || 4% || UP y otros: 2%. En blanco/anulado: 18%.
+|-
+| Radar<ref>{{cita web|url=http://www.gruporadar.com.uy/01/?p=2146 |título=Radar: FA supera al PN por cinco puntos |fecha=8 de febrero de 2018}}</ref>|| Febrero de 2018
+| 33% || 28% || 7% || -% || 2% || 2% || Otros: 3%. En blanco/anulado: 11%. Ns/Ns: 13%.
+|-
+| Opción Consultores<ref>{{cita web|url=https://www.elobservador.com.uy/elecciones-el-partido-nacional-es-el-que-tiene-mayor-aprobacion-segun-encuesta-opcion-n1254155 |título=Opción consultores: PN con mayores chances |fecha=12 de julio de 2018 |sitioweb=El Observador}}</ref>|| Julio de 2018
+| 28% || 31% || 9% || -% || 8% || 4% || UP y otros: 2%. En blanco/anulado: 8%. Ns/Nc: 10%.
+|-
+| Cifra<ref>{{cita web|url=http://www.2019.com.uy/cifra-lideran-los-indecisos-nsnc-blanco-35-fa-27-pn-26-pc-pi-4-3-pgente/ |título=Cifra: lideran los indecisos, NS/NC y en blanco |fecha=8 de agosto de 2018}}</ref>|| Agosto de 2018
+| 27% || 26% || 4% || -% || 3% || 4% || UP y otros: 1%. En blanco/anulado + Ns/Nc:: 35%.
+|-
+| Radar<ref>{{cita web|url=http://www.gruporadar.com.uy/01/?p=2258 |título=Radar: encuesta de agosto de 2018 |fecha=23 de agosto de 2018}}</ref>|| Agosto de 2018
+| 30% || 30% || 8% || -% || 6% || 2% || UP y otros: 3%. En blanco/anulado: 11%. Ns/Nc:: 10%.
+|-
+| Factum<ref>{{cita web |url=http://factum.uy/analisis/2018/ana180910.php |título=Encuesta 3er trimestre 2018 |fecha=10 de septiembre de 2018 |fechaacceso=10 de octubre de 2018 |urlarchivo=https://web.archive.org/web/20181010174440/http://factum.uy/analisis/2018/ana180910.php |fechaarchivo=10 de octubre de 2018 }}</ref>|| Agosto de 2018
+| 34% || 30% || 12% || -% || 7% || 6% || UP: 2%. En blanco/anulado: 9%.
+|-
+| Cifra<ref>{{cita web|url=http://www.cifra.com.uy/index.php/2018/10/09/intencion-de-voto-si-las-elecciones-fueran-hoy-5/ |título=Intención de votos "si las elecciones fueran hoy"|fecha=9 de octubre de 2018}}</ref>|| Octubre de 2018
+| 36% || 31% || 9% || -% || 5% || 6% || UP y otros: 3%. En blanco/anulado: 10%.
+|-
+| Radar<ref>{{cita web|url=http://www.gruporadar.com.uy/01/?p=2343 |título=Radar: Vuelve a crecer el FA, y Martínez supera a Lacalle por 9 puntos. Crece fuertemente el PC. |fecha=14 de noviembre de 2018}}</ref>|| Noviembre de 2018
+| 32% || 26% || 13% || -% || 4% || 3% || Otros: 2%. En blanco/anulado: 10%. Ns/Nc:: 10%.
+|-
+| Factum<ref>{{cita web|url=https://www.elobservador.com.uy/nota/colorados-duplican-su-intencion-de-voto-en-ultimo-semestre-tras-retorno-de-sanguinetti--2018112718521 |título=Encuesta 4to trimestre 2018 |fecha=27 de noviembre de 2018 |sitioweb=El Observador}}</ref>|| Noviembre de 2018
+| 34% || 30% || 16% || -% || 7% || 6% || UP: 2%. En blanco/anulado: 5%.
+|-
+|Cifra<ref name="dup-0">{{Cita web|url=http://www.elpais.com.uy/informacion/politica/colorados-crecen-intencion-voto-fa-sigue-liderando.html|título=El Partido Colorado es el que más crece en intención de voto; el Frente sigue liderando|fechaacceso=6 de marzo de 2019|sitioweb=Diario EL PAIS Uruguay|idioma=español}}</ref>
+|Noviembre de 2018
+|31% || 27% || 10% || -% || 3% || 3% || UP: 1%, PERI: 1%, Ns/Nc, En blanco, anulados: 25%
+|-
+| Equipos<ref>{{cita web|url=https://www.elpais.com.uy/informacion/politica/encuesta-fa-cierra-abajo-blancos.html |título=Encuesta diciembre de 2018 |fecha=19 de diciembre de 2018}}</ref>|| Diciembre de 2018
+| 30% || 34% || 11% || -% || 1% || 2% || UP: 1%. Otros: 1%. En blanco/anulado: 7%. Ns/Nc:: 13%.
+|-
+|Opción Consultores<ref>{{Cita web|url=https://www.subrayado.com.uy/partido-nacional-supera-al-frente-amplio-segun-la-ultima-encuesta-opcion-consultores-n521887|título=Partido Nacional supera al Frente Amplio, según la última encuesta de Opción Consultores|fechaacceso=20 de diciembre de 2018|sitioweb=subrayado.com.uy|idioma=es-ES}}</ref>
+|Diciembre de 2018
+|26% || 27% || 12% || -% || 5% || 5% || UP: 2%. En blanco/anulado: 11%. Ns/Nc:: 12%
+|-
+|Radar<ref>{{Cita web|url=http://www.elpais.com.uy/informacion/politica/radar-fa-intencion-voto-cinco-puntos-partido-nacional.html|título=Para Radar, el FA está primero en intención de voto y a cinco puntos del Partido Nacional|fechaacceso=20 de diciembre de 2018|sitioweb=Diario EL PAIS Uruguay|idioma=español}}</ref>
+|Diciembre de 2018
+|33% || 27% || 12% || -% || 4% || 3% || PERI: 2%, UP: 1%. En blanco/anulados: 9%,Ns/Nc: : 9%
+|-
+|Radar<ref name="dup-1">{{Cita web|url=https://www.vtv.com.uy/noticias/encuesta-de-grupo-radar-crecio-la-intencion-de-voto-del-frente-amplio/|título=Encuesta de Grupo Radar: Creció la intención de voto del Frente Amplio {{!}} VTV Noticias|fechaacceso=13 de febrero de 2019|fecha=12 de febrero de 2019|sitioweb=VTV Uruguay|idioma=es}}</ref>
+|Ene-Feb de 2019
+|37% || 28% || 13% || -% || 3% || 2% || PERI:1%, UP:1% Otros: 1%, En blanco/anulados 7%, Ns/Nc: 7%
+|-
+|Factum<ref>{{Cita web|url=http://www.2019.com.uy/factum-fa-38-pn-30-pc-16-pgente-5-pi-4up-2/|título=Factum: FA 38%; PN 30%; PC 16%; PGente 5%, PI 4%,UP 2%|fechaacceso=26 de febrero de 2019|fecha=26 de febrero de 2019|sitioweb=2019.com.uy|idioma=es-ES}}</ref>
+|Febrero de 2019
+|38% || 30% || 16% || -% || 5% || 4% || UP: 2%, En blanco/anulados/ otros: 5 %
+|-
+|Cifra<ref name="dup-0" />
+|Febrero de 2019
+|34% || 27% || 14% || -% || 3% || 2% || Otros: 2%, Ns/Nc, En blanco/anulados: 18%
+|-
+|Equipos<ref>{{Cita web|url=https://www.elobservador.com.uy/nota/con-la-izquierda-en-crecimiento-encuesta-registra-empate-tecnico-entre-el-fa-y-blancos-2019319194632|título=Con la izquierda en crecimiento, encuesta registra empate técnico entre el FA y blancos|fechaacceso=19 de marzo de 2019 |sitioweb=El Observador}}</ref>
+|Marzo de 2019
+|33% || 31% || 12% || -% || 1% || 1% || UP: 1%, PERI: 1%, En blanco/anulados: 6%, Ns/Nc: 13%
+|-
+|Radar<ref name="dup-2">{{Cita web|url=https://www.vtv.com.uy/noticias/encuesta-de-grupo-radar-el-frente-amplio-crecio-y-el-partido-nacional-bajo-en-intencion-de-voto/|título=Encuesta de Grupo Radar: El Frente Amplio creció y el Partido Nacional bajó en intención de voto {{!}} VTV Noticias|fechaacceso=26 de marzo de 2019|fecha=26 de marzo de 2019|sitioweb=VTV Uruguay|idioma=es}}</ref>
+|28 de feb - 13 de mar
+|40% || 26% || 14% || -% || 3% || 2% || UP: 1% PERI: 1%, Otros: 1%, En blanco/anulados: 5%, Ns/Nc: 5%
+|-
+|Opción Consultores<ref>{{Cita web|url=https://www.elobservador.com.uy/nota/partido-nacional-y-frente-amplio-empatados-en-intencion-de-voto-segun-encuesta--2019327205937|título=Partido Nacional y Frente Amplio empatados en intención de voto, según encuesta|fechaacceso=28 de marzo de 2019 |sitioweb=El Observador}}</ref>
+|Marzo de 2019
+|28% || 28% || 14% || -% || 2% || 4% || UP+Otros: 2%, En blanco/anulados:9%, Ns/Nc: 14%
+|-
+|Factum<ref>{{Cita web|url=https://www.180.com.uy/articulo/78975_encuesta-de-factum-da-el-40-al-fa-29-al-pn-y-16-al-pc|título=Encuesta de Factum da el 40% al FA, 29% al PN, y 16% al PC|fechaacceso=10 de abril de 2019 |sitioweb=www.180.com.uy|idioma=es-UY}}</ref>
+|15 al 26 de marzo de 2019
+|40% || 29% || 16% || -% || 4% || 4% || UP: 1%, PERI: 1 %; Otros / En blanco / Anulados: 5%
+|-
+|Cifra<ref>{{Cita web|url=https://www.teledoce.com/telemundo/nacionales/si-las-elecciones-fueran-hoy-34-frente-amplio-28-partido-nacional-y-17-partido-colorado/|título=Si las elecciones fueran hoy: 34 % Frente Amplio, 28 % Partido Nacional y 17 % Partido Colorado|fechaacceso=9 de abril de 2019|sitioweb=Teledoce.com|idioma=es}}</ref>
+|Marzo / abril de 2019
+|34% || 28% || 17% || -% || 1% || 2% || UP: 1%, Otros: 2 %, Ns/Nc/ En blanco/anulados: 15%
+|-
+|Radar<ref>{{Cita web|url=http://www.gruporadar.com.uy/01/16-04-2019-difundido-en-vtv-noticias-manini-rios-irrumpe-con-fuerza-y-divide-aun-mas-la-oposicion-cae-el-fa-y-crecen-los-indecisos/|título=Manini Ríos irrumpe con fuerza y divide aun más la Oposición. Cae el FA y crecen los indecisos.|fechaacceso=17 de abril de 2019|sitioweb=Grupo Radar|idioma=es}}</ref>
+|Abril de 2019
+|38% || 25% || 13% || 5% || 1% || 2% || UP: 1%, PERI: 1%, PVA: 1%, Otros: 0%, En blanco/Anulados: 5%, Ns/Nc: 7%
+|-
+|Opción<ref>{{Cita web|url=http://radiouruguay.uy/segun-opcion-empatan-blancos-y-frenteamplistas/|título=Empatan blancos y frenteamplistas.|fechaacceso=8 de mayo de 2019|sitioweb=1050 AM|idioma=es}}</ref>
+|Mayo de 2019
+|28% || 28% || 12% || 2% || 3% || 2% || UP y otros: 1%, En blanco/Anulados: 8%, Ns/Nc: 16%
+|-
+|Cifra<ref>{{Cita web|url=https://www.teledoce.com/telemundo/nacionales/si-las-elecciones-fueran-hoy-un-30-votaria-al-frente-amplio-y-un-29-al-partido-nacional/|título=Si las elecciones fueran hoy, un 30 % votaría al Frente Amplio y un 29 % al Partido Nacional|fechaacceso=14 de mayo de 2019|sitioweb=Teledoce.com|idioma=es-AR}}</ref>
+|Mayo de 2019
+|30% || 29% || 14% || 4% || -% || 2% || Otros: 3 %, En blanco/ Ns/Nc: 8%
+|-
+|Equipos<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Partido-Nacional-supera-al-Frente-Amplio-en-intencion-de-voto-segun-encuesta-de-Equipos-uc718337|título=Partido Nacional supera al Frente Amplio en intención de voto, según encuesta de Equipos|fechaacceso=14 de mayo de 2019|sitioweb=Montevideo Portal|idioma=es}}</ref>
+|23 Abr - 9 de mayo de 2019
+|30% || 32% || 13% || 1% || 1% || 1% || PERI: 1%, UP: 1%, En blanco: 5%, Ns/Nc: 15%
+|-
+|Radar<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/El-FA-pierde-intencion-de-voto-pero-aun-supera-al-PN-segun-Radar-uc719261|título=El FA pierde intención de voto pero aún supera al PN, según Radar|fechaacceso=23 de mayo de 2019|sitioweb=Montevideo Portal|idioma=es}}</ref>
+|2 - 13 de mayo
+|36% || 25% || 13% || 6% || 1% || 1% || PERI: 2%, UP: 1%, PVA: 1%
+|-
+|Opción<ref>{{Cita web|url=https://especiales.elobservador.com.uy/monitor-de-encuestas-2019/#|título=Monitor de encuestas 2019|fechaacceso=6 de junio de 2019|sitioweb=especiales.elobservador.com.uy}}</ref>
+|13 de mayo - 27 de mayo de 2019
+|27%
+|30%
+|9%
+|7%
+|1%
+|3%
+|PERI: 1%, UP: 1%, En blanco/Anulados: 8%, Ns/Nc: 14%
+|-
+|Radar<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Encuesta-Radar-hay-menos-indecisos-y-crece-la-oposicion-mientras-el-FA-se-mantiene-uc721812|título=Encuesta Radar: hay menos indecisos y crece la oposición mientras el FA se mantiene|fechaacceso=19 de junio de 2019|sitioweb=Montevideo Portal|idioma=es}}</ref>
+|11 - 17 de junio de 2019
+|36%
+|29%
+|14%
+|7%
+|1%
+|1%
+|PERI: 1%, UP: 1%, PVA: 1%, En blanco/Anulados: 3%, Ns/Nc: 5%
+|-
+|Opción
+|7 - 17 de junio de 2019
+|32%
+|32%
+|15%
+|2%
+| -%
+|1%
+|Otros: 3 %, En blanco/ Ns/Nc: 15%
+|-
+|Cifra<ref>{{cita web |url=https://ladiaria.com.uy/articulo/2019/7/opcion-consultores-lacalle-pou-venceria-a-daniel-martinez-en-las-elecciones-nacionales/ |título=Encuesta días antes de las internas |fecha=10 de julio de 2019 |sitioweb=[[La Diaria]] }}</ref>
+|20 - 26 de junio de 2019
+|25%
+|30%
+|13%
+|6%
+|1%
+|1%
+|Otros: 8 %, En blanco/ Ns/Nc: 16%
+|-
+|Radar<ref>{{cita web |url=https://www.elobservador.com.uy/nota/los-resultados-de-la-primera-encuesta-de-intencion-de-voto-de-radar-tras-las-internas-2019716203313 |título=Primera encuesta después de las internas |fecha=16 de julio de 2019 |sitioweb=El Observador }}</ref>
+|4 - 10 de julio de 2019
+|35,5%
+|22,6%
+|19,5%
+|9,5%
+|0,4%
+|0,8%
+|Otros: 6 %, En blanco/ Ns/Nc: 5,4%
+|-
+|Opción Consultores<ref>{{Cita web|url=https://ladiaria.com.uy/articulo/2019/8/el-partido-colorado-se-posiciona-por-primera-vez-con-posibilidades-competitivas-de-cara-a-un-balotaje-segun-opcion/ |título=Partido Colorado se posiciona por primera vez con posibilidades competitivas de cara a un balotaje según Opción |fechaacceso=8 de agosto de 2019 |sitioweb=[[La Diaria]]}}</ref>
+|8 de agosto de 2019
+|27% || 23% || 19% || 10% || 2% || 1% || UP+Otros: 2%, En blanco/anulados:6%, Ns/Nc: 10%
+|-
+|Cifra<ref>{{Cita web|url=http://www.cifra.com.uy/index.php/2019/08/12/intencion-de-voto-en-las-elecciones-nacionales-11/|título=INTENCIÓN DE VOTO EN LAS ELECCIONES NACIONALES}}</ref>
+|12 de agosto de 2019
+|33%
+|25%
+|22%
+|5%
+| -%
+|1%
+|Otros: 2%, En blanco/ Ns/Nc: 12%
+|-
+|Radar<ref>{{Cita web|url=http://www.gruporadar.com.uy/01/13-08-2019-difundido-en-vtv-noticias-escenario-muy-competitivo-por-el-segundo-lugar-entre-lacalle-y-talvi-martinez-crece-dos-puntos-crecen-casi-todos-los-candidatos-menores/|título=Escenario muy competitivo entre Lacalle y Talvi. Martínez crece dos puntos. Crecen casi todos los candidatos «menores».}}</ref>
+|13 de agosto de 2019
+|37,3%
+|21,8%
+|20,4%
+|9,4%
+|0,6%
+|1,1%
+|UP: 1,5%, PERI: 1,1%, PVA: 0,8%, PD: 0,2%, PT: 0,2%, En blanco/Anulados: 2,3%, Ns/Nc: 3,3%
+|-
+|Factum<ref>{{Cita web|url=https://portal.factum.uy/encuestas/2019/enc190814.php|título=Encuesta Nacional Factum: Situación Política Actual (Julio/Agosto 2019)}}</ref>
+|14 de agosto de 2019
+|37%
+|26%
+|19%
+|9%
+|2%
+|2%
+|UP: 1%, PERI: 1%, PVA: 1%, Otros: 0%, En blanco/Anulados: 2% 
+|-
+|Equipos<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/La-ultima-encuesta-de-Equipos-muestra-estabilidad-en-la-intencion-de-voto-de-los-partidos-uc727700|título=La última encuesta de Equipos muestra estabilidad en la intención de voto de los partidos}}
+</ref>
+|21 de agosto de 2019
+|30%
+|26%
+|16%
+|8%
+|1%
+|1%
+|UP: 1%, PERI: 1%, Otros: 1%, En blanco/Anulados: 4%, Ns/Nc: 12%
+|-
+|Opción Consultores<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Encuesta-de-Opcion-crecieron-levemente-el-FA-y-el-PN-descendio-el-PC-uc728993|título=Encuesta de Opción: crecieron levemente el FA y el PN, descendió el PC}}
+</ref>
+|4 de septiembre de 2019
+|29%
+|24%
+|15%
+|12%
+|2%
+|2%
+|UP: 1%, PERI: 1%, En blanco/Anulados: 6%, Ns/Nc: 8%
+|-
+|Factum<ref>{{Cita web|url=https://portal.factum.uy/encuestas/2019/enc190911.php|título=Encuesta Nacional Factum: Situación Política Actual (Agosto/Setiembre 2019)}}</ref>
+|11 de septiembre de 2019
+|39%
+|26%
+|18%
+|8%
+|2%
+|2%
+|UP: 1%, PERI: 1%, PVA: 1%, Otros: 0%, En blanco/Anulados: 3%
+|-
+|Cifra<ref>{{Cita web|url=http://www.cifra.com.uy/index.php/2019/09/12/intencion-de-voto-en-las-elecciones-nacionales/|título=INTENCIÓN DE VOTO EN LAS ELECCIONES NACIONALES}}</ref>
+|12 de septiembre de 2019
+|33%
+|28%
+|18%
+|7%
+|1%
+|2%
+|UP: 2%, Otros: 1%, En blanco/ Ns/Nc: 8%
+|-
+|Radar<ref>{{Cita web|url=http://www.gruporadar.com.uy/01/17-09-2019-difundido-en-vtv-noticias-martinez-se-despega-y-llega-al-40-lacalle-se-mantiene-en-22-talvi-cae-a-17/|título=Martínez se despega y llega al 40%, Lacalle se mantiene en 22%, Talvi cae al 17%.}}</ref>
+|17 de septiembre de 2019
+|40,2%
+|22,4%
+|17,1%
+|10,3%
+|0,7%
+|1,3%
+|UP: 1,0%, PERI: 1,0%, PVA: 0,8%, PD: 0,2%, PT: 0,1%, En blanco/Anulados: 2,3%, Ns/Nc: 2,7%
+|-
+|Opción Consultores<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Encuesta-de-Opcion-el-FA-se-distancio-del-PN-y-Cabildo-Abierto-igualo-al-Partido-Colorado-uc730905|título=Encuesta de Opción: el FA se distanció del PN y Cabildo Abierto igualó al Partido Colorado}}</ref>
+|25 de septiembre de 2019
+|30%
+|23%
+|12%
+|12%
+|2%
+|1%
+|UP: 1%, PERI: 1%, En blanco/Anulados: 8%, Ns/Nc: 10%
+|-
+|Equipos<ref name="hiperestimulado">{{cita web |url=https://www.elobservador.com.uy/nota/martinez-crece-lacalle-pou-sigue-estable-y-talvi-baja-segun-equipos-2019926212841 |título=Martínez crece, Lacalle Pou estable, Talvi baja |fecha=26 de setiembre de 2019 |sitioweb=[[El Observador (Uruguay)|El Observador]]}}</ref>
+|26 de septiembre de 2019
+|34%
+|26%
+|12%
+|9%
+|1%
+|1%
+|UP: 1%, PERI: 1%, En blanco/Anulados: 4%, Ns/Nc: 11%
+|-
+|Radar<ref>{{Cita web|url=http://www.gruporadar.com.uy/01/02-10-2019-difundido-en-vtv-noticias-crece-manini-a-un-12-caen-martinez-lacalle-y-talvi-en-ese-orden/|título=Crece Manini a un 12%, caen Martínez, Lacalle y Talvi en ese orden.}}</ref>
+|2 de octubre de 2019
+|39,3%
+|21,6%
+|16,6%
+|12%
+|0,8%
+|1,1%
+|UP: 1,2%, PERI: 1,1%, PVA: 0,5%, PD: 0,4%, PT: 0,3%, En blanco/Anulados: 2,1%, Ns/Nc: 3%
+|-
+|Radar<ref>{{Cita web|url=http://www.gruporadar.com.uy/01/09-10-2019-difundido-en-vtv-noticias-crecen-el-fa-y-el-pn-talvi-y-manini-caen-levemente-43-votaria-a-favor-de-la-reforma-constitucional/|título=Crecen el FA y el PN. Talvi y Manini caen levemente. 43% votaría a favor de la reforma constitucional.}}</ref>
+|10 de octubre de 2019
+|41%
+|22,6%
+|16%
+|11,5%
+|0,7%
+|1%
+|PERI: 1,2%, UP: 0,9%, PVA: 0,8%, PD: 0,4%, PT: 0,1%, En blanco/Anulados: 1,7%, Ns/Nc: 2,2%
+|-
+|Factum<ref>{{Cita web|url=https://portal.factum.uy/encuestas/2019/enc191009.php|título=Encuesta Nacional FACTUM. Estimación de voto actual. Octubre 2019}}</ref>
+|10 de octubre de 2019
+|38%
+|27%
+|16%
+|10%
+|2%
+|2%
+|PERI: 2%, UP: 1%, PVA: 1%, Otros: 0%, En blanco/Anulados: 2%
+|-
+|Opción Consultores<ref>{{Cita web|url=http://www.opcion.com.uy/opinion-publica/intencion-de-voto-octubre-2019/|título=Intención de Voto Octubre 2019}}</ref>
+|11 de octubre de 2019
+|33%
+|25%
+|10%
+|12%
+| ---
+|1%
+|PERI: 2%, Otros: 1,3%, En blanco/Anulados: 7% Ns/Nc: 9%
+|-
+|Cifra<ref>{{Cita web|url=http://www.cifra.com.uy/index.php/2019/10/21/intencion-de-voto-en-las-elecciones-nacionales-2/|título=INTENCIÓN DE VOTO EN LAS ELECCIONES NACIONALES}}</ref>
+|21 de octubre de 2019
+|38%
+|27%
+|11%
+|10%
+|1%
+|2%
+|UP: 1%, PERI: 1%, Otros: 1%, En blanco/ Ns/Nc: 8%
+|-
+|Factum<ref>{{Cita web|url=https://portal.factum.uy/encuestas/2019/enc191023.php|título=Estimación de voto por partido al 20 de octubre de 2019}}</ref>
+|23 de octubre de 2019
+|40%
+|28%
+|13%
+|11%
+|1%
+|2%
+|PERI: 2%, UP: 1%, PVA: 1%, Otros: 0%, En blanco/Anulados: 2%
+|-
+|Radar<ref>{{Cita web|url=http://www.gruporadar.com.uy/01/24-10-2019-difundido-en-vtv-noticias-el-fa-llega-al-43-y-se-polariza-algo-mas-la-eleccion-del-domingo-con-el-pn-la-reforma-constitucional-en-duda/|título=El FA llega al 43% y se polariza algo más la elección del domingo con el PN- La Reforma Constitucional en duda.}}</ref>
+|24 de octubre de 2019
+|43%
+|24,2%
+|15,5%
+|9,4%
+|0,7%
+|1%
+|PERI: 1,2%, UP: 0,8%, PVA: 0,8%, PD: 0,3%, PT: 0,1%, En blanco/Anulados: 1,5%, Ns/Nc: 1,5%
+|-
+|Equipos<ref>{{Cita web|url=http://equipos.com.uy/encuesta-y-proyeccion-equipos-daniel-martinez-y-lacalle-pou-a-segunda-vuelta/|título=Intención de voto y proyección Equipos Consultores – octubre 2019}}</ref>
+|24 de octubre de 2019
+|36%
+|25,7%
+|10,3%
+|8,4%
+|0,7%
+|1,2%
+|UP: 1,5%, PERI: 0,9%, Otros: 0,3%, En blanco/Anulados: 3,3%, Ns/Nc: 11,7%
+|-
+|}
+
+* (Referencias: FA: Frente Amplio / PN: Partido Nacional / PC: Partido Colorado / PG: Partido de la Gente / PI: Partido Independiente / UP: Unidad Popular / PERI: Partido Ecologista Radical Intransigente / PVA: Partido Verde Animalista / CA: Cabildo Abierto / PD: Partido Digital / PT: Partido de los trabajadores / Ns/Nc: No sabe - No contesta.)
+
+== Segunda vuelta ==
+=== Escenarios hipotéticos ===
+{| class="wikitable"
+|+
+Encuestas previas a las internas
+! rowspan="2" | Encuesta
+! rowspan="2" | Fecha
+! colspan="2" | Primer escenario
+! colspan="2" |Segundo escenario
+! colspan="2" |Tercer escenario
+! colspan="2" |Cuarto escenario
+!Otros
+|-
+!Martínez
+!Lacalle Pou
+!Martínez
+!Sanguinetti
+!Martínez
+!Sartori
+!Cosse
+!Lacalle Pou
+! style="background-color:gray" |----
+|-style=background-color:Red"|Sanguinetti
+|Radar<ref name="dup-1" />
+|Diciembre de 2018
+|41%
+|40%
+|41%
+|42%
+|
+|
+|
+|
+|En blanco/anulado: 11%, Ns/ Nc: 8%
+|-
+|Radar<ref name="dup-1" />
+|Ene- Feb de 2019
+|43%
+|43%
+|43%
+|41%
+|
+|
+|
+|
+|En blanco/anulado: 10%, Ns/ Nc: 5%
+|-
+|Radar<ref name="dup-2" />
+|28 de feb - 13 de mar
+|46%
+|41%
+|45%
+|43%
+|
+|
+|
+|
+|Martínez - Lacalle Pou: En blanco/anulado: 9%, Ns/Nc:4%
+Martínez - Sanguinetti: En blanco/anulado: 8%, Ns/Nc:4%
+|-
+|Radar<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Martinez-le-ganaria-a-Lacalle-Pou-por-un-1--en-balotaje-segun-encuesta-de-Radar-uc716893|título=Martínez le ganaría a Lacalle Pou por un 1 % en balotaje, según encuesta de Radar|fechaacceso=30 de abril de 2019|sitioweb=Montevideo Portal|idioma=es}}</ref>
+|Abril de 2019
+|43%
+|42%
+|43%
+|41%
+|44%
+|36%
+|41%
+|43%
+|Martínez - Lacalle Pou: En blanco/anulado: 10%, Ns/Nc: 6 %
+Martínez-Sartori: En blanco/anulado:12%,Ns/Nc: 8%
+|-
+|}
+{| class="wikitable"
+|+Encuestas posteriores a las internas
+! rowspan="2" |Encuesta
+! rowspan="2" |Fecha
+! colspan="2" |Primer Escenario
+! colspan="2" |Segundo Escenario
+!Otros
+|-
+|'''Martinez'''
+|'''Lacalle Pou'''
+|'''Martinez'''
+|'''Talvi'''
+!----
+|-
+|Radar<ref>{{Cita web|url=http://www.gruporadar.com.uy/01/23-07-2019-difundido-en-vtv-noticias-escenarios-de-balotaje-hoy-ganaria-la-oposicion-talvi-ganaria-con-mayor-diferencia-que-lacalle-solo-38-votaria-hoy-a-favor-de-la-reforma-constitucional/|título=Escenarios de balotaje: hoy ganaría la Oposición.}}</ref>
+|24 de julio de 2019
+|42%
+!style="background-color:#78C7FF"|48%
+|39%
+!style="background-color:#E60026"|49%
+|Martínez - Lacalle Pou: En blanco/anulado/Ns/Nc:10%
+
+Martínez - Talvi: En blanco/anulado/Ns/Nc:12%
+|-
+|Opción<ref>{{Cita web|url=http://www.opcion.com.uy/opinion-publica/escenarios-de-balotaje/|título=Escenarios de Balotaje}}</ref>
+|14 de agosto de 2019
+|39%
+!style="background-color:#78C7FF"|51%
+|39%
+!style="background-color:#E60026"|48%
+|Martínez - Lacalle Pou: En blanco/anulado/Ns/Nc:10%
+
+Martínez - Talvi: En blanco/anulado/Ns/Nc:13%
+|-
+|Radar<ref name=":0">{{Cita web|url=http://www.gruporadar.com.uy/01/26-08-2019-difundido-en-vtv-noticias-escenarios-de-balotaje-hoy-ganaria-la-oposicion-aunque-con-menor-margen-que-en-julio-talvi-ganaria-con-diferencia-levemente-mayor-que-lacalle/|título=Escenarios de balotaje: hoy ganaría la Oposición, aunque con menor margen que en julio.}}</ref>
+|26 de agosto de 2019
+|44%
+!style="background-color:#78C7FF"|47%
+|41%
+!style="background-color:#E60026"|47%
+|Martínez - Lacalle Pou: En blanco/anulado/Ns/Nc:8%
+
+Martínez - Talvi: En blanco/anulado/Ns/Nc:12%
+|-
+|Opción<ref>{{Cita web|url=http://www.opcion.com.uy/opinion-publica/escenarios-de-balotaje-2/|título=Escenarios de Balotaje}}</ref>
+|11 de septiembre de 2019
+|41%
+!style="background-color:#78C7FF"|49%
+|40%
+!style="background-color:#E60026"|47%
+|Martínez - Lacalle Pou: En blanco/anulado/Ns/Nc:11%
+
+Martínez - Talvi: En blanco/anulado/Ns/Nc:14%
+|-
+|Opción<ref>{{Cita web|url=http://www.opcion.com.uy/opinion-publica/escenarios-de-balotaje-setiembre-2019/|título=Escenarios de Balotaje Setiembre 2019}}</ref>
+|3 de octubre de 2019
+|41%
+!style="background-color:#78C7FF"|49%
+|40%
+!style="background-color:#E60026"|46%
+|Martínez - Lacalle Pou: En blanco/anulado/Ns/Nc:10%
+
+Martínez - Talvi: En blanco/anulado/Ns/Nc:14%
+|-
+|Opción<ref>{{Cita web|url=http://www.opcion.com.uy/opinion-publica/escenarios-de-balotaje-octubre-2019/|título=Escenarios de Balotaje Octubre 2019}}</ref>
+|16 de octubre de 2019
+|42%
+!style="background-color:#78C7FF"|47%
+| --
+!--
+|Martínez - Lacalle Pou: En blanco/anulado/Ns/Nc:11%
+|}
+
+
+
+== Segunda vuelta (2.ª parte) ==
+=== Encuestas de cara al balotaje ===
+{| class="wikitable"
+! rowspan="3" |Encuesta
+! rowspan="3" | Fecha
+![[Daniel Martínez Villamil|Daniel Martínez]]
+![[Luis Alberto Lacalle Pou]]
+!NS/NR/NN
+|-
+! style="background-color:#FECC00" |
+! style="background-color:#80BFFF" |
+! style="background-color:gray" |
+|-
+!
+!
+!
+|- valign="top"
+| rowspan="1" |Equipos Consultores<ref>[https://www.elobservador.com.uy/nota/equipos-publico-la-primera-encuesta-para-el-balotaje-y-confirma-a-lacalle-pou-como-favorito-201911520628 Equipos: Lacalle Pou favorito para noviembre]</ref>
+| rowspan="1" |5 de noviembre de 2019
+| align="center" |42,0%
+| style="background-color:#80BFFF" align="center" |47,0%
+| align="center" |11,0%
+|-
+|Opción<ref>{{Cita web|url=http://www.opcion.com.uy/opinion-publica/intencion-de-voto-balotaje/|título=Intención de Voto – Balotaje}}</ref>
+| rowspan="1" |12 de noviembre de 2019
+| align="center" |42,0%
+| style="background-color:#80BFFF" align="center" |47,0%
+| align="center" |11,0%
+|-
+|Radar<ref>{{Cita web|url=https://www.elobservador.com.uy/nota/radar-presento-su-nueva-encuesta-para-el-balotaje-mira-los-resultados-20191112191720 |título=Nueva encuesta de Radar para el balotaje}}</ref>
+| rowspan="1" |12 de noviembre de 2019
+| align="center" |42,5%
+| style="background-color:#80BFFF" align="center" |49,6%
+| align="center" |7,9%
+|-
+|Equipos Consultores<ref>{{Cita web|url=https://equipos.com.uy/segunda-semana-lacalle-pou-48-daniel-martinez-42/ |título=SEGUNDA SEMANA: LACALLE POU 48%, DANIEL MARTÍNEZ 42% }}</ref>
+| rowspan="1" |12 de noviembre de 2019
+| align="center" |42,0%
+| style="background-color:#80BFFF" align="center" |48,0%
+| align="center" |10,0%
+|-
+|Cifra<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Ultima-encuesta-de-Cifra-ubica-a-Lacalle-Pou-por-encima-de-Daniel-Martinez-uc736137/ |título=Última encuesta de Cifra ubica a Lacalle Pou por encima de Daniel Martínez }}</ref>
+| rowspan="1" |18 de noviembre de 2019
+| align="center" |42,0%
+| style="background-color:#80BFFF" align="center" |47,0%
+| align="center" |11,0%
+|-
+|Factum<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Factum-Lacalle-superaria-el-50-y-aventajaria-por-ocho-puntos-a-Martinez-en-el-balotaje-uc736247 |título=Factum: Lacalle superaría el 50% y aventajaría por ocho puntos a Martínez en el balotaje }}</ref>
+| rowspan="1" |19 de noviembre de 2019
+| align="center" |43,0%
+| style="background-color:#80BFFF" align="center" |51,0%
+| align="center" |6,0%
+|-
+|Metrocall<ref>{{Cita web|url=https://www.elpais.com.uy/informacion/politica/nuevo-sondeo-metrocall-da-lacalle-ventaja-martinez-balotaje.html |título=Metrocall: Lacalle obtendría el 52% y aventajaría por once puntos a Martínez en el balotaje }}</ref>
+| rowspan="1" |21 de noviembre de 2019
+| align="center" |41,0%
+| style="background-color:#80BFFF" align="center" |52,0%
+| align="center" |7,0%
+|-
+|Radar<ref>{{Cita web|url=https://www.montevideo.com.uy/Noticias/Encuesta-Radar-ventaja-de-Lacalle-Pou-sobre-Martinez-supera-el-porcentaje-de-indecisos-uc736479 |título=Encuesta Radar: ventaja de Lacalle Pou sobre Martínez supera el porcentaje de indecisos }}</ref>
+| rowspan="1" |21 de noviembre de 2019
+| align="center" |44,3%
+| style="background-color:#80BFFF" align="center" |49,9%
+| align="center" |5,8%
+|-
+|Cifra<ref>{{Cita web|url=https://www.elobservador.com.uy/nota/encuesta-de-cifra-reafirma-ventaja-de-lacalle-pou-sobre-martinez-2019112120620 |título=Este artículo lo puede ver en este link: https://www.elobservador.com.uy/nota/encuesta-de-cifra-reafirma-ventaja-de-lacalle-pou-sobre-martinez-2019112120620}}</ref>
+| rowspan="1" |21 de noviembre de 2019
+| align="center" |44,5%
+| style="background-color:#80BFFF" align="center" |51,5%
+| align="center" |4,0%
+|-
+|Opción<ref>{{Cita web|url=https://www.elobservador.com.uy/nota/los-resultados-de-la-ultima-encuesta-de-opcion-para-el-balotaje-20191121201036 |título=Los resultados de la última encuesta de Opción para el balotaje}}</ref>
+| rowspan="1" |21 de noviembre de 2019
+| align="center" |44,0%
+| style="background-color:#80BFFF" align="center" |51,0%
+| align="center" |5,0%
+|}
+
+== Véase también ==
+
+* [[Anexo:Encuestas de intención de voto para las elecciones generales de Uruguay de 2024]]
+
+==Referencias ==
+{{listaref|3}}
+{{Control de autoridades}}
+[[Categoría:Anexos:Elecciones en Uruguay]]
+[[Categoría:Encuestas en Uruguay]]
+[[Categoría:Encuestas en 2019]]
+[[Categoría:Elecciones de Uruguay de 2019|Anexo]]

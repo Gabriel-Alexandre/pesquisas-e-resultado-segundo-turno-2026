@@ -86,6 +86,20 @@ def main() -> None:
         (100 - float(r["flavio_valido_publicado"]) if r["flavio_valido_publicado"] else 100 * float(r["lula_total"]) / (float(r["lula_total"]) + float(r["flavio_total"])))
         < 100 * v2["13"] / vv2 for r in linhas if r["casou"] == "True" and r["conferida"] == "True")), float(R["pesquisas"]["nenhuma_chegou_na_urna"]), 0)
     conf("Laplace: 1 em 9", 1 / 9, R["probabilidade"]["historico_laplace"])
+    # rodada 2: refeitos sem o código da análise
+    erros = list(csv.DictReader(open(RAIZ / "resultados" / "erro_media_pesquisas_todos.csv", encoding="utf-8")))
+    frente = R["probabilidade_v2"]["frente_flavio_pesquisas"]
+    conf("segundos turnos com erro a favor do líder maior que a frente do Flávio", sum(float(e["superestimou_lider"]) > frente for e in erros),
+         R["probabilidade_v2"]["pesquisas"]["casos_com_erro_maior"], 0)
+    cres = list(csv.DictReader(open(RAIZ / "resultados" / "crescimento_pelos_padroes_passados.csv", encoding="utf-8")))
+    conf("padrões passados em que o Lula venceria", sum(float(c["lula_pct"]) > 50 for c in cres), R["probabilidade_v2"]["crescimento"]["lula_venceria_em"], 0)
+    W, pil = R["probabilidade_v2"]["pesos"], R["probabilidade_v2"]["pilares"]
+    conf("chance combinada (soma dos pilares pelos pesos)", sum(W[k] * pil[k] for k in W), R["probabilidade_v2"]["combinada"])
+    import pandas as pd
+    v = pd.read_parquet(RAIZ / "dados" / "copias" / "previsao-segundo-turno-2026" / "mun_votos.parquet")
+    a6 = v[(v.ano == 2006) & ~v.uf.isin(["ZZ", "VT"])]
+    alck = a6[a6.partido == 45].groupby("turno").votos.sum()
+    checks.append(("Alckmin teve menos votos no 2º turno de 2006 que no 1º", f"{int(alck[1])} e {int(alck[2])}", "precedente de troca direta", bool(alck[2] < alck[1])))
     out = RAIZ / "resultados" / "validacao_independente.csv"
     with open(out, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
