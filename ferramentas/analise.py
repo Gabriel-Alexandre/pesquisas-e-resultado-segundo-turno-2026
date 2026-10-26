@@ -110,7 +110,9 @@ def main() -> None:
     rp = DERIV / "runoffs_conferidos.csv"
     if rp.exists():
         ri = pd.read_csv(rp)
-        ri = ri[ri.conferida & (ri.pais != "Brasil")]
+        # fora: 2º turnos anulados depois de acontecer (Sérvia, setembro de 1997 e setembro de 2002)
+        anulados = ri.url_wikipedia.str.contains("1997_Serbian_general_election|September%E2%80%93October_2002", regex=True)
+        ri = ri[ri.conferida & (ri.pais != "Brasil") & ~anulados]
         casos = pd.concat([casos, pd.DataFrame({"frente_1t": ri.lider_1t_pct - ri.segundo_1t_pct, "lider_1t_pct": ri.lider_1t_pct,
                                                 "virada": ri.virada, "grupo": "presidente, outros países", "pais": ri.pais, "ano": ri.ano})])
     casos.to_csv(RES / "viradas_casos.csv", index=False)

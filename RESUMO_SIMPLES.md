@@ -7,7 +7,7 @@
 | Pilar | Peso (o do vídeo 14) | Chance do Lula | De onde vem |
 |---|---|---|---|
 | Pesquisas | 60% | 38% | em 30 de 80 segundos turnos passados, as pesquisas erraram a favor do líder por mais do que a frente do Flávio |
-| Histórico de viradas | 25% | 47% | com frente parecida com a do Flávio, o líder do 1º turno perdeu 8 de 17 vezes |
+| Histórico de viradas | 25% | 47% | com frente parecida com a do Flávio, o líder do 1º turno perdeu 23 de 49 vezes |
 | Crescimento | 15% | 33% | com os votos livres indo como em cada eleição de 2002 a 2022, o Lula venceria em 2 de 6 |
 | **Junto** | | **39%** | |
 

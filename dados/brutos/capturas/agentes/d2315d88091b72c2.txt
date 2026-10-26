@@ -1,0 +1,1889 @@
+{{short description|none}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox election
+| country = Peru
+| flag_year = state
+| module = {{Infobox election
+| embed              = yes
+| election_name      = Presidential election
+| type               = Presidential
+| previous_election  = 2021 Peruvian general election
+| previous_year      = 2021
+| next_election      = 2031 Peruvian general election
+| next_year          = ''2031''
+| registered         = 27,325,432
+| turnout            = 73.81% (first round) {{increase}} 3.76[[Percentage point|pp]]<br />72.03% (second round) {{decrease}} 2.54[[Percentage point|pp]]
+| opinion_polls      = Opinion polling for the 2026 Peruvian general election
+| election_date      = 12–13 April 2026 (first round)<br />7 June 2026 (second round)
+| image1             = {{CSS image crop|Image = Pdta. Keiko Fujimori (3x4 cropped).jpg |bSize = 135 |cWidth = 115 |cHeight = 150|oTop = 2|oLeft = 10}}
+| candidate1         = '''[[Keiko Fujimori]]'''
+| party1             = Popular Force 
+| running_mate1      = '''[[Luis Galarreta]]<br />[[Miki Torres]]'''
+| popular_vote1      = '''9,223,396'''
+| percentage1        = '''50.13%'''
+| image2             = {{CSS image crop|Image = Congresista Roberto S. Palomino.jpg|thumb|Roberto Sánchez Palomino|bSize = 175 |cWidth = 115 |cHeight = 150|oTop = 10|oLeft = 30}}
+| candidate2         = [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]
+| party2             =Together for Peru
+| running_mate2      = [[Analí Márquez]]<br />[[Brígida Curo]]
+| popular_vote2      = 9,173,755
+| percentage2        = 49.87%
+| title              = President 
+| before_election    = [[José María Balcázar]]
+| before_party       = Independent politician
+| after_election     = [[Keiko Fujimori]]
+| after_party        = Popular Force
+| map                = {{Switcher
+ | [[File:Mapa Distrital Elecciones Perú 2026 1V.svg|320px]]|First round results by districts
+ | [[File:Mapa Distrital Elecciones Perú 2026 2V.svg|320px]]|Second round results by districts
+ | default = 2
+ }}
+| map_size           = 
+| map_caption        = 
+| module             = {{Infobox legislative election
+| embed              = yes
+| election_date      = 12–13 April 2026
+| election_name      = Senate
+| first_election     = yes
+| seats_for_election = All 60 seats in the [[Senate of Peru|Senate]]
+| majority_seats     = 31
+| previous_election  = [[1990 Peruvian general election|1990]]{{efn|The Senate was abolished in 1993 and restored in 2026}}
+| next_election      = ''2031''
+| leader1            = Keiko Fujimori
+| party1             = Popular Force
+| percentage1        = 15.06
+| seats1             = 22
+| leader2            = Roberto Sánchez
+| party2             = Together for Peru
+| percentage2        = 12.23
+| seats2             = 14
+| leader3            = [[Rafael López Aliaga]]
+| party3             = Popular Renewal
+| percentage3        = 11.04
+| seats3             = 8
+| leader4            = [[Jorge Nieto]]
+| party4             = Party of Good Government
+| percentage4        = 10.48
+| seats4             = 7
+| leader5            = [[Ricardo Belmont]]
+| party5             = Civic Party OBRAS
+| percentage5        = 8.84
+| seats5             = 5
+| leader6            = [[Alfonso López-Chau]]
+| party6             = Ahora Nación
+| percentage6        = 8.18
+| seats6             = 4
+| map                = 2026 Peruvian Senate election - Results.svg
+| map_caption        = Result by departments
+| module             = {{Infobox legislative election
+| embed              = yes
+| election_date      = 12–13 April 2026
+| election_name      = Chamber of Deputies
+| seats_for_election = All 130 seats in the [[Chamber of Deputies (Peru)|Chamber of Deputies]]
+| previous_election  = [[2021 Peruvian general election|2021]]
+| next_election      = ''2031''
+| majority_seats     = 66
+| leader1            = Keiko Fujimori
+| party1             = Popular Force
+| percentage1        = 14.66
+| last_election1     = 24
+| seats1             = 41
+| leader2            = Roberto Sánchez
+| party2             = Together for Peru
+| percentage2        = 10.77
+| last_election2     = 5
+| seats2             = 32
+| leader3            = Jorge Nieto
+| party3             = Party of Good Government
+| percentage3        = 10.47
+| last_election3     = New
+| seats3             = 18
+| leader4            = Rafael López Aliaga
+| party4             = Popular Renewal
+| percentage4        = 11.04
+| last_election4     = 13
+| seats4             = 15
+| leader5            = Ricardo Belmont
+| party5             = Civic Party OBRAS
+| percentage5        = 8.32
+| last_election5     = New
+| seats5             = 14
+| leader6            = Alfonso López-Chau
+| party6             = Ahora Nación
+| percentage6        = 8.49
+| last_election6     = New
+| seats6             = 10
+
+| map                = 2026 Peruvian parliamentary election - Results.svg
+| map_caption        = Result by departments
+}}}}}}
+}}
+{{Politics of Peru}}
+
+[[General elections]] were held in [[Peru]] from 12 to 13 April 2026 to elect the president, vice presidents, and the [[Congress of the Republic of Peru]]. As no presidential candidate achieved a majority of votes in the first round, a runoff election was held on 7 June.<ref name=":7" /><ref>{{Cite web |date=27 March 2025 |title=Deeply unpopular Peruvian president calls for general elections in April 2026 |url=https://apnews.com/article/peru-elections-declared-2026-president-boluarte-dabea7cd70b6288542317b080b99c8aa |access-date=27 March 2025 |website=AP NEWS |language=en |archive-date=27 March 2025 |archive-url=https://web.archive.org/web/20250327164022/https://apnews.com/article/peru-elections-declared-2026-president-boluarte-dabea7cd70b6288542317b080b99c8aa |url-status=live }}</ref> In the second round, the leader of the [[Popular Force]], [[Keiko Fujimori]], defeated [[Together for Peru]] nominee [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]. The congressional elections determined the composition of the Congress of Peru, which returned to being a [[bicameral]] legislature with a Senate (the first since the [[1990 Peruvian general election|1990 election]]) and a Chamber of Deputies.
+
+The elections come after proposals to hold them earlier due to the [[2022–2023 Peruvian protests]] were rejected.<ref>{{Cite web |date=20 December 2022 |title=Peru Congress opens door to early elections amid unrest |url=https://apnews.com/article/politics-peru-pedro-castillo-3728208344ba972f850f0de29e5b5802 |access-date=21 December 2022 |website=AP NEWS |language=en |archive-date=21 December 2022 |archive-url=https://web.archive.org/web/20221221171024/https://apnews.com/article/politics-peru-pedro-castillo-3728208344ba972f850f0de29e5b5802 |url-status=live }}</ref><ref>{{Cite web |last=Alva |first=Diego |title=Congreso aprueba reconsideración y vuelve al debate adelanto de elecciones para 2023 |url=https://larepublica.pe/politica/congreso/2023/01/30/congreso-aprueba-reconsideracion-vuelve-al-debate-adelanto-de-elecciones-2023-25081 |access-date=30 January 2023 |website=[[La República (Peru)|La Republica]] |date=30 January 2023 |language=es |trans-title=Congress approves reconsideration and returns to the debate on early elections for 2023 |archive-date=30 January 2023 |archive-url=https://web.archive.org/web/20230130172923/https://larepublica.pe/politica/congreso/2023/01/30/congreso-aprueba-reconsideracion-vuelve-al-debate-adelanto-de-elecciones-2023-25081 |url-status=live }}</ref><ref>{{Cite web |last=Alva |first=Diego |title=Dina Boluarte: "El tema de adelanto de elecciones está cerrado, trabajaremos hasta julio de 2026" |url=https://larepublica.pe/politica/gobierno/2023/06/15/dina-boluarte-el-tema-de-adelanto-de-elecciones-esta-cerrado-trabajaremos-hasta-julio-de-2026-411465 |access-date=17 June 2023 |website=[[La República (Peru)|La Republica]] |date=17 June 2023 |language=es |trans-title=Dina Boluarte: "The issue of early elections is closed, we will work until July 2026" |archive-date=16 June 2023 |archive-url=https://web.archive.org/web/20230616062250/https://larepublica.pe/politica/gobierno/2023/06/15/dina-boluarte-el-tema-de-adelanto-de-elecciones-esta-cerrado-trabajaremos-hasta-julio-de-2026-411465 |url-status=live }}</ref> In the first round, Fujimori, a [[far-right]] politician<ref>Multiple sources:
+*{{Cite book |last=Cohen|first=Mollie J.|title=None of the Above: Protest Voting in Latin American Democracies|publisher=[[University of Michigan Press]]|year=2024|page=29|quote=Keiko Fujimori, a far-right congresswoman and the daughter of ousted dictator Alberto Fujimori.}}
+*{{Cite journal |last=Maldonado|first=Arturo|year=2020|title=Threats and sympathy for authoritarian candidates: evidence from Peru|journal=Revista Latinoamericana de Opinión Pública|volume=9|issue=2|pages=7–28|doi=10.14201/rlop.22734|doi-access=free|hdl=10366/145343|hdl-access=free|quote=the most authoritarian citizens more greatly value an authoritarian candidate like Keiko Fujimori}}
+*{{Cite news |last=Collyns|first=Dan|date=12 April 2021|title=Peru faces polarizing presidential runoff as teacher takes voters by surprise|url=https://www.theguardian.com/world/2021/apr/12/peru-presidential-runoff-pedro-castillo-keiko-fujimori|access-date=2 March 2026|work=[[The Guardian]]|issn=0261-3077|quote=Keiko Fujimori, the far-right heiress}}
+*{{Cite news |last=Ugaz|first=Pao|date=16 April 2016|title=Propuestas electorales de la populista Keiko Fujimori|url=https://www.abc.es/internacional/abci-propuestas-electorales-populista-keiko-fujimori-201604120242_noticia.html|access-date=1 October 2020|work=[[ABC (Spain)|ABC]]|language=es}}</ref>, placed first. Sánchez, a left-wing psychologist and politician, placed second, narrowly surpassing far-right businessman [[Rafael López Aliaga]].<ref>{{cite web |website=Yahoo News |title=Peru's Sanchez to face Fujimori in runoff as rival signals protests over fraud |url=https://nz.news.yahoo.com/peru-sanchez-face-fujimori-runoff-223434282.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEnefgOEckUtMWFCvs2I0pLTi1JbysmAO4Q3ZspTsrWktG20BRU8heN_H5pQHpNaC0eaKrSIuLpMXWuER5wqLObP1FWDJu4Owodp1-cAhp3b5uvcCiKBkA6QrmdWelG07qltNzFJqKVpEHymF5tsilnTTKBed1TnkSEmRoOVggvm |date=13 April 2026 |access-date=15 April 2026}}</ref><ref>{{Cite news |last=Freixes |first=Josep |date=15 April 2026 |title=Left Advances to Peru's Presidential Runoff, Set to Face Keiko Fujimori |url=https://colombiaone.com/2026/04/15/peru-left-presidential-runoff-keiko-fujimori/ |access-date=15 April 2026 |work=ColombiaOne.com}}</ref> Due to delays in various polling stations, election authorities extended voting by one day for voters unable to cast their ballots.<ref>{{cite web |last1=Elliott |first1=Lucinda |last2=Aquino |first2=Marco |website=Reuters |title=Peru election marred by delays as conservatives lead early count |url=https://www.reuters.com/world/americas/peruvians-vote-crowded-presidential-race-runoff-looms-2026-04-12/ |date=13 April 2026 |access-date=13 April 2026}}</ref> Following Sánchez's rise in votes later in the tabulation process, López Aliaga reportedly began a [[disinformation campaign]] against electoral authorities, accusing the vote-counting process of being [[Electoral fraud|fraudulent]].<ref name=":18">{{Cite web |last=Aguirre |first=Doris |date=19 April 2026 |title=El 'plan Morrocoy' de López Aliaga para anular las elecciones |url=https://larepublica.pe/politica/2026/04/19/el-plan-morrocoy-de-lopez-aliaga-para-anular-las-elecciones-onpe-rafael-lopez-aliaga-renovacion-popular-hnews-824040 |access-date=20 April 2026 |website=[[La República]] |language=es |archive-date=20 April 2026 |archive-url=https://web.archive.org/web/20260420045345/https://larepublica.pe/politica/2026/04/19/el-plan-morrocoy-de-lopez-aliaga-para-anular-las-elecciones-onpe-rafael-lopez-aliaga-renovacion-popular-hnews-824040 |url-status=live }}</ref> [[Electoral observer]]s from the [[European Union]] and Peruvian authorities denied that voting irregularities took place. It was noted that a fringe segment of the Peruvian public believed that the election of Keiko Fujimori (who was born and raised in Peru, as were both of her parents) was a conspiracy concocted by the Japanese government to subjugate Peru and bring it under Japanese influence as a [[puppet state]].<ref name=":17">{{Cite web |last=Vega |first=Renzo Gómez |date=15 April 2026 |title=El candidato de la izquierda en Perú da pelea gracias al escrutinio del voto rural |url=https://elpais.com/america/2026-04-15/el-candidato-de-la-izquierda-en-peru-da-pelea-gracias-al-escrutinio-del-voto-rural.html |access-date=15 April 2026 |website=[[El País]] |language=es |archive-date=15 April 2026 |archive-url=https://web.archive.org/web/20260415040804/https://elpais.com/america/2026-04-15/el-candidato-de-la-izquierda-en-peru-da-pelea-gracias-al-escrutinio-del-voto-rural.html |url-status=live }}</ref><ref name=":20" /> López Aliaga faces potential criminal charges related to an alleged [[incitement]] of [[civil disorder]] after calling for an insurgency.<ref name=":19" /> The [[National Jury of Elections]] (JNE) ruled that it would not annul the first round of elections and that the runoff election would take place on the scheduled date of 7 June 2026.<ref name=":21">{{Cite web |last=Calle |first=César Romero |date=24 April 2026 |title=JNE descartó la convocatoria a elecciones complementarias por falta de tiempo |url=https://larepublica.pe/politica/2026/04/23/jne-descarto-las-elecciones-complementarias-por-falta-de-tiempo-hnews-648830 |access-date=25 April 2026 |website=[[La República]] |language=es |archive-date=25 April 2026 |archive-url=https://web.archive.org/web/20260425014920/https://larepublica.pe/politica/2026/04/23/jne-descarto-las-elecciones-complementarias-por-falta-de-tiempo-hnews-648830 |url-status=live }}</ref>
+
+One week prior to the 7 June election, electoral authorities suspended the use of a ballot scanning system for international votes, instead choosing to have election material physically transported from foreign consulates to be processed in Peru.<ref name=":24" /> While the head of the [[Organization of American States]] election monitoring delegation raised some concern about the move, the inter-American body said that the second round proceeded without significant irregularities.<ref name=":24" /> After Sánchez initially secured the majority of domestic votes, which were processed first, foreign votes that were largely supportive of Fujimori arrived to be counted in Peru, giving her the lead in the election.<ref name=":25" /> Following the modification in foreign vote counting and Fujimori gaining the lead, Sánchez called for foreign ballots to be nullified, saying that irregularities occurred in the process.<ref name=":24" /> By late June, international media projected Fujimori's victory.<ref>{{Cite news |date=24 June 2026 |title=Keiko Fujimori leads Peruvian presidential runoff |url=https://www3.nhk.or.jp/nhkworld/en/news/20260625_N01/ |work=[[NHK]]}}</ref> The JNE had counted all votes by 29 June 2026, with Fujimori holding about 50,000 more votes than Sánchez,<ref>{{Cite news |date=2026-06-29 |title=ONPE llega al 100%: Keiko Fujimori es la virtual presidenta de la República |url=https://elcomercio.pe/politica/keiko-fujimori-virtual-presidencial-onpe-al-100-resultados-oficiales-proclamacion-de-resultados-roberto-sanchez-noticia/?ref=ecr |access-date=2026-06-29 |work=[[El Comercio (Peru)|El Comercio]] |language=es-PE |issn=1605-3052}}</ref> certifying Fujimori as the election winner.
+
+==Background==
+{{see also|Peruvian political crisis (2016–present)|Peruvian protests (2022–2023)}}
+{{multiple image
+| align             = left
+| perrow            = 4
+| total_width       = 350
+| image1            = Pedro Castillo 2022 (cropped).png
+| image2            = Dina Boluarte 2024 (cropped).jpg
+| image3            = César Quispe Luján juramenta como nuevo ministro de la Producción 2 (cropped2).jpg
+| image4            = José María Balcázar (cropped 2).jpg
+| footer            = Presidents since the [[2021 Peruvian general election|2021 election]] in order: [[Pedro Castillo]], [[Dina Boluarte]], [[José Jerí]], [[José María Balcázar]]
+}}
+
+The election was held after a prolonged period of political instability that began well before the current electoral cycle. During the presidencies of [[Ollanta Humala]], [[Pedro Pablo Kuczynski]] and [[Martín Vizcarra]], the Congress was dominated by the opposition [[Popular Force]], the party created by [[Keiko Fujimori]] (daughter of former president [[Alberto Fujimori]]), and voted to block many of the actions performed by the presidents.<ref name=":16">{{Cite web|date=24 January 2023|title=Democracy Is on the Line in Peru|url=https://www.hrw.org/news/2023/01/24/democracy-line-peru|access-date=27 January 2023|website=[[Human Rights Watch]]|language=en|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406150610/https://www.hrw.org/news/2023/01/24/democracy-line-peru|url-status=live}}</ref><ref name=":72">{{Cite web|last=Flannery|first=Nathaniel Parish|title=Political Risk Analysis: How Will Peru's Economy Perform In 2017?|url=https://www.forbes.com/sites/nathanielparishflannery/2017/03/30/political-risk-analysis-how-fast-will-perus-economy-grow-in-2017/|access-date=9 December 2022|website=[[Forbes]]|language=en|archive-date=9 December 2022|archive-url=https://web.archive.org/web/20221209053245/https://www.forbes.com/sites/nathanielparishflannery/2017/03/30/political-risk-analysis-how-fast-will-perus-economy-grow-in-2017/|url-status=live}}</ref><ref name=":82">{{Cite web|date=2021|title=The Political Limits of Presidential Impeachment: Lessons from Latin America|url=https://www.giga-hamburg.de/en/publications/giga-focus/political-limits-presidential-impeachment-lessons-latin-america|access-date=9 December 2022|website=[[German Institute for Global and Area Studies]]|language=en-GB|archive-date=9 December 2022|archive-url=https://web.archive.org/web/20221209053253/https://www.giga-hamburg.de/en/publications/giga-focus/political-limits-presidential-impeachment-lessons-latin-america|url-status=live}}</ref> [[Fujimorists]] in Congress "earned a reputation as hardline obstructionists for blocking initiatives popular with Peruvians aimed at curbing the nation's rampant corruption" according to the [[Associated Press]]<ref>{{Cite web |url=https://apnews.com/42f58c6e27ae487285a0f154d91061be |title=Dark days for Peru's political dynasty after congress closes |access-date=7 October 2019 |date=4 October 2019 |website=[[Associated Press]] |archive-date=7 October 2019 |archive-url=https://web.archive.org/web/20191007070106/https://apnews.com/42f58c6e27ae487285a0f154d91061be |url-status=live }}</ref> and since the [[2016 Peruvian general election]], Popular Force held control of the nation's legislature.<ref name=":26">{{Cite news |last=Tegel|first=Simeon|date=2026-04-12|title=10 presidents in 10 years: Peru's leaders don't last. Voters will try again.|url=https://www.washingtonpost.com/world/2026/04/12/peru-election-keiko-fujimori/|access-date=2026-06-03|newspaper=[[The Washington Post]]|language=en-US|issn=0190-8286}}</ref> During this period, the Fujimorist-led Congress used [[constitutional hardball]] against the executive and removed multiple presidents from office, with members of Congress also creating laws that benefitted [[organized crime]] while simultaneously obstructing the functions of law enforcement.<ref name=":27">{{Cite web|last=Cassinelli|first=Martin|date=2025-10-27|title=Peru at a breaking point: How ten years of political chaos opened the door to organized crime|url=https://www.atlanticcouncil.org/blogs/new-atlanticist/peru-at-a-breaking-point-how-ten-years-of-political-chaos-opened-the-door-to-organized-crime/|access-date=2026-06-03|website=[[Atlantic Council]]|language=en-US|archive-date=19 April 2026|archive-url=https://web.archive.org/web/20260419225409/https://www.atlanticcouncil.org/blogs/new-atlanticist/peru-at-a-breaking-point-how-ten-years-of-political-chaos-opened-the-door-to-organized-crime/|url-status=live}}</ref><ref name=":28">{{Cite journal|last=Menna|first=Santiago|date=2025-07-08|title=Congress in Cahoots|url=https://www.hrw.org/report/2025/07/08/congress-in-cahoots/how-perus-legislature-is-allowing-organized-crime-to-thrive|journal=[[Human Rights Watch]]|language=en|archive-date=3 June 2026|access-date=3 June 2026|archive-url=https://web.archive.org/web/20260603090319/https://www.hrw.org/report/2025/07/08/congress-in-cahoots/how-perus-legislature-is-allowing-organized-crime-to-thrive|url-status=live}}</ref>
+
+Following the [[2021 Peruvian general election]], [[right-wing]] parties, including [[Avanza País (Peru, 2017)|Avanza País]] and [[Popular Renewal]], gained control of Congress.<ref name="FAR">{{bullet}}{{cite journal |date=11 August 2022|title=Peru's Castillo will struggle to stay in office|url=https://www.emerald.com/insight/content/doi/10.1108/OXAN-DB272027/full/html|journal=[[Oxford Analytica]]|series=Emerald Expert Briefings|volume=oxan-db|issue=oxan-db|doi=10.1108/OXAN-DB272027|quote=The far-right parties in Congress -- Renovacion Popular (Popular Renewal) and Avanza Pais (Forward Country)|url-access=subscription|archive-date=29 October 2023|access-date=1 May 2023|archive-url=https://web.archive.org/web/20231029160612/https://www.emerald.com/insight/content/doi/10.1108/OXAN-DB272027/full/html|url-status=live}}
+*{{cite news |last1=Vásquez|first1=Jorge Rendón|date=10 April 2022|title=Desmanes en las calles: la ultraderecha está jugando con la gasolina... y con el fuego|language=es|work=El Búho|url=https://elbuho.pe/2022/04/desmanes-en-las-calles-la-ultraderecha-esta-jugando-con-la-gasolina-y-con-el-fuego/|access-date=30 April 2023|quote=The far right, personified in Congress by 43 representatives of the groups Fuerza Popular, Renovación Popular and Avanza País and some of their center allies|archive-date=30 April 2023|archive-url=https://web.archive.org/web/20230430235529/https://elbuho.pe/2022/04/desmanes-en-las-calles-la-ultraderecha-esta-jugando-con-la-gasolina-y-con-el-fuego/|url-status=live}}
+*{{cite news |date=2022|title=Así se movieron los votos en el Congreso para darle la ajustada confianza al gabinete de Aníbal Torres|language=es|work=LaMula|url=https://redaccion.lamula.pe/2022/03/09/asi-se-movieron-los-votos-en-el-congreso-para-darle-la-ajustada-confianza-al-gabinete-de-anibal-torres/lumasap/|access-date=30 April 2023|quote=Far-right: Fuerza Popular since then marked its line of voting against all the cabinets that Pedro Castillo names from now on. ... To these votes against were added those of Popular Renewal and Avanza País|archive-date=30 April 2023|archive-url=https://web.archive.org/web/20230430235529/https://redaccion.lamula.pe/2022/03/09/asi-se-movieron-los-votos-en-el-congreso-para-darle-la-ajustada-confianza-al-gabinete-de-anibal-torres/lumasap/|url-status=live}}
+*{{cite news |date=2 December 2022|title=Perú: nuevo intento destituyente en contra de Pedro Castillo {{!}} El Congreso aprobó una moción para derrocarlo, la tercera en 16 meses|language=es|work=[[Pagina 12]]|url=https://www.pagina12.com.ar/504082-peru-nuevo-intento-destituyente-contra-pedro-castillo|access-date=17 January 2023|quote=tres partidos de derecha radical -Fuerza Popular, Renovación Popular y Avanza País|archive-date=17 January 2023|archive-url=https://web.archive.org/web/20230117155425/https://www.pagina12.com.ar/504082-peru-nuevo-intento-destituyente-contra-pedro-castillo|url-status=live}}</ref><ref>{{Cite web |last=Tegel|first=Simeon|date=27 March 2023|title=Peru's First Female President Has Blood on Her Hands|url=https://foreignpolicy.com/2023/03/27/perus-first-female-president-has-blood-on-her-hands/|access-date=6 June 2023|website=[[Foreign Policy]]|language=en-US|quote=social conservatism, which has been one of the few areas of common ground between Free Peru's presidential administrations and the hard-right congressional majority|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151842/https://foreignpolicy.com/2023/03/27/perus-first-female-president-has-blood-on-her-hands/|url-status=live}}</ref><ref>{{Cite web |date=16 July 2023|title=Ofensiva contra los fiscales del caso Lava Jato|url=https://www.idl-reporteros.pe/ofensiva-contra-los-fiscales-del-caso-lava-jato/|access-date=30 July 2023|website=[[IDL Reporteros]]|language=es|quote=Fuerza Popular is an important part of the far-right coalition that controls Congress|archive-date=30 July 2023|archive-url=https://web.archive.org/web/20230730015209/https://www.idl-reporteros.pe/ofensiva-contra-los-fiscales-del-caso-lava-jato/|url-status=live}}</ref> After left-wing presidential candidate [[Pedro Castillo]] won the presidency, Fujimori and her supporters said [[electoral fraud]] had occurred, leading [[obstructionist]] efforts to overturn the election with support of citizens in Lima.{{sfn|Asensio|Camacho|González|Grompone|2021|pp=69–71}}<ref name=":37">{{cite web|date=8 June 2021|title=Claves del supuesto "fraude sistemático" denunciado por Keiko Fujimori|url=https://www.swissinfo.ch/spa/per%C3%BA-elecciones_claves-del-supuesto--fraude-sistem%C3%A1tico--denunciado-por-keiko-fujimori/46688860|access-date=24 June 2021|website=Swissinfo|language=es|archive-date=9 June 2021|archive-url=https://web.archive.org/web/20210609191657/https://www.swissinfo.ch/spa/per%C3%BA-elecciones_claves-del-supuesto--fraude-sistem%C3%A1tico--denunciado-por-keiko-fujimori/46688860|url-status=live}}</ref><ref name=":31">{{cite web |date=20 June 2021|title=Peru: Fujimori cries electoral fraud – and unleashes torrent of racism|url=http://www.theguardian.com/world/2021/jun/20/peru-elite-election-pedro-castillo-keiko-fujimori|url-status=live|archive-url=https://web.archive.org/web/20210622045604/https://www.theguardian.com/world/2021/jun/20/peru-elite-election-pedro-castillo-keiko-fujimori|archive-date=22 June 2021|access-date=22 June 2021|website=[[The Guardian]]|language=en}}</ref><ref name=":272">{{cite web |last1=Collyns|first1=Dan|date=8 June 2021|title=Peru elections: Fujimori's fraud claims criticised as rival's narrow lead widens|url=http://www.theguardian.com/world/2021/jun/08/keiko-fujimori-claims-irregularities-peru-presidential-election-pedro-castillo|url-status=live|archive-url=https://web.archive.org/web/20210608042309/https://www.theguardian.com/world/2021/jun/08/keiko-fujimori-claims-irregularities-peru-presidential-election-pedro-castillo|archive-date=8 June 2021|access-date=8 June 2021|website=The Guardian}}</ref><ref name=":352">{{cite news |title=With election fraud claims, Peru's Keiko Fujimori takes a page from the Trump playbook. She's not alone.|newspaper=The Washington Post|url=https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/|url-status=live|access-date=22 June 2021|archive-url=https://web.archive.org/web/20210621072244/https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/|archive-date=21 June 2021|issn=0190-8286}}</ref><ref name=":29">{{cite news |last=Applebaum|first=Anne|date=17 June 2021|title=Democracy Is Surprisingly Easy to Undermine|work=The Atlantic|url=https://www.theatlantic.com/ideas/archive/2021/06/trump-fraud-stop-steal-copycats/619226/|url-status=live|access-date=22 June 2021|archive-url=https://web.archive.org/web/20210620121009/https://www.theatlantic.com/ideas/archive/2021/06/trump-fraud-stop-steal-copycats/619226/|archive-date=20 June 2021}}</ref> Many business groups and politicians refused to recognize Castillo's ascent to the presidency,{{sfn|Asensio|Camacho|González|Grompone|2021|pp=27–71}} along with those among the more affluent, including former military officers and wealthy families. They demanded new elections, promoted calls for a [[military coup]], and used rhetoric to support their allegations of fraud.<ref name=":37" /> From the beginning of his presidency, Castillo was targeted by members of Congress,<ref>{{cite news|first=Scott|last=Benigno|title=Peruvian Congress to Debate President's Impeachment|url=https://foreignbrief.com/daily-news/peruvian-congress-to-debate-presidents-impeachment/|work=Foreign Brief|date=7 December 2022|access-date=8 December 2022|archive-date=8 December 2022|archive-url=https://web.archive.org/web/20221208055457/https://foreignbrief.com/daily-news/peruvian-congress-to-debate-presidents-impeachment/|url-status=dead}}</ref> who made it clear that they wanted to remove him from office by impeachment.<ref name=":16" />
+
+Due to broadly interpreted [[impeachment]] wording in the 1993 [[Constitution of Peru]], Congress can impeach the president on the vague grounds of [[Vacancy due to moral incapacity|"moral incapacity"]],<ref>{{cite news|title=What Just Happened in Peru? Understanding Vizcarra's Sudden Impeachment|url=https://www.americasquarterly.org/article/what-just-happened-in-peru-understanding-vizcarras-sudden-impeachment/|access-date=8 December 2022|work=Americas Quarterly|date=10 November 2020|archive-date=8 December 2022|archive-url=https://web.archive.org/web/20221208051406/https://www.americasquarterly.org/article/what-just-happened-in-peru-understanding-vizcarras-sudden-impeachment/|url-status=live}}</ref> effectively making the legislative branch more powerful than the executive branch.<ref name="PROFE92">{{cite book|last1=Asensio|first1=Raúl|url=https://fondoeditorial.iep.org.pe/producto/el-profe-como-pedro-castillo-se-convirtio-en-presidente-del-peru-y-que-pasara-a-continuacion-2/|title=El Profe: Cómo Pedro Castillo se convirtió en presidente del Perú y qué pasará a continuación|last2=Camacho|first2=Gabriela|last3=González|first3=Natalia|last4=Grompone|first4=Romeo|last5=Pajuelo Teves|first5=Ramón|last6=Peña Jimenez|first6=Omayra|last7=Moscoso|first7=Macarena|last8=Vásquez|first8=Yerel|last9=Sosa Villagarcia|first9=Paolo|date=August 2021|publisher=[[Institute of Peruvian Studies]]|isbn=978-612-326-084-2|edition=1|location=[[Lima, Peru]]|page=92|language=es|access-date=17 November 2021|archive-date=5 November 2022|archive-url=https://web.archive.org/web/20221105081352/https://fondoeditorial.iep.org.pe/producto/el-profe-como-pedro-castillo-se-convirtio-en-presidente-del-peru-y-que-pasara-a-continuacion-2/|url-status=live}}</ref><ref>{{Cite news|last=Taj|first=Mitra|date=7 December 2021|title='Too many mistakes': Peru's president threatened with impeachment after shaky start|work=[[Financial Times]]|url=https://www.ft.com/content/685a5a7d-4531-4242-9074-badd59254349|access-date=13 December 2021|archive-date=10 December 2022|archive-url=https://ghostarchive.org/archive/20221210/https://www.ft.com/content/685a5a7d-4531-4242-9074-badd59254349|url-status=live}}</ref><ref>{{Cite news|date=19 November 2021|title=Peru's Keiko Fujimori backs long-shot effort to impeach President Castillo|language=en|work=[[Reuters]]|url=https://www.reuters.com/world/americas/perus-keiko-fujimori-backs-long-shot-effort-impeach-president-castillo-2021-11-19/|access-date=13 December 2021|archive-date=29 November 2021|archive-url=https://web.archive.org/web/20211129191635/https://www.reuters.com/world/americas/perus-keiko-fujimori-backs-long-shot-effort-impeach-president-castillo-2021-11-19/|url-status=live}}</ref><ref>{{Cite news |last=Tegel|first=Simeon|date=15 October 2021|title=Can Pedro Castillo Save His Presidency?|url=https://foreignpolicy.com/2021/10/15/peru-president-pedro-castillo-left-extremism-impeachment/|url-status=live|archive-url=https://web.archive.org/web/20211015221103/https://foreignpolicy.com/2021/10/15/peru-president-pedro-castillo-left-extremism-impeachment/|archive-date=15 October 2021|access-date=13 December 2021|website=[[Foreign Policy]]|language=en-US}}</ref> Congress, which had already attempted to impeach Castillo twice, began [[Third impeachment of Pedro Castillo|a third process of impeachment]] in late 2022. On 7 December 2022, Castillo [[2022 Peruvian self-coup attempt|attempted a self-coup]], dissolving Congress as well as the Judiciary bodies, imposing a [[curfew]], and establishing an [[emergency government]]. He was arguing that the legislative body, which had obstructed many of his policies,<ref name=":4222">{{Cite web|last=Garzón|first=Aníbal|date=1 January 2023|title=Peru's permanent coup|url=https://mondediplo.com/2023/01/13peru|access-date=19 January 2023|website=[[Le Monde diplomatique]]|language=en|archive-date=29 January 2023|archive-url=https://web.archive.org/web/20230129193707/https://mondediplo.com/2023/01/13peru|url-status=live}}</ref><ref>{{Cite web|last=Sojo|first=Giordana García|date=26 July 2022|title=Un año de intentos destituyentes en Perú|url=https://www.celag.org/un-ano-de-intentos-destituyentes-en-peru/|access-date=28 March 2023|website=Centro Estratégico Latinoamericano de Geopolítica|language=es|archive-date=25 March 2023|archive-url=https://web.archive.org/web/20230325075438/https://www.celag.org/un-ano-de-intentos-destituyentes-en-peru/|url-status=live}}</ref><ref>{{Cite news|date=6 November 2022|title=Peru: Police clash with protesters in capital Lima|language=en-GB|work=[[BBC News]]|url=https://www.bbc.com/news/world-latin-america-63530879|access-date=28 March 2023|archive-date=20 March 2023|archive-url=https://web.archive.org/web/20230320130439/http://www.bbc.com/news/world-latin-america-63530879|url-status=live}}</ref> was serving [[oligopolistic]] businesses and had colluded with the [[Constitutional Court of Peru]] to undermine the executive branch, thereby creating a "congressional dictatorship".<ref name=":4222" /> The move was rejected by state institutions; he was removed from office and arrested.<ref>{{cite news|title=Peruvian court sentences former President Castillo to over 11 years in prison for rebellion|url=https://www.reuters.com/world/americas/peruvian-court-sentences-former-president-castillo-115-years-prison-rebellion-2025-11-27/|date=27 November 2025|access-date=1 January 2026|work=Reuters|language=en|quote=Castillo, who had been in detention as the case played out, was removed from office in December 2022 after he attempted to dissolve Congress. The move triggered violent protests against the government that replaced him and left dozens of people dead, mainly in poorer regions where he enjoyed greater support.}}</ref> Two months after Castillo was removed, Congress would obtain nearly absolute control of Peru's government when the Constitutional Court, whose members were directly chosen by Congress, removed judicial oversight of the legislative body.<ref>{{Cite web |last=Romero|first=César|title=Tribunal Constitucional falla a favor del Congreso, que tendrá un poder absoluto y sin control judicial|url=https://larepublica.pe/politica/congreso/2023/02/24/tribunal-constitucional-falla-a-favor-del-congreso-que-tendra-un-poder-absoluto-y-sin-control-judicial-poder-judicial-defensoria-del-pueblo-sunedu-1427472|access-date=2 March 2023|website=[[La República (Peru)|La República]]|date=28 February 2023|language=es|archive-date=16 March 2023|archive-url=https://web.archive.org/web/20230316090853/https://larepublica.pe/politica/congreso/2023/02/24/tribunal-constitucional-falla-a-favor-del-congreso-que-tendra-un-poder-absoluto-y-sin-control-judicial-poder-judicial-defensoria-del-pueblo-sunedu-1427472|url-status=live}}</ref><ref>{{Cite web |last=Romero|first=César|title=El Tribunal Constitucional está destruyendo el régimen democrático del país|url=https://larepublica.pe/politica/judiciales/2023/02/25/el-tribunal-constitucional-esta-destruyendo-el-regimen-democratico-del-pais-congreso-poder-ejecutivo-poder-judicial-1500875|access-date=2 March 2023|website=[[La República (Peru)|La República]]|date=25 February 2023|language=es|archive-date=25 February 2023|archive-url=https://web.archive.org/web/20230225202050/https://larepublica.pe/politica/judiciales/2023/02/25/el-tribunal-constitucional-esta-destruyendo-el-regimen-democratico-del-pais-congreso-poder-ejecutivo-poder-judicial-1500875|url-status=live}}</ref><ref>{{Cite web |last=Cárdenas|first=Abel|date=5 March 2023|title=Congreso doblega el equilibrio de poderes en medio de la convulsión social en Perú|url=https://ojo-publico.com/4328/congreso-doblega-el-equilibrio-poderes-medio-la-convulsion|access-date=28 March 2023|website=[[Ojo Público]]|language=es|archive-date=29 March 2023|archive-url=https://web.archive.org/web/20230329070028/https://ojo-publico.com/4328/congreso-doblega-el-equilibrio-poderes-medio-la-convulsion|url-status=live}}</ref>
+
+Castillo's vice president, [[Dina Boluarte]], assumed the presidency amid the [[Peruvian protests (2022–2023)|widespread protests against her government]]. Following her ascension to the presidency, Boluarte aligned herself with the far right-wing majority in Congress.<ref>{{Cite web |author=Pamela Zárate|date=9 May 2023|title=Dina Boluarte: crecen las críticas de sus aliados en el Congreso|url=https://elbuho.pe/2023/05/dina-boluarte-crecen-las-criticas-de-sus-aliados-en-el-congreso-al-vuelo/|access-date=3 June 2023|website=[[El Búho]]|language=es|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151843/https://elbuho.pe/2023/05/dina-boluarte-crecen-las-criticas-de-sus-aliados-en-el-congreso-al-vuelo/|url-status=live}}</ref><ref>{{Cite web |last=Noriega|first=Carlos|date=22 January 2023|title=Todos los caminos de Boluarte conducen a la represión: La ultraderecha peruana aliada al Gobierno planea heredar el poder|url=https://www.pagina12.com.ar/517507-todos-los-caminos-de-boluarte-conducen-a-la-represion|access-date=3 June 2023|website=[[Pagina 12]]|language=es|archive-date=25 March 2023|archive-url=https://web.archive.org/web/20230325132729/https://www.pagina12.com.ar/517507-todos-los-caminos-de-boluarte-conducen-a-la-represion|url-status=live}}</ref><ref>{{Cite web |date=21 April 2023|title=César Hildebrandt: Régimen de Dina Boluarte se ha aliado con un Congreso de delincuentes|url=https://larepublica.pe/politica/actualidad/2023/04/21/cesar-hildebrandt-regimen-de-dina-boluarte-se-ha-aliado-con-un-congreso-de-delincuentes-keiko-fujimori-elecciones-2021-noticia-555996|access-date=3 June 2023|website=[[La República]]|language=es|archive-date=24 April 2023|archive-url=https://web.archive.org/web/20230424001509/https://larepublica.pe/politica/actualidad/2023/04/21/cesar-hildebrandt-regimen-de-dina-boluarte-se-ha-aliado-con-un-congreso-de-delincuentes-keiko-fujimori-elecciones-2021-noticia-555996|url-status=live}}</ref><ref>{{Cite web |date=5 April 2023|title=Fracasa el pedido de destitución contra Dina Boluarte|url=https://www.rfi.fr/es/am%C3%A9ricas/20230405-fracasa-el-pedido-de-destituci%C3%B3n-contra-dina-boluarte|access-date=3 June 2023|website=[[Radio France Internationale]]|archive-date=7 April 2023|archive-url=https://web.archive.org/web/20230407095739/https://www.rfi.fr/es/am%C3%A9ricas/20230405-fracasa-el-pedido-de-destituci%C3%B3n-contra-dina-boluarte|url-status=live}}</ref><ref>{{Cite web |last=Bazán|first=Boyanovsky|date=19 February 2023|title=En Perú, Boluarte ya no disimula su alianza con la derecha|url=https://www.tiempoar.com.ar/mundo/en-peru-boluarte-ya-no-disimula-su-alianza-con-la-derecha/|access-date=3 June 2023|website=Tiempo|language=es|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151843/https://www.tiempoar.com.ar/mundo/en-peru-boluarte-ya-no-disimula-su-alianza-con-la-derecha/|url-status=live}}</ref> She was described by analysts as [[authoritarian]] due to her crackdown on demonstrations,<ref name="AUTHOR">{{bullet}}{{Cite news |last=Franco|first=Marina E.|date=24 January 2023|title=Peru's protest crackdown could lead to authoritarianism, experts say|work=[[Axios (website)|Axios]]|url=https://www.axios.com/2023/01/24/perus-protest-government-dina-boularte|access-date=6 June 2023|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151842/https://www.axios.com/2023/01/24/perus-protest-government-dina-boularte|url-status=live}}
+*{{Cite web |last=Tegel|first=Simeon|date=27 March 2023|title=Peru's First Female President Has Blood on Her Hands|url=https://foreignpolicy.com/2023/03/27/perus-first-female-president-has-blood-on-her-hands/|access-date=6 June 2023|website=[[Foreign Policy]]|quote=[Boluarte's] legacy, to the extent she has one, will remain inseparable from that of her predecessor. This is not only a matter of the authoritarian excesses of her leadership over security forces, but also her emphasis on social conservatism|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151842/https://foreignpolicy.com/2023/03/27/perus-first-female-president-has-blood-on-her-hands/|url-status=live}}
+*{{Cite web |date=14 March 2023|title=Peru's democracy is under threat|url=https://www.ips-journal.eu/topics/democracy-and-society/perus-democracy-is-under-threat-6575/?dicbo=v4-8sW1IjI-1078272479|access-date=6 June 2023|website=International Politics and Society|quote=In the region itself, there has also been fierce criticism of the authoritarian style of Dina Boluarte and her government.|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151843/https://www.ips-journal.eu/topics/democracy-and-society/perus-democracy-is-under-threat-6575/?dicbo=v4-8sW1IjI-1078272479|url-status=live}}
+*{{Cite web |date=26 April 2023|title=Crackdown on protests worsens erosion of Peru's democracy|url=https://country.eiu.com/Peru/ArticleList/Analysis/Politics|website=[[Economist Intelligence Unit]]|quote=the authorities deployed strong-arm tactics to quell demonstrations, including deadly force, arbitrary arrests, intimidation and the stigmatisation of demonstrators as terrorists or criminals in official discourse. As a result, we expect political instability to return, and we highlight the risk that these developments have set the scene for a move towards an authoritarian government reminiscent of that led by Alberto Fujimori in the 1990s|access-date=6 June 2023|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151843/https://country.eiu.com/Peru/ArticleList/Analysis/Politics|url-status=live}}
+*{{Cite news |date=10 January 2023|title=In Peru, protests resume against the backdrop of the Boluarte regime's 'authoritarian drift'|work=[[Le Monde]]|url=https://www.lemonde.fr/en/international/article/2023/01/10/in-peru-protests-resume-against-the-backdrop-of-the-boluarte-regime-s-authoritarian-drift_6011015_4.html|access-date=6 June 2023|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151842/https://www.lemonde.fr/en/international/article/2023/01/10/in-peru-protests-resume-against-the-backdrop-of-the-boluarte-regime-s-authoritarian-drift_6011015_4.html|url-status=live}}
+*{{Cite web |date=4 April 2023|title=The Authoritarian Behind Peru's Massacring of Protesters|url=https://jacobin.com/2023/04/peru-protest-repression-alberto-otarola-dina-boluarte|access-date=6 June 2023|website=[[Jacobin (magazine)|Jacobin]]|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151844/https://jacobin.com/2023/04/peru-protest-repression-alberto-otarola-dina-boluarte|url-status=live}}
+*{{cite news |title=Carmen Ilizarbe: 'The Boluarte government can never have social legitimacy'|url=https://global.ilmanifesto.it/carmen-ilizarbe-the-boluarte-government-can-never-have-social-legitimacy/|access-date=6 June 2023|work=[[il manifesto]]|date=10 April 2023|quote=the government seems to have decidedly embarked on an authoritarian path|archive-date=6 June 2023|archive-url=https://web.archive.org/web/20230606151842/https://global.ilmanifesto.it/carmen-ilizarbe-the-boluarte-government-can-never-have-social-legitimacy/|url-status=live}}
+*{{Cite web |last=Noriega|first=Carlos|date=19 March 2023|title=Perú: la presidencia de Dina Boluarte cumple cien días; Una gestión marcada por la represión racista, la restauración conservadora y la persecución política|url=https://www.pagina12.com.ar/532969-peru-la-presidencia-de-dina-boluarte-cumple-cien-dias|access-date=3 June 2023|website=[[Pagina 12]]|language=es|archive-date=2 February 2024|archive-url=https://web.archive.org/web/20240202181526/https://www.pagina12.com.ar/532969-peru-la-presidencia-de-dina-boluarte-cumple-cien-dias|url-status=live}}</ref> with human rights groups such as [[Amnesty International]],<ref name="Rebaza-2023">{{Cite web|last=Rebaza|first=Claudia|date=25 May 2023|title=Peru protesters, including children, killed in 'extrajudicial executions' by security forces, Amnesty finds|url=https://www.cnn.com/2023/05/25/americas/peru-protests-extrajudicial-executions-amnesty-intl-latam/index.html|access-date=28 May 2023|website=[[CNN]]|language=en|archive-date=27 May 2023|archive-url=https://web.archive.org/web/20230527024626/https://www.cnn.com/2023/05/25/americas/peru-protests-extrajudicial-executions-amnesty-intl-latam/index.html|url-status=live}}</ref> [[Human Rights Watch]],<ref name="HRW-2022">{{Cite web |date=22 December 2022|title=Peru: Investigate Killings, Injuries During Protests|url=https://www.hrw.org/news/2022/12/22/peru-investigate-killings-injuries-during-protests|url-status=live|archive-url=https://web.archive.org/web/20230104133658/https://www.hrw.org/news/2022/12/22/peru-investigate-killings-injuries-during-protests|archive-date=4 January 2023|access-date=25 December 2022|website=[[Human Rights Watch]]|language=en}}</ref> the [[Inter-American Commission on Human Rights]]<ref name="EFE-2023">{{Cite web |title=CIDH llama al "diálogo amplio" ante "clima de extrema polarización" en Perú|url=https://www.swissinfo.ch/spa/per%C3%BA-crisis_cidh-llama-al--di%C3%A1logo-amplio--ante--clima-de-extrema-polarizaci%C3%B3n--en-per%C3%BA/48203924|access-date=13 January 2023|website=[[EFE]]|date=13 January 2023|language=es|archive-date=16 January 2023|archive-url=https://web.archive.org/web/20230116175925/https://www.swissinfo.ch/spa/per%C3%BA-crisis_cidh-llama-al--di%C3%A1logo-amplio--ante--clima-de-extrema-polarizaci%C3%B3n--en-per%C3%BA/48203924|url-status=live}}</ref> and the [[Coordinadora Nacional de Derechos Humanos|National Coordinator for Human Rights]]<ref name="France 24-2022">{{Cite web |date=14 December 2022|title=Perú declara estado de emergencia nacional y descarta toque de queda por protestas|url=https://www.france24.com/es/am%C3%A9rica-latina/20221214-per%C3%BA-declara-el-estado-de-emergencia-en-todo-el-pa%C3%ADs-en-medio-de-la-agitaci%C3%B3n-pol%C3%ADtica|url-status=live|archive-url=https://web.archive.org/web/20221215030310/https://www.france24.com/es/am%C3%A9rica-latina/20221214-per%C3%BA-declara-el-estado-de-emergencia-en-todo-el-pa%C3%ADs-en-medio-de-la-agitaci%C3%B3n-pol%C3%ADtica|archive-date=15 December 2022|access-date=15 December 2022|website=[[France 24]]}}</ref> criticizing her administration's response, especially after the [[Ayacucho massacre|Ayacucho]] and [[Juliaca massacre|Juliaca]] massacres. Although proposals were repeatedly introduced to bring forward the scheduled 2026 vote, they were rejected by Boluarte and Congress.<ref name=":28" /> In October 2025, [[Impeachment of Dina Boluarte|Boluarte was removed from office]] by Congress on "[[Vacancy due to moral incapacity|permanent moral incapacity]]" grounds amid mounting public anger over insecurity and corruption allegations.<ref>{{Cite web|last=Giraldo|first=Clara|date=2025-10-10|title=La caída de Dina Boluarte: el ataque a Agua Marina selló su destino, que antes resistió pese a las protestas|url=https://www.infobae.com/peru/2025/10/10/la-caida-de-dina-boluarte-el-ataque-a-agua-marina-sello-su-destino-que-antes-resistio-pese-a-las-protestas/|access-date=2025-10-10|website=infobae|language=es-ES|archive-date=14 November 2025|archive-url=https://web.archive.org/web/20251114123221/https://www.infobae.com/peru/2025/10/10/la-caida-de-dina-boluarte-el-ataque-a-agua-marina-sello-su-destino-que-antes-resistio-pese-a-las-protestas/|url-status=live}}</ref><ref name=":15">{{Cite web|date=2025-10-09|title=La presidencia de Dina Boluarte pende de un hilo por la crisis de violencia que quedó en evidencia tras el ataque contra el grupo Agua Marina en Lima|url=https://www.bbc.com/mundo/articles/c0593lrpe54o|access-date=2025-10-14|website=BBC News Mundo|language=es|archive-date=19 April 2026|archive-url=https://web.archive.org/web/20260419021058/https://www.bbc.com/mundo/articles/c0593lrpe54o|url-status=live}}</ref>
+
+In his position in the [[order of succession]], president of Congress [[José Jerí]] succeeded Boluarte, initially assumed the presidency leading into the 2026 elections.<ref>{{cite news|title=Peru's Congress votes to remove President Boluarte as crime grips nation|url=https://www.aljazeera.com/news/2025/10/10/perus-congress-votes-to-remove-president-boluarte-as-crime-grips-nation|date=10 October 2025|access-date=1 January 2026|work=Al Jazeera|language=en|quote=Peru's Congress has voted to remove President Dina Boluarte, among the world's most unpopular leaders, in a late-night session called hours after political parties from across the spectrum demanded her impeachment, as the nation fights an intensive crime wave.}}</ref> Jerí became Peru's seventh president in nine years.<ref>{{cite news|title=Siete presidentes en nueve años y un país al borde del colapso político: ¿qué ha pasado en Perú?|url=https://elpais.com/expres/2025-10-11/siete-presidentes-en-nueve-anos-y-un-pais-al-borde-del-colapso-politico-que-ha-pasado-en-peru.html|date=10 October 2025|access-date=1 January 2026|work=El País|language=es|archive-date=12 December 2025|archive-url=https://web.archive.org/web/20251212203016/https://elpais.com/expres/2025-10-11/siete-presidentes-en-nueve-anos-y-un-pais-al-borde-del-colapso-politico-que-ha-pasado-en-peru.html|url-status=live}}</ref> However, in February 2026, José Jerí was removed from office by Congress for holding undisclosed meetings with Zhihua Yang, a Chinese businessman under scrutiny from the Peruvian government.<ref>{{Cite news |last=Tian |first=Yang |date=18 February 2026 |title=Peru's Congress ousts president after four months in office |url=https://www.bbc.com/news/articles/cz7gvdx457vo |access-date=26 February 2026 |work=BBC}}</ref> He was succeeded by [[José María Balcázar]], who was elected by Congress to serve as president of Congress and thus made president of Peru.<ref>{{Cite news |date=19 February 2026 |title=José María Balcázar becomes Peru's eighth president in a decade |url=https://www.npr.org/2026/02/19/g-s1-110679/peru-new-president |access-date=26 February 2026 |work=NPR |archive-date=20 February 2026 |archive-url=https://web.archive.org/web/20260220103752/https://www.npr.org/2026/02/19/g-s1-110679/peru-new-president |url-status=live }}</ref>
+
+The elections have taken shape amid heightened public concern over national security, public safety, organized crime, persistent distrust in political institutions, and ongoing debates about [[Corruption in Peru|corruption]] and economic governance.<ref>{{cite news|title=Crime scourge fuels Peru's political crisis|url=https://www.lemonde.fr/en/international/article/2025/10/16/in-peru-the-scourge-of-insecurity-is-fueling-a-political-crisis_6746465_4.html#|date=16 October 2025|access-date=1 January 2026|work=Le Monde|last=Chaparro|first=Amanda|language=en|quote=The wave of violence linked to organized crime cost President Dina Boluarte her job. Bus drivers, shopkeepers and artists have been the main victims of extortion, and on Wednesday, they protested alongside the rest of the population against a corrupt system.}}</ref> Concerns about the power Congress held over the executive and judiciary branches were also noted by observers, with Will Freeman of the [[Council on Foreign Relations]] warning that Congress was attempting to build a "[[mafia state]]" in the run-up to the elections.<ref name=":4">{{Cite web |last=Polga-Hecimovich |first=John |date=19 January 2026 |title=Peru to elect president but congress in charge |url=https://www.gisreportsonline.com/r/peru-presidency-congress/ |access-date=1 April 2026 |website=GIS Reports |language=en-US}}</ref><ref name=":5">{{Cite web |date=10 October 2025 |title=President Boluarte Impeached, but Peru's Crisis Runs Deeper |url=https://www.cfr.org/articles/president-boluarte-impeached-perus-crisis-runs-deeper |access-date=1 April 2026 |website=[[Council on Foreign Relations]] |language=en}}</ref> Similarly, [[Human Rights Watch]] warned of [[democratic backsliding]] occurring, with director of the Americas division, Juanita Goebertus Estrada, stating that "Congress has taken steps to undermine the independence and capacity of courts, prosecutors, and key government institutions" and that "[as] Congress goes unchecked, many Peruvians point to its role in weakening the rule of law as the reason for the expansion of organized crime in the country."<ref>{{Cite web |date=9 April 2026 |title=Peru's Elections Need International Attention |url=https://www.hrw.org/news/2026/04/09/perus-elections-need-international-attention |access-date=14 April 2026 |website=[[Human Rights Watch]] |language=en |archive-date=15 April 2026 |archive-url=https://web.archive.org/web/20260415235309/https://www.hrw.org/news/2026/04/09/perus-elections-need-international-attention |url-status=live }}</ref>
+
+A return to a [[bicameral]] legislative system was also established by Congress, overruling the [[2018 Peruvian constitutional referendum|2018 constitutional referendum]] where voters voted to maintain a [[unicameral]] system,<ref name=":28" /> which includes 130 seats for deputies and 60 seats for senators. Congress also reversed the decision of voters who chose in the 2018 referendum to prohibit officeholders from being re-elected.<ref name=":28" /> Deputies serve in the [[lower house]], tasked with presenting [[legislative bill]]s and providing oversight of the [[Cabinet of Peru]], having more responsibility over political objectives. Senators represent the [[upper house]] and hold more institutional control; they review bills presented by deputies and are responsible for electing the directors of the [[Central Reserve Bank of Peru]], the members of the Constitutional Court, the Comptroller General, [[Ombudsman of Peru]] and other institutional leaders. Upper house senators also hold the power to approve certain functions of the executive, such as foreign travel, and the ability to remove the president.<ref name=":3">{{Cite web |last=Espinoza |first=Sergio |date=4 March 2026 |title=Elecciones 2026: ¿cuál es la diferencia entre senadores y diputados? |url=https://rpp.pe/politica/elecciones/elecciones-2026-cual-es-la-diferencia-entre-senadores-y-diputados-noticia-1678609 |access-date=5 March 2026 |website=[[RPP (Peru)|RPP]] |language=es |archive-date=4 March 2026 |archive-url=https://web.archive.org/web/20260304223913/https://rpp.pe/politica/elecciones/elecciones-2026-cual-es-la-diferencia-entre-senadores-y-diputados-noticia-1678609 |url-status=live }}</ref> The president also cannot dissolve the upper house of Congress, granting that body a large amount of power.<ref name=":13">{{Cite web |date=13 April 2026 |title=Peru election drags into second day after ballot delivery fiasco |url=https://www.bbc.com/news/articles/c4gd0l2x8j2o |access-date=14 April 2026 |website=[[BBC]] |language=en-GB |archive-date=14 April 2026 |archive-url=https://web.archive.org/web/20260414011948/https://www.bbc.com/news/articles/c4gd0l2x8j2o |url-status=live }}</ref>
+
+Since 2025, ''[[The Economist]]'' has described Peru's political system as "[[hybrid regime|hybrid]]", and according to the [[V-Dem Institute]], it is "in the process of becoming [[autocratic]]".<ref name=":22">{{Cite news |date=2026-05-18 |title=Keiko Fujimori contra Roberto Sánchez |url=https://www.nuso.org/articulo/balotaje-peru/ |access-date= |work=Nueva Sociedad {{!}} Democracia y política en América Latina |language=es-LA}}</ref>
+
+==Electoral system==
+
+=== President ===
+The [[President of Peru|president]] is elected using the [[two-round system]].<ref name="reuters">{{cite web|date=7 May 2021|title=Peru election race tightens as Fujimori gains, poll shows|url=https://www.reuters.com/world/americas/peru-election-race-tightens-fujimori-gains-poll-shows-2021-05-07/|url-status=live|archive-url=https://web.archive.org/web/20210607090008/https://www.reuters.com/world/americas/peru-election-race-tightens-fujimori-gains-poll-shows-2021-05-07/|archive-date=7 June 2021|access-date=7 June 2021|work=Reuters}}</ref> The first round of voting allows eligible voters to vote for any viable presidential candidate.<ref name="reuters" /> The top two candidates who receive a plurality of the vote proceed to the run-off election.<ref name="reuters" /> The winner of the run-off election and the presidential election is the candidate who receives a plurality of the popular vote.<ref name="reuters" /><ref name="nytapril2021">{{cite web|date=12 April 2021|title=In Peru's Presidential Election, the Most Popular Choice Is No One|url=https://www.nytimes.com/2021/04/11/world/americas/peru-election.html|url-status=live|archive-url=https://web.archive.org/web/20210607074429/https://www.nytimes.com/2021/04/11/world/americas/peru-election.html|archive-date=7 June 2021|work=The New York Times|access-date=7 June 2021}}</ref> However, if in the first round the candidate who is in the first place already gets more than 50% of the popular vote, that candidate will automatically win the election and a run-off election will no longer be needed.<ref name="nytapril2021" />
+
+=== Congress and Andean Parliament ===
+The 130 members of the Chamber of Deputies are elected in 27 multi-member constituencies using [[open list]] [[proportional representation]].<ref name=":0">{{Cite journal|last1=Alemán|first1=Eduardo|last2=Ponce|first2=Aldo F.|last3=Sagarzazu|first3=Iñaki|year=2011|title=Legislative Parties in Volatile, Nonprogrammatic Party Systems: The Peruvian Case in Comparative Perspective|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1548-2456.2011.00125.x|journal=Latin American Politics and Society|language=en|volume=53|issue=3|pages=57–81|doi=10.1111/j.1548-2456.2011.00125.x|issn=1548-2456|s2cid=55633109|url-access=subscription|archive-date=26 July 2021|access-date=5 January 2022|archive-url=https://web.archive.org/web/20210726211720/https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1548-2456.2011.00125.x|url-status=live}}</ref> Seats are allocated using the [[D'Hondt method]].<ref name=":1">[http://www.electionguide.org/countries/id/170/ Peru] {{Webarchive|url=https://web.archive.org/web/20210422043153/https://www.electionguide.org/countries/id/170/|date=22 April 2021}} IFES</ref><ref>[https://resultados.eleccionescongresales2020.pe/PRECE2020/EleccionesCongresales/ReCng/D40015 Resultados Congresales] {{Webarchive|url=https://web.archive.org/web/20200131061829/https://resultados.eleccionescongresales2020.pe/PRECE2020/EleccionesCongresales/ReCng/D40015|date=31 January 2020}} ONPE</ref> The 60 senators are elected through two systems, with 30 elected in a single nationwide constituency through proportional representation and 30 elected from the 27 constituencies used for the Chamber of Deputies, with [[Lima province]] electing four senators and the other 26 constituencies electing one each.<ref>{{Cite web |title=Elecciones Generales 2026 |url=https://eg2026.onpe.gob.pe/bicameralidad/ |access-date=2026-06-01 |website=eg2026.onpe.gob.pe}}</ref> Peru has five seats in the [[Andean Parliament]], which are elected using a common constituency by open list proportional representation.<ref>{{cite web|title=Andean Parliament|url=http://www.internationaldemocracywatch.org/index.php/andean-parliament|url-status=live|archive-url=https://web.archive.org/web/20210607090117/http://www.internationaldemocracywatch.org/index.php/andean-parliament|archive-date=7 June 2021|publisher=International Democracy Watch|access-date=7 June 2021}}</ref>
+
+==== Threshold ====
+To gain seats in each chamber, parties must both reach a 5% electoral threshold of valid votes for the chamber at the national level and also qualify for at least 5% of the number of seats of the respective chamber (7 for the chamber of deputies and 3 for the senate). For the senate, the combined vote total for the district and national list senators is used when checking whether a party has reached the threshold.<ref name="ellectoralsystem">{{cite news |last1=Martinez |first1=Pedro Luis Ramos |title=Elecciones 2026: JNE precisa cómo se aplicará la valla electoral para el Senado y la Cámara de Diputados |url=https://rpp.pe/politica/elecciones/elecciones-2026-jne-precisa-como-se-aplicara-la-valla-electoral-para-el-senado-y-la-camara-de-diputados-noticia-1680167 |access-date=15 April 2026 |date=15 March 2026 |language=Spanish |archive-date=16 March 2026 |archive-url=https://web.archive.org/web/20260316065722/https://rpp.pe/politica/elecciones/elecciones-2026-jne-precisa-como-se-aplicara-la-valla-electoral-para-el-senado-y-la-camara-de-diputados-noticia-1680167 |url-status=live }}</ref><ref>{{cite news |last1=Talledo |first1=Valeria Mendoza |title=¿Qué pasará con los partidos que no superen la valla electoral tras los comicios de este domingo 12? |url=https://www.infobae.com/peru/2026/04/07/que-pasara-con-los-partidos-que-no-superen-la-valla-electoral-tras-los-comicios-de-este-domingo-12/ |access-date=15 April 2026 |date=7 April 2026 |language=Spanish |archive-date=10 April 2026 |archive-url=https://web.archive.org/web/20260410222708/https://www.infobae.com/peru/2026/04/07/que-pasara-con-los-partidos-que-no-superen-la-valla-electoral-tras-los-comicios-de-este-domingo-12/ |url-status=live }}</ref>
+
+==Presidential candidates==
+{{Main|Presidential candidates of the 2026 Peruvian general election}}
+A record number of presidential candidates participated in the first round of elections, with 36 individuals appearing on the initial ballot on 12 and 13 April 2026.<ref name=":02">{{cite web|last1=Seminario|first1=Margarita R.|title=Peru 2026 General Election: First-Round Vote Must-Knows|url=https://www.csis.org/analysis/peru-2026-general-election-first-round-vote-must-knows|website=[[Center for Strategic and International Studies]]|access-date=30 May 2026|language=en|date=7 April 2026|archive-date=24 May 2026|archive-url=https://web.archive.org/web/20260524162512/https://www.csis.org/analysis/peru-2026-general-election-first-round-vote-must-knows|url-status=live}}</ref> The first round ballot itself measured {{Convert|16.5|in|cm}} by {{Convert|17.3|in|cm}}, and was described as being the size of a [[pizza box]].<ref name=":02" /><ref>{{Cite web|last=Vega|first=Renzo Gómez|date=2026-04-28|title=Abstention and blank votes, the undisputed winners of Peru's elections|url=https://english.elpais.com/international/2026-04-28/abstention-and-blank-votes-the-undisputed-winners-of-perus-elections.html|access-date=2026-05-30|website=[[El País]]|language=en-us|archive-date=2 June 2026|archive-url=https://web.archive.org/web/20260602003927/https://english.elpais.com/international/2026-04-28/abstention-and-blank-votes-the-undisputed-winners-of-perus-elections.html|url-status=live}}</ref> [[Napoleón Becerra]] of the [[Workers and Entrepreneurs Party]] appeared on first round ballots despite dying in a car accident on 15 March 2026, since they had already been printed.<ref>{{Cite web|title=NAPO, NAPO, NAPOLEÓN: RUMBO A ELECCIONES PRESIDENCIALES PERÚ 2026 #Estreno|url=https://www.fundacionuniversidadhispana.com/elecciones-peru-2026/2650289_napo-napo-napoleon-rumbo-a-elecciones-presidenciales-peru-2026-estreno|date=10 August 2025|access-date=9 December 2025|website=Fundación Universidad Hispana|language=es}}</ref><ref>{{cite news |title=Peruvian presidential candidate dies in traffic accident in the Andes |url=https://apnews.com/article/peru-presidential-candidate-becerra-dies-andes-ba1c82ceedcb1eeea74784d8f74903c3 |access-date=15 March 2026 |work=AP NEWS |date=15 March 2026 |archive-date=15 March 2026 |archive-url=https://web.archive.org/web/20260315202145/https://apnews.com/article/peru-presidential-candidate-becerra-dies-andes-ba1c82ceedcb1eeea74784d8f74903c3 |url-status=live }}</ref>
+
+The remaining two candidates who went to the run-off election, [[Keiko Fujimori]] and [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]], appeared on the second round ballot.<ref>{{Cite web |title=Jurado Nacional de Elecciones |url=https://portal.jne.gob.pe/Portal/Pagina/Nota/20139 |access-date=2026-06-01 |website=portal.jne.gob.pe |archive-date=1 June 2026 |archive-url=https://web.archive.org/web/20260601214459/https://portal.jne.gob.pe/Portal/Pagina/Nota/20139 |url-status=live }}</ref>
+
+== Campaign ==
+The primary concerns among voters in the election were [[Corruption in Peru|corruption]] and [[Crime in Peru|crime]], though with extortion and homicides increasing greatly since the previous election, security became the main concern for voters.<ref name=":6">{{Cite web |date=26 March 2026 |title=In crime-hit Peru, candidates vie to be 'meanest sheriff' |url=https://www.france24.com/en/live-news/20260326-in-crime-hit-peru-candidates-vie-to-be-meanest-sheriff |access-date=11 April 2026 |website=[[France 24]] |language=en}}</ref><ref name=":7">{{Cite news |last1=Aquino |first1=Marco |last2=Elliott |first2=Lucinda |date=9 April 2025 |title=Peru faces record field in election, corruption and crime top voter concerns |url=https://www.reuters.com/world/americas/peru-faces-record-field-election-corruption-crime-top-voter-concerns-2026-04-09/ |work=[[Reuters]]}}</ref>
+
+=== First round ===
+
+==== Campaign issues ====
+Extortion crimes increased 1,000% between 2023 and 2025, with gangs targeting schools, small businesses and transportation workers, killing workers who refuse to pay protection payments.<ref name=":7" /><ref name=":8">{{Cite web |last=Mandujano |first=Carlos |date=15 January 2026 |title=Peru Must Act Decisively On Extortion: Prosecutor To AFP |url=https://www.barrons.com/news/peru-must-act-decisively-on-extortion-prosecutor-to-afp-77f8b2f0 |access-date=11 April 2026 |website=[[Barron's]] |language=en-us |archive-date=24 April 2026 |archive-url=https://web.archive.org/web/20260424064351/https://www.barrons.com/news/peru-must-act-decisively-on-extortion-prosecutor-to-afp-77f8b2f0 |url-status=live }}</ref><ref name=":9">{{Cite news |last=Otis |first=John |date=7 July 2025 |title=In Peru, criminal gangs are targeting schools in poor neighborhoods for extortion |url=https://www.npr.org/2025/07/07/g-s1-75023/peru-gangs-extortion-schools |access-date=11 April 2026 |work=[[NPR]] |language=en |archive-date=22 October 2025 |archive-url=https://web.archive.org/web/20251022175312/https://www.npr.org/2025/07/07/g-s1-75023/peru-gangs-extortion-schools |url-status=live }}</ref><ref name=":10">{{Cite web |last=Mandujano |first=Carlos |title='Dead Inside': How Extortion Ruins Lives In Peru |url=https://www.barrons.com/news/dead-inside-how-extortion-ruins-lives-in-peru-d54af324 |access-date=11 April 2026 |website=[[Barron's]] |language=en-us}}</ref> Between 2019 and 2024, the national homicide rate grew 200% and in 2025, about 33% of people reported knowing someone affected by extortion.<ref name=":27" /> Over 500 schools in Peru faced extortion, 325 were closed due to threats and in some instances, schools began accounting for extortion payments in their budgets.<ref name=":9" /><ref name=":10" /> In 2025, over 50 transportation drivers in Lima and surrounding areas were murdered, reportedly related to extortion conflicts.<ref name=":8" /><ref name=":10" /> According to experts, the causes of the increase of crime include economic difficulties following the [[COVID-19 pandemic in Peru|COVID-19 pandemic]], the [[Peruvian political crisis (2016–present)|political crisis in Peru]], the expansion of foreign gangs, and corrupt or bribed police cooperating with gangs.<ref name=":8" /><ref name=":9" /><ref name=":11">{{Cite web |date=21 March 2026 |title=Peru's crowded presidential race zeroes in on organized crime |url=https://www.france24.com/en/live-news/20260321-peru-s-crowded-presidential-race-zeroes-in-on-organized-crime |access-date=11 April 2026 |website=[[France 24]] |language=en}}</ref> States of emergencies were declared and troops were deployed onto streets, though this resulted in no change in crime rates.<ref name=":10" /> In a notable event, the [[Círculo Militar de Chorrillos shooting]] occurred when a gang attempting to extort the [[cumbia]] band [[Agua Marina]] fired their guns at the band while on stage on 8 October 2025, with the shooting leading to the [[impeachment of Dina Boluarte]] as some argued her crime prevention policies being ineffective.<ref name=":15" />
+
+The growth of crime resulted in extreme positions by some political candidates.<ref name=":6" /> Front-runner Keiko Fujimori proposed having those incarcerated perform jobs in order to eat, stating "We will force prisoners to work for their food".<ref name=":11" /> Carlos Álvarez described himself as "the Peruvian [[Nayib Bukele|Bukele]]",<ref name=":12">{{Cite web|date=28 December 2025|title=Récord de candidatos para las elecciones en Perú|url=https://www.pagina12.com.ar/2025/12/28/record-de-candidatos-para-las-elecciones-en-peru/|access-date=4 March 2026|website=[[Página 12]]|language=es|quote=The popular comic actor Carlos Álvarez and the retired congressman and general José Williams are two other far-right candidates. Álvarez, who campaigns calling himself "the Peruvian Bukele", bets on differentiating himself by playing the card of the outsider.|archive-date=29 April 2026|archive-url=https://web.archive.org/web/20260429163204/https://www.pagina12.com.ar/2025/12/28/record-de-candidatos-para-las-elecciones-en-peru/|url-status=live}}</ref> and said that if in office, he would designate all criminals as military targets subject to death if they did not surrender, saying "to hell with the human rights of criminals".<ref>{{Cite web|date=29 October 2025|title="Al carajo los derechos humanos", asegura Carlos Álvarez, cómico y precandidato presidencial|url=https://www.infobae.com/peru/2025/10/29/al-carajo-los-derechos-humanos-asegura-carlos-alvarez-comico-y-precandidato-presidencial/|access-date=4 March 2026|website=[[Infobae]]|language=es-ES|archive-date=12 February 2026|archive-url=https://web.archive.org/web/20260212213757/https://www.infobae.com/peru/2025/10/29/al-carajo-los-derechos-humanos-asegura-carlos-alvarez-comico-y-precandidato-presidencial/|url-status=live}}</ref> Rafael Lopez Aliaga proposed capturing criminals, helicoptering them into prisons in the [[Amazon rainforest]] and having the jails surrounded by [[South American bushmaster]] vipers.<ref name=":6" /><ref name=":11" /> Lopez Aliaga also proposed greater cooperation with the United States on crime, approving American troops to apprehend criminals in Peru and sending prisoners to the [[Terrorism Confinement Center]] in [[El Salvador]].<ref name=":11" /><ref>{{Cite news |last=Garro |first=Marco |date=8 October 2025 |title=Meet 'Porky,' Lima's Right-Wing Mayor Embracing the MAGA Movement |url=https://www.nytimes.com/2025/10/08/world/americas/porky-lopez-aliaga-lima-mayor-trump.html |access-date=11 April 2026 |work=The New York Times |language=en-US |issn=0362-4331 |archive-date=3 November 2025 |archive-url=https://web.archive.org/web/20251103131000/https://www.nytimes.com/2025/10/08/world/americas/porky-lopez-aliaga-lima-mayor-trump.html |url-status=live }}</ref>
+
+=== Second round ===
+Multiple protests occurred throughout Peru against Fujimori's candidacy after she entered the second round, with [[anti-Fujimorists]] sharing fears that she will lead an [[authoritarian]] government similar to her father, [[Alberto Fujimori]], who served 16 years in prison following convictions for [[crimes against humanity]].<ref>{{Cite web |date=2026-05-31 |title='Fujimori never again!' Protesters fill streets of Lima ahead of Peru presidential elections |url=https://www.france24.com/en/fujimori-never-again-protesters-fill-streets-of-lima-ahead-of-peru-presidential-elections |access-date=2026-06-03 |website=[[France 24]] |language=en |archive-date=3 June 2026 |archive-url=https://web.archive.org/web/20260603081726/https://www.france24.com/en/fujimori-never-again-protesters-fill-streets-of-lima-ahead-of-peru-presidential-elections |url-status=live }}</ref><ref name=":2">{{Cite web |date=31 May 2026 |title=Thousands in Peru protest Fujimori presidential run |url=https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_clip-thousands-in-peru-protest-fujimori-run-300526 |access-date=2026-06-03 |website=Al Jazeera |language=en}}</ref> [[Harvard University]] professor [[Steven Levitsky]] stated that if Fujimori were to attempt to create an authoritarian government following an election victory, she would face little opposition from Peru's institutions as she has taken advantage of political connections in the [[Peruvian Armed Forces|Armed Forces]], businesses and with "criminal or semi-criminal alliances".<ref>{{Cite web |last=García |first=Alejandro Céspedes |date=2026-05-31 |title=Levistky: "Si hubiera un esfuerzo autoritario de parte del gobierno de Keiko, la oposición sería débil" |url=https://larepublica.pe/politica/2026/05/31/levistky-si-hubiera-un-esfuerzo-autoritario-de-parte-del-gobierno-de-keiko-la-oposicion-seria-debil-hnews-2509016 |access-date=2026-06-03 |website=[[La República]] |language=es |archive-date=3 June 2026 |archive-url=https://web.archive.org/web/20260603081728/https://larepublica.pe/politica/2026/05/31/levistky-si-hubiera-un-esfuerzo-autoritario-de-parte-del-gobierno-de-keiko-la-oposicion-seria-debil-hnews-2509016 |url-status=live }}</ref> These protests affected Fujimori's final campaign rally in [[Huancayo]], [[Junín province|Junín]], on 26 May 2026, where protests became so severe that police resorted to dispersing demonstrators with [[tear gas]], with Fujimori announcing following the incident that "Order will return to Junín and all of Peru".<ref>{{Cite web |last=Paucar |first=Luis |date=2026-05-27 |title=Gresca, bombas lacrimógenas y quema de banderas de Fuerza Popular marcan cierre de campaña de Keiko Fujimori en Huancayo |url=https://www.infobae.com/peru/2026/05/27/gresca-protestas-y-quema-de-banderas-de-fuerza-popular-marcan-el-cierre-de-campana-de-keiko-fujimori-en-huancayo/ |access-date=2026-06-03 |website=[[Infobae]] |language=es |archive-date=3 June 2026 |archive-url=https://web.archive.org/web/20260603081726/https://www.infobae.com/peru/2026/05/27/gresca-protestas-y-quema-de-banderas-de-fuerza-popular-marcan-el-cierre-de-campana-de-keiko-fujimori-en-huancayo/ |url-status=live }}</ref> On 31 May 2026, thousands marched in Lima against Fujimori's candidacy.<ref name=":2" /> During the campaign, she was endorsed by international conservative figures including [[Abelardo de la Espriella]], [[Jeanine Áñez]], [[Iván Duque]], [[Felipe Calderón]], [[Vicente Fox]], [[Mauricio Macri]], [[Eduardo Frei Ruiz-Tagle]], [[Flávio Bolsonaro]], [[José Antonio Kast]], and [[Mariano Rajoy]].<ref>{{Cite web|url=https://grupolibertadydemocracia.org/declaraciones/grupo-libertad-y-democracia-respalda-a-keiko-fujimori-en-defensa-de-la-democracia-peruana/|title=Grupo Libertad y Democracia respalda a Keiko Fujimori en defensa de la democracia peruana &#124; Grupo Libertad y Democracia|website=grupolibertadydemocracia.org}}</ref><ref>{{Cite web|url=https://www.semana.com/politica/articulo/abelardo-de-la-espriella-respaldo-candidatura-de-keiko-fujimori-en-peru-ha-sido-una-luchadora-de-la-democracia/202610/|title=Abelardo de la Espriella respaldó candidatura de Keiko Fujimori en Perú: "Ha sido una luchadora de la democracia"|date=6 June 2026|website=Semana – Últimas Noticias de Colombia y el Mundo}}</ref>
+
+==== Second round candidate endorsements ====
+For the second round of elections, former candidates provided or withheld endorsements for second round candidates:
+{| class="wikitable"
+|-
+! colspan="2" | Party
+! Congress %
+! colspan="2" | Endorsement
+|-
+| style="background-color: {{party color|Popular Renewal}};" |
+| [[Popular Renewal]]
+| 11.04%
+| style="background-color: {{party color|Popular Force}};" |
+| [[Keiko Fujimori]]<ref>{{cite web|title = Renovación Popular respaldaría a Keiko Fujimori si rechaza resultados electorales por "indicios" de fraude|url = https://www.apnoticias.pe/renovacion-popular-respaldaria-a-keiko-fujimori-si-rechaza-resultados-electorales-por-indicios-de-fraude-1503951|website = AP Noticias|date = 5 June 2026|access-date = 5 June 2026|archive-date = 5 June 2026|archive-url = https://web.archive.org/web/20260605203853/https://www.apnoticias.pe/renovacion-popular-respaldaria-a-keiko-fujimori-si-rechaza-resultados-electorales-por-indicios-de-fraude-1503951|url-status = live}}</ref>
+|-
+| style="background-color: {{party color|Party of Good Government}};" |
+| [[Party of Good Government]]
+| 10.47%<!--only add the second digit once it the results are finalized-->
+| colspan="2" | For spoilt/blank ballots<ref name="spoilg">{{cite web|last = Rodriguez|first = Luis|title = Nieto anunció que su partido viciará su voto en la segunda vuelta: "Escribirá en la boleta 'queremos un buen gobierno'"|url = https://rpp.pe/politica/elecciones/nieto-anuncio-que-su-partido-viciara-su-voto-en-la-segunda-vuelta-escribira-en-la-boleta-queremos-un-buen-gobierno-noticia-1689783|website = Radio Programas del Perú|date = 23 May 2026|access-date = 24 May 2026|language = es|archive-date = 24 May 2026|archive-url = https://web.archive.org/web/20260524003442/https://rpp.pe/politica/elecciones/nieto-anuncio-que-su-partido-viciara-su-voto-en-la-segunda-vuelta-escribira-en-la-boleta-queremos-un-buen-gobierno-noticia-1689783|url-status = live}}</ref>
+|-
+| style="background-color: {{party color|Ahora Nación}};" |
+| [[Ahora Nación]]
+| 8.18%
+| style="background-color:{{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref name=":23">{{cite web |last=Silva |first=Renato |date=2026-04-15 |title=Ahora Nación, de Alfonso López Chau, anuncia que votará por Roberto Sánchez en segunda vuelta |url=https://altavoz.pe/politica/ahora-nacion-de-alfonso-lopez-chau-anuncia-que-votara-por-roberto-sanchez-en-segunda-vuelta/ |access-date=2026-05-28 |website=Altavoz |language=es |archive-date=10 June 2026 |archive-url=https://web.archive.org/web/20260610065946/https://altavoz.pe/politica/ahora-nacion-de-alfonso-lopez-chau-anuncia-que-votara-por-roberto-sanchez-en-segunda-vuelta/ |url-status=live }}</ref>
+|-
+| style="background-color: {{party color|Civic Party OBRAS}};" |
+| [[Civic Party OBRAS]]
+| 8.84%
+| style="background-color: {{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref>{{cite web |title=Partido Cívico Obras respalda a Roberto Sánchez: "Es tiempo de volver a unir al Perú" |website=Caretas |date=26 May 2026 |url=https://caretas.pe/politica/partido-civico-obras-respalda-a-roberto-sanchez-es-tiempo-de-volver-a-unir-al-peru/ |language=es |access-date=28 May 2026 |archive-date=27 May 2026 |archive-url=https://web.archive.org/web/20260527230741/https://caretas.pe/politica/partido-civico-obras-respalda-a-roberto-sanchez-es-tiempo-de-volver-a-unir-al-peru/ |url-status=live }}</ref>
+|-
+| style="background: {{party color|Country for All}};" |
+| [[Country for All]]
+| 6.3%
+| colspan=2|No endorsement<ref name=Gestion/>
+|-
+| style="background-color: {{party color|First the People (Peru)}};" |
+| [[First the People (Peru)|First the People]] 
+| 3.3%
+| style="background-color: {{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref>{{Cite web|url=https://www.infobae.com/peru/2026/05/13/primero-la-gente-anuncia-apoyo-critico-a-roberto-sanchez-en-segunda-vuelta-fujimori-nunca-mas/|title=Primero La Gente anuncia "apoyo crítico" a Roberto Sánchez en segunda vuelta: "¡Fujimori nunca más!"|first=Diego|last=Casimiro Ore|date=2026-05-13|work=infobae|language=es|access-date=15 May 2026|archive-date=14 May 2026|archive-url=https://web.archive.org/web/20260514205801/https://www.infobae.com/peru/2026/05/13/primero-la-gente-anuncia-apoyo-critico-a-roberto-sanchez-en-segunda-vuelta-fujimori-nunca-mas/|url-status=live}}</ref>
+|-
+| style="background: {{party color|People's Liberty}};" |
+| [[People's Liberty]]
+| 1.1%
+| colspan=2|No endorsement<ref name=Gestion/>
+|-
+| style="background: {{party color|Free Peru}};" |
+| [[Free Peru]]
+| 
+| colspan=2|No endorsement<ref name=Cerron>{{Cite web|url=https://cosas.pe/politica/373814/vladimir-cerron-y-peru-libre-descartan-apoyo-a-roberto-sanchez-y-otorgan-libertad-para-votar-en-la-segunda-vuelta/|title=Vladimir Cerrón y Perú Libre descartan apoyo a Roberto Sánchez y otorgan libertad para votar en la segunda vuelta|first=Rodrigo|last=Chillitupa Tantas|date=2026-05-29|work=COSAS|language=es}}</ref>
+|-
+| style="background: {{party color|Purple Party}};" |
+| [[Purple Party]]
+| 0.8%
+| colspan=2|No endorsement<ref name=Gestion/>
+|-
+| style="background-color: {{party color|Venceremos (Peru)}};" |
+| {{ill|Venceremos (Peru)|es|Venceremos (Perú)|lt=Venceremos}}
+| 0.6%
+| style="background-color: {{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref name=VenceremosEndorsement>{{cite web |title=Elecciones 2026: Alianza de izquierda busca asegurar defensa del voto popular ante el fujimorismo |website=Exitosa Noticias |date=14 April 2026 |url=https://www.exitosanoticias.pe/elige-bien/elecciones-2026-alianza-izquierda-busca-asegurar-defensa-voto-popular-fujimorismo-n173548/amp |language=es |access-date=15 April 2026 |archive-date=16 April 2026 |archive-url=https://web.archive.org/web/20260416112151/https://www.exitosanoticias.pe/elige-bien/elecciones-2026-alianza-izquierda-busca-asegurar-defensa-voto-popular-fujimorismo-n173548/amp |url-status=live }}</ref>
+|-
+| style="background-color: {{party color|Workers and Entrepreneurs Party}};" |
+| [[Workers and Entrepreneurs Party]]
+| 0.1%
+| style="background-color: {{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref>{{cite web |title=Partido PTE anuncia respaldo a candidatura de Roberto Sánchez |website=Canal N |date=8 April 2026 |url=https://canaln.pe/actualidad/partido-pte-anuncia-respaldo-candidatura-roberto-sanchez-n491345 |language=es |access-date=15 May 2026}}</ref>
+|-
+! colspan="2" | Candidate
+! First round %
+! colspan="2" | Endorsement
+|-
+| style="background-color: {{party color|Popular Renewal}};" |
+| [[Rafael López Aliaga]]
+| 11.90%
+| style="background-color: {{party color|Popular Force}};" |
+| [[Keiko Fujimori]]<ref>{{cite web|title = Rafael López Aliaga anuncia respaldo a candidatura de Keiko Fujimori en segunda vuelta|url = https://caretas.pe/politica/rafael-lopez-aliaga-anuncia-respaldo-a-candidatura-de-keiko-fujimori-en-segunda-vuelta-renovacion-popular/|website = Revista Caretas|date = 4 June 2026|access-date = 5 June 2026|archive-date = 4 June 2026|archive-url = https://web.archive.org/web/20260604200915/https://caretas.pe/politica/rafael-lopez-aliaga-anuncia-respaldo-a-candidatura-de-keiko-fujimori-en-segunda-vuelta-renovacion-popular/|url-status = live}}</ref>
+|-
+| style="background: {{party color|Party of Good Government}};" |
+| [[Jorge Nieto]]
+| 10.98%
+| colspan="2" | For spoilt/blank ballots<ref name="spoilg"/>
+|-
+| style="background-color: {{party color|Civic Party OBRAS}};" |
+|[[Ricardo Belmont]]
+|10.15%
+| style="background-color: {{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref name="LRsanchezSupport">{{cite news |last1=Alva |first1=Diego |title=Roberto Sánchez sella alianza con Belmont y Forsyth para hacer frente al fujimorismo |url=https://larepublica.pe/politica/2026/06/04/roberto-sanchez-sella-alianza-con-belmont-y-forsyth-para-hacer-frente-al-fujimorismo-keiko-fujimori-hnews-185016 |access-date=12 June 2026 |work=larepublica.pe |date=4 June 2026 |language=es |archive-date=6 June 2026 |archive-url=https://web.archive.org/web/20260606050626/https://larepublica.pe/politica/2026/06/04/roberto-sanchez-sella-alianza-con-belmont-y-forsyth-para-hacer-frente-al-fujimorismo-keiko-fujimori-hnews-185016 |url-status=live }}</ref>
+|-
+| style="background-color: {{party color|Ahora Nación}};" |
+| [[Alfonso López Chau]]
+| 7.29%
+| style="background-color:{{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref name=":23" />
+|-
+| style="background-color: {{party color|First the People (Peru)}};" |
+|[[Marisol Pérez Tello]]
+| 3.41%
+| colspan="2" |No endorsement<ref>{{Cite web |author=Valeria Mendoza Talledo|date=2026-05-22 |title="Ni caprichoso ni de hartazgo": Marisol Pérez Tello reafirma voto viciado y dice no confiar en Keiko Fujimori ni Roberto Sánchez |url=https://www.infobae.com/peru/2026/05/22/ni-caprichoso-ni-de-hartazgo-marisol-perez-tello-reafirma-voto-viciado-y-dice-no-confiar-en-keiko-fujimori-ni-roberto-sanchez/ |access-date=2026-06-16 |website=infobae |language=es}}</ref>
+|-
+| style="background-color:{{party color|SíCreo}};" |
+| [[Carlos Espá]]
+| 3.35%
+| style="background-color: {{party color|Popular Force}};" |
+| [[Keiko Fujimori]]<ref>{{cite AV media |url=https://www.facebook.com/reel/1788985972062778/ |title="Los adversarios son los comunistas" |access-date=2026-05-08 |via=Diario El Comercio (Perú) |language=es}}</ref>
+|-
+| style="background-color: {{party color|We Are Peru}};" |
+|[[George Forsyth (footballer)|George Forsyth]]
+|0.91%
+| style="background-color: {{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref name="LRsanchezSupport"/>
+|-
+| style="background-color: {{party color|Venceremos (Peru)}};" |
+| {{ill|Ronald Atencio|es|lt=Ronald Atencio}}
+| 0.84%
+| style="background-color: {{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref name=VenceremosEndorsement/>
+|-
+| style="background-color: {{party color|A Different Path}};" |
+| {{ill|Rosario Fernández Bazán|es|lt=Rosario Fernández}}
+| 0.77%
+| style="background-color: {{party color|Together for Peru}};" |
+| [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]<ref>{{cite web |date=2026-05-07 |title=Hermana de Loco se suma a Roberto Sánchez en segunda vuelta |url=https://n60.pe/hermana-de-loco-se-suma-a-roberto-sanchez-en-segunda-vuelta/ |access-date=2026-05-08 |website=Noticias del Norte del País |language=es}}</ref>
+|-
+| style="background: {{party color|Free Peru}};" |
+| [[Vladimir Cerrón]]
+| 0.60%
+| colspan=2|No endorsement<ref name=Cerron/>
+|-
+| style="background: {{party color|National Unity (Peru, 2025)}};" |
+| {{ill|Roberto Chiabra|es}}
+| 0.41%
+| style="background-color: {{party color|Popular Force}};" |
+| [[Keiko Fujimori]]<ref name=Gestion>{{cite web|url=https://gestion.pe/peru/politica/elecciones-2026-los-partidos-que-apoyan-a-keiko-fujimori-y-roberto-sanchez-noticia/|title=Elecciones 2026: Los partidos que apoyan a Keiko Fujimori y Roberto Sánchez|work=Gestión|language=es|date=2026-05-27|access-date=2026-05-31|archive-date=28 May 2026|archive-url=https://web.archive.org/web/20260528233914/https://gestion.pe/peru/politica/elecciones-2026-los-partidos-que-apoyan-a-keiko-fujimori-y-roberto-sanchez-noticia/|url-status=live}}</ref>
+|-
+| style="background: {{party color|People's Liberty}};" |
+| [[Rafael Belaúnde]]
+| 0.24%
+| style="background-color: {{party color|Popular Force}};" |
+| [[Keiko Fujimori]]<ref>{{cite web|last = Saavedra|first = Narda|title = Excandidatos definen posturas: los que apoyan a Sánchez, Fujimori y promueven el voto viciado|url = https://larepublica.pe/politica/2026/05/22/excandidatos-definen-posturas-los-que-apoyan-a-roberto-sanchez-keiko-fujimori-y-promueven-el-voto-viciado-hnews-1972080|website = La República|date = 22 May 2026|access-date = 24 May 2026|language = es|archive-date = 24 May 2026|archive-url = https://web.archive.org/web/20260524031540/https://larepublica.pe/politica/2026/05/22/excandidatos-definen-posturas-los-que-apoyan-a-roberto-sanchez-keiko-fujimori-y-promueven-el-voto-viciado-hnews-1972080|url-status = live}}</ref>
+|}
+
+== Conduct ==
+
+=== First round ===
+Days before the election, a survey showed that 80% of respondents said they did not understand the mechanisms of voting, especially with such a large ballot with multiple columns.<ref>{{Cite magazine|last=Alarcón|first=Daniel|date=2026-06-04|title=Peru's Politics Are a Disaster, but Does It Matter?|url=https://www.newyorker.com/news/the-lede/perus-politics-are-a-disaster-but-does-it-matter|access-date=2026-06-22|magazine=[[The New Yorker]]|language=en-US|issn=0028-792X|archive-date=22 June 2026|archive-url=https://web.archive.org/web/20260622214425/https://www.newyorker.com/news/the-lede/perus-politics-are-a-disaster-but-does-it-matter|url-status=live}}</ref>
+
+[[Election monitoring]] was performed by the Electoral Observation Mission of the [[European Union]], which comprised 150 members, and 90 officials of the [[Organization of American States]] (OAS).<ref>{{Cite web |date=7 April 2026 |title=Peru's 2026 Elections: EU and OAS deploy electoral observers nationwide |url=https://andina.pe/ingles/noticia-perus-2026-elections-eu-and-oas-deploy-electoral-observers-nationwide-1070171.aspx |access-date=14 April 2026 |website=[[Andina (news agency)|Andina]] |language=es |archive-date=27 April 2026 |archive-url=https://web.archive.org/web/20260427023955/https://andina.pe/ingles/noticia-perus-2026-elections-eu-and-oas-deploy-electoral-observers-nationwide-1070171.aspx |url-status=live }}</ref> Other monitoring included individuals from the [[Association of World Election Bodies]], the [[Carter Center]], the Center for Electoral Advisory and Promotion and the Inter-American Union of Electoral Organizations, alongside local monitoring groups. About 10,550 locations hosted 92,720 voting stations nationally. Internationally, 4,000 voting stations were established, though voting in Israel, Jordan, Kuwait, Lebanon, Qatar, and Saudi Arabia was cancelled due to the [[2026 Iran war]].<ref name=":14">{{Cite web |date=13 January 2026 |title=Peru's FA Min: Six international organizations to deploy electoral observation missions |url=https://andina.pe/ingles/noticia-perus-fa-min-six-international-organizations-to-deploy-electoral-observation-missions-1059056.aspx |access-date=14 April 2026 |website=[[Andina (news agency)|Andina]] |language=es |archive-date=19 April 2026 |archive-url=https://web.archive.org/web/20260419045944/https://andina.pe/ingles/noticia-perus-fa-min-six-international-organizations-to-deploy-electoral-observation-missions-1059056.aspx |url-status=live }}</ref><ref name=":02" />
+
+On election day, ballots and materials for dozens of polling stations were delivered late or not delivered at all, resulting in over 50,000 people being unable to vote. Voting issues in [[Orlando, Florida]], and [[Paterson, New Jersey]], were also reported. These complications resulted in an extension in the voting deadline for the affected voters.<ref name=":13" /> Voters in Chile, where about 113,000 Peruvians reside, expressed frustrations as well when shuttles promised to bring people to polling stations were not used and when the opening of voting at {{Interlanguage link|Espacio Riesco|es|Espacio Riesco}} was delayed by five hours, starting at 12:00 noon ([[UTC−05:00]]) instead of the planned 7:00.<ref>{{Cite web |last=Nomberto |first=Isabel |date=12 April 2026 |title=Peruanos en Chile denuncian desorden en Elecciones 2026: "Hubiera preferido pagar la multa" |url=https://larepublica.pe/sociedad/2026/04/12/peruanos-en-chile-denuncian-desorden-en-elecciones-2026-hubiera-preferido-pagar-la-multa-785256 |access-date=14 April 2026 |website=[[La República]] |language=es |archive-date=14 April 2026 |archive-url=https://web.archive.org/web/20260414011013/https://larepublica.pe/sociedad/2026/04/12/peruanos-en-chile-denuncian-desorden-en-elecciones-2026-hubiera-preferido-pagar-la-multa-785256 |url-status=live }}</ref> Reports by the [[National Office of Electoral Processes]] (ONPE) showed that this delay had an insignificant effect on voter turnout.<ref name=":21"/>
+
+[[Keiko Fujimori]] was quickly determined to be the candidate most likely heading to the second round of presidential elections. As the tabulation of voting data occurred, left-wing candidate [[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]] saw his position move from 6th place to 3rd place by 15 April. While a group of [[European Union]] electoral observers and governmental authorities reported no voting irregularities, right-wing protestors gathered at the headquarters of the [[National Jury of Elections]] (JNE), participating in [[sit-in]] demonstrations.<ref name=":17" /> On 24 April 2026, the JNE ruled 3–2 against annulling the first round of elections and said that the second round would occur on its already scheduled date of 7 June 2026.<ref name=":21" />
+
+=== Second round ===
+A report reviewed by [[OjoPúblico]] showed that the scanning of ballots in the first round reportedly failed in 17 countries, and Foreign Minister [[Carlos Pareja Ríos]], a former ambassador to the United States, demanded that the Electoral Counting System (SCE) be suspended for the second round at 108 consulate offices in 59 countries, which represented about 1.1 million eligible voters.<ref name=":24">{{Cite web |last=Quispe |first=Diego |date=2026-06-21 |title=Digitalización de actas electorales del extranjero falló en al menos 17 países durante la primera vuelta |url=https://ojo-publico.com/politica/digitalizacion-actas-fallo-mitad-consulados-primera-vuelta |access-date=2026-06-23 |website=Ojo Público |language=es |archive-date=23 June 2026 |archive-url=https://web.archive.org/web/20260623042439/https://ojo-publico.com/politica/digitalizacion-actas-fallo-mitad-consulados-primera-vuelta |url-status=live }}</ref> A week before the second round, the ONPE suspended the use of the SCE and decided that voting minutes would be physically transferred to Peru in [[diplomatic bag]]s and reviewed.<ref name=":24" /> The decision raised some concern from Víctor Rico Frontaura, head of the OAS monitoring group, though he said no substantial irregularities affected the second round.<ref name=":24" />
+
+Following a complaint by journalist Karla Ramírez about irregularities in favor of Together For Peru (mainly, other ballots were marked in favor of Popular Force), the [[ONPE]] intervened, together with the national police, the [[Public Ministry of Peru|Public Ministry]], and the armed forces. It was later confirmed that 90 ballots had been previously marked, two people were arrested, and that fifty ballots had already been replaced with new ones.<ref>{{Cite web |last=Orellana |first=Daniela |date=2026-06-07 |title=Segunda Vuelta 2026: detectan cientos de cédulas marcadas previamente en locales de votación |url=https://larepublica.pe/politica/2026/06/07/segunda-vuelta-2026-dectectan-decenas-de-cedulas-previamente-marcadas-en-locales-de-votacion-durante-elecciones-presidenciales-455371 |access-date=2026-06-07 |website=larepublica.pe |language=es |archive-date=7 June 2026 |archive-url=https://web.archive.org/web/20260607185336/https://larepublica.pe/politica/2026/06/07/segunda-vuelta-2026-dectectan-decenas-de-cedulas-previamente-marcadas-en-locales-de-votacion-durante-elecciones-presidenciales-455371 |url-status=live }}</ref><ref>{{Cite web |last=Bianchi |first=Jazmín |date=2026-06-07 |title=Detienen a personeros por marcar cédulas: ONPE repone el material y Fiscalía inicia diligencias |url=https://larepublica.pe/politica/2026/06/07/detienen-a-personeros-por-marcar-cedulas-onpe-repone-el-material-y-fiscalia-inicia-diligencias-hnews-243180 |access-date=2026-06-07 |website=La Republica |language=es |archive-date=7 June 2026 |archive-url=https://web.archive.org/web/20260607185108/https://larepublica.pe/politica/2026/06/07/detienen-a-personeros-por-marcar-cedulas-onpe-repone-el-material-y-fiscalia-inicia-diligencias-hnews-243180 |url-status=live }}</ref>
+
+Due to very tight results and highly likely recount, ONPE said a full count was expected to be completed by July.<ref>{{Cite web |date=2026-06-09 |title=Peru election too close to call with prospect of weeks of uncertainty |url=https://www.bbc.com/news/articles/cewq151pw78o |access-date=2026-06-09 |website=www.bbc.com |language=en-GB |archive-date=9 June 2026 |archive-url=https://web.archive.org/web/20260609094852/https://www.bbc.com/news/articles/cewq151pw78o |url-status=live }}</ref>
+
+Both Fujimori and Sánchez called for ballots to be annulled in each other's strongholds, citing alleged irregularities.<ref>{{Cite web |last=Ramos |first=Brayan |date=2026-11-06 |title=Fuerza Popular y Juntos por el Perú presentan once pedidos de nulidad de mesas de sufragio en Perú y EE.UU |url=https://ojo-publico.com/politica/elecciones-2026/fuerza-popular-y-juntos-por-el-peru-buscan-anular-votos-peru-y-eeuu |access-date=2026-06-23 |website=[[Ojo Público]] |language=es}}</ref> While Sánchez received the majority of domestic votes, Fujimori's later lead was attributed to foreign votes from expatriates located mainly in Argentina, Spain and the United States.<ref name=":25">{{Cite web |last=Ros |first=Carla Samon |date=2026-06-09 |title=Peru's diaspora emerges as tie-breaker in razor-edge presidential race |url=https://www.japantimes.co.jp/news/2026/06/09/world/politics/peru-diaspora-tie-breaker-election/ |access-date=2026-06-23 |website=The Japan Times |language=en |archive-date=10 June 2026 |archive-url=https://web.archive.org/web/20260610040831/https://www.japantimes.co.jp/news/2026/06/09/world/politics/peru-diaspora-tie-breaker-election/ |url-status=live }}</ref> Following the cancellation of the SCE, the arrival commercial flights of consular staff holding foreign votes began on 10 June.<ref name=":24" /> Sánchez has not conceded and has alleged fraud, especially after the SCE suspension with international voting, saying he has instead won and would defend his "popular victory", drawing comparison to Fujimori's own initial rejection of the [[2021 Peruvian general election|2021 election]].<ref name=":24" /><ref name="AQ" /><ref name="WSJ Call" />
+
+==Opinion polls==
+{{main|Opinion polling for the 2026 Peruvian general election}}
+
+=== First round ===
+Opinion polling experienced multiple shifts between the more than 30 candidates in the first round of presidential elections. In a September 2025 poll, about 71% of respondents made the mistake of believing [[Mario Vizcarra]] was his brother [[Martín Vizcarra]].<ref>{{Cite news|last=Vivas|first=Fernando|date=29 September 2025|title=El plan Vizcarra. Crónica de Fernando Vivas sobre la estrategia del partido del expresidente|url=https://elcomercio.pe/elecciones/martin-vizcarra-el-plan-vizcarra-cronica-de-fernando-vivas-sobre-la-estrategia-de-peru-primero-para-el-2026-mario-vizcarra-tlcnota-noticia/#google_vignette|access-date=17 October 2025|work=El Comercio|language=es-PE|issn=1605-3052|archive-date=10 October 2025|archive-url=https://web.archive.org/web/20251010013945/https://elcomercio.pe/elecciones/martin-vizcarra-el-plan-vizcarra-cronica-de-fernando-vivas-sobre-la-estrategia-de-peru-primero-para-el-2026-mario-vizcarra-tlcnota-noticia/#google_vignette|url-status=live}}</ref> Despite this, a later poll showed Vizcarra becoming the second most popular presidential candidate by mid-October 2025.<ref>{{Cite web |date=16 October 2025|title=PIENSO, LUEGO VOTO. Ipsos: Keiko Fujimori baja al tercer lugar con 6% en intención de voto|url=https://peru21.pe/politica/pienso-luego-voto-ipsos-keiko-fujimori-baja-al-tercer-lugar-con-6-en-intencion-de-voto/|access-date=16 October 2025|website=Perú21}}</ref> His lead steadily declined shortly thereafter. Wolfgang Grozo's standings in the polls grew by early March 2026,<ref name=":83">{{Cite web|last=Cardoza|first=Josué Chávez|date=2026-03-13|title=Wolfgang Grozo: ¿quién es el candidato presidencial de Integridad Democrática?|url=https://larepublica.pe/politica/2026/02/22/elecciones-2026-wolfgang-grozo-quien-es-el-candidato-presidencial-de-integridad-democratica-hnews-1091728|access-date=2026-03-15|website=[[La República]]|language=es|archive-date=22 April 2026|archive-url=https://web.archive.org/web/20260422113708/https://larepublica.pe/politica/2026/02/22/elecciones-2026-wolfgang-grozo-quien-es-el-candidato-presidencial-de-integridad-democratica-hnews-1091728|url-status=live}}</ref> as he became the fifth most supported presidential candidate according to CPI polls<ref name=":102">{{Cite web|last=Espinoza|first=Carlos|date=2026-03-07|title=Nueva encuesta de CPI confirma tercer lugar de Alfonso López Chau y aparición de Wolfgang Grozo|url=https://www.infobae.com/peru/2026/03/07/nueva-encuesta-de-cpi-confirma-tercer-lugar-de-alfonso-lopez-chau-y-aparicion-de-wolfgang-grozo/|access-date=2026-03-08|website=[[Infobae]]|language=es-ES|archive-date=10 March 2026|archive-url=https://web.archive.org/web/20260310034507/https://www.infobae.com/peru/2026/03/07/nueva-encuesta-de-cpi-confirma-tercer-lugar-de-alfonso-lopez-chau-y-aparicion-de-wolfgang-grozo/|url-status=live}}</ref><ref>{{Cite web|last=Chillitupa|first=Rodrigo|date=2026-03-07|title=Elecciones 2026: candidato Wolfgang Grozo sube al quinto lugar en nueva encuesta|url=https://cosas.pe/politica/367223/elecciones-2026-candidato-wolfgang-grozo-sube-al-quinto-lugar-en-nueva-encuesta/|access-date=2026-03-08|website=Cosas Perú|language=es|archive-date=14 April 2026|archive-url=https://web.archive.org/web/20260414180723/https://cosas.pe/politica/367223/elecciones-2026-candidato-wolfgang-grozo-sube-al-quinto-lugar-en-nueva-encuesta/|url-status=live}}</ref> and assumed fourth place in the IEP polls.<ref name=":52">{{Cite web|last=Saavedra|first=Narda|date=2026-03-13|title=Keiko Fujimori y RLA experimentan caída en intención de voto mientras que López Chau y Wolfgang Grozo aumentan|url=https://larepublica.pe/politica/2026/03/13/encuestas-presidenciales-2026-keiko-fujimori-y-rla-experimentan-caida-en-intencion-de-voto-mientras-que-lopez-chau-y-wolfgang-grozo-aumentan-hnews-997896|access-date=2026-03-15|website=[[La República]]|language=es|archive-date=24 June 2026|archive-url=https://web.archive.org/web/20260624201617/https://larepublica.pe/politica/2026/03/13/encuestas-presidenciales-2026-keiko-fujimori-y-rla-experimentan-caida-en-intencion-de-voto-mientras-que-lopez-chau-y-wolfgang-grozo-aumentan-hnews-997896|url-status=live}}</ref>
+
+In most of the period prior to the election, López Aliaga was recognized as the frontrunner in polls.<ref>{{Cite web|date=2025-09-30|title=Intención de Voto Septiembre 2025-II|url=https://www.ipsos.com/es-pe/intencion-de-voto-septiembre-2025-ii-encuesta-america-tv-ipsos|access-date=2025-10-14|website=Ipsos|language=es-pe|archive-date=10 December 2025|archive-url=https://web.archive.org/web/20251210100602/https://www.ipsos.com/es-pe/intencion-de-voto-septiembre-2025-ii-encuesta-america-tv-ipsos|url-status=live}}</ref> Days before the election on 4 April 2026, ''[[La República]]'' reported that the chief of Opinion Studies at the [[Institute of Peruvian Studies]], Patricia Zárate, observed that Sánchez was experiencing a similar growth in support in polls as Castillo did at the same period prior to the [[2021 Peruvian general election]].<ref>{{Cite web|last=Saavedra|first=Narda|date=2026-04-04|title=Roberto Sánchez presenta un similar crecimiento a Pedro Castillo en el 2021|url=https://larepublica.pe/politica/2026/04/03/roberto-sanchez-presenta-un-similar-crecimiento-a-pedro-castillo-en-el-2021-hnews-112848|access-date=2026-04-15|website=[[La República]]|language=es|archive-date=8 May 2026|archive-url=https://web.archive.org/web/20260508190143/https://larepublica.pe/politica/2026/04/03/roberto-sanchez-presenta-un-similar-crecimiento-a-pedro-castillo-en-el-2021-hnews-112848|url-status=live}}</ref>
+{{wide image|File:SondeosEleccionesGeneralesPerú2026.png|1200px|Trend lines of the voting intention polls for the first round.}}
+
+=== Second round ===
+In the second round, Fujimori maintained a lead in opinion polls during the entire period between rounds.
+{{wide image|File:Opinion polling for the second round of the 2026 Peruvian general election.png|800px|Trend lines of the voting intention polls for the second round.}}
+
+== Results ==
+
+=== President ===
+
+{{Election results
+|cand1=[[Keiko Fujimori]]|vp1=[[Luis Galarreta]]<br />[[Miki Torres]]|party1=[[Popular Force]]|votes1=2877678|votes1_2=9223396
+|cand2=[[Roberto Sánchez (Peruvian politician)|Roberto Sánchez]]|vp2=[[Analí Márquez]]<br />[[Brígida Curo]]|party2=[[Together for Peru]]|votes2=2015114|votes2_2=9173755
+|cand3=[[Rafael López Aliaga]]|vp3=[[Norma Yarrow]]<br />Jhon Ramos Malpica|party3=[[Popular Renewal]]|votes3=1993905
+|cand4=[[Jorge Nieto]]|vp4=Susana Matute Charún<br />Carlos Caballero León|party4=[[Party of Good Government]]|votes4=1837517
+|cand5=[[Ricardo Belmont]]|vp5=Daniel Barragán<br />Dina Hancco|party5=[[Civic Party OBRAS]]|votes5=1698903
+|cand6=[[Carlos Álvarez (comedian)|Carlos Álvarez]]|vp6=María Chambizea Reyes<br />Diego Guevara Vivando|party6=[[Country for All]]|votes6=1326717
+|cand7=[[Alfonso López Chau]]|vp7=Luis Villanueva Carbajal<br />[[Ruth Buendía]]|party7=[[Ahora Nación]]|votes7=1221272
+|cand8=[[Marisol Pérez Tello]]|vp8=Raúl Molina<br />Manuel Ato del Avellanal|party8=[[First the People (Peru)|First the People]]|votes8=571170
+|cand9=[[Carlos Espá]]|vp9=Alejandro Santa María<br />Melitza Yanzich|party9={{ill|SíCreo|es|Partido SíCreo|lt=SíCreo Party}}|votes9=560792
+|cand10=[[Fernando Olivera (politician)|Fernando Olivera]]|vp10=Elizabeth León<br />Carlos Cuaresma|party10=[[Front of Hope 2021]]|votes10=307880
+|cand11=[[José Luna]]|vp11=Cecilia García<br />Raúl Noblecilla|party11=[[Podemos Perú]]|votes11=266768
+|cand12=[[Yonhy Lescano]]|vp12=Carmela Salazar Jáuregui<br />Vanesa Lazo Valles|party12=Popular Cooperation|votes12=214779
+|cand13=[[César Acuña]]|vp13=Jessica Tumi Rivas<br />[[Alejandro Soto Reyes]]|party13=[[Alliance for Progress (Peru)|Alliance for Progress]]|votes13=192516
+|cand14=[[Enrique Valderrama]]|vp14=María Inés Valdivia<br />[[Mochero Vásquez|Lucio Antonio Vásquez]]|party14=[[American Popular Revolutionary Alliance|Peruvian Aprista Party]]|votes14=161248
+|cand15=[[George Forsyth (footballer)|George Forsyth]]|vp15=Johanna Lozada Baldwin<br />Herbe Olave Ugarte|party15=[[We Are Peru]]|votes15=153073
+|cand16=Herbert Caller|vp16=Rossana Montes Tello<br />Jorge Carcovich Cartolezzi|party16={{ill|Patriotic Party of Peru|es|Partido Patriótico del Perú}}|votes16=144183
+|cand17=[[Mario Vizcarra]]|vp17=Carlos Illanes Calderón<br />Judith Mendoza Díaz|party17=[[Peru First]]|votes17=143908
+|cand18={{ill|Ronald Atencio|es}}|vp18=Elena Rivera<br />Alberto Quintanilla|party18={{ill|Venceremos (Peru)|es|Venceremos (Perú)|lt=Venceremos}}|votes18=140174
+|cand19={{ill|Rosario Fernández Bazán|es|lt=Rosario Fernández}}|vp19=Arturo Fernández<br />Carlos Pinillos Vinces|party19={{ill|A Different Path|es|Un Camino Diferente}}|votes19=128009
+|cand20={{ill|Charlie Carrasco|es}}|vp20=María Paredes Verci<br />Wilbert Segovia Quin|party20=United Peru Democratic Party|votes20=119028
+|cand21=[[Vladimir Cerrón]]|vp21=Flavio Cruz<br />Bertha Rojas|party21=[[Free Peru]]|votes21=100073
+|cand22=[[Mesías Guevara]]|vp22=Herber Cueva<br />Marisol Liñán|party22=[[Purple Party]]|votes22=82196
+|cand23={{ill|Roberto Chiabra|es}}|vp23=[[Javier Bedoya Denegri]]<br />Neldy Mendoza|party23=[[National Unity (Peru, 2025)|National Unity]]|votes23=67939
+|cand24={{ill|Paul Jaimes|es}}|vp24=Mónica Guillén<br />Jorge Caloggero Encina|party24=[[Progresemos]]|votes24=66046
+|cand25={{ill|Álex Gonzales|es}}|vp26=Maritza Sánchez Perales<br />Félix Murazzo|party25={{ill|Green Democratic Party|es|Partido Demócrata Verde}}|votes25=63924
+|cand26={{ill|Wolfgang Grozo|es}}|vp25=Bertha Azabache<br />Wellington Prada|party26=Democratic Integrity|votes26=63751
+|cand27=[[Rafael Belaúnde|Rafael Belaúnde Llosa]]|vp27=[[Pedro Cateriano]]<br />Tania Porles|party27=[[People's Liberty]]|votes27=40870
+|cand28=[[José Williams]]|vp28=Fernán Altuve<br />[[Adriana Tudela]]|party28=[[Avanza País (Peru, 2017)|Avanza País]]|votes28=32585
+|cand29={{ill|Francisco Diez-Canseco|es|Francisco Diez-Canseco Távara}}|vp29=Diego Koster<br />Clara Quispe|party29=[[Peru Action]]|votes29=31710
+|cand30=[[Fiorella Molinelli]]|vp30=Gilbert Violeta<br />María Pariona|party30=Force and Liberty|votes30=27217
+|cand31={{ill|Álvaro Paz de la Barra|es}}|vp31=Yessika Arteaga<br />Shella Palacios|party31=Faith in Peru|votes31=23335
+|cand32={{ill|Armando Massé|es}}|vp32=Virgilio Acuña<br />Lidia Lourdes Díaz|party32=Federal Democratic Party|votes32=21744
+|cand33=Antonio Ortiz|vp33=Jaime Freundt<br />Giovanna Demurtas|party33={{ill|Let's Save Peru|es|Salvemos al Perú}}|votes33=17648
+|cand34=Walter Chirinos|vp34=Julio Vega Ybáñez<br />Mayra Vargas Gil|party34=PRIN Political Party|votes34=14566
+|cand35={{ill|Carlos Jaico|es}}|vp35=Miguel Almenara<br />Liz Quispe Santos|party35=[[Modern Peru]]|votes35=9801
+|cand36=[[Napoleón Becerra]] †{{efn|Deceased in a car accident on 15 March 2026, but his ticket remained on a ballot, with all votes for him counted as invalid}}|vp36=Winston Huamán<br />Nélida Cuayla|party36=[[Workers and Entrepreneurs Party]]|votes36=0
+| invalid = 1056811
+| invalid2 = 1167836
+| blank = 2372895
+| blank2 = 118396
+| electorate = 27325432
+| electorate2 = 27325432
+| source =[https://resultadoelectoral.onpe.gob.pe/main/presidenciales ONPE] (Round 1) [https://resultadosegundavuelta.onpe.gob.pe/main/presidenciales ONPE] (Round 2)
+}}
+
+==== By department ====
+===== First round =====
+<div style="overflow:auto;">
+{| class="wikitable sortable" style="text-align:right"
+!rowspan=2 | Department
+!colspan=2 | [[File:Logo of the Popular Force (2024).svg|20x20px]]<br>[[Keiko Fujimori|Fujimori]]
+!colspan=2 | [[File:Logo juntos por el Peru.svg|20x20px]]<br>[[Roberto Sánchez (Peruvian politician)|Sánchez Palomino]]
+!colspan=2 | [[File:Logo Renovación Popular 2023.png|20x20px]]<br>[[Rafael López Aliaga|López Aliaga]]
+!colspan=2 | [[File:PBG Logo.jpg|20x20px]]<br>[[Jorge Nieto|Nieto]]
+!colspan=2 | [[File:Logo of the Civic Party OBRAS.png|20x20px]]<br>[[Ricardo Belmont|Belmont]]
+!colspan=2 | [[File:Logo of País para Todos (wordmark only).jpg|20x20px]]<br>[[Carlos Álvarez (comedian)|Álvarez]]
+!colspan=2 | [[File:Logo Ahora Nación 2026.jpg|20x20px]]<br>[[Alfonso López-Chau|López Chau]]
+!colspan=2 | Others
+!colspan=1 | Blank
+!colspan=1 | Invalid
+!colspan=2 | Turnout
+|-
+! colspan="2" style="background:{{party colour|Popular Force}}"|
+! colspan="2" style="background:{{party colour|Together for Peru}}"|
+! colspan="2" style="background:{{party colour|Popular Renewal}}"|
+! colspan="2" style="background:{{party colour|Party of Good Government}}"|
+! colspan="2" style="background:{{party colour|Civic Party OBRAS}}"|
+! colspan="2" style="background:{{party colour|Country for All}}"|
+! colspan="2" style="background:{{party colour|Ahora Nación}}"|
+! colspan="2" style="background:white;"|
+! colspan="2" style="background:grey;"|
+! colspan="2" style="background:grey;"|
+|-
+! 
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+!Votes
+! %
+! Votes
+! Votes
+! Voters
+! %
+|-
+! scope="row" | [[Department of Amazonas (Peru)|Amazonas]]
+| 28,403
+| 17.37%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''59,302'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''36.27%'''}}
+| 6,034
+| 3.69%
+| 5,971
+| 3.65%
+| 17,400
+| 10.64%
+| 4,068
+| 2.49%
+| 9,775
+| 5.98%
+| 32,529
+| 19.90%
+| 36,318
+| 15,329
+! 215,129
+! 62.31%
+|-
+! scope="row" | [[Department of Ancash|Ancash]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''97,743'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''18.00%'''}}
+| 81,477
+| 15.00%
+| 32,819
+| 6.04%
+| 40,197
+| 7.40%
+| 54,641
+| 10.06%
+| 53,989
+| 9.94%
+| 48,017
+| 8.84%
+| 134,140
+| 24.70%
+| 104,367
+| 50,131
+! 697,521
+! 71.81%
+|-
+! scope="row" | [[Department of Apurímac|Apurimac]]
+| 13,861
+| 6.90%
+| style="background:{{party colour|Together for Peru}}|{{color|black|'''82,531'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''41.06%'''}}
+| 6,349
+| 3.16%
+| 7,302
+| 3.63%
+| 28,388
+| 14.12%
+| 2,928
+| 1.46%
+| 21,643
+| 10.77%
+| 37,987
+| 18.90%
+| 39,781
+| 14,640
+! 255,410
+! 70.68%
+|-
+! scope="row" | [[Department of Arequipa|Arequipa]]
+| 64,430
+| 7.33%
+| 88,766
+| 10.09%
+| 93,233
+| 10.60%
+| style="background:{{party colour|Party of Good Government}} |{{color|black|'''164,086'''}}
+| style="background:{{party colour|Party of Good Government}} |{{color|black|'''18.66%'''}}
+| 96,079
+| 10.92%
+| 73,301
+| 8.33%
+| 81,964
+| 9.32%
+| 217,706
+| 24.75%
+| 75,007
+| 39,576
+! 994,148
+! 81.05%
+|-
+! scope="row" | [[Department of Ayacucho|Ayacucho]]
+| 23,058
+| 8.12%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''89,314'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''31.43%'''}}
+| 7,750
+| 2.73%
+| 15,722
+| 5.53%
+| 41,070
+| 14.46%
+| 6,545
+| 2.30%
+| 41,010
+| 14.43%
+| 59,662
+| 21.00%
+| 52,951
+| 19,270
+! 356,352
+! 68.50%
+|-
+! scope="row" | [[Department of Cajamarca|Cajamarca]]
+| 89,279
+| 13.85%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''268,961'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''41.72%'''}}
+| 20,875
+| 3.24%
+| 29,660
+| 4.60%
+| 70,873
+| 10.99%
+| 20,287
+| 3.15%
+| 29,048
+| 4.51%
+| 115,641
+| 17.94%
+| 124,649
+| 54,285
+! 823,558
+! 68.70%
+|-
+! scope="row" | [[Callao]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''119,476'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''20.70%'''}}
+| 17,377
+| 3.01%
+| 86,785
+| 15.03%
+| 86,599
+| 15.00%
+| 47,105
+| 8.16%
+| 69,984
+| 12.12%
+| 34,326
+| 5.95%
+| 115,652
+| 20.03%
+| 62,495
+| 31,746
+! 671,545
+! 78.18%
+|-
+! scope="row" | [[Department of Cusco|Cusco]]
+| 42,553
+| 6.14%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''158,426'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''22.85%'''}}
+| 32,775
+| 4.73%
+| 61,621
+| 8.89%
+| 109,331
+| 15.77%
+| 20,035
+| 2.89%
+| 102,237
+| 14.75%
+| 166,383
+| 24.00%
+| 99,060
+| 49,391
+! 841,812
+! 74.25%
+|-
+! scope="row" | [[Department of Huancavelica|Huancavelica]]
+| 12,238
+| 7.08%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''75,063'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''43.40%'''}}
+| 4,077
+| 2.36%
+| 5,605
+| 3.24%
+| 23,433
+| 13.55%
+| 2,953
+| 1.71%
+| 15,996
+| 9.25%
+| 33,591
+| 19.42%
+| 32,882
+| 12,163
+! 218,001
+! 64.22%
+|-
+! scope="row" | [[Department of Huánuco|Huanuco]]
+| 52,987
+| 15.46%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''102,366'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''29.88%'''}}
+| 20,181
+| 5.89%
+| 15,879
+| 4.63%
+| 48,360
+| 14.11%
+| 19,103
+| 5.58%
+| 20,174
+| 5.89%
+| 63,587
+| 18.56%
+| 73,344
+| 24 876
+! 440,857
+! 67.15%
+|-
+! scope="row" | [[Department of Ica|Ica]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''98,052'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''20.33%'''}}
+| 37,264
+| 7.73%
+| 45,300
+| 9.39%
+| 47,605
+| 9.87%
+| 51,550
+| 10.69%
+| 55,939
+| 11.60%
+| 31,908
+| 6.62%
+| 114,653
+| 23.77%
+| 71,505
+| 29,446
+! 583,222
+! 81.68%
+|-
+! scope="row" | [[Department of Junín|Junin]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''108,631'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''17.11%'''}}
+| 78,227
+| 12.32%
+| 48,223
+| 7.59%
+| 50,716
+| 7.99%
+| 70,985
+| 11.18%
+| 45,865
+| 7.22%
+| 69,940
+| 11.01%
+| 162,500
+| 25.59%
+| 107,546
+| 42,977
+! 785,610
+! 73.94%
+|-
+! scope="row" | [[Department of La Libertad|La Libertad]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''188,993'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''20.26%'''}}
+| 88,291
+| 9.47%
+| 76,520
+| 8.20%
+| 91,566
+| 9.82%
+| 66,168
+| 7.09%
+| 74,254
+| 7.96%
+| 38,080
+| 4.08%
+| 308,921
+| 33.12%
+| 159,363
+| 74,438
+! 1,166,594
+! 75.13%
+|-
+! scope="row" | [[Department of Lambayeque|Lambayeque]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''176,103'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''26.41%'''}}
+| 71,644
+| 10.74%
+| 57,305
+| 8.59%
+| 68,907
+| 10.33%
+| 50,063
+| 7.51%
+| 61,658
+| 9.25%
+| 29,795
+| 4.47%
+| 151,340
+| 22.70%
+| 100,404
+| 50,644
+! 817,863
+! 77.79%
+|-
+! scope="row" | [[Department of Lima|Lima]]
+| 1,089,534
+| 17.91%
+| 199,439
+| 3.28%
+| style="background:{{party colour|Popular Renewal}} |{{color|white|'''1,211,672'''}}
+| style="background:{{party colour|Popular Renewal}} |{{color|white|'''19.92%'''}}
+| 918,765
+| 15.11%
+| 555,669
+| 9.14%
+| 542,877
+| 8.93%
+| 414,494
+| 6.82%
+| 1,149,847
+| 18.90%
+| 555,344
+| 271,755
+! 6,909,396
+! 79.87%
+|-
+! scope="row" | [[Department of Loreto|Loreto]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''96,815'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''28.36%'''}}
+| 33,655
+| 9.86%
+| 22,835
+| 6.69%
+| 12,233
+| 3.58%
+| 14,264
+| 4.18%
+| 40,444
+| 11.85%
+| 14,691
+| 4.30%
+| 106,389
+| 31.17%
+| 85,358
+| 27,394
+! 454,078
+! 58.52%
+|-
+! scope="row" | [[Department of Madre de Dios|Madre de Dios]]
+| 10,948
+| 13.55%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''18,948'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''23.45%'''}}
+| 2,761
+| 3.42%
+| 4,190
+| 5.19%
+| 11,789
+| 14.59%
+| 5,087
+| 6.30%
+| 6,506
+| 8.05%
+| 20,567
+| 25.46%
+| 18,508
+| 5,242
+! 104,546
+! 70.84%
+|-
+! scope="row" | [[Department of Moquegua|Moquegua]]
+| 7,569
+| 6.64%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''14,719'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''12.92%'''}}
+| 6,601
+| 5.79%
+| 11,909
+| 10.45%
+| 13,899
+| 12.20%
+| 6,145
+| 5.39%
+| 11,986
+| 10.52%
+| 41,126
+| 36.09%
+| 12,001
+| 5,361
+! 131,316
+! 79.77%
+|-
+! scope="row" | [[Department of Pasco|Pasco]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''21,842'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''18.87%'''}}
+| 21,606
+| 18.67%
+| 7,650
+| 6.61%
+| 5,183
+| 4.48%
+| 13,855
+| 11.97%
+| 4,738
+| 4.09%
+| 10,281
+| 8.88%
+| 30,597
+| 26.43%
+| 22,142
+| 8,150
+! 146,044
+! 65.29%
+|-
+! scope="row" | [[Department of Piura|Piura]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''246,696'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''28.03%'''}}
+| 100,908
+| 11.47%
+| 58,795
+| 6.68%
+| 77,122
+| 8.76%
+| 65,325
+| 7.42%
+| 93,588
+| 10.64%
+| 40,950
+| 4.65%
+| 196,635
+| 22.34%
+| 183,282
+| 84,163
+! 1,147,464
+! 74.80%
+|-
+! scope="row" | [[Department of Puno|Puno]]
+| 25,389
+| 3.90%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''162,460'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''24.98%'''}}
+| 12,442
+| 1.91%
+| 26,989
+| 4.15%
+| 115,259
+| 17.72%
+| 10,602
+| 1.63%
+| 73,801
+| 11.35%
+| 223,466
+| 34.36%
+| 77,890
+| 41,308
+! 769,606
+! 79.88%
+|-
+! scope="row" | [[Department of San Martín|San Martin]]
+| 90,655
+| 23.26%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''93,288'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''23.94%'''}}
+| 22,894
+| 5.87%
+| 17,394
+| 4.46%
+| 44,306
+| 11.37%
+| 19,793
+| 5.08%
+| 17,101
+| 4.39%
+| 84,304
+| 21.63%
+| 104,699
+| 38,975
+! 533,409
+! 73.72%
+|-
+! scope="row" | [[Department of Tacna|Tacna]]
+| 15,125
+| 6.85%
+| 26,302
+| 11.92%
+| 13,698
+| 6.21%
+| 25,263
+| 11.45%
+| style="background:{{party colour|Civic Party OBRAS}} |{{color|white|'''32,316'''}}
+| style="background:{{party colour|Civic Party OBRAS}} |{{color|white|'''14.64%'''}}
+| 16,162
+| 7.32%
+| 21,938
+| 9.94%
+| 69,926
+| 31.68%
+| 18,885
+| 9,354
+! 248,969
+! 82.27%
+|-
+! scope="row" | [[Department of Tumbes|Tumbes]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''37,850'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''34.16%'''}}
+| 7,748
+| 6.99%
+| 6,556
+| 5.92%
+| 6,072
+| 5.48%
+| 5,455
+| 4.92%
+| 16,426
+| 14.83%
+| 5,440
+| 4.91%
+| 25,245
+| 22.79%
+| 21,599
+| 9,363
+! 141&nbsp;754
+! 78.18%
+|-
+! scope="row" | [[Department of Ucayali|Ucayali]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''66,994'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''29.71%'''}}
+| 29,038
+| 12.88%
+| 12,894
+| 5.72%
+| 9,938
+| 4.41%
+| 19,083
+| 8.46%
+| 23,429
+| 10.39%
+| 9,015
+| 4.00%
+| 55,109
+| 24.44%
+| 58,723
+| 18,241
+! 302,464
+! 66.63%
+|-
+! scope="row" | Peruvians abroad
+| 52,454
+| 17.05%
+| 7,994
+| 2.60%
+| style="background:{{party colour|Popular Renewal}} |{{color|white|'''76,881'''}}
+| style="background:{{party colour|Popular Renewal}} |{{color|white|'''24.99%'''}}
+| 31,023
+| 10.08%
+| 32,237
+| 10.48%
+| 36,517
+| 11.87%
+| 21,156
+| 6.88%
+| 49,430
+| 16.06%
+| 74,792
+| 28,593
+! 411,077
+! 33.95%
+|-
+! colspan="21" |Source: [https://resultadoelectoral.onpe.gob.pe/main/presidenciales ONPE]
+|}
+</div>
+
+===== Second round =====
+{| class="wikitable sortable" style="text-align:right"
+|+ 2026 Peruvian presidential election results – Second round by Department
+|-
+!rowspan=2 | Department
+!colspan=2 | [[File:Logo of the Popular Force (2024).svg|20x20px]]<br>[[Keiko Fujimori|Fujimori]]
+!colspan=2 | [[File:Logo juntos por el Peru.svg|20x20px]]<br>[[Roberto Sánchez (Peruvian politician)|Sánchez Palomino]]
+!colspan=2 | Blank
+!colspan=2 | Invalid
+!colspan=2 | Turnout
+!rowspan=2 | Registered voters
+|-
+! colspan="2" style="background:{{party colour|Popular Force}}"|
+! colspan="2" style="background:{{party colour|Together for Peru}}"|
+! colspan="2" style="background:grey;"|
+! colspan="2" style="background:grey;"|
+! colspan="2" style="background:white;"|
+|-
+!
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!
+|-
+! style="text-align:left" |[[Department of Amazonas (Peru)|Amazonas]]
+| 69,220
+| 35.54%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''125,555'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''64.46%'''}}
+| 1,825
+| 0.88%
+| 11,449
+| 5.50%
+| 208,049
+| 60.26%
+| 345,245
+|-
+! style="text-align:left" |[[Department of Ancash|Ancash]]
+| 270,818
+| 43.37%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''353,564'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''56.63%'''}}
+| 6,118
+| 0.90%
+| 50,592
+| 7.43%
+| 681,092
+| 70.12%
+| 971,385
+|-
+! style="text-align:left" |[[Department of Apurímac|Apurimac]]
+| 43,413 
+| 18.82%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''187,285'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''81.18%'''}}
+| 1,938
+| 0.79%
+| 12,426
+| 5.07%
+| 245,062
+| 67.82%
+| 361,338
+|-
+! style="text-align:left" |[[Department of Arequipa|Arequipa]]
+| 334,264
+| 36.40%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''584,000'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''63.60%'''}}
+| 3,777
+| 0.39%
+| 56,775
+| 5.80%
+| 978,816
+| 79.80%
+| 1,226,525
+|-
+! style="text-align:left" |[[Department of Ayacucho|Ayacucho]]
+| 67,502
+| 20.71%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''258,505'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''79.29%'''}}
+| 2,362
+| 0.69%
+| 15,922
+| 4.63%
+| 344,291
+| 66.18%
+| 520,238
+|-
+! style="text-align:left" |[[Department of Cajamarca|Cajamarca]]
+| 246,039
+| 33.24%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''494,097'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''66.76%'''}}
+| 7,519
+| 0.94%
+| 50,471
+| 6.32%
+| 798,126
+| 66.58%
+| 1,198,773
+|-
+! style="text-align:left" |[[Callao]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''403,845'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''65.60%'''}}
+| 211,803
+| 34.40%
+| 3,233
+| 0.49%
+| 42,070
+| 6.37%
+| 660,951
+| 76.95%
+| 858,968
+|-
+! style="text-align:left" |[[Department of Cusco|Cusco]]
+| 167,218
+| 21.89%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''596,621'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''78.11%'''}}
+| 5,010
+| 0.61%
+| 47,125
+| 5.78%
+| 815,974
+| 71.97%
+| 1,133,754
+|-
+! style="text-align:left" |[[Department of Huancavelica|Huancavelica]]
+| 37,004
+| 18.60%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''161,991'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''81.41%'''}}
+| 1,556
+| 0.74%
+| 9,928
+| 4.72%
+| 210,479
+| 62.01%
+| 339,448
+|-
+! style="text-align:left" |[[Department of Huánuco|Huanuco]]
+| 140,904
+| 35.84%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''252,225'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''64.16%'''}}
+| 3,235
+| 0.77%
+| 25,152
+| 5.97%
+| 421,516
+| 64.21%
+| 656,517
+|-
+! style="text-align:left" |[[Department of Ica|Ica]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''282,464'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''51.94%'''}}
+| 261,387
+| 48.06%
+| 3,365
+| 0.58%
+| 29,110
+| 5.05%
+| 576,326
+| 80.72%
+| 713,997
+|-
+! style="text-align:left" |[[Department of Junín|Junin]]
+| 323,824
+| 45.07%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''394,718'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''54.93%'''}}
+| 4,788
+| 0.62%
+| 45,196
+| 5.88%
+| 768,526
+| 72.33%
+| 1,062,500
+|-
+! style="text-align:left" |[[Department of La Libertad|La Libertad]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''604,436'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''57.57%'''}}
+| 445,569
+| 42.43%
+| 7,078
+| 0.62%
+| 79,694
+| 7.01%
+| 1,136,777
+| 73.21%
+| 1,552,691
+|-
+! style="text-align:left" |[[Department of Lambayeque|Lambayeque]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''437,358'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''58.85%'''}}
+| 305,863
+| 41.15%
+| 5,223
+| 0.65%
+| 55,617
+| 6.92%
+| 804,061
+| 76.48%
+| 1,051,350
+|-
+! style="text-align:left" |[[Department of Lima|Lima]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''4,072,836'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''63.51%'''}}
+| 2,340,068
+| 36.49%
+| 33,023
+| 0.48%
+| 385,502
+| 5.64%
+| 6,831,429
+| 78.97%
+| 8,651,028
+|-
+! style="text-align:left" |[[Department of Loreto|Loreto]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''214,215'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''53.00%'''}}
+| 189,943
+| 47.00%
+| 3,444
+| 0.79%
+| 26,217
+| 6.04%
+| 433,819
+| 55.91%
+| 775,923
+|-
+! style="text-align:left" |[[Department of Madre de Dios|Madre de Dios]]
+| 29,401
+| 30.80%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''66,058'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''69.20%'''}}
+| 596
+| 0.59%
+| 4,567
+| 4.54%
+| 100,622
+| 68.18%
+| 147,577
+|-
+! style="text-align:left" |[[Department of Moquegua|Moquegua]]
+| 33,495
+| 27.44%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''88,558'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''72.56%'''}}
+| 622
+| 0.48%
+| 6,699
+| 5.18%
+| 129,374
+| 78.59%
+| 164,628
+|-
+! style="text-align:left" |[[Department of Pasco|Pasco]]
+| 51,747
+| 39.30%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''79,930'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''60.70%'''}}
+| 992
+| 0.70%
+| 8,405
+| 5.96%
+| 141,074
+| 63.07%
+| 223,695
+|-
+! style="text-align:left" |[[Department of Piura|Piura]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''590,489'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''57.02%'''}}
+| 445,100
+| 42.98%
+| 9,082
+| 0.81%
+| 80,007
+| 7.11%
+| 1,124,678
+| 73.31%
+| 1,534,085
+|-
+! style="text-align:left" |[[Department of Puno|Puno]]
+| 96,486
+| 13.59%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''613,281'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''86.41%'''}}
+| 2,743
+| 0.37%
+| 33,291
+| 4.46%
+| 745,801
+| 77.41%
+| 963,489
+|-
+! style="text-align:left" |[[Department of San Martín|San Martin]]
+| 219,293
+| 45.36%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''264,127'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''54.64%'''}}
+| 4,581
+| 0.88%
+| 34,569
+| 6.62%
+| 522,570
+| 72.22%
+| 723,605
+|-
+! style="text-align:left" |[[Department of Tacna|Tacna]]
+| 66,335
+| 28.67%
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''165,063'''}}
+| style="background:{{party colour|Together for Peru}} |{{color|black|'''71.33%'''}}
+| 1,134
+| 0.46%
+| 12,319
+| 5.03%
+| 244,851
+| 80.91%
+| 302,615
+|-
+! style="text-align:left" |[[Department of Tumbes|Tumbes]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''82,280'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''64.38%'''}}
+| 45,530
+| 35.62%
+| 996
+| 0.72%
+| 9,769
+| 7.05%
+| 138,575
+| 76.43%
+| 181,317
+|-
+! style="text-align:left" |[[Department of Ucayali|Ucayali]]
+| style="background:{{party colour|Popular Force}} |{{color|white|'''143,122'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''52.56%'''}}
+| 129,181
+| 47.44%
+| 2,215
+| 0.76%
+| 16,474
+| 5.66%
+| 290,992
+| 64.11%
+| 453,928
+|-
+! style="text-align:left" | Peruvians abroad
+| style="background:{{party colour|Popular Force}} |{{color|white|'''195,388'''}}
+| style="background:{{party colour|Popular Force}} |{{color|white|'''63.21%'''}}
+| 113,733
+| 36.79%
+| 1,941
+| 0.59%
+| 18,490
+| 5.61%
+| 329,552
+| 27.22%
+| 1,210,813
+|-
+! colspan="21" |Source: [https://resultadosegundavuelta.onpe.gob.pe/main/presidenciales ONPE]
+|}
+
+=== Congress ===
+
+==== Senate ====
+
+{{Election results
+|image=[[File:Peru Senate 2026.svg]]
+|firstround=Single National Constituency|secondround=Congressional Constituencies
+|party1=[[Popular Force]]|votes1=2227962|seats1=7|votes1_2=2166895|seats1_2=15|totseats1=22
+|party2=[[Together for Peru]]|votes2=1808783|seats2=5|votes2_2=1357453|seats2_2=9|totseats2=14
+|party3=[[Popular Renewal]]|votes3=1633110|seats3=5|votes3_2=1620141|seats3_2=3|totseats3=8
+|party4=[[Party of Good Government]]|votes4=1549920|seats4=5|votes4_2=1574317|seats4_2=2|totseats4=7
+|party5=[[Civic Party OBRAS]]|votes5=1307340|seats5=4|votes5_2=1237374|seats5_2=1|totseats5=5
+|party6=[[Ahora Nación]]|votes6=1210147|seats6=4|votes6_2=1157790|seats6_2=0|totseats6=4
+|party7=[[Country for All]]|votes7=859371|seats7=0|votes7_2=846063|seats7_2=0|totseats7=0
+|party8=[[First the People (Peru)|First the People]]|votes8=524212|seats8=0|votes8_2=448850|seats8_2=0|totseats8=0
+|party9={{ill|SíCreo|es|Partido SíCreo|lt=SíCreo Party}}|votes9=405601|seats9=0|votes9_2=60382|seats9_2=0|totseats9=0
+|party10=[[Alliance for Progress (Peru)|Alliance for Progress]]|votes10=392855|seats10=0|votes10_2=348025|seats10_2=0|totseats10=0
+|party11=[[Podemos Perú]]|votes11=330893|seats11=0|votes11_2=329063|seats11_2=0|totseats11=0
+|party12=[[American Popular Revolutionary Alliance|Peruvian Aprista Party]]|votes12=253499|seats12=0|votes12_2=247504|seats12_2=0|totseats12=0
+|party13=[[Front of Hope 2021]]|votes13=244112|seats13=0|votes13_2=254401|seats13_2=0|totseats13=0
+|party14=[[Agricultural People's Front of Peru]]|votes14=231172|seats14=0|votes14_2=268369|seats14_2=0|totseats14=0
+|party15=[[We Are Peru]]|votes15=201460|seats15=0|votes15_2=234351|seats15_2=0|totseats15=0
+|party16=Popular Cooperation|votes16=165841|seats16=0|votes16_2=160111|seats16_2=0|totseats16=0
+|party17=[[Peru First]]|votes17=154881|seats17=0|votes17_2=169652|seats17_2=0|totseats17=0
+|party18=[[Progresemos]]|votes18=146387|seats18=0|votes18_2=127381|seats18_2=0|totseats18=0
+|party19={{ill|Venceremos (Peru)|es|Venceremos (Perú)|lt=Venceremos}}|votes19=135721|seats19=0|votes19_2=108681|seats19_2=0|totseats19=0
+|party20={{ill|A Different Path|es|Un Camino Diferente}}|votes20=126930|seats20=0|votes20_2=128437|seats20_2=0|totseats20=0
+|party21=United Peru Democratic Party|votes21=120395|seats21=0|votes21_2=97205|seats21_2=0|totseats21=0
+|party22={{ill|Patriotic Party of Peru|es|Partido Patriótico del Perú}}|votes22=115106|seats22=0|votes22_2=55531|seats22_2=0|totseats22=0
+|party23=[[Free Peru]]|votes23=112132|seats23=0|votes23_2=128231|seats23_2=0|totseats23=0
+|party24=[[Avanza País (Peru, 2017)|Avanza País]]|votes24=74251|seats24=0|votes24_2=79121|seats24_2=0|totseats24=0
+|party25=[[Purple Party]]|votes25=72942|seats25=0|votes25_2=73439|seats25_2=0|totseats25=0
+|party26=[[People's Liberty]]|votes26=68930|seats26=0|votes26_2=68939|seats26_2=0|totseats26=0
+|party27={{ill|Green Democratic Party|es|Partido Demócrata Verde}}|votes27=67909|seats27=0|votes27_2=67049|seats27_2=0|totseats27=0
+|party28=[[National Unity (Peru, 2025)|National Unity]]|votes28=57605|seats28=0|votes28_2=62727|seats28_2=0|totseats28=0
+|party29=Democratic Integrity|votes29=55073|seats29=0|votes29_2=55480|seats29_2=0|totseats29=0
+|party30=Force and Liberty|votes30=32652|seats30=0|votes30_2=38730|seats30_2=0|totseats30=0
+|party31=Faith in Peru|votes31=27106|seats31=0|votes31_2=18585|seats31_2=0|totseats31=0
+|party32=Federal Democratic Party|votes32=22105|seats32=0|votes32_2=17843|seats32_2=0|totseats32=0
+|party33=[[Peru Action]]|votes33=21748|seats33=0|votes33_2=19145|seats33_2=0|totseats33=0
+|party34=PRIN Political Party|votes34=21101|seats34=0|votes34_2=18866|seats34_2=0|totseats34=0
+|party35=[[Workers and Entrepreneurs Party]]|votes35=15989|seats35=0|votes35_2=6641|seats35_2=0|totseats35=0
+|party36={{ill|Let's Save Peru|es|Salvemos al Perú}}|votes36_2=14914|seats36_2=0|totseats36=0
+|party37=[[Modern Peru]]|votes37_2=12061|seats37_2=0|totseats37=0
+
+|total_sc=0|invalid=3123742|blank=2275639|invalid2=3268589|blank2=3244035|electorate=27325432|electorate2=27325432
+|source=[https://resultadoelectoral.onpe.gob.pe/main/senadores-distrito-nacional-unico ONPE Single District], [https://resultadoelectoral.onpe.gob.pe/main/senadores-distrito-electoral-multiple ONPE Multiple District]
+}}
+
+==== Chamber of Deputies ====
+
+{{Election results
+|image=[[File:2026 Peruvian Chamber of Deputies.svg]]
+|party1=[[Popular Force]]|votes1=2114389|seats1=41|sc1=+17
+|party2=[[Popular Renewal]]|votes2=1593041|seats2=15|sc2=+2
+|party3=[[Together for Peru]]|votes3=1553154|seats3=32|sc3=+27
+|party4=[[Party of Good Government]]|votes4=1509987|seats4=18|sc4=New
+|party5=[[Ahora Nación]]|votes5=1224556|seats5=10|sc5=New
+|party6=[[Civic Party OBRAS]]|votes6=1199888|seats6=14|sc6=New
+|party7=[[Country for All]]|votes7=838901|seats7=0|sc7=New
+|party8=[[First the People (Peru)|First the People]]|votes8=434740|seats8=0|sc8=New
+|party9=[[Alliance for Progress (Peru)|Alliance for Progress]]|votes9=401468|seats9=0|sc9=−15
+|party10=[[Podemos Perú]]|votes10=379812|seats10=0|sc10=−5
+|party11=[[We Are Peru]]|votes11=308218|seats11=0|sc11=−5
+|party12=[[Agricultural People's Front of Peru]]|votes12=272759|seats12=0|sc12=0
+|party13=[[American Popular Revolutionary Alliance|Peruvian Aprista Party]]|votes13=268803|seats13=0|sc13=New
+|party14={{ill|SíCreo|es|Partido SíCreo|lt=SíCreo Party}}|votes14=244781|seats14=0|sc14=New
+|party15=[[Front of Hope 2021]]|votes15=241274|seats15=0|sc15=New
+|party16=[[Peru First]]|votes16=197520|seats16=0|sc16=New
+|party17=Popular Cooperation|votes17=163734|seats17=0|sc17=New
+|party18={{ill|Venceremos (Peru)|es|Venceremos (Perú)|lt=Venceremos}}|votes18=162492|seats18=0|sc18=New
+|party19=[[Free Peru]]|votes19=138137|seats19=0|sc19=−37
+|party20=[[Progresemos]]|votes20=134050|seats20=0|sc20=New
+|party21={{ill|A Different Path|es|Un Camino Diferente}}|votes21=129484|seats21=0|sc21=New
+|party22=[[Avanza País (Peru, 2017)|Avanza País]]|votes22=120160|seats22=0|sc22=−7
+|party23=[[People's Liberty]]|votes23=106347|seats23=0|sc23=New
+|party24={{ill|Patriotic Party of Peru|es|Partido Patriótico del Perú}}|votes24=99216|seats24=0|sc24=New
+|party25=United Peru Democratic Party|votes25=93554|seats25=0|sc25=New
+|party26=[[Purple Party]]|votes26=88017|seats26=0|sc26=−3
+|party27={{ill|Green Democratic Party|es|Partido Demócrata Verde}}|votes27=77126|seats27=0|sc27=New
+|party28=[[National Unity (Peru, 2025)|National Unity]]|votes28=71735|seats28=0|sc28=New
+|party29=Democratic Integrity|votes29=60273|seats29=0|sc29=New
+|party30=Force and Liberty|votes30=47969|seats30=0|sc30=New
+|party31=PRIN Political Party|votes31=28022|seats31=0|sc31=New
+|party32=Faith in Peru|votes32=26894|seats32=0|sc32=New
+|party33=Federal Democratic Party|votes33=23041|seats33=0|sc33=New
+|party34={{ill|Let's Save Peru|es|Salvemos al Perú}}|votes34=21275|seats34=0|sc34=New
+|party35=[[Peru Action]]|votes35=20566|seats35=0|sc35=New
+|party36=[[Modern Peru]]|votes36=18508|seats36=0|sc36=New
+|party37=[[Workers and Entrepreneurs Party]]|votes37=12567|seats37=0|sc37=New
+|invalid=3135238
+|blank=2629017
+|total_sc=0
+|electorate=27325432
+|source=[https://resultadoelectoral.onpe.gob.pe/main/diputados ONPE]
+}}
+
+===List of elected Deputies===
+{| class="wikitable sortable"
+!Name
+!Party
+!Department
+!Votes
+|-
+|[[Aldo Antonio Bravo Quispe]]|| [[Popular Renewal|RP]]||[[Lima]]||20,647
+|-
+|[[Alejandro José Manay Pillaca]]|| [[Together for Peru|JP]]||[[Department of Ayacucho|Ayacucho]]||12,667
+|-
+|[[Alexander Salas Rivera]]|| [[Popular Force|FP]]||[[Lima province|Lima Provincias]]||5,011
+|-
+|[[Amalia Emilia Palomino Pacheco]]|| [[Together for Peru|JP]]||[[Department of Arequipa|Arequipa]]||12,011
+|-
+|[[Ana Bertha Patiño Urco]]|| [[Popular Force|FP]]||[[Department of Junín|Junín]]||10,463
+|-
+|[[Ana Luisa Yuffra Lugo]]|| [[Popular Force|FP]]||[[Department of Loreto|Loreto]]||1,423
+|-
+|[[Analí Márquez|Analí Márquez Huanca]]|| [[Together for Peru|JP]]||[[Department of Cusco|Cusco]]||19,815
+|-
+|[[Andrea Dayna Medina Stein]]|| [[Civic Party OBRAS|OBRAS]]||[[Lima]]||8,476
+|-
+|[[Ángel Bruno Bobadilla Galindo]]|| [[Popular Force|FP]]||[[Callao]]||4,574
+|-
+|[[Ángel Renato Meneses Crispín]]|| [[Ahora Nación|AN]]||[[Lima]]||14,312
+|-
+|[[Arturo César Eusebio Padilla]]|| [[Civic Party OBRAS|OBRAS]]||[[Lima province|Lima Provincias]]||4,133
+|-
+|[[Auristela Ana Obando Morgan]]|| [[Popular Force|FP]]||[[Callao]]||10,951
+|-
+|[[Azucena Isla Rojas]]|| [[Together for Peru|JP]]||[[Department of Loreto|Loreto]]||3,380
+|-
+|[[Jair Manrique]]|| [[Ahora Nación|AN]]||[[Lima]]||38,995
+|-
+|[[Carlos Alberto Domínguez Herrera]]|| [[Popular Force|FP]]||[[Department of Ancash|Áncash]]||3,920
+|-
+|[[Carlos Alberto Yalta Sotelo]]|| [[Popular Renewal|RP]]||[[Callao]]||12,607
+|-
+|[[Carlos Alberto Zegarra Sánchez]]|| [[Popular Force|FP]]||[[Department of Ica|Ica]]||8,775
+|-
+|[[Carmela Paucara Paxi]]|| [[Popular Force|FP]]||[[Department of Piura|Piura]]||7,896
+|-
+|[[Carmen Georgina Duarte Patiño de Pezet]]|| [[Party of Good Government|PBG]]||[[Department of Junín|Junín]]||6,661
+|-
+|[[Catherin Norma Palomino Casavilca]]|| [[Together for Peru|JP]]||[[Department of Huancavelica|Huancavelica]]||13,580
+|-
+|[[Cecilia Chacón|Cecilia Isabel Chacón de Vettori]]|| [[Popular Force|FP]]||[[Lima]]||81,234
+|-
+|[[César Augusto Holguín Loaiza]]|| [[Ahora Nación|AN]]||[[Department of Cusco|Cusco]]||27,527
+|-
+|[[César Augusto Muedas Balbiese]]|| [[Ahora Nación|AN]]||[[Department of Junín|Junín]]||18,895
+|-
+|[[César Hugo Tito Rojas]]|| [[Together for Peru|JP]]||[[Department of Puno|Puno]]||19,606
+|- 
+|[[César Manuel Revilla Villanueva]]|| [[Popular Force|FP]]||[[Department of Piura|Piura]]||23,816
+|-
+|[[César Manuel Vidaurre Floridas]]|| [[Popular Force|FP]]||[[Department of Loreto|Loreto]]||5,688
+|-
+|[[Christian Aranda Vásquez]]|| [[Popular Renewal|RP]]||[[Department of Arequipa|Arequipa]]||15,927
+|-
+|[[Daniel Jefferson Varas Seguín]]|| [[Together for Peru|JP]]||[[Department of Ancash|Áncash]]||8,057
+|-
+|[[Demetrio Flavio Valqui Calderón]]|| [[Civic Party OBRAS|OBRAS]]||[[Department of La Libertad|La Libertad]]||5,288
+|-
+|[[Diego Alonso Fernando Bazán Calderón]]|| [[Popular Renewal|RP]]||[[Department of La Libertad|La Libertad]]||14,101
+|-
+|[[Diethell Columbus|Diethell Columbus Murata]]|| [[Popular Force|FP]]||[[Lima]]||34,200
+|-
+|[[Dina Irene Hancco Hancco]]|| [[Civic Party OBRAS|OBRAS]]||[[Department of Puno|Puno]]||13,203
+|-
+|[[Édgar Adrián Alvarón de la Cruz]]|| [[Civic Party OBRAS|OBRAS]]||[[Department of Ancash|Áncash]]||4,733
+|-
+|[[Édgar Dember Gonzáles Polar]]|| [[Party of Good Government|PBG]]||[[Department of Arequipa|Arequipa]]||19,814
+|-
+|[[Eduardo Enrique Castillo Rivas]]|| [[Popular Force|FP]]||[[Department of Piura|Piura]]||21,130
+|-
+|[[Edwin Espinoza Huillca]]|| [[Party of Good Government|PBG]]||[[Department of Cusco|Cusco]]||9,564
+|-
+|[[Ernesto Alonzo Zunini Yerrén]]|| [[Together for Peru|JP]]||[[Department of Lambayeque|Lambayeque]]||11,268
+|-
+|[[Félix See Hung Chang Apuy]]|| [[Popular Renewal|RP]]||[[Department of Piura|Piura]]||13,945
+|-
+|[[Fernando Alberto García Huby]]|| [[Party of Good Government|PBG]]||[[Callao]]||6,603
+|-
+|[[Flor de Jesús Meza Rivera]]|| [[Popular Force|FP]]||[[Lima]]|| 7,630
+|-
+|[[Francisco Javier Gatica Vega]]|| [[Popular Force|FP]]||[[Department of San Martín|San Martín]]||4,497
+|-
+|[[Frank Krklec Torres]]|| [[Popular Renewal|RP]]||[[Lima]]||35,171
+|-
+|[[Freshman Buitrón Martínez]]|| [[Ahora Nación|AN]]||[[Department of Ayacucho|Ayacucho]]||9,792
+|-
+|[[Gabriel Robertino Gonzáles Delgado]]|| [[Together for Peru|JP]]||[[Department of Cajamarca|Cajamarca]]||26,244
+|-
+|[[Geanmarco Antonio Quezada Castro]]|| [[Popular Force|FP]]||[[Department of La Libertad|La Libertad]]||4,061
+|-
+|[[Giannina Iris Avendaño Vilca]]|| [[Together for Peru|JP]]||[[Lima]]||22,644
+|-
+|[[Gilmer Trujillo Zegarra]]|| [[Popular Force|FP]]||[[Department of La Libertad|La Libertad]]||15,030
+|-
+|[[Gladys Griselda Andrade Salguero de Álvarez]]|| [[Popular Force|FP]]||[[Lima province|Lima Provincias]]||9,687
+|-
+|[[Gloria Charito Hirache Pizarro]]|| [[Party of Good Government|PBG]]||[[Department of Arequipa|Arequipa]]||9,668
+|-
+|[[Graciela Chipana Condori]]|| [[Together for Peru|JP]]||[[Department of Moquegua|Moquegua]]||2,761
+|-
+|[[Gustavo Alexander Segura Figueroa]]|| [[Popular Renewal|RP]]||[[Lima]]||39,528
+|-
+|[[Harvey Colchado]]|| [[Ahora Nación|AN]]||[[Lima]]||143,244
+|-
+|[[Haydée Celinda Poma Huamani]]|| [[Together for Peru|JP]]||[[Department of Madre de Dios|Madre de Dios]]||2,064
+|-
+|[[Heber López Letona]]|| [[Civic Party OBRAS|OBRAS]]||[[Department of Cusco|Cusco]]||8,701
+|-
+|[[Héctor Guillén Valencia]]|| [[Together for Peru|JP]]||[[Department of Huancavelica|Huancavelica]]||7,296
+|-
+|[[Helard Bladimir Sonco Villanueva]]|| [[Ahora Nación|AN]]||[[Department of Puno|Puno]]||14,617
+|-
+|[[Henry Antonio Albañil Carmona]]||[[Civic Party OBRAS|OBRAS]]||[[Department of Piura|Piura]]||5,049
+|-
+|[[Hilda Judit Fernández de la Torre]]|| [[Party of Good Government|PBG]]||[[Lima province|Lima Provincia]]||27,006
+|-
+|[[Indira Huilca]]|| [[Ahora Nación|AN]]||[[Lima]]||92,985
+|-
+|[[Jacqueline Viviana Tapullima Insapillo]]|| [[Together for Peru|JP]]||[[Department of San Martín|San Martín]]||6,859
+|-
+|[[Jaime Américo Abensur Pinasco]]||[[Popular Force|FP]]||[[Department of Ucayali|Ucayali]]||4,040
+|-
+|[[James Arturo Holguín Aguirre]]|| [[Together for Peru|JP]]||[[Department of Madre de Dios|Madre de Dios]]||2,856
+|-
+|[[Javier Alejandro Castro Cruz]]|| [[Popular Force|FP]]||[[Department of Lambayeque|Lambayeque]]||8,249
+|-
+|[[Javier José María Cipriani Thorne]]|| [[Popular Renewal|RP]]||[[Lima]]||40,119
+|-
+|[[Jeenny Cristina Samanez Gonzáles Vigil]]|| [[Civic Party OBRAS|OBRAS]]||[[Lima]]||19,689
+|-
+|[[Jessica Benítez Barrionuevo]]|| [[Party of Good Government|PBG]]||[[Lima]]||13,884
+|-
+|[[Jessica Lizbeth Navas Sánchez]]||[[Popular Force|FP]]||[[Department of Ucayali|Ucayali]]||11,979
+|-
+|[[Jessica Roxana Guevara Ramírez]]|| [[Together for Peru|JP]]||[[Department of Cajamarca|Cajamarca]]||5,463
+|-
+|[[Jessica Sadith Pérez Quispe]]|| [[Together for Peru|JP]]||[[Department of Puno|Puno]]||21,521
+|-
+|[[Jesús Pérez Alccahuamán]]|| [[Together for Peru|JP]]||[[Department of Apurímac|Apurímac]]||13,866
+|-
+|[[Jhonn Brayam Valquí Ordóñez]]|| [[Popular Force|FP]]||[[Department of Pasco|Pasco]]||2,797
+|-
+|[[Jorge Arturo Zeballos Aponte]]|| [[Popular Renewal|RP]]||Peruanos Residentes en el Extranjero||7,958
+|-
+|[[José Isidro Baella Malca]]|| [[Popular Renewal|RP]]||[[Lima]]||76,554
+|-
+|[[Marvin Palma]]|| [[Popular Force|FP]]||[[Department of Lambayeque|Lambayeque]]||28,534
+|-
+|[[José Miguel Marcelo Salazar]]|| [[Ahora Nación|AN]]||[[Department of Ancash|Áncash]]||6,880
+|-
+|[[José Ricardo Yataco Torrealva]]|| [[Civic Party OBRAS|OBRAS]]||[[Department of Ica|Ica]]||5,762
+|-
+|[[Juan Amílcar Villanueva Calderón]]|| [[Together for Peru|JP]]||[[Department of Cajamarca|Cajamarca]]||4,141
+|-
+|[[Juan César Cabrera Nieto]]||[[Civic Party OBRAS|OBRAS]]||[[Department of Tacna|Tacna]]||3,552
+|-
+|[[Julián Luis Pérez Mallqui]]|| [[Together for Peru|JP]]||[[Department of Cusco|Cusco]]||15,774
+|-
+|[[Karina Beteta|Karina Juliza Beteta Rubín]]|| [[Popular Force|FP]]||[[Department of Huánuco|Huánuco]]||7,694
+|-
+|[[Kim Tami Muñoz Yurivilca]]|| [[Popular Force|FP]]||[[Department of Pasco|Pasco]]||2,001
+|-
+|[[Leo Miguel de Paz Lancho]]|| [[Popular Renewal|RP]]||[[Lima]]||22,858
+|-
+|[[Leticia Maruja Leiva Baylón]]|| [[Popular Force|FP]]||[[Department of La Libertad|La Libertad]]||5,525
+|-
+|[[Lila Marianela Prado Vallejos]]|| [[Party of Good Government|PBG]]||[[Department of Ica|Ica]]||4,410
+|-
+|[[Liliana Milagros Takayama Jiménez]]|| [[Popular Force|FP]]||[[Department of Lambayeque|Lambayeque]]||5,796
+|-
+|[[Liz Huli Mendoza Bernedo]]|| [[Popular Force|FP]]||Peruanos Residentes en el Extranjero||4,053
+|-
+|[[Luis Ángel Jibaja Ramos]]|| [[Together for Peru|JP]]||[[Department of Cajamarca|Cajamarca]]||4,235
+|-
+|[[Arturo Alegría|Luis Arturo Alegría García]]|| [[Popular Force|FP]]||[[Department of San Martín|San Martín]]||9,969
+|-
+|[[Luis Aurelio Masco Cáceres]]|| [[Civic Party OBRAS|OBRAS]]||[[Department of Arequipa|Arequipa]]||8,876
+|-
+|[[Luis Eliseo Quispe Candia]]|| [[Party of Good Government|PBG]]||[[Lima]]||29,675
+|-
+|[[Luz Mérida Soto Ferrari]]|| [[Together for Peru|JP]]||[[Department of Apurímac|Apurímac]]||6,359
+|-
+|[[Luzmila María del Carmen Gamarra Pita]]|| [[Popular Force|FP]]||[[Department of Ancash|Áncash]]||11,916
+|-
+|[[Mady Verónica Yonz Núñez]]|| [[Popular Renewal|RP]]||[[Department of Ica|Ica]]||8,800
+|-
+|[[Marco Antonio Flores Valdizán]]|| [[Together for Peru|JP]]||[[Department of Huánuco|Huánuco]]||3,751
+|-
+|[[Marco Antonio Pacheco Quispe]]|| [[Popular Force|FP]]||[[Lima]]||14,267
+|-
+|[[María Candelaria Ramos Rosales]]||[[Popular Force|FP]]||[[Department of Tumbes|Tumbes]]||1,275
+|-
+|[[María Luisa Silupú Inga]]|| [[Popular Force|FP]]||[[Department of Piura|Piura]]||5,298
+|-
+|[[Marino Teófilo Lavado Valdivia]]|| [[Together for Peru|JP]]||[[Department of La Libertad|La Libertad]]||10,067
+|-
+|[[Marleny Bibiana Arminta Valencia]]|| [[Ahora Nación|AN]]||[[Department of Arequipa|Arequipa]]||15,640
+|-
+|[[Marlon Alberto Aguirre Ramos]]|| [[Together for Peru|JP]]||[[Department of Junín|Junín]]||10,554
+|-
+|[[Máximo Peralta Jorpa]]|| [[Civic Party OBRAS|OBRAS]]||[[Department of Junín|Junín]]||6,844
+|-
+|[[Mery Eliana Infantes Castañeda]]|| [[Popular Force|FP]]||[[Department of Amazonas (Peru)|Amazonas]]||1,444
+|-
+|[[Miguel Félix Huamán Cornejo]]|| [[Party of Good Government|PBG]]||[[Department of Piura|Piura]]||5,191
+|-
+|[[Milagros Karina Santana Vera]]|| [[Party of Good Government|PBG]]||[[Lima province|Lima Provincias]]||3,108
+|-
+|[[Nary Benvinda Pinasco Montenegro]]|| [[Popular Force|FP]]||[[Department of Loreto|Loreto]]||6,059
+|-
+|[[Nathaly Molina]]|| [[Party of Good Government|PBG]]||[[Lima]]||30,069
+|-
+|[[Nery Rodolfo Fernández Nina]]|| [[Party of Good Government|PBG]]||[[Department of Moquegua|Moquegua]]||1,634
+|-
+|[[Nora María Llaque Linares]]|| [[Party of Good Government|PBG]]||[[Department of La Libertad|La Libertad]]||8,765
+|-
+|[[Norma Yarrow|Norma Martina Yarrow Lumbreras]]|| [[Popular Renewal|RP]]||[[Lima]]||126,370
+|-
+|[[Olver Peña Córdova]]|| [[Together for Peru|JP]]||[[Department of San Martín|San Martín]]||10,518
+|-
+|[[Óscar de Jesús Reto Otero]]|| [[Party of Good Government|PBG]]||[[Lima]]||54,276
+|-
+|[[Oswar Elbis Cahuaza Mitivire]]||[[Together for Peru|JP]]||[[Department of Ucayali|Ucayali]]||3,529
+|-
+|[[Paola Isabel Martínez Paitán]]|| [[Popular Renewal|RP]]||[[Lima]]||24,714
+|-
+|[[Pierangeli Daniela Dodero Jovich]]|| [[Popular Force|FP]]||[[Lima]]||12,477
+|-
+|[[Pier Paolo Figari Mendoza]]|| [[Popular Force|FP]]||[[Lima]]||17,742
+|-
+|[[Pilar Sulca Castillo]]|| [[Together for Peru|JP]]||[[Department of Ayacucho|Ayacucho]]||2,276
+|-
+|[[Rafael Aldo Celiz Castillo]]||[[Popular Force|FP]]||[[Department of Tumbes|Tumbes]]||3,352
+|-
+|[[Raúl Jesús Camargo Porta]]|| [[Civic Party OBRAS|OBRAS]]||[[Lima]]||7,575
+|-
+|[[Remigio Condori Flores]]|| [[Together for Peru|JP]]||[[Department of Puno|Puno]]||17,517
+|-
+|[[Romina Alejandra Uribe Sáenz]]|| [[Party of Good Government|PBG]]||[[Lima]]||12,283
+|-
+|[[Rosangella Barbarán|Rosangella Andrea Barbarán Reyes]]|| [[Popular Force|FP]]||[[Lima]]||28,248
+|-
+|[[Rossana Herminia Alayza Maccera]]|| [[Party of Good Government|PBG]]||[[Lima]]||13,876
+|-
+|[[Roxana María Rocha Gallegos]]|| [[Popular Renewal|RP]]||[[Lima]]||53,998
+|-
+|[[Royser Castro Grandez]]|| [[Popular Force|FP]]||[[Department of Amazonas (Peru)|Amazonas]]||4,624
+|-
+|[[Segundo Juan Castrejón Fernández]]|| [[Party of Good Government|PBG]]||[[Department of Lambayeque|Lambayeque]]||7,782
+|-
+|[[Segundo Senovio Ticlla Rafael]]|| [[Popular Force|FP]]||[[Department of Cajamarca|Cajamarca]]||7,462
+|-
+|[[Svieta Valia Fernández González]]||[[Together for Peru|JP]]||[[Department of Tacna|Tacna]]||3,718
+|-
+|[[Víctor Eduardo Piñan Mamani]]|| [[Civic Party OBRAS|OBRAS]]||[[Lima]]||14,721
+|-
+|[[Yenifer Paredes]]|| [[Together for Peru|JP]]||[[Department of Cajamarca|Cajamarca]]||72,450
+|-
+|[[Yuli Liliana Ambrosio Domínguez]]|| [[Together for Peru|JP]]||[[Department of Huánuco|Huánuco]]||9,242
+|-
+|- class="sortbottom"
+| colspan="20" align="left" |'''Source:''' [https://portal.jne.gob.pe/portal_documentos/files/b9f4ffa0-c103-48eb-be0f-7b76309e630d.pdf  Jurado Nacional de Elecciones - JNE]
+|}
+
+=== Andean Parliament ===
+
+{{Election results
+|party1=[[Popular Force]]|votes1=2038478|seats1=1|sc1=0
+|party2=[[Party of Good Government]]|votes2=1652598|seats2=1|sc2=New
+|party3=[[Together for Peru]]|votes3=1617188|seats3=1|sc3=+1
+|party4=[[Popular Renewal]]|votes4=1534885|seats4=1|sc4=0
+|party5=[[Civic Party OBRAS]]|votes5=1273403|seats5=1|sc5=New
+|party6=[[Ahora Nación]]|votes6=1116973|seats6=0|sc6=New
+|party7=[[Country for All]]|votes7=817963|seats7=0|sc7=New
+|party8=[[First the People (Peru)|First the People]]|votes8=482337|seats8=0|sc8=New
+|party9=[[Agricultural People's Front of Peru]]|votes9=297417|seats9=0|sc9=0
+|party10=[[Podemos Perú]]|votes10=282221|seats10=0|sc10=0
+|party11=[[Alliance for Progress (Peru)|Alliance for Progress]]|votes11=256063|seats11=0|sc11=0
+|party12=[[American Popular Revolutionary Alliance|Peruvian Aprista Party]]|votes12=237669|seats12=0|sc12=New
+|party13=[[We Are Peru]]|votes13=196885|seats13=0|sc13=0
+|party14=Popular Cooperation|votes14=149255|seats14=0|sc14=New
+|party15=[[Peru First]]|votes15=148076|seats15=0|sc15=New
+|party16={{ill|Venceremos (Peru)|es|Venceremos (Perú)|lt=Venceremos}}|votes16=138788|seats16=0|sc16=New
+|party17=[[Free Peru]]|votes17=128377|seats17=0|sc17=–1
+|party18={{ill|A Different Path|es|Un Camino Diferente}}|votes18=126860|seats18=0|sc18=New
+|party19=[[Progresemos]]|votes19=120219|seats19=0|sc19=New
+|party20={{ill|Patriotic Party of Peru|es|Partido Patriótico del Perú}}|votes20=111169|seats20=0|sc20=New
+|party21=United Peru Democratic Party|votes21=100474|seats21=0|sc21=New
+|party22=[[Purple Party]]|votes22=93484|seats22=0|sc22=0
+|party23=[[People's Liberty]]|votes23=71505|seats23=0|sc23=New
+|party24={{ill|Green Democratic Party|es|Partido Demócrata Verde}}|votes24=66667|seats24=0|sc24=New
+|party25=[[Avanza País (Peru, 2017)|Avanza País]]|votes25=65135|seats25=0|sc25=–1
+|party26=Democratic Integrity|votes26=57271|seats26=0|sc26=New
+|party27=[[National Unity (Peru, 2025)|National Unity]]|votes27=55285|seats27=0|sc27=New
+|party28=Force and Liberty|votes28=36011|seats28=0|sc28=New
+|party29=[[Faith in Peru]]|votes29=25772|seats29=0|sc29=New
+|party30=PRIN Political Party|votes30=23222|seats30=0|sc30=New
+|party31={{ill|Let's Save Peru|es|Salvemos al Perú}}|votes31=21119|seats31=0|sc31=New
+|party32=[[Modern Peru]]|votes32=13365|seats32=0|sc32=New
+|party33=[[Workers and Entrepreneurs Party]]|votes33=13166|seats33=0|sc33=New
+|invalid=2917275
+|blank=3881934
+|total_sc=0
+|electorate=27325432
+|source=[https://resultadoelectoral.onpe.gob.pe/main/parlamento-andino ONPE]
+}}
+
+==Aftermath==
+{{main|2026 Peruvian post-electoral crisis}}
+=== First round ===
+
+{{quote box
+| quote = "If you don't declare this filth null and void, Mr. Burneo, get ready ... You're going to get a big one. A huge tortoise so you'll behave like a man. You know where I'm going to shove it. We're going to shove the tortoise in you, you know exactly where."
+| author = — [[Rafael López Aliaga]], 14 April 2026<ref name=":18" /><ref name=":20"/>
+| align = right
+| width = 250px
+}}
+
+During the election, dozens of polling stations opened late or did not open at all, which initially prevented more than 60,000 voters from being able to cast their votes; because of this, the National Office of Electoral Processes (ONPE) extended voting until 18:00 and extended the election until 13 April in areas affected.<ref>{{cite web|url=https://larepublica.pe/politica/2026/04/12/elecciones-2026-onpe-anuncia-que-amplia-el-horario-de-votacion-hasta-la-6-de-la-tarde-por-demoras-en-la-instalacion-de-mesas-hnews-779076|title=Elecciones 2026: ONPE anuncia que amplía el horario de votación hasta la 6 de la tarde por demoras en la instalación de mesas|access-date=15 April 2026|last=Cardoza|first=Josué Chávez|date=12 April 2026|website=La Republica|language=es|archive-date=15 April 2026|archive-url=https://web.archive.org/web/20260415022644/https://larepublica.pe/politica/2026/04/12/elecciones-2026-onpe-anuncia-que-amplia-el-horario-de-votacion-hasta-la-6-de-la-tarde-por-demoras-en-la-instalacion-de-mesas-hnews-779076|url-status=live}}</ref> It was found that the company responsible for transporting election material had failed to comply with its contract, leaving polling stations unable to operate. The headquarters of the company were subsequently raided by the police.<ref>{{cite web|url=https://peru21.pe/investigacion/galaga-empresa-acusada-por-onpe-de-ocasionar-retrasos-elecciones2026/|title=Galaga empresa acusada por ONPE de ocasionar retrasos|access-date=15 April 2026|work=Perú 21|date=12 April 2026|language=es|archive-date=22 April 2026|archive-url=https://web.archive.org/web/20260422062824/https://peru21.pe/investigacion/galaga-empresa-acusada-por-onpe-de-ocasionar-retrasos-elecciones2026/|url-status=live}}</ref> An investigation revealed that the government had already penalized the company for failing to fulfill its contracts regarding the election on three previous occasions,<ref>{{cite news|url=https://rpp.pe/lima/actualidad/empresa-senalada-por-la-onpe-de-incumplir-con-traslado-de-material-electoral-fue-penalizada-3-veces-en-2020-y-2023-noticia-1684019|title=Empresa señalada por la ONPE de incumplir con traslado de material electoral fue penalizada 3 veces por la misma entidad|access-date=15 April 2026|last=Rodriguez J.|first=Luis|date=12 April 2026|language=es|work=RPP Noticias|archive-date=13 April 2026|archive-url=https://web.archive.org/web/20260413095127/https://rpp.pe/lima/actualidad/empresa-senalada-por-la-onpe-de-incumplir-con-traslado-de-material-electoral-fue-penalizada-3-veces-en-2020-y-2023-noticia-1684019|url-status=live}}</ref> and that already in March the authorities had warned ONPE of risks that tasking the company with the distribution of election materials would entail.<ref>{{cite news|url=https://www.expreso.com.pe/actualidad/elecciones-general-2026-contraloria-alerto-hace-semanas-sobre-fallas-logisticas-en-transporte-de-material-electoral-onpe-piero-corvetto-noticia/1279091/|title=Elecciones General 2026: Contraloría alertó hace semanas sobre fallas logísticas en transporte de material electoral|date=12 April 2026|newspaper=Diario Expreso|archive-date=23 April 2026|access-date=15 April 2026|archive-url=https://web.archive.org/web/20260423072416/https://www.expreso.com.pe/actualidad/elecciones-general-2026-contraloria-alerto-hace-semanas-sobre-fallas-logisticas-en-transporte-de-material-electoral-onpe-piero-corvetto-noticia/1279091/|url-status=live}}</ref> As the result, José Samamé Blas, the ONPE's electoral management director, was arrested and charged with dereliction of duty and refusal to perform official duties.<ref>{{cite web|url=https://www.infobae.com/peru/2026/04/13/onpe-detienen-al-gerente-de-gestion-electoral-en-flagrancia-por-presunta-omision-en-retrasos-en-las-elecciones-2026/|title=ONPE: detienen al gerente de Gestión Electoral en "flagrancia" por presunta omisión en retrasos en las Elecciones 2026|access-date=15 April 2026|author=Clara Giraldo|date=13 April 2026|website=infobae|language=es-PE|archive-date=14 April 2026|archive-url=https://web.archive.org/web/20260414011044/https://www.infobae.com/peru/2026/04/13/onpe-detienen-al-gerente-de-gestion-electoral-en-flagrancia-por-presunta-omision-en-retrasos-en-las-elecciones-2026/|url-status=live}}</ref>
+
+In the weeks leading up to the elections, ''[[El País]]'' reported that Rafael López Aliaga had already begun saying [[electoral fraud]] took place.<ref name=":20" /> According to ''[[La República]]'', Rafael López Aliaga implemented a [[disinformation campaign]] to discredit the election, accusing electoral authorities of engaging in fraud.<ref name=":18" /> The newspaper reported that former police intelligence agents that were assisting López Aliaga's [[Popular Renewal]] party told journalists that a plan was organized by the party to remove head of the ONPE, Piero Corvetto and the head of the JNE, Roberto Burneo, replacing them with sympathetic officials who would invalidate the election.<ref name=":18" /> Several mostly right-wing presidential candidates, including López Aliaga,<ref>{{cite web|url=https://www.swissinfo.ch/spa/l%c3%b3pez-aliaga-cree-que-%22empez%c3%b3-fraude%22-en-per%c3%ba-por-el-retraso-en-abrir-centros-de-votaci%c3%b3n/91245108|title=López Aliaga cree que "empezó fraude" en Perú por el retraso en abrir centros de votación|access-date=15 April 2026|date=12 April 2026|website=SWI swissinfo.ch|language=es}}</ref> Wolfgang Grozo, Herbert Caller,<ref>{{cite web|url=https://altavoz.pe/politica/candidatos-wolfgang-grozo-y-herbert-caller-se-suman-a-lopez-aliaga-y-piden-nulidad-de-elecciones/|title=Candidatos Wolfgang Grozo y Herbert Caller se suman a López Aliaga y piden nulidad de elecciones|access-date=15 April 2026|last=Calderón|first=Camila|date=15 April 2026|website=Altavoz|language=es-PE|archive-date=15 April 2026|archive-url=https://web.archive.org/web/20260415130246/https://altavoz.pe/politica/candidatos-wolfgang-grozo-y-herbert-caller-se-suman-a-lopez-aliaga-y-piden-nulidad-de-elecciones/|url-status=live}}</ref> Álex Gonzales, and Francisco Diez-Canseco called for an invalidation of the election.<ref>{{cite AV media|title=Excandidatos presidenciales denuncian fraude y exigen nulidad de elecciones|work=24 Horas|url=https://www.youtube.com/watch?v=Bf2lMf44xoU|access-date=15 April 2026|date=14 April 2026|archive-date=15 April 2026|archive-url=https://web.archive.org/web/20260415041519/https://www.youtube.com/watch?v=Bf2lMf44xoU|url-status=live}}</ref> López Aliaga organized a demonstration, demanding the invalidation of the election.<ref>{{cite web |url=https://www.atv.pe/noticia/rafael-lopez-aliaga-encabeza-manifestacion-frente-al-jne/ |language=es |title=Rafael López-Aliaga encabeza manifestación frente al JNE |date=15 April 2026 |website=[[ATV (Peruvian TV channel)|ATV]]}}</ref> ''El País'' reported that during a speech, López Aliaga made [[homophobic attack]]s and said he would rape Roberto Burneo with a [[tortoise]] if he did not annul the elections.<ref name=":20">{{Cite web |last=Vega |first=Renzo Gómez |date=16 April 2026 |title=El ultraderechista Rafael López Aliaga ofrece una recompensa y luego la retira a quien le dé pruebas de fraude electoral en Perú |url=https://elpais.com/america/2026-04-16/el-ultraderechista-rafael-lopez-aliaga-ofrece-5700-dolares-a-quien-le-de-pruebas-de-un-supuesto-fraude-electoral-en-peru.html |access-date=20 April 2026 |website=[[El País]] |language=es |archive-date=17 April 2026 |archive-url=https://web.archive.org/web/20260417073749/https://elpais.com/america/2026-04-16/el-ultraderechista-rafael-lopez-aliaga-ofrece-5700-dolares-a-quien-le-de-pruebas-de-un-supuesto-fraude-electoral-en-peru.html |url-status=live }}</ref> He accused the authorities of conducting "ballot box stuffing" in order to make Keiko Fujimori advance to the runoff; López Aliaga also called for an "insurgency" if the elections were not invalidated.<ref>{{cite web|url=https://canaln.pe/actualidad/rafael-lopez-aliaga-lidero-planton-frente-al-jne-y-lanzo-advertencias-n491489|title=Rafael López Aliaga lideró plantón frente al JNE y lanzó advertencias|access-date=15 April 2026|last=Valverde|first=Rodrigo Saldarriaga|date=15 April 2026|website=América TV|language=es|archive-date=15 April 2026|archive-url=https://web.archive.org/web/20260415210952/https://canaln.pe/actualidad/rafael-lopez-aliaga-lidero-planton-frente-al-jne-y-lanzo-advertencias-n491489|url-status=live}}</ref><ref>{{cite web|url=https://gestion.pe/peru/lopez-aliaga-advierte-marcha-multitudinaria-e-insurgencia-civil-si-no-pasa-a-segunda-vuelta-noticia/|title=López Aliaga advierte marcha multitudinaria e "insurgencia civil" si no pasa a segunda vuelta|access-date=15 April 2026|date=15 April 2026|website=Gestión|language=es|archive-date=15 April 2026|archive-url=https://web.archive.org/web/20260415021529/https://gestion.pe/peru/lopez-aliaga-advierte-marcha-multitudinaria-e-insurgencia-civil-si-no-pasa-a-segunda-vuelta-noticia/|url-status=live}}</ref><ref>{{cite web|url=https://www.infobae.com/video/actualidad/rafael-lopez-aliaga-advierte-si-el-fraude-se-consuma-convoco-a-una-marcha-en-todo-el-pais-en-medio-de-protestas-en-lima/sJxFUztn/|title=Rafael López Aliaga advierte: "Si el fraude se consuma, convoco a una marcha en todo el país" en medio de protestas en Lima|access-date=15 April 2026|website=infobae|language=es|archive-date=20 April 2026|archive-url=https://web.archive.org/web/20260420045023/https://www.infobae.com/video/actualidad/rafael-lopez-aliaga-advierte-si-el-fraude-se-consuma-convoco-a-una-marcha-en-todo-el-pais-en-medio-de-protestas-en-lima/sJxFUztn/|url-status=live}}</ref> After calling for an insurgency, López Aliaga faced criminal charges related to an alleged [[incitement]] of [[civil disorder]] from the [[Public Ministry of Peru]].<ref name=":19">{{Cite web |last=Bianchi |first=Jazmín |date=15 April 2026 |title=Denuncian penalmente a Rafael López Aliaga por incitar a la insurgencia |url=https://larepublica.pe/politica/2026/04/15/denuncian-penalmente-a-rafael-lopez-aliaga-por-incitar-a-la-insurgencia-hnews-773370 |access-date=16 April 2026 |website=[[La República]] |language=es |archive-date=16 April 2026 |archive-url=https://web.archive.org/web/20260416040315/https://larepublica.pe/politica/2026/04/15/denuncian-penalmente-a-rafael-lopez-aliaga-por-incitar-a-la-insurgencia-hnews-773370 |url-status=live }}</ref>
+
+In addition to his call for protests, López Aliaga offered 20,000 [[Peruvian sol]]es (approximately 6,000 [[United States dollar]]s in April 2026) to individuals who assisted his argument of electoral fraud being committed.<ref>{{Cite web|last=Cardoza|first=Josué Chávez|date=17 April 2026|title=Roberto Sánchez y Rafael López Aliaga: el conteo de votos y las actas observadas definirán el segundo lugar|url=https://larepublica.pe/politica/2026/04/16/roberto-sanchez-y-rafael-lopez-aliaga-el-conteo-de-votos-y-las-actas-observadas-definiran-el-segundo-lugar-hnews-754256|access-date=17 April 2026|website=[[La República]]|language=es|archive-date=16 April 2026|archive-url=https://web.archive.org/web/20260416221338/https://larepublica.pe/politica/2026/04/16/roberto-sanchez-y-rafael-lopez-aliaga-el-conteo-de-votos-y-las-actas-observadas-definiran-el-segundo-lugar-hnews-754256|url-status=live}}</ref> Fujimori, who had previously offered her alliance with López Aliaga by avoiding political attacks,<ref>{{Cite web |last=Saavedra|first=Narda|date=1 April 2026|title=Fujimori aprovecha debate para plantear pacto de no agresión a López Aliaga|url=https://larepublica.pe/politica/2026/04/01/fujimori-aprovecha-debate-para-plantear-pacto-de-no-agresion-a-lopez-aliaga-hnews-2005700|access-date=17 April 2026|website=[[La República]]|language=es}}</ref> said that she would provide all representatives of her Popular Force party to assist López Aliaga in any potential fact-finding. According to ''[[La República]]'', this may have been an attempt by Fujimori to prevent Sánchez from advancing to the second round of elections. Sánchez reacted to López Aliaga's offer to pay those assisting his electoral fraud narrative by saying "If there are doubts about this process, they must be substantiated with evidence before the authorities, not by paying bribes."<ref name=":19" />
+
+ONPE head Piero Corvetto resigned as a result of the controversy and faced investigations related to the implementation of the first round of elections.<ref name=":21" />
+
+=== Second round ===
+Sánchez leaped to an early lead, resulting in a massive sell-off of the [[S&P/BVL Peru General Index]].<ref name="Reuters June 11" />  Despite not all the votes being counted, the ''[[Wall Street Journal]]'' called the race for Fujimori on 11 June, stating that despite her holding a lead of just 50.002%, [[pollsters]] viewed her victory as a statistical inevitability.<ref name="WSJ Call">{{cite web |last1=Dubé |first1=Ryan |title=The Daughter of a 'Dictator' Wins Power in Peru |url=https://www.wsj.com/world/americas/the-daughter-of-a-dictator-wins-power-in-peru-d384158d |website=[[Wall Street Journal]] |date=12 June 2026 |access-date=13 June 2026 |archive-date=13 June 2026 |archive-url=https://web.archive.org/web/20260613212614/https://www.wsj.com/world/americas/the-daughter-of-a-dictator-wins-power-in-peru-d384158d |url-status=live }}</ref> [[Reuters]], despite not yet calling the election, noted on 11 June that the last 3% or so of the vote to be counted would be contested votes, which were mostly from the Lima metropolitan region, a Fujimori stronghold.<ref name="Reuters June 11">{{cite web |last1=Villegas |first1=Alexander |last2=Aquino |first2=Marco |title=Peru reviews contested ballots as Fujimori takes razor-thin lead |url=https://www.reuters.com/world/americas/fujimori-edges-back-into-lead-perus-knife-edge-election-2026-06-11/ |website=[[Reuters]] |access-date=13 June 2026}}</ref> The following day, ''[[The Daily Telegraph]]'' and ''[[The Times]]'' also published articles indicating that Fujimori was poised to be elected president.<ref>{{cite web|url=https://www.thetimes.com/world/latin-america/article/keiko-fujimori-peru-presidential-election-rvcwm3t76|title=Peruvian tyrant's daughter poised for razor-thin presidential victory|work=[[The Times]]|date=12 June 2026|access-date=12 June 2026}}</ref><ref>{{cite web|url=https://www.telegraph.co.uk/world-news/2026/06/12/peru-keiko-alberto-fujimori-hoods-judges-latin-america/|title=Peru poised to elect dictator's hardline daughter|publisher=[[The Daily Telegraph]]|date=12 June 2026|access-date=12 June 2026}}</ref> Reuters also noted that U.S.-listed Peruvian mining company stocks like [[Compañía de Minas Buenaventura]] spiked after Fujimori retook the lead, and the [[Peruvian Sol|sol]] steadied from its decline.<ref name="Reuters June 11" /> On 15 June, ''[[Americas Quarterly]]'', the publication of the [[Americas Society]] and the [[Council of the Americas]], called the race for Fujimori.<ref name="AQ">{{cite web |last1=Reid |first1=Michael |title=Keiko Fujimori's Defining Choice in Peru |url=https://americasquarterly.org/article/keiko-fujimoris-defining-choice-in-peru/ |website=[[Americas Quarterly]] |access-date=16 June 2026}}</ref>
+
+On 23 June, Fujimori obtained a statistically unbeatable lead and began outlining her opening acts as president, including filling her cabinet with [[technocrat]]s and promising to fight crime.<ref>{{cite web |last1=Aquino |first1=Marco |last2=Villegas |first2=Alexander |title=Keiko Fujimori vows to unite a Peru 'split in two' as runoff lead holds |url=https://www.reuters.com/world/americas/right-wing-fujimori-secures-unbeatable-lead-peru-presidential-election-2026-06-24/ |website=[[Reuters]] |access-date=26 June 2026}}</ref> Sánchez, meanwhile, stated that he would not recognize the results, saying that the diaspora votes were fraudulent and filed a formal request for the JNE to annul the results.<ref>{{cite web |title=Sanchez warns he 'will not recognise' Fujimori victory in Peru election |url=https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election |website=[[Al Jazeera English]] |access-date=26 June 2026}}</ref> However, on 6 July, Sánchez retracted his fraud allegations and conceded the election.<ref>{{cite web |date=6 July 2026 |title=Peru's Sanchez concedes election days after Fujimori declared winner |url=https://www.reuters.com/world/americas/perus-sanchez-concedes-election-days-after-fujimori-declared-winner-2026-07-06/ |website=[[Reuters]] |access-date=6 July 2026}}</ref>
+
+On 29 June, after Fujimori was confirmed as winner of the runoff election, various international politicians reacted to the election and congratulated her, including Bolivian president [[Rodrigo Paz]],<ref>{{cite web | title=Rodrigo Paz Pereira (@Rodrigo_PazP) on X | url=https://x.com/Rodrigo_PazP/status/?lang=en }}</ref> Argentinian president [[Javier Milei]],<ref>{{cite web | title=Javier Milei (@JMilei) on X | url=https://x.com/JMilei/status/ }}</ref><ref>https:// youtu.be /Qob-6o3ucBY?si=Dh-1aRyolnDj06_F</ref>{{better source needed|date=July 2026}} Colombian president-elect [[Abelardo de la Espriella]],<ref>{{cite web | title=Abelardo de la Espriella (@ABDELAESPRIELLA) on X | url=https://x.com/abdelaespriella/status/ | access-date=1 July 2026}}</ref> Chilean president [[José Antonio Kast]],<ref>{{cite web | title=José Antonio Kast Rist (@PresidenteKast) on X | url=https://x.com/PresidenteKast/status/2071789654592966916 }}</ref> Paraguayan president [[Santiago Peña]] and vice president [[Pedro Alliana]],<ref>https:// youtu.be / KJ6X4W9JKIs?si=PeH6f34WLXdXlo9s</ref>{{better source needed|date=July 2026}}<ref>{{cite web | title=Pedro Alliana (@AllianaPedro) on X | url=https://x.com/AllianaPedro/status/2071705755808309716 }}</ref> the World Bank's LAC region vice president Susana Cordeiro Guerra,<ref>{{cite web | title=Susana Cordeiro Guerra (@scordeiroguerra) on X | url=https://x.com/scordeiroguerra/status/?lang=en }}</ref> Inter-American Development Bank president [[Ilan Goldfajn]],<ref>{{cite web | title=Ilan Goldfajn (@igoldfajn) on X | url=https://x.com/igoldfajn/status/?lang=en }}</ref> OAS secretary general [[Albert Ramdin]],<ref>{{cite web | title=Albert R. Ramdin – OAS Secretary General (@SG_OEA_OAS) on X | url=https://x.com/SG_OEA_OAS/status/?lang=en }}</ref> Costa Rican president [[Laura Fernández]],<ref>https:// youtu.be / 679RKaebOGc?si=BoAKwU3wjFC5y8hX</ref>{{better source needed|date=July 2026}} Ecuadorian president [[Daniel Noboa]],<ref>{{cite web | title=Daniel Noboa Azin (@DanielNoboaOk) on X | url=https://x.com/DanielNoboaOk/status/2072386036924350821 }}</ref> El Salvadoran president [[Nayib Bukele]],<ref>https:// youtu.be / SrYydY32DYI?si=sea2HFggj77jRfXq</ref>{{better source needed|date=July 2026}} Honduran president [[Nasry Asfura]],<ref>https:// youtu.be /2AqrOmE4aKg?si=0tf8LDtk4RTW0a_V</ref>{{better source needed|date=July 2026}} Spanish prime minister [[Pedro Sánchez]],<ref>{{cite web | title=Pedro Sánchez Castejón (@sanchezcastejon) on X | url=https://x.com/sanchezcastejon/status/2073300115448619377 }}</ref> Chinese president [[Xi Jinping]],<ref>https:// youtu.be / U70D6S1cxBU?si=Z4h19V-fWFYpQiGL</ref>{{better source needed|date=July 2026}} and Israeli Foreign Minister [[Gideon Sa'ar]].<ref>https://www.jns.org/news/israel-news/israels-foreign-minister-speaks-with-peruvian-president-elect-fujimori</ref>{{unreliable source?|date=July 2026}}
+
+==See also==
+* [[List of close election results]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Cite web |last=Robertson |first=Khalea |date=2026 |title=Peru Elects 2026: Ongoing Coverage of the Presidential Race—The First Round of Debates |url=https://www.as-coa.org/articles/peru-elects-2026-ongoing-coverage-presidential-race |website=Americas Society – Council of the Americas AS/COA |language=en}}
+* {{Cite web |last=Robertson |first=Khalea |date=24 March 2026 |title=By the Numbers: What's at Stake in Peru's 2026 Elections |url=https://www.as-coa.org/articles/numbers-whats-stake-perus-2026-elections |website=Americas Society – Council of the Americas AS/COA |language=en}}
+* [https://eg2026.onpe.gob.pe/ ''Elecciones Generales 12 de abril de 2026'' (National Office of Electoral Processes' official election website, in Spanish)]
+* [https://votoinformado.jne.gob.pe/ ''Voto Informado'' (National Jury of Elections' official website on candidates, in Spanish)]
+* [https://rpp.pe/simulador-voto-2026 Voting Simulator (platform developed by Radio Programas del Perú)]
+* [https://elcomercio.pe/politica/elecciones-peru-2026-simulador-voto-como-cedula-evitar-errores-practicar-presidente-senado-diputados-parlamento-andino-especdis-noticia/?ref=ecr/ Voting Simulator (platform developed by IDEA and El Comercio)]
+* [https://laencerrona.pe/encuestas/ ''Comparaencuestas'' (comparison of polls from major polling firms, platform developed by La Encerrona)]
+* [https://www.as-coa.org/articles/poll-tracker-perus-2026-presidential-election ''Poll Tracker: Peru's 2026 Presidential Election'' (poll tracker developed by the Americas Society – Council of the Americas)]
+* [https://votaresclave.pucp.edu.pe/ ''Votar Es Clave'' (election education platform developed by the Pontifical Catholic University of Peru, in Spanish)]
+
+{{Peruvian elections}}
+
+[[Category:2026 elections in South America|Peruvian general election]]
+[[Category:2026 in Peru|General election]]
+[[Category:April 2026 in South America|Peruvian general election]]
+[[Category:June 2026 in South America|Peruvian general election]]
+[[Category:Parliamentary elections in Peru]]
+[[Category:Presidential elections in Peru]]

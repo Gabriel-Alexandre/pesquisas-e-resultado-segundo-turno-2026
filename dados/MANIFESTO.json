@@ -1,11 +1,74 @@
 {
  "arquivos": {
+  "dados/brutos/capturas/agentes/0109d38905e14898.txt": {
+   "bytes": 8043,
+   "hora": "2026-10-26T15:27:26+00:00",
+   "nota": "texto da página renderizada; revid 1332394518",
+   "origem": "https://en.wikipedia.org/wiki/1996_Ecuadorian_general_election",
+   "sha256": "b77d82a442b2fbc3945fb5c4b1a77bd337dcbcf31eddb9d76064f621f10732b6"
+  },
+  "dados/brutos/capturas/agentes/02fdb6eff1cc9bc8.txt": {
+   "bytes": 13720,
+   "hora": "2026-10-26T15:23:45+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2019_Lithuanian_presidential_election",
+   "sha256": "3ec3e8110192e0892e4ae8591db355906fd5578225912773707358f0c14aece9"
+  },
+  "dados/brutos/capturas/agentes/0313ed017d8478fc.txt": {
+   "bytes": 95709,
+   "hora": "2026-10-26T15:23:12+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2025_Ecuadorian_general_election",
+   "sha256": "a468128da4b382463577cecf4a9c28f96c0c5c75ace933928314cc99c8deb255"
+  },
+  "dados/brutos/capturas/agentes/03d12a9acad3a375.txt": {
+   "bytes": 90383,
+   "hora": "2026-10-26T15:24:16+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2020_Polish_presidential_election",
+   "sha256": "d6ea5c92c7efcef909ca7219b9b1a20c57d0b7bb996b408a02dd1159657c7786"
+  },
+  "dados/brutos/capturas/agentes/03f6c39c06a95519.txt": {
+   "bytes": 11304,
+   "hora": "2026-10-26T15:23:10+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2006_Ecuadorian_general_election",
+   "sha256": "b39f4c7128b43ba2b359950c722172936c7b713b5fa2a0567ed0c3d1fac2ccd2"
+  },
   "dados/brutos/capturas/agentes/051ae802e0515184.txt": {
    "bytes": 55804,
    "hora": "2026-10-26T15:08:49+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/2014_Colombian_presidential_election",
    "sha256": "a50914c85c56e9ea8a8ffc73398e4e498b7818eda4ce5bb69762d55fe04b57d7"
+  },
+  "dados/brutos/capturas/agentes/0691681f86edf050.txt": {
+   "bytes": 52660,
+   "hora": "2026-10-26T15:24:39+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2007_Slovenian_presidential_election",
+   "sha256": "88ad2bb562977eacc900362456bdd5b6bc72f22faeccc0b3c0e63e130f548a00"
+  },
+  "dados/brutos/capturas/agentes/069310d7f73f4191.txt": {
+   "bytes": 29592,
+   "hora": "2026-10-26T15:24:46+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election",
+   "sha256": "7db98df7837033e490c1c29406af262abf87ab0ce525a4f40e07bffa8eea8b81"
+  },
+  "dados/brutos/capturas/agentes/0789272942594c35.txt": {
+   "bytes": 58713,
+   "hora": "2026-10-26T15:27:21+00:00",
+   "nota": "texto da página renderizada; revid 1369117203",
+   "origem": "https://en.wikipedia.org/wiki/2013_Czech_presidential_election",
+   "sha256": "b60a9d33faf57e7939bb094de9c73672a8e0e1c61528f1cf7033138a09901f0f"
+  },
+  "dados/brutos/capturas/agentes/07b60488589ba285.txt": {
+   "bytes": 13115,
+   "hora": "2026-10-26T15:29:10+00:00",
+   "nota": "texto da página renderizada; revid 1305352581",
+   "origem": "https://en.wikipedia.org/wiki/2011_Guatemalan_general_election",
+   "sha256": "7431d4b7f4b6c2e162419f90a752c02739f75517935b695a757ec36ba82f4240"
   },
   "dados/brutos/capturas/agentes/0858408601852746.txt": {
    "bytes": 71072,
@@ -14,12 +77,68 @@
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Colombian_presidential_election",
    "sha256": "0a07675ef4f830206e0ef13c04949b6444014f32d1331fa8e416e7c0df4b5bac"
   },
+  "dados/brutos/capturas/agentes/0a6d6ff289ef4efe.txt": {
+   "bytes": 78087,
+   "hora": "2026-10-26T15:26:18+00:00",
+   "nota": "texto da página renderizada; revid 1377876750",
+   "origem": "https://en.wikipedia.org/wiki/2025_Chilean_general_election",
+   "sha256": "677db565ecf40368d5101cd85da62cf05a2c9fba91b323d3fa93515250f07709"
+  },
+  "dados/brutos/capturas/agentes/0b2b55167ecbfef4.txt": {
+   "bytes": 118614,
+   "hora": "2026-10-26T15:23:21+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2024_Finnish_presidential_election",
+   "sha256": "1aca4a4bb5382691a95ba4696d809d981cd3ddc272865a5b22b97c9341178cf3"
+  },
+  "dados/brutos/capturas/agentes/0e4aa687c82b5ac4.txt": {
+   "bytes": 9675,
+   "hora": "2026-10-26T15:29:03+00:00",
+   "nota": "texto da página renderizada; revid 1348373845",
+   "origem": "https://en.wikipedia.org/wiki/1995%E2%80%9396_Guatemalan_general_election",
+   "sha256": "f6c2fcaa09c37ca9911d11d9d756acfd3900dfce7f73b9e1803963fc297930d6"
+  },
   "dados/brutos/capturas/agentes/0e526a541325bd57.txt": {
    "bytes": 69585,
    "hora": "2026-10-26T14:59:35+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid ",
    "origem": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidente-8-outubro.ghtml",
    "sha256": "faf6a589e6536366a8a8069336f5ba038c6778205aba5627657d0cea0edaa3d3"
+  },
+  "dados/brutos/capturas/agentes/0e7489192ae8ced3.txt": {
+   "bytes": 19109,
+   "hora": "2026-10-26T15:23:37+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2015_Guatemalan_general_election",
+   "sha256": "025c9bfa0cbca969b42a9a4f13c8663b1302159a9421f7f7f1c25234bfd44548"
+  },
+  "dados/brutos/capturas/agentes/0ef5ca30792cc44c.txt": {
+   "bytes": 157720,
+   "hora": "2026-10-26T15:22:34+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2021_Chilean_general_election",
+   "sha256": "f0cf35a6617849c5605ef9796c24ec75d4a631fd22ed9948c67dc5b2e5c90325"
+  },
+  "dados/brutos/capturas/agentes/0f6db59a7b2655d9.txt": {
+   "bytes": 11416,
+   "hora": "2026-10-26T15:28:14+00:00",
+   "nota": "texto da página renderizada; revid 1368722411",
+   "origem": "https://en.wikipedia.org/wiki/2006_Ecuadorian_general_election",
+   "sha256": "09dc6cc245dd85a7454d396deefe5b76ed6304adc3f59d87995de57eb451da36"
+  },
+  "dados/brutos/capturas/agentes/10a3507742b1abb6.txt": {
+   "bytes": 31277,
+   "hora": "2026-10-26T15:33:15+00:00",
+   "nota": "texto da página renderizada; revid 1371140332",
+   "origem": "https://en.wikipedia.org/wiki/2012_Slovenian_presidential_election",
+   "sha256": "2ba23f37628c57dbfdf3709898a9fecbb6894e493982f0511d7618147c03c24c"
+  },
+  "dados/brutos/capturas/agentes/12d4031751e58b27.txt": {
+   "bytes": 9734,
+   "hora": "2026-10-26T15:23:53+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1992%E2%80%9393_Montenegrin_general_election",
+   "sha256": "c564f9828b506b340c3a09b3ff972f04ef7283d57c3f4e9aa131d2cfd16363d5"
   },
   "dados/brutos/capturas/agentes/1556c961aea2776e.txt": {
    "bytes": 106649,
@@ -28,12 +147,40 @@
    "origem": "https://en.wikipedia.org/wiki/2021_Ecuadorian_general_election",
    "sha256": "6e640cf719e06d74ada35ac6b2a5fa9fa8c3b000daabf3620955164e447e1a07"
   },
+  "dados/brutos/capturas/agentes/15d2e91a6d535fbe.txt": {
+   "bytes": 3104,
+   "hora": "2026-10-26T15:24:32+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1999_Slovak_presidential_election",
+   "sha256": "11ef12b6904811c2f841edf28bc718591631f4943886715fc61f797019d47ced"
+  },
+  "dados/brutos/capturas/agentes/15ed758c52e114b9.txt": {
+   "bytes": 3534,
+   "hora": "2026-10-26T15:24:38+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2002_Slovenian_presidential_election",
+   "sha256": "1bdbc7910e719b9b3ecc0ea5fbb75c175bb977ad8e7fd1d595b578b760a334e4"
+  },
+  "dados/brutos/capturas/agentes/1740bf4c489070a6.txt": {
+   "bytes": 17889,
+   "hora": "2026-10-26T15:22:46+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2000_Croatian_presidential_election",
+   "sha256": "4dd2ed8bb89840738b23ebfb1e470d6ce0890318c7e2e2f4a0ededce8f1c773f"
+  },
   "dados/brutos/capturas/agentes/17b7218493ef5a48.txt": {
    "bytes": 23009,
    "hora": "2026-10-26T14:59:55+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid ",
    "origem": "https://www.correiobraziliense.com.br/politica/2022/10/5043124-datafolha-bolsonaro-herda-mais-votos-de-ciro-do-que-lula-os-de-tebet-se-dividem.html",
    "sha256": "0dd827080f8f67a299d176a33339b6aede5b365ce8ff7cfa4177321d93763d9e"
+  },
+  "dados/brutos/capturas/agentes/19624dbaf5ff72d0.txt": {
+   "bytes": 15215,
+   "hora": "2026-10-26T15:28:20+00:00",
+   "nota": "texto da página renderizada; revid 1310276751",
+   "origem": "https://en.wikipedia.org/wiki/1994_Finnish_presidential_election",
+   "sha256": "fd28e0f764dff2592932c8a5d3ba3188cc6ee2459c09abce930a52f2e0ca577f"
   },
   "dados/brutos/capturas/agentes/19acaabeb876357d.txt": {
    "bytes": 54124,
@@ -42,12 +189,96 @@
    "origem": "https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election",
    "sha256": "aee7127131dc07862ee63906d095574190b4ac34fcf8ca907a9640568575759f"
   },
+  "dados/brutos/capturas/agentes/1b4404ef22db9913.txt": {
+   "bytes": 78998,
+   "hora": "2026-10-26T15:23:00+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2013_Czech_presidential_election",
+   "sha256": "ff7423d5b10e4b778b6b1dd7598116a50151a65f4bac5566d076beba849a47c9"
+  },
+  "dados/brutos/capturas/agentes/1dd4da282bee5e22.txt": {
+   "bytes": 7021,
+   "hora": "2026-10-26T15:23:31+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1990%E2%80%9391_Guatemalan_general_election",
+   "sha256": "ae882eee761f2b83849fb2a5b1bcd6e0e731c432063ebb69b855a0dcf754688b"
+  },
+  "dados/brutos/capturas/agentes/1e058d4133326982.txt": {
+   "bytes": 92796,
+   "hora": "2026-10-26T15:24:12+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1990_Polish_presidential_election",
+   "sha256": "d106b707ee949171ad1961c4cc4e51dd1d38cbd1bcea5dc13f5a1a89c89f22fc"
+  },
+  "dados/brutos/capturas/agentes/1ec6f409c590d90a.txt": {
+   "bytes": 77395,
+   "hora": "2026-10-26T15:30:11+00:00",
+   "nota": "texto da página renderizada; revid 1377789964",
+   "origem": "https://en.wikipedia.org/wiki/2024_Lithuanian_presidential_election",
+   "sha256": "c240e0b0e9e18ca1655ff8f9c333319f2f7b06b2059d6aff89ef56c74ea8c29e"
+  },
+  "dados/brutos/capturas/agentes/1f042127d9ae7f60.txt": {
+   "bytes": 48291,
+   "hora": "2026-10-26T15:24:01+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2024_North_Macedonian_presidential_election",
+   "sha256": "3485cf6b0a5766d005853f24bfe50d81aa4a9fb1bf43bc49fbd8ac13db537115"
+  },
+  "dados/brutos/capturas/agentes/202e0c3f518efbdc.txt": {
+   "bytes": 70672,
+   "hora": "2026-10-26T15:23:20+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2012_Finnish_presidential_election",
+   "sha256": "e2c0113ac7484e4a7b9ca5ff098ab5a0f6ae15fb91dce4b2e963b901cc1b0372"
+  },
+  "dados/brutos/capturas/agentes/217a02bc68a84637.txt": {
+   "bytes": 235340,
+   "hora": "2026-10-26T15:24:10+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2021_Peruvian_general_election",
+   "sha256": "d8968f66ddd5930ca46d115bdfb24107720715bdfb2850477144e4bb50ca529c"
+  },
+  "dados/brutos/capturas/agentes/21fedf2b8c10e534.txt": {
+   "bytes": 52153,
+   "hora": "2026-10-26T15:22:43+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014_Costa_Rican_general_election",
+   "sha256": "b5ceaf503881f396b8d740850da832e4a9876b8649b22caba21a90ada8645ffe"
+  },
+  "dados/brutos/capturas/agentes/229453db0b4cde3c.txt": {
+   "bytes": 99404,
+   "hora": "2026-10-26T15:29:16+00:00",
+   "nota": "texto da página renderizada; revid 1377099790",
+   "origem": "https://en.wikipedia.org/wiki/2023_Guatemalan_general_election",
+   "sha256": "f3e1237b1b7f0de8ee9c564dafc53f82e8381f5b3de498f26970041077c8d800"
+  },
+  "dados/brutos/capturas/agentes/24209df8802997f7.txt": {
+   "bytes": 26828,
+   "hora": "2026-10-26T15:24:23+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2004_Romanian_general_election",
+   "sha256": "46eface13c0a1a3c66d1a4dffab016e8253189a4150bd64f06ae877e9bb31e61"
+  },
+  "dados/brutos/capturas/agentes/27bf049017d7aaf7.txt": {
+   "bytes": 4763,
+   "hora": "2026-10-26T15:22:23+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2001_Bulgarian_presidential_election",
+   "sha256": "4ec4a14052f22ee34e9b661f7e35c8c4f99066868b100dedb04c8b2fbf782388"
+  },
   "dados/brutos/capturas/agentes/27c32f46fb0aac33.txt": {
    "bytes": 369927,
    "hora": "2026-10-26T15:08:01+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid 1363121499",
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
    "sha256": "04b4d8d42890e0428c12498857acfaf24a53a90dd0baf6d8526ac1d26f8d3af2"
+  },
+  "dados/brutos/capturas/agentes/28fa5791f9771ba0.txt": {
+   "bytes": 40852,
+   "hora": "2026-10-26T15:23:39+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2010%E2%80%9311_Haitian_general_election",
+   "sha256": "5c3e5bd597c292e5852f0faffcdbe4415947890a287dadb9a560192e4c8db16c"
   },
   "dados/brutos/capturas/agentes/29170e1b726ce98b.txt": {
    "bytes": 7703,
@@ -56,12 +287,61 @@
    "origem": "https://viva.com.br/politica/palver-flavio-bolsonaro-tem-50-e-lula-49-em-empate-tecnico-no-2-turno.html",
    "sha256": "fcb76c69600a8175ad3c790ef4250185619b5ed500124c92a0eb3ece3db0eb06"
   },
+  "dados/brutos/capturas/agentes/294462e89e21c719.txt": {
+   "bytes": 40670,
+   "hora": "2026-10-26T15:33:13+00:00",
+   "nota": "texto da página renderizada; revid 1375064261",
+   "origem": "https://en.wikipedia.org/wiki/2007_Slovenian_presidential_election",
+   "sha256": "82d047b7a28cb9a6e725025367f9de66b6a06de8b9a89a816c4d077e40788790"
+  },
+  "dados/brutos/capturas/agentes/2a188f938eb06041.txt": {
+   "bytes": 21041,
+   "hora": "2026-10-26T15:22:41+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2002_Costa_Rican_general_election",
+   "sha256": "cac5b8568ab2db2fcb2f474fff177bcb8f4eea9d2e3d09c29af42238ca610a96"
+  },
+  "dados/brutos/capturas/agentes/2ba88972257278a4.txt": {
+   "bytes": 38916,
+   "hora": "2026-10-26T15:26:32+00:00",
+   "nota": "texto da página renderizada; revid 1359066765",
+   "origem": "https://en.wikipedia.org/wiki/2014_Colombian_presidential_election",
+   "sha256": "4ad93bde54392edc64c7843288a9cc25f1177f7d1dffccd91260aaa3e0cbb8c0"
+  },
+  "dados/brutos/capturas/agentes/2d9c21ffea065e1c.txt": {
+   "bytes": 4011,
+   "hora": "2026-10-26T15:27:17+00:00",
+   "nota": "texto da página renderizada; revid 1380400357",
+   "origem": "https://en.wikipedia.org/wiki/1993_Cypriot_presidential_election",
+   "sha256": "c52632784031669640d324602ca3f0755f845932370b7bd783a353dadb770592"
+  },
   "dados/brutos/capturas/agentes/2dc3df061a2dbd04.txt": {
    "bytes": 159233,
    "hora": "2026-10-26T15:08:58+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://es.wikipedia.org/wiki/Anexo:Sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Per%C3%BA_de_2016",
    "sha256": "78ee5b466e65585583713c6257feafae5a85c6c21d128cd1a37977c0adc18254"
+  },
+  "dados/brutos/capturas/agentes/2e67c981e054efcb.txt": {
+   "bytes": 4416,
+   "hora": "2026-10-26T15:25:21+00:00",
+   "nota": "texto da página renderizada; revid 1367027003",
+   "origem": "https://en.wikipedia.org/wiki/2001_Bulgarian_presidential_election",
+   "sha256": "ca3e48e37b71f1d5ebf841a5942a955f10984809d1dcb713bdb65193e69d7c05"
+  },
+  "dados/brutos/capturas/agentes/2e996f957327cb9d.txt": {
+   "bytes": 58985,
+   "hora": "2026-10-26T15:22:19+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2016_Austrian_presidential_election",
+   "sha256": "349d27edd7445a7b7759caa72990dd504668ba880f419b58bbcdd3cf7cb0dde0"
+  },
+  "dados/brutos/capturas/agentes/2ea5057584e668cf.txt": {
+   "bytes": 97662,
+   "hora": "2026-10-26T15:26:15+00:00",
+   "nota": "texto da página renderizada; revid 1374621579",
+   "origem": "https://en.wikipedia.org/wiki/2021_Chilean_general_election",
+   "sha256": "5242e627060d4763d42b2aae5d7c9a425a851f4e87e13566edb464c5bbc6c604"
   },
   "dados/brutos/capturas/agentes/2f78e6ef5eca5bd0.txt": {
    "bytes": 142887,
@@ -70,6 +350,27 @@
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Chilean_presidential_election",
    "sha256": "381f01f2b2659ed0aecd061208e38a01b11c0d7395ec3b6a53947afd5cabdcbf"
   },
+  "dados/brutos/capturas/agentes/2fb1b301e0b766c9.txt": {
+   "bytes": 26296,
+   "hora": "2026-10-26T15:23:42+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2002%E2%80%9303_Lithuanian_presidential_election",
+   "sha256": "6d295366d6bb89c60f4759ec736f320c46dc4ad9fd14f5b7a2576afd1dd4732c"
+  },
+  "dados/brutos/capturas/agentes/3076c92fc878bd3c.txt": {
+   "bytes": 2948,
+   "hora": "2026-10-26T15:23:56+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1999_Macedonian_presidential_election",
+   "sha256": "bb6b9fdfc3023e9e5606665e67c8ddcbbb4fadc7e57d6197e4d6896171eeb2c0"
+  },
+  "dados/brutos/capturas/agentes/30a18e64e3c312c9.txt": {
+   "bytes": 96838,
+   "hora": "2026-10-26T15:22:44+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2018_Costa_Rican_general_election",
+   "sha256": "beb5e06b2fcdcaaf43716119dbfb64044854f92aab15169a2b0cea31babbf342"
+  },
   "dados/brutos/capturas/agentes/3167262727d7275a.txt": {
    "bytes": 61337,
    "hora": "2026-10-26T15:08:13+00:00",
@@ -77,12 +378,47 @@
    "origem": "https://en.wikipedia.org/wiki/2019_Slovak_presidential_election",
    "sha256": "19fe5a8dd2648aa4cfd275b248eb54dd9e2256da948b84b9f245c3e336554004"
   },
+  "dados/brutos/capturas/agentes/316d8a193334259e.txt": {
+   "bytes": 168167,
+   "hora": "2026-10-26T15:23:02+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2018_Czech_presidential_election",
+   "sha256": "c33942aab6882a2f107e2da248ac226a07f8be7a6cab95593d38c9c40444c049"
+  },
   "dados/brutos/capturas/agentes/31bfd8678e48a131.txt": {
    "bytes": 55764,
    "hora": "2026-10-26T15:08:44+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Chilean_general_election",
    "sha256": "791f59a05886f40eea587833c29445e38d3ad5c8c14c7dc72025376f459fe608"
+  },
+  "dados/brutos/capturas/agentes/31e899335b46628b.txt": {
+   "bytes": 10698,
+   "hora": "2026-10-26T15:31:06+00:00",
+   "nota": "texto da página renderizada; revid 1369542314",
+   "origem": "https://en.wikipedia.org/wiki/2009_Macedonian_presidential_election",
+   "sha256": "9794b8dd3e85391ce5e329965885601b2c72c02774738eee2bca57347df610dc"
+  },
+  "dados/brutos/capturas/agentes/32048d68001ee230.txt": {
+   "bytes": 93056,
+   "hora": "2026-10-26T15:24:45+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1999_Ukrainian_presidential_election",
+   "sha256": "180a2dc31113c12aa9fbc441a09c6f437590ad7664e7c3529c150ffa6a1982c9"
+  },
+  "dados/brutos/capturas/agentes/32daa634ddda4133.txt": {
+   "bytes": 25870,
+   "hora": "2026-10-26T15:31:12+00:00",
+   "nota": "texto da página renderizada; revid 1380195871",
+   "origem": "https://en.wikipedia.org/wiki/1990_Peruvian_general_election",
+   "sha256": "4079f57d0976abd105afe7c15a9bdc29a96c5dd3b68b4872ad55e19675276c06"
+  },
+  "dados/brutos/capturas/agentes/3394570ff1c67286.txt": {
+   "bytes": 9701,
+   "hora": "2026-10-26T15:23:44+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014_Lithuanian_presidential_election",
+   "sha256": "74212d0f1b8a27e038d9a3f4a22d59bed623128cd23d2313175c00672cd5606d"
   },
   "dados/brutos/capturas/agentes/34943ea94b6dd098.txt": {
    "bytes": 33258,
@@ -98,12 +434,96 @@
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Peruvian_general_election",
    "sha256": "02b71fa1f6527faf22d20c0c63487b9cb7d776a739f758b78d06485faf93692d"
   },
+  "dados/brutos/capturas/agentes/36e517336fcfb671.txt": {
+   "bytes": 22484,
+   "hora": "2026-10-26T15:24:51+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2009_Uruguayan_general_election",
+   "sha256": "16307b452ffb4cef06eca4cf5c54d506a32081f31ed87af9977b5eace86d8930"
+  },
+  "dados/brutos/capturas/agentes/38aab3b4522d0a57.txt": {
+   "bytes": 46510,
+   "hora": "2026-10-26T15:24:24+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2009_Romanian_presidential_election",
+   "sha256": "38602331c7b76d09f4d0bad19c975cc292760b27b0f9c21cea1470e1d14ef899"
+  },
+  "dados/brutos/capturas/agentes/38cae2d573b6806d.txt": {
+   "bytes": 13168,
+   "hora": "2026-10-26T15:32:10+00:00",
+   "nota": "texto da página renderizada; revid 1341396830",
+   "origem": "https://en.wikipedia.org/wiki/1997_Serbian_general_election",
+   "sha256": "7fb6346d46dc7217adf1a03f5bac516a098d8e611af2d8de24484c1fda063e82"
+  },
+  "dados/brutos/capturas/agentes/39034c21b61cd996.txt": {
+   "bytes": 5162,
+   "hora": "2026-10-26T15:25:13+00:00",
+   "nota": "texto da página renderizada; revid 1273409318",
+   "origem": "https://en.wikipedia.org/wiki/1992_Bulgarian_presidential_election",
+   "sha256": "311fe20ba79d851b569a34577f4b95279d6d271005327d9a01533bd1f8658bcb"
+  },
+  "dados/brutos/capturas/agentes/3ae990a0419cb5c1.txt": {
+   "bytes": 138560,
+   "hora": "2026-10-26T15:23:46+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2024_Lithuanian_presidential_election",
+   "sha256": "653631ee441edf1f03f1367c2b1396e751d8c56f7042f24191b6de74e752e6db"
+  },
   "dados/brutos/capturas/agentes/3c2ee226abfb9605.txt": {
    "bytes": 34516,
    "hora": "2026-10-26T15:09:11+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Ecuadorian_general_election",
    "sha256": "30c923fc5e34f26907177f6da810dd80f7ae612b87cf319e5fccba39cf23fd9c"
+  },
+  "dados/brutos/capturas/agentes/3c9f928f63dc740b.txt": {
+   "bytes": 10736,
+   "hora": "2026-10-26T15:31:16+00:00",
+   "nota": "texto da página renderizada; revid 1367676240",
+   "origem": "https://en.wikipedia.org/wiki/2001_Peruvian_general_election",
+   "sha256": "de57fd30c002b4390486adb7a27dd554523e3b4a9a7d39636018c6cab90e67c3"
+  },
+  "dados/brutos/capturas/agentes/3d5236814ce2fc1d.txt": {
+   "bytes": 49517,
+   "hora": "2026-10-26T15:24:15+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2010_Polish_presidential_election",
+   "sha256": "668f89525555a199e945bf3df96e17ce8e9cc8be7ed54e39e57a94fd2cc0cc31"
+  },
+  "dados/brutos/capturas/agentes/3e3ac1a43d627b7b.txt": {
+   "bytes": 43123,
+   "hora": "2026-10-26T15:25:29+00:00",
+   "nota": "texto da página renderizada; revid 1381194173",
+   "origem": "https://en.wikipedia.org/wiki/2005%E2%80%9306_Chilean_general_election",
+   "sha256": "cb5a937f3b385ef92bda783923b5259113e1540591cdff2a8fd92b26e5601097"
+  },
+  "dados/brutos/capturas/agentes/3ee75bbb64322ad6.txt": {
+   "bytes": 31540,
+   "hora": "2026-10-26T15:24:20+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1992_Romanian_general_election",
+   "sha256": "d2d4a04d8c6c796866547607055aa756a217829feca921168dfb75393adf88d1"
+  },
+  "dados/brutos/capturas/agentes/3f651a23bbadea50.txt": {
+   "bytes": 34838,
+   "hora": "2026-10-26T15:24:42+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2022_Slovenian_presidential_election",
+   "sha256": "a6e0cc138e7a8c5c1a513e5c55003f8ac15b39f751e5dfa444daa31c3965fd4f"
+  },
+  "dados/brutos/capturas/agentes/425fe7664a29a24c.txt": {
+   "bytes": 10228,
+   "hora": "2026-10-26T15:24:05+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2001_Peruvian_general_election",
+   "sha256": "edd0a33c7dd779ef37cd6199ba0d8efbf8f72f684061ed5e84c2a3d872d13609"
+  },
+  "dados/brutos/capturas/agentes/428623d3658d12c5.txt": {
+   "bytes": 20674,
+   "hora": "2026-10-26T15:24:31+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2012_Serbian_presidential_election",
+   "sha256": "bf75390485ea2f00f2248640b5f8ada73d3610340f5158ea48e32e0c33392d62"
   },
   "dados/brutos/capturas/agentes/445cb7abf95d32ce.txt": {
    "bytes": 139925,
@@ -112,6 +532,97 @@
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Portuguese_presidential_election",
    "sha256": "3aa7873dc08db8f0ed7654f224296ae8f881e84bebef42c6890fc636c2a81e98"
   },
+  "dados/brutos/capturas/agentes/451a4349a5dae5de.txt": {
+   "bytes": 116684,
+   "hora": "2026-10-26T15:33:23+00:00",
+   "nota": "texto da página renderizada; revid 1379948052",
+   "origem": "https://en.wikipedia.org/wiki/2019_Ukrainian_presidential_election",
+   "sha256": "0208b1ae9d9507e4cc584201f200c370982cdaff069cdd16bade1aa76dd1cc70"
+  },
+  "dados/brutos/capturas/agentes/45636d62232f3a1f.txt": {
+   "bytes": 26092,
+   "hora": "2026-10-26T15:29:14+00:00",
+   "nota": "texto da página renderizada; revid 1374735834",
+   "origem": "https://en.wikipedia.org/wiki/2019_Guatemalan_general_election",
+   "sha256": "d60ab8577451b7b2dec71acb97cddb67eda5a97ad50e42387edee85902177905"
+  },
+  "dados/brutos/capturas/agentes/4587af5d2eb77414.txt": {
+   "bytes": 122361,
+   "hora": "2026-10-26T15:28:33+00:00",
+   "nota": "texto da página renderizada; revid 1375209150",
+   "origem": "https://en.wikipedia.org/wiki/2007_French_presidential_election",
+   "sha256": "78ab81034f11dd0d8edbf4b1ba3af9e58390d2e765c7511f66ef0d6089fe5c2d"
+  },
+  "dados/brutos/capturas/agentes/468f9a5ba11713c2.txt": {
+   "bytes": 76993,
+   "hora": "2026-10-26T15:23:49+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2020_Moldovan_presidential_election",
+   "sha256": "e0d7601777fb77a0df98f75bc8279b7eb0ad90ff8eb9db5c0496b95010bc81f7"
+  },
+  "dados/brutos/capturas/agentes/46c8877329918fb0.txt": {
+   "bytes": 5080,
+   "hora": "2026-10-26T15:23:51+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1990_Montenegrin_general_election",
+   "sha256": "58b5ac86637193d30dc82b3b056ba2d2d202bb71efe3e113c29028e4dc3a1125"
+  },
+  "dados/brutos/capturas/agentes/4745362cf0ad779a.txt": {
+   "bytes": 107082,
+   "hora": "2026-10-26T15:23:55+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2023_Montenegrin_presidential_election",
+   "sha256": "c74bf67bf20fee7d0877356040b5c4441efb8d7a19801ed0708ffabc3f3cae6d"
+  },
+  "dados/brutos/capturas/agentes/4787d5d5161e22ed.txt": {
+   "bytes": 183339,
+   "hora": "2026-10-26T15:24:49+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2019_Ukrainian_presidential_election",
+   "sha256": "ce78269cac54fb14795dc74a35a863df0dce551580e695b725422d60b16009b8"
+  },
+  "dados/brutos/capturas/agentes/483943bf8f7ec2c5.txt": {
+   "bytes": 66943,
+   "hora": "2026-10-26T15:30:20+00:00",
+   "nota": "texto da página renderizada; revid 1380637308",
+   "origem": "https://en.wikipedia.org/wiki/2023_Montenegrin_presidential_election",
+   "sha256": "1459eb02bbc8ca19b68669a036fd40528fe8497aef3de657af5cde0ce0de6e9f"
+  },
+  "dados/brutos/capturas/agentes/485bcdbd9137d776.txt": {
+   "bytes": 3901,
+   "hora": "2026-10-26T15:22:22+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1996_Bulgarian_presidential_election",
+   "sha256": "c2c297a7a81821ba4cb3a91f47faad43ff799b0fba911f5b0c9150d88aeac10f"
+  },
+  "dados/brutos/capturas/agentes/49a7343a837e913f.txt": {
+   "bytes": 119074,
+   "hora": "2026-10-26T15:22:51+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Croatian_presidential_election",
+   "sha256": "9c76179a986ca928a8a99fc514b06d384803dfab351c87f4580958dc4e8b809f"
+  },
+  "dados/brutos/capturas/agentes/4e96cd83e3218548.txt": {
+   "bytes": 51430,
+   "hora": "2026-10-26T15:31:20+00:00",
+   "nota": "texto da página renderizada; revid 1367315885",
+   "origem": "https://en.wikipedia.org/wiki/2011_Peruvian_general_election",
+   "sha256": "3cbadba44d3b5d5544e6ea0f58d9ae3e040c1befe3a54168b79b7d242c23df97"
+  },
+  "dados/brutos/capturas/agentes/4ee8ec578760e918.txt": {
+   "bytes": 6968,
+   "hora": "2026-10-26T15:23:33+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1999_Guatemalan_general_election",
+   "sha256": "0cb859f42daf9dc08f062eea3fbd5d6827645b9d783544b0519529a1ddfcd677"
+  },
+  "dados/brutos/capturas/agentes/4f47a9d03b70f3ae.txt": {
+   "bytes": 18647,
+   "hora": "2026-10-26T15:30:18+00:00",
+   "nota": "texto da página renderizada; revid 1333359465",
+   "origem": "https://en.wikipedia.org/wiki/1997_Montenegrin_presidential_election",
+   "sha256": "18b331353aad29066ca533d68504eece6f9ddd22cdea0f8946c8516758450b53"
+  },
   "dados/brutos/capturas/agentes/5090ae248c33e2a2.txt": {
    "bytes": 57664,
    "hora": "2026-10-26T15:08:42+00:00",
@@ -119,12 +630,89 @@
    "origem": "https://en.wikipedia.org/wiki/2013_Chilean_general_election",
    "sha256": "c031ac8172fbea6f33c01f765b64d6a1605bb4cfc92e8b1f8d7e3e09b6791a56"
   },
+  "dados/brutos/capturas/agentes/5247007473ed8763.txt": {
+   "bytes": 27774,
+   "hora": "2026-10-26T15:24:09+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2016_Peruvian_general_election",
+   "sha256": "8c95af209d04707dee54a8b4b402c6034df89175f70e1289583c202c442db7a3"
+  },
+  "dados/brutos/capturas/agentes/5367836c87e140ac.txt": {
+   "bytes": 70810,
+   "hora": "2026-10-26T15:22:58+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2023_Cypriot_presidential_election",
+   "sha256": "526e205dcfe62ceb2019c8f102b06e4111b3e5bcf9527bff8588109164629351"
+  },
   "dados/brutos/capturas/agentes/537962415b1e0502.txt": {
    "bytes": 287337,
    "hora": "2026-10-26T15:08:38+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Brazilian_presidential_election",
    "sha256": "72f50c6de96bbdeacd2371f99d581a9d426fb0bbfc662ce4d6d945f9176d627e"
+  },
+  "dados/brutos/capturas/agentes/546feb62b933ef7e.txt": {
+   "bytes": 3735,
+   "hora": "2026-10-26T15:23:05+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1996_Dominican_Republic_presidential_election",
+   "sha256": "5ce88d3e598efacc1fad4929fd21ec1f58f1aa1cb487204727bd102390a224d9"
+  },
+  "dados/brutos/capturas/agentes/56356d2775c67ee1.txt": {
+   "bytes": 40855,
+   "hora": "2026-10-26T15:25:38+00:00",
+   "nota": "texto da página renderizada; revid 1371438761",
+   "origem": "https://en.wikipedia.org/wiki/2013_Chilean_general_election",
+   "sha256": "f91b850591ef3fcb1a740e017dcb295fd4bb02592020ef34f63ff40500141815"
+  },
+  "dados/brutos/capturas/agentes/5739e3da6b83c071.txt": {
+   "bytes": 6361,
+   "hora": "2026-10-26T15:23:06+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1992_Ecuadorian_general_election",
+   "sha256": "90a71ba452e0b70e1b971acdd4d5cfea9009192446331c3d988c7f4e0a84ad99"
+  },
+  "dados/brutos/capturas/agentes/57b116904e957aaf.txt": {
+   "bytes": 66772,
+   "hora": "2026-10-26T15:26:38+00:00",
+   "nota": "texto da página renderizada; revid 1376432950",
+   "origem": "https://en.wikipedia.org/wiki/2022_Costa_Rican_general_election",
+   "sha256": "390c4a4fd09bb876e2a1b0cbd30fcce6244a7344dd69bf55ef2f087be49ae061"
+  },
+  "dados/brutos/capturas/agentes/57f6983c302cf429.txt": {
+   "bytes": 5887,
+   "hora": "2026-10-26T15:24:33+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2004_Slovak_presidential_election",
+   "sha256": "cce8b1e070ffe79c9a2d8847eb8cac5f51bddd25ed907b379f43bff934f8d0e8"
+  },
+  "dados/brutos/capturas/agentes/5910763e09d69fb6.txt": {
+   "bytes": 7210,
+   "hora": "2026-10-26T15:32:16+00:00",
+   "nota": "texto da página renderizada; revid 1327421539",
+   "origem": "https://en.wikipedia.org/wiki/2004_Serbian_presidential_election",
+   "sha256": "8eb3d81b6e16de65631202853fc8fe30f7ff6b7f67b04804530ce7fabab78a69"
+  },
+  "dados/brutos/capturas/agentes/59e5291d392a8ffd.txt": {
+   "bytes": 8665,
+   "hora": "2026-10-26T15:33:16+00:00",
+   "nota": "texto da página renderizada; revid 1375630868",
+   "origem": "https://en.wikipedia.org/wiki/1994_Ukrainian_presidential_election",
+   "sha256": "54a17169af71cd1d8a79553d8d1635edca3d78897f406092ca45e76b466dcf71"
+  },
+  "dados/brutos/capturas/agentes/5a3b231c0acbd379.txt": {
+   "bytes": 6145,
+   "hora": "2026-10-26T15:23:08+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1998_Ecuadorian_general_election",
+   "sha256": "12114e063922df43a75e35571037c64b9a6c7c5b710f9f19a551c1e82d24406b"
+  },
+  "dados/brutos/capturas/agentes/5a56e952eb5fd19e.txt": {
+   "bytes": 97595,
+   "hora": "2026-10-26T15:22:15+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2015_Argentine_general_election",
+   "sha256": "10450ed9289aeef3371759645c575bfa8f9b6b16c1412f386653eedeeef47f9c"
   },
   "dados/brutos/capturas/agentes/5aa1189f9757f768.txt": {
    "bytes": 125843,
@@ -140,12 +728,40 @@
    "origem": "https://en.wikipedia.org/wiki/2014_Brazilian_general_election",
    "sha256": "8cfcfc22fda1fd958b5a0cd130013e5361fea733d7b9a2e9887a7e28d9d49f02"
   },
+  "dados/brutos/capturas/agentes/5b43a1d910ab04f7.txt": {
+   "bytes": 18791,
+   "hora": "2026-10-26T15:29:20+00:00",
+   "nota": "texto da página renderizada; revid 1372650457",
+   "origem": "https://en.wikipedia.org/wiki/1997%E2%80%9398_Lithuanian_presidential_election",
+   "sha256": "3cd19a374971e0b79ba68016eff2d0a2e944f9694ecab673aabb1b4a1d9831bc"
+  },
+  "dados/brutos/capturas/agentes/5b5abc28569588df.txt": {
+   "bytes": 32524,
+   "hora": "2026-10-26T15:32:18+00:00",
+   "nota": "texto da página renderizada; revid 1375063046",
+   "origem": "https://en.wikipedia.org/wiki/2008_Serbian_presidential_election",
+   "sha256": "0d746ff3beea11d834a88c6e94f382cc2cb55b84bd0f30066743fc60b7ee2fba"
+  },
+  "dados/brutos/capturas/agentes/5d14348dd81b7116.txt": {
+   "bytes": 29963,
+   "hora": "2026-10-26T15:31:23+00:00",
+   "nota": "texto da página renderizada; revid 1380570765",
+   "origem": "https://en.wikipedia.org/wiki/2016_Peruvian_general_election",
+   "sha256": "405db30e2c4485a43ffa0a287d7864fefdfa596a1089f04b48ba69d17a35c890"
+  },
   "dados/brutos/capturas/agentes/5fe0f19953b79e41.txt": {
    "bytes": 93129,
    "hora": "2026-10-26T15:08:52+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/2018_Colombian_presidential_election",
    "sha256": "15db6a83596a064b87ad6b390ac5e3b7477d25bb442437641bdb3a1f5108878b"
+  },
+  "dados/brutos/capturas/agentes/610f8e66a77bb9b9.txt": {
+   "bytes": 66543,
+   "hora": "2026-10-26T15:24:07+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2011_Peruvian_general_election",
+   "sha256": "781ac3f3f6f04d75e755a3b1231090050069199b8cc5484386b3758a2171eb53"
   },
   "dados/brutos/capturas/agentes/615222718129eef5.txt": {
    "bytes": 6379,
@@ -154,6 +770,13 @@
    "origem": "https://www.diariodocentrodomundo.com.br/essencial/a-cada-10-eleitores-de-tebet-e-ciro-4-votarao-em-lula-diz-datafolha/",
    "sha256": "84ecd0d124e31435e8cb3960388029273a3c4c0b514f2c9da6aafcc3f50eb29f"
   },
+  "dados/brutos/capturas/agentes/622d19e9690097f0.txt": {
+   "bytes": 6170,
+   "hora": "2026-10-26T15:24:43+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1994_Ukrainian_presidential_election",
+   "sha256": "e903d56a9389d3e3fbe27f1b7fea0416771a4ab9f5194b85f348b995c7f08533"
+  },
   "dados/brutos/capturas/agentes/63fb47aeed07882f.txt": {
    "bytes": 64327,
    "hora": "2026-10-26T15:08:39+00:00",
@@ -161,12 +784,26 @@
    "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Argentina_de_2015",
    "sha256": "32171f89a8a597dffd2879380d1e9bcf8d6ab07e9e391cb3ba2a6d812d7de3b0"
   },
+  "dados/brutos/capturas/agentes/64522daddee6b8b8.txt": {
+   "bytes": 13119,
+   "hora": "2026-10-26T15:22:29+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1999%E2%80%932000_Chilean_presidential_election",
+   "sha256": "ee4ff622ef5b848777bf330fbe63d76459afddfc162e8fcea0d93f01f9bbb865"
+  },
   "dados/brutos/capturas/agentes/64e135c9779ed77c.txt": {
    "bytes": 89210,
    "hora": "2026-10-26T15:09:12+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Uruguay_de_2014",
    "sha256": "1ef002ec517851a320467377ffb869894204bf60fe27b4ff37dc4a723b806bc2"
+  },
+  "dados/brutos/capturas/agentes/65270d2fb79b19c5.txt": {
+   "bytes": 7488,
+   "hora": "2026-10-26T15:23:34+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2003_Guatemalan_general_election",
+   "sha256": "9146c9ae6e809967301b79ddb629a77db9397017a33cd5aa80d79a06cc8f6fe8"
   },
   "dados/brutos/capturas/agentes/66b63733cdc5abb0.txt": {
    "bytes": 269987,
@@ -182,12 +819,61 @@
    "origem": "https://en.wikipedia.org/wiki/2014_Romanian_presidential_election",
    "sha256": "8b7ad5489490b3ae2b26085ff7db2f70312df3c756b5d58398f950ac66ca5ae9"
   },
+  "dados/brutos/capturas/agentes/6a2e1893ef5ae6c8.txt": {
+   "bytes": 28451,
+   "hora": "2026-10-26T15:33:18+00:00",
+   "nota": "texto da página renderizada; revid 1375630922",
+   "origem": "https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election",
+   "sha256": "faaab81e7b7c052bbbe27e913962ee0a6d81683fc9f0cb4e70dff6388c9336a9"
+  },
+  "dados/brutos/capturas/agentes/6a32acfeb9c10580.txt": {
+   "bytes": 10251,
+   "hora": "2026-10-26T15:24:00+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2019_North_Macedonian_presidential_election",
+   "sha256": "00dbead9866c37a2d8cf054810d5402ac5f81f022d9b2c0567fa42fb5f2f36cd"
+  },
+  "dados/brutos/capturas/agentes/6ab6ed4be418bd5e.txt": {
+   "bytes": 74440,
+   "hora": "2026-10-26T15:27:13+00:00",
+   "nota": "texto da página renderizada; revid 1375254941",
+   "origem": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Croatian_presidential_election",
+   "sha256": "b79c397e5d4d2039e9854cf662fc7e49e78fa459c264482abcfb6b47038993ca"
+  },
+  "dados/brutos/capturas/agentes/6b16aff107082908.txt": {
+   "bytes": 4320,
+   "hora": "2026-10-26T15:25:19+00:00",
+   "nota": "texto da página renderizada; revid 1291958890",
+   "origem": "https://en.wikipedia.org/wiki/1996_Bulgarian_presidential_election",
+   "sha256": "ecf83f0db211ff3c92373e93f4647f8d3511cf2dd5c9aacc4593e640bf9be0e6"
+  },
+  "dados/brutos/capturas/agentes/6b4623cc03601bf9.txt": {
+   "bytes": 13993,
+   "hora": "2026-10-26T15:26:39+00:00",
+   "nota": "texto da página renderizada; revid 1273409811",
+   "origem": "https://en.wikipedia.org/wiki/2000_Croatian_presidential_election",
+   "sha256": "7bf40a02d4f2b398e9e2b47376d772c6c6382a6988c8e74e8fa6d12d90a4f4d0"
+  },
+  "dados/brutos/capturas/agentes/6d82d17a7ab85a6d.txt": {
+   "bytes": 35203,
+   "hora": "2026-10-26T15:22:26+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2016_Bulgarian_presidential_election",
+   "sha256": "cd4a646b9bc31a5d6091011a6be8a88874c6a6946c8070183ddedd4c360c0916"
+  },
   "dados/brutos/capturas/agentes/6df854f17319b882.txt": {
    "bytes": 6330,
    "hora": "2026-10-26T14:59:45+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid ",
    "origem": "https://penoticias.com.br/blog/nova-pesquisa-btg-nexus-mostra-para-onde-vao-os-votos-de-cury-caiado-renan-e-zema-no-segundo-turno/",
    "sha256": "e3de6ee8ce77a2d895261a0b36021f3df19a2719cf4f721c643e5fb1271ad309"
+  },
+  "dados/brutos/capturas/agentes/6f27a0b2f2d5f31e.txt": {
+   "bytes": 51106,
+   "hora": "2026-10-26T15:23:14+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014_Salvadoran_presidential_election",
+   "sha256": "5c2441e9984ec90696b9dcc9e4e590e0aadf9c539d1be49b52e2b1a872b7c526"
   },
   "dados/brutos/capturas/agentes/6f79c1c2f979beb3.txt": {
    "bytes": 107420,
@@ -203,12 +889,33 @@
    "origem": "https://brazileconomy.com.br/eleicoes-2026/2026/10/lula-tem-503-dos-votos-validos-e-flavio-497-aponta-pesquisa-brazil-economycolectta/",
    "sha256": "3566c06f1eadf9ca1d2cf6c658f34f8782f5978fbe61f63186b93d7f6bf47c96"
   },
+  "dados/brutos/capturas/agentes/71ddb655cb1ba0c0.txt": {
+   "bytes": 23642,
+   "hora": "2026-10-26T15:26:30+00:00",
+   "nota": "texto da página renderizada; revid 1376816351",
+   "origem": "https://en.wikipedia.org/wiki/2010_Colombian_presidential_election",
+   "sha256": "68588d3acd2cb6a4ece7647ed7c6852fdbbeed672d603674146385a184ea2b2a"
+  },
+  "dados/brutos/capturas/agentes/71f133e5bae8e57a.txt": {
+   "bytes": 26940,
+   "hora": "2026-10-26T15:24:02+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1990_Peruvian_general_election",
+   "sha256": "71152ca94c0e0953fa228152553da2c632d669cb67cd052f6113192fecb80ea6"
+  },
   "dados/brutos/capturas/agentes/72205db85754c082.txt": {
    "bytes": 102964,
    "hora": "2026-10-26T15:09:08+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/2023_Ecuadorian_general_election",
    "sha256": "e911ec3bba24a6125806658e84e70aa79366837b5471b6e58ad399e519d0cafb"
+  },
+  "dados/brutos/capturas/agentes/72d7889e600aadb4.txt": {
+   "bytes": 13630,
+   "hora": "2026-10-26T15:29:08+00:00",
+   "nota": "texto da página renderizada; revid 1375064945",
+   "origem": "https://en.wikipedia.org/wiki/2007_Guatemalan_general_election",
+   "sha256": "5b0111c06a37ac9f452546354cad451ca6d9b7e2d0330bc89be471b15ad47f27"
   },
   "dados/brutos/capturas/agentes/74c9ca8d11ea2cca.txt": {
    "bytes": 72511,
@@ -217,12 +924,103 @@
    "origem": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-lula-empatam-com-50-dos-votos-validos-cada.shtml",
    "sha256": "09b9a06864009c3566ff82dc27266d2f50787c79a9d87b603b835b0bd2dcad0d"
   },
+  "dados/brutos/capturas/agentes/750ca8f5fc8301f3.txt": {
+   "bytes": 3991,
+   "hora": "2026-10-26T15:30:22+00:00",
+   "nota": "texto da página renderizada; revid 1367786413",
+   "origem": "https://en.wikipedia.org/wiki/1999_Macedonian_presidential_election",
+   "sha256": "502593db443519b0a984e2ec88ee22753e01b5005009f657d418d4b07d5c3d28"
+  },
   "dados/brutos/capturas/agentes/7559d6ecbf74a2df.txt": {
    "bytes": 29352,
    "hora": "2026-10-26T15:09:21+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Bolivia_de_2025",
    "sha256": "a3dce14884973b748845b265e9014a8af1ca08b3ccf4b06956eeaeb00310ea88"
+  },
+  "dados/brutos/capturas/agentes/775b4c1e238dfb54.txt": {
+   "bytes": 87970,
+   "hora": "2026-10-26T15:25:32+00:00",
+   "nota": "texto da página renderizada; revid 1372237258",
+   "origem": "https://en.wikipedia.org/wiki/2009%E2%80%9310_Chilean_general_election",
+   "sha256": "97f0d66792efba59ea3f4bc6b5dbba78371023d15023ac5b769508417dfdc40e"
+  },
+  "dados/brutos/capturas/agentes/775b77a9443ea203.txt": {
+   "bytes": 30342,
+   "hora": "2026-10-26T15:24:21+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1996_Romanian_general_election",
+   "sha256": "c311bbcd121ac9f91f7c545f088c99050e5e763ecf91c3d31f96a6e0560d8a03"
+  },
+  "dados/brutos/capturas/agentes/7775dd317749a8ff.txt": {
+   "bytes": 101069,
+   "hora": "2026-10-26T15:33:21+00:00",
+   "nota": "texto da página renderizada; revid 1378449421",
+   "origem": "https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election",
+   "sha256": "dde1f2e25caed42032ac017987f9ce885324e38c108d12fbb93fdc32f717d559"
+  },
+  "dados/brutos/capturas/agentes/78053103c076237e.txt": {
+   "bytes": 114843,
+   "hora": "2026-10-26T15:23:50+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2024_Moldovan_presidential_election",
+   "sha256": "1ce2ff36ffa2427ea6e4e5a8a3a7b6ab6fb57d3452083e8cbc160efcc116a1d0"
+  },
+  "dados/brutos/capturas/agentes/783b9b955fe907d2.txt": {
+   "bytes": 12167,
+   "hora": "2026-10-26T15:28:22+00:00",
+   "nota": "texto da página renderizada; revid 1346516912",
+   "origem": "https://en.wikipedia.org/wiki/2000_Finnish_presidential_election",
+   "sha256": "30931572383488b36f5f9b861bf95640e89fb66cc8dfac8e21080dd04b68d8a4"
+  },
+  "dados/brutos/capturas/agentes/7841abd0ac03d496.txt": {
+   "bytes": 9879,
+   "hora": "2026-10-26T15:23:17+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2000_Finnish_presidential_election",
+   "sha256": "4e615ff3c82f56bbb75620fe69a297a8cd3a178fb410e987222df3d70085666f"
+  },
+  "dados/brutos/capturas/agentes/79af1a29eacbf2f3.txt": {
+   "bytes": 20428,
+   "hora": "2026-10-26T15:24:50+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1999_Uruguayan_general_election",
+   "sha256": "a065a30a09a68f405206f1eb68e4332fd30596b516799577c6540b3ed93264ce"
+  },
+  "dados/brutos/capturas/agentes/7b220ff5ac448641.txt": {
+   "bytes": 27200,
+   "hora": "2026-10-26T15:24:22+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2000_Romanian_general_election",
+   "sha256": "5bf5c211cfacf65f6cab6605fef0ac44e3ac95d80cf9485898b72d5d412d4efa"
+  },
+  "dados/brutos/capturas/agentes/7bbc99b39c7bc71f.txt": {
+   "bytes": 109171,
+   "hora": "2026-10-26T15:22:35+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2025_Chilean_general_election",
+   "sha256": "203a00b0c0198c156383bb8e7faabc60c848efd9bc80bf43a372d1b159d7f9e9"
+  },
+  "dados/brutos/capturas/agentes/7bc7e6b0bec944be.txt": {
+   "bytes": 44123,
+   "hora": "2026-10-26T15:27:15+00:00",
+   "nota": "texto da página renderizada; revid 1381741621",
+   "origem": "https://en.wikipedia.org/wiki/2024%E2%80%9325_Croatian_presidential_election",
+   "sha256": "c68a294f122a8113b7a797c3e646e02958f4fb4fa958e6168fd89a4d325a658d"
+  },
+  "dados/brutos/capturas/agentes/7c13fcb87e9e1b0c.txt": {
+   "bytes": 13829,
+   "hora": "2026-10-26T15:23:13+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1994_Salvadoran_general_election",
+   "sha256": "17da5d32ffe8a08ff2da48fec47787a2f8f45067605c24dcf711b07d0aeb6108"
+  },
+  "dados/brutos/capturas/agentes/7c7470451f069366.txt": {
+   "bytes": 4144,
+   "hora": "2026-10-26T15:27:19+00:00",
+   "nota": "texto da página renderizada; revid 1380400401",
+   "origem": "https://en.wikipedia.org/wiki/1998_Cypriot_presidential_election",
+   "sha256": "96f943d0e6e6a5bf25d04484515f1befd96e9c8fb611226c74a481a5afd7fb1c"
   },
   "dados/brutos/capturas/agentes/7cf75a12249846c3.txt": {
    "bytes": 72939,
@@ -231,12 +1029,40 @@
    "origem": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-presidente-14-outubro.ghtml",
    "sha256": "236bbde78c78916b4c389028d1aa219dee9712d53686b86ac38a6bedc0823c30"
   },
+  "dados/brutos/capturas/agentes/80647bb0aaf4c734.txt": {
+   "bytes": 17940,
+   "hora": "2026-10-26T15:31:08+00:00",
+   "nota": "texto da página renderizada; revid 1360799587",
+   "origem": "https://en.wikipedia.org/wiki/2014_Macedonian_general_election",
+   "sha256": "bec2d6326ac2d95cd5be233491291371e00a1ecc40b677ea939c0d8433dd80af"
+  },
   "dados/brutos/capturas/agentes/813123a210fcb792.txt": {
    "bytes": 35687,
    "hora": "2026-10-26T14:59:46+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid ",
    "origem": "https://veja.abril.com.br/politica/a-nova-pesquisa-btg-nexus-sobre-a-disputa-flavio-x-lula-a-ultima-antes-do-segundo-turno/",
    "sha256": "a0f17e6dbdd25adbfd56c9881585cac0c85b4ee0d5b8b42be245e0bdd248f101"
+  },
+  "dados/brutos/capturas/agentes/833bb0fc0c5945e0.txt": {
+   "bytes": 13595,
+   "hora": "2026-10-26T15:25:25+00:00",
+   "nota": "texto da página renderizada; revid 1379242004",
+   "origem": "https://en.wikipedia.org/wiki/2011_Bulgarian_presidential_election",
+   "sha256": "e4133abf7416d8e889f55627c4cff3ba95a0fa80fa4f9a9ebc13e41bd175a54d"
+  },
+  "dados/brutos/capturas/agentes/83cacd3aafe5ad8a.txt": {
+   "bytes": 5731,
+   "hora": "2026-10-26T15:32:12+00:00",
+   "nota": "texto da página renderizada; revid 1341392951",
+   "origem": "https://en.wikipedia.org/wiki/1997_Serbian_presidential_election",
+   "sha256": "3774fc0630d6e4a498234b05d5a9dbd24bf5644460f005c5cf36d6e207da0fcf"
+  },
+  "dados/brutos/capturas/agentes/88732e2d851328c2.txt": {
+   "bytes": 13351,
+   "hora": "2026-10-26T15:26:21+00:00",
+   "nota": "texto da página renderizada; revid 1359064174",
+   "origem": "https://en.wikipedia.org/wiki/1994_Colombian_presidential_election",
+   "sha256": "2ebb7da2ebc808bac1c5a2149412616c218b79acebf4a457040263d592a72bd7"
   },
   "dados/brutos/capturas/agentes/88fb88a35c6187af.txt": {
    "bytes": 45737,
@@ -245,12 +1071,61 @@
    "origem": "https://jovempan.com.br/politica/para-quem-vao-os-votos-de-cury-renan-santos-e-caiado-no-2o-turno-veja-o-poderdata/",
    "sha256": "98efe03e657493641e7bf1f993658ba9dcabefb4842d8d700a48d0fbf075dc2f"
   },
+  "dados/brutos/capturas/agentes/8a1bd743a99bb22f.txt": {
+   "bytes": 33632,
+   "hora": "2026-10-26T15:22:56+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2013_Cypriot_presidential_election",
+   "sha256": "3fb8c2a6cd4cedf6cd894d37bb04e5948c912189305498e90bb5a9fd28b73921"
+  },
+  "dados/brutos/capturas/agentes/8a45f0da7650f383.txt": {
+   "bytes": 137918,
+   "hora": "2026-10-26T15:22:28+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2021_Bulgarian_general_election",
+   "sha256": "dbc33dc6c034eb995b4aa726d832d255bae7983bdb25ee91e0e94958bf1ac551"
+  },
+  "dados/brutos/capturas/agentes/8a66ea892f9e09b5.txt": {
+   "bytes": 15782,
+   "hora": "2026-10-26T15:23:35+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2007_Guatemalan_general_election",
+   "sha256": "f2db41f61575b0acd41837f9e0d265518c2293d3585a7175556d17ae418dc339"
+  },
+  "dados/brutos/capturas/agentes/8b8fa8c49a2942d7.txt": {
+   "bytes": 202873,
+   "hora": "2026-10-26T15:22:49+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2009%E2%80%9310_Croatian_presidential_election",
+   "sha256": "25a68722b202fb6b400d6e27efaffe8845284213136f040129e84dcca5a47a82"
+  },
+  "dados/brutos/capturas/agentes/8bff79fffa535a32.txt": {
+   "bytes": 121693,
+   "hora": "2026-10-26T15:24:54+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2024_Uruguayan_general_election",
+   "sha256": "ec5fe82168684b4d95a57f0e420f27db0967fa5883645096e06a0b933d613c60"
+  },
+  "dados/brutos/capturas/agentes/8cab3502c73239ae.txt": {
+   "bytes": 43360,
+   "hora": "2026-10-26T15:24:53+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2019_Uruguayan_general_election",
+   "sha256": "1d3802898b7872b9f01e6fc15d1deea4ceffc95b9f2d700691d2db9e891fb87b"
+  },
   "dados/brutos/capturas/agentes/8f1e5a3ec7a8f634.txt": {
    "bytes": 11538,
    "hora": "2026-10-26T14:59:41+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid ",
    "origem": "https://www.bloomberglinea.com.br/brasil/flavio-bolsonaro-tem-508-dos-votos-validos-contra-492-de-lula-aponta-atlasintel/",
    "sha256": "49627b8bdc06534cde8672b2b099ac62cc8468642d24f0f337ef8ebc4b8ab864"
+  },
+  "dados/brutos/capturas/agentes/8f855ba6efedee34.txt": {
+   "bytes": 94027,
+   "hora": "2026-10-26T15:22:45+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2022_Costa_Rican_general_election",
+   "sha256": "f9c9c7a62db85bbde79d2ba51635c6c9e82031161d66b1a159520396b249bc78"
   },
   "dados/brutos/capturas/agentes/90ac957d502fedd9.txt": {
    "bytes": 198219,
@@ -259,12 +1134,145 @@
    "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2024",
    "sha256": "a92dc96a1072288d8bea98ed25e8a28d89d3f01b8fe18de28282a4d5265d246e"
   },
+  "dados/brutos/capturas/agentes/935b2f643a28121d.txt": {
+   "bytes": 36292,
+   "hora": "2026-10-26T15:28:16+00:00",
+   "nota": "texto da página renderizada; revid 1373706356",
+   "origem": "https://en.wikipedia.org/wiki/2017_Ecuadorian_general_election",
+   "sha256": "49b6fda84125e1b5b98b3373165f0e7305d51f1a0192180aa9decfb0d2ab7d9a"
+  },
+  "dados/brutos/capturas/agentes/9450a52eb1b25613.txt": {
+   "bytes": 11974,
+   "hora": "2026-10-26T15:28:18+00:00",
+   "nota": "texto da página renderizada; revid 1377763938",
+   "origem": "https://en.wikipedia.org/wiki/1994_Salvadoran_general_election",
+   "sha256": "e3f22b816c9680e0fb4ddffa6113928a73f45975117233e411cdf853ef8bbc89"
+  },
+  "dados/brutos/capturas/agentes/95b21bf3c6c3c25b.txt": {
+   "bytes": 4254,
+   "hora": "2026-10-26T15:24:37+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1990_Slovenian_presidential_election",
+   "sha256": "88ed954981b79a69a5fd1f8a2f9e4672ee71a5140353e137d1c875bb2932d6db"
+  },
+  "dados/brutos/capturas/agentes/96df8f928aea804f.txt": {
+   "bytes": 3738,
+   "hora": "2026-10-26T15:24:26+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1997_Serbian_presidential_election",
+   "sha256": "e43d79435596211859b20a6ff57b16769009a6f7580d0a1ad8bf22783e25d738"
+  },
+  "dados/brutos/capturas/agentes/97de50f824e057b2.txt": {
+   "bytes": 7325,
+   "hora": "2026-10-26T15:23:07+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1996_Ecuadorian_general_election",
+   "sha256": "88aed83796300243465f68082928d616e023cc701b5bcb406f21462955f7493f"
+  },
+  "dados/brutos/capturas/agentes/98324da6b74a45dd.txt": {
+   "bytes": 41618,
+   "hora": "2026-10-26T15:24:40+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2012_Slovenian_presidential_election",
+   "sha256": "f2deafd95fc7f7e56348494cca47b7117020713a16eed95ae19f4da98988d19c"
+  },
+  "dados/brutos/capturas/agentes/9948cad838850e6d.txt": {
+   "bytes": 39672,
+   "hora": "2026-10-26T15:24:41+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2017_Slovenian_presidential_election",
+   "sha256": "922acbe819deabac0eb2bbab67225018398d67d31d7716f44ff82f55aff51437"
+  },
   "dados/brutos/capturas/agentes/9a0915f19773c025.txt": {
    "bytes": 156278,
    "hora": "2026-10-26T15:08:41+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Argentine_general_election",
    "sha256": "adabeff33f5d4380234373d99c79d672e066fae510edccc79a23c3eeac26bee8"
+  },
+  "dados/brutos/capturas/agentes/9a1c59d59fda9ede.txt": {
+   "bytes": 23634,
+   "hora": "2026-10-26T15:23:59+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014_Macedonian_general_election",
+   "sha256": "406be76d7ac7a631bea9b4bbc8fef0c32876bc1e98640ac6f6a3b1cb9138490d"
+  },
+  "dados/brutos/capturas/agentes/a006e7a8772c4d42.txt": {
+   "bytes": 21343,
+   "hora": "2026-10-26T15:32:25+00:00",
+   "nota": "texto da página renderizada; revid 1376309902",
+   "origem": "https://en.wikipedia.org/wiki/2024_Slovak_presidential_election",
+   "sha256": "09e3923caceede0980fdbaccb2070192b87e57345b18962fae0bf5417efffb4f"
+  },
+  "dados/brutos/capturas/agentes/a0b6c00424531a26.txt": {
+   "bytes": 11018,
+   "hora": "2026-10-26T15:24:34+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2009_Slovak_presidential_election",
+   "sha256": "813f616ab8fb8dbbf37a7f9570c47a1a9a771942920635a2841610f7ac36e403"
+  },
+  "dados/brutos/capturas/agentes/a0fce4fae0801d69.txt": {
+   "bytes": 20874,
+   "hora": "2026-10-26T15:22:55+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2008_Cypriot_presidential_election",
+   "sha256": "4fee2b004c3a621b1d428ab7a472ae89b8fe77d08320ed05bafde9d45df80f49"
+  },
+  "dados/brutos/capturas/agentes/a3800606a7155c3f.txt": {
+   "bytes": 5716,
+   "hora": "2026-10-26T15:22:36+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1994_Colombian_presidential_election",
+   "sha256": "f316825ededa8fb5eb592b742b8ec6a52da0e04fb2338b343ac584662f44ba63"
+  },
+  "dados/brutos/capturas/agentes/a3c1482037171cdc.txt": {
+   "bytes": 17132,
+   "hora": "2026-10-26T15:31:14+00:00",
+   "nota": "texto da página renderizada; revid 1368133564",
+   "origem": "https://en.wikipedia.org/wiki/2000_Peruvian_general_election",
+   "sha256": "b45fe3a010b8ebec8a3fbf159fb665de2f906542b5c7c684c682237686625c55"
+  },
+  "dados/brutos/capturas/agentes/a3d3782812f734b4.txt": {
+   "bytes": 36787,
+   "hora": "2026-10-26T15:23:38+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2019_Guatemalan_general_election",
+   "sha256": "8f48b5b27e1de025fb7f560b3385be44928afd1f7d25492273ee2639c9ed66cf"
+  },
+  "dados/brutos/capturas/agentes/a4d409e9d4ec2a60.txt": {
+   "bytes": 6660,
+   "hora": "2026-10-26T15:25:23+00:00",
+   "nota": "texto da página renderizada; revid 1368722299",
+   "origem": "https://en.wikipedia.org/wiki/2006_Bulgarian_presidential_election",
+   "sha256": "d061339e04804438962019cf2d4079a34f6529983ba9390ae17922361c4e693d"
+  },
+  "dados/brutos/capturas/agentes/a5b84fc4fb800068.txt": {
+   "bytes": 9249,
+   "hora": "2026-10-26T15:25:11+00:00",
+   "nota": "texto da página renderizada; revid 1370162210",
+   "origem": "https://en.wikipedia.org/wiki/1992_Austrian_presidential_election",
+   "sha256": "9184b3089d8f9143c7ce22ed059eb18b397bfc5126a4e6775b9e5936a4ed0cad"
+  },
+  "dados/brutos/capturas/agentes/a61160afd62f0ff3.txt": {
+   "bytes": 5436,
+   "hora": "2026-10-26T15:24:29+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2004_Serbian_presidential_election",
+   "sha256": "f6280e625cb688481478800ef0cf9769d91ea6c2ef6bac1134234aac16b6e94d"
+  },
+  "dados/brutos/capturas/agentes/a6168e27512dbe88.txt": {
+   "bytes": 19240,
+   "hora": "2026-10-26T15:23:48+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2016_Moldovan_presidential_election",
+   "sha256": "2e926a8785f6e62a461e45dca83ccae2a6bfced96e0bebe84548cc4a3070d89a"
+  },
+  "dados/brutos/capturas/agentes/a619dffce5f12d79.txt": {
+   "bytes": 9629,
+   "hora": "2026-10-26T15:30:07+00:00",
+   "nota": "texto da página renderizada; revid 1371968223",
+   "origem": "https://en.wikipedia.org/wiki/2014_Lithuanian_presidential_election",
+   "sha256": "1174e7b01b697b8224e7fdd999bd74b8683037f12d53e6868df7519f2adb4c56"
   },
   "dados/brutos/capturas/agentes/a6b9c74a1686bdb1.txt": {
    "bytes": 68260,
@@ -273,12 +1281,26 @@
    "origem": "https://www.infomoney.com.br/politica/atlasintel-para-onde-foram-os-votos-de-caiado-renan-zema-e-cury-no-2o-turno/",
    "sha256": "f71cb0a2e1b3480024b3938fd6432fdbcf7964ae1d0afb7587eff92bd0272efb"
   },
+  "dados/brutos/capturas/agentes/a70f4848d11119d4.txt": {
+   "bytes": 115091,
+   "hora": "2026-10-26T15:23:26+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2012_French_presidential_election",
+   "sha256": "d94c399170d605b8ae05c5da17690d582e364582e1a06aedb3b65c0dcf27d9f3"
+  },
   "dados/brutos/capturas/agentes/a70f4a8a1ffeb45e.txt": {
    "bytes": 396571,
    "hora": "2026-10-26T15:09:19+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
    "sha256": "408227d390fb6c9f049652f01eab4596983db8f0708a8ed2055d3d3197a0e745"
+  },
+  "dados/brutos/capturas/agentes/a7b32ce993aaa789.txt": {
+   "bytes": 332799,
+   "hora": "2026-10-26T15:23:29+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2017_French_presidential_election",
+   "sha256": "34c8ea624468654a76cadbe4499e7a06ee5c8ade998bdca15ec3986cf406c0fc"
   },
   "dados/brutos/capturas/agentes/a974bcf5dca9c55b.txt": {
    "bytes": 300857,
@@ -301,6 +1323,13 @@
    "origem": "http://media.folha.uol.com.br/datafolha/2018/04/27/4c6893d510a761911d2dddfe97b4a41d.pdf",
    "sha256": "56131ad7a28bef0a572d339474a12e8d03916a0f8424477d74048219a418612f"
   },
+  "dados/brutos/capturas/agentes/aca5eb7ac5f57638.txt": {
+   "bytes": 20865,
+   "hora": "2026-10-26T15:24:35+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014_Slovak_presidential_election",
+   "sha256": "45aab2f56b756096703e9f3589c70ac70002ffd5ffc3ff159645c164e0e90fee"
+  },
   "dados/brutos/capturas/agentes/ade38db46e2c8f22.txt": {
    "bytes": 178615,
    "hora": "2026-10-26T15:09:17+00:00",
@@ -315,12 +1344,236 @@
    "origem": "https://en.wikipedia.org/wiki/2026_Colombian_presidential_election",
    "sha256": "605691afd1bd4bf631e851cbcdd223ef49c1180d143a71e00a7bedac4a6aa3a5"
   },
+  "dados/brutos/capturas/agentes/af0e2d15cf1b90b4.txt": {
+   "bytes": 94663,
+   "hora": "2026-10-26T15:24:13+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1995_Polish_presidential_election",
+   "sha256": "9975a853a1ee9d481b943eb4bd91cdc1112276227ee20df9fb5b04e7f6b02c64"
+  },
+  "dados/brutos/capturas/agentes/af819f635c805c49.txt": {
+   "bytes": 48243,
+   "hora": "2026-10-26T15:28:27+00:00",
+   "nota": "texto da página renderizada; revid 1379487793",
+   "origem": "https://en.wikipedia.org/wiki/1995_French_presidential_election",
+   "sha256": "09ca797d3145fbda307d8bc234e6250ca6579f7b453e48a1589a4c17fa508a58"
+  },
+  "dados/brutos/capturas/agentes/b076be7735149a87.txt": {
+   "bytes": 6345,
+   "hora": "2026-10-26T15:27:24+00:00",
+   "nota": "texto da página renderizada; revid 1348373498",
+   "origem": "https://en.wikipedia.org/wiki/1992_Ecuadorian_general_election",
+   "sha256": "27d55f619e3ec1fe20ef48e9ee6f837eb5d75083777e6660c3ffdb5375f9e96e"
+  },
+  "dados/brutos/capturas/agentes/b216975dafe2bf47.txt": {
+   "bytes": 155284,
+   "hora": "2026-10-26T15:22:17+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2023_Argentine_general_election",
+   "sha256": "27d35a84d518e5efb20e06d8b936b63072f62d6c98684d02f03cd04467880c94"
+  },
+  "dados/brutos/capturas/agentes/b401a84402a1df9a.txt": {
+   "bytes": 8101,
+   "hora": "2026-10-26T15:30:16+00:00",
+   "nota": "texto da página renderizada; revid 1305074153",
+   "origem": "https://en.wikipedia.org/wiki/1992%E2%80%9393_Montenegrin_general_election",
+   "sha256": "bf0a2385a1712982489887fc2516f92f8aab127b64afe186142b996011479c0e"
+  },
+  "dados/brutos/capturas/agentes/b4eb19f5d7e3f020.txt": {
+   "bytes": 7812,
+   "hora": "2026-10-26T15:27:29+00:00",
+   "nota": "texto da página renderizada; revid 1332394529",
+   "origem": "https://en.wikipedia.org/wiki/1998_Ecuadorian_general_election",
+   "sha256": "a2a069603697a2c3ce80047f096dc86bd8d1884cf1b43e6928eef7832ab76a50"
+  },
+  "dados/brutos/capturas/agentes/b4f92f87ad28bf16.txt": {
+   "bytes": 68470,
+   "hora": "2026-10-26T15:22:52+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2024%E2%80%9325_Croatian_presidential_election",
+   "sha256": "63c0b0be4b7e92454e9414849d8b0668180c87684884441f4cd51f80f5119a98"
+  },
+  "dados/brutos/capturas/agentes/b5673c964f43e9d5.txt": {
+   "bytes": 19364,
+   "hora": "2026-10-26T15:29:12+00:00",
+   "nota": "texto da página renderizada; revid 1361916249",
+   "origem": "https://en.wikipedia.org/wiki/2015_Guatemalan_general_election",
+   "sha256": "837a9d12ea9e0c7665792d160ff192344769f217a8c3df787d4d61ed37bbf17a"
+  },
+  "dados/brutos/capturas/agentes/b64846304709aa3e.txt": {
+   "bytes": 11352,
+   "hora": "2026-10-26T15:23:36+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2011_Guatemalan_general_election",
+   "sha256": "328e40f81b78458a9820c830d260875e9d0b55789c4c0f160744483fb82c1170"
+  },
+  "dados/brutos/capturas/agentes/b84ee49a05f4a79b.txt": {
+   "bytes": 32724,
+   "hora": "2026-10-26T15:24:36+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2024_Slovak_presidential_election",
+   "sha256": "25069077f5315e84bf96b686d505dcdb6f063ea7399b74036f29ec93a1d79079"
+  },
+  "dados/brutos/capturas/agentes/b88a5c533b095ceb.txt": {
+   "bytes": 20919,
+   "hora": "2026-10-26T15:23:54+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1997_Montenegrin_presidential_election",
+   "sha256": "6375d042a6a52840edd082182ae1896c44f5d06957e471b0b15b6200b649f14d"
+  },
+  "dados/brutos/capturas/agentes/b8aeee46f1094d9a.txt": {
+   "bytes": 5886,
+   "hora": "2026-10-26T15:32:27+00:00",
+   "nota": "texto da página renderizada; revid 1361625440",
+   "origem": "https://en.wikipedia.org/wiki/1990_Slovenian_presidential_election",
+   "sha256": "256513aedb9f3288f60c4be8d60adc932b3eeaf9385440af77a78c378797e89a"
+  },
+  "dados/brutos/capturas/agentes/b94d31a983c8e21f.txt": {
+   "bytes": 155981,
+   "hora": "2026-10-26T15:31:25+00:00",
+   "nota": "texto da página renderizada; revid 1381816784",
+   "origem": "https://en.wikipedia.org/wiki/2021_Peruvian_general_election",
+   "sha256": "431cfb9ca92e3e7de20279d9efe17fc0a6c54f1dcbd8178f104be768e2cd6420"
+  },
+  "dados/brutos/capturas/agentes/ba9b17d7cedc4ed3.txt": {
+   "bytes": 61433,
+   "hora": "2026-10-26T15:22:30+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2005%E2%80%9306_Chilean_general_election",
+   "sha256": "ae7086f6f79c686dd7770cf8c2949c7fb87b6e08ba8c8d34273af2f37301abae"
+  },
+  "dados/brutos/capturas/agentes/bad9b5fa94b7c090.txt": {
+   "bytes": 2776,
+   "hora": "2026-10-26T15:22:54+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1998_Cypriot_presidential_election",
+   "sha256": "2ca8e93aa7d004fb134cc3c1462c9cdb5ecfaad7bd9b69362e0cba53bb525c14"
+  },
+  "dados/brutos/capturas/agentes/bba3a1d43aaa6cee.txt": {
+   "bytes": 8756,
+   "hora": "2026-10-26T15:29:07+00:00",
+   "nota": "texto da página renderizada; revid 1304701079",
+   "origem": "https://en.wikipedia.org/wiki/2003_Guatemalan_general_election",
+   "sha256": "a2196c2f945cd7a18ea55fd11ba1b470f38807645878f67c94aa008fb7be8887"
+  },
+  "dados/brutos/capturas/agentes/bddc47ca73b8e6a5.txt": {
+   "bytes": 138008,
+   "hora": "2026-10-26T15:24:47+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election",
+   "sha256": "c0c523677690781ed216ba2c090a6b37d7d34ae3a6599dec4a7b6c6dffeee659"
+  },
+  "dados/brutos/capturas/agentes/be66ecc83802e9c8.txt": {
+   "bytes": 20280,
+   "hora": "2026-10-26T15:23:41+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1997%E2%80%9398_Lithuanian_presidential_election",
+   "sha256": "66ed2c30245fb3c859df08e292ff12d715ab46d3239b6c16c2e6e922277f4229"
+  },
+  "dados/brutos/capturas/agentes/c197b5cd406273f6.txt": {
+   "bytes": 4228,
+   "hora": "2026-10-26T15:23:43+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2004_Lithuanian_presidential_election",
+   "sha256": "acb038c68280d20c4d2d45cfa5777e4fc6b0fba828f1a30b9dfc71a3b7adf7c5"
+  },
+  "dados/brutos/capturas/agentes/c4208a8efe3da94a.txt": {
+   "bytes": 76708,
+   "hora": "2026-10-26T15:28:24+00:00",
+   "nota": "texto da página renderizada; revid 1378899865",
+   "origem": "https://en.wikipedia.org/wiki/2024_Finnish_presidential_election",
+   "sha256": "4569f89547ba5bf6e4dc8ed61956a721a27cd43b7fd9959cfc0823fb3cfbf00f"
+  },
+  "dados/brutos/capturas/agentes/c599c9ad7eca0744.txt": {
+   "bytes": 5461,
+   "hora": "2026-10-26T15:30:05+00:00",
+   "nota": "texto da página renderizada; revid 1275077241",
+   "origem": "https://en.wikipedia.org/wiki/2004_Lithuanian_presidential_election",
+   "sha256": "0b05ce10f57852ed72a93754954176f0bebdd6a2de977ad6756d467b1f76a657"
+  },
+  "dados/brutos/capturas/agentes/c7b64aa30f3a3d13.txt": {
+   "bytes": 353173,
+   "hora": "2026-10-26T15:24:18+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2025_Polish_presidential_election",
+   "sha256": "10b867530f6c5596d151755ccaf5a4d6acc5dabb3df70e6ac367761b09b69127"
+  },
+  "dados/brutos/capturas/agentes/c941f4ddd0265bb1.txt": {
+   "bytes": 62938,
+   "hora": "2026-10-26T15:25:44+00:00",
+   "nota": "texto da página renderizada; revid 1378501641",
+   "origem": "https://en.wikipedia.org/wiki/2017_Chilean_general_election",
+   "sha256": "f4d8c5c5e437fdc2620d2c5d1899d1932b53b81791651bd3e6c805329930451e"
+  },
+  "dados/brutos/capturas/agentes/cb2b7a2c42fc6025.txt": {
+   "bytes": 32513,
+   "hora": "2026-10-26T15:29:18+00:00",
+   "nota": "texto da página renderizada; revid 1377625372",
+   "origem": "https://en.wikipedia.org/wiki/2010%E2%80%9311_Haitian_general_election",
+   "sha256": "51e5a90a1d556e65ad0ae395bf519b13b8b959868dc9aaf10fa74a385039c49d"
+  },
+  "dados/brutos/capturas/agentes/cc4746f235f0034c.txt": {
+   "bytes": 10114,
+   "hora": "2026-10-26T15:26:41+00:00",
+   "nota": "texto da página renderizada; revid 1315057553",
+   "origem": "https://en.wikipedia.org/wiki/2005_Croatian_presidential_election",
+   "sha256": "5a2ce77b9285155d6f1b684ebe57ee0fda3eb34429a1ae56a6d60c39a97d055d"
+  },
+  "dados/brutos/capturas/agentes/cd11b92975c02054.txt": {
+   "bytes": 13225,
+   "hora": "2026-10-26T15:23:58+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2009_Macedonian_presidential_election",
+   "sha256": "e04340a5032d5122c41b7162f4eb7cc815c6c6c2f85a5d62c0308dac725ef1d1"
+  },
+  "dados/brutos/capturas/agentes/ceabd480a55ab8c6.txt": {
+   "bytes": 4343,
+   "hora": "2026-10-26T15:32:14+00:00",
+   "nota": "texto da página renderizada; revid 1327421492",
+   "origem": "https://en.wikipedia.org/wiki/September%E2%80%93October_2002_Serbian_presidential_election",
+   "sha256": "8c6a4c85bf1d9dcb1093eae478a4aff8085d4e9a04fb9f4e9de51ba504786bb6"
+  },
   "dados/brutos/capturas/agentes/cf42021a51db3784.txt": {
    "bytes": 158260,
    "hora": "2026-10-26T15:08:04+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid 1380193388",
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Polish_presidential_election",
    "sha256": "48f8c0380e74899a3da00e7d68273bdd4db2658a232a3355aac581c5c09d3411"
+  },
+  "dados/brutos/capturas/agentes/cfdedecd605f36ae.txt": {
+   "bytes": 29236,
+   "hora": "2026-10-26T15:22:38+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2010_Colombian_presidential_election",
+   "sha256": "5734ccdbf690d373b5269967e640c1da9cec244d8e19bd937e732a05ee6cfc13"
+  },
+  "dados/brutos/capturas/agentes/cfe7b27ec206239b.txt": {
+   "bytes": 14183,
+   "hora": "2026-10-26T15:23:15+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1994_Finnish_presidential_election",
+   "sha256": "74c39cb0e8d672f50c0be3b4099cd2c3feb9e84cfb2dccc3fad4308f83f600d6"
+  },
+  "dados/brutos/capturas/agentes/d0001cf3e45021cc.txt": {
+   "bytes": 165924,
+   "hora": "2026-10-26T15:22:40+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2022_Colombian_presidential_election",
+   "sha256": "24712fbbf418cda7cc61bd847b920399edf68be0ca56ca7c0e44710552bbd01e"
+  },
+  "dados/brutos/capturas/agentes/d0b58cb5ba5ce48c.txt": {
+   "bytes": 41895,
+   "hora": "2026-10-26T15:27:11+00:00",
+   "nota": "texto da página renderizada; revid 1300031483",
+   "origem": "https://en.wikipedia.org/wiki/2014%E2%80%9315_Croatian_presidential_election",
+   "sha256": "4a53ff5f78bdfb54fa3585d835d8f872abbad3d36bcddb6d6170c9bac274d3ae"
+  },
+  "dados/brutos/capturas/agentes/d2315d88091b72c2.txt": {
+   "bytes": 178415,
+   "hora": "2026-10-26T15:24:11+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2026_Peruvian_general_election",
+   "sha256": "a34901579d27ce2b365780fe50b3ad78e9c70f4cec8d94cb3adfc41baba93b62"
   },
   "dados/brutos/capturas/agentes/d2689887c21f2150.txt": {
    "bytes": 26716,
@@ -329,12 +1582,89 @@
    "origem": "https://www.dgabc.com.br/Noticia/4353964/quaest-48-dos-eleitores-de-augusto-cury-migram-para-lula-e-33-para-flavio",
    "sha256": "7ecae6acbbff25dd74bc2aa2601f4ff6e6e92cbc6e1468ceba23749e737eb6fa"
   },
+  "dados/brutos/capturas/agentes/d2e57cadb35c7fa6.txt": {
+   "bytes": 174914,
+   "hora": "2026-10-26T15:23:30+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2022_French_presidential_election",
+   "sha256": "2050e7d7d08a8dcd7e4df43606d230728067496932b60ca89c55b72370fe1ca9"
+  },
+  "dados/brutos/capturas/agentes/d3066bf8fbd880c8.txt": {
+   "bytes": 144076,
+   "hora": "2026-10-26T15:23:04+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2023_Czech_presidential_election",
+   "sha256": "e615771e8ff4d4f1b9ec172457a5774e3db641a754bf846342a80369c86588a5"
+  },
+  "dados/brutos/capturas/agentes/d50dc1f55f30525e.txt": {
+   "bytes": 5012,
+   "hora": "2026-10-26T15:30:14+00:00",
+   "nota": "texto da página renderizada; revid 1346683238",
+   "origem": "https://en.wikipedia.org/wiki/1990_Montenegrin_general_election",
+   "sha256": "9557231b68d055827b58d6a080f35143f5c7a47f4ea876c8373edcb67a3bb1d0"
+  },
+  "dados/brutos/capturas/agentes/d6534f61615f8444.txt": {
+   "bytes": 26548,
+   "hora": "2026-10-26T15:23:18+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2006_Finnish_presidential_election",
+   "sha256": "ca9c54be002a27db26e963f5ffd97ec27455628845e542d7d9b9da07586cfbb0"
+  },
+  "dados/brutos/capturas/agentes/d656a50fb5caf752.txt": {
+   "bytes": 20372,
+   "hora": "2026-10-26T15:22:57+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2018_Cypriot_presidential_election",
+   "sha256": "1198eed15658768289dde469e0c83b0aae774cb2c0b41273237188a1b1c69b1e"
+  },
+  "dados/brutos/capturas/agentes/d68873b475609794.txt": {
+   "bytes": 9109,
+   "hora": "2026-10-26T15:23:32+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1995%E2%80%9396_Guatemalan_general_election",
+   "sha256": "741242a4ac93db27371dde4c85d8e6d1cd02e6429aac4227aca4a4d1d9e0be62"
+  },
+  "dados/brutos/capturas/agentes/d79affeeede802e1.txt": {
+   "bytes": 66434,
+   "hora": "2026-10-26T15:23:24+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2002_French_presidential_election",
+   "sha256": "c316e41316a9e322b8750d00effa0e3b90e85b8bfae95fbd51c38d271744cf61"
+  },
+  "dados/brutos/capturas/agentes/d7e611f3d150fc14.txt": {
+   "bytes": 8645,
+   "hora": "2026-10-26T15:22:47+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2005_Croatian_presidential_election",
+   "sha256": "e722f8008f346d2141f5787bb9ec35fd2cf7a5e02caa8a4335597673418327ce"
+  },
+  "dados/brutos/capturas/agentes/d950cda860b63432.txt": {
+   "bytes": 17814,
+   "hora": "2026-10-26T15:24:25+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1997_Serbian_general_election",
+   "sha256": "333a40c9de6f7e03450803fbe2a96080f2861525d377d12295204930ff786d3d"
+  },
+  "dados/brutos/capturas/agentes/db6cddaf7ced7b95.txt": {
+   "bytes": 6856,
+   "hora": "2026-10-26T15:22:18+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1992_Austrian_presidential_election",
+   "sha256": "77448b29a193bf5a22a878b07144a6d9dd08e2018c91d30e00ea9ad5c1f75dc6"
+  },
   "dados/brutos/capturas/agentes/dc77c0164ed9dfb1.txt": {
    "bytes": 28794,
    "hora": "2026-10-26T15:07:44+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid ",
    "origem": "http://media.folha.uol.com.br/datafolha/2013/05/02/intvoto_pres_28102006.pdf",
    "sha256": "ea04727ec2b770faf516658dc11fc3202caf68249ff9dd5f4ae8084403c90387"
+  },
+  "dados/brutos/capturas/agentes/dd043e271a1a34eb.txt": {
+   "bytes": 11811,
+   "hora": "2026-10-26T15:30:09+00:00",
+   "nota": "texto da página renderizada; revid 1379562961",
+   "origem": "https://en.wikipedia.org/wiki/2019_Lithuanian_presidential_election",
+   "sha256": "3022af0cbd09485316bfc2ecb77deb6600c356750e1d2f8eb7fcb0cd02e2a47d"
   },
   "dados/brutos/capturas/agentes/dd783820c98c903a.txt": {
    "bytes": 9412,
@@ -343,12 +1673,47 @@
    "origem": "https://www.spacemoney.com.br/politica/quaest-transferencia-votos-lula-flavio-segundo-turno",
    "sha256": "e0b6ae0cf9d6ddfb96e04839e29d5b26113392e6476f3771d9fae6d7dcb52bb9"
   },
+  "dados/brutos/capturas/agentes/dddfa7cbe78f8f24.txt": {
+   "bytes": 26579,
+   "hora": "2026-10-26T15:24:52+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014_Uruguayan_general_election",
+   "sha256": "6eb05561015ff64cc848dc67c8a7d709b62218ee9cc638e3c0cda2d7a633c4e5"
+  },
+  "dados/brutos/capturas/agentes/de5b7c829d77d89c.txt": {
+   "bytes": 4758,
+   "hora": "2026-10-26T15:22:21+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1992_Bulgarian_presidential_election",
+   "sha256": "8e575cc73b986548dfba3cca2a9f44485342a34170e7f16878f633e303739b9e"
+  },
+  "dados/brutos/capturas/agentes/de7337e2bace1b89.txt": {
+   "bytes": 48443,
+   "hora": "2026-10-26T15:31:18+00:00",
+   "nota": "texto da página renderizada; revid 1378521440",
+   "origem": "https://en.wikipedia.org/wiki/2006_Peruvian_general_election",
+   "sha256": "ed8ae9f1d4886394aeeb5bab3f36af2d500ee9435bcbfbc8c9b2364e04e44452"
+  },
   "dados/brutos/capturas/agentes/df1a41283bb80a47.txt": {
    "bytes": 317886,
    "hora": "2026-10-26T15:08:10+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid 1379809836",
    "origem": "https://en.wikipedia.org/wiki/2025_Romanian_presidential_election",
    "sha256": "b6fc3dd901d79421162bd193556266ce7da82d2d022d65cc63dd57395aa052fb"
+  },
+  "dados/brutos/capturas/agentes/df64670d1c0233bc.txt": {
+   "bytes": 58336,
+   "hora": "2026-10-26T15:24:06+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2006_Peruvian_general_election",
+   "sha256": "7ca74d37668fee85a5092c468c83914fee320016d2c5be28242dec813c604b74"
+  },
+  "dados/brutos/capturas/agentes/e07cacc39bf6e3ef.txt": {
+   "bytes": 8321,
+   "hora": "2026-10-26T15:28:35+00:00",
+   "nota": "texto da página renderizada; revid 1348252897",
+   "origem": "https://en.wikipedia.org/wiki/1990%E2%80%9391_Guatemalan_general_election",
+   "sha256": "876d1a6f3131c4c8c5235571933ff3a95a968b261ee5d2f5bdc5959e645378e4"
   },
   "dados/brutos/capturas/agentes/e0ec6747de9b6692.txt": {
    "bytes": 46933,
@@ -357,6 +1722,13 @@
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Slovak_presidential_election",
    "sha256": "69e080b66ed0b4b84b31be5cb02d58c0de156638af80951b3149e5877e96b0b6"
   },
+  "dados/brutos/capturas/agentes/e0fc6d724de48caf.txt": {
+   "bytes": 7214,
+   "hora": "2026-10-26T15:26:26+00:00",
+   "nota": "texto da página renderizada; revid 1359064309",
+   "origem": "https://en.wikipedia.org/wiki/1998_Colombian_presidential_election",
+   "sha256": "6bce8447d766be021a29f6c6b969c87b38ef7ded4cf24c305ff208337061dd00"
+  },
   "dados/brutos/capturas/agentes/e2147c51858300aa.txt": {
    "bytes": 15128,
    "hora": "2026-10-26T14:59:57+00:00",
@@ -364,12 +1736,33 @@
    "origem": "https://www.cartacapital.com.br/politica/a-migracao-dos-votos-de-tebet-e-ciro-no-2o-turno-segundo-a-quaest/",
    "sha256": "e932b946049f84430b2ef5bc2304b955cee8bd7d8137c8103fa910b07ffb6b57"
   },
+  "dados/brutos/capturas/agentes/e282e9ea40df1330.txt": {
+   "bytes": 6990,
+   "hora": "2026-10-26T15:23:09+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2002_Ecuadorian_general_election",
+   "sha256": "df8e13415dcc340cd162d9cc4e72733f86c164ace2d5c244ae2d677d2f1fd4af"
+  },
   "dados/brutos/capturas/agentes/e354cf70f53bc414.txt": {
    "bytes": 30483,
    "hora": "2026-10-26T15:09:13+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://es.wikipedia.org/wiki/Anexo:Encuestas_de_intenci%C3%B3n_de_voto_para_las_elecciones_generales_de_Uruguay_de_2019",
    "sha256": "92eeed7e497eb9991e19b4f46e2b3b85b46f09a9dce1103bef864594869f56c3"
+  },
+  "dados/brutos/capturas/agentes/e42a7f52098c18cb.txt": {
+   "bytes": 4022,
+   "hora": "2026-10-26T15:32:22+00:00",
+   "nota": "texto da página renderizada; revid 1373256768",
+   "origem": "https://en.wikipedia.org/wiki/1999_Slovak_presidential_election",
+   "sha256": "4c3f8512750dda696bb73a590855f47e40f48197cf0faa24ec414fd69bdf28b7"
+  },
+  "dados/brutos/capturas/agentes/e436da92539d4cfa.txt": {
+   "bytes": 3856,
+   "hora": "2026-10-26T15:22:37+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1998_Colombian_presidential_election",
+   "sha256": "481262d14873df3fc24c9f5ad20e9fe8ea35b47de9d11e88309e96b41dd42a76"
   },
   "dados/brutos/capturas/agentes/e46438496e44db22.txt": {
    "bytes": 9730,
@@ -385,12 +1778,33 @@
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2010_Brazilian_presidential_election",
    "sha256": "5bf9bc4d6acc30bde75dbc511013775b18aeb1445c5a11810418f5c85a34f759"
   },
+  "dados/brutos/capturas/agentes/e634d2968dae2b76.txt": {
+   "bytes": 143550,
+   "hora": "2026-10-26T15:22:32+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2009%E2%80%9310_Chilean_general_election",
+   "sha256": "9c68fd6f84295d108477eb8f63ff3d4073cdd39b5fa2199c15a4e1d5535e1c6d"
+  },
   "dados/brutos/capturas/agentes/e87a964819b3e9ca.txt": {
    "bytes": 79800,
    "hora": "2026-10-26T15:09:23+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
    "origem": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Costa_Rican_general_election",
    "sha256": "f694058cec63ee1bbed2c95af4b249668e29cc87a8497c43c92e30430e9a824d"
+  },
+  "dados/brutos/capturas/agentes/e929ae2119d98d94.txt": {
+   "bytes": 2882,
+   "hora": "2026-10-26T15:23:57+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2004_Macedonian_presidential_election",
+   "sha256": "b6b1bfb7a1ac53649f38d8005160b83139d622fb3205e3f4d47b6b9f3a59941b"
+  },
+  "dados/brutos/capturas/agentes/e9dbbd64c03bc51f.txt": {
+   "bytes": 61528,
+   "hora": "2026-10-26T15:28:29+00:00",
+   "nota": "texto da página renderizada; revid 1373965757",
+   "origem": "https://en.wikipedia.org/wiki/2002_French_presidential_election",
+   "sha256": "4b8e99b3b5193a41337ec1c0c9f6cf8be765a51cff57b8b5682e8616116fd3c7"
   },
   "dados/brutos/capturas/agentes/eb741393f877225b.txt": {
    "bytes": 95816,
@@ -399,6 +1813,62 @@
    "origem": "http://media.folha.uol.com.br/datafolha/2013/05/02/intvoto_pres_26102002.pdf",
    "sha256": "7ee0efd2ae95215c545d45d37d9f72bfcdf6f369898111a9cad2a1c439c1f9df"
   },
+  "dados/brutos/capturas/agentes/ec0c5f3594c2f284.txt": {
+   "bytes": 7241,
+   "hora": "2026-10-26T15:22:24+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2006_Bulgarian_presidential_election",
+   "sha256": "f40619193e2bea539d14b6d84c520ab26c6ef2087a685df47e6c2ddaaabdb89b"
+  },
+  "dados/brutos/capturas/agentes/efb1938c2519d39f.txt": {
+   "bytes": 37809,
+   "hora": "2026-10-26T15:24:30+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2008_Serbian_presidential_election",
+   "sha256": "f4d1a8002ec7c76617cba92ca7625c425ee5e0dc5d3ab97a5a8d113b0bc03172"
+  },
+  "dados/brutos/capturas/agentes/f00fa81887d7735b.txt": {
+   "bytes": 3519,
+   "hora": "2026-10-26T15:24:28+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/September%E2%80%93October_2002_Serbian_presidential_election",
+   "sha256": "d457372bbcd8e7e8212b52066a10c65d5d0e9e2bb6ba9f6727720e664f326769"
+  },
+  "dados/brutos/capturas/agentes/f1023a47ea0b93ea.txt": {
+   "bytes": 9207,
+   "hora": "2026-10-26T15:31:10+00:00",
+   "nota": "texto da página renderizada; revid 1324270639",
+   "origem": "https://en.wikipedia.org/wiki/2019_North_Macedonian_presidential_election",
+   "sha256": "3a143c41f83f5b1c9b37a4c3db3d57a7d9b8ad52ce8a3ab76c46e10033bc61cd"
+  },
+  "dados/brutos/capturas/agentes/f1c3ecb6c97036b3.txt": {
+   "bytes": 16447,
+   "hora": "2026-10-26T15:32:20+00:00",
+   "nota": "texto da página renderizada; revid 1347240300",
+   "origem": "https://en.wikipedia.org/wiki/2012_Serbian_presidential_election",
+   "sha256": "4b6e971142626b9d7ef78b6c63ff299c8d111f58fa3f65fded93ba78148bccaf"
+  },
+  "dados/brutos/capturas/agentes/f1c8cdf7ed411dcc.txt": {
+   "bytes": 297408,
+   "hora": "2026-10-26T15:24:19+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2026_Portuguese_presidential_election",
+   "sha256": "8f5271bdc026456f13987906d3e7b3cf2ad8ff4d1811c9ecf70c88314e3d73fd"
+  },
+  "dados/brutos/capturas/agentes/f21d34e533e6aae0.txt": {
+   "bytes": 100370,
+   "hora": "2026-10-26T15:22:33+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2017_Chilean_general_election",
+   "sha256": "6c617306c21bb486229b3f5e863aba3bdc0c8035ac979a69ab0a68abb0b1020f"
+  },
+  "dados/brutos/capturas/agentes/f4da24f370e9eba8.txt": {
+   "bytes": 146710,
+   "hora": "2026-10-26T15:23:25+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2007_French_presidential_election",
+   "sha256": "84e4866c3a2e429643d4d27ed49cd6f0e38faba2dc9f5c95ef960f3404487ee3"
+  },
   "dados/brutos/capturas/agentes/f58246038b369099.txt": {
    "bytes": 54294,
    "hora": "2026-10-26T15:08:02+00:00",
@@ -406,12 +1876,96 @@
    "origem": "https://en.wikipedia.org/wiki/2015_Polish_presidential_election",
    "sha256": "de8deedf3fe8e72aa1895a70a1c2fbd6d8d57ec20d373485356ce954945ae124"
   },
+  "dados/brutos/capturas/agentes/f6f57a1b056ca9cf.txt": {
+   "bytes": 22927,
+   "hora": "2026-10-26T15:24:14+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2005_Polish_presidential_election",
+   "sha256": "dcf42de68fc3d1a3b3884ed6f341384f05379de1d3d8d2600d1c0f6e241ad076"
+  },
+  "dados/brutos/capturas/agentes/f752640c5aa3fc17.txt": {
+   "bytes": 8694,
+   "hora": "2026-10-26T15:29:05+00:00",
+   "nota": "texto da página renderizada; revid 1348252928",
+   "origem": "https://en.wikipedia.org/wiki/1999_Guatemalan_general_election",
+   "sha256": "2cb87c41b0e190026855f8fad2cc63d54ddf5d875615a4606cd21c9908c4da9b"
+  },
+  "dados/brutos/capturas/agentes/f7b091919da0f721.txt": {
+   "bytes": 16695,
+   "hora": "2026-10-26T15:22:25+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2011_Bulgarian_presidential_election",
+   "sha256": "4f38ba2329e496c0117eadd88d4f9284b5e6fb44269ab1187bb00ff18d4f4662"
+  },
+  "dados/brutos/capturas/agentes/f8f4338ce8a0cd7d.txt": {
+   "bytes": 100977,
+   "hora": "2026-10-26T15:26:36+00:00",
+   "nota": "texto da página renderizada; revid 1374207975",
+   "origem": "https://en.wikipedia.org/wiki/2022_Colombian_presidential_election",
+   "sha256": "ef047c7b425844b96ad72645f952a3a6ec1e8af801f11e9fdf4b4111e6278e0b"
+  },
+  "dados/brutos/capturas/agentes/f91784615c2d7875.txt": {
+   "bytes": 58891,
+   "hora": "2026-10-26T15:22:50+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2014%E2%80%9315_Croatian_presidential_election",
+   "sha256": "6101405f7c5f6018123101ed8a72d92d352979a064e4d0eb88f2dd324bade1b7"
+  },
+  "dados/brutos/capturas/agentes/f91b067eebe93003.txt": {
+   "bytes": 56546,
+   "hora": "2026-10-26T15:23:22+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1995_French_presidential_election",
+   "sha256": "ae145282c1c656bf9a065e27250b5761e609c590a8d5680a53f8d283399a9c02"
+  },
+  "dados/brutos/capturas/agentes/f945941c79d4275d.txt": {
+   "bytes": 2706,
+   "hora": "2026-10-26T15:22:53+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/1993_Cypriot_presidential_election",
+   "sha256": "4bc370007d791de45be65736882f25902260655005c810421b20b2d7d66cc1a9"
+  },
   "dados/brutos/capturas/agentes/faf14672083629a0.txt": {
    "bytes": 6739,
    "hora": "2026-10-26T14:59:37+00:00",
    "nota": "texto da fonte citada por pesquisa de apoio; revid ",
    "origem": "https://www.cnnbrasil.com.br/eleicoes/datafolha-flavio-tem-51-dos-votos-validos-lula-49/",
    "sha256": "b55ece13459c6e2c5b509f7614225d6f9c9c66de07edc191f71e585bd9fa9bf5"
+  },
+  "dados/brutos/capturas/agentes/fb1fb2e69aad1a58.txt": {
+   "bytes": 15794,
+   "hora": "2026-10-26T15:24:04+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2000_Peruvian_general_election",
+   "sha256": "bd6054965a9a8d68492d3da8acde1bf8f94f471834f3768251341ebfab489774"
+  },
+  "dados/brutos/capturas/agentes/fc8cf0072ea5dbfc.txt": {
+   "bytes": 83407,
+   "hora": "2026-10-26T15:22:20+00:00",
+   "nota": "texto da fonte citada por pesquisa de apoio; revid raw",
+   "origem": "https://en.wikipedia.org/wiki/2025_Bolivian_general_election",
+   "sha256": "a88b6c2a136a58146ad4d4d4d14a0bbef431d93805ed30cdaf7b4e199917c8e7"
+  },
+  "dados/brutos/capturas/agentes/fd8d816f12ccf9d3.txt": {
+   "bytes": 5586,
+   "hora": "2026-10-26T15:32:23+00:00",
+   "nota": "texto da página renderizada; revid 1373226373",
+   "origem": "https://en.wikipedia.org/wiki/2004_Slovak_presidential_election",
+   "sha256": "940c1fed014b41605d0db86867eeb7d810fd784756ccc85e2d8b805c46ba6d08"
+  },
+  "dados/brutos/capturas/agentes/fded69075f278b52.txt": {
+   "bytes": 15898,
+   "hora": "2026-10-26T15:30:13+00:00",
+   "nota": "texto da página renderizada; revid 1369316115",
+   "origem": "https://en.wikipedia.org/wiki/2016_Moldovan_presidential_election",
+   "sha256": "fcdba3e2db722c8b48c3733ae2a259ccd7a29b2ca659366bd9dbaa5d9f3e4c1a"
+  },
+  "dados/brutos/capturas/agentes/ff0256bc748bfd84.txt": {
+   "bytes": 3981,
+   "hora": "2026-10-26T15:27:23+00:00",
+   "nota": "texto da página renderizada; revid 1312531903",
+   "origem": "https://en.wikipedia.org/wiki/1996_Dominican_Republic_presidential_election",
+   "sha256": "bbcef89225920d08c4a4e8f8d45b2e9f472c94b83cf02207d15fc98d94b70e56"
   },
   "dados/brutos/capturas/pesquisas/0bc8a436204660e2.txt": {
    "bytes": 5096,
@@ -82263,6 +83817,13 @@
    "nota": "derivado dos arquivos do TSE em dados/brutos/tse (hash no manifesto)",
    "origem": "ferramentas/derivar.py",
    "sha256": "3cd41623ffa021867cfe60e240e14cfd3489a1bc5b8ba92a954df364f9bb8116"
+  },
+  "dados/derivados/runoffs_conferidos.csv": {
+   "bytes": 24614,
+   "hora": "2026-10-26T15:33:24+00:00",
+   "nota": "",
+   "origem": "ferramentas/conferir-agentes.py sobre dados/agentes/runoffs_internacionais.csv",
+   "sha256": "e836f6fb89b790a0e42a685b28426b5d48a69dda1177407074265ed787fc8eda"
   }
  }
 }

@@ -1,0 +1,66 @@
+{{Short description|none}}
+{{EngvarB|date=December 2023}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox election
+| election_name = September–October 2002 Serbian presidential election
+| country = Serbia
+| flag_year = 1991
+| type = presidential
+| ongoing = no
+| previous_election = 1997 Serbian presidential election
+| previous_year = 1997
+| next_election = December 2002 Serbian presidential election
+| next_year = {{nowrap|Dec 2002}}
+| election_date = 29 September 2002 (first round)<br />{{nowrap|13 October 2002 (second round)}}
+| turnout = 45.45% ({{decrease}} 5.49 [[percentage point|pp]])
+
+| image1 = Vojislav Koštunica 2004.jpg
+| candidate1 = '''[[Vojislav Koštunica]]'''
+| party1 = Democratic Party of Serbia
+| popular_vote1 = '''1,991,947'''
+| percentage1 = '''68.38%'''
+
+| image2 = Miroljub Labus in 2004 (cropped).jpg
+| candidate2 = [[Miroljub Labus]]
+| party2 = Independent
+| popular_vote2 = 921,094
+| percentage2 = 31.62%
+
+| title = President
+| before_election = [[Milan Milutinović]]
+| before_party = Socialist Party of Serbia
+| after_election = Election results annulled<br/>[[Milan Milutinović]] (acting)
+| after_party = Socialist Party of Serbia
+}}
+
+Presidential elections were held in the [[Serbia and Montenegro|Yugoslav]] province of [[Republic of Serbia (1992–2006)|Serbia]] on 29 September 2002, with a second round on 13 October.<ref>[http://www.rik.parlament.gov.rs/arhiva-izbori-za-predsednika-20021.php Elections for the President of the Republic, held on September 29 and October 13, 2002] RIK</ref> However, the result was invalidated because turnout in the second round was less than 50%. [[December 2002 Serbian presidential election|Fresh elections]] were held in December.
+
+== Results ==
+{{Election results
+|cand1=[[Vojislav Koštunica]]|party1=[[Democratic Party of Serbia]]|votes1=1123420|votes1_2=1991947
+|cand2=[[Miroljub Labus]]|party2=Citizens' Group: ''Best for Serbia – Miroljub Labus''|votes2=995200|votes2_2=921094|color2={{party color|Democratic Opposition of Serbia}}
+|cand3=[[Vojislav Šešelj]]|party3=[[Serbian Radical Party]]|votes3=845308
+|cand4=[[Vuk Drašković]]|party4=[[Serbian Renewal Movement]]|votes4=159959
+|cand5=[[Borislav Pelević]]|party5=[[Party of Serbian Unity]]|votes5=139047
+|cand6=[[Bata Živojinović]]|party6=[[Socialist Party of Serbia]]|votes6=119052
+|cand7=[[Nebojša Pavković]]|party7=Citizens' Group|votes7=75662
+|cand8=[[Branislav Ivković|Branislav-Bane Ivković]]|party8=Citizens' Group: ''Socialists for Return to the Basics''|votes8=42853|color8=red
+|cand9=[[Vuk Obradović]]|party9=[[Social Democracy (Serbia)|Social Democracy]]|votes9=26050
+|cand10=Tomislav Lalošević|party10=Citizens' Group|votes10=25133
+|cand11=[[Dragan Radenović]]|party11=Citizens' Group: ''Society of Free Citizens''|votes11=8280
+|invalid=74534|invalid2=65427
+|electorate=6553042|electorate2=6553042
+|source=[http://arhiva.rik.parlament.gov.rs/doc/arhiva/predsednik/2002%20I/cir/1.%20-%202002%20I%20preciscena%20lista%20kandidata.pdf RIK], [http://arhiva.rik.parlament.gov.rs/arhiva-izbori-za-predsednika-20021.php RIK]
+}}
+
+== References ==
+{{reflist}}
+
+{{Serbian elections}}
+[[Category:Elections in Serbia and Montenegro|2002 09]]
+[[Category:2002 elections in Europe|Serbia]]
+[[Category:Presidential elections in Serbia|2002 09]]
+[[Category:September 2002 in Europe|Serbia]]
+[[Category:October 2002 in Europe|Serbia]]
+[[Category:2000s elections in Serbia]]
+[[Category:2002 in Serbia]]

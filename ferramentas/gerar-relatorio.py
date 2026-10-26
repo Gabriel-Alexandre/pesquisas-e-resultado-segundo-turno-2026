@@ -14,7 +14,13 @@ RAIZ = Path(__file__).resolve().parent.parent
 RES = RAIZ / "resultados"
 R = json.loads((RES / "RESUMO.json").read_text(encoding="utf-8"))
 NOME_PAIS = {"Franca": "França", "Polonia": "Polônia", "Romenia": "Romênia", "Eslovaquia": "Eslováquia", "Colombia": "Colômbia",
-             "Bolivia": "Bolívia", "Equador": "Equador", "Uruguai": "Uruguai"}
+             "Bolivia": "Bolívia", "Equador": "Equador", "Uruguai": "Uruguai", "Lithuania": "Lituânia", "Czech Republic": "República Tcheca",
+             "Chile": "Chile", "Cyprus": "Chipre", "North Macedonia": "Macedônia do Norte", "Ukraine": "Ucrânia", "Montenegro": "Montenegro",
+             "Ecuador": "Equador", "Costa Rica": "Costa Rica", "Poland": "Polônia", "Croatia": "Croácia", "Romania": "Romênia",
+             "Finland": "Finlândia", "Bulgaria": "Bulgária", "France": "França", "Guatemala": "Guatemala", "Argentina": "Argentina",
+             "Serbia": "Sérvia", "Slovakia": "Eslováquia", "Slovenia": "Eslovênia", "Peru": "Peru", "Austria": "Áustria",
+             "Moldova": "Moldávia", "Uruguay": "Uruguai", "El Salvador": "El Salvador", "Haiti": "Haiti", "Portugal": "Portugal",
+             "Dominican Republic": "República Dominicana", "Bolivia ": "Bolívia"}
 
 
 def br(x: float, c: int = 1) -> str:
@@ -114,7 +120,8 @@ tab_outros = "\n".join(
     for x in outros.itertuples())
 tab_cres = "\n".join(f"| {x['padrao_de']} | {br(x['outros_para_pt_pct'], 0)}% e {br(x['outros_para_adversario_pct'], 0)}% | {br(x['branco_nulo_para_pt_pct'], 0)}% | {br(x['abstencao_para_pt_pct'], 1)}% e {br(x['abstencao_para_adversario_pct'], 1)}% | **{br(x['lula_pct'], 2)}%** |" for x in CR["por_padrao"])
 tab_ext = "\n".join(f"| {int(x.ano)} | {sinal(x.brasil_variacao)} | {sinal(x.exterior_variacao)} |" for x in ext.itertuples())
-tab_casos_faixa = "; ".join(f"{('governador ' + str(c.get('uf'))) if 'governador' in str(c.get('grupo')) else pais(str(c.get('pais')))} {int(c['ano'])} ({br(c['frente_1t'], 2)} ponto{'s' if c['frente_1t'] >= 2 else ''}{', virou' if c['virada'] else ''})" for c in HS["faixa_lista"])
+tab_casos_faixa = "; ".join(f"{pais(str(c.get('pais')))} {int(c['ano'])} ({br(c['frente_1t'], 2)} ponto{'s' if c['frente_1t'] >= 2 else ''}{', **virou**' if c['virada'] else ''})" for c in HS["faixa_lista"] if "outros" in str(c.get("grupo")))
+gov_faixa = [c for c in HS["faixa_lista"] if "governador" in str(c.get("grupo"))]
 grupos_hist = "\n".join(f"| {g} | {x['casos']} | {x['viradas']} | {x['perto_viradas']} em {x['perto_casos']} |" for g, x in HS["por_grupo"].items())
 if tp:
     tab_tp = "\n".join(f"| {nome} | {tp['por_grupo'][g]['institutos']} | {br(tp['por_grupo'][g]['lula_entre_os_dois'], 0)}% (de {br(tp['por_grupo'][g]['minimo'], 0)} a {br(tp['por_grupo'][g]['maximo'], 0)}) | {br(tr[(tr.origem_1t == g) & (tr.destino_2t == 'lula')].pct_da_origem.iloc[0] / (tr[(tr.origem_1t == g) & (tr.destino_2t.isin(['lula', 'flavio']))].pct_da_origem.sum()) * 100, 0)}% |"
@@ -203,7 +210,7 @@ Na base de {len(em)} segundos turnos presidenciais com pesquisas (Brasil e outro
 |---|---|---|---|
 {grupos_hist}
 
-Para presidente no Brasil, a regra "o líder do 1º turno vence" valia {reg['presidente_lider_1t_venceu']['acertos']} de {reg['presidente_lider_1t_venceu']['vezes']}, **mas nenhuma dessas 7 eleições teve uma frente pequena**: a menor era de {br(reg['presidente_lider_1t_venceu']['menor_frente_ate_2022'], 2)} pontos (2022), contra {br(v['frente_1t_pontos'], 2)} em 2026. A regra nunca tinha sido testada numa disputa apertada. Quando a frente é parecida com a do Flávio, o líder perdeu {HS['faixa_viradas']} de {HS['faixa_casos']} vezes.{mundo_txt} Disputas na faixa: {tab_casos_faixa}.
+Para presidente no Brasil, a regra "o líder do 1º turno vence" valia {reg['presidente_lider_1t_venceu']['acertos']} de {reg['presidente_lider_1t_venceu']['vezes']}, **mas nenhuma dessas 7 eleições teve uma frente pequena**: a menor era de {br(reg['presidente_lider_1t_venceu']['menor_frente_ate_2022'], 2)} pontos (2022), contra {br(v['frente_1t_pontos'], 2)} em 2026. A regra nunca tinha sido testada numa disputa apertada. Quando a frente é parecida com a do Flávio (até 1,5 ponto para mais ou para menos), o líder perdeu **{HS['faixa_viradas']} de {HS['faixa_casos']}** vezes: {sum(c['virada'] for c in gov_faixa)} de {len(gov_faixa)} em governador no Brasil e {HS['faixa_viradas'] - sum(c['virada'] for c in gov_faixa)} de {HS['faixa_casos'] - len(gov_faixa)} em presidente pelo mundo.{mundo_txt} Os de presidente: {tab_casos_faixa}. Base: `resultados/viradas_casos.csv` (2º turnos de outros países conferidos na Wikipédia, {int((casos.grupo == "presidente, outros países").sum())} válidos).
 
 **Minas:** quem venceu Minas no 1º turno venceu a eleição {reg['minas']['sum_1t']} de {reg['minas']['count_1t']} vezes (quebrou em 2026: Minas deu Flávio no 1º turno); quem venceu Minas no 2º turno venceu a eleição {reg['minas']['sum_2t']} de {reg['minas']['count_2t']} (valeu: Minas deu Lula). Minas acerta porque é parecida com o Brasil; numa eleição decidida por 1 a 2 pontos, um estado parecido com o país pode cair de qualquer lado.
 

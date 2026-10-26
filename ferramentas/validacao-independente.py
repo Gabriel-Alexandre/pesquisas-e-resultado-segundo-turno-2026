@@ -95,6 +95,10 @@ def main() -> None:
     conf("padrões passados em que o Lula venceria", sum(float(c["lula_pct"]) > 50 for c in cres), R["probabilidade_v2"]["crescimento"]["lula_venceria_em"], 0)
     W, pil = R["probabilidade_v2"]["pesos"], R["probabilidade_v2"]["pilares"]
     conf("chance combinada (soma dos pilares pelos pesos)", sum(W[k] * pil[k] for k in W), R["probabilidade_v2"]["combinada"])
+    casos = list(csv.DictReader(open(RAIZ / "resultados" / "viradas_casos.csv", encoding="utf-8")))
+    f1 = R["probabilidade_v2"]["frente_flavio_1t"]
+    faixa = [c for c in casos if abs(float(c["frente_1t"]) - f1) <= 1.5 and float(c["frente_1t"]) >= 0]
+    conf("viradas com frente parecida (faixa de 1,5 ponto)", sum(int(float(c["virada"])) for c in faixa), R["probabilidade_v2"]["historico"]["faixa_viradas"], 0)
     import pandas as pd
     v = pd.read_parquet(RAIZ / "dados" / "copias" / "previsao-segundo-turno-2026" / "mun_votos.parquet")
     a6 = v[(v.ano == 2006) & ~v.uf.isin(["ZZ", "VT"])]

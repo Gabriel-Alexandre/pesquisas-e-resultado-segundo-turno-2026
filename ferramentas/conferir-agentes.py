@@ -69,6 +69,31 @@ def texto(url: str) -> str:
     return t
 
 
+def renderizada(url: str) -> str:
+    """O texto da página como o leitor vê (a Wikipédia calcula porcentagens por predefinição na hora de exibir)."""
+    u = urlparse(url)
+    if "wikipedia.org" not in u.netloc:
+        return ""
+    nome = hashlib.sha1(("render:" + url).encode()).hexdigest()[:16]
+    arq = CAP / f"{nome}.txt"
+    if arq.exists():
+        return arq.read_text(encoding="utf-8")
+    for tentativa in range(4):
+        try:
+            r = requests.get(f"https://{u.netloc}/w/api.php", params={"action": "parse", "page": unquote(u.path[6:]), "prop": "text|revid",
+                                                                       "format": "json", "redirects": 1}, headers=UA, timeout=90).json()
+            h = r["parse"]["text"]["*"]
+            t = html.unescape(re.sub(r"<[^>]+>", " ", re.sub(r"<style.*?</style>", " ", h, flags=re.S)))
+            CAP.mkdir(parents=True, exist_ok=True)
+            arq.write_text(t, encoding="utf-8")
+            registrar_arquivo(arq, url, f"texto da página renderizada; revid {r['parse'].get('revid', '')}")
+            time.sleep(0.5)
+            return t
+        except Exception:
+            time.sleep(4 * (tentativa + 1))
+    return ""
+
+
 def formas(x: float) -> list[str]:
     s = []
     for casas in (2, 1):
@@ -97,6 +122,9 @@ def conferir(arq: str, cols: list[str], url_col: str, saida: str) -> None:
     for r in d.itertuples(index=False):
         t = texto(getattr(r, url_col))
         miss = [c for c in cols if not achou(t, getattr(r, c))] if t else ["(página não abriu)"]
+        if miss:
+            t2 = t + " " + renderizada(getattr(r, url_col))
+            miss = [c for c in cols if not achou(t2, getattr(r, c))]
         ok.append(not miss)
         falta.append(";".join(miss))
     d["conferida"] = ok

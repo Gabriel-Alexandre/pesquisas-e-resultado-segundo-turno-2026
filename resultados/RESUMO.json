@@ -2148,17 +2148,44 @@
    }
   },
   "historico": {
-   "casos": 99,
-   "viradas": 25,
-   "logistica_a": 0.2643263335895436,
-   "logistica_b": -0.16630360716048376,
-   "logistica": 0.48854434681903175,
-   "perto_casos": 18,
-   "perto_viradas": 10,
-   "perto": 0.5555555555555556,
-   "faixa_casos": 17,
-   "faixa_viradas": 8,
+   "casos": 241,
+   "viradas": 74,
+   "logistica_a": 0.2990718913090644,
+   "logistica_b": -0.1324170573240162,
+   "logistica": 0.5130254249224698,
+   "perto_casos": 50,
+   "perto_viradas": 24,
+   "perto": 0.48,
+   "faixa_casos": 49,
+   "faixa_viradas": 23,
    "faixa_lista": [
+    {
+     "frente_1t": 0.370000000000001,
+     "lider_1t_pct": 31.53,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Lithuania",
+     "ano": 2019,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.4099999999999966,
+     "lider_1t_pct": 35.4,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Czech Republic",
+     "ano": 2023,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.4100000000000037,
+     "lider_1t_pct": 34.78,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Colombia",
+     "ano": 1998,
+     "uf": NaN
+    },
     {
      "frente_1t": 0.44,
      "lider_1t_pct": 49.74,
@@ -2178,6 +2205,33 @@
      "uf": "RO"
     },
     {
+     "frente_1t": 0.45000000000000284,
+     "lider_1t_pct": 47.96,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Chile",
+     "ano": 1999,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.5499999999999972,
+     "lider_1t_pct": 40.61,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Cyprus",
+     "ano": 1998,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.5900000000000034,
+     "lider_1t_pct": 44.75,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "North Macedonia",
+     "ano": 2019,
+     "uf": NaN
+    },
+    {
      "frente_1t": 0.6,
      "lider_1t_pct": 49.25,
      "virada": 1,
@@ -2185,6 +2239,51 @@
      "pais": "Brasil",
      "ano": 2002,
      "uf": "RR"
+    },
+    {
+     "frente_1t": 0.6600000000000037,
+     "lider_1t_pct": 41.13,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Ukraine",
+     "ano": 2004,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.7399999999999949,
+     "lider_1t_pct": 48.16,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Montenegro",
+     "ano": 1997,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.8099999999999987,
+     "lider_1t_pct": 24.22,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Czech Republic",
+     "ano": 2013,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.8900000000000006,
+     "lider_1t_pct": 27.17,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Ecuador",
+     "ano": 1996,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.9299999999999997,
+     "lider_1t_pct": 30.64,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Costa Rica",
+     "ano": 2014,
+     "uf": NaN
     },
     {
      "frente_1t": 0.93,
@@ -2205,6 +2304,15 @@
      "uf": "RN"
     },
     {
+     "frente_1t": 0.9899999999999949,
+     "lider_1t_pct": 34.76,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Poland",
+     "ano": 2015,
+     "uf": NaN
+    },
+    {
      "frente_1t": 0.99,
      "lider_1t_pct": 33.73,
      "virada": 0,
@@ -2223,6 +2331,24 @@
      "uf": "PA"
     },
     {
+     "frente_1t": 1.2700000000000031,
+     "lider_1t_pct": 39.09,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Croatia",
+     "ano": 2014,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.3000000000000043,
+     "lider_1t_pct": 32.45,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Romania",
+     "ano": 2009,
+     "uf": NaN
+    },
+    {
      "frente_1t": 1.38,
      "lider_1t_pct": 49.02,
      "virada": 1,
@@ -2230,15 +2356,6 @@
      "pais": "Brasil",
      "ano": 2014,
      "uf": "PA"
-    },
-    {
-     "frente_1t": 1.4,
-     "lider_1t_pct": 31.12,
-     "virada": 1,
-     "grupo": "Brasil governador",
-     "pais": "Brasil",
-     "ano": 2018,
-     "uf": "SC"
     },
     {
      "frente_1t": 1.4,
@@ -2251,12 +2368,48 @@
     },
     {
      "frente_1t": 1.4,
+     "lider_1t_pct": 31.12,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2018,
+     "uf": "SC"
+    },
+    {
+     "frente_1t": 1.4,
      "lider_1t_pct": 47.81,
      "virada": 0,
      "grupo": "Brasil governador",
      "pais": "Brasil",
      "ano": 2014,
      "uf": "CE"
+    },
+    {
+     "frente_1t": 1.4100000000000001,
+     "lider_1t_pct": 27.21,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Finland",
+     "ano": 2024,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.4399999999999977,
+     "lider_1t_pct": 36.39,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Bulgaria",
+     "ano": 2001,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.4499999999999993,
+     "lider_1t_pct": 28.63,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "France",
+     "ano": 2012,
+     "uf": NaN
     },
     {
      "frente_1t": 1.55,
@@ -2268,6 +2421,24 @@
      "uf": "MS"
     },
     {
+     "frente_1t": 1.5799999999999983,
+     "lider_1t_pct": 25.72,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Guatemala",
+     "ano": 1990,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.8200000000000003,
+     "lider_1t_pct": 31.36,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Poland",
+     "ano": 2025,
+     "uf": NaN
+    },
+    {
      "frente_1t": 1.84,
      "lider_1t_pct": 38.88,
      "virada": 0,
@@ -2277,6 +2448,24 @@
      "uf": "RO"
     },
     {
+     "frente_1t": 2.0,
+     "lider_1t_pct": 35.11,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Poland",
+     "ano": 1995,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.09,
+     "lider_1t_pct": 27.91,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Chile",
+     "ano": 2021,
+     "uf": NaN
+    },
+    {
      "frente_1t": 2.11,
      "lider_1t_pct": 42.98,
      "virada": 0,
@@ -2284,6 +2473,24 @@
      "pais": "Brasil",
      "ano": 2002,
      "uf": "DF"
+    },
+    {
+     "frente_1t": 2.4499999999999993,
+     "lider_1t_pct": 32.04,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Cyprus",
+     "ano": 2023,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.460000000000001,
+     "lider_1t_pct": 23.3,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "France",
+     "ano": 1995,
+     "uf": NaN
     },
     {
      "frente_1t": 2.47,
@@ -2304,6 +2511,60 @@
      "uf": "RR"
     },
     {
+     "frente_1t": 2.710000000000001,
+     "lider_1t_pct": 24.01,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "France",
+     "ano": 2017,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.8500000000000014,
+     "lider_1t_pct": 43.75,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Colombia",
+     "ano": 2026,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.9200000000000017,
+     "lider_1t_pct": 26.85,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Chile",
+     "ano": 2025,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.9299999999999997,
+     "lider_1t_pct": 37.08,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Argentina",
+     "ano": 2015,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.9299999999999997,
+     "lider_1t_pct": 29.91,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Croatia",
+     "ano": 2019,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 3.0199999999999996,
+     "lider_1t_pct": 19.88,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "France",
+     "ano": 2002,
+     "uf": NaN
+    },
+    {
      "frente_1t": 3.22,
      "lider_1t_pct": 46.59,
      "virada": 0,
@@ -2311,6 +2572,33 @@
      "pais": "Brasil",
      "ano": 1994,
      "uf": "PB"
+    },
+    {
+     "frente_1t": 3.229999999999997,
+     "lider_1t_pct": 36.33,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Poland",
+     "ano": 2005,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 3.2699999999999996,
+     "lider_1t_pct": 30.97,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Serbia",
+     "ano": 2004,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 3.3599999999999994,
+     "lider_1t_pct": 24.99,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Costa Rica",
+     "ano": 2018,
+     "uf": NaN
     }
    ],
    "por_grupo": {
@@ -2325,6 +2613,12 @@
      "viradas": 0,
      "perto_casos": 0,
      "perto_viradas": 0
+    },
+    "presidente, outros países": {
+     "casos": 142,
+     "viradas": 49,
+     "perto_casos": 32,
+     "perto_viradas": 14
     }
    }
   },
@@ -2393,7 +2687,7 @@
   },
   "pilares": {
    "pesquisas": 0.375,
-   "historico": 0.47058823529411764,
+   "historico": 0.46938775510204084,
    "crescimento": 0.3333333333333333
   },
   "pilares_resultado_igual_ou_maior": {
@@ -2401,22 +2695,22 @@
    "historico": null,
    "crescimento": 0.0
   },
-  "combinada": 0.3926470588235294,
+  "combinada": 0.3923469387755102,
   "mercado": 0.235,
   "sensibilidade": {
-   "pesos do vídeo 14 (60, 25, 15)": 0.3926470588235294,
-   "pesos iguais": 0.3929738562091503,
+   "pesos do vídeo 14 (60, 25, 15)": 0.3923469387755102,
+   "pesos iguais": 0.3925736961451247,
    "só pesquisas": 0.375,
-   "60, 25, 15 com o mercado no lugar do crescimento": 0.3778970588235294,
-   "pesquisas só do presidente no Brasil": 0.3650956805808933,
+   "60, 25, 15 com o mercado no lugar do crescimento": 0.3775969387755102,
+   "pesquisas só do presidente no Brasil": 0.36479556053287415,
    "histórico só do presidente no Brasil (Laplace)": 0.30277777777777776,
-   "pesquisas corrigidas pelo viés do Brasil (presidente, 2002 a 2022)": 0.5301561581158234
+   "pesquisas corrigidas pelo viés do Brasil (presidente, 2002 a 2022)": 0.5298560380678042
   },
   "soma_ingenua": {
    "produto_ingenuo": 0.0009791666666666666,
    "um_em_ingenuo": 1021.2765957446809,
-   "probabilidade_correta": 0.3926470588235294,
-   "um_em_correta": 2.546816479400749,
+   "probabilidade_correta": 0.3923469387755102,
+   "um_em_correta": 2.548764629388817,
    "componentes": {
     "pesquisas": 0.375,
     "historico": 0.1111111111111111,

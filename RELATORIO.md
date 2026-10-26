@@ -13,10 +13,10 @@ Três pilares, cada um medindo a chance de um jeito diferente, com **os pesos qu
 | Pilar | Peso | O que mede | O que o histórico mostra | Chance do Lula |
 |---|---|---|---|---|
 | **Pesquisas** | 60% | a frente do Flávio na média da última pesquisa de cada instituto (1,61 pontos) contra o erro da média das pesquisas em 80 segundos turnos passados | em 30 dos 80, a média das pesquisas superestimou o líder por mais do que essa frente | **38%** |
-| **Histórico de viradas** | 25% | com que frequência o líder do 1º turno perdeu o 2º, quando a frente era parecida com a do Flávio (1,87 pontos; faixa de 1,5 ponto para cada lado) | 8 viradas em 17 disputas | **47%** |
+| **Histórico de viradas** | 25% | com que frequência o líder do 1º turno perdeu o 2º, quando a frente era parecida com a do Flávio (1,87 pontos; faixa de 1,5 ponto para cada lado) | 23 viradas em 49 disputas | **47%** |
 | **Crescimento** | 15% | o 1º turno de 2026 com os votos livres (outros candidatos, branco e nulo, abstenção) indo como foram em cada 2º turno de 2002 a 2022 | o Lula venceria em 2 dos 6 padrões | **33%** |
 
-**Conta:** 0,60 × 38% + 0,25 × 47% + 0,15 × 33% = **39,3%**.
+**Conta:** 0,60 × 38% + 0,25 × 47% + 0,15 × 33% = **39,2%**.
 
 **Conferência pelo mercado:** a Polymarket dava 23,5% ao Lula no preço diário da véspera (série do projeto do vídeo 16; a imprensa registrou 79,6% para o Flávio na manhã da eleição). Nos 45 mercados de eleição em que o favorito tinha de 70% a 90%, o favorito perdeu 6. A mesma Polymarket deu o Lula como favorito no 1º turno (72%) e errou.
 
@@ -28,7 +28,7 @@ Três pilares, cada um medindo a chance de um jeito diferente, com **os pesos qu
 | pesos iguais | 39% | 1 em 2,5 |
 | só pesquisas | 38% | 1 em 2,7 |
 | 60, 25, 15 com o mercado no lugar do crescimento | 38% | 1 em 2,6 |
-| pesquisas só do presidente no Brasil | 37% | 1 em 2,7 |
+| pesquisas só do presidente no Brasil | 36% | 1 em 2,7 |
 | histórico só do presidente no Brasil (Laplace) | 30% | 1 em 3,3 |
 | pesquisas corrigidas pelo viés do Brasil (presidente, 2002 a 2022) | 53% | 1 em 1,9 |
 
@@ -93,8 +93,9 @@ Na base de 41 segundos turnos presidenciais com pesquisas (Brasil e outros 35 no
 |---|---|---|---|
 | Brasil governador | 92 | 25 | 10 em 18 |
 | Brasil presidente | 7 | 0 | 0 em 0 |
+| presidente, outros países | 142 | 49 | 14 em 32 |
 
-Para presidente no Brasil, a regra "o líder do 1º turno vence" valia 7 de 7, **mas nenhuma dessas 7 eleições teve uma frente pequena**: a menor era de 5,23 pontos (2022), contra 1,87 em 2026. A regra nunca tinha sido testada numa disputa apertada. Quando a frente é parecida com a do Flávio, o líder perdeu 8 de 17 vezes. Disputas na faixa: governador PB 2010 (0,44 ponto); governador RO 2014 (0,44 ponto); governador RR 2002 (0,60 ponto, virou); governador PB 2006 (0,93 ponto); governador RN 2006 (0,97 ponto); governador AM 2018 (0,99 ponto); governador PA 1994 (1,00 ponto, virou); governador PA 2014 (1,38 ponto, virou); governador SC 2018 (1,40 ponto, virou); governador PB 2014 (1,40 ponto, virou); governador CE 2014 (1,40 ponto); governador MS 2022 (1,55 ponto, virou); governador RO 2022 (1,84 ponto); governador DF 2002 (2,11 pontos); governador DF 1994 (2,47 pontos, virou); governador RR 2010 (2,58 pontos, virou); governador PB 1994 (3,22 pontos).
+Para presidente no Brasil, a regra "o líder do 1º turno vence" valia 7 de 7, **mas nenhuma dessas 7 eleições teve uma frente pequena**: a menor era de 5,23 pontos (2022), contra 1,87 em 2026. A regra nunca tinha sido testada numa disputa apertada. Quando a frente é parecida com a do Flávio (até 1,5 ponto para mais ou para menos), o líder perdeu **23 de 49** vezes: 8 de 17 em governador no Brasil e 15 de 32 em presidente pelo mundo. Em outros países, 49 viradas em 142 segundos turnos presidenciais. Os de presidente: Lituânia 2019 (0,37 ponto, **virou**); República Tcheca 2023 (0,41 ponto); Colômbia 1998 (0,41 ponto, **virou**); Chile 1999 (0,45 ponto); Chipre 1998 (0,55 ponto, **virou**); Macedônia do Norte 2019 (0,59 ponto); Ucrânia 2004 (0,66 ponto); Montenegro 1997 (0,74 ponto, **virou**); República Tcheca 2013 (0,81 ponto); Equador 1996 (0,89 ponto, **virou**); Costa Rica 2014 (0,93 ponto); Polônia 2015 (0,99 ponto); Croácia 2014 (1,27 ponto, **virou**); Romênia 2009 (1,30 ponto); Finlândia 2024 (1,41 ponto); Bulgária 2001 (1,44 ponto); França 2012 (1,45 ponto); Guatemala 1990 (1,58 ponto, **virou**); Polônia 2025 (1,82 ponto, **virou**); Polônia 1995 (2,00 pontos); Chile 2021 (2,09 pontos, **virou**); Chipre 2023 (2,45 pontos); França 1995 (2,46 pontos, **virou**); França 2017 (2,71 pontos); Colômbia 2026 (2,85 pontos); Chile 2025 (2,92 pontos, **virou**); Argentina 2015 (2,93 pontos, **virou**); Croácia 2019 (2,93 pontos); França 2002 (3,02 pontos); Polônia 2005 (3,23 pontos, **virou**); Sérvia 2004 (3,27 pontos, **virou**); Costa Rica 2018 (3,36 pontos, **virou**). Base: `resultados/viradas_casos.csv` (2º turnos de outros países conferidos na Wikipédia, 142 válidos).
 
 **Minas:** quem venceu Minas no 1º turno venceu a eleição 8 de 8 vezes (quebrou em 2026: Minas deu Flávio no 1º turno); quem venceu Minas no 2º turno venceu a eleição 6 de 6 (valeu: Minas deu Lula). Minas acerta porque é parecida com o Brasil; numa eleição decidida por 1 a 2 pontos, um estado parecido com o país pode cair de qualquer lado.
 
@@ -172,7 +173,7 @@ O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/al
 | Alegação (versão mais forte) | O que precisaria aparecer no dado | O que o dado mostra | Régua de 2002 a 2022 |
 |---|---|---|---|
 | **(a) As pesquisas e o mercado erraram demais** | erro fora da distribuição histórica | erro de 5,2 pontos na frente: o 2º maior do Brasil, mas superado em 10 de 41 segundos turnos | o lado do erro (mais à direita no 2º turno) é o mesmo de 2014 e 2018 |
-| **(b) Nunca houve virada; Minas sempre acerta** | regra que vale também com frente pequena | as 7 eleições de presidente nunca tiveram frente pequena; com frente parecida, o líder perdeu 8 de 17 | Minas no 2º turno acertou de novo |
+| **(b) Nunca houve virada; Minas sempre acerta** | regra que vale também com frente pequena | as 7 eleições de presidente nunca tiveram frente pequena; com frente parecida, o líder perdeu 23 de 49 | Minas no 2º turno acertou de novo |
 | **(c) A abstenção caiu demais, "surgiram" votos** | eleitor novo indo quase todo para um lado; queda concentrada onde o Lula é forte | onde o comparecimento subiu, o eleitor a mais se dividiu 51% para o Lula e 45% para o Flávio; a queda da abstenção quase não acompanha a força do Lula (correlação -0,06) | queda entre os turnos inédita; o nível do 2º turno é parecido com o de 2006 |
 | **(c) Votos sem origem** | ganho que não cabe no que estava livre no município | 15.636 votos do Lula em 291 municípios (0,36% da frente); Flávio 228 | em 2006, numa eleição sem contestação, o PT teve 988.514 (4,8% da frente) |
 | **(d) A prorrogação até 19h decidiu** | votos depois das 17h da ordem da frente | sem nenhum voto do Lula em Salvador, Feira de Santana e Lauro de Freitas, ele ainda venceria por 2,95 milhões. Os logs contados por terceiros dão 35.521 votos depois das 17h no país (g1/TV Globo) | a campanha do Flávio também pediu prorrogação (SP, PR e SC) |
@@ -206,4 +207,4 @@ O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/al
 
 ## 10. Validação
 
-16 de 16 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.
+17 de 17 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.
