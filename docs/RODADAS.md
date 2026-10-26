@@ -44,6 +44,10 @@ Pedido dele: *"transcrever cada um e avaliar se eles fazem sentido dado tudo que
 
 O que entrou: a análise afirmação por afirmação em `docs/VIDEOS_QUE_CIRCULARAM.md`; a conta dos 60% refeita; os municípios em que o comparecimento caiu (onde ninguém novo votou, no saldo) de 2002 a 2026; os municípios em 5 grupos pela mudança do comparecimento (gráfico g26); a divisão simples entre os votos dos outros e os novos em todos os anos; e o aviso de que duas contas simples do projeto discordam sobre quem voltou a votar. Validação: mais 2 contas refeitas (24 de 24).
 
+## Rodada 7 · 26/10/2026 (o espalhamento contra a série, e o Bolsa Família nas pesquisas)
+
+Pelo retorno dele ao roteiro: se é normal o Lula ganhar mais votos que o Flávio em tantos municípios e até no Sul, e se o Bolsa Família, tendo efeito grande, já não apareceria nas pesquisas. Entrou: em quantos municípios o PT ganhou mais votos que o adversário em cada eleição e a parte do PT no ganho por região (2026 só perde para 2006), e a mesma empresa de pesquisa antes e depois de 19/10 (o Lula subiu 0,25 ponto em média em 13 institutos).
+
 ### Registro da interrupção
 
 Pedido dele: a rodada 1 ficou superficial; faltou contexto histórico (as pesquisas já erraram tanto?), a probabilidade explicada com pesos e o porquê, e mais suposições testadas na lente da fraude.

@@ -261,3 +261,40 @@ def simulacao_com_as_taxas_de_um_ano(p: pd.DataFrame, ano_base: int, desvio: flo
         ganha += ls > fs
     return {"ano_base": int(ano_base), "lula_pct": float(100 * lula / (lula + flavio)), "lula_venceu_em": int(ganha),
             "simulacoes": int(n), "desvio_do_fator": desvio}
+
+
+# ------------------------------------------------------------------ 5. rodada 7: o espalhamento contra a série, e as pesquisas antes e depois do pagamento
+def quem_ganhou_mais_por_ano(p: pd.DataFrame) -> pd.DataFrame:
+    """Por eleição: em quantos municípios o PT ganhou mais votos que o adversário do 1º para o 2º turno, e, por região,
+    a parte do PT no que os dois ganharam."""
+    from .comum import REGIAO
+    out = []
+    for ano, v in p.groupby("ano"):
+        gl, gf = v.pt2 - v.pt1, v.anti2 - v.anti1
+        r = {"ano": int(ano), "pt_ganhou_mais_votos_em_pct": float(100 * np.mean(gl > gf)),
+             "pt_ganhou_mais_votos_em": int((gl > gf).sum()), "municipios": int(len(v))}
+        reg = v.uf.str.lower().map(REGIAO)
+        for nome, x in v.groupby(reg):
+            a, b = (x.pt2 - x.pt1).sum(), (x.anti2 - x.anti1).sum()
+            r[f"parte_do_pt_{nome}"] = float(100 * a / (a + b))
+        out.append(r)
+    return pd.DataFrame(out)
+
+
+def pesquisas_antes_e_depois(pesq: pd.DataFrame, dia: str = "2026-10-19") -> dict:
+    """Se o pagamento do Bolsa Família (19, 20 e 21/10) tivesse virado votos em escala, as pesquisas de campo depois
+    dele mostrariam: a mesma empresa, antes e depois."""
+    c = pesq[pesq.conferida == True].copy()  # noqa: E712
+    c["ini"] = pd.to_datetime(c.campo_ini, format="mixed")
+    c["fim"] = pd.to_datetime(c.campo_fim, format="mixed")
+    c["lula"] = 100 * c.lula_total / (c.lula_total + c.flavio_total)
+    pares = []
+    for inst, g in c.groupby("instituto"):
+        a = g[g.fim < dia].sort_values("fim").tail(1)
+        d = g[g.ini >= dia].sort_values("fim").tail(1)
+        if len(a) and len(d):
+            pares.append({"instituto": inst, "antes": float(a.lula.iloc[0]), "depois": float(d.lula.iloc[0])})
+    pr = pd.DataFrame(pares)
+    return {"institutos": int(len(pr)), "variacao_media": float((pr.depois - pr.antes).mean()),
+            "media_antes": float(c[c.fim < dia].lula.mean()), "media_depois": float(c[c.ini >= dia].lula.mean()),
+            "pares": pr.round(2).to_dict("records")}

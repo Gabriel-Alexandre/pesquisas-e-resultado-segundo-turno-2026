@@ -74,6 +74,24 @@ A conta da rodada 2 tinha três defeitos. Dois puxavam a chance para cima, e um 
 
 **Veredito:** a chance era **menor do que a rodada 2 disse: cerca de 27%, perto de 1 em 4**, com ponta de baixo de 8% e o mercado em 24%. Abaixo de 1 em 12,0 ela não vai por nenhum dos caminhos calculados aqui: com a frente de 1,6 ponto nas pesquisas, basta um erro de 2º turno do tamanho que já aconteceu muitas vezes. Ganhar por 3,6 pontos ou mais era mais raro: 13% (1 em 7,6).
 
+## Rodada 7: o Lula ganhar mais votos que o Flávio em quase todo lugar, e o Bolsa Família nas pesquisas
+
+**É normal o candidato do PT ganhar mais votos que o adversário em tantos municípios, e até no Sul?**
+
+| Eleição | Municípios em que o PT ganhou mais votos que o adversário | Parte do PT no que os dois ganharam: Sul | Sudeste | Centro-Oeste | Nordeste | Norte |
+|---|---|---|---|---|---|---|
+| 2002 | 1.736 (31%) | 42% | 54% | 46% | 48% | 40% |
+| 2006 | 5.496 (99%) | 121% | 115% | 172% | 140% | 177% |
+| 2010 | 1.695 (30%) | 25% | 44% | 39% | 54% | 37% |
+| 2014 | 1.477 (27%) | 30% | 41% | 37% | 50% | 23% |
+| 2018 | 3.893 (70%) | 54% | 59% | 61% | 81% | 61% |
+| 2022 | 715 (13%) | 18% | 33% | 25% | 40% | 8% |
+| 2026 | 5.228 (94%) | 61% | 71% | 62% | 88% | 97% |
+
+Em 2026 o Lula ganhou mais votos que o Flávio em **5.228 municípios (94%)**; só 2006 teve mais (99%), e em 2022 foram 13%. **No Sul**, o Lula levou 61% do que os dois ganharam; fora 2006, o PT nunca tinha passado de 54% ali. **Veredito: fora do padrão, e é a mesma coisa da rodada 5 vista no mapa:** em 2006, o único ano parecido, quem saiu era da esquerda e o adversário perdeu votos; em 2026, quem saiu apoiou o Flávio.
+
+**Se o Bolsa Família tivesse virado votos em escala, as pesquisas de depois do pagamento mostrariam?** O pagamento de outubro foi em 19, 20 e 21/10. Nos 13 institutos com pesquisa antes e depois de 19/10, o Lula subiu em média +0,25 ponto dos válidos (média de 48,7% antes e 49,1% depois). A urna deu 51,8%. O que as pesquisas captaram depois do pagamento é uma fração pequena do que faltou; a virada que elas não viram não aparece nelas como efeito do pagamento. Limite: pesquisa de campo até 24/10 pode não pegar um efeito dos últimos dias.
+
 ## Rodada 6: os vídeos que circularam depois do resultado
 
 O autor mandou 6 vídeos que circularam nas redes (Tarcísio de Freitas, Nikolas Ferreira e 4 criadores no TikTok) e pediu para ver se eles batem com este projeto ou trazem um ponto que faltava. A análise afirmação por afirmação está em [`docs/VIDEOS_QUE_CIRCULARAM.md`](docs/VIDEOS_QUE_CIRCULARAM.md). O principal:
@@ -401,4 +419,4 @@ O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/al
 
 ## 10. Validação
 
-24 de 24 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.
+25 de 25 números centrais refeitos por outro caminho (`ferramentas/validacao-independente.py`). Os números trazidos pelas pesquisas de apoio só entram depois de conferidos na página de origem por `ferramentas/conferir-agentes.py` (texto guardado em `dados/brutos/capturas/agentes/`). Totais por UF e por município fecham com diferença zero.

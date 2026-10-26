@@ -143,6 +143,10 @@ def main() -> None:
     cai = m26[m26.abstencao_2t >= m26.abstencao_1t]
     sn26 = [x for x in R["videos"]["sem_novos"] if x["ano"] == 2026][0]
     conf("onde o comparecimento caiu: o Lula ganhou (votos)", float((cai.lula_2t - cai.lula_1t).sum()), sn26["pt_ganhou"], 1)
+    # rodada 7: municípios em que o Lula ganhou mais votos que o Flávio, pelo CSV
+    q26 = [x for x in R["rodada7"]["quem_ganhou_mais"] if x["ano"] == 2026][0]
+    conf("municípios em que o Lula ganhou mais votos que o Flávio", float(((m26.lula_2t - m26.lula_1t) > (m26.flavio_2t - m26.flavio_1t)).sum()),
+         q26["pt_ganhou_mais_votos_em"], 0)
     out = RAIZ / "resultados" / "validacao_independente.csv"
     with open(out, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)

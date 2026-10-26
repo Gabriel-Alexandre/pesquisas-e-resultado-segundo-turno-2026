@@ -4756,5 +4756,159 @@
     "desvio_do_fator": 0.2
    }
   ]
+ },
+ "rodada7": {
+  "quem_ganhou_mais": [
+   {
+    "ano": 2002,
+    "pt_ganhou_mais_votos_em_pct": 31.19496855345912,
+    "pt_ganhou_mais_votos_em": 1736,
+    "municipios": 5565,
+    "parte_do_pt_Centro-Oeste": 45.86760152341274,
+    "parte_do_pt_Nordeste": 47.581184253940364,
+    "parte_do_pt_Norte": 40.18732075758012,
+    "parte_do_pt_Sudeste": 54.07602392750814,
+    "parte_do_pt_Sul": 41.54582543762772
+   },
+   {
+    "ano": 2006,
+    "pt_ganhou_mais_votos_em_pct": 98.7601078167116,
+    "pt_ganhou_mais_votos_em": 5496,
+    "municipios": 5565,
+    "parte_do_pt_Centro-Oeste": 171.7914770542238,
+    "parte_do_pt_Nordeste": 140.0136820767887,
+    "parte_do_pt_Norte": 176.9075708246623,
+    "parte_do_pt_Sudeste": 115.40623656171215,
+    "parte_do_pt_Sul": 121.35258254580111
+   },
+   {
+    "ano": 2010,
+    "pt_ganhou_mais_votos_em_pct": 30.447278606071492,
+    "pt_ganhou_mais_votos_em": 1695,
+    "municipios": 5567,
+    "parte_do_pt_Centro-Oeste": 39.288826747604986,
+    "parte_do_pt_Nordeste": 53.55394237093934,
+    "parte_do_pt_Norte": 37.05509838139834,
+    "parte_do_pt_Sudeste": 43.913567278239874,
+    "parte_do_pt_Sul": 25.122748348286446
+   },
+   {
+    "ano": 2014,
+    "pt_ganhou_mais_votos_em_pct": 26.51705565529623,
+    "pt_ganhou_mais_votos_em": 1477,
+    "municipios": 5570,
+    "parte_do_pt_Centro-Oeste": 37.368037330895966,
+    "parte_do_pt_Nordeste": 50.224256390276594,
+    "parte_do_pt_Norte": 23.211405923925433,
+    "parte_do_pt_Sudeste": 40.79132160068109,
+    "parte_do_pt_Sul": 30.208209066381972
+   },
+   {
+    "ano": 2018,
+    "pt_ganhou_mais_votos_em_pct": 69.89228007181329,
+    "pt_ganhou_mais_votos_em": 3893,
+    "municipios": 5570,
+    "parte_do_pt_Centro-Oeste": 61.07522197593819,
+    "parte_do_pt_Nordeste": 80.6257417684891,
+    "parte_do_pt_Norte": 61.21457016191047,
+    "parte_do_pt_Sudeste": 59.036626222044546,
+    "parte_do_pt_Sul": 53.6810527819762
+   },
+   {
+    "ano": 2022,
+    "pt_ganhou_mais_votos_em_pct": 12.836624775583482,
+    "pt_ganhou_mais_votos_em": 715,
+    "municipios": 5570,
+    "parte_do_pt_Centro-Oeste": 24.63219835024225,
+    "parte_do_pt_Nordeste": 39.942555894841114,
+    "parte_do_pt_Norte": 8.430432452683444,
+    "parte_do_pt_Sudeste": 32.95846506066727,
+    "parte_do_pt_Sul": 17.99007955837957
+   },
+   {
+    "ano": 2026,
+    "pt_ganhou_mais_votos_em_pct": 93.84311613713875,
+    "pt_ganhou_mais_votos_em": 5228,
+    "municipios": 5571,
+    "parte_do_pt_Centro-Oeste": 62.10196188372417,
+    "parte_do_pt_Nordeste": 88.13926242489066,
+    "parte_do_pt_Norte": 97.10940028762595,
+    "parte_do_pt_Sudeste": 71.1663880745268,
+    "parte_do_pt_Sul": 60.59517428467383
+   }
+  ],
+  "pesquisas_antes_e_depois": {
+   "institutos": 13,
+   "variacao_media": 0.25128228636639816,
+   "media_antes": 48.70411795415056,
+   "media_depois": 49.11789168601616,
+   "pares": [
+    {
+     "instituto": "DataTrends",
+     "antes": 48.42,
+     "depois": 47.92
+    },
+    {
+     "instituto": "Datafolha",
+     "antes": 48.91,
+     "depois": 49.47
+    },
+    {
+     "instituto": "Futura",
+     "antes": 49.58,
+     "depois": 49.84
+    },
+    {
+     "instituto": "Gerp",
+     "antes": 47.37,
+     "depois": 48.42
+    },
+    {
+     "instituto": "Indexa",
+     "antes": 48.84,
+     "depois": 49.38
+    },
+    {
+     "instituto": "Ipespe",
+     "antes": 48.94,
+     "depois": 49.47
+    },
+    {
+     "instituto": "MDA",
+     "antes": 49.51,
+     "depois": 49.29
+    },
+    {
+     "instituto": "Nexus",
+     "antes": 49.68,
+     "depois": 49.46
+    },
+    {
+     "instituto": "Palver",
+     "antes": 49.49,
+     "depois": 49.49
+    },
+    {
+     "instituto": "PoderData",
+     "antes": 48.42,
+     "depois": 49.48
+    },
+    {
+     "instituto": "Quaest",
+     "antes": 48.89,
+     "depois": 49.45
+    },
+    {
+     "instituto": "Verita",
+     "antes": 48.97,
+     "depois": 48.98
+    },
+    {
+     "instituto": "Vox Brasil",
+     "antes": 50.99,
+     "depois": 50.61
+    }
+   ]
+  }
  }
 }

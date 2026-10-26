@@ -184,6 +184,11 @@ def main() -> None:
     resumo["videos"] = {"conta_dos_60": NO.conta_dos_60_por_cento(r["variacao"]), "faixas": faixas.to_dict("records"),
                         "divisao": divisao.to_dict("records"), "sem_novos": sem_novos.to_dict("records"),
                         "simulacao_por_ano": [NO.simulacao_com_as_taxas_de_um_ano(painel, a) for a in (2002, 2006, 2010, 2014, 2018, 2022)]}
+    # rodada 7: o espalhamento contra a série e as pesquisas antes e depois do pagamento do Bolsa Família
+    qg = NO.quem_ganhou_mais_por_ano(painel)
+    qg.to_csv(RES / "quem_ganhou_mais_por_ano.csv", index=False)
+    resumo["rodada7"] = {"quem_ganhou_mais": qg.to_dict("records"),
+                         "pesquisas_antes_e_depois": NO.pesquisas_antes_e_depois(pd.read_csv(DERIV / "pesquisas_2t_conferidas.csv"))}
     salvar_json(resumo, RES / "RESUMO.json")
     print("ok: resultados/RESUMO.json")
 

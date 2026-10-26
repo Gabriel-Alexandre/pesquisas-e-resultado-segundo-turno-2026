@@ -203,6 +203,12 @@ dv = pd.DataFrame(VD["divisao"])
 dv26 = dv[dv.ano == 2026].iloc[0]
 sims = {x['ano_base']: x for x in VD['simulacao_por_ano']}
 sim22, sim06, sim18 = sims[2022], sims[2006], sims[2018]
+# ------------------------------------------------------------------ rodada 7
+R7 = R["rodada7"]
+qg = pd.DataFrame(R7["quem_ganhou_mais"])
+q26 = qg[qg.ano == 2026].iloc[0]
+pad = R7["pesquisas_antes_e_depois"]
+tab_qg = "\n".join(f"| {int(x.ano)} | {n(x.pt_ganhou_mais_votos_em)} ({br(x.pt_ganhou_mais_votos_em_pct, 0)}%) | {br(x['parte_do_pt_Sul'], 0)}% | {br(x['parte_do_pt_Sudeste'], 0)}% | {br(x['parte_do_pt_Centro-Oeste'], 0)}% | {br(x['parte_do_pt_Nordeste'], 0)}% | {br(x['parte_do_pt_Norte'], 0)}% |" for _, x in qg.iterrows())
 # ------------------------------------------------------------------ RELATÓRIO
 relatorio = f"""# Relatório: as pesquisas, o histórico e a chance do que aconteceu no 2º turno de 2026
 
@@ -262,6 +268,18 @@ A conta da rodada 2 tinha três defeitos. Dois puxavam a chance para cima, e um 
 {tab_ch}
 
 **Veredito:** a chance era **menor do que a rodada 2 disse: cerca de {pct(CH['bayes'])}, perto de 1 em 4**, com ponta de baixo de {pct(CH['independente'])} e o mercado em {pct(CH['mercado'])}. Abaixo de {um_em(CH['independente'])} ela não vai por nenhum dos caminhos calculados aqui: com a frente de {br(p2['frente_flavio_pesquisas'], 1)} ponto nas pesquisas, basta um erro de 2º turno do tamanho que já aconteceu muitas vezes. Ganhar por {br(v['frente_2t_pontos'], 1)} pontos ou mais era mais raro: {pct(CH['bayes_resultado_igual_ou_maior'])} ({um_em(CH['bayes_resultado_igual_ou_maior'])}).
+
+## Rodada 7: o Lula ganhar mais votos que o Flávio em quase todo lugar, e o Bolsa Família nas pesquisas
+
+**É normal o candidato do PT ganhar mais votos que o adversário em tantos municípios, e até no Sul?**
+
+| Eleição | Municípios em que o PT ganhou mais votos que o adversário | Parte do PT no que os dois ganharam: Sul | Sudeste | Centro-Oeste | Nordeste | Norte |
+|---|---|---|---|---|---|---|
+{tab_qg}
+
+Em 2026 o Lula ganhou mais votos que o Flávio em **{n(q26.pt_ganhou_mais_votos_em)} municípios ({br(q26.pt_ganhou_mais_votos_em_pct, 0)}%)**; só 2006 teve mais ({br(qg[qg.ano == 2006].pt_ganhou_mais_votos_em_pct.iloc[0], 0)}%), e em 2022 foram {br(qg[qg.ano == 2022].pt_ganhou_mais_votos_em_pct.iloc[0], 0)}%. **No Sul**, o Lula levou {br(q26['parte_do_pt_Sul'], 0)}% do que os dois ganharam; fora 2006, o PT nunca tinha passado de {br(qg[(qg.ano != 2006) & (qg.ano < 2026)]['parte_do_pt_Sul'].max(), 0)}% ali. **Veredito: fora do padrão, e é a mesma coisa da rodada 5 vista no mapa:** em 2006, o único ano parecido, quem saiu era da esquerda e o adversário perdeu votos; em 2026, quem saiu apoiou o Flávio.
+
+**Se o Bolsa Família tivesse virado votos em escala, as pesquisas de depois do pagamento mostrariam?** O pagamento de outubro foi em 19, 20 e 21/10. Nos {pad['institutos']} institutos com pesquisa antes e depois de 19/10, o Lula subiu em média {sinal(pad['variacao_media'], 2)} ponto dos válidos (média de {br(pad['media_antes'], 1)}% antes e {br(pad['media_depois'], 1)}% depois). A urna deu {br(t2['lula_pct'], 1)}%. O que as pesquisas captaram depois do pagamento é uma fração pequena do que faltou; a virada que elas não viram não aparece nelas como efeito do pagamento. Limite: pesquisa de campo até 24/10 pode não pegar um efeito dos últimos dias.
 
 ## Rodada 6: os vídeos que circularam depois do resultado
 
