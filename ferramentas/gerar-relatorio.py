@@ -139,6 +139,22 @@ if tem_mundo:
     mu_ = HS["por_grupo"].get("presidente, outros países", {})
     mundo_txt = f" Em outros países, {mu_.get('viradas', 0)} viradas em {mu_.get('casos', 0)} segundos turnos presidenciais."
 
+# ------------------------------------------------------------------ de onde vieram os votos
+DO = R["de_onde"]
+AJ = DO["ajustes_2026"]
+A0 = AJ["por região"]
+OL, NL = DO["outros_livres"], DO["novos_livres"]
+GL, GF = DO["ganho_lula_municipios"], DO["ganho_flavio_municipios"]
+faixa = {k: (min(a[k] for a in AJ.values()), max(a[k] for a in AJ.values())) for k in ("dos_outros", "dos_novos", "da_troca")}
+dov = pd.DataFrame(DO["por_ano"])
+ond = pd.DataFrame(DO["por_uf"])
+tab_ajustes = "\n".join(f"| {k} | {mi(a['dos_outros'])} | {mi(a['dos_novos'])} | {mi(a['da_troca'])} |" for k, a in AJ.items())
+top = ond.head(6)
+tab_uf = "\n".join(f"| {x.uf} | +{mi(x.lula_ganhou)} | {br(100 * x.lula_ganhou / GL, 0)}% | +{mi(x.flavio_ganhou)} | {mi(x.outros_livres)} | {mi(x.abstencao_caiu)} |" for x in top.itertuples())
+parte4 = 100 * top.lula_ganhou.sum() / GL
+tab_livres = "\n".join(f"| {int(x.ano)} | {mi(x.livres_no_saldo)} | {br(x.parte_do_pt_nos_livres_pct, 0)}% | {mi(x.pt_da_troca)} |" for x in dov.itertuples())
+d06 = dov[dov.ano == 2006].iloc[0]
+d22 = dov[dov.ano == 2022].iloc[0]
 # ------------------------------------------------------------------ RELATÓRIO
 relatorio = f"""# Relatório: as pesquisas, o histórico e a chance do que aconteceu no 2º turno de 2026
 
@@ -147,6 +163,39 @@ Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`
 ## A resposta curta
 
 **Antes da votação, a chance de o Lula vencer era de cerca de {pct(p2['combinada'])} ({um_em(p2['combinada'])}).** Era a menos provável das duas, mas longe de impossível: um resultado desse tamanho acontece em quase 2 de cada 5 disputas parecidas. A chance de ele vencer **pela diferença que venceu** ({br(v['frente_2t_pontos'], 2)} pontos ou mais) era menor: perto de {pct(PQ['contagem_resultado_igual_ou_maior'])} pelas pesquisas, e nenhum dos 6 padrões do passado chega a ela.
+
+## De onde vieram os 10,38 milhões de votos a mais do Lula
+
+**A conta fecha, voto por voto.** Entre o 1º e o 2º turno ficaram livres {mi(-v['outros_candidatos'] - v['abstencao'] - v['branco_nulo'])} de votos: os {mi(-v['outros_candidatos'])} dos candidatos que saíram, {mi(-v['abstencao'])} de pessoas que não tinham votado e votaram, e {mi(-v['branco_nulo'])} que tinham votado branco ou nulo e escolheram alguém. O Lula ficou com {mi(v['lula'])} e o Flávio com {mi(v['flavio'])}. Soma: {mi(v['ganho_dos_dois'])}, exatamente o que estava livre. **O Lula levou 3 de cada 4 votos que estavam em jogo.**
+
+**De onde veio cada parte** (resultado de 5.571 municípios; o voto é secreto, então é uma estimativa, feita de três jeitos que dão quase o mesmo número):
+
+| Ajuste | Eleitores dos outros candidatos | Quem não tinha votado em ninguém | Eleitores do Flávio que mudaram para o Lula |
+|---|---|---|---|
+{tab_ajustes}
+
+**Resposta direta:**
+1. **Cerca de 6 milhões (de {mi(faixa['dos_outros'][0])} a {mi(faixa['dos_outros'][1])}) vieram de quem votou em outro candidato no 1º turno** (Cury, Renan, Caiado, Zema e os demais). Dos {mi(OL)} desses eleitores, cerca de 2 em cada 3 votaram no Lula.
+2. **Cerca de 3,6 milhões (de {mi(faixa['dos_novos'][0])} a {mi(faixa['dos_novos'][1])}) vieram de quem não tinha votado em ninguém no 1º turno**: quem faltou e voltou a votar, e quem tinha votado branco ou nulo. Dos {mi(NL)} que entraram, cerca de 3 em cada 4 votaram no Lula.
+3. **Quase nada veio de eleitor do Flávio que mudou de lado: de {mi(faixa['da_troca'][0])} a {mi(faixa['da_troca'][1])}.** O método enxerga essa troca quando ela existe: em 2006, ele encontra {mi(d06.pt_da_troca)} de eleitores do Alckmin que foram para o Lula, e foi o ano em que o Alckmin teve menos votos no 2º turno do que no 1º.
+
+**Onde:** {', '.join(top.uf.head(4))} somam {br(100 * top.lula_ganhou.head(4).sum() / GL, 0)}% do ganho do Lula.
+
+| UF | Lula ganhou | Parte do ganho do Lula | Flávio ganhou | Votos dos outros no 1º turno | Abstenção caiu |
+|---|---|---|---|---|---|
+{tab_uf}
+
+**Isso já aconteceu?** O candidato do PT ficar com a maior parte dos votos livres, sim:
+
+| Eleição | Votos livres no saldo | Parte que o PT levou | Eleitores do adversário que mudaram para o PT (estimativa) |
+|---|---|---|---|
+{tab_livres}
+
+Em 2006 o PT levou **mais do que tudo o que estava livre** ({br(d06.parte_do_pt_nos_livres_pct, 0)}%), porque, além dos livres, ganhou eleitores do Alckmin. Em 2022 foi o contrário: o Bolsonaro levou {br(100 - d22.parte_do_pt_nos_livres_pct, 0)}% dos livres e mesmo assim perdeu. **Os 74% de 2026 são o segundo maior da série, abaixo de 2006.**
+
+**Por que isso surpreendeu:** as pesquisas diziam que os eleitores de Renan e de Caiado iam mais para o Flávio, e somando os três maiores o Flávio levaria uns {mi(tp['flavio_receberia'] - tp['lula_receberia']) if tp else ''} a mais. O resultado mostra o contrário: 2 em cada 3 votaram no Lula. Esses cruzamentos das pesquisas usam grupos de 40 a 100 entrevistados, com margem de erro de 10 pontos ou mais, e em 2022 também não acertaram: davam de 42% a 60% do eleitor de Ciro e de Tebet para o Lula, e o Bolsonaro levou {br(100 - d22.parte_do_pt_nos_livres_pct, 0)}% dos votos livres. E o filtro de eleitor provável trabalha contra quem tende a faltar: na Nexus da véspera, tirar os 21% menos propensos a votar baixava o Lula de 49,5% para 47,6%, e foi justamente esse eleitor que voltou a votar.
+
+**O que o dado não separa:** quanto dos 6 milhões veio de cada candidato. Os eleitores de Cury, Renan e Caiado estão misturados nos mesmos municípios, e o ajuste candidato por candidato fica instável (`resultados/de_onde_vieram_por_candidato_2026.csv`). O total dos três juntos é estável.
 
 ## 1. Como a chance foi calculada
 
@@ -308,6 +357,16 @@ O mapa das alegações (quem disse, onde, com o link) está em `dados/agentes/al
 (RAIZ / "RELATORIO.md").write_text(relatorio, encoding="utf-8")
 
 simples = f"""# Resumo simples (rodada 2)
+
+## De onde vieram os 10,38 milhões de votos a mais do Lula
+
+| Origem | Votos para o Lula | De quantos estavam livres |
+|---|---|---|
+| Eleitores dos outros candidatos (Cury, Renan, Caiado, Zema e outros) | cerca de 6 milhões | de {mi(OL)}: 2 em cada 3 votaram no Lula |
+| Quem não tinha votado em ninguém no 1º turno (faltou, branco ou nulo) | cerca de 3,6 milhões | de {mi(NL)}: 3 em cada 4 votaram no Lula |
+| Eleitores do Flávio que mudaram | menos de 0,6 milhão | quase nada |
+
+A conta fecha: estavam livres {mi(v['ganho_dos_dois'])}, o Lula levou {mi(v['lula'])} e o Flávio {mi(v['flavio'])}. SP, MG, RJ e BA somam metade do ganho do Lula. Levar 74% dos votos livres já aconteceu: em 2006, o PT levou mais do que tudo o que estava livre.
 
 ## A pergunta: qual era a chance do que aconteceu?
 

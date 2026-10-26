@@ -1,5 +1,15 @@
 # Resumo simples (rodada 2)
 
+## De onde vieram os 10,38 milhões de votos a mais do Lula
+
+| Origem | Votos para o Lula | De quantos estavam livres |
+|---|---|---|
+| Eleitores dos outros candidatos (Cury, Renan, Caiado, Zema e outros) | cerca de 6 milhões | de 9,29 milhões: 2 em cada 3 votaram no Lula |
+| Quem não tinha votado em ninguém no 1º turno (faltou, branco ou nulo) | cerca de 3,6 milhões | de 4,74 milhões: 3 em cada 4 votaram no Lula |
+| Eleitores do Flávio que mudaram | menos de 0,6 milhão | quase nada |
+
+A conta fecha: estavam livres 14,10 milhões, o Lula levou 10,38 milhões e o Flávio 3,72 milhões. SP, MG, RJ e BA somam metade do ganho do Lula. Levar 74% dos votos livres já aconteceu: em 2006, o PT levou mais do que tudo o que estava livre.
+
 ## A pergunta: qual era a chance do que aconteceu?
 
 **Cerca de 39%, ou 1 em 2,5, de o Lula vencer**, com o que se sabia no sábado. Era a menos provável das duas, mas longe de impossível.

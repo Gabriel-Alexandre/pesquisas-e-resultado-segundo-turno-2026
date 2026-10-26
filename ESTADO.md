@@ -13,9 +13,9 @@ Rodada 2 publicada: a chance do que aconteceu em três pilares com os pesos do v
 | Resultado oficial dos dois turnos (país, UFs, 5.571 municípios), governador | `dados/derivados/` (brutos fora do git, hash no manifesto) |
 | 54 pesquisas de 2º turno, 53 conferidas no registro do TSE e numa segunda fonte | `dados/derivados/pesquisas_2t_conferidas.csv` |
 | Contas | `resultados/RESUMO.json` e as tabelas em `resultados/` |
-| Validação independente | 17 de 17 (`resultados/validacao_independente.csv`) |
+| Validação independente | 18 de 18 (`resultados/validacao_independente.csv`) |
 | Relatório, resumo, leitura das duas lentes | `RELATORIO.md`, `RESUMO_SIMPLES.md`, `docs/LEITURA_DA_IA.md` |
-| 17 gráficos 1920x1080 | `resultados/figuras/` |
+| 19 gráficos 1920x1080 | `resultados/figuras/` |
 | Pesquisas de apoio (alegações, erro das pesquisas no mundo, cruzamento do voto do 1º turno) | `dados/agentes/`, conferidas em `dados/derivados/*_conferido*.csv` por `ferramentas/conferir-agentes.py` |
 
 ## Próxima rodada

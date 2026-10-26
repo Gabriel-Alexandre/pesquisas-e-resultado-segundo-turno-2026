@@ -136,6 +136,21 @@ def main() -> None:
                                   "mercado": pr["polymarket_lula_vespera"], "sensibilidade": sens,
                                   "soma_ingenua": A.soma_ingenua({"pesquisas": pil["pesquisas"], "historico": pr["historico_laplace"],
                                                                   "minas": 1 / 10, "mercado": pr["polymarket_lula_vespera"]}, combinada)}
+    # de onde vieram os votos: as três origens, por eleição, por UF e por candidato eliminado
+    dov = HI.de_onde_vieram(painel)
+    ond = HI.onde(painel)
+    pc = HI.por_candidato_2026()
+    dov.to_csv(RES / "de_onde_vieram_por_ano.csv", index=False)
+    ond.to_csv(RES / "de_onde_vieram_por_uf_2026.csv", index=False)
+    pc.to_csv(RES / "de_onde_vieram_por_candidato_2026.csv", index=False)
+    d26 = dov[dov.ano == 2026].iloc[0]
+    ajustes = {"por região": (d26.pt_dos_outros, d26.pt_dos_novos, d26.pt_da_troca - d26.pt_perdeu_na_troca),
+               "país inteiro": (d26.pais_pt_dos_outros, d26.pais_pt_dos_novos, d26.pais_pt_da_troca),
+               "estado por estado": tuple(float(ond[k].sum()) for k in ("pt_dos_outros", "pt_dos_novos", "pt_da_troca"))}
+    resumo["de_onde"] = {"por_ano": dov.to_dict("records"), "por_uf": ond.to_dict("records"), "por_candidato": pc.to_dict("records"),
+                         "ajustes_2026": {k: {"dos_outros": float(a_), "dos_novos": float(b_), "da_troca": float(c_)} for k, (a_, b_, c_) in ajustes.items()},
+                         "outros_livres": float(d26.outros_livres), "novos_livres": float(d26.novos_livres),
+                         "ganho_lula_municipios": float(d26.ganho_pt), "ganho_flavio_municipios": float(d26.ganho_adversario)}
     cz = DERIV / "cruzamento_voto_1t_conferido.csv"
     if cz.exists():
         t1 = r["t1"]

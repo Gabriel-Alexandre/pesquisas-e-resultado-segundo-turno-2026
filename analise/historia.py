@@ -192,3 +192,106 @@ def exterior(p_dir) -> pd.DataFrame:
         linha[f"{nome}_variacao"] = linha[f"{nome}_pt_2t"] - linha[f"{nome}_pt_1t"]
     out.append(linha)
     return pd.DataFrame(out)
+
+
+REGIAO_UF = {"AC": "Norte", "AM": "Norte", "AP": "Norte", "PA": "Norte", "RO": "Norte", "RR": "Norte", "TO": "Norte",
+             "AL": "Nordeste", "BA": "Nordeste", "CE": "Nordeste", "MA": "Nordeste", "PB": "Nordeste", "PE": "Nordeste",
+             "PI": "Nordeste", "RN": "Nordeste", "SE": "Nordeste", "DF": "Centro-Oeste", "GO": "Centro-Oeste",
+             "MS": "Centro-Oeste", "MT": "Centro-Oeste", "ES": "Sudeste", "MG": "Sudeste", "RJ": "Sudeste", "SP": "Sudeste",
+             "PR": "Sul", "RS": "Sul", "SC": "Sul"}
+
+
+def _origens(m: pd.DataFrame) -> dict:
+    """De onde veio o ganho de cada candidato num grupo de municípios, por mínimos quadrados com restrição.
+
+    Em cada município, o que estava livre para o 2º turno são os votos dos outros candidatos (O) e os eleitores que não
+    tinham votado em ninguém no 1º turno e votaram no 2º (N: queda da abstenção mais queda de branco e nulo). O ganho do
+    PT é x·O + y·N + s·(votos do adversário no 1º turno) − s2·(votos do PT no 1º turno), e o do adversário é o resto,
+    ao contrário. x, y, s e s2 ficam entre 0 e 1 e são os mesmos em todos os municípios do grupo; o que varia de um
+    município para outro (quanto cada um tinha de cada origem) é o que permite separar as quatro coisas."""
+    from scipy.optimize import lsq_linear
+    e = m.aptos1.to_numpy(float)
+    O = (m.out1 - m.out2).to_numpy() / e
+    N = ((m.abs1 - m.abs2) + (m.bn1 - m.bn2)).to_numpy() / e
+    A1, P1 = m.anti1.to_numpy() / e, m.pt1.to_numpy() / e
+    gp, ga = (m.pt2 - m.pt1).to_numpy() / e, (m.anti2 - m.anti1).to_numpy() / e
+    w = np.sqrt(e / e.mean())
+    X = np.vstack([np.column_stack([O, N, A1, -P1]) * w[:, None], np.column_stack([-O, -N, -A1, P1]) * w[:, None]])
+    Y = np.concatenate([gp * w, (ga - O - N) * w])
+    x, y, s, s2 = lsq_linear(X, Y, bounds=([0, 0, 0, 0], [1, 1, 0.5, 0.5])).x
+    return {"pt_dos_outros": float((x * O * e).sum()), "pt_dos_novos": float((y * N * e).sum()),
+            "pt_da_troca": float((s * A1 * e).sum()), "pt_perdeu_na_troca": float((s2 * P1 * e).sum()),
+            "outros_livres": float((O * e).sum()), "novos_livres": float((N * e).sum()),
+            "x": float(x), "y": float(y), "s": float(s), "s2": float(s2)}
+
+
+def de_onde_vieram(p: pd.DataFrame) -> pd.DataFrame:
+    """Para cada eleição: o ganho do PT do 1º para o 2º turno separado em (1) eleitores dos outros candidatos, (2) quem
+    não tinha votado em ninguém e votou, (3) eleitores do adversário que mudaram, menos (4) eleitores do PT que mudaram
+    para o adversário. Ajuste por região, somado no país, e conferido contra o ganho observado."""
+    out = []
+    for ano, m in p.groupby("ano"):
+        tot = {}
+        for _, g in m.assign(r=m.uf.map(REGIAO_UF)).groupby("r"):
+            for k, val in _origens(g).items():
+                if k in ("x", "y", "s", "s2"):
+                    continue
+                tot[k] = tot.get(k, 0.0) + val
+        nac = _origens(m)
+        livres = (m.out1 - m.out2).sum() + (m.abs1 - m.abs2).sum() + (m.bn1 - m.bn2).sum()
+        out.append({"ano": int(ano), "ganho_pt": float((m.pt2 - m.pt1).sum()), "ganho_adversario": float((m.anti2 - m.anti1).sum()),
+                    "livres_no_saldo": float(livres), "parte_do_pt_nos_livres_pct": float(100 * (m.pt2 - m.pt1).sum() / livres),
+                    **tot, "pais_x": nac["x"], "pais_y": nac["y"], "pais_s": nac["s"], "pais_s2": nac["s2"],
+                    "pais_pt_dos_outros": nac["pt_dos_outros"], "pais_pt_dos_novos": nac["pt_dos_novos"], "pais_pt_da_troca": nac["pt_da_troca"]})
+    return pd.DataFrame(out)
+
+
+def onde(p: pd.DataFrame) -> pd.DataFrame:
+    """2026, por UF: o ganho do Lula e de onde veio, pelo mesmo ajuste feito só com os municípios de cada UF."""
+    m = p[p.ano == 2026]
+    out = []
+    for uf, g in m.groupby("uf"):
+        o = _origens(g) if len(g) >= 15 else None
+        out.append({"uf": uf, "regiao": REGIAO_UF[uf], "lula_ganhou": float((g.pt2 - g.pt1).sum()), "flavio_ganhou": float((g.anti2 - g.anti1).sum()),
+                    "outros_livres": float((g.out1 - g.out2).sum()), "abstencao_caiu": float((g.abs1 - g.abs2).sum()),
+                    "branco_nulo_caiu": float((g.bn1 - g.bn2).sum()),
+                    **({k: o[k] for k in ("pt_dos_outros", "pt_dos_novos", "pt_da_troca")} if o else {})})
+    return pd.DataFrame(out).sort_values("lula_ganhou", ascending=False)
+
+
+def por_candidato_2026() -> pd.DataFrame:
+    """2026: o mesmo ajuste, com uma proporção separada para o eleitor de cada candidato eliminado (Cury, Renan, Caiado,
+    Zema e os demais), por região e somado no país, e também para o país inteiro de uma vez."""
+    from scipy.optimize import lsq_linear
+    mu = pd.read_csv(DERIV / "presidente_municipio.csv", dtype={"cd_tse": str})
+    mu = mu[mu.uf != "zz"].copy()
+    mu["r"] = mu.uf.str.upper().map(REGIAO_UF)
+    grupos = ["cury_1t", "renan_1t", "caiado_1t", "zema_1t", "outros_1t"]
+
+    def ajusta(m):
+        e = m.eleitores_1t.to_numpy(float)
+        cols = [m[g].to_numpy() / e for g in grupos]
+        N = ((m.abstencao_1t - m.abstencao_2t) + (m.brancos_1t + m.nulos_1t - m.brancos_2t - m.nulos_2t)).to_numpy() / e
+        A1, P1 = m.flavio_1t.to_numpy() / e, m.lula_1t.to_numpy() / e
+        gp, ga = (m.lula_2t - m.lula_1t).to_numpy() / e, (m.flavio_2t - m.flavio_1t).to_numpy() / e
+        w = np.sqrt(e / e.mean())
+        X1 = np.column_stack(cols + [N, A1, -P1])
+        X2 = np.column_stack([-c for c in cols] + [-N, -A1, P1])
+        Y2 = ga - sum(cols) - N
+        X = np.vstack([X1 * w[:, None], X2 * w[:, None]])
+        Y = np.concatenate([gp * w, Y2 * w])
+        b = lsq_linear(X, Y, bounds=([0] * 8, [1] * 6 + [0.5, 0.5])).x
+        return {g: float((b[i] * cols[i] * e).sum()) for i, g in enumerate(grupos)} | {
+            "novos": float((b[5] * N * e).sum()), "troca": float((b[6] * A1 * e).sum())}
+
+    reg = {}
+    for _, g in mu.groupby("r"):
+        for k, v in ajusta(g).items():
+            reg[k] = reg.get(k, 0) + v
+    nac = ajusta(mu)
+    out = []
+    for g in grupos + ["novos", "troca"]:
+        base = float(mu[g].sum()) if g in grupos else None
+        out.append({"origem": g.replace("_1t", ""), "votos_no_1t": base, "lula_por_regiao": reg[g], "lula_pais": nac[g],
+                    "lula_pct_por_regiao": 100 * reg[g] / base if base else None, "lula_pct_pais": 100 * nac[g] / base if base else None})
+    return pd.DataFrame(out)

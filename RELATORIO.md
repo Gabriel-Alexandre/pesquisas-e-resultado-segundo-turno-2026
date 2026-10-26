@@ -6,6 +6,52 @@ Gerado por `ferramentas/gerar-relatorio.py` a partir de `resultados/RESUMO.json`
 
 **Antes da votação, a chance de o Lula vencer era de cerca de 39% (1 em 2,5).** Era a menos provável das duas, mas longe de impossível: um resultado desse tamanho acontece em quase 2 de cada 5 disputas parecidas. A chance de ele vencer **pela diferença que venceu** (3,57 pontos ou mais) era menor: perto de 20% pelas pesquisas, e nenhum dos 6 padrões do passado chega a ela.
 
+## De onde vieram os 10,38 milhões de votos a mais do Lula
+
+**A conta fecha, voto por voto.** Entre o 1º e o 2º turno ficaram livres 14,10 milhões de votos: os 9,32 milhões dos candidatos que saíram, 2,96 milhões de pessoas que não tinham votado e votaram, e 1,82 milhões que tinham votado branco ou nulo e escolheram alguém. O Lula ficou com 10,38 milhões e o Flávio com 3,72 milhões. Soma: 14,10 milhões, exatamente o que estava livre. **O Lula levou 3 de cada 4 votos que estavam em jogo.**
+
+**De onde veio cada parte** (resultado de 5.571 municípios; o voto é secreto, então é uma estimativa, feita de três jeitos que dão quase o mesmo número):
+
+| Ajuste | Eleitores dos outros candidatos | Quem não tinha votado em ninguém | Eleitores do Flávio que mudaram para o Lula |
+|---|---|---|---|
+| por região | 6,56 milhões | 3,55 milhões | 0,14 milhões |
+| país inteiro | 6,01 milhões | 3,79 milhões | 0,21 milhões |
+| estado por estado | 5,79 milhões | 3,83 milhões | 0,56 milhões |
+
+**Resposta direta:**
+1. **Cerca de 6 milhões (de 5,79 milhões a 6,56 milhões) vieram de quem votou em outro candidato no 1º turno** (Cury, Renan, Caiado, Zema e os demais). Dos 9,29 milhões desses eleitores, cerca de 2 em cada 3 votaram no Lula.
+2. **Cerca de 3,6 milhões (de 3,55 milhões a 3,83 milhões) vieram de quem não tinha votado em ninguém no 1º turno**: quem faltou e voltou a votar, e quem tinha votado branco ou nulo. Dos 4,74 milhões que entraram, cerca de 3 em cada 4 votaram no Lula.
+3. **Quase nada veio de eleitor do Flávio que mudou de lado: de 0,14 milhões a 0,56 milhões.** O método enxerga essa troca quando ela existe: em 2006, ele encontra 3,85 milhões de eleitores do Alckmin que foram para o Lula, e foi o ano em que o Alckmin teve menos votos no 2º turno do que no 1º.
+
+**Onde:** SP, MG, RJ, BA somam 53% do ganho do Lula.
+
+| UF | Lula ganhou | Parte do ganho do Lula | Flávio ganhou | Votos dos outros no 1º turno | Abstenção caiu |
+|---|---|---|---|---|---|
+| SP | +2,61 milhões | 25% | +1,22 milhões | 2,46 milhões | 0,93 milhões |
+| MG | +1,16 milhões | 11% | +0,46 milhões | 1,01 milhões | 0,41 milhões |
+| RJ | +0,87 milhões | 8% | +0,20 milhões | 0,71 milhões | 0,22 milhões |
+| BA | +0,82 milhões | 8% | +0,17 milhões | 0,45 milhões | 0,37 milhões |
+| PE | +0,56 milhões | 5% | +0,09 milhões | 0,31 milhões | 0,22 milhões |
+| RS | +0,53 milhões | 5% | +0,30 milhões | 0,55 milhões | 0,19 milhões |
+
+**Isso já aconteceu?** O candidato do PT ficar com a maior parte dos votos livres, sim:
+
+| Eleição | Votos livres no saldo | Parte que o PT levou | Eleitores do adversário que mudaram para o PT (estimativa) |
+|---|---|---|---|
+| 2002 | 27,00 milhões | 49% | 0,00 milhões |
+| 2006 | 9,20 milhões | 126% | 3,85 milhões |
+| 2010 | 18,65 milhões | 43% | 0,00 milhões |
+| 2014 | 27,33 milhões | 41% | 0,00 milhões |
+| 2018 | 24,17 milhões | 65% | 0,05 milhões |
+| 2022 | 10,18 milhões | 30% | 0,00 milhões |
+| 2026 | 14,03 milhões | 74% | 0,14 milhões |
+
+Em 2006 o PT levou **mais do que tudo o que estava livre** (126%), porque, além dos livres, ganhou eleitores do Alckmin. Em 2022 foi o contrário: o Bolsonaro levou 70% dos livres e mesmo assim perdeu. **Os 74% de 2026 são o segundo maior da série, abaixo de 2006.**
+
+**Por que isso surpreendeu:** as pesquisas diziam que os eleitores de Renan e de Caiado iam mais para o Flávio, e somando os três maiores o Flávio levaria uns 0,73 milhões a mais. O resultado mostra o contrário: 2 em cada 3 votaram no Lula. Esses cruzamentos das pesquisas usam grupos de 40 a 100 entrevistados, com margem de erro de 10 pontos ou mais, e em 2022 também não acertaram: davam de 42% a 60% do eleitor de Ciro e de Tebet para o Lula, e o Bolsonaro levou 70% dos votos livres. E o filtro de eleitor provável trabalha contra quem tende a faltar: na Nexus da véspera, tirar os 21% menos propensos a votar baixava o Lula de 49,5% para 47,6%, e foi justamente esse eleitor que voltou a votar.
+
+**O que o dado não separa:** quanto dos 6 milhões veio de cada candidato. Os eleitores de Cury, Renan e Caiado estão misturados nos mesmos municípios, e o ajuste candidato por candidato fica instável (`resultados/de_onde_vieram_por_candidato_2026.csv`). O total dos três juntos é estável.
+
 ## 1. Como a chance foi calculada
 
 Três pilares, cada um medindo a chance de um jeito diferente, com **os pesos que o autor escolheu para a projeção do vídeo longo 14** (pesquisas pesam mais porque são a medida mais direta e mais recente; o histórico pesa menos porque tem poucos casos de presidente; o crescimento pesa menos ainda porque depende de um modelo de transferência de votos, que é a parte mais frágil):

@@ -17,6 +17,10 @@ O que mudou, pelo retorno dele (*"faltou mais criticidade no sentido de analisar
 
 O texto abaixo foi o registro da interrupção pelo limite de uso, mantido como histórico.
 
+## Rodada 3 · 26/10/2026 (de onde vieram os 10,38 milhões)
+
+Pedido dele: *"de onde veio os 10 milhões de votos que o Lula teve a mais [...] Você tá ficando muito em cima do muro"*. Entrou no topo do relatório a conta das três origens (eleitores dos outros candidatos, quem não tinha votado em ninguém, eleitores do Flávio que mudaram), por três ajustes que concordam, com o teste do método em 2006 (quando a troca de voto existiu e ele a encontra), a parte dos votos livres que o PT levou em cada eleição e onde o ganho aconteceu.
+
 ### Registro da interrupção
 
 Pedido dele: a rodada 1 ficou superficial; faltou contexto histórico (as pesquisas já erraram tanto?), a probabilidade explicada com pesos e o porquê, e mais suposições testadas na lente da fraude.

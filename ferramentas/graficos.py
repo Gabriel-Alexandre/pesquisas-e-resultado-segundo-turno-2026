@@ -446,6 +446,58 @@ def g15_transferencia_por_ano(R):
     salvar(fig, "g15_outros_candidatos_por_ano.png")
 
 
+def g18_de_onde_vieram_os_10_milhoes(R):
+    d = R["de_onde"]
+    a = d["ajustes_2026"]["por região"]
+    gl, gf = d["ganho_lula_municipios"], d["ganho_flavio_municipios"]
+    O, N = d["outros_livres"], d["novos_livres"]
+    lula = [a["dos_outros"], a["dos_novos"], a["da_troca"]]
+    flavio = [O - a["dos_outros"], N - a["dos_novos"], -a["da_troca"]]
+    fig = figura("De onde vieram os votos a mais do Lula",
+                 "Ganho do 1º para o 2º turno, separado pela origem (municípios do Brasil; ajuste por região)")
+    ax = fig.add_axes([0.2, 0.16, 0.74, 0.62])
+    cores = [OUTROS, "#8A8A8A", COR["flavio"]]
+    nomes = ["eleitores dos outros candidatos", "quem não tinha votado em ninguém", "eleitores do Flávio que mudaram"]
+    for yi, (vals, quem) in enumerate([(flavio, "Flávio"), (lula, "Lula")]):
+        esq = 0
+        for v, c, nome in zip(vals, cores, nomes):
+            if v <= 0:
+                continue
+            ax.barh(yi, v / 1e6, left=esq, color=c, height=0.55, edgecolor=FUNDO, linewidth=3)
+            if v > 4e5:
+                ax.text(esq + v / 2e6, yi, br(v / 1e6, 1), ha="center", va="center", fontsize=24, color="white", weight="bold")
+            esq += v / 1e6
+        total = gl if quem == "Lula" else gf
+        ax.text(esq + 0.15, yi, f"+{br(total / 1e6, 2)} mi", va="center", fontsize=26, weight="bold", color=TINTA)
+    ax.set_yticks([0, 1], ["Flávio", "Lula"], fontsize=28)
+    ax.set_xlim(0, 12)
+    ax.set_xlabel("milhões de votos")
+    for i, (c, nome) in enumerate(zip(cores, nomes)):
+        fig.text(0.2 + i * 0.26, 0.83, "■", color=c, fontsize=24)
+        fig.text(0.215 + i * 0.26, 0.83, nome, color=TINTA, fontsize=18)
+    rodape(fig, "TSE, resultado por município nos dois turnos; ajuste com restrição por região (resultados/de_onde_vieram_por_ano.csv)")
+    salvar(fig, "g18_de_onde_vieram_os_votos_do_lula.png")
+
+
+def g19_parte_dos_livres_por_ano(R):
+    d = pd.DataFrame(R["de_onde"]["por_ano"])
+    fig = figura("Quanto dos votos livres o PT levou em cada 2º turno",
+                 "Ganho do PT do 1º para o 2º turno, como parte dos votos livres (outros, abstenção, branco e nulo)")
+    ax = fig.add_axes([0.08, 0.14, 0.86, 0.66])
+    x = np.arange(len(d))
+    ax.bar(x, d.parte_do_pt_nos_livres_pct, color=[COR["lula"] if a == 2026 else COR["base"] for a in d.ano], width=0.6)
+    for i, r in enumerate(d.itertuples()):
+        ax.text(i, r.parte_do_pt_nos_livres_pct + 2, f"{br(r.parte_do_pt_nos_livres_pct, 0)}%", ha="center", fontsize=24, weight="bold", color=TINTA)
+    ax.axhline(50, color=TINTA2, lw=1.5)
+    ax.set_xticks(x, [str(a) for a in d.ano], fontsize=24)
+    ax.set_ylim(0, 140)
+    ax.set_yticks([])
+    ax.spines["left"].set_visible(False)
+    ax.text(1.45, 118, "2006: mais de 100%, porque\no Alckmin perdeu votos", ha="left", fontsize=18, color=TINTA2)
+    rodape(fig, "TSE, resultado por município, 2002 a 2026")
+    salvar(fig, "g19_parte_do_pt_nos_votos_livres.png")
+
+
 def n0(x: float) -> str:
     return br(x, 0)
 
@@ -460,7 +512,7 @@ def main() -> None:
         f(R)
 
 
-EXTRAS: list = [g16_erro_pesquisas_historico, g17_soma_ingenua]
+EXTRAS: list = [g16_erro_pesquisas_historico, g17_soma_ingenua, g18_de_onde_vieram_os_10_milhoes, g19_parte_dos_livres_por_ano]
 
 
 if __name__ == "__main__":
